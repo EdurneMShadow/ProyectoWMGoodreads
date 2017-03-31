@@ -1,0 +1,346 @@
+status: 200
+x-request-id: 6WTDNN5TRWEA50V94JAK
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=183792707&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhg5MzgtODY3MDkzNS03NDQ1ODc2BjoGRVQ%3D--f22115168be1aa8bd34d349241f2f1eda6f17979;
+ path=/; expires=Tue, 31 Mar 2037 20:08:11 -0000, locale=es;
+ path=/, _session_id2=309dab0b773f0cef55a257550ce549e5; path=/;
+ expires=Sat, 01 Apr 2017 02:08:12 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 13254
+server: Server
+x-runtime: 1.104190
+etag: W/"27809b9145dd129612be8f13ee62aa04"
+cache-control: max-age=0, private, must-revalidate
+date: Fri, 31 Mar 2017 20:08:12 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>183792707</id>
+    
+  <user>
+    <id>4341680</id>
+    <name>Ij</name>
+    <display_name>Ij</display_name>
+
+    <location>Montgomery Village, MD</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4341680-ij]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1489492255p3/4341680.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1489492255p2/4341680.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">76847</id>
+  <isbn>0452282152</isbn>
+  <isbn13>9780452282155</isbn13>
+  <text_reviews_count type="integer">661</text_reviews_count>
+  <title>Girl With a Pearl Earring</title>
+  <title_without_series>Girl With a Pearl Earring</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1309287672m/76847.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1309287672s/76847.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/76847.Girl_With_a_Pearl_Earring</link>
+  <num_pages>233</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day/>
+  <publication_year>2001</publication_year>
+  <publication_month/>
+  <average_rating>3.84</average_rating>
+  <ratings_count>474508</ratings_count>
+  <description>&lt;p&gt;History and fiction merge seamlessly in Tracy Chevalier's luminous novel about artistic vision and sensual awakening. Through the eyes of sixteen-year-old Griet, the world of 1660s Holland comes dazzlingly alive in this richly imagined portrait of the young woman who inspired one of Vermeer's most celebrated paintings.&lt;/p&gt;</description>
+<authors>
+<author>
+<id>1973</id>
+<name>Tracy Chevalier</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1439297099p5/1973.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1439297099p2/1973.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1973.Tracy_Chevalier]]></link>
+<average_rating>3.80</average_rating>
+<ratings_count>628168</ratings_count>
+<text_reviews_count>22238</text_reviews_count>
+</author>
+</authors>
+  <published>2001</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">37170690</id>
+          <page type="integer">149</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Jan 04 05:20:23 -0800 2014</created_at>
+          <updated_at type="datetime">Sat Jan 04 05:20:23 -0800 2014</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">63</percent>
+          <work_id type="integer">3358875</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">37166400</id>
+          <page type="integer">125</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Jan 04 02:06:33 -0800 2014</created_at>
+          <updated_at type="datetime">Sat Jan 04 02:06:33 -0800 2014</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">53</percent>
+          <work_id type="integer">3358875</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">37116864</id>
+          <page type="integer">76</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Jan 03 05:05:48 -0800 2014</created_at>
+          <updated_at type="datetime">Fri Jan 03 05:05:48 -0800 2014</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">32</percent>
+          <work_id type="integer">3358875</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">37059373</id>
+          <page type="integer">40</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Jan 02 04:10:04 -0800 2014</created_at>
+          <updated_at type="datetime">Thu Jan 02 04:10:10 -0800 2014</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">17</percent>
+          <work_id type="integer">3358875</work_id>
+          <note_uri>kca://note/amzn1.grok.note.6203054013ad564436b1983e3c244f81</note_uri>
+          <note_updated_at type="datetime">Thu Jan 02 04:10:10 -0800 2014</note_updated_at>
+          <body><![CDATA[The artist and painting around which this book is written is currently on exhibition in New York, at the Frick Collection. The exhibition is scheduled to be there until January 19, 2014.<br /><br /> Vermeer, Rembrandt, and Hals: Masterpieces of Dutch Painting from the Mauritshuis<br /><br /> <a target="_blank" href="http://www.frick.org//exhibitions/mauritshuis#sthash.FfkeRfgr.dpuf" rel="nofollow">http://www.frick.org//exhibitions/mau...</a>]]></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">268673949</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Jan 05 05:10:44 -0800 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">263262693</id>
+          <old_status>to-read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Wed Jan 01 21:01:11 -0800 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>4</rating>
+  <votes>28</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="fiction" exclusive="false" review_shelf_id="586656998" sortable="false" />
+    <shelf name="historical-fiction" exclusive="false" review_shelf_id="152268485" sortable="false" />
+    <shelf name="art" exclusive="false" review_shelf_id="694759305" sortable="false" />
+    <shelf name="romance" exclusive="false" review_shelf_id="589926595" sortable="false" />
+    <shelf name="2014" exclusive="false" review_shelf_id="590138024" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Jan 01 00:00:00 -0800 2014</started_at>
+  <read_at>Sun Jan 05 00:00:00 -0800 2014</read_at>
+  <date_added>Sun Jul 10 17:58:38 -0700 2011</date_added>
+  <date_updated>Sat Jan 11 22:31:10 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<b>Girl with a Pearl Earring</b><br /><br />Tracy Chevalier<br /><br />Plume, 2001<br /><br />The “Girl with a Pearl Earring” is a painting done by Dutch painter Johannes Vermeer, around 1665. Not much is known about Vermeer which gives Chevalier creative license to develop what I believe is an interesting story. The painting is currently...]]>
+  </body>
+
+  
+
+  <comments_count>6</comments_count>
+    <comments start="1" end="6" total="6">
+        <comment>
+  <id>90343685</id>
+  <body><![CDATA[I also liked this book but I didn't love it. It stretched my powers of belief too much at times. Her "impossible" situation made me sympathize with her.]]></body>
+  
+  <user>
+    <id>3367337</id>
+    <name>Barbara</name>
+    <display_name>Barbara Mitchell</display_name>
+
+    <location>Hallstead, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3367337-barbara-mitchell]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1268923466p3/3367337.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1268923466p2/3367337.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 09 07:22:23 -0800 2014</created_at>
+  <updated_at>Thu Jan 09 07:22:23 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90348645</id>
+  <body><![CDATA[I agree a lot of the story is a stretch. I'm a sucker for a happy ending.]]></body>
+  
+  <user>
+    <id>4341680</id>
+    <name>Ij</name>
+    <display_name>Ij</display_name>
+
+    <location>Montgomery Village, MD</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4341680-ij]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1489492255p3/4341680.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1489492255p2/4341680.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 09 08:55:07 -0800 2014</created_at>
+  <updated_at>Thu Jan 09 08:55:07 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90463841</id>
+  <body><![CDATA[I really like your review Ij but I'm not too sure that I would like to read this book.]]></body>
+  
+  <user>
+    <id>15736557</id>
+    <name>Lynne</name>
+    <display_name>Lynne King</display_name>
+
+    <location>France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15736557-lynne-king]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1357126217p3/15736557.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1357126217p2/15736557.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 11 02:24:02 -0800 2014</created_at>
+  <updated_at>Sat Jan 11 02:24:02 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90469384</id>
+  <body><![CDATA[<i>Lynne wrote: "I really like your review Ij but I'm not too sure that I would like to read this book."</i><br /><br />Thanks, Lynne. <br /><br />The book is written in simple language and gives one the feel of how things might have been in 1665. I think it is very much a book written for teens and young-adults. It is definitely, not everyones cup of tea.]]></body>
+  
+  <user>
+    <id>4341680</id>
+    <name>Ij</name>
+    <display_name>Ij</display_name>
+
+    <location>Montgomery Village, MD</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4341680-ij]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1489492255p3/4341680.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1489492255p2/4341680.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 11 06:17:23 -0800 2014</created_at>
+  <updated_at>Sat Jan 11 06:17:23 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>98701263</id>
+  <body><![CDATA[Seems like a very thoughtful review to me = )]]></body>
+  
+  <user>
+    <id>22591633</id>
+    <name>Zanna</name>
+    <display_name>Zanna</display_name>
+
+    <location><![CDATA[London (originally Lincolnshire), The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22591633-zanna]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1375107718p3/22591633.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1375107718p2/22591633.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 18 03:09:01 -0700 2014</created_at>
+  <updated_at>Sun May 18 03:09:01 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>98713869</id>
+  <body><![CDATA[<i>Zanna wrote: "Seems like a very thoughtful review to me = )"</i><br /><br /><br />Thanks!]]></body>
+  
+  <user>
+    <id>4341680</id>
+    <name>Ij</name>
+    <display_name>Ij</display_name>
+
+    <location>Montgomery Village, MD</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4341680-ij]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1489492255p3/4341680.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1489492255p2/4341680.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 18 09:24:22 -0700 2014</created_at>
+  <updated_at>Sun May 18 09:24:22 -0700 2014</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/183792707]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/183792707]]></link>
+    <owned>1</owned>
+</review>
+
+
+</GoodreadsResponse>

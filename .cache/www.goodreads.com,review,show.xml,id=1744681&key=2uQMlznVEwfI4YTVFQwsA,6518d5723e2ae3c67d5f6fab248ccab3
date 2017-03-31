@@ -1,0 +1,1225 @@
+status: 200
+x-request-id: WC5FEPEYNM88Y8B5KREZ
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=1744681&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhgyOTMtNzgyMjI4MC03MDY0Njg5BjoGRVQ%3D--58922511126d74293b2db0c7325bcb58348d16b9;
+ path=/; expires=Tue, 31 Mar 2037 20:36:36 -0000, locale=es;
+ path=/, _session_id2=4417c4bfe6efeb5b793ac1306d3cbb80; path=/;
+ expires=Sat, 01 Apr 2017 02:36:37 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 57116
+server: Server
+x-runtime: 0.471790
+etag: W/"5f96993b13833f19c341e0cafaa7b5bc"
+cache-control: max-age=0, private, must-revalidate
+date: Fri, 31 Mar 2017 20:36:37 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1744681</id>
+    
+  <user>
+    <id>121445</id>
+    <name>Nicola</name>
+    <display_name>Nicola</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/121445-nicola]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1182530112p3/121445.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1182530112p2/121445.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">41865</id>
+  <isbn>0316015849</isbn>
+  <isbn13>9780316015844</isbn13>
+  <text_reviews_count type="integer">89343</text_reviews_count>
+  <title>Twilight (Twilight, #1)</title>
+  <title_without_series>Twilight</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1361039443m/41865.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1361039443s/41865.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/41865.Twilight</link>
+  <num_pages>498</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Little, Brown and Company</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.57</average_rating>
+  <ratings_count>3786459</ratings_count>
+  <description>&lt;b&gt;About three things I was absolutely positive.&lt;br /&gt;&lt;br /&gt;First, Edward was a vampire.&lt;br /&gt;&lt;br /&gt;Second, there was a part of him—and I didn't know how dominant that part might be—that thirsted for my blood.&lt;br /&gt;&lt;br /&gt;And third, I was unconditionally and irrevocably in love with him.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;In the first book of the Twilight Saga, internationally bestselling author Stephenie Meyer introduces Bella Swan and Edward Cullen, a pair of star-crossed lovers whose forbidden relationship ripens against the backdrop of small-town suspicion and a mysterious coven of vampires. This is a love story with bite.</description>
+<authors>
+<author>
+<id>941441</id>
+<name>Stephenie Meyer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1477924095p5/941441.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1477924095p2/941441.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/941441.Stephenie_Meyer]]></link>
+<average_rating>3.64</average_rating>
+<ratings_count>8603266</ratings_count>
+<text_reviews_count>293096</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1213613253</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Fri Jan 29 12:34:08 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>2147</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="teen" exclusive="false" review_shelf_id="12580559" sortable="false" />
+    <shelf name="fiction" exclusive="false" review_shelf_id="12580561" sortable="false" />
+</shelves>
+  <recommended_for>morons</recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Fri Jun 01 00:00:00 -0700 2007</read_at>
+  <date_added>Thu Jun 07 07:27:47 -0700 2007</date_added>
+  <date_updated>Tue Dec 03 18:42:02 -0800 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I really enjoy lively details. There's nothing better than knowing an author has really <i>thought</i> about her characters and situations, and come up with some surprising and delightful detail that makes the whole reading experience fuller. <i>Lively</i> details, you understand -- <i>pointless</i> details are a nig...]]>
+  </body>
+
+  
+
+  <comments_count>372</comments_count>
+    <comments start="1" end="50" total="372">
+        <comment>
+  <id>37434</id>
+  <body><![CDATA[I've read Twilight and I'm currently reading it's sequel, New Moon, and I have to say that I do agree with you on Meyers writing. I really find it so hard to WANT to pick up this book and finish it. Well, I want to finish it so I can move onto something else (I hate stopping mid-book) but I just find it so hard to care about what happens to Bella and Edward. I really do. Check out my actual review of <a href="https://www.goodreads.com/book/show/49041.New_Moon__The_Twilight_Saga__Book_2_" title="New Moon (The Twilight Saga, Book 2) by Stephenie Meyer" rel="nofollow">New Moon</a>, I go into even more scathing detail :P hehe. <a target="_blank" href="https://www.goodreads.com/book/show/49041.New_Moon" rel="nofollow">http://www.goodreads.com/book/show/49...</a>]]></body>
+  
+  <user>
+    <id>134378</id>
+    <name>Bex</name>
+    <display_name>Bex</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/134378-bex]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1235970748p3/134378.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1235970748p2/134378.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jun 16 10:55:47 -0700 2007</created_at>
+  <updated_at>Sat Jun 16 10:55:47 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>41814</id>
+  <body><![CDATA[Regardless of the content, the emotion needs to be believable. Meyer's was not. End of.]]></body>
+  
+  <user>
+    <id>121445</id>
+    <name>Nicola</name>
+    <display_name>Nicola</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/121445-nicola]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1182530112p3/121445.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1182530112p2/121445.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 22 09:41:56 -0700 2007</created_at>
+  <updated_at>Fri Jun 22 09:41:56 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>47785</id>
+  <body><![CDATA[All I can say is, FINALLY! Someone who agrees with me that the plot becomes a dead-ringer halfway through the book. It was driving me nuts that all of my friend thought this book was actually good. I'm glad someone agrees with me.<br /><br />Same goes for the creepy infatuation thing. You don't just fall in love in a week. That's just plain crap.]]></body>
+  
+  <user>
+    <id>162560</id>
+    <name>Cricket</name>
+    <display_name>Cricket</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/162560-cricket]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1436893249p3/162560.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1436893249p2/162560.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 29 18:24:55 -0700 2007</created_at>
+  <updated_at>Fri Jun 29 18:24:55 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>66569</id>
+  <body><![CDATA[Word up to ALL of this. You put your finger on allllllll the stuff driving me nertz about this book. Nice work.]]></body>
+  
+  <user>
+    <id>178320</id>
+    <name>laaaaames</name>
+    <display_name>laaaaames</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/178320-laaaaames]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1282004147p3/178320.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1282004147p2/178320.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 24 17:00:51 -0700 2007</created_at>
+  <updated_at>Tue Jul 24 17:00:51 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>70640</id>
+  <body><![CDATA[Great review. This book was terribly written. I only finished it because I also hate stopping mid-book.]]></body>
+  
+  <user>
+    <id>183088</id>
+    <name>Chick_Flick</name>
+    <display_name>Chick_Flick</display_name>
+
+    <location>Puerto Rico</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/183088-chick-flick]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1184116033p3/183088.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1184116033p2/183088.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jul 28 04:53:25 -0700 2007</created_at>
+  <updated_at>Sat Jul 28 04:53:25 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>145890</id>
+  <body><![CDATA[(I'm sorry, I have to respond to that)<br />I think that your argument is that pointless details win Pultzer Prizes, am I right? Have you ever read a book that's won the Pultzer Prize, because generally, there's a plot to back the details up, whereas in Twilight, there are MANY details that don't contribute to the plot. At all.]]></body>
+  
+  <user>
+    <id>162560</id>
+    <name>Cricket</name>
+    <display_name>Cricket</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/162560-cricket]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1436893249p3/162560.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1436893249p2/162560.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Sep 26 06:10:33 -0700 2007</created_at>
+  <updated_at>Wed Sep 26 06:10:33 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>146167</id>
+  <body><![CDATA[A book worthy of a Pulitzer surely will be packed with details letting us know the characters better. The "pointless" details in Twilight were just that: pointless.<br /><br />However, I don't expect Pulitzer quality from every book I read. What DO I expect? A fully-developed plot, fully-drawn characters, and emotions that ring true. I found none of these things in Twilight. I also found it quite troubling that a book written by a woman, primarily FOR young women, that so many misogynistic points of view were put across.<br /><br />Sure, books are supposed to be for pleasure, but not at the expense of intelligence.]]></body>
+  
+  <user>
+    <id>178320</id>
+    <name>laaaaames</name>
+    <display_name>laaaaames</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/178320-laaaaames]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1282004147p3/178320.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1282004147p2/178320.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Sep 26 09:17:09 -0700 2007</created_at>
+  <updated_at>Wed Sep 26 09:17:09 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>147412</id>
+  <body><![CDATA[Well, it seems to me your versions of "pointless details" are any details that you yourselves decide are unneccesary, not even just details that have nothing to do directly with a character. &amp; no Cricket. My point was that "Pointless details", as described by some of you, are a large part of the reason that many books have won the Pulitzer. <br />Cricket, did you actually want me to count all the books I've read that have won the Pulitzer Prize? I could just count up all the well worn copies of Pulizer Prize winners on my shelves at home, but that wouldn't include half of the number I have read, or that I've read two or three or four times. Have you ever even cracked a peak in more than one or two? Anyway, like I said before, I read for pleasure, not so I can compare how many more books I've read than you, so I don't really care how many you have read. I think I am done with this conversation. I could point you onto pages and pages and pages of details within Pulitzer Prize winning books devoted exclusively to describing the look of a room, the details of a dress, the dirt in the crack of a floor board! Details that, by the way, have nothing to do with one of the characters directly! I honestly don't feel that any of you have a leg to stand on when it comes to your argument on the importance of these kinds of "pointless details" as you all are calling them. I'm not going to dissect Twilight and tell you what I think could have been left out and what truly added to it. My point is that I disagree with you on what are and what are not "pointless details", however well or badly it was written. I also stand by everything I said in my original comment.]]></body>
+  
+  <user>
+    <id>418174</id>
+    <name>Heidi</name>
+    <display_name>Heidi</display_name>
+
+    <location>American Samoa</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/418174-heidi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1190897480p3/418174.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1190897480p2/418174.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Sep 27 04:22:20 -0700 2007</created_at>
+  <updated_at>Thu Sep 27 04:22:20 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>148530</id>
+  <body><![CDATA[The details didn't seem pointless to me; they helped me feel like I was there in Bella's world. Most writers fight hard to add the details that let the readers feel as if they are there, watching at the least. I know authors can go overboard, but I didn't feel it was done excessively. I'm rather tired of books where you can guess the ending because every little detail has to be clueing you in. However, there isn't a book written that completely pleases everyone. That's fine too. It just means that you have to be able to take the insults along with the compliments when you're a writer.]]></body>
+  
+  <user>
+    <id>108991</id>
+    <name>Camille</name>
+    <display_name>Camille</display_name>
+
+    <location>San Juan Capistrano, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/108991-camille]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1371063503p3/108991.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1371063503p2/108991.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Sep 27 16:33:05 -0700 2007</created_at>
+  <updated_at>Thu Sep 27 16:33:05 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>155888</id>
+  <body><![CDATA[Pointless details tend to come from inconsistencies, so, while we know that she ate a granola bar for breakfast, do we know even what color shirt she wore that day? Or how about what her kitchen looks like? Heidi, if you can answer those questions for me than I will admit I was wrong about how I feel about pointless details.]]></body>
+  
+  <user>
+    <id>162560</id>
+    <name>Cricket</name>
+    <display_name>Cricket</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/162560-cricket]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1436893249p3/162560.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1436893249p2/162560.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Sep 30 14:17:21 -0700 2007</created_at>
+  <updated_at>Sun Sep 30 14:17:21 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>155917</id>
+  <body><![CDATA[Way to blow-off my question, Nikki, I applaud you.]]></body>
+  
+  <user>
+    <id>162560</id>
+    <name>Cricket</name>
+    <display_name>Cricket</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/162560-cricket]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1436893249p3/162560.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1436893249p2/162560.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Sep 30 14:48:45 -0700 2007</created_at>
+  <updated_at>Sun Sep 30 14:48:45 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>175109</id>
+  <body><![CDATA[Cricket, so are you purposely trying to prove my point for me? One of my points at least. This is hilarious! You have selected several specific details that you want me to prove that Meyer included in a specific part of the book. Otherwise, all other details she shared, at the very least in that scene, are pointless!? Thank you for proving me right in my comment above, when I said "Well, it seems to me your versions of "pointless details" are any details that you yourselves decide are unneccesary". Obviously, you feel this goes either way. Any random details, like "what color shirt she wore that day", that you feel should have been there and were not, can also mean that the book is pointless, or a lot of it! I really appreciated your comment though, Cricket. Some of my guesses about you, and the others on here who share your opinion, were right. Your comment was enlightening! Thank you!]]></body>
+  
+  <user>
+    <id>418174</id>
+    <name>Heidi</name>
+    <display_name>Heidi</display_name>
+
+    <location>American Samoa</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/418174-heidi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1190897480p3/418174.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1190897480p2/418174.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Oct 13 18:20:37 -0700 2007</created_at>
+  <updated_at>Sat Oct 13 18:20:37 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>209015</id>
+  <body><![CDATA[Great review. Though I adore the book, I think you've made some valid points. <br />This book is what I'd call a guilty pleasure. :)<br />To me it read like a lengthy WIP fanfic. Buuut, occasionally, that's just what I'm in the mood for.]]></body>
+  
+  <user>
+    <id>288390</id>
+    <name>Jessicaleigh</name>
+    <display_name>Jessicaleigh</display_name>
+
+    <location>Milford, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/288390-jessicaleigh]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1188966462p3/288390.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1188966462p2/288390.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 05 10:52:37 -0800 2007</created_at>
+  <updated_at>Mon Nov 05 10:52:37 -0800 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>213798</id>
+  <body><![CDATA[[Response to Cricket]<br /><br />Maybe I shouldn't say this, but "falling in love in a week" <i>does</i> happen. Happened to me. Still happy, still in love. :)]]></body>
+  
+  <user>
+    <id>395599</id>
+    <name>Shannon (Giraffe Days)</name>
+    <display_name>Shannon (Giraffe Days)</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/395599-shannon-giraffe-days]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1420332941p3/395599.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1420332941p2/395599.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Nov 08 06:01:12 -0800 2007</created_at>
+  <updated_at>Thu Nov 08 06:01:12 -0800 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>223503</id>
+  <body><![CDATA[OMG Heidi, I love your comment! LOL! <br /><br />I agree that details make up the book. In details the readers are able to picture the scene so much better. <br /><br />Hmmm, I agree that it's nearly impossible to fall in love in a week, but people this is a FICTIONAL BOOK ABOUT VAMPIRES! Some of the allure they have for one another has nothing to do with realistic human qualities.]]></body>
+  
+  <user>
+    <id>396453</id>
+    <name>Yvette</name>
+    <display_name>Yvette</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/396453-yvette]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1191459657p3/396453.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1191459657p2/396453.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 14 09:35:01 -0800 2007</created_at>
+  <updated_at>Wed Nov 14 09:35:01 -0800 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>234516</id>
+  <body><![CDATA[I agree to the two comments above. Also with Heidi. I think Twilight was AWESOME!]]></body>
+  
+  <user>
+    <id>467455</id>
+    <name>Ellie</name>
+    <display_name>Ellie</display_name>
+
+    <location>New Richmond, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/467455-ellie]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 21 15:29:59 -0800 2007</created_at>
+  <updated_at>Wed Nov 21 15:29:59 -0800 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>238011</id>
+  <body><![CDATA[I love your review! I'm a middle school teacher, and my kids are freaks about this book, so I read them (all three). I wish a vampire would bite me, after reading them because thew were so boring! I don't care if she writes about cheese (which I think would be just as exciting)--you're correct, they are boring. And, Bella is a weak, pathetic character. <br /><br />Good work!]]></body>
+  
+  <user>
+    <id>639309</id>
+    <name>Danielle</name>
+    <display_name>Danielle</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/639309-danielle]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 25 08:12:12 -0800 2007</created_at>
+  <updated_at>Sun Nov 25 08:12:12 -0800 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>293608</id>
+  <body><![CDATA[It's html code, so I can't type it here for you, but if you go to one of your books and click on "review", beside the space provided is a bar of "Formatting Tips", which shows you how to do italics, bold etc.]]></body>
+  
+  <user>
+    <id>395599</id>
+    <name>Shannon (Giraffe Days)</name>
+    <display_name>Shannon (Giraffe Days)</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/395599-shannon-giraffe-days]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1420332941p3/395599.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1420332941p2/395599.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Dec 30 08:03:09 -0800 2007</created_at>
+  <updated_at>Sun Dec 30 08:03:09 -0800 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>306303</id>
+  <body><![CDATA[Great review! I just do not get the hype for this book. Actually if Bella wasn't in it I'd probably like it. And haha. The first thing I did after I read it was go post on my journal about it and I mentioned the stupidity of the granola bar. It just stuck with me. I mean why would anyone mention that in a book ever? ]]></body>
+  
+  <user>
+    <id>744635</id>
+    <name>Nicole</name>
+    <display_name>Nicole</display_name>
+
+    <location>Tobyhanna, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/744635-nicole]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 04 23:44:50 -0800 2008</created_at>
+  <updated_at>Fri Jan 04 23:44:50 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>307069</id>
+  <body><![CDATA[I honestly can't remember a granola bar, and I've read it three times.<br /><br />The domestic details really didn't bother me. They worked to ground the story. It's a fantastical story, and the contrast between Bella as a regular girl and Edward as, well, a mythical creature, adds to a sense of <i>plausibility</i>. It's fantasy, but every fantasy book needs to possess at least a grain of reality in order to make it possible. It felt real, to me, even though it's not. A book works, for me, when I can disspell disbelief and fall through the rabbit-hole right into the story, and <i>feel</i> it. I'm always on the hunt for books like that, but everyone's different.<br /><br />But I can understand how details like the ones mentioned would get on your nerves, once noticed. Such things usually bug me only when I've already made up my mind not to like the book; then, everything's fair game to ridicule.]]></body>
+  
+  <user>
+    <id>395599</id>
+    <name>Shannon (Giraffe Days)</name>
+    <display_name>Shannon (Giraffe Days)</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/395599-shannon-giraffe-days]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1420332941p3/395599.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1420332941p2/395599.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 05 10:08:45 -0800 2008</created_at>
+  <updated_at>Sat Jan 05 10:08:45 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>320153</id>
+  <body><![CDATA[Wow, this review sums up my feels about Twilight better than I could ever have. It's nice to know I'm not the only one that feels this way...my friends all are crazy about this silly book!]]></body>
+  
+  <user>
+    <id>761910</id>
+    <name>Liz</name>
+    <display_name>Liz</display_name>
+
+    <location>Salt Lake City, UT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/761910-liz]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1200797431p3/761910.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1200797431p2/761910.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 10 13:19:23 -0800 2008</created_at>
+  <updated_at>Thu Jan 10 13:19:23 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>335714</id>
+  <body><![CDATA[nicola is saying that edward did not act like the 100+ year old vampire that he was. Not that she didn't believe that vampires exist.]]></body>
+  
+  <user>
+    <id>687292</id>
+    <name>Josephine </name>
+    <display_name>Josephine  the Rereader</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/687292-josephine-the-rereader]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1394485093p3/687292.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1394485093p2/687292.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 16 16:38:05 -0800 2008</created_at>
+  <updated_at>Wed Jan 16 16:38:05 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>335989</id>
+  <body><![CDATA[If ya'll want a good fantasy series with a strong, badass female, I highly recommend Libba Bray's Gemma Doyle series: A Great and Terrible Beauty, Rebel Angels and The Sweet Far Thing. In that order. They are amazing and 2000% better then Stephanie Meyers' crapola. ]]></body>
+  
+  <user>
+    <id>134378</id>
+    <name>Bex</name>
+    <display_name>Bex</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/134378-bex]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1235970748p3/134378.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1235970748p2/134378.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 16 18:07:59 -0800 2008</created_at>
+  <updated_at>Wed Jan 16 18:07:59 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>336676</id>
+  <body><![CDATA[I want to marry this review and have snarky, jaded, capslocky babies with it. You summed up my thoughts on this book exactly.]]></body>
+  
+  <user>
+    <id>792196</id>
+    <name>TheUnicorner</name>
+    <display_name>TheUnicorner</display_name>
+
+    <location>Honolulu, HI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/792196-theunicorner]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1379850337p3/792196.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1379850337p2/792196.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 16 23:51:11 -0800 2008</created_at>
+  <updated_at>Wed Jan 16 23:51:11 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>438854</id>
+  <body><![CDATA[Nicola, AMEN!<br /><br />Anyone who's seen vampires done by Joss Whedon knows it could have been so much better...<br /><br />Since when are the marble-cold undead romantic? ]]></body>
+  
+  <user>
+    <id>386073</id>
+    <name>Laurie</name>
+    <display_name>Laurie</display_name>
+
+    <location>Ypsilanti, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/386073-laurie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1489285776p3/386073.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1489285776p2/386073.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Feb 21 07:25:19 -0800 2008</created_at>
+  <updated_at>Thu Feb 21 07:25:19 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>485656</id>
+  <body><![CDATA[I know this is a little late, but I really wanted to reply to this comment.<br /><br /><i>So whether you were able to find the story BELIEVABLE or not demonstrates your lack of ability to realize you were reading a book about VAMPIRES!!!</i><br /><br />I really take issue with the notion that just because a book is a work of fantasy, it is automatically excused from attempting to make the characters and storyline convincing. The ability to make characters that are not human appear human, the ability to create a story anyone could relate to no matter how fantastic the circumstances...that takes talent, and shouldn't be brushed aside.<br /><br />I guess what I'm saying is that believability is NEVER something that should be limited to non-fiction. It is the ability to invoke empathy and understanding in the reader, making us see the characters are real, rather than words on a page, and that's a wonderful thing.<br /><br />I think the reviewer's desire to see this in a storyline and characters demonstrates a deep understanding of basic criteria for a great read, as well as an understanding of her own desires, which, in the end, matter most.]]></body>
+  
+  <user>
+    <id>972047</id>
+    <name>Toni</name>
+    <display_name>Toni</display_name>
+
+    <location>Felton, DE</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/972047-toni]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu Mar 06 09:20:34 -0800 2008</created_at>
+  <updated_at>Thu Mar 06 09:20:34 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>486956</id>
+  <body><![CDATA[Another Heidi here, except I'm in complete agreement with the reviewer :P<br /><br /><br />"If ya'll want a good fantasy series with a strong, badass female, I highly recommend Libba Bray's Gemma Doyle series: A Great and Terrible Beauty, Rebel Angels and The Sweet Far Thing. In that order. They are amazing and 2000% better then Stephanie Meyers' crapola."<br /><br />Seconded!]]></body>
+  
+  <created_at>Thu Mar 06 15:34:37 -0800 2008</created_at>
+  <updated_at>Thu Mar 06 15:34:37 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>500565</id>
+  <body><![CDATA[I find it rather amusing that Heidi (the first) and Nikki postured about reading all sorts of books, and how the details weren't pointless, but when asked for details that would have actually served to elaborate on the world, or to indicate books they've read that, like Twilight, had details given that had no bearing on the story at all, they failed to deliver.<br /><br />And then they fell into a bout of self-congratulations.<br /><br />What they failed to realize was that details such as the layout of the kitchen or the color of her shirt would stick with the reader, letting them feel more a part of the world than simply knowing what she ate that morning. How can you feel a part of her environment, or aware of her surroundings, if you don't know what they are?<br /><br /><br /><br />..anyway, I agree with the review.]]></body>
+  
+  <user>
+    <id>984873</id>
+    <name>Joshua</name>
+    <display_name>Joshua Williams</display_name>
+
+    <location>Riverview, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/984873-joshua-williams]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1205261278p3/984873.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1205261278p2/984873.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 11 11:33:49 -0700 2008</created_at>
+  <updated_at>Tue Mar 11 11:33:49 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>501443</id>
+  <body><![CDATA[Joshua...you obviously failed to see my point at all! Did you even read what I wrote, or were you just so anxious to write what you thought was a clever little comment that it became easy for you to ramble aimlessly? What self-congratulations? I believe someone suggested something about me that was absolutely far from any truth, so I felt compelled to straighten that out. I'm not sure why. I almost wish I'd never posted anything on this comment, but then what would you guys have to talk about? I think some of you need to get a life, or write a book yourself if you think you're such a genius. I'm all for the details, but I don't think a writer is required to describe everything in every room , along with every stitch of every article of clothing, etc., in order for it to be an enjoyable book. If you don't like it, don't read it. One of my favorite books is Margaret Mitchell's <a href="https://www.goodreads.com/book/show/18405.Gone_With_The_Wind" title="Gone With The Wind by Margaret Mitchell" rel="nofollow">Gone With The Wind</a>. I love detail, but I can enjoy a wide variety of writing styles. ]]></body>
+  
+  <user>
+    <id>418174</id>
+    <name>Heidi</name>
+    <display_name>Heidi</display_name>
+
+    <location>American Samoa</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/418174-heidi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1190897480p3/418174.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1190897480p2/418174.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 11 15:02:43 -0700 2008</created_at>
+  <updated_at>Tue Mar 11 15:02:43 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>502032</id>
+  <body><![CDATA[I read it. And I re-read it, for posterity's sake. And you still did not provide the requested information.<br /><br />..you think I need to get a life? I just came here today because someone pointed me toward this review, and I ended up reading the comments.<br /><br />You're the one that's been sticking around for months, apparently just waiting for anyone to attempt to counter anything you said.<br /><br />And, on a side note, I actually am writing a book. Several, in fact.<br /><br />I agree that not every stitch of clothing or every detail of a room should be provided. But there ought to be more focus on the environments than the comestibles.]]></body>
+  
+  <user>
+    <id>984873</id>
+    <name>Joshua</name>
+    <display_name>Joshua Williams</display_name>
+
+    <location>Riverview, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/984873-joshua-williams]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1205261278p3/984873.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1205261278p2/984873.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 11 17:15:45 -0700 2008</created_at>
+  <updated_at>Tue Mar 11 17:15:45 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>503645</id>
+  <body><![CDATA[And remember, kiddies.<br /><br />If you spout "If you don't like it, don't read it" here in regards to those who didn't enjoy Twilight..<br /><br />..there are two problems with that statement.<br /><br />1. If you don't like a review that downs Twilight, by your own 'logic,' you shouldn't read it.<br /><br />2. How would anyone know if they won't like it if they haven't read it? Some of us might have expected it to be what you fans claim it to be, only to find that you were vastly mistaken.]]></body>
+  
+  <user>
+    <id>984873</id>
+    <name>Joshua</name>
+    <display_name>Joshua Williams</display_name>
+
+    <location>Riverview, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/984873-joshua-williams]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1205261278p3/984873.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1205261278p2/984873.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 12 07:10:51 -0700 2008</created_at>
+  <updated_at>Wed Mar 12 07:10:51 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>505526</id>
+  <body><![CDATA[Well, I really am done here. I usually get a notice in my in box if someone leaves a comment after a response I've posted. I'll have to just start deleting the one's I'm no longer interested in. I was just trying to be considerate, and read others responses as well. Good luck with your books Joshua. I really do wish you the best. Why would I not?<br /><br />p.s. I should have said "don't read it again", or you could have quit it after realizing you hate it, however long that took you. Just don't waste your time with it if it isn't benefitting you or others for you to be reading it. The best thing you can do for others, by the way, is to point them toward the best books, not waste time picking apart the crap ones. Just a bit of friendly advice.]]></body>
+  
+  <user>
+    <id>418174</id>
+    <name>Heidi</name>
+    <display_name>Heidi</display_name>
+
+    <location>American Samoa</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/418174-heidi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1190897480p3/418174.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1190897480p2/418174.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 12 14:53:51 -0700 2008</created_at>
+  <updated_at>Wed Mar 12 14:53:51 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>505779</id>
+  <body><![CDATA[Actually, it's kind of a odd topic regarding good and bad books.<br /><br />If you don't read the bad stuff, you'll not be able to appreciate the good ones. It's like joy and sadness. You'll never know one unless you've encountered the other.<br /><br />And if you don't pick apart the bad stuff, you might run the risk of encountering the same pitfalls within your own writing.<br /><br />Plus, if no one picks apart the crap books, then there won't be any bad reviews to warn potential readers of what they're getting themselves into.<br /><br />If everyone only commented on the things they liked, there would be no warnings available for those who don't share the same tastes.<br /><br />I don't go to the reviews of fans of books I don't like, telling them they're wrong, even though it's a matter of taste. Shame fans don't give the same courtesy toward those who don't share their fandom.]]></body>
+  
+  <user>
+    <id>984873</id>
+    <name>Joshua</name>
+    <display_name>Joshua Williams</display_name>
+
+    <location>Riverview, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/984873-joshua-williams]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1205261278p3/984873.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1205261278p2/984873.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 12 16:17:33 -0700 2008</created_at>
+  <updated_at>Wed Mar 12 16:17:33 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>518852</id>
+  <body><![CDATA[Thank you! I completely agree. Though I have been known to compound readers with details in the past, even the smallest hole in a character's shoe has meaning. Twilight was drabble. It got me addicted as I'm sure it did every other teenage girl in America but it's a deeply flawed novel. <br /><br />No better than a Mary Sue.]]></body>
+  
+  <user>
+    <id>997530</id>
+    <name>Gracie</name>
+    <display_name>Gracie</display_name>
+
+    <location>Miami, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/997530-gracie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1205982131p3/997530.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1205982131p2/997530.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Mar 16 21:52:44 -0700 2008</created_at>
+  <updated_at>Sun Mar 16 21:52:44 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>563956</id>
+  <body><![CDATA[Heidi<br />"Pointless details" can be a good thing. IF--and I did say if--there are "pointless details" about everything. If there is a pointless detail about what color shirt she wore, or what her kitchen looks like, sure, those kind of "She ate a granola bar for breakfast" deatails can be fine. But when you don't even know what her kitchen looks like until the end of the book, but you know that she had a granola bar for breakfast in the beginning, you have a problem. She added some VERY pointless details at the beginning before adding details that may have added to the story.]]></body>
+  
+  <user>
+    <id>986308</id>
+    <name>Megan</name>
+    <display_name>Megan</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/986308-megan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1206299289p3/986308.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1206299289p2/986308.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Mar 29 08:03:15 -0700 2008</created_at>
+  <updated_at>Sat Mar 29 08:03:15 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>576475</id>
+  <body><![CDATA[Adrienne!!!! I feel the exact same way!! You pinpointed it PERFECTLY!!! I really enjoyed and was addicted to this book, but it was very flawed and wasn't written very well. If people would read it not trying to enjoy the story but really being logical and thinking about flaws and mistakes, you would really see that it's not a very good book at all.]]></body>
+  
+  <user>
+    <id>986308</id>
+    <name>Megan</name>
+    <display_name>Megan</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/986308-megan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1206299289p3/986308.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1206299289p2/986308.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Apr 01 15:00:01 -0700 2008</created_at>
+  <updated_at>Tue Apr 01 15:00:01 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>634106</id>
+  <body><![CDATA[I haven't read the book....and now don't want to. I must say I laughed outloud several times while reading your reveiw and I want to be your friend!!(not really that might be kind of creepy) you crack me up! ]]></body>
+  
+  <user>
+    <id>1088156</id>
+    <name>Lacey</name>
+    <display_name>Lacey</display_name>
+
+    <location>Grove City, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1088156-lacey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1208444027p3/1088156.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1208444027p2/1088156.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Apr 16 08:21:00 -0700 2008</created_at>
+  <updated_at>Wed Apr 16 08:21:00 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>714851</id>
+  <body><![CDATA[I agree with your review but I enjoyed the book a lot. Am I insane?]]></body>
+  
+  <user>
+    <id>1120811</id>
+    <name>marjo</name>
+    <display_name>marjo</display_name>
+
+    <location>Brazil</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1120811-marjo]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1217213259p3/1120811.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1217213259p2/1120811.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 01 07:17:52 -0700 2008</created_at>
+  <updated_at>Thu May 01 07:17:52 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>725256</id>
+  <body><![CDATA[I was going to write a similar review, but now I don't have to! I agree with everything you said and you touched on everything that was wrong with this book. I'm scared for this generation if they honestly believe that this is what love and life is really like and even worse, what great writing should be like.]]></body>
+  
+  <user>
+    <id>403329</id>
+    <name>Lindsey</name>
+    <display_name>Lindsey</display_name>
+
+    <location>Brighton, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/403329-lindsey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1232647120p3/403329.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1232647120p2/403329.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 03 12:49:01 -0700 2008</created_at>
+  <updated_at>Sat May 03 12:49:01 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>738503</id>
+  <body><![CDATA[Bravo! I LOVED the review, you adressed all my issues with Twilight and in an articulate way.]]></body>
+  
+  <user>
+    <id>611251</id>
+    <name>Emma </name>
+    <display_name>Emma  Blue</display_name>
+
+    <location>Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/611251-emma-blue]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1477253196p3/611251.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1477253196p2/611251.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue May 06 07:59:11 -0700 2008</created_at>
+  <updated_at>Tue May 06 07:59:11 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>745883</id>
+  <body><![CDATA[In my opinion, you are quite wrong with they way you describe this book. I do not think that there is a need to flip out over the mentioning of a granola bar, but hey? What ever floats your boat!]]></body>
+  
+  <user>
+    <id>1080387</id>
+    <name>Bailey</name>
+    <display_name>Bailey</display_name>
+
+    <location>Sarver, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1080387-bailey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1208210121p3/1080387.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1208210121p2/1080387.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed May 07 14:42:54 -0700 2008</created_at>
+  <updated_at>Wed May 07 14:42:54 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>775767</id>
+  <body><![CDATA[Do you expect her to just jump right into the climax within the first page of the book? She couldn't do that. There'd be nothing to wait for, no suspense. Bella and Edward's relationship had to grow and she had to know more about him before something dramatic happened. (I'm referring to the situation with James, not the whole car crash thing.) Granted, what she ate in the morning was pointless. But I believe she was trying to imply that she was in a hurry to go somewhere (possibly to Edward's home...?) and that she didn't have enough time to eat a regular breakfast. It helps the reader get more "into" the story, I suppose.]]></body>
+  
+  <user>
+    <id>1160336</id>
+    <name>Adora</name>
+    <display_name>Adora</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1160336-adora]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue May 13 17:12:44 -0700 2008</created_at>
+  <updated_at>Tue May 13 17:12:44 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>775805</id>
+  <body><![CDATA[I find it humorous you say "jump right into the climax" because that's basically what Meyer does. The book lulls along for a few hundred pages and then BAM! and action plot comes out of nowhere. So explain that.]]></body>
+  
+  <created_at>Tue May 13 17:22:24 -0700 2008</created_at>
+  <updated_at>Tue May 13 17:22:24 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>775832</id>
+  <body><![CDATA[Considering there are about 250 pages, "a couple hundred pages" is pretty far into the book, wouldn't you agree?]]></body>
+  
+  <user>
+    <id>1160336</id>
+    <name>Adora</name>
+    <display_name>Adora</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1160336-adora]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue May 13 17:29:08 -0700 2008</created_at>
+  <updated_at>Tue May 13 17:29:08 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>775967</id>
+  <body><![CDATA[Exactly. But that chunk of fluff doesn't have anything to do with the climactic plot thrown in at the end, now does it?]]></body>
+  
+  <created_at>Tue May 13 17:51:21 -0700 2008</created_at>
+  <updated_at>Tue May 13 17:51:21 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>776399</id>
+  <body><![CDATA[Sure, of course you need time to grow relationships, heck it can take a whole half of the book and I'll love it anyways. But you need some kind of plot there still. Something that the readers are waiting for. And then Meyer has this plot that's just half-hazardly put in, and you can't even be happy with the ending!]]></body>
+  
+  <user>
+    <id>611251</id>
+    <name>Emma </name>
+    <display_name>Emma  Blue</display_name>
+
+    <location>Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/611251-emma-blue]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1477253196p3/611251.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1477253196p2/611251.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue May 13 18:43:13 -0700 2008</created_at>
+  <updated_at>Tue May 13 18:43:13 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>776579</id>
+  <body><![CDATA[Of course you can't be happy with the ending. She was in the process of writing a second book, and she wanted to leave you dying for more at the end so you'd buy her next book. And there was a plot. Jacob Black rolled in and told her he was a vampire, and then the situation with those guys who wanted to abuse her and how Edward drove in and saved the day. I believe that's a plot.]]></body>
+  
+  <user>
+    <id>1160336</id>
+    <name>Adora</name>
+    <display_name>Adora</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1160336-adora]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue May 13 19:05:23 -0700 2008</created_at>
+  <updated_at>Tue May 13 19:05:23 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>776705</id>
+  <body><![CDATA[The point is, it's a horribly written book if you get past the "omg Edward is hot! They are in loveeee!" stage, simply influenced by the fact that Meyer added in a few too many adjectives for "sexy" and descriptions of his eyes and whatnot...which in return seem to act as some sort of drug that puts tween girls and (unfortunately) even "grown" women in a Twilight-induced coma.]]></body>
+  
+  <created_at>Tue May 13 19:22:54 -0700 2008</created_at>
+  <updated_at>Tue May 13 19:22:54 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>779430</id>
+  <body><![CDATA[Heidi, YAY! Someone who loved The Gemma Doyle Trilogy and also hated Twilight! <br /><br />Well, there's a difference between contentment at the end of a book and contentment that the series has ended properly. That was more relationship development than a plot. ]]></body>
+  
+  <user>
+    <id>611251</id>
+    <name>Emma </name>
+    <display_name>Emma  Blue</display_name>
+
+    <location>Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/611251-emma-blue]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1477253196p3/611251.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1477253196p2/611251.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed May 14 11:05:42 -0700 2008</created_at>
+  <updated_at>Wed May 14 11:05:42 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>779885</id>
+  <body><![CDATA[Not really. Jake telling her he's a vampire is hardly a plot. It's not even a plot device as no actual conflict comes from it. The guys showing up and Edward "saving the day" is a plot point, but for a book of the size of Twilight, that's hardly enough of a plot to suffice.]]></body>
+  
+  <user>
+    <id>984873</id>
+    <name>Joshua</name>
+    <display_name>Joshua Williams</display_name>
+
+    <location>Riverview, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/984873-joshua-williams]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1205261278p3/984873.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1205261278p2/984873.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed May 14 13:01:10 -0700 2008</created_at>
+  <updated_at>Wed May 14 13:01:10 -0700 2008</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1744681]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1744681]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

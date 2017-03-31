@@ -87,11 +87,12 @@ class Client:
         response = goodreads_request.request(return_raw=True)
         root = ET.fromstring(response)
         userReview = {}
-        userXml = root.find("review/user")
-        userReview['id'] = userXml.find('id').text
+        userXml = root.find('review/user')
+        userReview['id_user'] = userXml.find('id').text
         userReview['nombre'] = userXml.find('display_name').text
         userReview['enlace'] = userXml.find('link').text
         userReview['genero'] = genero
+        userReview['id_libro'] = root.find('review/book/id').text
         userReview['review'] = root.find('review/body').text
         return userReview
 

@@ -1,0 +1,139 @@
+status: 200
+x-request-id: 8JVJ8KJ48XK6DVX4RY6Z
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=1690139943&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhgxODctOTUyNDEyOS01MTIwNjE3BjoGRVQ%3D--54977db991c53bd4aa6156333fd18cec6b21cc2e;
+ path=/; expires=Tue, 31 Mar 2037 20:07:59 -0000, locale=es;
+ path=/, _session_id2=79969c326a67f69752a17c906e654d51; path=/;
+ expires=Sat, 01 Apr 2017 02:07:59 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 4444
+server: Server
+x-runtime: 0.321147
+etag: W/"e9dbeaaaf222a12bbbf4e17ef43ef635"
+cache-control: max-age=0, private, must-revalidate
+date: Fri, 31 Mar 2017 20:07:59 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1690139943</id>
+    
+  <user>
+    <id>1724209</id>
+    <name>kian</name>
+    <display_name>kian</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1724209-kian]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1467109186p3/1724209.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1467109186p2/1724209.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">1865355</id>
+  <isbn nil="true"/>
+  <isbn13>9789645757401</isbn13>
+  <text_reviews_count type="integer">22</text_reviews_count>
+  <title>دختری با گوشواره مروارید</title>
+  <title_without_series>دختری با گوشواره مروارید</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1453710434m/1865355.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1453710434s/1865355.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1865355._</link>
+  <num_pages>272</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>کتابسرای تندیس</publisher>
+  <publication_day/>
+  <publication_year>2000</publication_year>
+  <publication_month/>
+  <average_rating>3.84</average_rating>
+  <ratings_count>474508</ratings_count>
+  <description>تریسی شوالیه در کتاب ((دختری با گوشواره مروارید)) تاریخ و فلسفه را از نظر هنری و احساسی، در هم می‌آمیزد.</description>
+<authors>
+<author>
+<id>1973</id>
+<name>Tracy Chevalier</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1439297099p5/1973.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1439297099p2/1973.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1973.Tracy_Chevalier]]></link>
+<average_rating>3.80</average_rating>
+<ratings_count>628168</ratings_count>
+<text_reviews_count>22238</text_reviews_count>
+</author>
+</authors>
+  <published>2000</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1421202448</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Wed Jul 06 14:39:09 -0700 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1421200610</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Wed Jul 06 14:37:40 -0700 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>4</rating>
+  <votes>35</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Jul 06 00:00:00 -0700 2016</started_at>
+  <read_at>Wed Jul 06 15:31:03 -0700 2016</read_at>
+  <date_added>Wed Jul 06 14:37:39 -0700 2016</date_added>
+  <date_updated>Wed Jul 06 14:56:29 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[توی این داستان چیزی که خیلی موج میزد، «زندگی» بود.... یه ویژگی برجسته که این کتاب داشت این بود که به طرز ساده ای، روون بود... یعنی انگار نشستی روبروی راوی... اون داره برات ماجراهای زندگیش رو تعریف میکنه.... و به قدری صمیمی و پشت هم و ساده روایت میکنه که تو وقتی به خودت میای میبینی غرق در حرفهاش ش...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1690139943]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1690139943]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>
