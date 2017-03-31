@@ -3,6 +3,7 @@
 import datetime
 import urllib
 import webbrowser
+import xml.etree.ElementTree as ET
 from sys import maxint as MAX_INT
 
 # Local imports
@@ -79,6 +80,20 @@ class Client:
         goodreads_request = GoodreadsRequest("book/isbn_to_id/"+isbn, {}, self)
         response = goodreads_request.request(return_raw=True)
         return response
+        
+    def get_review_user(self, id, genero):
+        """ Get review's information the id. """
+        goodreads_request = GoodreadsRequest("review/show.xml",{'id':id, 'key':'2uQMlznVEwfI4YTVFQwsA'},self)
+        response = goodreads_request.request(return_raw=True)
+        root = ET.fromstring(response)
+        userReview = {}
+        userXml = root.find("review/user")
+        userReview['id'] = userXml.find('id').text
+        userReview['nombre'] = userXml.find('display_name').text
+        userReview['enlace'] = userXml.find('link').text
+        userReview['genero'] = genero
+        userReview['review'] = root.find('review/body').text
+        return userReview
 
     def get_friends(self, user_id, num=MAX_INT):
         """ Get pages of user's friends list. (30 per page)
