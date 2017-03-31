@@ -10,5 +10,3 @@ client = goodreads.Client(client_id="2uQMlznVEwfI4YTVFQwsA", client_secret="DWs5
 client.authenticate(access_token='2uQMlznVEwfI4YTVFQwsA',access_token_secret='"DWs5Gii98b9KaYZBD9B3NL6nxE9SFRCKyUsZJIEv5Sg')
 client.authenticate()
 amigos = client.get_friends('2195441',num=10)
-
-
