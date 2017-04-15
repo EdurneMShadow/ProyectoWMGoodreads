@@ -33,15 +33,23 @@ def get_info_usuario (reviews, client, genero):
         t.sleep(1)
     return users
 
- '''Guardar los usuarios en un fichero formato igraph'''   
-def guardar_en_fichero(lista_usuarios):
-    fichero = open('grafo.txt','a')
-    for user in lista_usuarios:
-        fichero.write('node [ \n')
-        fichero.write('id '+user['id_user']+' \n')
-        fichero.write('nombre_usuario '+user['nombre']+' \n')
-        fichero.write('] \n')
-    fichero.close()
+'''Guardar los usuarios en un fichero formato igraph'''   
+def guardar_en_fichero(lista_usuarios,info):
+    if info=='nodo':
+        fichero = open('grafo.txt','a')
+        for user in lista_usuarios:
+            fichero.write('node [ \n')
+            fichero.write('id '+user['id_user']+' \n')
+            fichero.write('nombre_usuario '+user['nombre']+' \n')
+            fichero.write('] \n')
+            fichero.close()
+    if info=='info':
+        fichero = open('grafo_info_usuarios.txt','a')
+        for user in lista_usuarios:
+            fichero.write(str(user['id_user'])+','+str(user['nombre'])+','+str(user['enlace'])+','+str(user['id_libro'])+','+str(user['genero'])+','+ user['review'].encode('utf-8'))
+        fichero.close()
+
+    
 
 #Listas de ids de reviews
 r_arte = set(get_id_reviews('./crawler_reviews/reviews_arte.json'))
@@ -66,58 +74,76 @@ r_terror = set(get_id_reviews('./crawler_reviews/reviews_terror.json'))
 #Listas con información de usuarios + guardar en fichero
 
 usuarios_arte = get_info_usuario(r_arte,client,'arte')
-guardar_en_fichero(usuarios_arte)
+guardar_en_fichero(usuarios_arte,'nodo')
+guardar_en_fichero(usuarios_arte,'info')
 
 usuarios_adolescente = get_info_usuario(r_adolescente,client,'adolescente')
-guardar_en_fichero(usuarios_adolescente)
+guardar_en_fichero(usuarios_adolescente,'nodo')
+guardar_en_fichero(usuarios_adolescente,'info')
 
 usuarios_clasicos = get_info_usuario(r_clasicos,client,'clasicos')
-guardar_en_fichero(usuarios_clasicos)
+guardar_en_fichero(usuarios_clasicos,'nodo')
+guardar_en_fichero(usuarios_clasicos,'info')
 
 usuarios_crimen = get_info_usuario(r_crimen,client,'crimen')
-guardar_en_fichero(usuarios_crimen)
+guardar_en_fichero(usuarios_crimen,'nodo')
+guardar_en_fichero(usuarios_crimen,'info')
 
 usuarios_espiritualidad = get_info_usuario(r_espiritualidad,client,'espiritualidad')
-guardar_en_fichero(usuarios_espiritualidad)
+guardar_en_fichero(usuarios_espiritualidad,'nodo')
+guardar_en_fichero(usuarios_espiritualidad,'info')
 
 usuarios_fantasia = get_info_usuario(r_fantasia,client,'fantasia')
-guardar_en_fichero(usuarios_fantasia)
+guardar_en_fichero(usuarios_fantasia,'nodo')
+guardar_en_fichero(usuarios_fantasia,'info')
 
 usuarios_ficcion = get_info_usuario(r_ficcion,client,'ficcion')
-guardar_en_fichero(usuarios_ficcion)
+guardar_en_fichero(usuarios_ficcion,'nodo')
+guardar_en_fichero(usuarios_ficcion,'info')
 
 usuarios_historico = get_info_usuario(r_historico,client,'historico')
-guardar_en_fichero(usuarios_historico)
+guardar_en_fichero(usuarios_historico,'nodo')
+guardar_en_fichero(usuarios_historico,'info')
 
 usuarios_infantil = get_info_usuario(r_infantil,client,'infantil')
-guardar_en_fichero(usuarios_infantil)
+guardar_en_fichero(usuarios_infantil,'nodo')
+guardar_en_fichero(usuarios_infantil,'info')
 
 usuarios_lgtb = get_info_usuario(r_lgtb,client,'lgtb')
-guardar_en_fichero(usuarios_lgtb)
+guardar_en_fichero(usuarios_lgtb,'nodo')
+guardar_en_fichero(usuarios_lgtb,'info')
 
 usuarios_manga = get_info_usuario(r_manga,client,'manga')
-guardar_en_fichero(usuarios_manga)
+guardar_en_fichero(usuarios_manga,'nodo')
+guardar_en_fichero(usuarios_manga,'info')
 
 usuarios_misterio = get_info_usuario(r_misterio,client,'misterio')
-guardar_en_fichero(usuarios_misterio)
+guardar_en_fichero(usuarios_misterio,'nodo')
+guardar_en_fichero(usuarios_misterio,'info')
 
 usuarios_musica = get_info_usuario(r_musica,client,'musica')
-guardar_en_fichero(usuarios_musica)
+guardar_en_fichero(usuarios_musica,'nodo')
+guardar_en_fichero(usuarios_musica,'info')
 
 usuarios_poesia = get_info_usuario(r_poesia,client,'poesia')
-guardar_en_fichero(usuarios_poesia)
+guardar_en_fichero(usuarios_poesia,'nodo')
+guardar_en_fichero(usuarios_poesia,'info')
 
 usuarios_romance = get_info_usuario(r_romance,client,'romance')
-guardar_en_fichero(usuarios_romance)
+guardar_en_fichero(usuarios_romance,'nodo')
+guardar_en_fichero(usuarios_romance,'info')
 
 usuarios_scifi = get_info_usuario(r_scifi,client,'ciencia ficcion')
-guardar_en_fichero(usuarios_scifi)
+guardar_en_fichero(usuarios_scifi,'nodo')
+guardar_en_fichero(usuarios_scifi,'info')
 
 usuarios_suspense = get_info_usuario(r_suspense,client,'suspense')
-guardar_en_fichero(usuarios_suspense)
+guardar_en_fichero(usuarios_suspense,'nodo')
+guardar_en_fichero(usuarios_suspense,'info')
 
 usuarios_terror = get_info_usuario(r_terror,client,'terror')
-guardar_en_fichero(usuarios_terror)
+guardar_en_fichero(usuarios_terror,'nodo')
+guardar_en_fichero(usuarios_terror,'info')
 
 
 
