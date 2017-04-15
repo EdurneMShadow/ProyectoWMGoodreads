@@ -1,0 +1,636 @@
+status: 200
+x-request-id: 5YXT7268HVDTKF6MH2BA
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=826613841&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhg4MjctMDEzMzkzNS01NjY5MjcwBjoGRVQ%3D--4d24c536957d02f7ed1f3e9f5b2d58953e545960;
+ path=/; expires=Wed, 15 Apr 2037 15:16:55 -0000, locale=es;
+ path=/, _session_id2=7a38fed88548c7cc8bd5af3a681d5848; path=/;
+ expires=Sat, 15 Apr 2017 21:16:55 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 24690
+server: Server
+x-runtime: 0.433840
+etag: W/"1088650f996149323ac7d8cdd2d65281"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:16:55 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>826613841</id>
+    
+  <user>
+    <id>27788046</id>
+    <name>Bookdragon Sean </name>
+    <display_name>Bookdragon Sean </display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27788046-bookdragon-sean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488703660p3/27788046.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488703660p2/27788046.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">5915</id>
+  <isbn>0261103288</isbn>
+  <isbn13>9780261103283</isbn13>
+  <text_reviews_count type="integer">268</text_reviews_count>
+  <title>The Hobbit</title>
+  <title_without_series>The Hobbit</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1294578696m/5915.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1294578696s/5915.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/5915.The_Hobbit</link>
+  <num_pages>277</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.24</average_rating>
+  <ratings_count>2139201</ratings_count>
+  <description>'The Hobbit' is a tale of high adventure, undertaken by a company of dwarves in search of dragon-guarded gold. A reluctant partner in this perilous quest is Bilbo Baggins, a comfort-loving, unambitious hobbit.</description>
+<authors>
+<author>
+<id>656983</id>
+<name>J.R.R. Tolkien</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1434625177p5/656983.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1434625177p2/656983.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
+<average_rating>4.30</average_rating>
+<ratings_count>6098482</ratings_count>
+<text_reviews_count>90948</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">470878837</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Mon Jun 23 03:32:45 -0700 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">466739434</id>
+          <old_status>read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Thu Jun 19 10:51:38 -0700 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">285630554</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Fri Jan 17 15:28:43 -0800 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>152</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="fantasy" exclusive="false" review_shelf_id="1023871139" sortable="false" />
+    <shelf name="tolkien" exclusive="false" review_shelf_id="713037729" sortable="false" />
+    <shelf name="5-star-reads" exclusive="false" review_shelf_id="1224697660" sortable="false" />
+    <shelf name="children-of-all-ages" exclusive="false" review_shelf_id="1078446319" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Jun 19 00:00:00 -0700 2014</started_at>
+  <read_at>Wed Jul 01 00:00:00 -0700 2015</read_at>
+  <date_added>Fri Jan 17 15:28:43 -0800 2014</date_added>
+  <date_updated>Sat Feb 13 01:34:12 -0800 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[To call this the epitome in which all high fantasy should be judged does not quite suffice; this is simply one of the best books that has ever been written or will ever be written. The Hobbit defines the high fantasy genre along with its sequel, of course, and has been an inspiration to countless...]]>
+  </body>
+
+  
+
+  <comments_count>21</comments_count>
+    <comments start="1" end="21" total="21">
+        <comment>
+  <id>131146551</id>
+  <body><![CDATA[Great review, Sean! I'm glad we agree that this is the best fantasy universe ever created.]]></body>
+  
+  <user>
+    <id>26681101</id>
+    <name>Markus</name>
+    <display_name>Markus</display_name>
+
+    <location>Norway</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/26681101-markus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1421952301p3/26681101.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1421952301p2/26681101.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 01 14:10:52 -0700 2015</created_at>
+  <updated_at>Wed Jul 01 14:10:52 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>131166503</id>
+  <body><![CDATA[<i>Markus wrote: "Great review, Sean! I'm glad we agree that this is the best fantasy universe ever created."</i><br /><br />Thanks :) <br /><br />As much as I love other fantasy universes, nothing can ever compare to Tolkien’s.]]></body>
+  
+  <user>
+    <id>27788046</id>
+    <name>Bookdragon Sean </name>
+    <display_name>Bookdragon Sean </display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27788046-bookdragon-sean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488703660p3/27788046.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488703660p2/27788046.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 01 23:02:15 -0700 2015</created_at>
+  <updated_at>Wed Jul 01 23:02:15 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>131168049</id>
+  <body><![CDATA[Great review! Middle-earth really is the best fantasy universe.]]></body>
+  
+  <user>
+    <id>349639</id>
+    <name>Argona</name>
+    <display_name>Argona</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/349639-argona]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1476301474p3/349639.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1476301474p2/349639.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 02 00:08:09 -0700 2015</created_at>
+  <updated_at>Thu Jul 02 00:08:09 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>131181390</id>
+  <body><![CDATA[<i>Argona wrote: "Great review! Middle-earth really is the best fantasy universe."</i><br /><br />Thanks! :)]]></body>
+  
+  <user>
+    <id>27788046</id>
+    <name>Bookdragon Sean </name>
+    <display_name>Bookdragon Sean </display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27788046-bookdragon-sean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488703660p3/27788046.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488703660p2/27788046.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 02 08:44:26 -0700 2015</created_at>
+  <updated_at>Thu Jul 02 08:44:26 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>131195778</id>
+  <body><![CDATA[Wonderful review! The first two sentences of this book are so brilliant. The Hobbit is one of my all time favorite books, and now I feel like I need to re-read it :) I think you're dead right that Middle Earth qualities can be found in most high fantasy.]]></body>
+  
+  <user>
+    <id>30741600</id>
+    <name>Nikki</name>
+    <display_name>Nikki</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/30741600-nikki]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1399164322p3/30741600.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1399164322p2/30741600.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 02 13:34:32 -0700 2015</created_at>
+  <updated_at>Thu Jul 02 13:34:32 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>131195928</id>
+  <body><![CDATA[<i>Nikki wrote: "Wonderful review! The first two sentences of this book are so brilliant. The Hobbit is one of my all time favorite books, and now I feel like I need to re-read it :) I think you're dead right that ..."</i><br /><br />Thanks :)<br /><br />I think it's too much of an inspiration for it not to be. I think sometimes authors use elements of it without even being aware of doing so.]]></body>
+  
+  <user>
+    <id>27788046</id>
+    <name>Bookdragon Sean </name>
+    <display_name>Bookdragon Sean </display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27788046-bookdragon-sean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488703660p3/27788046.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488703660p2/27788046.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 02 13:37:43 -0700 2015</created_at>
+  <updated_at>Thu Jul 02 13:37:43 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>131196263</id>
+  <body><![CDATA[Great review! Although this isn't the sort of book I would like to read my husband would love it! Going to recommend it to him.]]></body>
+  
+  <user>
+    <id>24442706</id>
+    <name>Doreen</name>
+    <display_name>Doreen Petersen</display_name>
+
+    <location>Boston, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24442706-doreen-petersen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1447577049p3/24442706.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1447577049p2/24442706.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 02 13:44:38 -0700 2015</created_at>
+  <updated_at>Thu Jul 02 13:44:38 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>131273183</id>
+  <body><![CDATA[I love the review, Sean.. And I agree, reading it was huge. The unique and elegant way he writes takes a person into the story as part of the magic.. I love the book and mark it one of the best ever written.]]></body>
+  
+  <user>
+    <id>34762955</id>
+    <name>Efrona</name>
+    <display_name>Efrona Mor</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34762955-efrona-mor]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1412343268p3/34762955.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1412343268p2/34762955.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jul 04 08:33:18 -0700 2015</created_at>
+  <updated_at>Sat Jul 04 08:33:18 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>131276791</id>
+  <body><![CDATA[<i>Doreen wrote: "Great review! Although this isn't the sort of book I would like to read my husband would love it! Going to recommend it to him."</i><br /><br />I hope he likes it! :)]]></body>
+  
+  <user>
+    <id>27788046</id>
+    <name>Bookdragon Sean </name>
+    <display_name>Bookdragon Sean </display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27788046-bookdragon-sean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488703660p3/27788046.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488703660p2/27788046.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jul 04 10:16:28 -0700 2015</created_at>
+  <updated_at>Sat Jul 04 10:16:28 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>131276853</id>
+  <body><![CDATA[<i>Efrona wrote: "I love the review, Sean.. And I agree, reading it was huge. The unique and elegant way he writes takes a person into the story as part of the magic.. I love the book and mark it one of the best eve..."</i><br /><br />Thanks :)<br /><br />Its something I'll read many more times. Sometimes I just pick it up and read a paragraph or so just to brighten my day.]]></body>
+  
+  <user>
+    <id>27788046</id>
+    <name>Bookdragon Sean </name>
+    <display_name>Bookdragon Sean </display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27788046-bookdragon-sean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488703660p3/27788046.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488703660p2/27788046.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jul 04 10:18:18 -0700 2015</created_at>
+  <updated_at>Sat Jul 04 10:18:18 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>131277025</id>
+  <body><![CDATA[<i>Bookworm Sean wrote: "Doreen wrote: "Great review! Although this isn't the sort of book I would like to read my husband would love it! Going to recommend it to him."<br /><br />I hope he likes it! :)"</i><br /><br />I'm sure he will Sean. As a surprise I dowloaded it on his Nook. He'll love it!]]></body>
+  
+  <user>
+    <id>24442706</id>
+    <name>Doreen</name>
+    <display_name>Doreen Petersen</display_name>
+
+    <location>Boston, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24442706-doreen-petersen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1447577049p3/24442706.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1447577049p2/24442706.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jul 04 10:23:08 -0700 2015</created_at>
+  <updated_at>Sat Jul 04 10:23:08 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>131277349</id>
+  <body><![CDATA[<i>Bookworm Sean wrote: "Efrona wrote: "I love the review, Sean.. And I agree, reading it was huge. The unique and elegant way he writes takes a person into the story as part of the magic.. I love the book and mark it one ..."</i><br /><br />I do the same, reading a paragraph refreshes my mind..]]></body>
+  
+  <user>
+    <id>34762955</id>
+    <name>Efrona</name>
+    <display_name>Efrona Mor</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34762955-efrona-mor]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1412343268p3/34762955.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1412343268p2/34762955.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jul 04 10:31:35 -0700 2015</created_at>
+  <updated_at>Sat Jul 04 10:31:35 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>131281090</id>
+  <body><![CDATA[<i>Doreen wrote: "Bookworm Sean wrote: "Doreen wrote: "Great review! Although this isn't the sort of book I would like to read my husband would love it! Going to recommend it to him."<br /><br />I hope he likes it! :)"<br /><br />I'm s..."</i><br /><br />ooo very sneaky. ;)]]></body>
+  
+  <user>
+    <id>27788046</id>
+    <name>Bookdragon Sean </name>
+    <display_name>Bookdragon Sean </display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27788046-bookdragon-sean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488703660p3/27788046.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488703660p2/27788046.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jul 04 12:13:14 -0700 2015</created_at>
+  <updated_at>Sat Jul 04 12:13:14 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>131281124</id>
+  <body><![CDATA[<i>Efrona wrote: "Bookworm Sean wrote: "Efrona wrote: "I love the review, Sean.. And I agree, reading it was huge. The unique and elegant way he writes takes a person into the story as part of the magic.. I love the..."</i><br /><br />Its the best way sometimes. I often re-read my favourite books over a long period of time. Sometimes a chapter a day. That way it feels like your allways reading it!]]></body>
+  
+  <user>
+    <id>27788046</id>
+    <name>Bookdragon Sean </name>
+    <display_name>Bookdragon Sean </display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27788046-bookdragon-sean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488703660p3/27788046.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488703660p2/27788046.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jul 04 12:14:23 -0700 2015</created_at>
+  <updated_at>Sat Jul 04 12:14:23 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>131281451</id>
+  <body><![CDATA[<i>Bookworm Sean wrote: "Doreen wrote: "Bookworm Sean wrote: "Doreen wrote: "Great review! Although this isn't the sort of book I would like to read my husband would love it! Going to recommend it to him."<br /><br />I hope he likes..."</i><br /><br />Nah, it's just because I love him very much and I know he'll love it. I paid for the copy. He takes good care of me so how can I not do something nice for him.]]></body>
+  
+  <user>
+    <id>24442706</id>
+    <name>Doreen</name>
+    <display_name>Doreen Petersen</display_name>
+
+    <location>Boston, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24442706-doreen-petersen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1447577049p3/24442706.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1447577049p2/24442706.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jul 04 12:24:06 -0700 2015</created_at>
+  <updated_at>Sat Jul 04 12:24:06 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141199387</id>
+  <body><![CDATA[I think that is my favourite book of all time! ;)]]></body>
+  
+  <user>
+    <id>34207574</id>
+    <name>Miquel</name>
+    <display_name>Miquel Reina</display_name>
+
+    <location>Barcelona, Spain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34207574-miquel-reina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1472878884p3/34207574.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1472878884p2/34207574.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Oct 08 03:05:03 -0700 2015</created_at>
+  <updated_at>Thu Oct 08 03:05:03 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>144110331</id>
+  <body><![CDATA[I agree with you this universe is one of the best ever created. Very few created universes and lores even reach this kind of quality.]]></body>
+  
+  <user>
+    <id>47847226</id>
+    <name>José</name>
+    <display_name>José</display_name>
+
+    <location>Tampico, 28, Mexico</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/47847226-jos]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1445482288p3/47847226.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1445482288p2/47847226.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Dec 09 08:09:48 -0800 2015</created_at>
+  <updated_at>Wed Dec 09 08:09:48 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>144115849</id>
+  <body><![CDATA[<i>José wrote: "I agree with you this universe is one of the best ever created. Very few created universes and lores even reach this kind of quality."</i><br /><br />so true!]]></body>
+  
+  <user>
+    <id>27788046</id>
+    <name>Bookdragon Sean </name>
+    <display_name>Bookdragon Sean </display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27788046-bookdragon-sean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488703660p3/27788046.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488703660p2/27788046.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Dec 09 10:32:00 -0800 2015</created_at>
+  <updated_at>Wed Dec 09 10:32:00 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>144137947</id>
+  <body><![CDATA[Totally agree, cant think of a better fantasy world.]]></body>
+  
+  <user>
+    <id>47847210</id>
+    <name>Juan</name>
+    <display_name>Juan Sarmiento</display_name>
+
+    <location>Tampico, 19, Mexico</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/47847210-juan-sarmiento]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1444661455p3/47847210.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1444661455p2/47847210.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Dec 09 19:55:40 -0800 2015</created_at>
+  <updated_at>Wed Dec 09 19:55:40 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>145545735</id>
+  <body><![CDATA[<i>Juan wrote: "Totally agree, cant think of a better fantasy world."</i><br /><br />it rocks! ;)]]></body>
+  
+  <user>
+    <id>27788046</id>
+    <name>Bookdragon Sean </name>
+    <display_name>Bookdragon Sean </display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27788046-bookdragon-sean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488703660p3/27788046.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488703660p2/27788046.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 06 12:04:42 -0800 2016</created_at>
+  <updated_at>Wed Jan 06 12:04:42 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>149266309</id>
+  <body><![CDATA[<i>Iniustis wrote: "...this is simply one of the best books that has ever been written or will ever be written.<br /><br />That's an extremely bold statement, and one with which I have to respectfully disagree.<br /><br />While Tolkien w..."</i><br /><br />Well, the book certainly set up the modern fantasy genre. Would fantasy be the same today without Tolkien? No, I think not. <br /><br />And for me, as a fantasy fan, it remains true. Objectively speaking, my statement isn’t true. But for me, on a subjective level, it is. This is a review so it’s only opinion. I’m just a crazy Tolkien fan, but of course there are better written pieces of literature out there. <br /><br />Sure it may have flaws (the ending). All books do, even canonical literature. No book is perfect, but what you consider this book's flaws, are what I consider part of overall effect. The description is important, and, if anything, the Hobbit was too short rather than bloated.]]></body>
+  
+  <user>
+    <id>27788046</id>
+    <name>Bookdragon Sean </name>
+    <display_name>Bookdragon Sean </display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27788046-bookdragon-sean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488703660p3/27788046.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488703660p2/27788046.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 22 01:25:47 -0700 2016</created_at>
+  <updated_at>Tue Mar 22 01:25:47 -0700 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/826613841]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/826613841]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

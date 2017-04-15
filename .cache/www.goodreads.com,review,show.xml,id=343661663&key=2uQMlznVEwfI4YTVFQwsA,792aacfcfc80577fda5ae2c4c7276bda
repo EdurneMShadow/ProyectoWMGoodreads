@@ -1,0 +1,551 @@
+status: 200
+x-request-id: 094R4FC22HJZ2BA0X68K
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=343661663&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhg3OTItMjYzNTM4My0wOTM3NjU1BjoGRVQ%3D--5135c91ed1249ecde25cd2a3e67c5d46903c4273;
+ path=/; expires=Wed, 15 Apr 2037 15:23:23 -0000, locale=es;
+ path=/, _session_id2=f3b744aff80180eae9b3cd54c04db805; path=/;
+ expires=Sat, 15 Apr 2017 21:23:23 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 21024
+server: Server
+x-runtime: 0.443147
+etag: W/"c7aa37dc82e9ec18495813f4a1da97db"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:23:23 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>343661663</id>
+    
+  <user>
+    <id>9303625</id>
+    <name>Zoë</name>
+    <display_name>Zoë</display_name>
+
+    <location>Orlando, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9303625-zo]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1469671837p3/9303625.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1469671837p2/9303625.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">3</id>
+  <isbn>0439554934</isbn>
+  <isbn13>9780439554930</isbn13>
+  <text_reviews_count type="integer">55568</text_reviews_count>
+  <title>Harry Potter and the Sorcerer's Stone (Harry Potter, #1)</title>
+  <title_without_series>Harry Potter and the Sorcerer's Stone</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1474154022m/3.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1474154022s/3.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone</link>
+  <num_pages>320</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Arthur A. Levine Books</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>1997</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.44</average_rating>
+  <ratings_count>4576472</ratings_count>
+  <description>Harry Potter's life is miserable. His parents are dead and he's stuck with his heartless relatives, who force him to live in a tiny closet under the stairs. But his fortune changes when he receives a letter that tells him the truth about himself: he's a wizard. A mysterious visitor rescues him from his relatives and takes him to his new home, Hogwarts School of Witchcraft and Wizardry.&lt;br /&gt;&lt;br /&gt;After a lifetime of bottling up his magical powers, Harry finally feels like a normal kid. But even within the Wizarding community, he is special. He is the boy who lived: the only person to have ever survived a killing curse inflicted by the evil Lord Voldemort, who launched a brutal takeover of the Wizarding world, only to vanish after failing to kill Harry.&lt;br /&gt;&lt;br /&gt;Though Harry's first year at Hogwarts is the best of his life, not everything is perfect. There is a dangerous secret object hidden within the castle walls, and Harry believes it's his responsibility to prevent it from falling into evil hands. But doing so will bring him into contact with forces more terrifying than he ever could have imagined.&lt;br /&gt;&lt;br /&gt;Full of sympathetic characters, wildly imaginative situations, and countless exciting details, the first installment in the series assembles an unforgettable magical world and sets the stage for many high-stakes adventures to come.</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1415945171p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1415945171p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.42</average_rating>
+<ratings_count>17561506</ratings_count>
+<text_reviews_count>435220</text_reviews_count>
+</author>
+</authors>
+  <published>1997</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">58964904</id>
+          <page type="integer">191</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Feb 07 08:55:13 -0800 2015</created_at>
+          <updated_at type="datetime">Sat Feb 07 08:55:20 -0800 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">49</ratings_count>
+          <percent type="integer">61</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.803762ceac1c916d3829e57198b6a3c0</note_uri>
+          <note_updated_at type="datetime">Sat Feb 07 08:55:20 -0800 2015</note_updated_at>
+          <body><![CDATA[I always forget how much of a cutie little Neville is awww]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">58486778</id>
+          <page type="integer">47</page>
+          <chapter type="integer"></chapter>
+          <comments_count>2</comments_count>
+          <created_at type="datetime">Sun Feb 01 18:42:20 -0800 2015</created_at>
+          <updated_at type="datetime">Sun Feb 01 18:42:50 -0800 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">92</ratings_count>
+          <percent type="integer">15</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.dadf70237ee88c26d6aa7b2fc30ad4a7</note_uri>
+          <note_updated_at type="datetime">Sun Feb 01 18:42:50 -0800 2015</note_updated_at>
+          <body><![CDATA[Not gonna lie I have most of this book memorized because I've read it like 7+ times STILL FAB THOUGH]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">58483734</id>
+          <page type="integer">1</page>
+          <chapter type="integer"></chapter>
+          <comments_count>1</comments_count>
+          <created_at type="datetime">Sun Feb 01 17:57:55 -0800 2015</created_at>
+          <updated_at type="datetime">Sun Feb 01 17:58:40 -0800 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">28</ratings_count>
+          <percent type="integer">0</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.a384def7fe0ff3abe373f9065e42a6cb</note_uri>
+          <note_updated_at type="datetime">Sun Feb 01 17:58:40 -0800 2015</note_updated_at>
+          <body><![CDATA[CURRENTLY READING THIS SERIES FOR THE THIRD TIME I'M SO PUMPED]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">50293981</id>
+          <page type="integer">65</page>
+          <chapter type="integer"></chapter>
+          <comments_count>6</comments_count>
+          <created_at type="datetime">Sun Sep 28 17:59:49 -0700 2014</created_at>
+          <updated_at type="datetime">Sun Sep 28 18:00:20 -0700 2014</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">25</ratings_count>
+          <percent type="integer">20</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.48b86bd8c6344e5810134a1cb54ab966</note_uri>
+          <note_updated_at type="datetime">Sun Sep 28 18:00:20 -0700 2014</note_updated_at>
+          <body><![CDATA[Re-reading the series and re-watching all of the movies because why not?]]></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">1513713262</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sat Sep 17 20:08:49 -0700 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1513713093</id>
+          <old_status>read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Sat Sep 17 20:08:38 -0700 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">748017437</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sat Feb 07 11:57:26 -0800 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">740298336</id>
+          <old_status>read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Sun Feb 01 17:57:08 -0800 2015</updated_at>
+          <ratings_count>25</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">586895404</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Sep 28 20:15:18 -0700 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">586751990</id>
+          <old_status>read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Sun Sep 28 17:54:19 -0700 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">252815912</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Wed Dec 25 12:01:36 -0800 2013</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">252593813</id>
+          <old_status>read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Wed Dec 25 07:30:23 -0800 2013</updated_at>
+          <ratings_count>1</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>575</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="favorites" exclusive="false" review_shelf_id="855310868" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sat Sep 10 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Jun 06 16:50:40 -0700 2012</date_added>
+  <date_updated>Sat Sep 17 20:13:29 -0700 2016</date_updated>
+  <read_count>6</read_count>
+  <body>
+      <![CDATA[Update September 2016: Currently rereading this series <i>again</i>! (I need to sort out my priorities.)<br /><br />I will never ever rate this lower than 5 stars. BEAUTIFUL. ]]>
+  </body>
+
+  
+
+  <comments_count>13</comments_count>
+    <comments start="1" end="13" total="13">
+        <comment>
+  <id>114205189</id>
+  <body><![CDATA[The more I read this book, the more I love it. There are plenty of phrases that I underlined. My most beloved series!]]></body>
+  
+  <user>
+    <id>38431199</id>
+    <name>Maru</name>
+    <display_name>Maru Piazza</display_name>
+
+    <location>Buenos Aires, 07, Argentina</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/38431199-maru-piazza]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1419718158p3/38431199.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1419718158p2/38431199.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 07 12:31:40 -0800 2015</created_at>
+  <updated_at>Sat Feb 07 12:31:40 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>114206219</id>
+  <body><![CDATA[There should be a 10/10 rating system for just the Harry Potter series !! xD]]></body>
+  
+  <user>
+    <id>13278935</id>
+    <name>Rimishha</name>
+    <display_name>Rimishha Eejaz</display_name>
+
+    <location><![CDATA[Dubai, 03, The United Arab Emirates]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13278935-rimishha-eejaz]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1489375076p3/13278935.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1489375076p2/13278935.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 07 12:53:48 -0800 2015</created_at>
+  <updated_at>Sat Feb 07 12:53:48 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>114206611</id>
+  <body><![CDATA[❤️ Harry Potter ⚡️]]></body>
+  
+  <user>
+    <id>30969627</id>
+    <name>Francisca</name>
+    <display_name>Francisca Becerra</display_name>
+
+    <location>Santiago, 12, Chile</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/30969627-francisca-becerra]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1451219137p3/30969627.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1451219137p2/30969627.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 07 13:02:07 -0800 2015</created_at>
+  <updated_at>Sat Feb 07 13:02:07 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>114207318</id>
+  <body><![CDATA[I could not agree more! ⚡️]]></body>
+  
+  <user>
+    <id>36345815</id>
+    <name>Moya</name>
+    <display_name>Moya Noctor</display_name>
+
+    <location>Ireland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/36345815-moya-noctor]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1474678170p3/36345815.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1474678170p2/36345815.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 07 13:17:54 -0800 2015</created_at>
+  <updated_at>Sat Feb 07 13:17:54 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>114210696</id>
+  <body><![CDATA[It would be a sin to rate it less than a 5]]></body>
+  
+  <user>
+    <id>25145566</id>
+    <name>Sakina (aforestofbooks)</name>
+    <display_name>Sakina (aforestofbooks)</display_name>
+
+    <location>Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25145566-sakina-aforestofbooks]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1489080715p3/25145566.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1489080715p2/25145566.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 07 14:21:07 -0800 2015</created_at>
+  <updated_at>Sat Feb 07 14:21:07 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>114784144</id>
+  <body><![CDATA[I absolutely love this series too]]></body>
+  
+  <user>
+    <id>38126329</id>
+    <name>Nati</name>
+    <display_name>Nati</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/38126329-nati]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1448721933p3/38126329.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1448721933p2/38126329.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 17 19:28:31 -0800 2015</created_at>
+  <updated_at>Tue Feb 17 19:28:31 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>114784146</id>
+  <body><![CDATA[I absolutely love this series too]]></body>
+  
+  <user>
+    <id>38126329</id>
+    <name>Nati</name>
+    <display_name>Nati</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/38126329-nati]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1448721933p3/38126329.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1448721933p2/38126329.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 17 19:28:33 -0800 2015</created_at>
+  <updated_at>Tue Feb 17 19:28:33 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>156953971</id>
+  <body><![CDATA[I'm planning to re read as well! Before fantastic beasts comes out :)]]></body>
+  
+  <user>
+    <id>30440197</id>
+    <name>Madison</name>
+    <display_name>Madison Foy</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/30440197-madison-foy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1452636654p3/30440197.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1452636654p2/30440197.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Sep 17 20:36:55 -0700 2016</created_at>
+  <updated_at>Sat Sep 17 20:36:55 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>156955450</id>
+  <body><![CDATA[I have been wondering... how can you put a book you already read in your reading challenge? CAN you put it toward your reading challenge if you have already read it?]]></body>
+  
+  <user>
+    <id>38208320</id>
+    <name>Chantal</name>
+    <display_name>Chantal</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/38208320-chantal]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1451074502p3/38208320.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1451074502p2/38208320.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Sep 17 21:31:08 -0700 2016</created_at>
+  <updated_at>Sat Sep 17 21:31:08 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>156979216</id>
+  <body><![CDATA[I love this one and prisoner of azkaban ❤️❤️❤️]]></body>
+  
+  <user>
+    <id>43359632</id>
+    <name>kat ♥</name>
+    <display_name>kat ♥</display_name>
+
+    <location><![CDATA[Birmingham, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/43359632-kat]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1481714425p3/43359632.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1481714425p2/43359632.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Sep 18 13:29:30 -0700 2016</created_at>
+  <updated_at>Sun Sep 18 13:29:30 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158977187</id>
+  <body><![CDATA[i argee]]></body>
+  
+  <user>
+    <id>59796859</id>
+    <name>Michael G LaVorgna</name>
+    <display_name>Michael G LaVorgna</display_name>
+
+    <location>Germany</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/59796859-michael-g-lavorgna]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu Nov 10 11:12:38 -0800 2016</created_at>
+  <updated_at>Thu Nov 10 11:12:38 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159328760</id>
+  <body><![CDATA[Your priorities are pretty good to me! ]]></body>
+  
+  <user>
+    <id>61579840</id>
+    <name>Rose</name>
+    <display_name>Rose</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/61579840-rose]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1491581571p3/61579840.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1491581571p2/61579840.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 20 09:29:36 -0800 2016</created_at>
+  <updated_at>Sun Nov 20 09:29:36 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>161285293</id>
+  <body><![CDATA[I know right this is my favorite beginning to a book besides The Bad Beginning by Lemony Snicket I loved this book and by the way I'm in Ravenclaw!!!!]]></body>
+  
+  <user>
+    <id>63650123</id>
+    <name>Layda</name>
+    <display_name>Layda</display_name>
+
+    <location>Veradale, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/63650123-layda]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1485635262p3/63650123.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1485635262p2/63650123.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 09 13:00:29 -0800 2017</created_at>
+  <updated_at>Mon Jan 09 13:00:29 -0800 2017</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/343661663]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/343661663]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

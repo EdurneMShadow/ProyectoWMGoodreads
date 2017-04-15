@@ -1,0 +1,724 @@
+status: 200
+x-request-id: KT9K2ZTWMJNCXMRD7GG2
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=133726855&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhgxMDgtMjcyMzUwMS0yODQyNzA0BjoGRVQ%3D--094e486f32dca9d1965f75fa34d8fa05205c1a06;
+ path=/; expires=Wed, 15 Apr 2037 17:02:27 -0000, locale=es;
+ path=/, _session_id2=aeddc6d3b6563c16f51f30490ca823e3; path=/;
+ expires=Sat, 15 Apr 2017 23:02:27 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 28546
+server: Server
+x-runtime: 0.418714
+etag: W/"181ff8951dd878c86c756993c992a165"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 17:02:27 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>133726855</id>
+    
+  <user>
+    <id>4622890</id>
+    <name>Emily May</name>
+    <display_name>Emily May</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4622890-emily-may]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1402215455p3/4622890.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1402215455p2/4622890.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">18490</id>
+  <isbn>0141439475</isbn>
+  <isbn13>9780141439471</isbn13>
+  <text_reviews_count type="integer">12948</text_reviews_count>
+  <title>Frankenstein</title>
+  <title_without_series>Frankenstein</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1381512375m/18490.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1381512375s/18490.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18490.Frankenstein</link>
+  <num_pages>273</num_pages>
+  <format>Paperback</format>
+  <edition_information>Penguin Classics</edition_information>
+  <publisher>Penguin Books</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.75</average_rating>
+  <ratings_count>855238</ratings_count>
+  <description>&lt;b&gt;Mary Shelley&lt;/b&gt; began writing &lt;i&gt;Frankenstein&lt;/i&gt; when she was only eighteen. At once a Gothic thriller, a passionate romance, and a cautionary tale about the dangers of science, &lt;i&gt;Frankenstein&lt;/i&gt; tells the story of committed science student Victor Frankenstein. Obsessed with discovering the cause of generation and life and bestowing animation upon lifeless matter, Frankenstein assembles a human being from stolen body parts but; upon bringing it to life, he recoils in horror at the creature's hideousness. Tormented by isolation and loneliness, the once-innocent creature turns to evil and unleashes a campaign of murderous revenge against his creator, Frankenstein.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Frankenstein&lt;/i&gt;, an instant bestseller and an important ancestor of both the horror and science fiction genres, not only tells a terrifying story, but also raises profound, disturbing questions about the very nature of life and the place of humankind within the cosmos: What does it mean to be human? What responsibilities do we have to each other? How far can we go in tampering with Nature? In our age, filled with news of organ donation genetic engineering, and bio-terrorism, these questions are more relevant than ever.</description>
+<authors>
+<author>
+<id>11139</id>
+<name>Mary Wollstonecraft Shelley</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p5/11139.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p2/11139.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/11139.Mary_Wollstonecraft_Shelley]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>877806</ratings_count>
+<text_reviews_count>20767</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>338</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="classics" exclusive="false" review_shelf_id="97735264" sortable="false" />
+    <shelf name="sci-fi" exclusive="false" review_shelf_id="97735263" sortable="false" />
+    <shelf name="favourites" exclusive="false" review_shelf_id="986784974" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Oct 07 00:00:00 -0700 2004</read_at>
+  <date_added>Sun Dec 05 13:43:47 -0800 2010</date_added>
+  <date_updated>Sun May 17 10:27:19 -0700 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<blockquote> <b> <i>“I have love in me the likes of which you can scarcely imagine and rage the likes of which you would not believe. If I cannot satisfy the one, I will indulge the other.”</i> </b> </blockquote><br />I was walking along earlier today with <a href="https://www.leafmarks.com/lm/#/users/10005/profile" rel="nofollow">Jacquie</a> and discussing the important things like, you know... books. And the subject...]]>
+  </body>
+
+  
+
+  <comments_count>26</comments_count>
+    <comments start="1" end="26" total="26">
+        <comment>
+  <id>104764851</id>
+  <body><![CDATA[My word. Frankenstein. I still remember sitting in my high school english class, debating whether Frankenstein made the monster or whether people's fear did that. This is such a great story and you captured the beauty of it so excellently. One of your best reviews yet.]]></body>
+  
+  <user>
+    <id>28953881</id>
+    <name>Krystal</name>
+    <display_name>Krystal</display_name>
+
+    <location>Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/28953881-krystal]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1399364721p3/28953881.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1399364721p2/28953881.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 22 01:12:27 -0700 2014</created_at>
+  <updated_at>Fri Aug 22 01:12:27 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104766480</id>
+  <body><![CDATA[I am reading this, right now. Chapter 4 is the greatest literature I've ever read.]]></body>
+  
+  <user>
+    <id>6075206</id>
+    <name>Ravyn</name>
+    <display_name>Ravyn</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6075206-ravyn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1464821173p3/6075206.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1464821173p2/6075206.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 22 02:41:43 -0700 2014</created_at>
+  <updated_at>Fri Aug 22 02:41:43 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104771037</id>
+  <body><![CDATA[Frankenstein is one of the books my heart is made of. What a great review--you really captured the book!]]></body>
+  
+  <user>
+    <id>7727874</id>
+    <name>Mackenzi</name>
+    <display_name>Mackenzi</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7727874-mackenzi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1414592130p3/7727874.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1414592130p2/7727874.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 22 05:47:51 -0700 2014</created_at>
+  <updated_at>Fri Aug 22 05:47:51 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104771547</id>
+  <body><![CDATA[Great review! I read this book last year and I have had some difficulty to find in these pages the monster that belong to general imagination. It is more complex and 'human', for good or evil, dragged to his destiny by human hate.]]></body>
+  
+  <user>
+    <id>13998557</id>
+    <name>Andrew</name>
+    <display_name>Andrew</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13998557-andrew]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1353241952p3/13998557.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1353241952p2/13998557.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 22 06:03:02 -0700 2014</created_at>
+  <updated_at>Fri Aug 22 06:03:02 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104771556</id>
+  <body><![CDATA[that was a beautiful review whemnim done the book im reading im definitely reading Frankenstein]]></body>
+  
+  <user>
+    <id>30158319</id>
+    <name>Sonya &amp; johansen &amp; love</name>
+    <display_name>Sonya &amp; johansen &amp; love</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/30158319-sonya-johansen-love]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 22 06:03:18 -0700 2014</created_at>
+  <updated_at>Fri Aug 22 06:03:18 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104775460</id>
+  <body><![CDATA[I can't stop myself grinning in response to that first line of yours. An absolutely stellar review that has me compelled to reread this one again.]]></body>
+  
+  <user>
+    <id>6003113</id>
+    <name>Mike</name>
+    <display_name>Mike</display_name>
+
+    <location>Winnipeg, MB, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6003113-mike]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1330719867p3/6003113.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1330719867p2/6003113.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 22 07:35:18 -0700 2014</created_at>
+  <updated_at>Fri Aug 22 07:35:18 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104778920</id>
+  <body><![CDATA[Beautifully written review! I will definitely be rereading this classic over the weekend. Thanks for bringing it back to my attention:)]]></body>
+  
+  <user>
+    <id>28045422</id>
+    <name>PageTurner</name>
+    <display_name>PageTurner</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/28045422-pageturner]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1479348600p3/28045422.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1479348600p2/28045422.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 22 08:42:32 -0700 2014</created_at>
+  <updated_at>Fri Aug 22 08:42:32 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104779796</id>
+  <body><![CDATA[I read this in high school but I don't think I fully appreciated it's terrible beauty. I think a re-read is in order.]]></body>
+  
+  <user>
+    <id>8636628</id>
+    <name>Elise</name>
+    <display_name>Elise</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8636628-elise]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1474605628p3/8636628.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1474605628p2/8636628.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 22 08:57:39 -0700 2014</created_at>
+  <updated_at>Fri Aug 22 08:57:39 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104786014</id>
+  <body><![CDATA[Thank you all for your kind comments :)<br /><br />@Mike You know I'm right, hehe.<br /><br />@Elise I know exactly what you mean. I remember hating so many classics when we were made to study them in school... now they're some of my all time favourites.]]></body>
+  
+  <user>
+    <id>4622890</id>
+    <name>Emily May</name>
+    <display_name>Emily May</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4622890-emily-may]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1402215455p3/4622890.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1402215455p2/4622890.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 22 10:54:44 -0700 2014</created_at>
+  <updated_at>Fri Aug 22 10:54:44 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104808830</id>
+  <body><![CDATA[I totally agree with you. Frankenstein is amongst my favorite books of all time, it is beautifully written and is heart-breakingfully sad. I read it for the first time for a school assignment two years ago, and since then I appreciated its magnificence.<br /><br />Great review, by the way!<br /><br />P.S.:I am right now reading Wuthering Heights, which is, I see, your favorite book, so I hope I like it also.]]></body>
+  
+  <user>
+    <id>19590155</id>
+    <name>Vane</name>
+    <display_name>Vane J.</display_name>
+
+    <location>San José, 08, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/19590155-vane-j]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1468102148p3/19590155.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1468102148p2/19590155.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 22 18:16:54 -0700 2014</created_at>
+  <updated_at>Fri Aug 22 18:16:54 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104811933</id>
+  <body><![CDATA[<i>Krystal wrote: "My word. Frankenstein. I still remember sitting in my high school english class, debating whether Frankenstein made the monster or whether people's fear did that..."</i><br /><br />I really like the way that idea is expressed!]]></body>
+  
+  <user>
+    <id>8734459</id>
+    <name>Tadiana ✩Night Owl☽</name>
+    <display_name>Tadiana ✩Night Owl☽</display_name>
+
+    <location>Salt Lake City, UT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8734459-tadiana-night-owl]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1383845644p3/8734459.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1383845644p2/8734459.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 22 19:20:23 -0700 2014</created_at>
+  <updated_at>Fri Aug 22 19:20:23 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104814801</id>
+  <body><![CDATA[Great review!]]></body>
+  
+  <user>
+    <id>2621253</id>
+    <name>Jessica *The Lovely Books*</name>
+    <display_name>Jessica *The Lovely Books*</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2621253-jessica-the-lovely-books]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1475098688p3/2621253.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1475098688p2/2621253.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 22 20:24:43 -0700 2014</created_at>
+  <updated_at>Fri Aug 22 20:24:43 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104816465</id>
+  <body><![CDATA[great review. it is one of my favorite classics]]></body>
+  
+  <user>
+    <id>5476824</id>
+    <name>Rogier</name>
+    <display_name>Rogier</display_name>
+
+    <location>Paramaribo, Suriname</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5476824-rogier]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1474330417p3/5476824.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1474330417p2/5476824.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 22 21:04:28 -0700 2014</created_at>
+  <updated_at>Fri Aug 22 21:04:28 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104822440</id>
+  <body><![CDATA[Outstanding review!]]></body>
+  
+  <user>
+    <id>6431467</id>
+    <name>s.penkevich</name>
+    <display_name>s.penkevich</display_name>
+
+    <location>Holland, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6431467-s-penkevich]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487244329p3/6431467.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487244329p2/6431467.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 23 00:14:24 -0700 2014</created_at>
+  <updated_at>Sat Aug 23 00:14:24 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104823037</id>
+  <body><![CDATA[Beautiful review :) Frankenstein is on my to read list this year.]]></body>
+  
+  <user>
+    <id>24397240</id>
+    <name>Celeste</name>
+    <display_name>Celeste</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24397240-celeste]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483017099p3/24397240.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483017099p2/24397240.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 23 00:40:10 -0700 2014</created_at>
+  <updated_at>Sat Aug 23 00:40:10 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104834404</id>
+  <body><![CDATA[Pemberly Digital is doing a video adaption (on youtube) with pbs digital studios of this book.]]></body>
+  
+  <user>
+    <id>19458889</id>
+    <name>Kavya</name>
+    <display_name>Kavya</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/19458889-kavya]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1412474347p3/19458889.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1412474347p2/19458889.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 23 08:12:01 -0700 2014</created_at>
+  <updated_at>Sat Aug 23 08:12:01 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104838155</id>
+  <body><![CDATA[I liked this review a lot. Though Frankenstein will always be remembered as a terrible reading experience for me. Yes, the prose was good. I just can't get past the character of Victor Frankenstein. He rejects all those who love him, and brings into the world his monster who never asked to be born again. Ugh, he annoys me so much it ruined the book for me.]]></body>
+  
+  <user>
+    <id>24841370</id>
+    <name>Sydney</name>
+    <display_name>Sydney Hawes</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24841370-sydney-hawes]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1396431277p3/24841370.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1396431277p2/24841370.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 23 09:30:09 -0700 2014</created_at>
+  <updated_at>Sat Aug 23 09:30:09 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>107083306</id>
+  <body><![CDATA[You hit the beauty of this book-- in a world full of unfairness and rejection, love is oft turned to hatred<br />Thanks for your thoughts]]></body>
+  
+  <user>
+    <id>8679617</id>
+    <name>Steve</name>
+    <display_name>Steve Sorenson</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8679617-steve-sorenson]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1348229058p3/8679617.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1348229058p2/8679617.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Oct 01 21:51:43 -0700 2014</created_at>
+  <updated_at>Wed Oct 01 21:51:43 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>107103538</id>
+  <body><![CDATA[<i>Steve wrote: "You hit the beauty of this book-- in a world full of unfairness and rejection, love is oft turned to hatred<br />Thanks for your thoughts"</i><br /><br />Thank you for saying so, Steve :)]]></body>
+  
+  <user>
+    <id>4622890</id>
+    <name>Emily May</name>
+    <display_name>Emily May</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4622890-emily-may]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1402215455p3/4622890.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1402215455p2/4622890.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Oct 02 09:39:29 -0700 2014</created_at>
+  <updated_at>Thu Oct 02 09:39:29 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>107752790</id>
+  <body><![CDATA[Ugh. This story just breaks my heart. That phrase alone sums up the entire story. So sad. Really. You have to open your mind to the writer knowing the Dr. Is the one who's crazy.]]></body>
+  
+  <user>
+    <id>32162550</id>
+    <name>Bannedbooksbestreadsever</name>
+    <display_name>Bannedbooksbestreadsever</display_name>
+
+    <location>Long Pond, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32162550-bannedbooksbestreadsever]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 14 09:48:03 -0700 2014</created_at>
+  <updated_at>Tue Oct 14 09:48:03 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>139930324</id>
+  <body><![CDATA[This is a great review. It actually conjures up all those heartbreaking feelings I had when reading the book. I'm reminded that the "monster" doesn't even have a name. Such a surprising read!]]></body>
+  
+  <user>
+    <id>28060634</id>
+    <name>Vashti</name>
+    <display_name>Vashti</display_name>
+
+    <location>Brisbane, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/28060634-vashti]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1390723680p3/28060634.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1390723680p2/28060634.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Sep 09 04:25:49 -0700 2015</created_at>
+  <updated_at>Wed Sep 09 04:25:49 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>158448903</id>
+  <body><![CDATA[Beautiful review]]></body>
+  
+  <user>
+    <id>3048260</id>
+    <name>Erin ☕ *Proud Book Hoarder*</name>
+    <display_name>Erin ☕ *Proud Book Hoarder*</display_name>
+
+    <location>Lakeland, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3048260-erin-proud-book-hoarder]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480789270p3/3048260.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480789270p2/3048260.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Oct 27 06:23:40 -0700 2016</created_at>
+  <updated_at>Thu Oct 27 06:23:40 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158834731</id>
+  <body><![CDATA[Great Review.<br />I hate calling him 'The monster' seems ridiculously unfair. <br />I feel his pain though I walk around with a scarred face and the looks sometimes feel close to pitchfork mentality.]]></body>
+  
+  <user>
+    <id>16981125</id>
+    <name>Keith**BookReviewing24/7**</name>
+    <display_name>Keith**BookReviewing24/7**</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16981125-keith-bookreviewing24-7]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1362844389p3/16981125.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1362844389p2/16981125.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 06 12:25:18 -0800 2016</created_at>
+  <updated_at>Sun Nov 06 12:25:18 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159135810</id>
+  <body><![CDATA[This review is stunning. I don't like this novel very much, as a reading experience, but I completely agree with your interpretation of it.]]></body>
+  
+  <user>
+    <id>3106785</id>
+    <name>Beth</name>
+    <display_name>Beth Bonini</display_name>
+
+    <location><![CDATA[London, H9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3106785-beth-bonini]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1444482564p3/3106785.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1444482564p2/3106785.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 15 04:18:43 -0800 2016</created_at>
+  <updated_at>Tue Nov 15 04:18:43 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159294297</id>
+  <body><![CDATA[Emily May ~ I wish I had written this review ! This review is Five Star ! The way you have described Mary Shelley's Classic is magnificent. The sweet girl in tears above was me the first time I read this classic . I thought of how horrific it would be for your own Mother or Father or our Creator Father God did not unconditionally love any of the children brought unto this earth . Parents of handicapped and less than perfect children still love and believe their babies are lovely and unconditionally accept them because of the emotional connection of creation and some unknown magical experience that comes with the unexplained feelings we have such as love and the belief in the unknown spiritual connections we feel in our lives . Those feelings of love are miraculously there for people and animals and your whole body aches and lets you know these feelings . There may be no logical reason for these emotions but they do exists in your thoughts and your body reflects and reacts to them just the same. I always found it hard that Frankenstein 's creator rejected him and could not love him at all. Frankenstein had no guidance and was left to his own free will . What if God left us to be born with no guidance or love ? There , now we see why we have people now that act the way they do when they are raised without love and guidance . People that thought the book long , boring and immature in writing style should be a bit patient in remembering the time period and experience of a young woman writer. The idea and concept of the story was very thoughtful for an eighteen year old . <br />Reading your review , I feel like crying for humanity's misfits and those unloved and mistreated everywhere all over again.]]></body>
+  
+  <user>
+    <id>24821592</id>
+    <name>Dawn</name>
+    <display_name>Dawn</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24821592-dawn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1473533156p3/24821592.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1473533156p2/24821592.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Nov 19 10:07:17 -0800 2016</created_at>
+  <updated_at>Sat Nov 19 10:07:17 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>160195271</id>
+  <body><![CDATA[Thanks for giving this great book its proper praise.]]></body>
+  
+  <user>
+    <id>53285002</id>
+    <name>Allan</name>
+    <display_name>Allan Wood</display_name>
+
+    <location>Munfordville, KY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/53285002-allan-wood]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1456935488p3/53285002.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1456935488p2/53285002.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 13 22:27:39 -0800 2016</created_at>
+  <updated_at>Tue Dec 13 22:27:39 -0800 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/133726855]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/133726855]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

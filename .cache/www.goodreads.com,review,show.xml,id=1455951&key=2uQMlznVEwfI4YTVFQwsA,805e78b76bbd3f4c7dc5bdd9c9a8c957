@@ -1,0 +1,1034 @@
+status: 200
+x-request-id: 0VEFV0E2EX02ERXZANVM
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=1455951&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhgxNTYtNjY4NTAxNi01NjQyNzUzBjoGRVQ%3D--3bc0c2c5a0b0c36a4c09a6c5371528f0f6dfd83c;
+ path=/; expires=Wed, 15 Apr 2037 15:16:37 -0000, locale=es;
+ path=/, _session_id2=0dcb22fc550742c0dec3b229d950fdd9; path=/;
+ expires=Sat, 15 Apr 2017 21:16:38 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 38367
+server: Server
+x-runtime: 0.469208
+etag: W/"7821cdfd77ecc582b633f45079969f79"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:16:38 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1455951</id>
+    
+  <user>
+    <id>97448</id>
+    <name>Scott</name>
+    <display_name>Scott</display_name>
+
+    <location>La Paz, Bolivia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/97448-scott]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1180057777p3/97448.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1180057777p2/97448.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">5907</id>
+  <isbn>0618260307</isbn>
+  <isbn13>9780618260300</isbn13>
+  <text_reviews_count type="integer">27500</text_reviews_count>
+  <title>The Hobbit</title>
+  <title_without_series>The Hobbit</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1372847500m/5907.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1372847500s/5907.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/5907.The_Hobbit</link>
+  <num_pages>366</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Houghton Mifflin</publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.24</average_rating>
+  <ratings_count>2139201</ratings_count>
+  <description>&lt;i&gt;In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a hobbit-hole, and that means comfort.&lt;br /&gt;&lt;br /&gt;&lt;/i&gt;Written for J.R.R. Tolkien’s own children, &lt;i&gt;The Hobbit&lt;/i&gt; met with instant critical acclaim when it was first published in 1937. Now recognized as a timeless classic, this introduction to the hobbit Bilbo Baggins, the wizard Gandalf, Gollum, and the spectacular world of Middle-earth recounts of the adventures of a reluctant hero, a powerful and dangerous ring, and the cruel dragon Smaug the Magnificent. The text in this 372-page paperback edition is based on that first published in Great Britain by Collins Modern Classics (1998), and includes a note on the text by Douglas A. Anderson (2001). Unforgettable!&lt;br /&gt;</description>
+<authors>
+<author>
+<id>656983</id>
+<name>J.R.R. Tolkien</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1434625177p5/656983.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1434625177p2/656983.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
+<average_rating>4.30</average_rating>
+<ratings_count>6098482</ratings_count>
+<text_reviews_count>90948</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1217486622</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Jan 31 21:13:47 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>273</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="alltimefavorites" exclusive="false" review_shelf_id="20202442" sortable="false" />
+    <shelf name="multiplereads" exclusive="false" review_shelf_id="414176" sortable="false" />
+    <shelf name="halcyondaysofmyyouth" exclusive="false" review_shelf_id="414177" sortable="false" />
+    <shelf name="post-college" exclusive="false" review_shelf_id="414179" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Jan 08 14:16:25 -0800 2008</read_at>
+  <date_added>Sat May 26 05:41:16 -0700 2007</date_added>
+  <date_updated>Wed Dec 16 20:08:15 -0800 2009</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[There are some days when I actually think that the humble <i>Hobbit</i> is superior to it's bohemoth brother, <i> <a href="https://www.goodreads.com/book/show/34.The_Fellowship_of_the_Ring__The_Lord_of_the_Rings__Part_1_" title="The Fellowship of the Ring (The Lord of the Rings, Part 1) by J.R.R. Tolkien" rel="nofollow">The Lord of the Rings</a> </i>. It's a much tighter story, and Bilbo is a much more appeal character than is Frodo. I also just love this poem, from <i>The Hobbit</i><br /><br />Far over the misty mountains cold<br />To dungeo...]]>
+  </body>
+
+  
+
+  <comments_count>39</comments_count>
+    <comments start="1" end="39" total="39">
+        <comment>
+  <id>107111</id>
+  <body><![CDATA[My first copy (I have multiple copies of MANY of my books)is worn and the pages are yellowed. There is nothing like a worn out book.I was introduced to this wonderful book when I was eleven years old. The chapter entitled "Riddles in the Dark" was in our reader. I've read that chapter a million times and the book just as many. There is nothing like curling up with a well-worn book from your childhood.]]></body>
+  
+  <user>
+    <id>80090</id>
+    <name>Karen</name>
+    <display_name>Karen Fato</display_name>
+
+    <location>Gurnee, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/80090-karen-fato]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 28 14:01:03 -0700 2007</created_at>
+  <updated_at>Tue Aug 28 14:01:03 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>146217</id>
+  <body><![CDATA[I agree. I love the trilogy, but I've always found the Hobbit to be better than the trilogy. Don't get me wrong - I love the other three works, but there is something about The Hobbit's simplicity that has made me reread it a few times over. A great book for anyone, any age.]]></body>
+  
+  <user>
+    <id>162181</id>
+    <name>Rob</name>
+    <display_name>Rob</display_name>
+
+    <location>West Roxbury, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/162181-rob]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1183494368p3/162181.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1183494368p2/162181.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Sep 26 09:49:27 -0700 2007</created_at>
+  <updated_at>Wed Sep 26 09:49:27 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>633264</id>
+  <body><![CDATA[Absolutely agree :)]]></body>
+  
+  <user>
+    <id>2007</id>
+    <name>Erein</name>
+    <display_name>Erein</display_name>
+
+    <location>Pozuelo De Alarc, Spain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2007-erein]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1170875842p3/2007.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1170875842p2/2007.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Apr 16 04:44:52 -0700 2008</created_at>
+  <updated_at>Wed Apr 16 04:44:52 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>2858775</id>
+  <body><![CDATA[I agree as well. The Hobbit has a charming quality that <a href="https://www.goodreads.com/book/show/34.The_Fellowship_of_the_Ring__The_Lord_of_the_Rings__Part_1_" title="The Fellowship of the Ring (The Lord of the Rings, Part 1) by J.R.R. Tolkien" rel="nofollow">the Lord of the Rings</a> lacks. It is a wonderful adventure story that could stand well enough on its own without the larger Lord of the Rings Saga.]]></body>
+  
+  <user>
+    <id>1785649</id>
+    <name>Amanda</name>
+    <display_name>Amanda</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1785649-amanda]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1228766346p3/1785649.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1228766346p2/1785649.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Dec 08 11:50:14 -0800 2008</created_at>
+  <updated_at>Mon Dec 08 11:50:14 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>4062179</id>
+  <body><![CDATA["Tighter" is the first word that comes to mind for me as well. Tolkien wrote this after the trilogy, and it shows. Perhaps he relaxed when he wrote this; the story certainly is simpler. Of course he is not juggling around as many characters as in his trilogy.]]></body>
+  
+  <user>
+    <id>2045535</id>
+    <name>Susie</name>
+    <display_name>Susie Pozgay</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2045535-susie-pozgay]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Feb 18 06:31:13 -0800 2009</created_at>
+  <updated_at>Wed Feb 18 06:31:13 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>4804092</id>
+  <body><![CDATA[I'm glad to see that other folks also prefer The Hobbit. For me, I think it's primarily because I love Bilbo so much (I agree with you that Frodo is a lesser character). He's such an unlikely hero, and the humor is wonderful - I laugh at it again even when I know what's coming.]]></body>
+  
+  <user>
+    <id>1890943</id>
+    <name>Susan</name>
+    <display_name>Susan Katz</display_name>
+
+    <location>Phoenixville, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1890943-susan-katz]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442464571p3/1890943.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442464571p2/1890943.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 27 12:48:02 -0700 2009</created_at>
+  <updated_at>Fri Mar 27 12:48:02 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>8455025</id>
+  <body><![CDATA[I agree! A few years ago my sister's fifth grade class performed an adaptation of The Hobbit and they set that poem to music. It was so haunting; very cool to hear.]]></body>
+  
+  <user>
+    <id>2420840</id>
+    <name>Jillian</name>
+    <display_name>Jillian</display_name>
+
+    <location>Modena, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2420840-jillian]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 16 06:31:42 -0700 2009</created_at>
+  <updated_at>Sun Aug 16 06:31:42 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>14036350</id>
+  <body><![CDATA[Brilliant! I have loved The Hobbit since I got my first copy when I was a child. I think it is better than Lord of the Rings and that is high praise!]]></body>
+  
+  <user>
+    <id>3311619</id>
+    <name>Julienne</name>
+    <display_name>Julienne</display_name>
+
+    <location>Brisbane, 04, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3311619-julienne]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu Feb 25 04:49:33 -0800 2010</created_at>
+  <updated_at>Thu Feb 25 04:49:33 -0800 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>32926721</id>
+  <body><![CDATA[The Hobbit definitely has more of a magic than the LOTR trilogy, and that coupled with it's simplicity sets it apart. This coming from a huge LOTR fan :)]]></body>
+  
+  <user>
+    <id>4845030</id>
+    <name>Micheline</name>
+    <display_name>Micheline</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4845030-micheline]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1434381852p3/4845030.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1434381852p2/4845030.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jul 03 09:59:53 -0700 2011</created_at>
+  <updated_at>Sun Jul 03 09:59:53 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>36962276</id>
+  <body><![CDATA[I love the Hobbit, and count it as one of the best books out there. And I too, love "Over the misty mountains cold". I have read and listened to the Hobbit multiple times and probably will again. If you listen to the audio book, I strongly suggest the version read by Rob Inglis. He not only is a VERY good reader, but he actually sings all of the songs and poems ion the book. And he does it very well, too.]]></body>
+  
+  <user>
+    <id>6331196</id>
+    <name>Fictionfan</name>
+    <display_name>Fictionfan</display_name>
+
+    <location>Milpitas, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6331196-fictionfan]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 16 10:44:54 -0700 2011</created_at>
+  <updated_at>Fri Sep 16 10:44:54 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>46046346</id>
+  <body><![CDATA[I agree! Much as I love LotR, "The Hobbit" is still my favorite]]></body>
+  
+  <user>
+    <id>5231835</id>
+    <name>Brett</name>
+    <display_name>Brett</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5231835-brett]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1307174232p3/5231835.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1307174232p2/5231835.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 27 21:38:35 -0800 2012</created_at>
+  <updated_at>Mon Feb 27 21:38:35 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>51354030</id>
+  <body><![CDATA[Completely agree! Not that the series isn't a favorite but the Hobbit stood out and will remain a book I reread, even though I had to purchase several copies of this one as my original copy was literally falling at the seams.]]></body>
+  
+  <user>
+    <id>9868727</id>
+    <name>Jess</name>
+    <display_name>Jess</display_name>
+
+    <location>Highland, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9868727-jess]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1338336690p3/9868727.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1338336690p2/9868727.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed May 30 14:31:34 -0700 2012</created_at>
+  <updated_at>Wed May 30 14:31:34 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>55928727</id>
+  <body><![CDATA[I agree with your assessment. It's a tighter story, with LOTR sometimes I felt that things were thrown in occasionally as an after thought. The Hobbit never feels that way.]]></body>
+  
+  <user>
+    <id>11735968</id>
+    <name>Ian</name>
+    <display_name>Ian</display_name>
+
+    <location>Fort Scott, KS</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11735968-ian]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1344608046p3/11735968.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1344608046p2/11735968.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 10 07:36:15 -0700 2012</created_at>
+  <updated_at>Fri Aug 10 07:36:15 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>57450950</id>
+  <body><![CDATA[I would say that Lord of the Rings, in comparison, have the same appeal than The Hobbit. Both have it's flaws and good sides and both are also epic beyond believe.]]></body>
+  
+  <user>
+    <id>11755860</id>
+    <name>Leonardo</name>
+    <display_name>Leonardo Rosenthal</display_name>
+
+    <location>Uberlândia, MG, Brazil</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11755860-leonardo-rosenthal]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1344662525p3/11755860.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1344662525p2/11755860.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Sep 02 22:02:21 -0700 2012</created_at>
+  <updated_at>Sun Sep 02 22:02:21 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>62661240</id>
+  <body><![CDATA[Am I the only one who wasn't impressed with 'The Hobbit?' If this is better than LOTR, then I'm sure I won't appreciate LOTR since I thought 'The Hobbit' was boring.]]></body>
+  
+  <user>
+    <id>11644056</id>
+    <name>Hercules</name>
+    <display_name>Hercules Real</display_name>
+
+    <location>La Habra, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11644056-hercules-real]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1344343571p3/11644056.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1344343571p2/11644056.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 30 06:36:07 -0800 2012</created_at>
+  <updated_at>Fri Nov 30 06:36:07 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>62890338</id>
+  <body><![CDATA[No, don't worry. When I first read the hobbit, and then The Lord of the rings, I liked lotr more. But now, after re-reading the hobbit, I can appreciate it more, knowing more about middle-earth. So definitely give lotr a try. They're fantastic.]]></body>
+  
+  <user>
+    <id>5549944</id>
+    <name>Katie</name>
+    <display_name>Katie</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5549944-katie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1464023871p3/5549944.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1464023871p2/5549944.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Dec 03 21:32:37 -0800 2012</created_at>
+  <updated_at>Mon Dec 03 21:32:37 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>65592661</id>
+  <body><![CDATA[Love that poem]]></body>
+  
+  <user>
+    <id>6414770</id>
+    <name>Christine</name>
+    <display_name>Christine Marie</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6414770-christine-marie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1481518631p3/6414770.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1481518631p2/6414770.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 14 21:31:11 -0800 2013</created_at>
+  <updated_at>Mon Jan 14 21:31:11 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>67828479</id>
+  <body><![CDATA[I've always thought the Hobbit was superior to the LOTR and Bilbo a greater character than Frodo.]]></body>
+  
+  <user>
+    <id>17215811</id>
+    <name>Steve</name>
+    <display_name>Steve Lorey</display_name>
+
+    <location>San Juan, PR</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17215811-steve-lorey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1360201967p3/17215811.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1360201967p2/17215811.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Feb 14 14:23:22 -0800 2013</created_at>
+  <updated_at>Thu Feb 14 14:23:22 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73877271</id>
+  <body><![CDATA[Agree! :)]]></body>
+  
+  <user>
+    <id>16560247</id>
+    <name>Lehanne</name>
+    <display_name>Lehanne</display_name>
+
+    <location>cheshire, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16560247-lehanne]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1452239390p3/16560247.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1452239390p2/16560247.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 11 03:59:06 -0700 2013</created_at>
+  <updated_at>Sat May 11 03:59:06 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>74941658</id>
+  <body><![CDATA[I must say I've always preferred Frodo. Both are brilliant characters, but completely different styles. To me, Frodo just seems to have more depth. He has all the wisdom and self-sacrifice and suffering and mercy (okay, I'll stop that list there) whereas Bilbo is a much simpler, lighthearted character.]]></body>
+  
+  <user>
+    <id>20734092</id>
+    <name>Zoe</name>
+    <display_name>Zoe</display_name>
+
+    <location>Sydney, 02, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/20734092-zoe]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1369629423p3/20734092.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1369629423p2/20734092.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 26 21:34:41 -0700 2013</created_at>
+  <updated_at>Sun May 26 21:34:41 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>81151042</id>
+  <body><![CDATA[Of course Frodo comes off second best to Bilbo, Sam is the real hero of The LOTR. Liked <br />Your review.]]></body>
+  
+  <user>
+    <id>23257739</id>
+    <name>Spencer</name>
+    <display_name>Spencer Whetstone</display_name>
+
+    <location>Columbia, SC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23257739-spencer-whetstone]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1377008772p3/23257739.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1377008772p2/23257739.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 20 09:12:42 -0700 2013</created_at>
+  <updated_at>Tue Aug 20 09:12:42 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>91586389</id>
+  <body><![CDATA[I think hobbits better every day]]></body>
+  
+  <user>
+    <id>27160122</id>
+    <name>Josh</name>
+    <display_name>Josh Goldman</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27160122-josh-goldman]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1388454979p3/27160122.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1388454979p2/27160122.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 27 16:16:59 -0800 2014</created_at>
+  <updated_at>Mon Jan 27 16:16:59 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>93121817</id>
+  <body><![CDATA[I have to agree. While Frodo is definitely braver, Bilbo is funny and unlikely. I also like Gollum's riddles as they are no doubt invented by Tolkien. I have read this book numerous times after I first read it as a second grader, and love it because it is inspiring, giving me great ideas and nurturing my wish to become a fantasy author. The songs and poetry spoke to me too, and I can safely say that reading this book helped me to become a better person.]]></body>
+  
+  <user>
+    <id>28831769</id>
+    <name>Cheshire</name>
+    <display_name>Cheshire Kitty</display_name>
+
+    <location>Sewickley, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/28831769-cheshire-kitty]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1392863461p3/28831769.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1392863461p2/28831769.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Feb 19 17:51:48 -0800 2014</created_at>
+  <updated_at>Wed Feb 19 17:51:48 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>94747089</id>
+  <body><![CDATA[I agree with you, the hobbit seemed to be an easier read than the lord of The rings more a page turner. It may be because I read the hobbit first before the Lord of the rings.]]></body>
+  
+  <user>
+    <id>10773246</id>
+    <name>Katy</name>
+    <display_name>Katy</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10773246-katy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1341723783p3/10773246.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1341723783p2/10773246.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Mar 16 15:38:10 -0700 2014</created_at>
+  <updated_at>Sun Mar 16 15:38:10 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>99347772</id>
+  <body><![CDATA[My name is Asher but the a is pronounced like a u. I also like poem &amp; the review is good is good it tells alot &amp; my friends loveit &amp;have you tried artemis fowl please answer back ASAP]]></body>
+  
+  <user>
+    <id>31797054</id>
+    <name>Chad &amp; Neely Silverman</name>
+    <display_name>Chad &amp; Neely Silverman</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/31797054-chad-neely-silverman]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu May 29 04:54:48 -0700 2014</created_at>
+  <updated_at>Thu May 29 04:54:48 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>99589627</id>
+  <body><![CDATA[.kioq<br />l.pmo<br />June l .]]></body>
+  
+  <user>
+    <id>31920110</id>
+    <name>Elke </name>
+    <display_name>Elke </display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/31920110-elke]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 02 08:36:43 -0700 2014</created_at>
+  <updated_at>Mon Jun 02 08:36:43 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>99589752</id>
+  <body><![CDATA[i im]]></body>
+  
+  <user>
+    <id>31920110</id>
+    <name>Elke </name>
+    <display_name>Elke </display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/31920110-elke]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 02 08:38:24 -0700 2014</created_at>
+  <updated_at>Mon Jun 02 08:38:24 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>99589778</id>
+  <body><![CDATA[ki..ik.<br />m]]></body>
+  
+  <user>
+    <id>31920110</id>
+    <name>Elke </name>
+    <display_name>Elke </display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/31920110-elke]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 02 08:38:50 -0700 2014</created_at>
+  <updated_at>Mon Jun 02 08:38:50 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>138897944</id>
+  <body><![CDATA[;)]]></body>
+  
+  <user>
+    <id>46114281</id>
+    <name>Caroline</name>
+    <display_name>Caroline</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/46114281-caroline]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 19 09:54:45 -0700 2015</created_at>
+  <updated_at>Wed Aug 19 09:54:45 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141199414</id>
+  <body><![CDATA[I think that is my favourite book of all time! ;)]]></body>
+  
+  <user>
+    <id>34207574</id>
+    <name>Miquel</name>
+    <display_name>Miquel Reina</display_name>
+
+    <location>Barcelona, Spain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34207574-miquel-reina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1472878884p3/34207574.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1472878884p2/34207574.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Oct 08 03:06:20 -0700 2015</created_at>
+  <updated_at>Thu Oct 08 03:06:20 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141793713</id>
+  <body><![CDATA[The Hobbit has always been my favorite.]]></body>
+  
+  <user>
+    <id>43844673</id>
+    <name>Amber</name>
+    <display_name>Amber McMahan-Godwin</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/43844673-amber-mcmahan-godwin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1452628720p3/43844673.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1452628720p2/43844673.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Oct 22 11:51:47 -0700 2015</created_at>
+  <updated_at>Thu Oct 22 11:51:47 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>144083857</id>
+  <body><![CDATA[That is so true. I also think the same way about this book.]]></body>
+  
+  <user>
+    <id>47851147</id>
+    <name>Gerardo</name>
+    <display_name>Gerardo Tamayo</display_name>
+
+    <location>Tampico, 28, Mexico</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/47851147-gerardo-tamayo]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1449148653p3/47851147.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1449148653p2/47851147.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 08 15:02:29 -0800 2015</created_at>
+  <updated_at>Tue Dec 08 15:02:29 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>144330328</id>
+  <body><![CDATA[I liked The Hobbit slightly better than LOTR. Probably because I was slightly younger when I helped Bilbo and company. And, I kind of die in LOTR, but I still like them both]]></body>
+  
+  <user>
+    <id>50095481</id>
+    <name>Shruti</name>
+    <display_name>Shruti</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/50095481-shruti]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Dec 14 04:43:38 -0800 2015</created_at>
+  <updated_at>Mon Dec 14 04:43:38 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>145222299</id>
+  <body><![CDATA[Now that poem is a song!]]></body>
+  
+  <user>
+    <id>50913861</id>
+    <name>Brooke</name>
+    <display_name>Brooke Wryde</display_name>
+
+    <location>Grand Rapids, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/50913861-brooke-wryde]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 01 16:00:10 -0800 2016</created_at>
+  <updated_at>Fri Jan 01 16:00:10 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159522129</id>
+  <body><![CDATA[cool]]></body>
+  
+  <user>
+    <id>61816462</id>
+    <name>Junyan Wang, and Isaac Wang</name>
+    <display_name>Junyan Wang, and Isaac Wang</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/61816462-junyan-wang-and-isaac-wang]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 25 17:44:32 -0800 2016</created_at>
+  <updated_at>Fri Nov 25 17:44:32 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159522141</id>
+  <body><![CDATA[i so agree]]></body>
+  
+  <user>
+    <id>61816462</id>
+    <name>Junyan Wang, and Isaac Wang</name>
+    <display_name>Junyan Wang, and Isaac Wang</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/61816462-junyan-wang-and-isaac-wang]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 25 17:44:57 -0800 2016</created_at>
+  <updated_at>Fri Nov 25 17:44:57 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159522151</id>
+  <body><![CDATA[soo cool not disagree]]></body>
+  
+  <user>
+    <id>61816462</id>
+    <name>Junyan Wang, and Isaac Wang</name>
+    <display_name>Junyan Wang, and Isaac Wang</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/61816462-junyan-wang-and-isaac-wang]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 25 17:45:31 -0800 2016</created_at>
+  <updated_at>Fri Nov 25 17:45:31 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159522164</id>
+  <body><![CDATA[agree not disagree ok]]></body>
+  
+  <user>
+    <id>61816462</id>
+    <name>Junyan Wang, and Isaac Wang</name>
+    <display_name>Junyan Wang, and Isaac Wang</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/61816462-junyan-wang-and-isaac-wang]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 25 17:46:18 -0800 2016</created_at>
+  <updated_at>Fri Nov 25 17:46:18 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>163777006</id>
+  <body><![CDATA[The Hobbit best book ever! TLOTR is also amazing J.R.R. Tolkien is my author and he is the most amazing author ever:)!]]></body>
+  
+  <user>
+    <id>65682223</id>
+    <name>Jaden</name>
+    <display_name>Jaden</display_name>
+
+    <location>Winkler, MB, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/65682223-jaden]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 10 15:43:36 -0800 2017</created_at>
+  <updated_at>Fri Mar 10 15:43:36 -0800 2017</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1455951]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1455951]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

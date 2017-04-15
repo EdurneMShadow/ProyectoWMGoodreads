@@ -1,0 +1,925 @@
+status: 200
+x-request-id: CCNN0WA622E2ZPVNTFXX
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=1369724685&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhg0NjItNDY1OTg2OS0wOTY5NzAyBjoGRVQ%3D--b8555adec364f6f7694e88de4c957199dc3748e7;
+ path=/; expires=Wed, 15 Apr 2037 17:01:35 -0000, locale=es;
+ path=/, _session_id2=64c43ee8335385f5f719a3f897a7071d; path=/;
+ expires=Sat, 15 Apr 2017 23:01:36 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 38869
+server: Server
+x-runtime: 0.469222
+etag: W/"5b3afea98d8f92a9a4a6a4c65f5f6347"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 17:01:36 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1369724685</id>
+    
+  <user>
+    <id>53165</id>
+    <name>Warwick</name>
+    <display_name>Warwick</display_name>
+
+    <location>Zürich, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/53165-warwick]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1469274171p3/53165.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1469274171p2/53165.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">10509935</id>
+  <isbn>1613060149</isbn>
+  <isbn13>9781613060148</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>Frankenstein</title>
+  <title_without_series>Frankenstein</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/10509935-frankenstein</link>
+  <num_pages>200</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.75</average_rating>
+  <ratings_count>855238</ratings_count>
+  <description>Mary Shelley’s Frankenstein is the world’s most famous Gothic novel about eccentric scientist Victor Frankenstein, who creates a grotesque creature in an unorthodox scientific experiment. Shelley's work is considered to be the world's first science fiction, with Frankenstein’s monster being a symbol of science gone awry. Shelley’s masterpiece has inspired numerous films, plays and other books. This, the 1831 edition, contains the author’s final revisions.</description>
+<authors>
+<author>
+<id>11139</id>
+<name>Mary Wollstonecraft Shelley</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p5/11139.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p2/11139.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/11139.Mary_Wollstonecraft_Shelley]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>877806</ratings_count>
+<text_reviews_count>20767</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">74377008</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Aug 24 12:23:22 -0700 2015</created_at>
+          <updated_at type="datetime">Mon Aug 24 12:23:28 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">17</ratings_count>
+          <percent type="integer">54</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.515b1d03fefe71939081c25c66046f05</note_uri>
+          <note_updated_at type="datetime">Mon Aug 24 12:23:28 -0700 2015</note_updated_at>
+          <body><![CDATA[‘I found on the ground […] <i>Paradise Lost</i>, a volume of Plutarch's <i>Lives</i>, and <i>The Sorrows of Young Werter</i>.’<br /><br /> Well that explains the monster's prose style I guess.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">74121827</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Aug 21 01:38:45 -0700 2015</created_at>
+          <updated_at type="datetime">Fri Aug 21 01:39:13 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">10</ratings_count>
+          <percent type="integer">13</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.0dfa6f6a7491d1d47268c2136643a103</note_uri>
+          <note_updated_at type="datetime">Fri Aug 21 01:39:13 -0700 2015</note_updated_at>
+          <body><![CDATA[‘She busied herself with following the aerial creations of the poets; and in the majestic and wondrous scenes which surrounded our Swiss home – the sublime shapes of the mountains, the changes of the seasons, tempest and calm, the silence of winter, and the life and turbulence of our Alpine summers – she found ample scope for admiration and delight.’]]></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">982431175</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Tue Aug 25 11:47:40 -0700 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">977267039</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Fri Aug 21 00:15:14 -0700 2015</updated_at>
+          <ratings_count>4</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>3</rating>
+  <votes>134</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="scotland" exclusive="false" review_shelf_id="1068441222" sortable="false" />
+    <shelf name="fiction" exclusive="false" review_shelf_id="1065275504" sortable="false" />
+    <shelf name="gothic" exclusive="false" review_shelf_id="1067901730" sortable="false" />
+    <shelf name="ebooks" exclusive="false" review_shelf_id="1068749744" sortable="false" />
+    <shelf name="horror" exclusive="false" review_shelf_id="1065275520" sortable="false" />
+    <shelf name="switzerland" exclusive="false" review_shelf_id="1065275540" sortable="false" />
+    <shelf name="germany" exclusive="false" review_shelf_id="1067899572" sortable="false" />
+    <shelf name="geneva" exclusive="false" review_shelf_id="1067899703" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Aug 21 00:00:00 -0700 2015</started_at>
+  <read_at>Tue Aug 25 00:00:00 -0700 2015</read_at>
+  <date_added>Fri Aug 21 00:15:14 -0700 2015</date_added>
+  <date_updated>Sat Aug 29 01:06:46 -0700 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I have a favourite Kate Beaton strip framed up in our book room:<br /><br /><img src="http://www.harkavagrant.com/history/shellyfinal.png" width="400" class="gr-hostedUserImg" /><br /><i>(Full-size image <a href="http://harkavagrant.com/index.php?id=56" rel="nofollow">here</a>.)</i><br /><br />Mary was – what? – eighteen years old when she went on this famous holiday to Lake Geneva with Percy Bysshe Shelley and Byron and Byron's physician. She was calling herself ‘Mrs Shelley’, though they had not ye...]]>
+  </body>
+
+  
+
+  <comments_count>33</comments_count>
+    <comments start="1" end="33" total="33">
+        <comment>
+  <id>139407311</id>
+  <body><![CDATA[Pithy review, Warwick! I am especially reminded of those works that are seed of turbulent times in an author's life; Joyce springs to my mind right away.]]></body>
+  
+  <user>
+    <id>34622220</id>
+    <name>Seemita</name>
+    <display_name>Seemita</display_name>
+
+    <location>Chennai, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34622220-seemita]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1473185997p3/34622220.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1473185997p2/34622220.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 29 00:38:00 -0700 2015</created_at>
+  <updated_at>Sat Aug 29 00:38:00 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>139407809</id>
+  <body><![CDATA[Does anyone know of a group biography of this lot? (Also perhaps incl. Keats) I'm sure they exist, just can't remember titles.<br /><br /><br />Also such young authors, and the characters of many classics who are in their early twenties... it's as if they went in a blink of an eye from always being a bit older than me (I read most classics in my teens), to now seeming like these callow <i>kids</i>... And I'm wondering if some of the ideas (eg Percy Shelley's politics) might seem naive now if re-read.]]></body>
+  
+  <user>
+    <id>6249204</id>
+    <name>Antonomasia</name>
+    <display_name>Antonomasia</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6249204-antonomasia]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1438436642p3/6249204.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1438436642p2/6249204.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 29 01:17:20 -0700 2015</created_at>
+  <updated_at>Sat Aug 29 01:17:20 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>139407877</id>
+  <body><![CDATA[Thanks all. Antonomasia, I really want to read a group bio as well right now. I hear good things about Hay's <a href="https://www.goodreads.com/book/show/6966758.Young_Romantics_The_Tangled_Lives_of_English_Poetry_s_Greatest_Generation" title="Young Romantics The Tangled Lives of English Poetry's Greatest Generation by Daisy Hay" rel="nofollow">Young Romantics: The Tangled Lives of English Poetry's Greatest Generation</a>.]]></body>
+  
+  <user>
+    <id>53165</id>
+    <name>Warwick</name>
+    <display_name>Warwick</display_name>
+
+    <location>Zürich, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/53165-warwick]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1469274171p3/53165.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1469274171p2/53165.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 29 01:22:45 -0700 2015</created_at>
+  <updated_at>Sat Aug 29 01:22:45 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>139408079</id>
+  <body><![CDATA[The cartoon coupled with your percipient review has opened a new perspective for me to dwell upon the meaning(s) of this book, Warwick. Somehow I rejoice in the fact that the "Shelley" that has become more widespread over the years belongs to Mary instead of Percy.]]></body>
+  
+  <user>
+    <id>18383778</id>
+    <name>Dolors</name>
+    <display_name>Dolors</display_name>
+
+    <location>Barcelona, Spain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18383778-dolors]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1379500437p3/18383778.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1379500437p2/18383778.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 29 01:36:44 -0700 2015</created_at>
+  <updated_at>Sat Aug 29 01:36:44 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>139408166</id>
+  <body><![CDATA[That's rather recent, as poetry has fallen out of vogue as leisure reading, and SFF is growing in status (as is the critical stature of some women writers from the past). 20-25 years ago it seemed that "Shelley" still very much meant the poet, and it was a case of, "Oh, <i>Frankenstein</i> is by Mary Shelley, really? How was she related to him?" And now one does hear much more of Mary than of Percy.]]></body>
+  
+  <user>
+    <id>6249204</id>
+    <name>Antonomasia</name>
+    <display_name>Antonomasia</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6249204-antonomasia]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1438436642p3/6249204.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1438436642p2/6249204.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 29 01:42:50 -0700 2015</created_at>
+  <updated_at>Sat Aug 29 01:42:50 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>139408247</id>
+  <body><![CDATA[<i>Antonomasia wrote: "That's rather recent, as poetry has fallen out of vogue as leisure reading, and SFF is growing in status (as is the critical stature of some women writers from the past). 20-25 years ago it seemed ..."</i><br /><br />You might be right when it comes to literate or scholarly circles, which might be still prevalent today, but even 20-25 years ago, I do think Wordsworth and Coleridge, and even Byron, were more popular than Shelley.]]></body>
+  
+  <user>
+    <id>18383778</id>
+    <name>Dolors</name>
+    <display_name>Dolors</display_name>
+
+    <location>Barcelona, Spain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18383778-dolors]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1379500437p3/18383778.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1379500437p2/18383778.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 29 01:48:47 -0700 2015</created_at>
+  <updated_at>Sat Aug 29 01:48:47 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>139408433</id>
+  <body><![CDATA[A lot would have depended what one read, who one knew - but through the 90s I got the sense of Byron &amp; Shelley seeming of equal stature/interest, and, with one person I knew being a notable exception, Wordsworth and Coleridge were considered dull, the sort of thing one might *have* to study rather than read for personal enjoyment.<br /><br />Paul Foot's biography Red Shelley for some reason seemed to be mentioned a lot in the press I read (and Claire Tomalin's stready stream of popular biographies of other historical figures got mentions of her earlier books inluding the Shelley one). Red Shelley seemed one of those buzzy/very modern classic books I felt I ought to read, although, checking, it had appeared back in 1981. And there's never been any shortage of TV series/ articles/biographies of Byron.]]></body>
+  
+  <user>
+    <id>6249204</id>
+    <name>Antonomasia</name>
+    <display_name>Antonomasia</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6249204-antonomasia]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1438436642p3/6249204.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1438436642p2/6249204.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 29 02:01:25 -0700 2015</created_at>
+  <updated_at>Sat Aug 29 02:01:25 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>139408522</id>
+  <body><![CDATA[Interesting that you feel that, Dolors. For me "Shelley" still primarily means PB. And I think he was the more impressive writer, although I should say that I've not read anything else by Mary.]]></body>
+  
+  <user>
+    <id>53165</id>
+    <name>Warwick</name>
+    <display_name>Warwick</display_name>
+
+    <location>Zürich, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/53165-warwick]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1469274171p3/53165.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1469274171p2/53165.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 29 02:08:48 -0700 2015</created_at>
+  <updated_at>Sat Aug 29 02:08:48 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>139409011</id>
+  <body><![CDATA[<i>Warwick wrote: "Interesting that you feel that, Dolors. For me "Shelley" still primarily means PB. And I think he was the more impressive writer, although I should say that I've not read anything else by Mary."</i><br /><br />I haven't read anything else by Mary either but having read PB's poetry I see the truth in your statement, Warwick. Nevertheless, "Frankenstein" became a bestseller and over the years, Mary's "Creation" has become more famous than herself and that surely speaks of the impact her story has had over the audience of all times.]]></body>
+  
+  <user>
+    <id>18383778</id>
+    <name>Dolors</name>
+    <display_name>Dolors</display_name>
+
+    <location>Barcelona, Spain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18383778-dolors]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1379500437p3/18383778.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1379500437p2/18383778.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 29 02:43:38 -0700 2015</created_at>
+  <updated_at>Sat Aug 29 02:43:38 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>139409105</id>
+  <body><![CDATA[<i>Antonomasia wrote: "A lot would have depended what one read, who one knew - but through the 90s I got the sense of Byron &amp; Shelley seeming of equal stature/interest, and, with one person I knew being a notable except..."</i><br /><br />Funny that my mental image of Shelley has always been as scandalous/radical as that of Byron and yet Coleridge (whom I never considered dull - can't say the same about Wordsworth btw) and Keats spoke much more to my unscholarly platonic self. <br />Paul Foot's bio sounds like a work I would enjoy, thanks for bringing it up here, Antonomasia.]]></body>
+  
+  <user>
+    <id>18383778</id>
+    <name>Dolors</name>
+    <display_name>Dolors</display_name>
+
+    <location>Barcelona, Spain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18383778-dolors]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1379500437p3/18383778.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1379500437p2/18383778.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 29 02:49:56 -0700 2015</created_at>
+  <updated_at>Sat Aug 29 02:49:56 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>139409182</id>
+  <body><![CDATA[Awesome review]]></body>
+  
+  <created_at>Sat Aug 29 02:54:10 -0700 2015</created_at>
+  <updated_at>Sat Aug 29 02:54:10 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>139409274</id>
+  <body><![CDATA[Wow! That is the one of the most thought-provoking reviews of Frankenstein that I have ever read. I have obvs nor read much crit on it, because I had completely missed the female aspect you mention - which becomes quite clear once out in the open.]]></body>
+  
+  <user>
+    <id>3145526</id>
+    <name>Traveller</name>
+    <display_name>Traveller</display_name>
+
+    <location>Ambergris, 11, Tuvalu</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3145526-traveller]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1423246742p3/3145526.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1423246742p2/3145526.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 29 03:00:51 -0700 2015</created_at>
+  <updated_at>Sat Aug 29 03:00:51 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>139409612</id>
+  <body><![CDATA[Great review. <br />I think the history of the publication of this is almost as fascinating as the story of how it was written: its first edition was a run of only 500. It nearly disappeared, I mean 500 is negligible. It wasn't until Richard Brinsley Peake had turned it into a sensational stage play that it was re-published, but by that time the raging monster from the stage adaptation had taken over the public's imagination.]]></body>
+  
+  <user>
+    <id>1652898</id>
+    <name>·Karen·</name>
+    <display_name>·Karen·</display_name>
+
+    <location>Krefeld, NRW, Germany</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1652898-karen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1434742215p3/1652898.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1434742215p2/1652898.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 29 03:31:39 -0700 2015</created_at>
+  <updated_at>Sat Aug 29 03:31:39 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>139409769</id>
+  <body><![CDATA[Traveller, you know who her parents (mother, really) were right? Anyway I don't really like the book tbh but the insistence of some male academics that Percy really wrote the book is just fascinatingly pathetic.]]></body>
+  
+  <user>
+    <id>3065234</id>
+    <name>virgodura</name>
+    <display_name>virgodura</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3065234-virgodura]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1463075305p3/3065234.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1463075305p2/3065234.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 29 03:42:43 -0700 2015</created_at>
+  <updated_at>Sat Aug 29 03:42:43 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>139410066</id>
+  <body><![CDATA[Thanks thanks – Karen, yes, and the version that eventually had such a success was a heavily rewritten version. I've heard that the original 1818 version is supposed to be more interesting in many ways, and is apparently included in some modern critical editions.]]></body>
+  
+  <user>
+    <id>53165</id>
+    <name>Warwick</name>
+    <display_name>Warwick</display_name>
+
+    <location>Zürich, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/53165-warwick]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1469274171p3/53165.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1469274171p2/53165.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 29 04:05:08 -0700 2015</created_at>
+  <updated_at>Sat Aug 29 04:05:08 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>139410937</id>
+  <body><![CDATA[Poss not my point to make, but I believe Traveller used to have an avatar of Mary Wollestonecraft so there's no doubt she's well aware.<br /><br />Wonder why this version is still the most widely read given the 1818 is more to contemporary tastes.]]></body>
+  
+  <user>
+    <id>6249204</id>
+    <name>Antonomasia</name>
+    <display_name>Antonomasia</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6249204-antonomasia]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1438436642p3/6249204.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1438436642p2/6249204.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 29 04:52:10 -0700 2015</created_at>
+  <updated_at>Sat Aug 29 04:52:10 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>139411776</id>
+  <body><![CDATA[In my edition there is an introduction by "M.W.S." (I suppose that's Mary Wollstonecraft Shelley) dated October 15, 1831 in which she states:<br /><br /><em>I will add but one word as to the alterations I have made. They are principally those of style. I have changed no portion of the story, nor introduced any new ideas or circumstances. I have mended the language where it was so bald as to interfere with the interest of the narrative; and these changes occur almost exclusively in the beginning of the first volume. Throughout they are entirely confined to such parts as are mere adjuncts to the story, leaving the core and substance of it untouched.</em>]]></body>
+  
+  <user>
+    <id>16077597</id>
+    <name>Matt</name>
+    <display_name>Matt</display_name>
+
+    <location>Germany</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16077597-matt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478422915p3/16077597.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478422915p2/16077597.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 29 05:32:36 -0700 2015</created_at>
+  <updated_at>Sat Aug 29 05:32:36 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>139413582</id>
+  <body><![CDATA[I had read Frankenstein way back in my teens. Perhaps I was too fascinated with the supernatural aspect to realize the feminine commentary. Your review is enlightening... It's so splendid to revisit your old favorites and realise that there is more left to explore. I loved your review. Good work!]]></body>
+  
+  <user>
+    <id>24476089</id>
+    <name>Annie </name>
+    <display_name>Annie </display_name>
+
+    <location>India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24476089-annie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1443034099p3/24476089.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1443034099p2/24476089.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 29 06:44:13 -0700 2015</created_at>
+  <updated_at>Sat Aug 29 06:44:13 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>139416812</id>
+  <body><![CDATA[<i>Antonomasia wrote: "Poss not my point to make, but I believe Traveller used to have an avatar of Mary Wollestonecraft so there's no doubt she's well aware.<br /><br />Wonder why this version is still the most widely read given ..."</i><br /><br />Ah, nice to see you still remember that, Antonomasia! Mary W. (the mother) seemed to me a nice symbol for rebellion against oppression and censorship. <br /><br />Regarding the text of F's Monster, I admit that because I never really liked the Frankenstein story too much, I had never pushed through with finishing my readings of it, and neither did I read much academic lit about it of my own volition, and my formal education seems to have managed to skip over it. <br />This review and thread has made me realize that I really must read a bit more authorial history and perhaps re-examine the text as well. :)]]></body>
+  
+  <user>
+    <id>3145526</id>
+    <name>Traveller</name>
+    <display_name>Traveller</display_name>
+
+    <location>Ambergris, 11, Tuvalu</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3145526-traveller]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1423246742p3/3145526.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1423246742p2/3145526.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 29 08:27:50 -0700 2015</created_at>
+  <updated_at>Sat Aug 29 08:27:50 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>139418282</id>
+  <body><![CDATA[Loved the byronic cartoon strip, the review too, bytheway ;-)]]></body>
+  
+  <user>
+    <id>5498525</id>
+    <name>Fionnuala</name>
+    <display_name>Fionnuala</display_name>
+
+    <location>France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5498525-fionnuala]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1368182051p3/5498525.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1368182051p2/5498525.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 29 09:07:18 -0700 2015</created_at>
+  <updated_at>Sat Aug 29 09:07:18 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>139422354</id>
+  <body><![CDATA[Kate Beaton is amazing, isn't she? I love that one so much. Shelley I think features in a couple of others from her as well.]]></body>
+  
+  <user>
+    <id>53165</id>
+    <name>Warwick</name>
+    <display_name>Warwick</display_name>
+
+    <location>Zürich, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/53165-warwick]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1469274171p3/53165.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1469274171p2/53165.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 29 11:03:14 -0700 2015</created_at>
+  <updated_at>Sat Aug 29 11:03:14 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>139457254</id>
+  <body><![CDATA[Very fine review. And loved the cartoon. And to think, she was only a teenager!]]></body>
+  
+  <user>
+    <id>23385697</id>
+    <name>Glenn</name>
+    <display_name>Glenn Russell</display_name>
+
+    <location>Philadelphia, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23385697-glenn-russell]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1485712614p3/23385697.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1485712614p2/23385697.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 30 08:16:53 -0700 2015</created_at>
+  <updated_at>Sun Aug 30 08:16:53 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>139470110</id>
+  <body><![CDATA[Thematically yes, a tour de force. It's been years since I read this, and your astute review makes me want to revisit it, Warwick.]]></body>
+  
+  <user>
+    <id>11255849</id>
+    <name>Cheryl</name>
+    <display_name>Cheryl</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11255849-cheryl]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1474993559p3/11255849.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1474993559p2/11255849.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 30 13:46:08 -0700 2015</created_at>
+  <updated_at>Sun Aug 30 13:46:08 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>139488082</id>
+  <body><![CDATA[Great! Look forward to seeing your thoughts on it!]]></body>
+  
+  <user>
+    <id>53165</id>
+    <name>Warwick</name>
+    <display_name>Warwick</display_name>
+
+    <location>Zürich, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/53165-warwick]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1469274171p3/53165.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1469274171p2/53165.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 30 21:40:51 -0700 2015</created_at>
+  <updated_at>Sun Aug 30 21:40:51 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>139550572</id>
+  <body><![CDATA[A beautiful review Warwick! As ever too!]]></body>
+  
+  <user>
+    <id>15736557</id>
+    <name>Lynne</name>
+    <display_name>Lynne King</display_name>
+
+    <location>France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15736557-lynne-king]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1357126217p3/15736557.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1357126217p2/15736557.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Sep 01 07:15:02 -0700 2015</created_at>
+  <updated_at>Tue Sep 01 07:15:02 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>140496932</id>
+  <body><![CDATA[<i>in the midst of this complex love-dodecahedron</i> You are awesome. Also, great review; I love the underlying themes you bring out. Really enjoy your reviews in general.]]></body>
+  
+  <user>
+    <id>35118411</id>
+    <name>Amy (Other Amy)</name>
+    <display_name>Amy (Other Amy)</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/35118411-amy-other-amy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470215p3/35118411.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470215p2/35118411.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Sep 21 14:06:35 -0700 2015</created_at>
+  <updated_at>Mon Sep 21 14:06:35 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>140513495</id>
+  <body><![CDATA[Thank you! What a lovely comment to wake up to.]]></body>
+  
+  <user>
+    <id>53165</id>
+    <name>Warwick</name>
+    <display_name>Warwick</display_name>
+
+    <location>Zürich, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/53165-warwick]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1469274171p3/53165.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1469274171p2/53165.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Sep 21 21:37:39 -0700 2015</created_at>
+  <updated_at>Mon Sep 21 21:37:39 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>140560378</id>
+  <body><![CDATA[Oh dear, Byron in that third panel is now making me think of David Cameron...]]></body>
+  
+  <user>
+    <id>6249204</id>
+    <name>Antonomasia</name>
+    <display_name>Antonomasia</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6249204-antonomasia]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1438436642p3/6249204.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1438436642p2/6249204.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Sep 23 03:41:35 -0700 2015</created_at>
+  <updated_at>Wed Sep 23 03:41:35 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>140560588</id>
+  <body><![CDATA[Ha!]]></body>
+  
+  <user>
+    <id>53165</id>
+    <name>Warwick</name>
+    <display_name>Warwick</display_name>
+
+    <location>Zürich, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/53165-warwick]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1469274171p3/53165.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1469274171p2/53165.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Sep 23 03:53:34 -0700 2015</created_at>
+  <updated_at>Wed Sep 23 03:53:34 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>147757192</id>
+  <body><![CDATA[A love-dodecahedron? Hahaha, not sure if that's a thing, but it definitely should be :-D<br />An astounding review! I never read the book but am of course familiar with the story. I find your perspective on the "intensily female experiences" frankly unsurpassed in brilliance. Your discernment of themes and the author's motivations and surroundings at the time of writing was literally (!) breathtaking. Once pointed out it seems obvious, but it wasn't to me. Very enriching. The part where you say "<i>The confusion of bringing a creature into the world only to feel horror and revulsion towards it. The stress of releasing it into a hostile and uncaring world."</i> was especially gripping for me. It feels as if I've re-discovered a classic, seeing it in a whole new light, all thanks to this review. Thank you!]]></body>
+  
+  <user>
+    <id>9889835</id>
+    <name>Matthias</name>
+    <display_name>Matthias</display_name>
+
+    <location>Brussels, Belgium</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9889835-matthias]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1448737319p3/9889835.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1448737319p2/9889835.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Feb 18 07:27:03 -0800 2016</created_at>
+  <updated_at>Thu Feb 18 07:27:03 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>147759246</id>
+  <body><![CDATA[Aw, thanks Matthias. Much appreciated.]]></body>
+  
+  <user>
+    <id>53165</id>
+    <name>Warwick</name>
+    <display_name>Warwick</display_name>
+
+    <location>Zürich, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/53165-warwick]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1469274171p3/53165.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1469274171p2/53165.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Feb 18 08:08:57 -0800 2016</created_at>
+  <updated_at>Thu Feb 18 08:08:57 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159604694</id>
+  <body><![CDATA[Great comic strip and loved this review!]]></body>
+  
+  <user>
+    <id>61753513</id>
+    <name>Christy</name>
+    <display_name>Christy</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/61753513-christy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1479681356p3/61753513.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1479681356p2/61753513.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 28 05:30:31 -0800 2016</created_at>
+  <updated_at>Mon Nov 28 05:30:31 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159604917</id>
+  <body><![CDATA[Thanks Christy. If I could get Kate Beaton into every review, I would.]]></body>
+  
+  <user>
+    <id>53165</id>
+    <name>Warwick</name>
+    <display_name>Warwick</display_name>
+
+    <location>Zürich, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/53165-warwick]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1469274171p3/53165.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1469274171p2/53165.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 28 05:37:20 -0800 2016</created_at>
+  <updated_at>Mon Nov 28 05:37:20 -0800 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1369724685]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1369724685]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

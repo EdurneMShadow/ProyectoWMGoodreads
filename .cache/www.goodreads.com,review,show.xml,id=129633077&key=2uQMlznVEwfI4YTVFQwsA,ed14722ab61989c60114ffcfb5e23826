@@ -1,0 +1,386 @@
+status: 200
+x-request-id: BVCY9GNKSNHA7B7R9E6W
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=129633077&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhgyNjEtNDc5OTgxOS03MDcyNDEzBjoGRVQ%3D--32c438b27d93fd0cda8791897005db4e7ca8f43a;
+ path=/; expires=Wed, 15 Apr 2037 15:15:37 -0000, locale=es;
+ path=/, _session_id2=903e72a4b04a68e9b4c0f9fcd0fb5bc0; path=/;
+ expires=Sat, 15 Apr 2017 21:15:38 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 14410
+server: Server
+x-runtime: 0.320984
+etag: W/"a95ef21fa19f149f7b9759983fecf946"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:15:38 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>129633077</id>
+    
+  <user>
+    <id>3040523</id>
+    <name>Zaki</name>
+    <display_name>Zaki</display_name>
+
+    <location>London, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3040523-zaki]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442326937p3/3040523.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442326937p2/3040523.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">865</id>
+  <isbn>0061122416</isbn>
+  <isbn13>9780061122415</isbn13>
+  <text_reviews_count type="integer">44407</text_reviews_count>
+  <title>The Alchemist</title>
+  <title_without_series>The Alchemist</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1483412266m/865.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1483412266s/865.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/865.The_Alchemist</link>
+  <num_pages>197</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>HarperCollins</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1993</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.81</average_rating>
+  <ratings_count>1333089</ratings_count>
+  <description>Paulo Coelho's enchanting novel has inspired a devoted following around the world. This story, dazzling in its powerful simplicity and inspiring wisdom, is about an Andalusian shepherd boy named Santiago who travels from his homeland in Spain to the Egyptian desert in search of a treasure buried in the Pyramids. Along the way he meets a Gypsy woman, a man who calls himself king, and an alchemist, all of whom point Santiago in the direction of his quest. No one knows what the treasure is, or if Santiago will be able to surmount the obstacles along the way. But what starts out as a journey to find worldly goods turns into a discovery of the treasure found within. Lush, evocative, and deeply humane, the story of Santiago is an eternal testament to the transforming power of our dreams and the importance of listening to our hearts.</description>
+<authors>
+<author>
+<id>566</id>
+<name>Paulo Coelho</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201840056p5/566.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201840056p2/566.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/566.Paulo_Coelho]]></link>
+<average_rating>3.72</average_rating>
+<ratings_count>2103679</ratings_count>
+<text_reviews_count>95507</text_reviews_count>
+</author>
+</authors>
+  <published>1993</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1253571051</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Fri Feb 26 03:51:11 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>84</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Nov 07 02:27:02 -0800 2010</date_added>
+  <date_updated>Sun Feb 15 11:12:00 -0800 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[A spanish shepherd boy santiago has these recurring dreams about a treasure hidden at the foot of the egyptian pyramids. He leaves Spain to find it and journeys to the markets of Tangiers and across the Egyptian desert, guided along the way by a camel driver, an alchemist and other spiritual guid...]]>
+  </body>
+
+  
+
+  <comments_count>11</comments_count>
+    <comments start="1" end="11" total="11">
+        <comment>
+  <id>50720704</id>
+  <body><![CDATA[Great literature? Great literature has to be open, slightly ambiguous, suggestive, troubling, it has to work on several different levels, it has to be possible for different readers at different times to find their own way through to an interpretation. <i>The Alchemist</i> is shut off, closed, it is a parable, and a very obvious one, and no more than that. Coelho is a control freak, he only lets you read it one way. It's readable, but literature it ain't.]]></body>
+  
+  <user>
+    <id>1652898</id>
+    <name>·Karen·</name>
+    <display_name>·Karen·</display_name>
+
+    <location>Krefeld, NRW, Germany</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1652898-karen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1434742215p3/1652898.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1434742215p2/1652898.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 19 00:11:00 -0700 2012</created_at>
+  <updated_at>Sat May 19 00:11:00 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>50730786</id>
+  <body><![CDATA[My daughter had to read this in grade 9. She hated it so much, her main complaint being that it was so insulting to her the reader. Karen you've now explained why. Thanks for laying it out so clearly.]]></body>
+  
+  <user>
+    <id>7355135</id>
+    <name>B0nnie</name>
+    <display_name>B0nnie</display_name>
+
+    <location>Edmonton, AB, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7355135-b0nnie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1325923651p3/7355135.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1325923651p2/7355135.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 19 07:49:18 -0700 2012</created_at>
+  <updated_at>Sat May 19 07:49:18 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>58475515</id>
+  <body><![CDATA[Very measured review for a book awarded one star. Appreciate it.]]></body>
+  
+  <user>
+    <id>5283792</id>
+    <name>Mohit</name>
+    <display_name>Mohit Parikh</display_name>
+
+    <location>Jaipur, 302016, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5283792-mohit-parikh]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1481180988p3/5283792.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1481180988p2/5283792.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Sep 20 09:05:02 -0700 2012</created_at>
+  <updated_at>Thu Sep 20 09:05:02 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>59885333</id>
+  <body><![CDATA[I gave this five stars because i read it when i was a teenager and loved it.. perhaps it is time for a re read and a re-evaluation of this one.]]></body>
+  
+  <user>
+    <id>3926982</id>
+    <name>Shovelmonkey1</name>
+    <display_name>Shovelmonkey1</display_name>
+
+    <location>Iraq</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3926982-shovelmonkey1]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1391713268p3/3926982.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1391713268p2/3926982.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Oct 14 05:31:16 -0700 2012</created_at>
+  <updated_at>Sun Oct 14 05:31:16 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>69807927</id>
+  <body><![CDATA[Just good to read with few yawns now n then...nothing superexciting!!hmmm..what was the hype about btw?]]></body>
+  
+  <user>
+    <id>10860304</id>
+    <name>Shehi</name>
+    <display_name>Shehi</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10860304-shehi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1464435829p3/10860304.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1464435829p2/10860304.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Mar 14 08:54:20 -0700 2013</created_at>
+  <updated_at>Thu Mar 14 08:54:20 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>71889056</id>
+  <body><![CDATA[I'm just glad I wasn't the only one who felt this way about the book. After hearing of it so much I figured I would be impressed and inspired. I just wasn't... Near the end I was literally rolling my eyes and waiting for the conclusion. I only enjoyed the adventure story, and mostly just the start of it.]]></body>
+  
+  <user>
+    <id>6745694</id>
+    <name>Emily</name>
+    <display_name>Emily Wright</display_name>
+
+    <location>Fort Wayne, IN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6745694-emily-wright]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1356158151p3/6745694.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1356158151p2/6745694.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Apr 11 20:33:23 -0700 2013</created_at>
+  <updated_at>Thu Apr 11 20:33:23 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>72481645</id>
+  <body><![CDATA["Hackneyed self-help" sums it up nicely.]]></body>
+  
+  <user>
+    <id>3047631</id>
+    <name>Jill</name>
+    <display_name>Jill Edmondson</display_name>
+
+    <location>Toronto, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3047631-jill-edmondson]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442504865p3/3047631.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442504865p2/3047631.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Apr 20 11:16:59 -0700 2013</created_at>
+  <updated_at>Sat Apr 20 11:16:59 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>80564056</id>
+  <body><![CDATA[couldn't agree more]]></body>
+  
+  <user>
+    <id>7249759</id>
+    <name>David</name>
+    <display_name>David Amini</display_name>
+
+    <location>Washington, DC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7249759-david-amini]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1373471197p3/7249759.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1373471197p2/7249759.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 12 09:56:38 -0700 2013</created_at>
+  <updated_at>Mon Aug 12 09:56:38 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>86590272</id>
+  <body><![CDATA[Lessons come to you in all kinds of ways. Messengers may not be great writers in providing the messages. You picked it up and read for a reason ....ponder on the reason.]]></body>
+  
+  <user>
+    <id>13415714</id>
+    <name>Jocelyn</name>
+    <display_name>Jocelyn Spriggs malone</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13415714-jocelyn-spriggs-malone]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1349479495p3/13415714.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1349479495p2/13415714.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 11 03:49:56 -0800 2013</created_at>
+  <updated_at>Mon Nov 11 03:49:56 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>87784641</id>
+  <body><![CDATA[i agree with you on your comment. The Alchemist is a very inspirational book to read. It teaches you and inspires you to chase your dreams. Now there are some people who disagree and dont like this book but i think it really makes you think about what you want out of life.]]></body>
+  
+  <user>
+    <id>23099695</id>
+    <name>Ashley</name>
+    <display_name>Ashley Billings</display_name>
+
+    <location>Decatur, GA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23099695-ashley-billings]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat Nov 30 17:53:07 -0800 2013</created_at>
+  <updated_at>Sat Nov 30 17:53:07 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>113596318</id>
+  <body><![CDATA[I am currently doing the same thing and haven't even made it halfway through. I was so excited when it finally came through at the library but am incredibly disappointed in it and do not plan on wasting any more of my time by finishing it. I already understand the basic message and do not agree with it based on personal beliefs and most of all, experiences. What little I did read was pretentious and condescending, which is what put me off originally. Thus the reason for finding comments such as yours. Glad to know I am not the only one that doesn't like it and has not even finished it.]]></body>
+  
+  <user>
+    <id>29484441</id>
+    <name>Shanna</name>
+    <display_name>Shanna Pankey</display_name>
+
+    <location>Raymore, MO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/29484441-shanna-pankey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1427003370p3/29484441.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1427003370p2/29484441.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 27 22:59:30 -0800 2015</created_at>
+  <updated_at>Tue Jan 27 22:59:30 -0800 2015</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/129633077]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/129633077]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

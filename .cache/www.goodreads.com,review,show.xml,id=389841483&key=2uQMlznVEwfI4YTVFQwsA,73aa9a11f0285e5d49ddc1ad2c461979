@@ -1,0 +1,1351 @@
+status: 200
+x-request-id: XE68QR7PA3HTPB41WRGS
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=389841483&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhgxNTQtMTQ2MDI5MS03NzY4NzU5BjoGRVQ%3D--515eafb187e940ec7f6e8718c25b6dd5f315ec85;
+ path=/; expires=Wed, 15 Apr 2037 16:56:18 -0000, locale=es;
+ path=/, _session_id2=2f4615d235297ba2611e29d153307f3b; path=/;
+ expires=Sat, 15 Apr 2017 22:56:19 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 61804
+server: Server
+x-runtime: 0.605537
+etag: W/"ecede09bd4dc6c110ac226b0f0e2eb68"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 16:56:19 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>389841483</id>
+    
+  <user>
+    <id>8359556</id>
+    <name>Ayesha</name>
+    <display_name>Ayesha</display_name>
+
+    <location>Manama, Bahrain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8359556-ayesha]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">14802335</id>
+  <isbn>0141345632</isbn>
+  <isbn13>9780141345635</isbn13>
+  <text_reviews_count type="integer">226</text_reviews_count>
+  <title>The Fault in Our Stars</title>
+  <title_without_series>The Fault in Our Stars</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1340634147m/14802335.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1340634147s/14802335.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/14802335-the-fault-in-our-stars</link>
+  <num_pages>313</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Penguin Books Ltd (UK)</publisher>
+  <publication_day>3</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.27</average_rating>
+  <ratings_count>2358147</ratings_count>
+  <description>Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a gorgeous plot twist named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten.</description>
+<authors>
+<author>
+<id>1406384</id>
+<name>John Green</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>4487320</ratings_count>
+<text_reviews_count>274858</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">21190383</id>
+          <page type="integer">232</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sun Dec 23 06:25:09 -0800 2012</created_at>
+          <updated_at type="datetime">Sun Dec 23 06:25:09 -0800 2012</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">74</percent>
+          <work_id type="integer">16827462</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">21096441</id>
+          <page type="integer">132</page>
+          <chapter type="integer"></chapter>
+          <comments_count>12</comments_count>
+          <created_at type="datetime">Thu Dec 20 04:54:27 -0800 2012</created_at>
+          <updated_at type="datetime">Thu Dec 20 04:54:27 -0800 2012</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">42</percent>
+          <work_id type="integer">16827462</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">21066691</id>
+          <page type="integer">112</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Dec 19 07:56:15 -0800 2012</created_at>
+          <updated_at type="datetime">Wed Dec 19 07:56:15 -0800 2012</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">35</percent>
+          <work_id type="integer">16827462</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">101766846</id>
+          <old_status>read</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sat Jul 27 03:26:35 -0700 2013</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>4578</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="annoying-characters" exclusive="false" review_shelf_id="471567802" sortable="false" />
+    <shelf name="undeserved-hype" exclusive="false" review_shelf_id="471563144" sortable="false" />
+    <shelf name="not-my-cup-of-tea" exclusive="false" review_shelf_id="490184634" sortable="false" />
+    <shelf name="greatest-fictional-jerks-ever" exclusive="false" review_shelf_id="532365711" sortable="false" />
+    <shelf name="scatterbrained-protagonists" exclusive="false" review_shelf_id="532365874" sortable="false" />
+    <shelf name="wasted-my-precious-time" exclusive="false" review_shelf_id="532365883" sortable="false" />
+    <shelf name="disappointing-books" exclusive="false" review_shelf_id="471567826" sortable="false" />
+    <shelf name="pretentious-books-and-characters" exclusive="false" review_shelf_id="471612322" sortable="false" />
+    <shelf name="turned-my-neurons-to-jelly" exclusive="false" review_shelf_id="490183593" sortable="false" />
+    <shelf name="are-you-fucking-kidding-me" exclusive="false" review_shelf_id="490184658" sortable="false" />
+    <shelf name="hello-mary-sue" exclusive="false" review_shelf_id="522307949" sortable="false" />
+    <shelf name="stinking-cowshit" exclusive="false" review_shelf_id="642115722" sortable="false" />
+    <shelf name="had-colossal-hopes" exclusive="false" review_shelf_id="532370036" sortable="false" />
+    <shelf name="awfully-boring-plot" exclusive="false" review_shelf_id="591537976" sortable="false" />
+    <shelf name="cringe-worthy" exclusive="false" review_shelf_id="591536632" sortable="false" />
+    <shelf name="donno-what-is-so-appealing" exclusive="false" review_shelf_id="591537837" sortable="false" />
+    <shelf name="contemporary" exclusive="false" review_shelf_id="467614757" sortable="false" />
+    <shelf name="i-loathe-this" exclusive="false" review_shelf_id="471612301" sortable="false" />
+    <shelf name="i-m-gonna-let-you-burn-burn-burn" exclusive="false" review_shelf_id="591538501" sortable="false" />
+    <shelf name="books-i-would-love-to-burn" exclusive="false" review_shelf_id="471567813" sortable="false" />
+    <shelf name="needs-a-freaking-editor" exclusive="false" review_shelf_id="591538920" sortable="false" />
+</shelves>
+  <recommended_for>Popular Goodreads public</recommended_for>
+  <recommended_by>Popular Goodreads public</recommended_by>
+  <started_at>Wed Dec 19 00:00:00 -0800 2012</started_at>
+  <read_at>Mon Dec 24 00:00:00 -0800 2012</read_at>
+  <date_added>Sun Aug 12 09:08:02 -0700 2012</date_added>
+  <date_updated>Thu Jul 17 04:50:55 -0700 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[<u> <b>Update (25/06/2014)-</b> </u><br />Since I've been receiving a lot of cyber bullies and hate messages, I’m going to clarify few things.<br /><br />-Firstly, this is a negative review of the book and it has got a lot of potential to infuriate the fans. If you think that your opinion is the only opinion that exists on eart...]]>
+  </body>
+
+  
+
+  <comments_count>908</comments_count>
+    <comments start="1" end="50" total="908">
+        <comment>
+  <id>82852488</id>
+  <body><![CDATA[I appreciate an honest review and I'm sorry this book didn't work for you. I loved the book and felt none of your concerns. But if everybody loved the same books the world would be a very boring place. <br />Just one suggestion. Your rev contains major spoilers - maybe you should warn people who haven't read it so far.]]></body>
+  
+  <user>
+    <id>6505266</id>
+    <name>Nia (Kantorka)</name>
+    <display_name>Nia (Kantorka)</display_name>
+
+    <location>Germany</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6505266-nia-kantorka]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1406727247p3/6505266.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1406727247p2/6505266.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 13 05:43:56 -0700 2013</created_at>
+  <updated_at>Fri Sep 13 05:43:56 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>82857084</id>
+  <body><![CDATA[<i>Nia (Kantorka) wrote: "I appreciate an honest review and I'm sorry this book didn't work for you. I loved the book and felt none of your concerns. But if everybody loved the same books the world would be a very boring pl..."</i><br /><br />Hey Nia, Thanks for accepting! I'm happy to see that you loved it, believe me I really wanted to love this one too. Thanks for the suggestion, I forgot to add the spoiler warning when I updated it the last time.]]></body>
+  
+  <user>
+    <id>8359556</id>
+    <name>Ayesha</name>
+    <display_name>Ayesha</display_name>
+
+    <location>Manama, Bahrain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8359556-ayesha]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 13 07:24:08 -0700 2013</created_at>
+  <updated_at>Fri Sep 13 07:24:08 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>84325671</id>
+  <body><![CDATA[THANK YOU!! SOMEONE UNDERSTANDS! I honestly did not get why SOOOOO many people "loved" this book. I'm not saying you shouldn't like this book, I'm just saying I didn't like this book. It was okay for me, I was expecting to cry cause I'm a sappy person but I didn't...I was kinda disappointed...]]></body>
+  
+  <user>
+    <id>22588947</id>
+    <name>Laurie</name>
+    <display_name>Laurie</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22588947-laurie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1375067072p3/22588947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1375067072p2/22588947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Oct 05 17:40:13 -0700 2013</created_at>
+  <updated_at>Sat Oct 05 17:40:13 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>84335305</id>
+  <body><![CDATA[<i>Laurie wrote: "THANK YOU!! SOMEONE UNDERSTANDS! I honestly did not get why SOOOOO many people "loved" this book. I'm not saying you shouldn't like this book, I'm just saying I didn't like this book. It was okay f..."</i><br /><br />You're welcome :) This was my #1 disappointing book I've ever read. Honestly, after reading this book I swore never to fall for GR hype ever again.]]></body>
+  
+  <user>
+    <id>8359556</id>
+    <name>Ayesha</name>
+    <display_name>Ayesha</display_name>
+
+    <location>Manama, Bahrain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8359556-ayesha]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat Oct 05 20:18:25 -0700 2013</created_at>
+  <updated_at>Sat Oct 05 20:18:25 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>84691659</id>
+  <body><![CDATA[I loved your comment. TFIOS is definitely the worst book I have ever read! And I read it the first week of its release. Not that I am a John Green fan but I did enjoy Paper Town a lot so I thought of giving this one a shot. But this one turned out to be the most pretentious, manipulative, cheesy, boring, sappy-as-hell Bore-fest!!!]]></body>
+  
+  <user>
+    <id>17367418</id>
+    <name>Asunpravhotmail.co.uk</name>
+    <display_name>Asunpravhotmail.co.uk</display_name>
+
+    <location><![CDATA[London, H9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17367418-asunpravhotmail-co-uk]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 11 11:33:08 -0700 2013</created_at>
+  <updated_at>Fri Oct 11 11:33:08 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>84856929</id>
+  <body><![CDATA[<i>Asunpravhotmail.co.uk wrote: "I loved your comment. TFIOS is definitely the worst book I have ever read! And I read it the first week of its release. Not that I am a John Green fan but I did enjoy Paper Town a lot so I thought ..."</i><br /><br />Thanks. I'm happy to see that there are readers who agree with me. I really don't get what's so great in this book.<br /><br /><i>"sappy-as-hell Bore-fest"</i><br />LOL! I like that.]]></body>
+  
+  <user>
+    <id>8359556</id>
+    <name>Ayesha</name>
+    <display_name>Ayesha</display_name>
+
+    <location>Manama, Bahrain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8359556-ayesha]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 14 04:34:18 -0700 2013</created_at>
+  <updated_at>Mon Oct 14 04:34:18 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85288133</id>
+  <body><![CDATA[Just read this, Ayesha! I <i>really</i> love your rants! XD I would like it but I'm on my phone ^^ Later, lol.]]></body>
+  
+  <user>
+    <id>5045321</id>
+    <name>Kirstin</name>
+    <display_name>Kirstin</display_name>
+
+    <location>Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5045321-kirstin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1453909982p3/5045321.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1453909982p2/5045321.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 21 02:31:52 -0700 2013</created_at>
+  <updated_at>Mon Oct 21 02:31:52 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85299619</id>
+  <body><![CDATA[<i>▪▮CᴜʀsᴇᴛᴇᴇN▮▪ wrote: "Just read this, Ayesha! I really love your rants! XD I would like it but I'm on my phone ^^ Later, lol."</i><br /><br />Thanks ;) Forgive my messed-up writing, I was very angry while I wrote this review. It's strange how books can make me happy, sad and angry in a way people can't :P]]></body>
+  
+  <user>
+    <id>8359556</id>
+    <name>Ayesha</name>
+    <display_name>Ayesha</display_name>
+
+    <location>Manama, Bahrain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8359556-ayesha]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 21 08:26:35 -0700 2013</created_at>
+  <updated_at>Mon Oct 21 08:26:35 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85333054</id>
+  <body><![CDATA[<i>"It's strange how books can make me happy, sad and angry in a way people can't :P"</i><br /><br />So true! I haven't read a lot of books, but I know the feel. XD]]></body>
+  
+  <user>
+    <id>5045321</id>
+    <name>Kirstin</name>
+    <display_name>Kirstin</display_name>
+
+    <location>Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5045321-kirstin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1453909982p3/5045321.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1453909982p2/5045321.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 21 17:50:58 -0700 2013</created_at>
+  <updated_at>Mon Oct 21 17:50:58 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85342502</id>
+  <body><![CDATA[That's SOOO true for me]]></body>
+  
+  <user>
+    <id>22588947</id>
+    <name>Laurie</name>
+    <display_name>Laurie</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22588947-laurie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1375067072p3/22588947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1375067072p2/22588947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 21 20:26:35 -0700 2013</created_at>
+  <updated_at>Mon Oct 21 20:26:35 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85378677</id>
+  <body><![CDATA[Oh my gosh! I completed <a href="https://www.goodreads.com/book/show/19063.The_Book_Thief" title="The Book Thief by Markus Zusak" rel="nofollow">The Book Thief</a> yesterday and....I.am.broken.....Now that book was amazing. I would recommend that book to everyone without any hesitation.]]></body>
+  
+  <user>
+    <id>8359556</id>
+    <name>Ayesha</name>
+    <display_name>Ayesha</display_name>
+
+    <location>Manama, Bahrain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8359556-ayesha]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 22 13:04:46 -0700 2013</created_at>
+  <updated_at>Tue Oct 22 13:04:46 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85394073</id>
+  <body><![CDATA[I need to read it. Haven't though...Is it sad?]]></body>
+  
+  <user>
+    <id>22588947</id>
+    <name>Laurie</name>
+    <display_name>Laurie</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22588947-laurie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1375067072p3/22588947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1375067072p2/22588947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 22 17:09:33 -0700 2013</created_at>
+  <updated_at>Tue Oct 22 17:09:33 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85396351</id>
+  <body><![CDATA[I'll check it out, Ayesha! ^^]]></body>
+  
+  <user>
+    <id>5045321</id>
+    <name>Kirstin</name>
+    <display_name>Kirstin</display_name>
+
+    <location>Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5045321-kirstin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1453909982p3/5045321.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1453909982p2/5045321.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 22 17:48:16 -0700 2013</created_at>
+  <updated_at>Tue Oct 22 17:48:16 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85425160</id>
+  <body><![CDATA[<a href="https://www.goodreads.com/book/show/19063.The_Book_Thief" title="The Book Thief by Markus Zusak" rel="nofollow">The Book Thief</a> is A-M-A-Z-I-N-G! It made me laugh and cry. It's not sad...it's <i>more</i> than that. I'm at a loss for words to describe that book so I would quote a review I loved on the Book thief-<br /><br /><i>"If you love to read and if you love to care about the characters you read about and if you love to eat words like they're ice cream and if you love to have your heart broken and mended on the same page, this book is for you.</i>]]></body>
+  
+  <user>
+    <id>8359556</id>
+    <name>Ayesha</name>
+    <display_name>Ayesha</display_name>
+
+    <location>Manama, Bahrain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8359556-ayesha]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Oct 23 08:30:26 -0700 2013</created_at>
+  <updated_at>Wed Oct 23 08:30:26 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85425663</id>
+  <body><![CDATA[Many readers compare that book to TFioS on the terms of "books that made you cry the most" but in my opinion, the latter is very bland in front of the former.<br /><br />The book thief teaches you so much, it touches your heart and makes you fall in love with the characters and the words in the book...in comparison, TFioS is absolutely craptastic.<br /><br />I'm surprised that Book thief has an average rating of 4.36 stars on GR whereas TFioS has 4.50!<br />That's why I never trust GR average ratings.]]></body>
+  
+  <user>
+    <id>8359556</id>
+    <name>Ayesha</name>
+    <display_name>Ayesha</display_name>
+
+    <location>Manama, Bahrain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8359556-ayesha]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Oct 23 08:41:26 -0700 2013</created_at>
+  <updated_at>Wed Oct 23 08:41:26 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>88512436</id>
+  <body><![CDATA[I loved TFiOS, but I respect your opinion and review. I also LOVED The Book Thief. The Book Thief is clearly a better book, but I did love them both. TBT is deeper and has more literary merit though, that I completely agree.]]></body>
+  
+  <user>
+    <id>3902029</id>
+    <name>Barbara (VampAngel)</name>
+    <display_name>Barbara (VampAngel)</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3902029-barbara-vampangel]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1370404423p3/3902029.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1370404423p2/3902029.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Dec 12 13:09:25 -0800 2013</created_at>
+  <updated_at>Thu Dec 12 13:09:25 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>88610093</id>
+  <body><![CDATA[@ Barbara<br /><br />Thanks. I'm glad you enjoyed both the books :)]]></body>
+  
+  <user>
+    <id>8359556</id>
+    <name>Ayesha</name>
+    <display_name>Ayesha</display_name>
+
+    <location>Manama, Bahrain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8359556-ayesha]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat Dec 14 07:38:53 -0800 2013</created_at>
+  <updated_at>Sat Dec 14 07:38:53 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>89399180</id>
+  <body><![CDATA[SOO TRUEEEEEEEEEEEEEEEE<br />Everyone praises this book, including my English teacher... F.......(I am not criticizing the writing style but crappy plot.) <br />I really wanted to punch Hazel few times. <br />This review just made my day! Thanks!!!!!!]]></body>
+  
+  <user>
+    <id>20975592</id>
+    <name>Ju</name>
+    <display_name>Ju Ae</display_name>
+
+    <location>Makati, D9, Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/20975592-ju-ae]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Dec 27 21:54:21 -0800 2013</created_at>
+  <updated_at>Fri Dec 27 21:54:21 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>89402576</id>
+  <body><![CDATA[So did I. My friends told me this book was "AMAZING!" And "Will really break your heart!" So I was SO pumped up to read this book. And then...well...I read this book....And guess what....I didn't cry...didn't even tear up...]]></body>
+  
+  <user>
+    <id>22588947</id>
+    <name>Laurie</name>
+    <display_name>Laurie</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22588947-laurie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1375067072p3/22588947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1375067072p2/22588947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Dec 27 23:38:55 -0800 2013</created_at>
+  <updated_at>Fri Dec 27 23:38:55 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>89402603</id>
+  <body><![CDATA[Guess what! IM READING THE BOOK THIEF RIGHT NOW!!!]]></body>
+  
+  <user>
+    <id>22588947</id>
+    <name>Laurie</name>
+    <display_name>Laurie</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22588947-laurie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1375067072p3/22588947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1375067072p2/22588947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Dec 27 23:39:53 -0800 2013</created_at>
+  <updated_at>Fri Dec 27 23:39:53 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>89402776</id>
+  <body><![CDATA[<i>Ju wrote: "SOO TRUEEEEEEEEEEEEEEEE<br />Everyone praises this book, including my English teacher... F.......(I am not criticizing the writing style but crappy plot.) <br />I really wanted to punch Hazel few times. <br />This review made my day! Thanks!!!!!!"</i><br /><br />Everyone reader I know offline is obsessed with this book. Thanks and welcome :D <br /><br />@Laurie<br />This book was a certainly a worthless read. Hope you enjoy The book thief!]]></body>
+  
+  <user>
+    <id>8359556</id>
+    <name>Ayesha</name>
+    <display_name>Ayesha</display_name>
+
+    <location>Manama, Bahrain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8359556-ayesha]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Dec 27 23:48:08 -0800 2013</created_at>
+  <updated_at>Fri Dec 27 23:48:08 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>89402848</id>
+  <body><![CDATA[I think I will!! Just started it though.]]></body>
+  
+  <user>
+    <id>22588947</id>
+    <name>Laurie</name>
+    <display_name>Laurie</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22588947-laurie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1375067072p3/22588947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1375067072p2/22588947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Dec 27 23:52:11 -0800 2013</created_at>
+  <updated_at>Fri Dec 27 23:52:11 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>89402965</id>
+  <body><![CDATA[It may be boring in the beginning for some people but I fell in love with that book from the prologue itself.]]></body>
+  
+  <user>
+    <id>8359556</id>
+    <name>Ayesha</name>
+    <display_name>Ayesha</display_name>
+
+    <location>Manama, Bahrain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8359556-ayesha]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Dec 27 23:57:46 -0800 2013</created_at>
+  <updated_at>Fri Dec 27 23:57:46 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>89402984</id>
+  <body><![CDATA[Okay!]]></body>
+  
+  <user>
+    <id>22588947</id>
+    <name>Laurie</name>
+    <display_name>Laurie</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22588947-laurie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1375067072p3/22588947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1375067072p2/22588947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Dec 27 23:58:39 -0800 2013</created_at>
+  <updated_at>Fri Dec 27 23:58:39 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>89624883</id>
+  <body><![CDATA[The lesson in here is: Don't believe the hype. I didn't like the book that much, either. And I certainly didn't cry over it!]]></body>
+  
+  <user>
+    <id>9648643</id>
+    <name>Brooke</name>
+    <display_name>Brooke</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9648643-brooke]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1452988442p3/9648643.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1452988442p2/9648643.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 31 04:13:53 -0800 2013</created_at>
+  <updated_at>Tue Dec 31 04:13:53 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>89639010</id>
+  <body><![CDATA[I'm sorry to hear you didn't enjoy it! The only thing I have to comment on is this- Hazel may seem a bit selfish when she isn't always grateful for her parents and such, but the thing is, she's a teenager. No teenager in the world is always happy and grateful. She's sixteen and in love, and all teenagers I know when they're in love, don't always act the way they should.<br /><br />Besides that, I respectively agree to disagree on this. Have you tried any of Green's other books? Abundance of Katherines is one of my favorites. It's much more lighthearted than this book, per say.]]></body>
+  
+  <user>
+    <id>21203061</id>
+    <name>Molly</name>
+    <display_name>Molly</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/21203061-molly]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1387411173p3/21203061.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1387411173p2/21203061.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 31 09:15:32 -0800 2013</created_at>
+  <updated_at>Tue Dec 31 09:15:32 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>89661591</id>
+  <body><![CDATA[people kept telling me good this book is and I should read it finally i did.When I finished it i hade a long period of silence thinking what just happend.It wasnt like a woah! book for at all.It was kinds boring.It was ok for me .(i guess) p.s hated the book theif!!]]></body>
+  
+  <user>
+    <id>26609752</id>
+    <name>Nagina </name>
+    <display_name>Nagina  Hamkar</display_name>
+
+    <location>Guelph, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/26609752-nagina-hamkar]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1456110804p3/26609752.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1456110804p2/26609752.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 31 14:27:36 -0800 2013</created_at>
+  <updated_at>Tue Dec 31 14:27:36 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>89680953</id>
+  <body><![CDATA[<i>_book_crazy_ wrote: "people kept telling me good this book is and I should read it finally i did.When I finished it i hade a long period of silence thinking what just happend.It wasnt like a woah! book for at all.It wa..."</i><br /><br />I didn't like the book thief ethier but I loved the fault in our stars but I understand. I had a lot of friends that thought of it as okay.]]></body>
+  
+  <user>
+    <id>14397665</id>
+    <name>Reyhaneh</name>
+    <display_name>Reyhaneh</display_name>
+
+    <location>Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14397665-reyhaneh]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1429042366p3/14397665.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1429042366p2/14397665.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 31 19:32:04 -0800 2013</created_at>
+  <updated_at>Tue Dec 31 19:32:04 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>89751583</id>
+  <body><![CDATA[How on earth can people complain about spoilers in this review?<br />I'm sorry, but any book featuring a beloved pet or terminally ill teenager is going to end in "and so they died." <br />It's a fact of life.<br />(Unless someone writes "Lucky, the freaking immortal Labrador." Or possibly Picoult's "My Sister's Keeper" where the "wrong" sister died.)<br />Let's be honest, I knew what I was getting into when I picked up an American YA novel about terminally ill teenagers "everyone" was raving about - teenage angst, teenage romance, flowery epithets, lying together on a car bonnet looking up at the sky at least once, indie music at a funeral...]]></body>
+  
+  <user>
+    <id>9261531</id>
+    <name>Caitlin</name>
+    <display_name>Caitlin</display_name>
+
+    <location>Adelaide, 07, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9261531-caitlin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1354842062p3/9261531.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1354842062p2/9261531.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 01 16:59:21 -0800 2014</created_at>
+  <updated_at>Wed Jan 01 16:59:21 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>89793022</id>
+  <body><![CDATA[Personally, this isn't my favourite book; it didn't make me cry. It didn't live up to the hype. And no, it wasn't what I was expecting. But I think Green has a brilliant mind and works beautifully to create two very different characters here which are both drawn into an advanced and interesting plot. The twist actually surprised me and I felt everything within the novel, although at times seeming rehearsed, was actually very credible. <br />I do however agree that this book is hyped up. Especially in comparison to his other novels. I actually prefer Looking For Alaska. Which is a lot less commercialised, both literally and metaphorically, within the book.]]></body>
+  
+  <user>
+    <id>19492164</id>
+    <name>Elliott</name>
+    <display_name>Elliott Cooper</display_name>
+
+    <location>Cardiff, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/19492164-elliott-cooper]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1366147902p3/19492164.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1366147902p2/19492164.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 02 06:51:20 -0800 2014</created_at>
+  <updated_at>Thu Jan 02 06:51:20 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>89808990</id>
+  <body><![CDATA[<i>Brooke wrote: "The lesson in here is: Don't believe the hype. I didn't like the book that much, either. And I certainly didn't cry over it!"</i><br /><br />Yeah, hype is misleading.<br /><br /><i>Molly wrote: "Hazel may seem a bit selfish when she isn't always grateful for her parents and such, but the thing is, she's a teenager. No teenager in the world is always happy and grateful. She's sixteen and in love, and all teenagers I know when they're in love, don't always act the way they should."</i><br /><br />I have read many books in which teens are in love but don't go around acting like ungrateful brats like Hazel. Lina from <a href="https://www.goodreads.com/book/show/7824322.Between_Shades_of_Gray" title="Between Shades of Gray by Ruta Sepetys" rel="nofollow">Between Shades of Gray</a> lives during one of the horrifying times of history, she is a teen who falls in love while she is deported to Siberia under ghastly conditions, she had given up her own freedom for her cousin yet she's never selfish and ungrateful. Another good example would be Liela from <a href="https://www.goodreads.com/book/show/128029.A_Thousand_Splendid_Suns" title="A Thousand Splendid Suns by Khaled Hosseini" rel="nofollow">A Thousand Splendid Suns</a>, she lives with her parents in Kabul during wartime, her mother is emotionally and mentally broken, her father is sacked, there is no guarantee that she or her parents will live the next day, she's in love yet she's not ungrateful and whiny. And there are more...<br /><br />Besides, I'm not interested in reading anything written by Green, not after reading the following article-<br /><br /><a target="_blank" href="http://dearauthor.com/news/friday-news-john-green-chastises-readers-for-not-being-generous-nytimes-uses-hyphens-inconsistently-apple-ibooks-for-mac-is-a-mess/" rel="nofollow">http://dearauthor.com/news/friday-new...</a>]]></body>
+  
+  <user>
+    <id>8359556</id>
+    <name>Ayesha</name>
+    <display_name>Ayesha</display_name>
+
+    <location>Manama, Bahrain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8359556-ayesha]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 02 10:50:44 -0800 2014</created_at>
+  <updated_at>Thu Jan 02 10:50:44 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>89809023</id>
+  <body><![CDATA[<i>Caitlin wrote: "Let's be honest, I knew what I was getting into when I picked up an American YA novel about terminally ill teenagers "everyone" was raving about - teenage angst, teenage romance, flowery epithets, lying together on a car bonnet looking up at the sky at least once, indie music at a funeral... "</i><br /><br />See, when I picked this book, I was expecting some developed and likeable characters <b>not</b> cardboard cut-outs, I was expecting there to be a developed relationship <b>not</b> something that just fell from the sky, I was expecting some memorable and beautiful dialogues <b>not</b> ridiculous, eye-rolls and cringe-worthy metaphors and I was expecting some memorable moments <b>not</b> some boring and dragging plot.]]></body>
+  
+  <user>
+    <id>8359556</id>
+    <name>Ayesha</name>
+    <display_name>Ayesha</display_name>
+
+    <location>Manama, Bahrain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8359556-ayesha]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 02 10:51:11 -0800 2014</created_at>
+  <updated_at>Thu Jan 02 10:51:11 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>89896115</id>
+  <body><![CDATA[I agree with some of your points and strongly disagree with others, but seriously this review made me laugh so hard I went into a coughing fit.]]></body>
+  
+  <user>
+    <id>24281426</id>
+    <name>Colette</name>
+    <display_name>Colette Crowder</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24281426-colette-crowder]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1394071838p3/24281426.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1394071838p2/24281426.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 03 11:13:44 -0800 2014</created_at>
+  <updated_at>Fri Jan 03 11:13:44 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>89897085</id>
+  <body><![CDATA[I thought I was the only one! <br />The book did make me sad, though, and I almost cried. But I don't understand what the bid deal was.<br />I agree with everything....]]></body>
+  
+  <user>
+    <id>10388975</id>
+    <name>Amanda</name>
+    <display_name>Amanda Page</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10388975-amanda-page]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1363969509p3/10388975.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1363969509p2/10388975.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 03 11:26:53 -0800 2014</created_at>
+  <updated_at>Fri Jan 03 11:26:53 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>89897266</id>
+  <body><![CDATA[<i>Colette wrote: "I agree with some of your points and strongly disagree with others, but seriously this review made me laugh so hard I went into a coughing fit."</i><br /><br />Thanks. :D]]></body>
+  
+  <user>
+    <id>8359556</id>
+    <name>Ayesha</name>
+    <display_name>Ayesha</display_name>
+
+    <location>Manama, Bahrain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8359556-ayesha]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 03 11:28:55 -0800 2014</created_at>
+  <updated_at>Fri Jan 03 11:28:55 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>89897394</id>
+  <body><![CDATA[<i>Amanda wrote: "I thought I was the only one! <br />The book did make me sad, though, and I almost cried. But I don't understand what the bid deal was.<br />I agree with everything...."</i><br /><br />Glad I'm not the only one.]]></body>
+  
+  <user>
+    <id>8359556</id>
+    <name>Ayesha</name>
+    <display_name>Ayesha</display_name>
+
+    <location>Manama, Bahrain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8359556-ayesha]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 03 11:30:23 -0800 2014</created_at>
+  <updated_at>Fri Jan 03 11:30:23 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90048927</id>
+  <body><![CDATA[I absolutely love you and this review. You literally wrote everything that was going through my head whilst reading the book. My review, I have to admit, is nowhere near as coherent as yours, just because I am so unbelievably angry with John Green for writing this book and portraying the characters as he did.<br /><br />So I'm glad that there seems to be a small group of us that actually disliked the book, rather than fangirling over the 'beautiful love story'.<br /><br />I'm sorry, WHAT BEAUTIFUL LOVE STORY? I do not see a romance, but a high school crush gone too far. That's all.<br /><br />And to be honest, Augustus' nickname kind of reminded me of the fat mouse from Cinderella, so that's all I could think of whenever someone called him 'Gus'.]]></body>
+  
+  <user>
+    <id>22178203</id>
+    <name>Aly&apos;s Bookish Wonderland</name>
+    <display_name>Aly&apos;s Bookish Wonderland</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22178203-aly-s-bookish-wonderland]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1462398784p3/22178203.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1462398784p2/22178203.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 05 08:54:39 -0800 2014</created_at>
+  <updated_at>Sun Jan 05 08:54:39 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90120590</id>
+  <body><![CDATA[<i>Aly wrote: "I absolutely love you and this review. You literally wrote everything that was going through my head whilst reading the book. My review, I have to admit, is nowhere near as coherent as yours, just ..."</i><br /><br />Thanks! <br /><br /><i>Aly wrote: "I'm sorry, WHAT BEAUTIFUL LOVE STORY? I do not see a romance, but a high school crush gone too far. That's all."</i><br /><br />I agree!<br /><br /><i>Aly wrote: "And to be honest, Augustus' nickname kind of reminded me of the fat mouse from Cinderella, so that's all I could think of whenever someone called him 'Gus'. <br />"</i><br /><br />LOL! Forget about writing a true cancer book, Green can't even give a proper nickname to his character. 'Gus' rhymes well with pus.]]></body>
+  
+  <user>
+    <id>8359556</id>
+    <name>Ayesha</name>
+    <display_name>Ayesha</display_name>
+
+    <location>Manama, Bahrain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8359556-ayesha]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 06 05:57:40 -0800 2014</created_at>
+  <updated_at>Mon Jan 06 05:57:40 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90120633</id>
+  <body><![CDATA[<b>Life is too short to read bad books and TFIOS is one of them.</b>]]></body>
+  
+  <user>
+    <id>8359556</id>
+    <name>Ayesha</name>
+    <display_name>Ayesha</display_name>
+
+    <location>Manama, Bahrain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8359556-ayesha]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 06 05:58:31 -0800 2014</created_at>
+  <updated_at>Mon Jan 06 05:58:31 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90121637</id>
+  <body><![CDATA[Sorry it didn't work... I loved it! Every second of it!]]></body>
+  
+  <user>
+    <id>16707620</id>
+    <name>Jacquelyn</name>
+    <display_name>Jacquelyn</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16707620-jacquelyn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1449583650p3/16707620.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1449583650p2/16707620.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 06 06:23:06 -0800 2014</created_at>
+  <updated_at>Mon Jan 06 06:23:06 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90170321</id>
+  <body><![CDATA[I can totally see what you are talking about, but i still like the book. I do agree that The Book Thief is so much better. Have you seen the movie?]]></body>
+  
+  <user>
+    <id>6110651</id>
+    <name>Katherine</name>
+    <display_name>Katherine</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6110651-katherine]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1422327406p3/6110651.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1422327406p2/6110651.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 06 17:56:19 -0800 2014</created_at>
+  <updated_at>Mon Jan 06 17:56:19 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90183449</id>
+  <body><![CDATA[I totally understand your valid points/opinion and concur with them. Yet the only thing that annoyed me was your comment on how cancer people can't be "magically wise" and lack in insight and meaning of life. But excuse me, have you ever met or encountered a cancer patient or people, for that matter? Yes some cancer patient don't gain insight in life which is pity for them. Again,there are some who do just like everyday people. It varies for everyone. Just because they have cancer doesn't limit their ability of philosophical thoughts. Jeez.]]></body>
+  
+  <user>
+    <id>5237411</id>
+    <name>Dominique</name>
+    <display_name>Dominique</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5237411-dominique]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1371094546p3/5237411.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1371094546p2/5237411.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 06 20:38:20 -0800 2014</created_at>
+  <updated_at>Mon Jan 06 20:38:20 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90218517</id>
+  <body><![CDATA[I think the problem about this book is that so many people have over rated it, and since so many people have read it, it's already boring and predictable. But thank you for your opinion!]]></body>
+  
+  <user>
+    <id>2742179</id>
+    <name>Jo-Vivian</name>
+    <display_name>Jo-Vivian</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2742179-jo-vivian]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1455656896p3/2742179.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1455656896p2/2742179.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 07 11:28:45 -0800 2014</created_at>
+  <updated_at>Tue Jan 07 11:28:45 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90236183</id>
+  <body><![CDATA[TFIOS is definitely the worst book I have ever read! <br /><br />You're young. Give it a few years; I'm sure you will find something that's worse.]]></body>
+  
+  <user>
+    <id>1508767</id>
+    <name>Donna</name>
+    <display_name>Donna</display_name>
+
+    <location>Fountain Valley, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1508767-donna]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1220916074p3/1508767.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1220916074p2/1508767.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 07 15:53:46 -0800 2014</created_at>
+  <updated_at>Tue Jan 07 15:53:46 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90269300</id>
+  <body><![CDATA[<i>Dominique wrote: "I totally understand your valid points/opinion and concur with them. Yet the only thing that annoyed me was your comment on how cancer people can't be "magically wise" and lack in insight and meani..."</i><br /><br />Firstly, if anything annoyed you in my review then why did you read it in the first place? Haven't I mentioned it clearly at the beginning to stay away from this because it can infuriate you?<br /><br />I haven't met any cancer patient but I've seen lots of sick children. Sometimes they do have extraordinary talents which are genuine. Hazel and Augustus speak like wise old men which sounds so fake and utterly ridiculous. A genuinely sick kid doesn't have the luxury to be so wise. They get depressed and sad, they worry if they'll live the next minute or not, they don't go around being pretentious. They don't go around trying to impress people like Hazel and Augustus do.<br />You said that my comment annoyed you but do you know that this book has annoyed so many sick readers out there? Yes, I've read reviews and comments written by genuinely sick people saying how Tfios made them want to burn the book in disgust. They found the jokes cracked on death by the characters to be utterly sick not to mention that they have even put up similar point in question in their own review. <br /><br />I hated this book and I've given my reasons clearly. Come hell or high water, I'm not going to change my opinions over it and I won't stop from expressing my dislike for it.]]></body>
+  
+  <user>
+    <id>8359556</id>
+    <name>Ayesha</name>
+    <display_name>Ayesha</display_name>
+
+    <location>Manama, Bahrain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8359556-ayesha]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 08 05:07:34 -0800 2014</created_at>
+  <updated_at>Wed Jan 08 05:07:34 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90269433</id>
+  <body><![CDATA[<i>Donna wrote: "TFIOS is definitely the worst book I have ever read! <br /><br />You're young. Give it a few years; I'm sure you will find something that's worse."</i><br /><br />I might be young but I can differentiate between a good and a bad book. TFioS is the worst book I've personally read.]]></body>
+  
+  <user>
+    <id>8359556</id>
+    <name>Ayesha</name>
+    <display_name>Ayesha</display_name>
+
+    <location>Manama, Bahrain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8359556-ayesha]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 08 05:11:44 -0800 2014</created_at>
+  <updated_at>Wed Jan 08 05:11:44 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90272037</id>
+  <body><![CDATA[<i>Katherine wrote: "I can totally see what you are talking about, but i still like the book. I do agree that The Book Thief is so much better. Have you seen the movie?"</i><br /><br />No, I haven't seen it yet.]]></body>
+  
+  <user>
+    <id>8359556</id>
+    <name>Ayesha</name>
+    <display_name>Ayesha</display_name>
+
+    <location>Manama, Bahrain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8359556-ayesha]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 08 06:13:05 -0800 2014</created_at>
+  <updated_at>Wed Jan 08 06:13:05 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90274031</id>
+  <body><![CDATA[I haven't read this. Now I'm not sure if I want to. But I think I will read this, or I should read this to see for myself how "ridiculous" or "magical" this book is.<br />This is way overhyped though. And I don't really read overhyped books because they tend to disappoint me most of the time. <br />And the fans!! Ugh!! I hate fandoms sometimes. They could be so annoying, insisting their love for the book. Like I get okay you LOVE the book, but I hate it so go away.<br /><br />Nice review/rant by the way! Most of my goodreads friends and twitter friends don't like this book too.]]></body>
+  
+  <user>
+    <id>5432400</id>
+    <name>Pat</name>
+    <display_name>Pat</display_name>
+
+    <location>Davao, Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5432400-pat]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1435924174p3/5432400.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1435924174p2/5432400.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 08 06:54:19 -0800 2014</created_at>
+  <updated_at>Wed Jan 08 06:54:19 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90311115</id>
+  <body><![CDATA[Everyone has read a book that is hyped, and would like to beat said novel around fans heads :D Mine's Fifty Shades (of shit )and *cough* Twishite *cough* (I hate them with a vengence, is it obvious?).<br /><br />BUT, alas, I did like this book. Maybe even loved. Although, I have read a lot, a lot, a lot worse (even than Fifty Shades!) And I haven't been raving like a fan girl.<br /><br />Thank you, for your honest opinion :D]]></body>
+  
+  <user>
+    <id>8813756</id>
+    <name>Holly</name>
+    <display_name><![CDATA[Holly *Confessions of a Lit Chick*]]></display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8813756-holly-confessions-of-a-lit-chick]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1441372956p3/8813756.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1441372956p2/8813756.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 08 16:56:47 -0800 2014</created_at>
+  <updated_at>Wed Jan 08 16:56:47 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90311786</id>
+  <body><![CDATA[<i>Ayesha wrote: "Donna wrote: "TFIOS is definitely the worst book I have ever read! <br /><br />You're young. Give it a few years; I'm sure you will find something that's worse."<br /><br />I might be young but I can differentiate be..."</i><br /><br />I didn't mean to indicate that you didn't know the difference between a good and bad book. You certainly are entitled to your opinion. I just meant given time you will likely (or maybe not) come across a book you dislike more. I am 66 and have come across numerous books that I hated. Sometimes going against the popular opinion as well. I hated Outlander (ducking quickly).]]></body>
+  
+  <user>
+    <id>1508767</id>
+    <name>Donna</name>
+    <display_name>Donna</display_name>
+
+    <location>Fountain Valley, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1508767-donna]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1220916074p3/1508767.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1220916074p2/1508767.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 08 17:07:34 -0800 2014</created_at>
+  <updated_at>Wed Jan 08 17:07:34 -0800 2014</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/389841483]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/389841483]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

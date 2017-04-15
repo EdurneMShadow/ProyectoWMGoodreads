@@ -1,0 +1,299 @@
+status: 200
+x-request-id: ZGRWHC9NK8D7HXVJHZQF
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=364248294&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhg5MzQtNDczMjk0Ni04ODIzODQ0BjoGRVQ%3D--bccc4b44fce2e884b2715c501bddc5d743c318c4;
+ path=/; expires=Wed, 15 Apr 2037 15:40:54 -0000, locale=es;
+ path=/, _session_id2=77a9dadf96819a73009f649c823b2f7c; path=/;
+ expires=Sat, 15 Apr 2017 21:40:54 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 9777
+server: Server
+x-runtime: 0.335086
+etag: W/"073ae878db75816423036964f97e0976"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:40:54 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>364248294</id>
+    
+  <user>
+    <id>4629118</id>
+    <name>Laurel</name>
+    <display_name>Laurel</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4629118-laurel]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291702630p3/4629118.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291702630p2/4629118.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">2880</id>
+  <isbn>1591164419</isbn>
+  <isbn13>9781591164418</isbn13>
+  <text_reviews_count type="integer">828</text_reviews_count>
+  <title>Bleach, Volume 01</title>
+  <title_without_series>Bleach, Volume 01</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2880.Bleach_Volume_01</link>
+  <num_pages>200</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>VIZ Media LLC</publisher>
+  <publication_day>19</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.21</average_rating>
+  <ratings_count>116394</ratings_count>
+  <description>Hot-tempered 15-year-old Ichigo Kurosaki, the hero of the popular fantasy-adventure &lt;i&gt;
+  &lt;b&gt;
+    &lt;u&gt;Bleach&lt;/u&gt;
+  &lt;/b&gt;
+&lt;/i&gt;, has the unsettling ability to see spirits who are unable to rest in peace. His sixth sense leads him to Rukia, a Soul Reaper who destroys &lt;i&gt;Hollows&lt;/i&gt; (soul-devouring monsters) and ensures the deceased find repose with the Soul Society. When she's injured in battle, Rukia transfers her sword and much of her power to Ichigo, whose spiritual energy makes him a formidable substitute Soul Reaper. But the orange-haired teenager isn't sure he wants the job: too many risks and moral dilemmas.</description>
+<authors>
+<author>
+<id>1977</id>
+<name>Tite Kubo</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1253238688p5/1977.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1253238688p2/1977.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1977.Tite_Kubo]]></link>
+<average_rating>4.28</average_rating>
+<ratings_count>386412</ratings_count>
+<text_reviews_count>4523</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1408235451</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Jun 26 16:01:09 -0700 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>21</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="manga" exclusive="false" review_shelf_id="240831290" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Jul 08 22:44:41 -0700 2012</date_added>
+  <date_updated>Mon Aug 31 16:31:00 -0700 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This manga series is absolutely amazing! Anyone considering whether or not to read this manga, read it now! And for those of you currently reading the series but not yet finished with all the books, you will be blown away by Tite Kubo's advancement in skill! The beginning of bleach has amazing ar...]]>
+  </body>
+
+  
+
+  <comments_count>7</comments_count>
+    <comments start="1" end="7" total="7">
+        <comment>
+  <id>68233028</id>
+  <body><![CDATA[all bleach series are really worth reading, definitely recommend it!]]></body>
+  
+  <user>
+    <id>17642540</id>
+    <name>Fuad</name>
+    <display_name>Fuad Memmedli</display_name>
+
+    <location>Azerbaijan</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17642540-fuad-memmedli]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1361354332p3/17642540.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1361354332p2/17642540.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Feb 20 02:26:56 -0800 2013</created_at>
+  <updated_at>Wed Feb 20 02:26:56 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>70363518</id>
+  <body><![CDATA[how to go next page]]></body>
+  
+  <user>
+    <id>18580852</id>
+    <name>Ad</name>
+    <display_name>Ad Sn</display_name>
+
+    <location>Sri Lanka</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18580852-ad-sn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1363862835p3/18580852.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1363862835p2/18580852.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 22 04:28:07 -0700 2013</created_at>
+  <updated_at>Fri Mar 22 04:28:07 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>103687448</id>
+  <body><![CDATA[Kubo is the king of trolls and this manga is garbage. Try reading actually good manga for a change.]]></body>
+  
+  <user>
+    <id>6984857</id>
+    <name>Petros</name>
+    <display_name>Petros</display_name>
+
+    <location>Greece</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6984857-petros]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1321523871p3/6984857.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1321523871p2/6984857.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 05 02:27:36 -0700 2014</created_at>
+  <updated_at>Tue Aug 05 02:27:36 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103704548</id>
+  <body><![CDATA[<i>Πέτρος wrote: "Kubo is the king of trolls and this manga is garbage. Try reading actually good manga for a change."</i><br /><br />Yeah..... no.]]></body>
+  
+  <user>
+    <id>33272381</id>
+    <name>Alex</name>
+    <display_name>Alex Gonzalez</display_name>
+
+    <location>Guthrie, OK</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/33272381-alex-gonzalez]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1411597242p3/33272381.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1411597242p2/33272381.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 05 09:23:04 -0700 2014</created_at>
+  <updated_at>Tue Aug 05 09:23:04 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>111552807</id>
+  <body><![CDATA[How did inchigo get his power]]></body>
+  
+  <user>
+    <id>38365641</id>
+    <name>isabella cline</name>
+    <display_name>isabella cline</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/38365641-isabella-cline]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Dec 26 05:37:50 -0800 2014</created_at>
+  <updated_at>Fri Dec 26 05:37:50 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>156704876</id>
+  <body><![CDATA[do you know why its called bleach]]></body>
+  
+  <user>
+    <id>46356752</id>
+    <name>kaufmasks</name>
+    <display_name>kaufmasks</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/46356752-kaufmasks]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488757352p3/46356752.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488757352p2/46356752.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Sep 11 22:43:20 -0700 2016</created_at>
+  <updated_at>Sun Sep 11 22:43:20 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159621713</id>
+  <body><![CDATA[I like to read and watch it if you want to watch it it's on Netflix]]></body>
+  
+  <user>
+    <id>62017842</id>
+    <name>Paige</name>
+    <display_name>Paige Dunne</display_name>
+
+    <location><![CDATA[Brierley Hill, D7, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/62017842-paige-dunne]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480368322p3/62017842.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480368322p2/62017842.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 28 13:42:17 -0800 2016</created_at>
+  <updated_at>Mon Nov 28 13:42:17 -0800 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/364248294]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/364248294]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

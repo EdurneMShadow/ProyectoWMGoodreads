@@ -1,0 +1,663 @@
+status: 200
+x-request-id: RGN1E3MQNWZDBQRREARE
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=501408211&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhg1MjgtOTAzMDg1Ni0zOTM0MzAwBjoGRVQ%3D--7c916122d6bcc6b140ef65bdd30f1edd558a8bce;
+ path=/; expires=Wed, 15 Apr 2037 15:12:16 -0000, locale=es;
+ path=/, _session_id2=9e32b516b19ea86145dd631428d8af31; path=/;
+ expires=Sat, 15 Apr 2017 21:12:16 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 29186
+server: Server
+x-runtime: 0.374785
+etag: W/"403831bd775150813aefcfa7ec53db93"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:12:16 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>501408211</id>
+    
+  <user>
+    <id>7060478</id>
+    <name>Allison</name>
+    <display_name>Allison</display_name>
+
+    <location>Boca Raton, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7060478-allison]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1369931494p3/7060478.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1369931494p2/7060478.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">8442457</id>
+  <isbn>0297859382</isbn>
+  <isbn13>9780297859383</isbn13>
+  <text_reviews_count type="integer">69027</text_reviews_count>
+  <title>Gone Girl</title>
+  <title_without_series>Gone Girl</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1339602131m/8442457.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1339602131s/8442457.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/8442457-gone-girl</link>
+  <num_pages>399</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Weidenfeld &amp; Nicolson</publisher>
+  <publication_day>24</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.03</average_rating>
+  <ratings_count>1557910</ratings_count>
+  <description>On a warm summer morning in North Carthage, Missouri, it is Nick and Amy Dunne’s fifth wedding anniversary. Presents are being wrapped and reservations are being made when Nick’s clever and beautiful wife disappears. Husband-of-the-Year Nick isn’t doing himself any favors with cringe-worthy daydreams about the slope and shape of his wife’s head, but passages from Amy's diary reveal the alpha-girl perfectionist could have put anyone dangerously on edge. Under mounting pressure from the police and the media—as well as Amy’s fiercely doting parents—the town golden boy parades an endless series of lies, deceits, and inappropriate behavior. Nick is oddly evasive, and he’s definitely bitter—but is he really a killer?</description>
+<authors>
+<author>
+<id>2383</id>
+<name>Gillian Flynn</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1232123231p5/2383.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1232123231p2/2383.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2383.Gillian_Flynn]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>2325631</ratings_count>
+<text_reviews_count>184036</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">22149406</id>
+          <page type="integer">419</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sun Jan 13 19:52:14 -0800 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 05:35:30 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">2</ratings_count>
+          <percent type="integer">100</percent>
+          <work_id type="integer">13306276</work_id>
+          <note_uri>kca://note/amzn1.grok.note.25da34a80f5d024fa5e042fae5348cf5</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Just finished. Can I just say: What. The. Fuck. Holy fuck.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">22080182</id>
+          <page type="integer">50</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Jan 12 11:00:25 -0800 2013</created_at>
+          <updated_at type="datetime">Sun Sep 08 02:19:23 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">11</percent>
+          <work_id type="integer">13306276</work_id>
+          <note_uri>kca://note/amzn1.grok.note.660f8316d910393f9466dbd85e392106</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[I'm on page 50 of 419 of Gone Girl: Okay now I am half way through the book. The writing fell off a cliff and the pace is stagnant. It better get better and fast. And if it turns out this woman is still alive and this is also some decent into madness and perhaps some of the characters are not real characters but figments of Nick's mind, I'm going to say it's the worst book ever. If you're going to be clever - than]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">22080087</id>
+          <page type="integer">50</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Jan 12 10:58:08 -0800 2013</created_at>
+          <updated_at type="datetime">Sun Sep 08 02:19:16 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">11</percent>
+          <work_id type="integer">13306276</work_id>
+          <note_uri>kca://note/amzn1.grok.note.5fedc6e34b084292408bc7037b1a0f8a</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Okay now I am half way through the book. The writing fell off a cliff and the pace is stagnant. It better get better and fast. And if it turns out this woman is still alive and this is also some decent into madness and perhaps some of the characters are not real characters but figments of Nick's mind, I'm going to say that it's the worst book ever. If your going to be clever - than be fucking clever!]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">21945951</id>
+          <page type="integer">50</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Jan 09 13:54:55 -0800 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 05:21:11 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">11</percent>
+          <work_id type="integer">13306276</work_id>
+          <note_uri>kca://note/amzn1.grok.note.d6d5fd4cbd847d72ad20e65d69bb4da5</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Hot damn! This is a well written book. Forgot these existed!]]></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">64799022</id>
+          <old_status>read</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Mon Jun 24 18:24:32 -0700 2013</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>3</rating>
+  <votes>129</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Jan 09 00:00:00 -0800 2013</started_at>
+  <read_at>Fri Jan 18 00:00:00 -0800 2013</read_at>
+  <date_added>Wed Jan 09 13:54:22 -0800 2013</date_added>
+  <date_updated>Sat Jun 07 16:04:47 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This has spoilers. So read at your caution....<br />Honestly, I had a lot of thoughts about this novel, but they aborted on launch. I thought about comparing Gone Girl to American Psycho. What Brent Easton Ellis was saying about materialism and shallowness of the '80's in America was a dark cousin to w...]]>
+  </body>
+
+  
+
+  <comments_count>21</comments_count>
+    <comments start="1" end="21" total="21">
+        <comment>
+  <id>74168877</id>
+  <body><![CDATA[Yes! A nonending, lazy! A fun read but a bad aftertaste. I e-read this book not knowing it was 400+ pages in the print version. I'd read 400 more if it meant a great ending. I<br />As a reader, I feel cheated by Flynn.]]></body>
+  
+  <user>
+    <id>16370157</id>
+    <name>Metalkween</name>
+    <display_name>Metalkween</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16370157-metalkween]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1368653634p3/16370157.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1368653634p2/16370157.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed May 15 13:57:53 -0700 2013</created_at>
+  <updated_at>Wed May 15 13:57:53 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>76670491</id>
+  <body><![CDATA[Agreed. She's such a great writer, but the ending ruined it all. I participated in an internet chat she did after this book came out and she said people accost her in the street about the non-ending. HA!<br />Have you read any of her other stuff? I loved Dark Places, and it actually had a proper ending.]]></body>
+  
+  <user>
+    <id>742316</id>
+    <name>Marissa</name>
+    <display_name>Marissa</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/742316-marissa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1376400602p3/742316.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1376400602p2/742316.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 20 14:55:46 -0700 2013</created_at>
+  <updated_at>Thu Jun 20 14:55:46 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>76961354</id>
+  <body><![CDATA[No this was her first book I read and probably her last, it wasn't just the bad ending, it was the logical flaws too. She's too clever for me. Her writing is top notch. She clearly was an editor in a former life. But the story, was weak. It's not one of those stories where you don't see it coming. Its one of those stories that blindsides you because you're appalled that the author 'went there'. Which would have worked, if it weren't for the flaws... For example, the red necks stealing her money part, that would have been a lot better if she had been a sociopath enough to have gotten one over on them too. Like part of her plan was ensnare them too, not to use them as makeshift patsies. That would have wowed me a bit. The way it stands now, she's still a brat who really hasn't made the case as to why she did any of it. Is it all really a game of one-upmanship?]]></body>
+  
+  <user>
+    <id>7060478</id>
+    <name>Allison</name>
+    <display_name>Allison</display_name>
+
+    <location>Boca Raton, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7060478-allison]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1369931494p3/7060478.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1369931494p2/7060478.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 24 18:30:28 -0700 2013</created_at>
+  <updated_at>Mon Jun 24 18:30:28 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>77056177</id>
+  <body><![CDATA[I actually disagree with you about the price of milk thing. It's not that she never bought milk before, but that she never paid attention to the price of milk, having never needed to. <br /><br />I think this was one of the stronger sections of the book, as it showed someone trying to hide in a different area of society with no understanding of how it works. This is backed up by her spending $500 on stuff to make her cabin nicer - as if this is a reasonable amount to spend on sheets and towels, and as if anyone visiting the cabin wouldn't notice it.]]></body>
+  
+  <user>
+    <id>19221871</id>
+    <name>Hyperfashionist</name>
+    <display_name>Hyperfashionist</display_name>
+
+    <location><![CDATA[London, H9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/19221871-hyperfashionist]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1365507267p3/19221871.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1365507267p2/19221871.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jun 26 02:38:00 -0700 2013</created_at>
+  <updated_at>Wed Jun 26 02:38:00 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>77059541</id>
+  <body><![CDATA[I understand your point exactly, I just think you missed mine a bit. I know many people who behave and live just the way you've described. I think I might even have been in her same position had I done what she had. But...the real issue is how cavalierly she planned this part of her deception in comparison to the other. Truth be told, I have the same issue with Sherlock Holmes in his detecting skills. His powers of recall and perception are keener than a room full of IBM computers but Doyle on occasion will give him a childlike quality with regard to his interpersonal skills. (Again on occasion, when it suits the story. Because there are times when he can pluck out the character's next thought before the reader could come to the logical conclusion.)<br /><br />I just see this as the fantasy of a housewife who's sitting around thinking, "I'll pretend to kill myself and then he'll be screwed. Yeah! I'll really do it and then he'll be sorry..." Not the motivations of an actual sociopath. It didn't work for me as a story. Pure shock was the only thing that motivated me to turn the pages.]]></body>
+  
+  <user>
+    <id>7060478</id>
+    <name>Allison</name>
+    <display_name>Allison</display_name>
+
+    <location>Boca Raton, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7060478-allison]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1369931494p3/7060478.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1369931494p2/7060478.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jun 26 05:01:21 -0700 2013</created_at>
+  <updated_at>Wed Jun 26 05:01:21 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>79576261</id>
+  <body><![CDATA[Definitely thought she was trying to channel American Psycho, too, but ended up a Lifetime movie.]]></body>
+  
+  <user>
+    <id>8591933</id>
+    <name>Heather</name>
+    <display_name>Heather</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8591933-heather]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1357196646p3/8591933.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1357196646p2/8591933.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 30 01:00:47 -0700 2013</created_at>
+  <updated_at>Tue Jul 30 01:00:47 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>79585430</id>
+  <body><![CDATA[If I was of lower moral character I would steal that posting and put it in my review. Perfectly stated...]]></body>
+  
+  <user>
+    <id>7060478</id>
+    <name>Allison</name>
+    <display_name>Allison</display_name>
+
+    <location>Boca Raton, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7060478-allison]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1369931494p3/7060478.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1369931494p2/7060478.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 30 06:32:40 -0700 2013</created_at>
+  <updated_at>Tue Jul 30 06:32:40 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>81124691</id>
+  <body><![CDATA[I wouldn't have thought to compare "American Psycho" and "Gone Girl", but I like the comparison, especially in the non-ending. Great review]]></body>
+  
+  <user>
+    <id>19811487</id>
+    <name>Ashley</name>
+    <display_name>Ashley Grange</display_name>
+
+    <location>Brenham, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/19811487-ashley-grange]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1367030185p3/19811487.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1367030185p2/19811487.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 19 21:13:31 -0700 2013</created_at>
+  <updated_at>Mon Aug 19 21:13:31 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>81318527</id>
+  <body><![CDATA[Thank you. I really appreciate that.]]></body>
+  
+  <user>
+    <id>7060478</id>
+    <name>Allison</name>
+    <display_name>Allison</display_name>
+
+    <location>Boca Raton, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7060478-allison]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1369931494p3/7060478.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1369931494p2/7060478.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 22 13:15:19 -0700 2013</created_at>
+  <updated_at>Thu Aug 22 13:15:19 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>81759202</id>
+  <body><![CDATA[Loved your review! Sort of hits the nail on the head.]]></body>
+  
+  <user>
+    <id>4203887</id>
+    <name>Julie</name>
+    <display_name>Julie</display_name>
+
+    <location>Albuquerque, NM</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4203887-julie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1283567067p3/4203887.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1283567067p2/4203887.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 28 17:16:26 -0700 2013</created_at>
+  <updated_at>Wed Aug 28 17:16:26 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>81763360</id>
+  <body><![CDATA[Thank you very much Julie.]]></body>
+  
+  <user>
+    <id>7060478</id>
+    <name>Allison</name>
+    <display_name>Allison</display_name>
+
+    <location>Boca Raton, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7060478-allison]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1369931494p3/7060478.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1369931494p2/7060478.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 28 18:18:02 -0700 2013</created_at>
+  <updated_at>Wed Aug 28 18:18:02 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>81978284</id>
+  <body><![CDATA[I felt exactly the same when I finished! I loved this book so much; the ups &amp; downs/twists &amp; turns. I was recommending it to everyone at work at one point &amp; finished it in less than 3 days. But the ending? I felt like I might have been missing a whole chapter or two on my iPad version. Great review! Hit very close to home for me. I did like her writing style, despite feeling cheated at the end, and will probably give her other books a shot.]]></body>
+  
+  <user>
+    <id>23541434</id>
+    <name>Dawn</name>
+    <display_name>Dawn</display_name>
+
+    <location>Pittsburgh, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23541434-dawn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1378001031p3/23541434.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1378001031p2/23541434.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 31 18:51:14 -0700 2013</created_at>
+  <updated_at>Sat Aug 31 18:51:14 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>82049394</id>
+  <body><![CDATA[I couldn't agree more! Brilliant book with a terrible ending! I am so disappointed. I invested all this time to be completely let down by a lazy ending.]]></body>
+  
+  <created_at>Sun Sep 01 18:34:13 -0700 2013</created_at>
+  <updated_at>Sun Sep 01 18:34:13 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>82078006</id>
+  <body><![CDATA[Thank you Dawn and Donna. You do feel sucker punched by that ending right?]]></body>
+  
+  <user>
+    <id>7060478</id>
+    <name>Allison</name>
+    <display_name>Allison</display_name>
+
+    <location>Boca Raton, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7060478-allison]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1369931494p3/7060478.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1369931494p2/7060478.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Sep 02 06:59:15 -0700 2013</created_at>
+  <updated_at>Mon Sep 02 06:59:15 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>82709168</id>
+  <body><![CDATA[Your review is spot-on. I thought the addition of another psycho (Desi) was far-fetched and unnecessary as well. Why couldn't she have met/seduced a new man of means while she was on the lam?]]></body>
+  
+  <user>
+    <id>5410681</id>
+    <name>Tony61</name>
+    <display_name>Tony61</display_name>
+
+    <location>Phoenix, AZ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5410681-tony61]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1346298588p3/5410681.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1346298588p2/5410681.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Sep 10 23:33:34 -0700 2013</created_at>
+  <updated_at>Tue Sep 10 23:33:34 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>98885916</id>
+  <body><![CDATA[I'm looking forward to the film version of this, because I think it'll have a more satisfying ending. Murder/suicide or murder/murder works for me.]]></body>
+  
+  <user>
+    <id>742316</id>
+    <name>Marissa</name>
+    <display_name>Marissa</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/742316-marissa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1376400602p3/742316.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1376400602p2/742316.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed May 21 07:40:05 -0700 2014</created_at>
+  <updated_at>Wed May 21 07:40:05 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103352890</id>
+  <body><![CDATA[Didn't the whole ''oh dear I have no idea how much milk costs'' and the ''I thought you just throw away tupperware'' thing appear only in her fake diary the one she used to fool everyone and make herself look vulnerable and silly and naive?]]></body>
+  
+  <user>
+    <id>4899987</id>
+    <name>Tatjana</name>
+    <display_name>Tatjana Blanusic</display_name>
+
+    <location>Serbia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4899987-tatjana-blanusic]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442305913p3/4899987.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442305913p2/4899987.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 31 04:00:14 -0700 2014</created_at>
+  <updated_at>Thu Jul 31 04:00:14 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104893102</id>
+  <body><![CDATA[Maybe but that's not the point, for me, at least. I just feel like Flynn was taking a stab at hipsters, and she really laid it on thick with Amy. And I've met so many people like Amy and I generally dislike them too. (And being a successful writer, I bet Poor Gillian has too much exposure to them.) But I don't Amy being capable of murder. She's too self-centered and narcissistic to ever put that much time and attention to hating anyone. Sure she might fantasize about all of what she did, and delude herself into thinking that she could and would. But when it really comes down to faking your own death and murder, I just don't see it. She's never committed to anything but crepes...]]></body>
+  
+  <user>
+    <id>7060478</id>
+    <name>Allison</name>
+    <display_name>Allison</display_name>
+
+    <location>Boca Raton, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7060478-allison]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1369931494p3/7060478.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1369931494p2/7060478.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 24 08:53:38 -0700 2014</created_at>
+  <updated_at>Sun Aug 24 08:53:38 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>105058275</id>
+  <body><![CDATA[good point. I guess you could look at it that way, too. But maybe, in a way, it was a hint,a kind of guiding light by Flynn, since we all knew something was fishy about that diary, you know, before we actually found out it was a decoy...It was that whole style of writing that made me go:''OKay, you're setting up a ''smth's not right here'' vibe, I'm up for it, bring it on.'' lol!]]></body>
+  
+  <user>
+    <id>4899987</id>
+    <name>Tatjana</name>
+    <display_name>Tatjana Blanusic</display_name>
+
+    <location>Serbia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4899987-tatjana-blanusic]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442305913p3/4899987.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442305913p2/4899987.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 27 04:47:42 -0700 2014</created_at>
+  <updated_at>Wed Aug 27 04:47:42 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109849892</id>
+  <body><![CDATA[Yes lazy ending]]></body>
+  
+  <user>
+    <id>37232299</id>
+    <name>Julie</name>
+    <display_name>Julie</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/37232299-julie]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 23 00:39:43 -0800 2014</created_at>
+  <updated_at>Sun Nov 23 00:39:43 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>147351792</id>
+  <body><![CDATA[Priest Onome of royaltempleofallsolution@gmail.com , Here is my testimony from a Heart Warming indebted Client (Sarah Luis from United states) Sir i had to write back to you though I am at work now to let you know that your spell has successfully worked, and he has returned back to me just as you said it sir. A beautiful of red roses was just brought to my place of work from the man I contacted you about on January 15th. Sir i am so happy to tell it to the whole world now that he returned back to me through your powerful spells yesterday at about 6:00pm. Everything worked out just the way you said it. No more doubt. Because Lord Priest Onome realizes we were meant to be, and that we were compatible. This is actually hard for me to believe now. It’s really surprising!! Thank you so much Priest Onome for weaving you magical powers on me, and for reuniting me and my ex together with your utmost powers. You can contact him for help via email: royaltempleofallsolution@gmail.com]]></body>
+  
+  <user>
+    <id>52489990</id>
+    <name>Luis</name>
+    <display_name>Luis Thomas</display_name>
+
+    <location>Nigeria</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52489990-luis-thomas]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1455033306p3/52489990.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1455033306p2/52489990.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 09 16:03:29 -0800 2016</created_at>
+  <updated_at>Tue Feb 09 16:03:29 -0800 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/501408211]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/501408211]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

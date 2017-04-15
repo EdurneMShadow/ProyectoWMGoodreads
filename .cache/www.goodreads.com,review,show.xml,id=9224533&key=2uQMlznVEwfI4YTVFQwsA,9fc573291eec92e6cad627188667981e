@@ -1,0 +1,202 @@
+status: 200
+x-request-id: 9PXV0TMTXR88H2146FTK
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=9224533&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhg5ODAtMzkwOTk5OC02NjExNTY2BjoGRVQ%3D--21b130c13a1d56ef5b3d3fc612b0a9f3004e8d2b;
+ path=/; expires=Wed, 15 Apr 2037 15:44:01 -0000, locale=es;
+ path=/, _session_id2=65f2649b6e74542980753bf78d7e4896; path=/;
+ expires=Sat, 15 Apr 2017 21:44:01 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 7410
+server: Server
+x-runtime: 0.319227
+etag: W/"0291404d8a6162ddd7948887db7d4d16"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:44:01 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>9224533</id>
+    
+  <user>
+    <id>625690</id>
+    <name>Jeremy</name>
+    <display_name>Jeremy</display_name>
+
+    <location>Russian Federation</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/625690-jeremy]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">968</id>
+  <isbn>0307277674</isbn>
+  <isbn13>9780307277671</isbn13>
+  <text_reviews_count type="integer">32769</text_reviews_count>
+  <title>The Da Vinci Code (Robert Langdon, #2)</title>
+  <title_without_series>The Da Vinci Code</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1303252999m/968.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1303252999s/968.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/968.The_Da_Vinci_Code</link>
+  <num_pages>481</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Anchor</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.78</average_rating>
+  <ratings_count>1524831</ratings_count>
+  <description>An ingenious code hidden in the works of Leonardo da Vinci. A desperate race through the cathedrals and castles of Europe. An astonishing truth concealed for centuries . . . unveiled at last.&lt;br /&gt;&lt;br /&gt;While in Paris, Harvard symbologist Robert Langdon is awakened by a phone call in the dead of the night. The elderly curator of the Louvre has been murdered inside the museum, his body covered in baffling symbols. As Langdon and gifted French cryptologist Sophie Neveu sort through the bizarre riddles, they are stunned to discover a trail of clues hidden in the works of Leonardo da Vinci—clues visible for all to see and yet ingeniously disguised by the painter.&lt;br /&gt;&lt;br /&gt;Even more startling, the late curator was involved in the Priory of Sion—a secret society whose members included Sir Isaac Newton, Victor Hugo, and Da Vinci—and he guarded a breathtaking historical secret. Unless Langdon and Neveu can decipher the labyrinthine puzzle—while avoiding the faceless adversary who shadows their every move—the explosive, ancient truth will be lost forever.</description>
+<authors>
+<author>
+<id>630</id>
+<name>Dan Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p5/630.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p2/630.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/630.Dan_Brown]]></link>
+<average_rating>3.77</average_rating>
+<ratings_count>5177586</ratings_count>
+<text_reviews_count>138137</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1626614140</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Fri Dec 23 12:05:00 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>71</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sat Jan 01 00:00:00 -0800 2005</read_at>
+  <date_added>Sat Nov 17 01:23:20 -0800 2007</date_added>
+  <date_updated>Sat Dec 07 22:15:46 -0800 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This book, and everything written by Dan Brown (to varying degrees), represent much of what I most dislike about pop literature. First of all, Mr. Brown, despite teaching English at Amherst College, is a bad writer. This is not to say that I am a good writer. But I recognize a person who can't "s...]]>
+  </body>
+
+  
+
+  <comments_count>3</comments_count>
+    <comments start="1" end="3" total="3">
+        <comment>
+  <id>229334</id>
+  <body><![CDATA[Ahhhh.... I hadn't read the book yet, but now I know why! <br /><br />(I'm also having flashbacks to high school English for some reason. Was there a discussion (heated debate rather) about Frankenstein?)]]></body>
+  
+  <user>
+    <id>114100</id>
+    <name>Jennifer</name>
+    <display_name>Jennifer</display_name>
+
+    <location>Springville, UT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/114100-jennifer]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1185312378p3/114100.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1185312378p2/114100.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 18 07:15:50 -0800 2007</created_at>
+  <updated_at>Sun Nov 18 07:15:50 -0800 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>46299950</id>
+  <body><![CDATA[My main reason for reading this book was to relive my visit in Rome. The rest...??]]></body>
+  
+  <user>
+    <id>4693318</id>
+    <name>Sigrun</name>
+    <display_name>Sigrun</display_name>
+
+    <location>Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4693318-sigrun]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat Mar 03 13:10:53 -0800 2012</created_at>
+  <updated_at>Sat Mar 03 13:10:53 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>80867417</id>
+  <body><![CDATA[You have missed one thing Jeremy: the standard cop in charge who decides that the "expert" is guilty. Er, what happened to evidence, forenics, logical deduction?]]></body>
+  
+  <user>
+    <id>13482095</id>
+    <name>Graeme</name>
+    <display_name>Graeme Bell</display_name>
+
+    <location><![CDATA[Glasgow, G69 9BD, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13482095-graeme-bell]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1349717597p3/13482095.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1349717597p2/13482095.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 16 09:15:49 -0700 2013</created_at>
+  <updated_at>Fri Aug 16 09:15:49 -0700 2013</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/9224533]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/9224533]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

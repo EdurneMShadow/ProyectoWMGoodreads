@@ -1,0 +1,1301 @@
+status: 200
+x-request-id: S3JAMCJM1ZFTKRG5KHW8
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=380779562&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhgxNDAtNjU0ODgxOS01MzY5NTM1BjoGRVQ%3D--18e85b11e3678b294e429a7dd33d2dc68cd0fb5c;
+ path=/; expires=Wed, 15 Apr 2037 15:09:28 -0000, locale=es;
+ path=/, _session_id2=124b43288e49563d2848a50d61024663; path=/;
+ expires=Sat, 15 Apr 2017 21:09:29 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 59619
+server: Server
+x-runtime: 0.510118
+etag: W/"41fbf9a93a0f1aa251fc5791f74fb98f"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:09:29 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>380779562</id>
+    
+  <user>
+    <id>10856439</id>
+    <name>Florence (Lefty)</name>
+    <display_name>Florence (Lefty) MacIntosh</display_name>
+
+    <location>Vancouver, BC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10856439-florence-lefty-macintosh]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1346034704p3/10856439.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1346034704p2/10856439.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">2657</id>
+  <isbn>0061120081</isbn>
+  <isbn13>9780061120084</isbn13>
+  <text_reviews_count type="integer">57300</text_reviews_count>
+  <title>To Kill a Mockingbird</title>
+  <title_without_series>To Kill a Mockingbird</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1361975680m/2657.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1361975680s/2657.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2657.To_Kill_a_Mockingbird</link>
+  <num_pages>324</num_pages>
+  <format>Paperback</format>
+  <edition_information>50th Anniversary</edition_information>
+  <publisher>Harper Perennial Modern Classics</publisher>
+  <publication_day>23</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.25</average_rating>
+  <ratings_count>3251393</ratings_count>
+  <description>The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it, To Kill A Mockingbird became both an instant bestseller and a critical success when it was first published in 1960. It went on to win the Pulitzer Prize in 1961 and was later made into an Academy Award-winning film, also a classic.&lt;br /&gt;&lt;br /&gt;Compassionate, dramatic, and deeply moving, To Kill A Mockingbird takes readers to the roots of human behavior - to innocence and experience, kindness and cruelty, love and hatred, humor and pathos. Now with over 18 million copies in print and translated into forty languages, this regional story by a young Alabama woman claims universal appeal. Harper Lee always considered her book to be a simple love story. Today it is regarded as a masterpiece of American literature.</description>
+<authors>
+<author>
+<id>1825</id>
+<name>Harper Lee</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1188820730p5/1825.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1188820730p2/1825.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1825.Harper_Lee]]></link>
+<average_rating>4.21</average_rating>
+<ratings_count>3414068</ratings_count>
+<text_reviews_count>94458</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">23900916</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Feb 19 21:37:47 -0800 2013</created_at>
+          <updated_at type="datetime">Fri Apr 05 15:51:13 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">100</percent>
+          <work_id type="integer">3275794</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+  <rating>5</rating>
+  <votes>99</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="cgr" exclusive="false" review_shelf_id="316196257" sortable="true" />
+    <shelf name="2013" exclusive="false" review_shelf_id="367715386" sortable="true" />
+    <shelf name="reviewed" exclusive="false" review_shelf_id="415984259" sortable="true" />
+    <shelf name="rural-smalltown" exclusive="false" review_shelf_id="521158191" sortable="false" />
+    <shelf name="classics-modern" exclusive="false" review_shelf_id="602726726" sortable="false" />
+    <shelf name="legal-system" exclusive="false" review_shelf_id="295979713" sortable="true" />
+    <shelf name="awards" exclusive="false" review_shelf_id="297579345" sortable="true" />
+    <shelf name="debut" exclusive="false" review_shelf_id="334442243" sortable="true" />
+    <shelf name="favs-recent" exclusive="false" review_shelf_id="367715428" sortable="true" />
+    <shelf name="race" exclusive="false" review_shelf_id="295979907" sortable="true" />
+    <shelf name="lit-southern" exclusive="false" review_shelf_id="414225568" sortable="false" />
+</shelves>
+  <recommended_for><![CDATA[Idealists, or just plain lovers of a good yarn]]></recommended_for>
+  <recommended_by>Kelly</recommended_by>
+  <started_at>Fri Feb 15 00:00:00 -0800 2013</started_at>
+  <read_at>Mon Feb 18 00:00:00 -0800 2013</read_at>
+  <date_added>Mon Jul 30 22:40:03 -0700 2012</date_added>
+  <date_updated>Tue Jul 15 22:41:41 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[ I avoided reading this, wary of all the hype, seen the movie - so if you’re one of the few who hasn’t read it <b>I promise not to harass you </b>by proclaiming that ‘you must!’ If the mood ever strikes though I bet you’ll love it. What convinced me was when a young interracial couple I know had their 1...]]>
+  </body>
+
+  
+
+  <comments_count>82</comments_count>
+    <comments start="1" end="50" total="82">
+        <comment>
+  <id>68072320</id>
+  <body><![CDATA[Florence I noticed that this was once on your "must reads" shelf. I hope that you are loving this book as much as I did.]]></body>
+  
+  <user>
+    <id>11451346</id>
+    <name>Jennifer </name>
+    <display_name>Jennifer </display_name>
+
+    <location>Toronto, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11451346-jennifer]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1348973389p3/11451346.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1348973389p2/11451346.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 17 23:23:03 -0800 2013</created_at>
+  <updated_at>Sun Feb 17 23:23:03 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>68101825</id>
+  <body><![CDATA[<i>Jennifer wrote: "Florence I noticed that this was once on your "must reads" shelf. I hope that you are loving this book as much as I did."</i><br /><br />Hi Jennifer - I haven't enjoyed a book this much in years - maybe ever - and that's the truth. Nice to hear from you]]></body>
+  
+  <user>
+    <id>10856439</id>
+    <name>Florence (Lefty)</name>
+    <display_name>Florence (Lefty) MacIntosh</display_name>
+
+    <location>Vancouver, BC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10856439-florence-lefty-macintosh]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1346034704p3/10856439.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1346034704p2/10856439.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 18 10:46:32 -0800 2013</created_at>
+  <updated_at>Mon Feb 18 10:46:32 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>68353323</id>
+  <body><![CDATA[Wow! You really liked it so Florence. Its a greate read.]]></body>
+  
+  <user>
+    <id>2752994</id>
+    <name>Dem</name>
+    <display_name>Dem</display_name>
+
+    <location>Ireland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2752994-dem]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1468313742p3/2752994.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1468313742p2/2752994.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Feb 21 16:36:19 -0800 2013</created_at>
+  <updated_at>Thu Feb 21 16:36:19 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>68356782</id>
+  <body><![CDATA[<i>Dem wrote: "Wow! You really liked it so Florence. Its a greate read."</i><br /><br />I liked it so much I'm at a loss for words, which is why I haven't reviewed it - so unlike me:)]]></body>
+  
+  <user>
+    <id>10856439</id>
+    <name>Florence (Lefty)</name>
+    <display_name>Florence (Lefty) MacIntosh</display_name>
+
+    <location>Vancouver, BC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10856439-florence-lefty-macintosh]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1346034704p3/10856439.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1346034704p2/10856439.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Feb 21 17:23:06 -0800 2013</created_at>
+  <updated_at>Thu Feb 21 17:23:06 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>68515309</id>
+  <body><![CDATA[i Loved it. I just got a chance to watch the movie on the big screen. WOW blew me away]]></body>
+  
+  <user>
+    <id>7773122</id>
+    <name>Lady♥Belleza★✰</name>
+    <display_name>Lady♥Belleza★✰</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7773122-lady-belleza]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1470680812p3/7773122.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1470680812p2/7773122.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 23 22:19:26 -0800 2013</created_at>
+  <updated_at>Sat Feb 23 22:19:26 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>68515333</id>
+  <body><![CDATA[Beautiful eloquent articulate review Florence :-) I agree wholeheartedly with your "cons"!]]></body>
+  
+  <user>
+    <id>773729</id>
+    <name>Kelly</name>
+    <display_name>Kelly</display_name>
+
+    <location>Austin, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/773729-kelly]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486681563p3/773729.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486681563p2/773729.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 23 22:20:05 -0800 2013</created_at>
+  <updated_at>Sat Feb 23 22:20:05 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>68515529</id>
+  <body><![CDATA[<i>♥Bella★✰ wrote: "i Loved it. I just got a chance to watch the movie on the big screen. WOW blew me away"</i><br /><br />AMAZING movie, didn't think it could do it justice but it did. Cool that you've just watched the movie for the 1st time, and I'm just getting around to the book.]]></body>
+  
+  <user>
+    <id>10856439</id>
+    <name>Florence (Lefty)</name>
+    <display_name>Florence (Lefty) MacIntosh</display_name>
+
+    <location>Vancouver, BC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10856439-florence-lefty-macintosh]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1346034704p3/10856439.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1346034704p2/10856439.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 23 22:26:20 -0800 2013</created_at>
+  <updated_at>Sat Feb 23 22:26:20 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>68515557</id>
+  <body><![CDATA[I've got to watch the movie Florence! I know so many people who loved it...can't believe I haven't seen it yet.]]></body>
+  
+  <user>
+    <id>773729</id>
+    <name>Kelly</name>
+    <display_name>Kelly</display_name>
+
+    <location>Austin, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/773729-kelly]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486681563p3/773729.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486681563p2/773729.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 23 22:27:15 -0800 2013</created_at>
+  <updated_at>Sat Feb 23 22:27:15 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>68515868</id>
+  <body><![CDATA[<i>Kelly wrote: "Beautiful eloquent articulate review Florence :-) I agree wholeheartedly with your "cons"!"</i><br /><br />Thanks so much Kelly:) As to the con, does kinda drive me crazy not knowing how they all turned out - I'd die for a sequel...I'm pretty sure Jem would grow up to be a lawyer. Scout, who knows?? Anyway, as close to a perfect novel as I've ever read.]]></body>
+  
+  <user>
+    <id>10856439</id>
+    <name>Florence (Lefty)</name>
+    <display_name>Florence (Lefty) MacIntosh</display_name>
+
+    <location>Vancouver, BC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10856439-florence-lefty-macintosh]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1346034704p3/10856439.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1346034704p2/10856439.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 23 22:37:14 -0800 2013</created_at>
+  <updated_at>Sat Feb 23 22:37:14 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>68527492</id>
+  <body><![CDATA[Great review, Florence. I MUST read this again - it's so many years since I read it, that it would seem quite new again I think.]]></body>
+  
+  <user>
+    <id>4455388</id>
+    <name>Angela</name>
+    <display_name>Angela</display_name>
+
+    <location>Luton, A5, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4455388-angela]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1320483254p3/4455388.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1320483254p2/4455388.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 24 06:32:19 -0800 2013</created_at>
+  <updated_at>Sun Feb 24 06:32:19 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>68530962</id>
+  <body><![CDATA[<i>Florence wrote: "AMAZING movie, didn't think it could do it justice but it did. Cool that you've just watched the movie for the 1st time, and I'm just getting around to the book."</i><br /><br />I read the book years ago, and during the movie, I kept thinking, this happens! Then this happens! It was like the movie brought the book back to life in my memories.]]></body>
+  
+  <user>
+    <id>7773122</id>
+    <name>Lady♥Belleza★✰</name>
+    <display_name>Lady♥Belleza★✰</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7773122-lady-belleza]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1470680812p3/7773122.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1470680812p2/7773122.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 24 07:46:25 -0800 2013</created_at>
+  <updated_at>Sun Feb 24 07:46:25 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>68536151</id>
+  <body><![CDATA[<i>Kelly wrote: "I've got to watch the movie Florence! I know so many people who loved it...can't believe I haven't seen it yet."</i><br /><br />Lol, just like I'd never read the book &amp; you kept on encouraging me to. So, I won't say you HAVE to watch it...But I'd sure put it ahead of Upstairs/Downstairs in the cue. You WILL fall in love with Gregory Peck. He did such a fabulous job of portraying Atticus that I could not read the book without seeing his face. Can't remember the actress's name that played Scout, but she was perfect as well.]]></body>
+  
+  <user>
+    <id>10856439</id>
+    <name>Florence (Lefty)</name>
+    <display_name>Florence (Lefty) MacIntosh</display_name>
+
+    <location>Vancouver, BC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10856439-florence-lefty-macintosh]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1346034704p3/10856439.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1346034704p2/10856439.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 24 09:16:55 -0800 2013</created_at>
+  <updated_at>Sun Feb 24 09:16:55 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>68550667</id>
+  <body><![CDATA[<i>Angela wrote: "Great review, Florence. I MUST read this again - it's so many years since I read it, that it would seem quite new again I think."</i><br /><br />Most people I know that have re-read it get different impressions from it the second time round, relate differently to it than they did when read in highschool - another sign that it's a great book. It's short, I hope you get around to it Angela. ps: thanks!]]></body>
+  
+  <user>
+    <id>10856439</id>
+    <name>Florence (Lefty)</name>
+    <display_name>Florence (Lefty) MacIntosh</display_name>
+
+    <location>Vancouver, BC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10856439-florence-lefty-macintosh]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1346034704p3/10856439.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1346034704p2/10856439.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 24 12:52:52 -0800 2013</created_at>
+  <updated_at>Sun Feb 24 12:52:52 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>68551440</id>
+  <body><![CDATA[<i>♥Bella★✰ wrote: "Florence wrote: "AMAZING movie, didn't think it could do it justice but it did. Cool that you've just watched the movie for the 1st time, and I'm just getting around to the book."<br /><br />I read the book ..."</i><br /><br />Loved this part - Robert Duvall's 1st acting role.<br />Hey, Boo!<br /><br />"<a target="_blank" href="http://www.youtube.com/watch?v=iRmIef02Ajk" rel="nofollow">http://www.youtube.com/watch?v=iRmIef...</a>&quot;]]></body>
+  
+  <user>
+    <id>10856439</id>
+    <name>Florence (Lefty)</name>
+    <display_name>Florence (Lefty) MacIntosh</display_name>
+
+    <location>Vancouver, BC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10856439-florence-lefty-macintosh]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1346034704p3/10856439.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1346034704p2/10856439.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 24 13:03:06 -0800 2013</created_at>
+  <updated_at>Sun Feb 24 13:03:06 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>68586479</id>
+  <body><![CDATA[<i>Florence wrote: "Kelly wrote: "I've got to watch the movie Florence! I know so many people who loved it...can't believe I haven't seen it yet."<br /><br />Lol, just like I'd never read the book &amp; you kept on encouraging me t..."</i><br /><br />Another friend of mine said the same thing about Gregory Peck!]]></body>
+  
+  <user>
+    <id>773729</id>
+    <name>Kelly</name>
+    <display_name>Kelly</display_name>
+
+    <location>Austin, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/773729-kelly]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486681563p3/773729.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486681563p2/773729.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 24 21:10:45 -0800 2013</created_at>
+  <updated_at>Sun Feb 24 21:10:45 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>68587445</id>
+  <body><![CDATA[<i>Kelly wrote: "Florence wrote: "Kelly wrote: "I've got to watch the movie Florence! I know so many people who loved it...can't believe I haven't seen it yet."<br /><br />Lol, just like I'd never read the book &amp; you kept on..."</i><br /><br />We can't both be wrong - he's to die for...]]></body>
+  
+  <user>
+    <id>10856439</id>
+    <name>Florence (Lefty)</name>
+    <display_name>Florence (Lefty) MacIntosh</display_name>
+
+    <location>Vancouver, BC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10856439-florence-lefty-macintosh]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1346034704p3/10856439.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1346034704p2/10856439.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 24 21:34:18 -0800 2013</created_at>
+  <updated_at>Sun Feb 24 21:34:18 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>68588189</id>
+  <body><![CDATA[Oh I'm so excited!!]]></body>
+  
+  <user>
+    <id>773729</id>
+    <name>Kelly</name>
+    <display_name>Kelly</display_name>
+
+    <location>Austin, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/773729-kelly]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486681563p3/773729.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486681563p2/773729.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 24 21:52:15 -0800 2013</created_at>
+  <updated_at>Sun Feb 24 21:52:15 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>68588610</id>
+  <body><![CDATA[<i>Kelly wrote: "Oh I'm so excited!!"</i><br /><br />He's got this single (handsome / kind / smart wears glasses loves books / did I say handsome? / wonderful father)man thing going for him that's so hot. Not in a hunky body builder lady killer way, just well...HOT. Enjoy:)]]></body>
+  
+  <user>
+    <id>10856439</id>
+    <name>Florence (Lefty)</name>
+    <display_name>Florence (Lefty) MacIntosh</display_name>
+
+    <location>Vancouver, BC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10856439-florence-lefty-macintosh]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1346034704p3/10856439.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1346034704p2/10856439.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 24 22:02:36 -0800 2013</created_at>
+  <updated_at>Sun Feb 24 22:02:36 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>68589507</id>
+  <body><![CDATA[He sounds exactly like my kind of hot! I don't really find the normal suspects hot ;-). Brad Pitt - meh, Ben afleck - double meh....<br /><br />Smart and good hearted are way sexier than a muscled body! Except for Tom hardy.....]]></body>
+  
+  <user>
+    <id>773729</id>
+    <name>Kelly</name>
+    <display_name>Kelly</display_name>
+
+    <location>Austin, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/773729-kelly]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486681563p3/773729.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486681563p2/773729.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 24 22:28:30 -0800 2013</created_at>
+  <updated_at>Sun Feb 24 22:28:30 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>68609345</id>
+  <body><![CDATA[Hugh Jackman. That is all. Oh we weren't naming hot actors? My bad. Sorry (not sorry).]]></body>
+  
+  <user>
+    <id>7773122</id>
+    <name>Lady♥Belleza★✰</name>
+    <display_name>Lady♥Belleza★✰</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7773122-lady-belleza]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1470680812p3/7773122.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1470680812p2/7773122.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 25 09:01:00 -0800 2013</created_at>
+  <updated_at>Mon Feb 25 09:01:00 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>68620419</id>
+  <body><![CDATA[LMAO Bella!!!]]></body>
+  
+  <user>
+    <id>773729</id>
+    <name>Kelly</name>
+    <display_name>Kelly</display_name>
+
+    <location>Austin, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/773729-kelly]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486681563p3/773729.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486681563p2/773729.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 25 12:05:15 -0800 2013</created_at>
+  <updated_at>Mon Feb 25 12:05:15 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>68626778</id>
+  <body><![CDATA[<i>♥Bella★✰ wrote: "Hugh Jackman. That is all. Oh we weren't naming hot actors? My bad. Sorry (not sorry)."</i><br /><br />You bad - Hugh Jackman? Oh yeah, no argument from me...]]></body>
+  
+  <user>
+    <id>10856439</id>
+    <name>Florence (Lefty)</name>
+    <display_name>Florence (Lefty) MacIntosh</display_name>
+
+    <location>Vancouver, BC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10856439-florence-lefty-macintosh]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1346034704p3/10856439.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1346034704p2/10856439.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 25 13:41:35 -0800 2013</created_at>
+  <updated_at>Mon Feb 25 13:41:35 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>68641062</id>
+  <body><![CDATA[I'm so glad you liked it! This is one of my favourite novels. I first read it when I was 13 and absolutely loved it and I've re-read it so many times that I've got through 3 paperback copies of it so far! I think I might re-read it again soon :)]]></body>
+  
+  <user>
+    <id>5799885</id>
+    <name>Aoibhínn</name>
+    <display_name>Aoibhínn</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5799885-aoibh-nn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1452957222p3/5799885.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1452957222p2/5799885.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 25 16:50:50 -0800 2013</created_at>
+  <updated_at>Mon Feb 25 16:50:50 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>68644017</id>
+  <body><![CDATA[<i>Ellie wrote: "I'm so glad you liked it! This is one of my favourite novels. I first read it when I was 13 and absolutely loved it and I've re-read it so many times that I've got through 3 paperback copies of it ..."</i><br /><br />Thanks Ellie, I'm going to re-read as well! You know what struck me about it last night, Ellie? There is no romance in it - zero - yet look at all the women that love it. Guess that notion that that we're all hooked on 'romances' just went down the tube:)]]></body>
+  
+  <user>
+    <id>10856439</id>
+    <name>Florence (Lefty)</name>
+    <display_name>Florence (Lefty) MacIntosh</display_name>
+
+    <location>Vancouver, BC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10856439-florence-lefty-macintosh]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1346034704p3/10856439.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1346034704p2/10856439.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 25 17:31:23 -0800 2013</created_at>
+  <updated_at>Mon Feb 25 17:31:23 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>68777953</id>
+  <body><![CDATA[<i>Florence wrote: "Ellie wrote: "I'm so glad you liked it! This is one of my favourite novels. I first read it when I was 13 and absolutely loved it and I've re-read it so many times that I've got through 3 paperback..."</i><br /><br />I never notice that, but I think you are right. I do remember feeling sorry for him raising those children alone. Time to reread it I think. Liked your review.]]></body>
+  
+  <user>
+    <id>16986365</id>
+    <name>Fiona</name>
+    <display_name>Fiona</display_name>
+
+    <location>White Rock, BC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16986365-fiona]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1375591272p3/16986365.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1375591272p2/16986365.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Feb 27 14:50:22 -0800 2013</created_at>
+  <updated_at>Wed Feb 27 14:50:22 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>68778837</id>
+  <body><![CDATA[<i>Fiona wrote: "Florence wrote: "Ellie wrote: "I'm so glad you liked it! This is one of my favourite novels. I first read it when I was 13 and absolutely loved it and I've re-read it so many times that I've got th..."</i><br /><br />Thanks Fiona. Yeh, the only female character that is sexual is 'the temptress' who's desire for a man results in a false rape charge, and the death of an innocent man. Find that interesting...]]></body>
+  
+  <user>
+    <id>10856439</id>
+    <name>Florence (Lefty)</name>
+    <display_name>Florence (Lefty) MacIntosh</display_name>
+
+    <location>Vancouver, BC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10856439-florence-lefty-macintosh]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1346034704p3/10856439.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1346034704p2/10856439.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Feb 27 15:01:19 -0800 2013</created_at>
+  <updated_at>Wed Feb 27 15:01:19 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>71512264</id>
+  <body><![CDATA[So with all the comments on the movie, I now have the hauntingly beautiful theme music running through my head ...]]></body>
+  
+  <user>
+    <id>1628041</id>
+    <name>Book Concierge</name>
+    <display_name>Book Concierge</display_name>
+
+    <location>Milwaukee, WI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1628041-book-concierge]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1324904606p3/1628041.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1324904606p2/1628041.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Apr 06 19:16:09 -0700 2013</created_at>
+  <updated_at>Sat Apr 06 19:16:09 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>71514329</id>
+  <body><![CDATA[<i>Book Concierge wrote: "So with all the comments on the movie, I now have the hauntingly beautiful theme music running through my head ..."</i><br /><br />Yes, the soundtrack was perfect as well, wasn't it. Terrific movie.]]></body>
+  
+  <user>
+    <id>10856439</id>
+    <name>Florence (Lefty)</name>
+    <display_name>Florence (Lefty) MacIntosh</display_name>
+
+    <location>Vancouver, BC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10856439-florence-lefty-macintosh]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1346034704p3/10856439.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1346034704p2/10856439.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Apr 06 19:45:43 -0700 2013</created_at>
+  <updated_at>Sat Apr 06 19:45:43 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>72118307</id>
+  <body><![CDATA[Great review!!!]]></body>
+  
+  <user>
+    <id>4341680</id>
+    <name>Ij</name>
+    <display_name>Ij</display_name>
+
+    <location>Montgomery Village, MD</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4341680-ij]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1491873211p3/4341680.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1491873211p2/4341680.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Apr 15 07:20:52 -0700 2013</created_at>
+  <updated_at>Mon Apr 15 07:20:52 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>72145590</id>
+  <body><![CDATA[<i>Ij wrote: "Great review!!!"</i><br /><br />Thanks alot Ij, it was from the heart.]]></body>
+  
+  <user>
+    <id>10856439</id>
+    <name>Florence (Lefty)</name>
+    <display_name>Florence (Lefty) MacIntosh</display_name>
+
+    <location>Vancouver, BC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10856439-florence-lefty-macintosh]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1346034704p3/10856439.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1346034704p2/10856439.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Apr 15 14:48:18 -0700 2013</created_at>
+  <updated_at>Mon Apr 15 14:48:18 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>94654973</id>
+  <body><![CDATA[Great review!<br />This is one of my all time favorites too!!!]]></body>
+  
+  <user>
+    <id>9324525</id>
+    <name>Maria</name>
+    <display_name>Maria Pomeroy</display_name>
+
+    <location>Phoenix, AZ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9324525-maria-pomeroy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1388595257p3/9324525.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1388595257p2/9324525.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Mar 15 07:38:56 -0700 2014</created_at>
+  <updated_at>Sat Mar 15 07:38:56 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>94663790</id>
+  <body><![CDATA[<i>Maria wrote: "Great review!<br />This is one of my all time favorites too!!!"</i><br /><br />Great, so you're one of the besotted as well:) Thanks Maria, I waited far to long to read it - glad I finally did.]]></body>
+  
+  <user>
+    <id>10856439</id>
+    <name>Florence (Lefty)</name>
+    <display_name>Florence (Lefty) MacIntosh</display_name>
+
+    <location>Vancouver, BC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10856439-florence-lefty-macintosh]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1346034704p3/10856439.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1346034704p2/10856439.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Mar 15 10:59:31 -0700 2014</created_at>
+  <updated_at>Sat Mar 15 10:59:31 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>96207703</id>
+  <body><![CDATA[Love your review, Florence. Like scores of other people, I absolutely adore this book. It was a significant read for me; I read it in high school, and it was at that point I decided I wanted to major in English in college.]]></body>
+  
+  <user>
+    <id>3236194</id>
+    <name>Caroline </name>
+    <display_name>Caroline </display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3236194-caroline]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1482180912p3/3236194.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1482180912p2/3236194.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Apr 07 14:28:18 -0700 2014</created_at>
+  <updated_at>Mon Apr 07 14:28:18 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>96209372</id>
+  <body><![CDATA[Pleased that your review popped up on my update feed. It's one of my top 10, as well. A fine review.]]></body>
+  
+  <user>
+    <id>12656534</id>
+    <name>Zoeytron</name>
+    <display_name>Zoeytron</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12656534-zoeytron]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1482970731p3/12656534.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1482970731p2/12656534.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Apr 07 14:50:27 -0700 2014</created_at>
+  <updated_at>Mon Apr 07 14:50:27 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>96234089</id>
+  <body><![CDATA[<i>Cheryl wrote: "Great review, and I enjoyed all of your reactions to what I consider to be American scripture. Thanks."</i><br /><br />Nice turn of phrase Cheryl 'American scripture'. Obviously this Canadian loved it as well, wonderful when a piece of fiction transcends borders isn't it. Thankyou so much by the way.]]></body>
+  
+  <user>
+    <id>10856439</id>
+    <name>Florence (Lefty)</name>
+    <display_name>Florence (Lefty) MacIntosh</display_name>
+
+    <location>Vancouver, BC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10856439-florence-lefty-macintosh]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1346034704p3/10856439.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1346034704p2/10856439.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Apr 07 20:51:44 -0700 2014</created_at>
+  <updated_at>Mon Apr 07 20:51:44 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>96234463</id>
+  <body><![CDATA[<i>Caroline wrote: "Love your review, Florence. Like scores of other people, I absolutely adore this book. It was a significant read for me; I read it in high school, and it was at that point I decided I wanted to maj..."</i><br /><br />Caroline, thankyou! - That's so beautiful and what a testament to the merits of this novel. That it inspired you to go for an English major, I love that. Have you reviewed it? If you haven't just cut &amp; paste your comment - it says so much:)]]></body>
+  
+  <user>
+    <id>10856439</id>
+    <name>Florence (Lefty)</name>
+    <display_name>Florence (Lefty) MacIntosh</display_name>
+
+    <location>Vancouver, BC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10856439-florence-lefty-macintosh]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1346034704p3/10856439.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1346034704p2/10856439.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Apr 07 20:59:14 -0700 2014</created_at>
+  <updated_at>Mon Apr 07 20:59:14 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>96234849</id>
+  <body><![CDATA[<i>Zoeytron wrote: "Pleased that your review popped up on my update feed. It's one of my top 10, as well. A fine review."</i><br /><br />Appreciate that, thanks so much. Curious why it popped up in your update feed though - how odd. I haven't changed it or updated it. Guess I'll blame on on a GR bug...<br />Anyway, you as well eh? It is amazing how many people have this on there top 10 list.]]></body>
+  
+  <user>
+    <id>10856439</id>
+    <name>Florence (Lefty)</name>
+    <display_name>Florence (Lefty) MacIntosh</display_name>
+
+    <location>Vancouver, BC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10856439-florence-lefty-macintosh]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1346034704p3/10856439.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1346034704p2/10856439.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Apr 07 21:07:23 -0700 2014</created_at>
+  <updated_at>Mon Apr 07 21:07:23 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>96250693</id>
+  <body><![CDATA[<i>Florence (Lefty) wrote: "Curious why it popped up in your update feed though - how odd."</i><br /><br />You have Cheryl to thank. When she liked and commented on your review, because Zoeytron and I are her friends, your review got sent to our feeds. :]]]></body>
+  
+  <user>
+    <id>3236194</id>
+    <name>Caroline </name>
+    <display_name>Caroline </display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3236194-caroline]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1482180912p3/3236194.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1482180912p2/3236194.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Apr 08 06:46:38 -0700 2014</created_at>
+  <updated_at>Tue Apr 08 06:46:38 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>96542102</id>
+  <body><![CDATA[<i>Caroline wrote: "Florence (Lefty) wrote: "Curious why it popped up in your update feed though - how odd."<br /><br />You have Cheryl to thank. When she liked and commented on your review, because Zoeytron and I are her frien..."</i><br /><br />Aahh, the light-bulb goes on...:)Thanks]]></body>
+  
+  <user>
+    <id>10856439</id>
+    <name>Florence (Lefty)</name>
+    <display_name>Florence (Lefty) MacIntosh</display_name>
+
+    <location>Vancouver, BC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10856439-florence-lefty-macintosh]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1346034704p3/10856439.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1346034704p2/10856439.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Apr 12 22:37:16 -0700 2014</created_at>
+  <updated_at>Sat Apr 12 22:37:16 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>102237572</id>
+  <body><![CDATA[Yeah, I knew I was seeking out a good friend when I requested your friendship. Of course, I am among the besotted where this novel is concerned. I highly recommend <a href="https://www.goodreads.com/book/show/114408.Mockingbird_A_Portrait_of_Harper_Lee" title="Mockingbird A Portrait of Harper Lee by Charles J. Shields" rel="nofollow">Mockingbird: A Portrait of Harper Lee</a> by <a href="https://www.goodreads.com/author/show/9460.Charles_J__Shields" title="Charles J. Shields" rel="nofollow">Charles J. Shields</a>, an unauthorized biography. Ms. Lee dared friends to buy the book considering it an invasion of her privacy. However, this is a very respectful portrait of the reclusive author. There is also a new release I'll be checking out. <a href="https://www.goodreads.com/book/show/18693728.The_Mockingbird_Next_Door_Life_with_Harper_Lee" title="The Mockingbird Next Door Life with Harper Lee by Marja Mills" rel="nofollow">The Mockingbird Next Door: Life with Harper Lee</a> by <a href="https://www.goodreads.com/author/show/7353452.Marja_Mills" title="Marja Mills" rel="nofollow">Marja Mills</a>.<br /><br />Harper Lee based Atticus Finch on her father, Amasa Lee, a lawyer in small town Monroeville, Al. Harper Lee attended Huntington College in Montgomery, Al, the University of Alabama, and the University of Alabama School of Law. She graduated from none of them. Yet she received the necessary education from her father, her community, and her unerring sense of fairness, right and wrong.<br /><br />I've had occasion to visit the iconic courthouse portrayed in the movie. The curator allowed me to go downstairs and examine the records of the courts. Those records presented cases a hundred years ago that could easily be in any courtroom today.<br /><br />In each their own way the book and movie are among my favorites. The soundtrack makes excellent background music for reading the novel.<br /><br />To Lefty from Pancho (See All the Federales Say, Willie Nelson)]]></body>
+  
+  <user>
+    <id>3025547</id>
+    <name>Lawyer</name>
+    <display_name>Lawyer</display_name>
+
+    <location><![CDATA[Papamoa, Bay of Plenty, New Zealand]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3025547-lawyer]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1462156906p3/3025547.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1462156906p2/3025547.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jul 14 17:28:14 -0700 2014</created_at>
+  <updated_at>Mon Jul 14 17:28:14 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>102270270</id>
+  <body><![CDATA[<i>Mike wrote: "Yeah, I knew I was seeking out a good friend when I requested your friendship. Of course, I am among the besotted where this novel is concerned. I highly recommend [book:Mockingbird: A Portrait o..."</i><br /><br />Interesting, Mike. Thanks for sharing all that!]]></body>
+  
+  <user>
+    <id>3236194</id>
+    <name>Caroline </name>
+    <display_name>Caroline </display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3236194-caroline]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1482180912p3/3236194.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1482180912p2/3236194.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 15 07:05:36 -0700 2014</created_at>
+  <updated_at>Tue Jul 15 07:05:36 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>102279285</id>
+  <body><![CDATA[<i>Caroline wrote: "Mike wrote: "Yeah, I knew I was seeking out a good friend when I requested your friendship. Of course, I am among the besotted where this novel is concerned. I highly recommend [book:Mockingbird:..."</i><br /><br />You're welcome, Caroline. What can I say? I'm a book nerd. *grin*]]></body>
+  
+  <user>
+    <id>3025547</id>
+    <name>Lawyer</name>
+    <display_name>Lawyer</display_name>
+
+    <location><![CDATA[Papamoa, Bay of Plenty, New Zealand]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3025547-lawyer]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1462156906p3/3025547.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1462156906p2/3025547.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 15 09:34:45 -0700 2014</created_at>
+  <updated_at>Tue Jul 15 09:34:45 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>102283366</id>
+  <body><![CDATA[Yes, John, I did read Mockingbird. I was amused to read one of the rare bits of criticism by one of the local folk in Monroeville who said the language of the kids in the novel was a conceit since Nelle would never have been allowed to use improper English (or words like "ain't") by her well-educated attorney-father.<br /><br />I call it poetic license.]]></body>
+  
+  <user>
+    <id>27935407</id>
+    <name>Randy</name>
+    <display_name>Randy</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27935407-randy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442957654p3/27935407.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442957654p2/27935407.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 15 10:39:01 -0700 2014</created_at>
+  <updated_at>Tue Jul 15 10:39:01 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>102284365</id>
+  <body><![CDATA[And, excuse me, but I assumed there was a sign over the door to this joint that said "Must Love TO KILL A MOCKINGBIRD To Gain Entrance".<br /><br /><br />(I have been anticipating The Mockingbird Next Door. It intrigues me that Nelle Harper Lee would finally allow someone this degree of access to her recent life, thoughts, and daily rhythms.)]]></body>
+  
+  <user>
+    <id>27935407</id>
+    <name>Randy</name>
+    <display_name>Randy</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27935407-randy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442957654p3/27935407.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442957654p2/27935407.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 15 10:51:40 -0700 2014</created_at>
+  <updated_at>Tue Jul 15 10:51:40 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>102284818</id>
+  <body><![CDATA[Correction - Ms. Lee did not "allow" such access and has denied the author's claims that she did:<br /><br /><a target="_blank" href="http://shelf-life.ew.com/2014/07/14/harper-lee-speaks-marja-mills-penned-bio-was-unauthorized/" rel="nofollow">http://shelf-life.ew.com/2014/07/14/h...</a>]]></body>
+  
+  <user>
+    <id>27935407</id>
+    <name>Randy</name>
+    <display_name>Randy</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27935407-randy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442957654p3/27935407.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442957654p2/27935407.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 15 10:58:36 -0700 2014</created_at>
+  <updated_at>Tue Jul 15 10:58:36 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>102326375</id>
+  <body><![CDATA[<i>Mike wrote: "Yeah, I knew I was seeking out a good friend when I requested your friendship. Of course, I am among the besotted where this novel is concerned.</i><br /><br />Mike, ditto on the friendship comment, the feeling is mutual. You are a fountain of information! Just so you know have been eyeballing your group for a while, so tempting - and <a href="https://www.goodreads.com/book/show/114408.Mockingbird_A_Portrait_of_Harper_Lee" title="Mockingbird A Portrait of Harper Lee by Charles J. Shields" rel="nofollow">Mockingbird: A Portrait of Harper Lee</a> looks great, thanks for that. Her connection with Capote also fascinates me (I'm a fan of both of them) which I'm sure is covered in this book. I'd love to tour that courthouse myself, with your professional background as a prosecutor that must have made that experience even more poignant, I'm really glad you experienced that.<br /><br />And Pancho? It's working for ya:)]]></body>
+  
+  <user>
+    <id>10856439</id>
+    <name>Florence (Lefty)</name>
+    <display_name>Florence (Lefty) MacIntosh</display_name>
+
+    <location>Vancouver, BC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10856439-florence-lefty-macintosh]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1346034704p3/10856439.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1346034704p2/10856439.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 15 22:37:11 -0700 2014</created_at>
+  <updated_at>Tue Jul 15 22:37:11 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>102326487</id>
+  <body><![CDATA[<i>Randy wrote: "Yes, John, I did read Mockingbird. I was amused to read one of the rare bits of criticism by one of the local folk in Monroeville who said the language of the kids in the novel was a conceit since ..."</i><br /><br />Either that or keeping it real. I'm sure he did correct her but that doesn't mean she didn't throw out the odd 'ain't'. Hi Randy!]]></body>
+  
+  <user>
+    <id>10856439</id>
+    <name>Florence (Lefty)</name>
+    <display_name>Florence (Lefty) MacIntosh</display_name>
+
+    <location>Vancouver, BC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10856439-florence-lefty-macintosh]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1346034704p3/10856439.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1346034704p2/10856439.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 15 22:39:51 -0700 2014</created_at>
+  <updated_at>Tue Jul 15 22:39:51 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>102326510</id>
+  <body><![CDATA[<i>Randy wrote: "Correction - Ms. Lee did not "allow" such access and has denied the author's claims that she did:<br /><br /><a target="_blank" href="http://shelf-life.ew.com/2014/07/14/harper-lee-speaks-marja-mills-penned-bio-was-unauthorized/" rel="nofollow">http://shelf-life.ew.com/2014/07/14/h...</a>&quot;</i><br /><br />Ha! Love it that she's staying her character. Thanks for the link.]]></body>
+  
+  <user>
+    <id>10856439</id>
+    <name>Florence (Lefty)</name>
+    <display_name>Florence (Lefty) MacIntosh</display_name>
+
+    <location>Vancouver, BC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10856439-florence-lefty-macintosh]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1346034704p3/10856439.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1346034704p2/10856439.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 15 22:40:39 -0700 2014</created_at>
+  <updated_at>Tue Jul 15 22:40:39 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>102344552</id>
+  <body><![CDATA[Hi Florence,<br /><br />The plot thickens. I have read that Harper Lee does suffer at this point with dementia. Later in the day, yesterday, after I posted that correction, I read another piece where her sister Alice---who practiced law until she was 100---stated that Harper Lee DID sign permission for the book but doesn't remember it now. This would be consistent with the uproar that arose in the last couple of years where Harper Lee also signed away the control of the To Kill A Mockingbird copyright to the son of her longtime (now deceased) literary agent. Then she sued him to regain control of the copyright based on the premise that she suffered from dementia and did not know what she was signing.<br /><br />Sad all around.<br /><br />Apparently her older sister Alice is much more lucid, even to this day. Based upon everything I've read since my last post in this thread, I'm inclined to deduce that Nelle Harper Lee probably agreed to participate in this upcoming book but has no memory of it. Alice states that her sister may not have understood the 2011 agreement she signed for this new book, since she suffered a stroke in 2007:<br /><br />"Poor Nelle Harper can't see and can't hear and will sign anything put before her by anyone in whom she has confidence. Now she has no memory of the incident, " Alice Lee wrote. <br /><br /><a target="_blank" href="http://www.people.com/article/harper-lee-claims-marja-mills-memoir-unauthorized" rel="nofollow">http://www.people.com/article/harper-...</a><br /><br />And here is a fascinating piece about Alice Lee (a remarkable woman in her own right):<br /><br /><a target="_blank" href="http://www.thedailybeast.com/articles/2012/04/01/harper-lee-s-sister-alice-is-100-still-practices-law-and-remembers-everything.html" rel="nofollow">http://www.thedailybeast.com/articles...</a><br /><br />________<br /><br />RT]]></body>
+  
+  <user>
+    <id>27935407</id>
+    <name>Randy</name>
+    <display_name>Randy</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27935407-randy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442957654p3/27935407.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442957654p2/27935407.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 16 07:48:41 -0700 2014</created_at>
+  <updated_at>Wed Jul 16 07:48:41 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>102381193</id>
+  <body><![CDATA[<i>Florence (Lefty) wrote: "Just so you know have been eyeballing your group for a while, so tempting - and Mockingbird: A Portrait of Harper Lee looks great, thanks for that. Her connection with Capote also fascinates me (I'm a fan of both of them) which I'm sure is covered in this book."</i><br /><br />I've always been intrigued with Ms. Lee's and Capote's relationship. It is covered well in "Mockingbird" and <a href="https://www.goodreads.com/book/show/926177.Capote_A_Biography" title="Capote A Biography by Gerald Clarke" rel="nofollow">Capote: A Biography</a> by <a href="https://www.goodreads.com/author/show/38368.Gerald_Clarke" title="Gerald Clarke" rel="nofollow">Gerald Clarke</a>. Although I found George Plimpton's bio entertaining. I recommend the Clarke.<br /><br />Amasa Lee gave an old typewriter to his daughter and Capote. They spent many hours composing stories in their childhood when Capote would be visiting his relatives the Faulks in Monroeville.<br /><br />Harper Lee was instrumental in being the point person in gaining Capote interviews for <a href="https://www.goodreads.com/book/show/168642.In_Cold_Blood" title="In Cold Blood by Truman Capote" rel="nofollow">In Cold Blood</a>. While writing what he considered his masterpiece, Harper Lee was awarded the Pulitzer Prize. Capote resented it. That he never won the Pulitzer was a factor that was always a burr under his saddle.<br /><br />The friendship between the two childhood friends began to unravel as a result of Capote's jealousy. He gave Lee no credit for her voluminous notes on interviews. He did not invite her to his famous "White Ball" after she won the Pulitzer. And, most petty, Capote began the rumor that he was the true author of <a href="https://www.goodreads.com/book/show/2657.To_Kill_a_Mockingbird" title="To Kill a Mockingbird by Harper Lee" rel="nofollow">To Kill a Mockingbird</a>.<br /><br />Interestingly, long before Lee inserted Capote into her novel as Dill, Capote created a brash tomboyish character in his first novel <a href="https://www.goodreads.com/book/show/2287.Other_Voices__Other_Rooms" title="Other Voices, Other Rooms by Truman Capote" rel="nofollow">Other Voices, Other Rooms</a> in 1948. The brash, immodest tomboy sounds as though she might be a more mature Scout.]]></body>
+  
+  <user>
+    <id>3025547</id>
+    <name>Lawyer</name>
+    <display_name>Lawyer</display_name>
+
+    <location><![CDATA[Papamoa, Bay of Plenty, New Zealand]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3025547-lawyer]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1462156906p3/3025547.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1462156906p2/3025547.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 16 19:02:24 -0700 2014</created_at>
+  <updated_at>Wed Jul 16 19:02:24 -0700 2014</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/380779562]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/380779562]]></link>
+    <owned>1</owned>
+</review>
+
+
+</GoodreadsResponse>

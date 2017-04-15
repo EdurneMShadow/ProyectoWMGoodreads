@@ -1,0 +1,597 @@
+status: 200
+x-request-id: D8CS4WW1R8QQP76KQWBP
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=101823079&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhg4OTktODQ2NzcyMS0yNzU3MTA3BjoGRVQ%3D--3ffe2b2a1743f767e074c6aec818b9737f8f483f;
+ path=/; expires=Wed, 15 Apr 2037 17:02:07 -0000, locale=es;
+ path=/, _session_id2=4b60748b209048462d6696a72398ff04; path=/;
+ expires=Sat, 15 Apr 2017 23:02:07 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 23046
+server: Server
+x-runtime: 0.382286
+etag: W/"6ef44d454fdcbfd255e964ab708a70fc"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 17:02:07 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>101823079</id>
+    
+  <user>
+    <id>3699303</id>
+    <name>Lou</name>
+    <display_name>Lou</display_name>
+
+    <location>London, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3699303-lou]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1312212794p3/3699303.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1312212794p2/3699303.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">18490</id>
+  <isbn>0141439475</isbn>
+  <isbn13>9780141439471</isbn13>
+  <text_reviews_count type="integer">12948</text_reviews_count>
+  <title>Frankenstein</title>
+  <title_without_series>Frankenstein</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1381512375m/18490.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1381512375s/18490.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18490.Frankenstein</link>
+  <num_pages>273</num_pages>
+  <format>Paperback</format>
+  <edition_information>Penguin Classics</edition_information>
+  <publisher>Penguin Books</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.75</average_rating>
+  <ratings_count>855238</ratings_count>
+  <description>&lt;b&gt;Mary Shelley&lt;/b&gt; began writing &lt;i&gt;Frankenstein&lt;/i&gt; when she was only eighteen. At once a Gothic thriller, a passionate romance, and a cautionary tale about the dangers of science, &lt;i&gt;Frankenstein&lt;/i&gt; tells the story of committed science student Victor Frankenstein. Obsessed with discovering the cause of generation and life and bestowing animation upon lifeless matter, Frankenstein assembles a human being from stolen body parts but; upon bringing it to life, he recoils in horror at the creature's hideousness. Tormented by isolation and loneliness, the once-innocent creature turns to evil and unleashes a campaign of murderous revenge against his creator, Frankenstein.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Frankenstein&lt;/i&gt;, an instant bestseller and an important ancestor of both the horror and science fiction genres, not only tells a terrifying story, but also raises profound, disturbing questions about the very nature of life and the place of humankind within the cosmos: What does it mean to be human? What responsibilities do we have to each other? How far can we go in tampering with Nature? In our age, filled with news of organ donation genetic engineering, and bio-terrorism, these questions are more relevant than ever.</description>
+<authors>
+<author>
+<id>11139</id>
+<name>Mary Wollstonecraft Shelley</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p5/11139.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p2/11139.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/11139.Mary_Wollstonecraft_Shelley]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>877806</ratings_count>
+<text_reviews_count>20767</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1251439807</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Wed Feb 24 14:12:35 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>94</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="horror" exclusive="false" review_shelf_id="140654742" sortable="false" />
+    <shelf name="adapted-to-screen" exclusive="false" review_shelf_id="140654793" sortable="false" />
+    <shelf name="best-reads" exclusive="false" review_shelf_id="56821854" sortable="false" />
+    <shelf name="classics" exclusive="false" review_shelf_id="140654761" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat May 08 05:10:58 -0700 2010</date_added>
+  <date_updated>Tue Jan 07 03:40:07 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<a href="http://s1184.photobucket.com/albums/z322/LouPendergrast/frankenstein/?action=view&amp;current=frankenstein.jpg" target="_blank" rel="nofollow"> <img src="http://i1184.photobucket.com/albums/z322/LouPendergrast/frankenstein/frankenstein.jpg" alt="Photobucket" class="gr-hostedUserImg" /></a><br />A great read! highly recommended!<br /><br />Stephen King in his Danse Macabre novel mentions this as one of three essential horror classics, he says they are ' The Vampire (Dracula), the Werewolf (Jekyl and Hyde) and the thing with no name (Frankenstein).'<br /><br />The book is so much better than what the movie has...]]>
+  </body>
+
+  
+
+  <comments_count>20</comments_count>
+    <comments start="1" end="20" total="20">
+        <comment>
+  <id>30822153</id>
+  <body><![CDATA[This has been one of my favorite books of all time for that last couple of years. It's amazing. I try to get people to read it all the time.]]></body>
+  
+  <user>
+    <id>278701</id>
+    <name>Rose</name>
+    <display_name>Rose</display_name>
+
+    <location>Concord, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/278701-rose]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1476425963p3/278701.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1476425963p2/278701.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 22 20:10:18 -0700 2011</created_at>
+  <updated_at>Sun May 22 20:10:18 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>30827477</id>
+  <body><![CDATA[Yes before reading this I had a whole different view what it would be like. The movies paint more horrifying images, books are always better same with The Shining by King the novel was some much better.]]></body>
+  
+  <user>
+    <id>3699303</id>
+    <name>Lou</name>
+    <display_name>Lou</display_name>
+
+    <location>London, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3699303-lou]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1312212794p3/3699303.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1312212794p2/3699303.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 22 23:39:17 -0700 2011</created_at>
+  <updated_at>Sun May 22 23:39:17 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31732333</id>
+  <body><![CDATA[I want to read this for so long, but have you ever thought that a female author can read such creepy book and adopted into hundreds of movies?]]></body>
+  
+  <user>
+    <id>4218875</id>
+    <name>Kwesi 章英狮</name>
+    <display_name>Kwesi 章英狮</display_name>
+
+    <location><![CDATA[Koronadal City, South Cotabato, Philippines, 9506, Philippines]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4218875-kwesi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1461165983p3/4218875.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1461165983p2/4218875.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 10 13:05:55 -0700 2011</created_at>
+  <updated_at>Fri Jun 10 13:05:55 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31732642</id>
+  <body><![CDATA[its not only creepy but poses to us questions of existence and acceptance and love.]]></body>
+  
+  <user>
+    <id>3699303</id>
+    <name>Lou</name>
+    <display_name>Lou</display_name>
+
+    <location>London, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3699303-lou]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1312212794p3/3699303.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1312212794p2/3699303.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 10 13:11:23 -0700 2011</created_at>
+  <updated_at>Fri Jun 10 13:11:23 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31732885</id>
+  <body><![CDATA[Okay, that sounds like a gothic novel. Hehe.]]></body>
+  
+  <user>
+    <id>4218875</id>
+    <name>Kwesi 章英狮</name>
+    <display_name>Kwesi 章英狮</display_name>
+
+    <location><![CDATA[Koronadal City, South Cotabato, Philippines, 9506, Philippines]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4218875-kwesi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1461165983p3/4218875.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1461165983p2/4218875.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 10 13:15:17 -0700 2011</created_at>
+  <updated_at>Fri Jun 10 13:15:17 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31857546</id>
+  <body><![CDATA[<i>Lou wrote: "Yes before reading this I had a whole different view what it would be like. The movies paint more horrifying images, books are always better same with The Shining by King the novel was some much be..."</i><br /><br />I completely agree, "The Shining" is a superior book, and Kubrick's film, for all of its strengths, does not do it justice.<br /><br />I have been meaning to pick this up for years. Before I do, though, I think I am going to read "The Last Man," a post-apocalyptic book that Shelley wrote after "Frankenstein."]]></body>
+  
+  <user>
+    <id>365191</id>
+    <name>Daniel</name>
+    <display_name>Daniel</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/365191-daniel]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1309463474p3/365191.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1309463474p2/365191.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 13 04:23:52 -0700 2011</created_at>
+  <updated_at>Mon Jun 13 04:23:52 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31910972</id>
+  <body><![CDATA[Yes I am eager to try the last man looks impressive story]]></body>
+  
+  <user>
+    <id>3699303</id>
+    <name>Lou</name>
+    <display_name>Lou</display_name>
+
+    <location>London, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3699303-lou]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1312212794p3/3699303.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1312212794p2/3699303.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jun 14 00:12:36 -0700 2011</created_at>
+  <updated_at>Tue Jun 14 00:12:36 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31915057</id>
+  <body><![CDATA[It does look impressive. I'm also attracted (I'll admit) to the fact that it appears to be one of those lesser known works by a respected author. Who knows what awesomeness lies therein?<br /><br />One minus though: the edition I have has tiny, tiny print.]]></body>
+  
+  <user>
+    <id>365191</id>
+    <name>Daniel</name>
+    <display_name>Daniel</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/365191-daniel]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1309463474p3/365191.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1309463474p2/365191.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jun 14 04:50:30 -0700 2011</created_at>
+  <updated_at>Tue Jun 14 04:50:30 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31918089</id>
+  <body><![CDATA[That's were ebooks win as there is poor publications of classic's and the ones that get a make over are high priced.]]></body>
+  
+  <user>
+    <id>3699303</id>
+    <name>Lou</name>
+    <display_name>Lou</display_name>
+
+    <location>London, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3699303-lou]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1312212794p3/3699303.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1312212794p2/3699303.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jun 14 06:51:40 -0700 2011</created_at>
+  <updated_at>Tue Jun 14 06:51:40 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31924174</id>
+  <body><![CDATA[True, ebooks can sidestep those issues without putting the cost on the reader. I'm still partial to print, though.]]></body>
+  
+  <user>
+    <id>365191</id>
+    <name>Daniel</name>
+    <display_name>Daniel</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/365191-daniel]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1309463474p3/365191.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1309463474p2/365191.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jun 14 09:46:07 -0700 2011</created_at>
+  <updated_at>Tue Jun 14 09:46:07 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>39509202</id>
+  <body><![CDATA[Nice review - this is definitely in my top twenty from the 1001 books to read before you die list.]]></body>
+  
+  <user>
+    <id>3926982</id>
+    <name>Shovelmonkey1</name>
+    <display_name>Shovelmonkey1</display_name>
+
+    <location>Iraq</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3926982-shovelmonkey1]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1391713268p3/3926982.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1391713268p2/3926982.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Nov 05 10:24:45 -0700 2011</created_at>
+  <updated_at>Sat Nov 05 10:24:45 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>39513764</id>
+  <body><![CDATA[Cheers]]></body>
+  
+  <user>
+    <id>3699303</id>
+    <name>Lou</name>
+    <display_name>Lou</display_name>
+
+    <location>London, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3699303-lou]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1312212794p3/3699303.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1312212794p2/3699303.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Nov 05 12:04:28 -0700 2011</created_at>
+  <updated_at>Sat Nov 05 12:04:28 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>39793680</id>
+  <body><![CDATA[its a great piece of work. I love how intellgent and poetic she makes frankensteins creation. its not the monster that the movies make it out to be its just a creature that doesn't know what its purpose is why was be brought into this world to only be turned away by its creator. its the same questions we ask ourselves. I had to read this for a class in college and we spoke about whether or not the creature had a soul and if it did how did it come by it. I believe its one of the greatest novels even written and everyone should read it at least once. but here's a question for u guys, whose the real monster in the story the creature who killed bc it had no sense of right and wrong or control over its emotions or the man that created it then abandoned it to fend for itself?]]></body>
+  
+  <user>
+    <id>4538670</id>
+    <name>Aileen</name>
+    <display_name>Aileen</display_name>
+
+    <location>Bronx, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4538670-aileen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1303198783p3/4538670.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1303198783p2/4538670.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Nov 10 19:10:12 -0800 2011</created_at>
+  <updated_at>Thu Nov 10 19:10:12 -0800 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>39798846</id>
+  <body><![CDATA[In the story I get the sense the whole root of the problem was Frankenstein himself in the way he created him using parts of already violent individuals.]]></body>
+  
+  <user>
+    <id>3699303</id>
+    <name>Lou</name>
+    <display_name>Lou</display_name>
+
+    <location>London, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3699303-lou]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1312212794p3/3699303.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1312212794p2/3699303.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Nov 10 21:03:28 -0800 2011</created_at>
+  <updated_at>Thu Nov 10 21:03:28 -0800 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>42960915</id>
+  <body><![CDATA[<i>Alberto wrote: "There's a very beautiful edition of the Frankenstein novel illustrated by Bernie Wrightson. It's not a comic/graphic novel, but the original text with drawings by Wrightson. Was published in 1983 b..."</i><br /><br />Thanks]]></body>
+  
+  <user>
+    <id>3699303</id>
+    <name>Lou</name>
+    <display_name>Lou</display_name>
+
+    <location>London, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3699303-lou]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1312212794p3/3699303.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1312212794p2/3699303.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 07 04:19:39 -0800 2012</created_at>
+  <updated_at>Sat Jan 07 04:19:39 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>51206439</id>
+  <body><![CDATA[I didn't know this before hand and my father helped influence this, but I'm taking the Stephen king danse macabre challenge! Your review gives me hope that part 1 will go smoothly.]]></body>
+  
+  <user>
+    <id>4034457</id>
+    <name>Bridget</name>
+    <display_name>Bridget</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4034457-bridget]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1279656907p3/4034457.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1279656907p2/4034457.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 27 23:21:20 -0700 2012</created_at>
+  <updated_at>Sun May 27 23:21:20 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>52979671</id>
+  <body><![CDATA[@Lou<br />I don't mean to be "that girl" but Stephen Kings "Danse Macabre" isn't a novel, it's a work of nonfiction.]]></body>
+  
+  <user>
+    <id>10450016</id>
+    <name>Helene</name>
+    <display_name>Helene Mackey</display_name>
+
+    <location>Staten Island, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10450016-helene-mackey]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Jun 26 07:44:01 -0700 2012</created_at>
+  <updated_at>Tue Jun 26 07:44:01 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>66758566</id>
+  <body><![CDATA[Lou, excellent review. It's been too many years since I read this. Time to pull it off the shelf.]]></body>
+  
+  <user>
+    <id>3025547</id>
+    <name>Lawyer</name>
+    <display_name>Lawyer</display_name>
+
+    <location><![CDATA[Papamoa, Bay of Plenty, New Zealand]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3025547-lawyer]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1462156906p3/3025547.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1462156906p2/3025547.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 30 14:06:30 -0800 2013</created_at>
+  <updated_at>Wed Jan 30 14:06:30 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>66761048</id>
+  <body><![CDATA[<i>Mike wrote: "Lou, excellent review. It's been too many years since I read this. Time to pull it off the shelf."</i><br /><br />Thanks, I hope to join the southern read of Faulkner soon :)]]></body>
+  
+  <user>
+    <id>3699303</id>
+    <name>Lou</name>
+    <display_name>Lou</display_name>
+
+    <location>London, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3699303-lou]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1312212794p3/3699303.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1312212794p2/3699303.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 30 14:38:39 -0800 2013</created_at>
+  <updated_at>Wed Jan 30 14:38:39 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>141029569</id>
+  <body><![CDATA[I finally picked this up at our library book sale for .50¢. looking forward to reading it. so we have, Vampire, Werewolf and....Zombie? :-)]]></body>
+  
+  <user>
+    <id>1739786</id>
+    <name>Janene</name>
+    <display_name>Janene</display_name>
+
+    <location>Baxter, MN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1739786-janene]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1489375666p3/1739786.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1489375666p2/1739786.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Oct 04 06:12:06 -0700 2015</created_at>
+  <updated_at>Sun Oct 04 06:12:06 -0700 2015</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/101823079]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/101823079]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

@@ -1,0 +1,1247 @@
+status: 200
+x-request-id: 8R4YC50WE86TQ5S15JHS
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=126733883&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhg1NTItNzkxMTk2MS0wMzIzNDE3BjoGRVQ%3D--e2931d57e437540e82c2c2b7d4baa62c77107fc3;
+ path=/; expires=Wed, 15 Apr 2037 15:22:38 -0000, locale=es;
+ path=/, _session_id2=e48eba773fbf47b3e3df030112a0554f; path=/;
+ expires=Sat, 15 Apr 2017 21:22:38 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 42273
+server: Server
+x-runtime: 0.447514
+etag: W/"bb964eb27984110f06686c77b9a553a1"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:22:38 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>126733883</id>
+    
+  <user>
+    <id>4430475</id>
+    <name>Shep</name>
+    <display_name>Shep</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4430475-shep]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1467004410p3/4430475.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1467004410p2/4430475.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">3</id>
+  <isbn>0439554934</isbn>
+  <isbn13>9780439554930</isbn13>
+  <text_reviews_count type="integer">55568</text_reviews_count>
+  <title>Harry Potter and the Sorcerer's Stone (Harry Potter, #1)</title>
+  <title_without_series>Harry Potter and the Sorcerer's Stone</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1474154022m/3.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1474154022s/3.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone</link>
+  <num_pages>320</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Arthur A. Levine Books</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>1997</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.44</average_rating>
+  <ratings_count>4576472</ratings_count>
+  <description>Harry Potter's life is miserable. His parents are dead and he's stuck with his heartless relatives, who force him to live in a tiny closet under the stairs. But his fortune changes when he receives a letter that tells him the truth about himself: he's a wizard. A mysterious visitor rescues him from his relatives and takes him to his new home, Hogwarts School of Witchcraft and Wizardry.&lt;br /&gt;&lt;br /&gt;After a lifetime of bottling up his magical powers, Harry finally feels like a normal kid. But even within the Wizarding community, he is special. He is the boy who lived: the only person to have ever survived a killing curse inflicted by the evil Lord Voldemort, who launched a brutal takeover of the Wizarding world, only to vanish after failing to kill Harry.&lt;br /&gt;&lt;br /&gt;Though Harry's first year at Hogwarts is the best of his life, not everything is perfect. There is a dangerous secret object hidden within the castle walls, and Harry believes it's his responsibility to prevent it from falling into evil hands. But doing so will bring him into contact with forces more terrifying than he ever could have imagined.&lt;br /&gt;&lt;br /&gt;Full of sympathetic characters, wildly imaginative situations, and countless exciting details, the first installment in the series assembles an unforgettable magical world and sets the stage for many high-stakes adventures to come.</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1415945171p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1415945171p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.42</average_rating>
+<ratings_count>17561506</ratings_count>
+<text_reviews_count>435220</text_reviews_count>
+</author>
+</authors>
+  <published>1997</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1215832763</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sat Jan 30 22:30:08 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>1319</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="fantasy" exclusive="false" review_shelf_id="194565908" sortable="false" />
+    <shelf name="favorites" exclusive="false" review_shelf_id="195718589" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Oct 17 18:28:17 -0700 2010</date_added>
+  <date_updated>Sat Jan 11 16:52:59 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<img src="https://encrypted-tbn3.google.com/images?q=tbn:ANd9GcQv8jXLiyv-gamFdwkZxDi_M0SSzCeHR4b6cHDc4WiqBPu018qH7Q" class="gr-hostedUserImg" /><br /><br />]]>
+  </body>
+
+  
+
+  <comments_count>48</comments_count>
+    <comments start="1" end="49" total="49">
+        <comment>
+  <id>47987092</id>
+  <body><![CDATA[<i>Adam "Archer" wrote: "Are you kidding me... I do that now lol"</i><br /><br />As do I, Adam. As do I.]]></body>
+  
+  <user>
+    <id>4336293</id>
+    <name>Haleema </name>
+    <display_name>Haleema </display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4336293-haleema]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1402430795p3/4336293.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1402430795p2/4336293.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Mar 31 11:34:53 -0700 2012</created_at>
+  <updated_at>Sat Mar 31 11:34:53 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>48019673</id>
+  <body><![CDATA[Amen to this review.]]></body>
+  
+  <user>
+    <id>5620615</id>
+    <name> Arushi</name>
+    <display_name> Arushi</display_name>
+
+    <location>Diagon Alley, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5620615-arushi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1337664395p3/5620615.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1337664395p2/5620615.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Mar 31 20:08:15 -0700 2012</created_at>
+  <updated_at>Sat Mar 31 20:08:15 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>63067465</id>
+  <body><![CDATA[All the time.]]></body>
+  
+  <user>
+    <id>1779637</id>
+    <name>Elaine</name>
+    <display_name>Elaine</display_name>
+
+    <location>Singapore, Singapore</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1779637-elaine]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1455465715p3/1779637.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1455465715p2/1779637.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Dec 06 18:31:50 -0800 2012</created_at>
+  <updated_at>Thu Dec 06 18:31:50 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>63775538</id>
+  <body><![CDATA[Alan Rickman first said this :D<br />oh, the glory of reusing your own quotes :)]]></body>
+  
+  <user>
+    <id>12672351</id>
+    <name>Katerina</name>
+    <display_name>Katerina</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12672351-katerina]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 18 15:07:28 -0800 2012</created_at>
+  <updated_at>Tue Dec 18 15:07:28 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>67695964</id>
+  <body><![CDATA[This is cool]]></body>
+  
+  <created_at>Tue Feb 12 17:04:26 -0800 2013</created_at>
+  <updated_at>Tue Feb 12 17:04:26 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>67958838</id>
+  <body><![CDATA[Glad so many people agree with me c: HP will never die.]]></body>
+  
+  <user>
+    <id>4430475</id>
+    <name>Shep</name>
+    <display_name>Shep</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4430475-shep]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1467004410p3/4430475.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1467004410p2/4430475.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 16 11:56:13 -0800 2013</created_at>
+  <updated_at>Sat Feb 16 11:56:13 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>68423127</id>
+  <body><![CDATA[ALWAYS]]></body>
+  
+  <user>
+    <id>17567634</id>
+    <name>Juliet</name>
+    <display_name>Juliet Whetstone</display_name>
+
+    <location>Lexington, KY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17567634-juliet-whetstone]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1361576884p3/17567634.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1361576884p2/17567634.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 22 16:25:32 -0800 2013</created_at>
+  <updated_at>Fri Feb 22 16:25:32 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>71622446</id>
+  <body><![CDATA[Agreed :D]]></body>
+  
+  <user>
+    <id>14012401</id>
+    <name>Victoria</name>
+    <display_name>Victoria Scofield</display_name>
+
+    <location>Monroe, NC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14012401-victoria-scofield]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1360125938p3/14012401.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1360125938p2/14012401.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Apr 08 09:35:28 -0700 2013</created_at>
+  <updated_at>Mon Apr 08 09:35:28 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>72393304</id>
+  <body><![CDATA[&lt;3]]></body>
+  
+  <user>
+    <id>5654040</id>
+    <name>margaret</name>
+    <display_name>margaret alyse</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5654040-margaret-alyse]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486942152p3/5654040.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486942152p2/5654040.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Apr 19 04:24:40 -0700 2013</created_at>
+  <updated_at>Fri Apr 19 04:24:40 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>80316993</id>
+  <body><![CDATA[This comment is stupid cuz it made me cry. Just kidding! Well, it did make me cry...]]></body>
+  
+  <user>
+    <id>22945633</id>
+    <name>Rosie</name>
+    <display_name>Rosie Dayson</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22945633-rosie-dayson]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 08 18:05:18 -0700 2013</created_at>
+  <updated_at>Thu Aug 08 18:05:18 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>87002274</id>
+  <body><![CDATA[LOL! I will be doing the same thing!]]></body>
+  
+  <user>
+    <id>25772971</id>
+    <name>Sofia</name>
+    <display_name>Sofia</display_name>
+
+    <location>Midlothian, VA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25772971-sofia]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 17 15:47:13 -0800 2013</created_at>
+  <updated_at>Sun Nov 17 15:47:13 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>94711763</id>
+  <body><![CDATA[Always.]]></body>
+  
+  <user>
+    <id>16076980</id>
+    <name>Aiman</name>
+    <display_name>Aiman</display_name>
+
+    <location>Sydney, 02, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16076980-aiman]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1405936664p3/16076980.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1405936664p2/16076980.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Mar 16 04:18:07 -0700 2014</created_at>
+  <updated_at>Sun Mar 16 04:18:07 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>98444292</id>
+  <body><![CDATA[*fangirling*]]></body>
+  
+  <user>
+    <id>23717976</id>
+    <name>Grace</name>
+    <display_name>Grace</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23717976-grace]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1444528835p3/23717976.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1444528835p2/23717976.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue May 13 14:13:18 -0700 2014</created_at>
+  <updated_at>Tue May 13 14:13:18 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>98788940</id>
+  <body><![CDATA[I &lt;3 that!!!!!!!!!!]]></body>
+  
+  <user>
+    <id>2985461</id>
+    <name>Elisa</name>
+    <display_name>Elisa</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2985461-elisa]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon May 19 14:49:38 -0700 2014</created_at>
+  <updated_at>Mon May 19 14:49:38 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>101715441</id>
+  <body><![CDATA[amazing！！！]]></body>
+  
+  <user>
+    <id>32860588</id>
+    <name>hena Yan</name>
+    <display_name>hena Yan</display_name>
+
+    <location>Xian, 26, China</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32860588-hena-yan]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Jul 07 00:04:58 -0700 2014</created_at>
+  <updated_at>Mon Jul 07 00:04:58 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>102682527</id>
+  <body><![CDATA[This. Is. Perfect.]]></body>
+  
+  <user>
+    <id>28505341</id>
+    <name>Sarah</name>
+    <display_name>Sarah</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/28505341-sarah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1450985176p3/28505341.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1450985176p2/28505341.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jul 21 10:14:54 -0700 2014</created_at>
+  <updated_at>Mon Jul 21 10:14:54 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>112605588</id>
+  <body><![CDATA[we're did y'all find this book]]></body>
+  
+  <user>
+    <id>36015365</id>
+    <name>charity</name>
+    <display_name>charity</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/36015365-charity]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 11 10:15:03 -0800 2015</created_at>
+  <updated_at>Sun Jan 11 10:15:03 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>115258185</id>
+  <body><![CDATA[*immediately bursts into tears*]]></body>
+  
+  <user>
+    <id>24807712</id>
+    <name>Miko (Talulla Glas&apos;Ualas)</name>
+    <display_name>Miko (Talulla Glas&apos;Ualas)</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24807712-miko-talulla-glas-ualas]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488871504p3/24807712.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488871504p2/24807712.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Feb 26 09:45:01 -0800 2015</created_at>
+  <updated_at>Thu Feb 26 09:45:01 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>115591774</id>
+  <body><![CDATA[That picture will definitely be me]]></body>
+  
+  <user>
+    <id>40792830</id>
+    <name>Erin_the_awesome1234</name>
+    <display_name>Erin_the_awesome1234</display_name>
+
+    <location>Newton, NJ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/40792830-erin-the-awesome1234]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 04 05:27:07 -0800 2015</created_at>
+  <updated_at>Wed Mar 04 05:27:07 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>118999139</id>
+  <body><![CDATA[Loved this book so much!!!<br />Me and my sis became potter heads;)]]></body>
+  
+  <user>
+    <id>42939363</id>
+    <name>Kirstenbookworm</name>
+    <display_name>Kirstenbookworm</display_name>
+
+    <location>Seoul, 11, Korea, Republic of</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/42939363-kirstenbookworm]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1432461281p3/42939363.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1432461281p2/42939363.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 10 06:50:54 -0700 2015</created_at>
+  <updated_at>Sun May 10 06:50:54 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>129942011</id>
+  <body><![CDATA[Oh yeah, this is me too!!]]></body>
+  
+  <user>
+    <id>42451008</id>
+    <name>Xxioanaxx</name>
+    <display_name>Xxioanaxx</display_name>
+
+    <location>Germany</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/42451008-xxioanaxx]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat Jun 06 08:48:22 -0700 2015</created_at>
+  <updated_at>Sat Jun 06 08:48:22 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>130228568</id>
+  <body><![CDATA[That will be me]]></body>
+  
+  <user>
+    <id>43878973</id>
+    <name>Teya</name>
+    <display_name>Teya</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/43878973-teya]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 12 05:23:25 -0700 2015</created_at>
+  <updated_at>Fri Jun 12 05:23:25 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>130228828</id>
+  <body><![CDATA[what will]]></body>
+  
+  <user>
+    <id>43723462</id>
+    <name>Ashlyn Hunter</name>
+    <display_name>Ashlyn Hunter</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/43723462-ashlyn-hunter]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 12 05:31:54 -0700 2015</created_at>
+  <updated_at>Fri Jun 12 05:31:54 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>130841960</id>
+  <body><![CDATA[I just love how loyal Snape was after Dumbledore dies. Although not many people knew he was loyal to the headmaster in the first place. Many people just rejoiced when Snape dies. After all this time we will love you Snape. Always.]]></body>
+  
+  <user>
+    <id>43453348</id>
+    <name>Jayms</name>
+    <display_name>Jayms rush</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/43453348-jayms-rush]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483744384p3/43453348.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483744384p2/43453348.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 25 07:06:39 -0700 2015</created_at>
+  <updated_at>Thu Jun 25 07:06:39 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>138187535</id>
+  <body><![CDATA[Awsome]]></body>
+  
+  <user>
+    <id>45805245</id>
+    <name>Warren Family</name>
+    <display_name>Warren Family</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/45805245-warren-family]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 09 02:33:45 -0700 2015</created_at>
+  <updated_at>Sun Aug 09 02:33:45 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>138283384</id>
+  <body><![CDATA[Best book ever]]></body>
+  
+  <user>
+    <id>45856228</id>
+    <name>Bernie</name>
+    <display_name>Bernie</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/45856228-bernie]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 10 16:18:56 -0700 2015</created_at>
+  <updated_at>Mon Aug 10 16:18:56 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>139747191</id>
+  <body><![CDATA[the best book ever and i'm sure that i will say this when i'm 80 too]]></body>
+  
+  <user>
+    <id>44011460</id>
+    <name> ❁ Louisa</name>
+    <display_name> ❁ Louisa</display_name>
+
+    <location>Oran, 09, Algeria</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/44011460-louisa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1463145667p3/44011460.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1463145667p2/44011460.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Sep 05 02:48:55 -0700 2015</created_at>
+  <updated_at>Sat Sep 05 02:48:55 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>140514055</id>
+  <body><![CDATA[how did you think of such a good riview (btw i know how to spell) this had a lot of thought put into it.]]></body>
+  
+  <user>
+    <id>47093550</id>
+    <name>Naomi Salowe</name>
+    <display_name>Naomi Salowe</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/47093550-naomi-salowe]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Sep 21 22:01:53 -0700 2015</created_at>
+  <updated_at>Mon Sep 21 22:01:53 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>140552121</id>
+  <body><![CDATA[<i>Naomi Salowe wrote: "how did you think of such a good riview (btw i know how to spell) this had a lot of thought put into it."</i><br /><br />I'm sensing a tad bit of sarcasm.]]></body>
+  
+  <user>
+    <id>4430475</id>
+    <name>Shep</name>
+    <display_name>Shep</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4430475-shep]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1467004410p3/4430475.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1467004410p2/4430475.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Sep 22 19:52:19 -0700 2015</created_at>
+  <updated_at>Tue Sep 22 19:52:19 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141158139</id>
+  <body><![CDATA[We must all face the choice between what is right and what is easy]]></body>
+  
+  <user>
+    <id>29599734</id>
+    <name>Ph3on4</name>
+    <display_name>Ph3on4</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/29599734-ph3on4]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Oct 07 05:18:44 -0700 2015</created_at>
+  <updated_at>Wed Oct 07 05:18:44 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>143657836</id>
+  <body><![CDATA[this freaking needs more than just flaming five stars!!!!!!!!!]]></body>
+  
+  <user>
+    <id>47478935</id>
+    <name>Susanne Beechel</name>
+    <display_name>Susanne Beechel</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/47478935-susanne-beechel]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 30 17:12:31 -0800 2015</created_at>
+  <updated_at>Mon Nov 30 17:12:31 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>143658219</id>
+  <body><![CDATA[this is really awesome i am still reading all the books XD]]></body>
+  
+  <user>
+    <id>47478935</id>
+    <name>Susanne Beechel</name>
+    <display_name>Susanne Beechel</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/47478935-susanne-beechel]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 30 17:17:21 -0800 2015</created_at>
+  <updated_at>Mon Nov 30 17:17:21 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>144526417</id>
+  <body><![CDATA[Agreed!!that and hunger games please!!]]></body>
+  
+  <user>
+    <id>47189442</id>
+    <name>Dale</name>
+    <display_name>Dale Rutter</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/47189442-dale-rutter]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1491544581p3/47189442.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1491544581p2/47189442.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Dec 18 05:42:01 -0800 2015</created_at>
+  <updated_at>Fri Dec 18 05:42:01 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>144527412</id>
+  <body><![CDATA[such a true and well written review summed up in a simple picture.]]></body>
+  
+  <user>
+    <id>28106337</id>
+    <name><![CDATA[Brittany ♥♥~Proud Hufflepuff and supporter of S.P.E.W. ~♥♥]]></name>
+    <display_name><![CDATA[Brittany ♥♥~Proud Hufflepuff and supporter of S.P.E.W. ~♥♥]]></display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/28106337-brittany-proud-hufflepuff-and-supporter-of-s-p-e-w]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1390844325p3/28106337.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1390844325p2/28106337.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Dec 18 06:17:24 -0800 2015</created_at>
+  <updated_at>Fri Dec 18 06:17:24 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>145338360</id>
+  <body><![CDATA[I became a potter head after I read #1. I bought all the pops by funko,bought the illustrated #1,I bought the coloring book,I bought the costume,I bought the glasses,I even bought the boxed set that made up the Hogwarts castle. LOL!]]></body>
+  
+  <user>
+    <id>45349245</id>
+    <name>Michaela</name>
+    <display_name>Michaela Branum</display_name>
+
+    <location>Bedford, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/45349245-michaela-branum]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 03 12:28:22 -0800 2016</created_at>
+  <updated_at>Sun Jan 03 12:28:22 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>145338381</id>
+  <body><![CDATA[Sorry if I'm a blabber!]]></body>
+  
+  <user>
+    <id>45349245</id>
+    <name>Michaela</name>
+    <display_name>Michaela Branum</display_name>
+
+    <location>Bedford, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/45349245-michaela-branum]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 03 12:28:49 -0800 2016</created_at>
+  <updated_at>Sun Jan 03 12:28:49 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>146112840</id>
+  <body><![CDATA[RIP Alan Rickman. :-(]]></body>
+  
+  <user>
+    <id>43126021</id>
+    <name>Ally-Mai</name>
+    <display_name>Ally-Mai</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/43126021-ally-mai]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1432131295p3/43126021.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1432131295p2/43126021.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 16 13:50:18 -0800 2016</created_at>
+  <updated_at>Sat Jan 16 13:50:18 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>149343921</id>
+  <body><![CDATA[Hmmmm..... I always thought Snape had a serious case of the Snottering Wimpels. They make people hold grudges, you know. They're very common, as you see in the world.]]></body>
+  
+  <user>
+    <id>54212000</id>
+    <name><![CDATA[Liam ~I put a banjo up into the sky. It keeps us movin', it keeps us movin']]></name>
+    <display_name><![CDATA[Liam ~I put a banjo up into the sky. It keeps us movin', it keeps us movin']]></display_name>
+
+    <location>Vancouver, BC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/54212000-liam-i-put-a-banjo-up-into-the-sky-it-keeps-us-movin-it-keeps-us-mov]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1485034851p3/54212000.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1485034851p2/54212000.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 23 16:19:05 -0700 2016</created_at>
+  <updated_at>Wed Mar 23 16:19:05 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>150764128</id>
+  <body><![CDATA[I'm really sad he couldn't reach 80...]]></body>
+  
+  <user>
+    <id>23078312</id>
+    <name>Elly</name>
+    <display_name>Elly</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23078312-elly]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1456583808p3/23078312.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1456583808p2/23078312.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Apr 24 02:50:58 -0700 2016</created_at>
+  <updated_at>Sun Apr 24 02:50:58 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>153838085</id>
+  <body><![CDATA[Love this book!]]></body>
+  
+  <user>
+    <id>57398810</id>
+    <name>Cocothedancer</name>
+    <display_name>Cocothedancer</display_name>
+
+    <location>Grimsby, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/57398810-cocothedancer]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 05 07:50:10 -0700 2016</created_at>
+  <updated_at>Tue Jul 05 07:50:10 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155950359</id>
+  <body><![CDATA[I guess 80 is an age that rickman is not ever going to see]]></body>
+  
+  <user>
+    <id>27370119</id>
+    <name>Tiffany</name>
+    <display_name>Tiffany Lin</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27370119-tiffany-lin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1467734450p3/27370119.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1467734450p2/27370119.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 24 16:12:51 -0700 2016</created_at>
+  <updated_at>Wed Aug 24 16:12:51 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159286275</id>
+  <body><![CDATA[I think that the author wrote a good series all i just have to do after the series is to watch the movies but i wish there were more books to the harry potter series.]]></body>
+  
+  <user>
+    <id>52444684</id>
+    <name>Daytona</name>
+    <display_name>Daytona</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52444684-daytona]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat Nov 19 05:03:15 -0800 2016</created_at>
+  <updated_at>Sat Nov 19 05:03:15 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>160873785</id>
+  <body><![CDATA[Nice man from Annabelle]]></body>
+  
+  <user>
+    <id>63281960</id>
+    <name>Travis</name>
+    <display_name>Travis</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/63281960-travis]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 01 12:25:56 -0800 2017</created_at>
+  <updated_at>Sun Jan 01 12:25:56 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>160985759</id>
+  <body><![CDATA[This is a amazing book and I really do rate it for r other people to start reading]]></body>
+  
+  <user>
+    <id>60924800</id>
+    <name>Lolo</name>
+    <display_name>Lolo</display_name>
+
+    <location>Katy, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/60924800-lolo]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 03 10:45:48 -0800 2017</created_at>
+  <updated_at>Tue Jan 03 10:45:48 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161537655</id>
+  <body><![CDATA[Love to read it..]]></body>
+  
+  <user>
+    <id>63900715</id>
+    <name>Rifah</name>
+    <display_name>Rifah Jahan</display_name>
+
+    <location>Plot, 06, Pakistan</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/63900715-rifah-jahan]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 15 12:21:49 -0800 2017</created_at>
+  <updated_at>Sun Jan 15 12:21:49 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161866061</id>
+  <body><![CDATA[*sniffle*]]></body>
+  
+  <user>
+    <id>63477087</id>
+    <name>Em</name>
+    <display_name>Em</display_name>
+
+    <location>Grand Blanc, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/63477087-em]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483579516p3/63477087.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483579516p2/63477087.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 23 04:21:31 -0800 2017</created_at>
+  <updated_at>Mon Jan 23 04:21:31 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>164359135</id>
+  <body><![CDATA[5 Stars?!, I Agree!]]></body>
+  
+  <user>
+    <id>63713997</id>
+    <name>Noah :)</name>
+    <display_name>Noah :)</display_name>
+
+    <location>New Zealand</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/63713997-noah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492217493p3/63713997.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492217493p2/63713997.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Mar 26 00:09:24 -0700 2017</created_at>
+  <updated_at>Sun Mar 26 00:09:24 -0700 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>164564645</id>
+  <body><![CDATA[The sad thing is Alan Rickman wasn't eighty when he died.... RIP]]></body>
+  
+  <user>
+    <id>65335502</id>
+    <name>Surya</name>
+    <display_name>Surya Karthikeyan</display_name>
+
+    <location>India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/65335502-surya-karthikeyan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487954812p3/65335502.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487954812p2/65335502.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 31 01:53:34 -0700 2017</created_at>
+  <updated_at>Fri Mar 31 01:53:34 -0700 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>164838536</id>
+  <body><![CDATA[]]></body>
+  
+  <user>
+    <id>63477087</id>
+    <name>Em</name>
+    <display_name>Em</display_name>
+
+    <location>Grand Blanc, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/63477087-em]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483579516p3/63477087.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483579516p2/63477087.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Apr 06 18:22:38 -0700 2017</created_at>
+  <updated_at>Thu Apr 06 18:22:38 -0700 2017</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/126733883]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/126733883]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

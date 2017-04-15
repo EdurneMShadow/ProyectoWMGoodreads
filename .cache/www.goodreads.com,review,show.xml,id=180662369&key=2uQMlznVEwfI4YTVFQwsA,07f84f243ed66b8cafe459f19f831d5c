@@ -1,0 +1,516 @@
+status: 200
+x-request-id: 5ACKJBRHZ9HTD033M1DN
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=180662369&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhg3NDEtMDY5MTY0MC0xMTg0MjAxBjoGRVQ%3D--380398b6e3a2c95cf1c0409d6b684a2cbd8c7acf;
+ path=/; expires=Wed, 15 Apr 2037 16:56:59 -0000, locale=es;
+ path=/, _session_id2=f29a29dddcb77fbc31a1b572d893cb55; path=/;
+ expires=Sat, 15 Apr 2017 22:56:59 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 18903
+server: Server
+x-runtime: 0.335625
+etag: W/"7710a4fab14f54959bf93e6246a851d9"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 16:56:59 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>180662369</id>
+    
+  <user>
+    <id>3350836</id>
+    <name>Jaci </name>
+    <display_name>Jaci </display_name>
+
+    <location>Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3350836-jaci]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1292972352p3/3350836.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1292972352p2/3350836.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">11870085</id>
+  <isbn>0525478817</isbn>
+  <isbn13>9780525478812</isbn13>
+  <text_reviews_count type="integer">126888</text_reviews_count>
+  <title>The Fault in Our Stars</title>
+  <title_without_series>The Fault in Our Stars</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1360206420m/11870085.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1360206420s/11870085.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/11870085-the-fault-in-our-stars</link>
+  <num_pages>313</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Dutton Books</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.27</average_rating>
+  <ratings_count>2358147</ratings_count>
+  <description>&lt;i&gt;There is an alternate cover edition &lt;a href="https://www.goodreads.com/book/show/25856606-the-fault-in-our-stars" rel="nofollow"&gt;here&lt;/a&gt;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;"I fell in love the way you fall asleep: slowly, then all at once."&lt;br /&gt;&lt;br /&gt;Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a gorgeous plot twist named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten.&lt;br /&gt;&lt;br /&gt;Insightful, bold, irreverent, and raw, The Fault in Our Stars is award-winning author John Green's most ambitious and heartbreaking work yet, brilliantly exploring the funny, thrilling, and tragic business of being alive and in love.</description>
+<authors>
+<author>
+<id>1406384</id>
+<name>John Green</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>4487320</ratings_count>
+<text_reviews_count>274858</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1260826610</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Wed Mar 02 07:57:11 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>250</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="favourites" exclusive="false" review_shelf_id="170884410" sortable="false" />
+    <shelf name="fast-reads" exclusive="false" review_shelf_id="170884401" sortable="false" />
+    <shelf name="different" exclusive="false" review_shelf_id="170884396" sortable="false" />
+    <shelf name="funny" exclusive="false" review_shelf_id="170884419" sortable="false" />
+    <shelf name="love-stories" exclusive="false" review_shelf_id="170884431" sortable="false" />
+    <shelf name="sad" exclusive="false" review_shelf_id="170884451" sortable="false" />
+    <shelf name="must-reads" exclusive="false" review_shelf_id="170884436" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Jan 10 00:00:00 -0800 2012</read_at>
+  <date_added>Wed Jun 29 15:02:32 -0700 2011</date_added>
+  <date_updated>Sat Dec 28 06:27:57 -0800 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Holy holy holy I waited so long for this novel, so long. I wish so bad I could give it more than 5 stars. John Green is absolutely amazing, amazing, amazing. The Fault in Our Stars had me laughing and crying, then laughing more and crying more. I will reread this over and over again, just like th...]]>
+  </body>
+
+  
+
+  <comments_count>17</comments_count>
+    <comments start="1" end="17" total="17">
+        <comment>
+  <id>43434105</id>
+  <body><![CDATA[That's exactly what I was thinking!]]></body>
+  
+  <user>
+    <id>973319</id>
+    <name>Kate</name>
+    <display_name>Kate Birch</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/973319-kate-birch]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1441230486p3/973319.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1441230486p2/973319.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 14 20:38:43 -0800 2012</created_at>
+  <updated_at>Sat Jan 14 20:38:43 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>48290674</id>
+  <body><![CDATA[Yes. Thank you John Green.]]></body>
+  
+  <user>
+    <id>143480</id>
+    <name>Katy</name>
+    <display_name>Katy Byrom</display_name>
+
+    <location>Salt Lake City, UT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/143480-katy-byrom]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1182400354p3/143480.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1182400354p2/143480.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Apr 04 22:45:22 -0700 2012</created_at>
+  <updated_at>Wed Apr 04 22:45:22 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>49788600</id>
+  <body><![CDATA[I absolutely agree. DFTBA]]></body>
+  
+  <user>
+    <id>9197548</id>
+    <name>Kat</name>
+    <display_name>Kat Garelli</display_name>
+
+    <location>Collingswood, NJ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9197548-kat-garelli]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1335893228p3/9197548.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1335893228p2/9197548.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue May 01 10:49:44 -0700 2012</created_at>
+  <updated_at>Tue May 01 10:49:44 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>55117856</id>
+  <body><![CDATA[Ditto! Ditto! Ditto!]]></body>
+  
+  <user>
+    <id>11023187</id>
+    <name>Maggie</name>
+    <display_name>Maggie Front</display_name>
+
+    <location>San Anselmo, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11023187-maggie-front]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1343107036p3/11023187.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1343107036p2/11023187.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jul 29 10:00:25 -0700 2012</created_at>
+  <updated_at>Sun Jul 29 10:00:25 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>59174868</id>
+  <body><![CDATA[I totally agree!]]></body>
+  
+  <user>
+    <id>13314714</id>
+    <name>Ashley</name>
+    <display_name>Ashley</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13314714-ashley]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1349153898p3/13314714.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1349153898p2/13314714.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 01 22:00:19 -0700 2012</created_at>
+  <updated_at>Mon Oct 01 22:00:19 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>60357858</id>
+  <body><![CDATA[ur obsessed. whats wrong with u]]></body>
+  
+  <user>
+    <id>12709561</id>
+    <name>Chris</name>
+    <display_name>Chris Gandhi</display_name>
+
+    <location>Middlebury, CT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12709561-chris-gandhi]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 22 09:49:13 -0700 2012</created_at>
+  <updated_at>Mon Oct 22 09:49:13 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>66193528</id>
+  <body><![CDATA[PREACH IT GIRL]]></body>
+  
+  <user>
+    <id>16240709</id>
+    <name>Carolina</name>
+    <display_name>Carolina Ortega</display_name>
+
+    <location>Miami, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16240709-carolina-ortega]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 22 22:28:11 -0800 2013</created_at>
+  <updated_at>Tue Jan 22 22:28:11 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>68337343</id>
+  <body><![CDATA[I completely and utterly agree with every single thing you said! This is the first novel that I have actually cried in, it's that amazing!!]]></body>
+  
+  <created_at>Thu Feb 21 12:52:31 -0800 2013</created_at>
+  <updated_at>Thu Feb 21 12:52:31 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69700353</id>
+  <body><![CDATA[Totally agree. It didn't impress me when I finished it, however, a day or two later when i was thinking about the book it sort of hit me and that's the best type of book i think.]]></body>
+  
+  <user>
+    <id>17483262</id>
+    <name>Bab</name>
+    <display_name>Bab</display_name>
+
+    <location>Raleigh, NC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17483262-bab]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 12 17:48:16 -0700 2013</created_at>
+  <updated_at>Tue Mar 12 17:48:16 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69913926</id>
+  <body><![CDATA[Why did it not impress you at first? I enjoyed it and thought that John Green wrote it well. He seems to have a personal connection to cancer patients.]]></body>
+  
+  <user>
+    <id>17474944</id>
+    <name>Gah</name>
+    <display_name>Gah</display_name>
+
+    <location>Decatur, GA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17474944-gah]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 15 18:11:16 -0700 2013</created_at>
+  <updated_at>Fri Mar 15 18:11:16 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>71963767</id>
+  <body><![CDATA[I don't see how it impressed you that much]]></body>
+  
+  <user>
+    <id>17533953</id>
+    <name>Autumn</name>
+    <display_name>Autumn</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17533953-autumn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1419795778p3/17533953.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1419795778p2/17533953.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Apr 13 06:47:23 -0700 2013</created_at>
+  <updated_at>Sat Apr 13 06:47:23 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>75798524</id>
+  <body><![CDATA[Well said, I couldn't agree more.]]></body>
+  
+  <user>
+    <id>15999491</id>
+    <name>Hector</name>
+    <display_name>Hector Malavé</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15999491-hector-malav]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1452290414p3/15999491.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1452290414p2/15999491.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jun 08 01:38:34 -0700 2013</created_at>
+  <updated_at>Sat Jun 08 01:38:34 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>99300796</id>
+  <body><![CDATA[Oh my Lord YES!!! Okay? Okay.]]></body>
+  
+  <user>
+    <id>26077845</id>
+    <name>Jenna Ekstrom</name>
+    <display_name>Jenna Ekstrom</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/26077845-jenna-ekstrom]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed May 28 11:00:46 -0700 2014</created_at>
+  <updated_at>Wed May 28 11:00:46 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>100483785</id>
+  <body><![CDATA[How do u read the book someone please tell me]]></body>
+  
+  <user>
+    <id>32302182</id>
+    <name>Cloey</name>
+    <display_name>Cloey Koelzer</display_name>
+
+    <location>Waunakee, WI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32302182-cloey-koelzer]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Jun 17 08:21:02 -0700 2014</created_at>
+  <updated_at>Tue Jun 17 08:21:02 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>115897001</id>
+  <body><![CDATA[This book definitely deserved all 5 stars and probably more then that. It's beautifully written and it can have you laughing at some points and crying at others. Emotion makes a book so great, and this book was very emotional and that kept me wanting to read more and more of it. I agree with you on your review completely, this book is a book that you will want to read more then once.]]></body>
+  
+  <user>
+    <id>41067847</id>
+    <name>Grace</name>
+    <display_name>Grace Johnson</display_name>
+
+    <location>Cleveland, GA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/41067847-grace-johnson]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Mar 09 20:57:37 -0700 2015</created_at>
+  <updated_at>Mon Mar 09 20:57:37 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>115897002</id>
+  <body><![CDATA[This book definitely deserved all 5 stars and probably more then that. It's beautifully written and it can have you laughing at some points and crying at others. Emotion makes a book so great, and this book was very emotional and that kept me wanting to read more and more of it. I agree with you on your review completely, this book is a book that you will want to read more then once.]]></body>
+  
+  <user>
+    <id>41067847</id>
+    <name>Grace</name>
+    <display_name>Grace Johnson</display_name>
+
+    <location>Cleveland, GA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/41067847-grace-johnson]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Mar 09 20:57:37 -0700 2015</created_at>
+  <updated_at>Mon Mar 09 20:57:37 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>129075214</id>
+  <body><![CDATA[I agree entirely John Green has such a talent! I just finished and I already want to reread it! I am not a very emotional person and it takes alot for me to cry, John Green succeeded entirely though at bringing me waterworks. At first I was weary about diving into this book just for the fact that it was a "cancer" book. I figured it would be depressing. I was wrong the book did indeed have sad parts but it had parts that made me laugh to balance out. All in all this was a great book, if I could I would give it 10 stars!]]></body>
+  
+  <user>
+    <id>43246303</id>
+    <name>Olivia</name>
+    <display_name>Olivia Buie</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/43246303-olivia-buie]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue May 19 18:53:11 -0700 2015</created_at>
+  <updated_at>Tue May 19 18:53:11 -0700 2015</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/180662369]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/180662369]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

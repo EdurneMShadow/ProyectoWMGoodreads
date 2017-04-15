@@ -1,0 +1,519 @@
+status: 200
+x-request-id: QW93P9M1XXYBZJK2926E
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=383384615&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhgxNjctMzA4MzMwMy04NDc1MjI2BjoGRVQ%3D--79ad9b96a948df83bf32563b3c53ef79a1070d04;
+ path=/; expires=Wed, 15 Apr 2037 15:16:33 -0000, locale=es;
+ path=/, _session_id2=370e08c97fcb91b65d5f7191f2c1c00f; path=/;
+ expires=Sat, 15 Apr 2017 21:16:34 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 18819
+server: Server
+x-runtime: 0.631636
+etag: W/"fe8bd0fef8767577082b122f2cf5b5d9"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:16:34 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>383384615</id>
+    
+  <user>
+    <id>9340136</id>
+    <name>Evgeny</name>
+    <display_name>Evgeny</display_name>
+
+    <location>Montreal, QC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9340136-evgeny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1349810697p3/9340136.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1349810697p2/9340136.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">5907</id>
+  <isbn>0618260307</isbn>
+  <isbn13>9780618260300</isbn13>
+  <text_reviews_count type="integer">27500</text_reviews_count>
+  <title>The Hobbit</title>
+  <title_without_series>The Hobbit</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1372847500m/5907.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1372847500s/5907.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/5907.The_Hobbit</link>
+  <num_pages>366</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Houghton Mifflin</publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.24</average_rating>
+  <ratings_count>2139201</ratings_count>
+  <description>&lt;i&gt;In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a hobbit-hole, and that means comfort.&lt;br /&gt;&lt;br /&gt;&lt;/i&gt;Written for J.R.R. Tolkien’s own children, &lt;i&gt;The Hobbit&lt;/i&gt; met with instant critical acclaim when it was first published in 1937. Now recognized as a timeless classic, this introduction to the hobbit Bilbo Baggins, the wizard Gandalf, Gollum, and the spectacular world of Middle-earth recounts of the adventures of a reluctant hero, a powerful and dangerous ring, and the cruel dragon Smaug the Magnificent. The text in this 372-page paperback edition is based on that first published in Great Britain by Collins Modern Classics (1998), and includes a note on the text by Douglas A. Anderson (2001). Unforgettable!&lt;br /&gt;</description>
+<authors>
+<author>
+<id>656983</id>
+<name>J.R.R. Tolkien</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1434625177p5/656983.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1434625177p2/656983.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
+<average_rating>4.30</average_rating>
+<ratings_count>6098482</ratings_count>
+<text_reviews_count>90948</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">105155371</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Aug 15 06:14:57 -0700 2016</created_at>
+          <updated_at type="datetime">Mon Aug 15 06:14:57 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">9</ratings_count>
+          <percent type="integer">70</percent>
+          <work_id type="integer">1540236</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">104891134</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>2</comments_count>
+          <created_at type="datetime">Fri Aug 12 06:07:33 -0700 2016</created_at>
+          <updated_at type="datetime">Fri Aug 12 06:07:39 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">39</ratings_count>
+          <percent type="integer">37</percent>
+          <work_id type="integer">1540236</work_id>
+          <note_uri>kca://note/amzn1.grok.note.e9fbbcc4c56d720d4c76bab7b282927c</note_uri>
+          <note_updated_at type="datetime">Fri Aug 12 06:07:39 -0700 2016</note_updated_at>
+          <body><![CDATA[It is funny to see a mighty wizard who fought Balrog in The Lord of the Rings on equal footing resorted to cheap tricks with burning pines to scare off wargs (and setting the whole forest on fire).]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">104800262</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Aug 11 06:01:43 -0700 2016</created_at>
+          <updated_at type="datetime">Thu Aug 11 06:01:43 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">14</ratings_count>
+          <percent type="integer">15</percent>
+          <work_id type="integer">1540236</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">1472558000</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Mon Aug 15 16:55:57 -0700 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1467080337</id>
+          <old_status>read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Thu Aug 11 06:00:16 -0700 2016</updated_at>
+          <ratings_count>3</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1259173234</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Tue Mar 01 03:37:17 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>4</rating>
+  <votes>83</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="fantasy" exclusive="false" review_shelf_id="253047874" sortable="true" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Aug 11 00:00:00 -0700 2016</started_at>
+  <read_at>Mon Aug 15 00:00:00 -0700 2016</read_at>
+  <date_added>Fri Aug 03 12:55:48 -0700 2012</date_added>
+  <date_updated>Tue Aug 16 17:35:43 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I find it hard to believe there are people who have no clue what the book is about. Still the possibility exists so I will give the high points of the plot. See there once was a hobbit (a race entirely created by Tolkien and endlessly recycled since under name halflings - for copyright reasons) n...]]>
+  </body>
+
+  
+
+  <comments_count>14</comments_count>
+    <comments start="1" end="14" total="14">
+        <comment>
+  <id>155416958</id>
+  <body><![CDATA[Enjoy My Friend! :)<br />xoxo]]></body>
+  
+  <user>
+    <id>14302918</id>
+    <name><![CDATA[Patty Belongs To Kellan~Jesse~Lautner~Miller~Garrett~Dean~Rafe~Liam~Prince Nicholas~Gianluca & Archer]]></name>
+    <display_name><![CDATA[Patty Belongs To Kellan~Jesse~Lautner~Miller~Garrett~Dean~Rafe~Liam~Prince Nicholas~Gianluca & Archer]]></display_name>
+
+    <location>Lawrence Township, NJ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14302918-patty-belongs-to-kellan-jesse-lautner-miller-garrett-dean-rafe-liam-prin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480204347p3/14302918.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480204347p2/14302918.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 11 06:17:32 -0700 2016</created_at>
+  <updated_at>Thu Aug 11 06:17:32 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155467875</id>
+  <body><![CDATA[Enjoy, I like this one :)]]></body>
+  
+  <user>
+    <id>18424676</id>
+    <name>S.M.</name>
+    <display_name>S.M. West</display_name>
+
+    <location>Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18424676-s-m-west]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480781804p3/18424676.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480781804p2/18424676.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 12 12:07:25 -0700 2016</created_at>
+  <updated_at>Fri Aug 12 12:07:25 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155563945</id>
+  <body><![CDATA[<i>Suzanne wrote: "Enjoy, I like this one :)"</i><br /><br /><i>Patty ❤️❤️ Belongs To ❤️Kellan❤️Jesse❤️Lautner❤️Miller❤️Garrett❤️Dean❤️Rafe❤️Liam❤️Beck❤️ and Archer❤️❤️ wrote: "Enjoy My Friend! :)<br />xoxo"</i><br /><br />It is still good on the second reread.]]></body>
+  
+  <user>
+    <id>9340136</id>
+    <name>Evgeny</name>
+    <display_name>Evgeny</display_name>
+
+    <location>Montreal, QC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9340136-evgeny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1349810697p3/9340136.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1349810697p2/9340136.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 15 06:24:03 -0700 2016</created_at>
+  <updated_at>Mon Aug 15 06:24:03 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155578183</id>
+  <body><![CDATA[Happy reading, hun! :)]]></body>
+  
+  <user>
+    <id>22343553</id>
+    <name>Maya</name>
+    <display_name>Maya</display_name>
+
+    <location>Slovenia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22343553-maya]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1414703989p3/22343553.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1414703989p2/22343553.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 15 12:35:35 -0700 2016</created_at>
+  <updated_at>Mon Aug 15 12:35:35 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155634630</id>
+  <body><![CDATA[Wonderful review, Evgeny. Everyone should have a copy of this book in their library. I'm looking forward to revisiting Bilbo Baggins as an adult.]]></body>
+  
+  <user>
+    <id>26876584</id>
+    <name>Joe</name>
+    <display_name>Joe Valdez</display_name>
+
+    <location>Irvine, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/26876584-joe-valdez]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1489453904p3/26876584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1489453904p2/26876584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 16 19:01:07 -0700 2016</created_at>
+  <updated_at>Tue Aug 16 19:01:07 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155641024</id>
+  <body><![CDATA[Great review. :)<br />I never felt like rereading this one, but I reread Lord of Rings for a couple of times.]]></body>
+  
+  <user>
+    <id>7951847</id>
+    <name>Caro</name>
+    <display_name>Caro M.</display_name>
+
+    <location>Vilnius, Lithuania</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7951847-caro-m]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1477993505p3/7951847.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1477993505p2/7951847.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 16 22:27:35 -0700 2016</created_at>
+  <updated_at>Tue Aug 16 22:27:35 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155660218</id>
+  <body><![CDATA[Great review hun :)]]></body>
+  
+  <user>
+    <id>28967089</id>
+    <name>Jessica&apos;s</name>
+    <display_name><![CDATA[Jessica's Totally Over The Top Book Obsession]]></display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/28967089-jessica-s-totally-over-the-top-book-obsession]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1452685490p3/28967089.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1452685490p2/28967089.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 17 11:32:57 -0700 2016</created_at>
+  <updated_at>Wed Aug 17 11:32:57 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155663706</id>
+  <body><![CDATA[Great review, Evgeny :)))))) I remembered my reading time with The Hobbit. Good old classics never dies :)]]></body>
+  
+  <user>
+    <id>43587353</id>
+    <name>Orient</name>
+    <display_name>Orient</display_name>
+
+    <location>Ukmergė, Lithuania</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/43587353-orient]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488833603p3/43587353.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488833603p2/43587353.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 17 13:10:36 -0700 2016</created_at>
+  <updated_at>Wed Aug 17 13:10:36 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155665164</id>
+  <body><![CDATA[The riddles were my favorite part of that book.]]></body>
+  
+  <user>
+    <id>3947172</id>
+    <name>Vivian</name>
+    <display_name>Vivian</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3947172-vivian]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1458107851p3/3947172.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1458107851p2/3947172.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 17 13:51:47 -0700 2016</created_at>
+  <updated_at>Wed Aug 17 13:51:47 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155831577</id>
+  <body><![CDATA[Sweet, fun and funny review Evgeny :)]]></body>
+  
+  <user>
+    <id>17295672</id>
+    <name>Jaidee</name>
+    <display_name>Jaidee</display_name>
+
+    <location>Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17295672-jaidee]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1491396364p3/17295672.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1491396364p2/17295672.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 21 20:20:31 -0700 2016</created_at>
+  <updated_at>Sun Aug 21 20:20:31 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155834873</id>
+  <body><![CDATA[Excellent review Evgeny! = ))]]></body>
+  
+  <user>
+    <id>15735368</id>
+    <name>SueBee★bring me an alpha!★</name>
+    <display_name>SueBee★bring me an alpha!★</display_name>
+
+    <location>Sweden, Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15735368-suebee-bring-me-an-alpha]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1432346392p3/15735368.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1432346392p2/15735368.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 21 22:32:07 -0700 2016</created_at>
+  <updated_at>Sun Aug 21 22:32:07 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155846425</id>
+  <body><![CDATA[Thank you everybody!!! :D]]></body>
+  
+  <user>
+    <id>9340136</id>
+    <name>Evgeny</name>
+    <display_name>Evgeny</display_name>
+
+    <location>Montreal, QC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9340136-evgeny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1349810697p3/9340136.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1349810697p2/9340136.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 22 07:27:17 -0700 2016</created_at>
+  <updated_at>Mon Aug 22 07:27:17 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>156108784</id>
+  <body><![CDATA[Fantastic review, love! Awesome pictures. :D]]></body>
+  
+  <user>
+    <id>22343553</id>
+    <name>Maya</name>
+    <display_name>Maya</display_name>
+
+    <location>Slovenia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22343553-maya]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1414703989p3/22343553.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1414703989p2/22343553.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 28 18:07:33 -0700 2016</created_at>
+  <updated_at>Sun Aug 28 18:07:33 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>156296331</id>
+  <body><![CDATA[<i>Maya wrote: "Fantastic review, love! Awesome pictures. :D"</i><br /><br />Thank you Maya!]]></body>
+  
+  <user>
+    <id>9340136</id>
+    <name>Evgeny</name>
+    <display_name>Evgeny</display_name>
+
+    <location>Montreal, QC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9340136-evgeny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1349810697p3/9340136.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1349810697p2/9340136.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 02 09:06:09 -0700 2016</created_at>
+  <updated_at>Fri Sep 02 09:06:09 -0700 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/383384615]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/383384615]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

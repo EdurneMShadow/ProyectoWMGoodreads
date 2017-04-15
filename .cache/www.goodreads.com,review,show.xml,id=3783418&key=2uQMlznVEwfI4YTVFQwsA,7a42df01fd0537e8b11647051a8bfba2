@@ -1,0 +1,739 @@
+status: 200
+x-request-id: QQR8TBDVAPSWAFHNBZXQ
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=3783418&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhg2NDgtNDI3NzIwNC04OTU4NDI1BjoGRVQ%3D--2d5ba2e05903912bacc97bf1fa410494b9e98218;
+ path=/; expires=Wed, 15 Apr 2037 15:44:11 -0000, locale=es;
+ path=/, _session_id2=8257762062b057e1634edcf8237fe0e6; path=/;
+ expires=Sat, 15 Apr 2017 21:44:12 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 26858
+server: Server
+x-runtime: 0.336595
+etag: W/"aa307acaf3ecfd0ac66a9f888663d3b9"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:44:12 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>3783418</id>
+    
+  <user>
+    <id>230734</id>
+    <name>Maura</name>
+    <display_name>Maura</display_name>
+
+    <location>Lansing, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/230734-maura]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1186507152p3/230734.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1186507152p2/230734.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">968</id>
+  <isbn>0307277674</isbn>
+  <isbn13>9780307277671</isbn13>
+  <text_reviews_count type="integer">32769</text_reviews_count>
+  <title>The Da Vinci Code (Robert Langdon, #2)</title>
+  <title_without_series>The Da Vinci Code</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1303252999m/968.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1303252999s/968.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/968.The_Da_Vinci_Code</link>
+  <num_pages>481</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Anchor</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.78</average_rating>
+  <ratings_count>1524831</ratings_count>
+  <description>An ingenious code hidden in the works of Leonardo da Vinci. A desperate race through the cathedrals and castles of Europe. An astonishing truth concealed for centuries . . . unveiled at last.&lt;br /&gt;&lt;br /&gt;While in Paris, Harvard symbologist Robert Langdon is awakened by a phone call in the dead of the night. The elderly curator of the Louvre has been murdered inside the museum, his body covered in baffling symbols. As Langdon and gifted French cryptologist Sophie Neveu sort through the bizarre riddles, they are stunned to discover a trail of clues hidden in the works of Leonardo da Vinci—clues visible for all to see and yet ingeniously disguised by the painter.&lt;br /&gt;&lt;br /&gt;Even more startling, the late curator was involved in the Priory of Sion—a secret society whose members included Sir Isaac Newton, Victor Hugo, and Da Vinci—and he guarded a breathtaking historical secret. Unless Langdon and Neveu can decipher the labyrinthine puzzle—while avoiding the faceless adversary who shadows their every move—the explosive, ancient truth will be lost forever.</description>
+<authors>
+<author>
+<id>630</id>
+<name>Dan Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p5/630.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p2/630.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/630.Dan_Brown]]></link>
+<average_rating>3.77</average_rating>
+<ratings_count>5177586</ratings_count>
+<text_reviews_count>138137</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1217188807</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Jan 31 17:43:40 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>113</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for><![CDATA[someone interested in a completely mindless beach read]]></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sat Jul 01 00:00:00 -0700 2006</read_at>
+  <date_added>Mon Jul 30 06:59:04 -0700 2007</date_added>
+  <date_updated>Thu Jan 09 22:58:39 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I've finally started reading that ever so controversial best-seller by Dan Brown. Actually, not reading it, listening to it while driving around Lansing, MI. This book seems to have changed the minds of many Catholics (my grandfather included) and Protestants alike. Granted, there have long been...]]>
+  </body>
+
+  
+
+  <comments_count>27</comments_count>
+    <comments start="1" end="27" total="27">
+        <comment>
+  <id>1178381</id>
+  <body><![CDATA[yeah i strongly support maura's motion...]]></body>
+  
+  <user>
+    <id>1315379</id>
+    <name>Rozenekane</name>
+    <display_name>Rozenekane</display_name>
+
+    <location>Kiribati</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1315379-rozenekane]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 09 23:29:34 -0700 2008</created_at>
+  <updated_at>Wed Jul 09 23:29:34 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1295812</id>
+  <body><![CDATA[Well the consensus disagrees with you. There's a reason some novels attain this kind of success, acclaim, and sales]]></body>
+  
+  <user>
+    <id>771711</id>
+    <name>Tyler</name>
+    <display_name>Tyler</display_name>
+
+    <location>Dallas, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/771711-tyler]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1200157004p3/771711.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1200157004p2/771711.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 23 09:53:35 -0700 2008</created_at>
+  <updated_at>Wed Jul 23 09:53:35 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1296975</id>
+  <body><![CDATA[I agree that there's a reason that type of novel attains "success, acclaim, and sales." It's because people want to read fluff. No one wants to work for meaning anymore. Why do you think Dean Koontz is so popular?<br /><br />Just my opinion.]]></body>
+  
+  <user>
+    <id>230734</id>
+    <name>Maura</name>
+    <display_name>Maura</display_name>
+
+    <location>Lansing, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/230734-maura]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1186507152p3/230734.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1186507152p2/230734.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 23 11:35:29 -0700 2008</created_at>
+  <updated_at>Wed Jul 23 11:35:29 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1297176</id>
+  <body><![CDATA[Right and only the obscure and unnoticed can be acclaimed. no chance you would have written this review had it become such smash success. This by no means was fluff, it's well-written and not a guilty pleasure beach read you write it off as.]]></body>
+  
+  <user>
+    <id>771711</id>
+    <name>Tyler</name>
+    <display_name>Tyler</display_name>
+
+    <location>Dallas, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/771711-tyler]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1200157004p3/771711.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1200157004p2/771711.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 23 11:50:25 -0700 2008</created_at>
+  <updated_at>Wed Jul 23 11:50:25 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1727262</id>
+  <body><![CDATA[I agree. Well written review! ]]></body>
+  
+  <user>
+    <id>1346396</id>
+    <name>Kylie</name>
+    <display_name>Kylie</display_name>
+
+    <location>Distrito Federal, Mexico</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1346396-kylie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1342709180p3/1346396.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1342709180p2/1346396.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 05 04:04:48 -0700 2008</created_at>
+  <updated_at>Fri Sep 05 04:04:48 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>6552283</id>
+  <body><![CDATA[Thats just stupid. Its stupid to hate the Da Vinci Code.]]></body>
+  
+  <created_at>Sun Jun 14 21:10:17 -0700 2009</created_at>
+  <updated_at>Sun Jun 14 21:10:17 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>7204367</id>
+  <body><![CDATA[This book was indeed fluff, and quite frankly, I'm quite surprised anyone is taking it seriously. It was a fun weekend diversion, but nothing profound or Earth shattering, unless you are on a steady diet of JK Rowling, John Grisham, and Dean Koontz. ]]></body>
+  
+  <user>
+    <id>1776526</id>
+    <name>Stephen</name>
+    <display_name>Stephen Dmytriw</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1776526-stephen-dmytriw]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1245215894p3/1776526.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1245215894p2/1776526.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jul 06 16:36:50 -0700 2009</created_at>
+  <updated_at>Mon Jul 06 16:36:50 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>9568597</id>
+  <body><![CDATA[I guess you could say it's stupid to hate The DaVinci Code, but only because it's just a dumb pulp novel and not worth the effort of hating. It's too silly of a book to hate. But it's perfectly logical to hate the asinine hype the surrounded this silly, pulpy book for so long. At least John Grisham and Dean Koontz are somewhat entertaining pulp writers.<br /><br />Still, I can easily believe that people loved this book, because I can turn on the t.v. and see COPS day of the week. If there's a place in the world for COPS, then I suppose there's a place near it for The DaVinci Code. <br /><br />I don't think that Americans are stupid, but I do think that people mostly aren't taught how to think critically. As a result, I think people are conditioned to accept and even embrace a lot of dross, while those who don't are accused of being elitists. ]]></body>
+  
+  <user>
+    <id>406662</id>
+    <name>Lauryl</name>
+    <display_name>Lauryl</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/406662-lauryl]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1451712125p3/406662.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1451712125p2/406662.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Sep 24 19:43:02 -0700 2009</created_at>
+  <updated_at>Thu Sep 24 19:43:02 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10646910</id>
+  <body><![CDATA[Well written review!! Thank you! I also think it's a piece of crap.]]></body>
+  
+  <user>
+    <id>2911868</id>
+    <name>Charmain</name>
+    <display_name>Charmain</display_name>
+
+    <location>Gauteng, South Africa</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2911868-charmain]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1257409488p3/2911868.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1257409488p2/2911868.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Nov 05 04:41:42 -0800 2009</created_at>
+  <updated_at>Thu Nov 05 04:41:42 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>18102445</id>
+  <body><![CDATA[even if the book was bad the question still remains for everyone to take a stand.]]></body>
+  
+  <user>
+    <id>1355763</id>
+    <name>Zeeshan</name>
+    <display_name>Zeeshan</display_name>
+
+    <location>Calcutta, 28, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1355763-zeeshan]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat Jun 26 06:19:28 -0700 2010</created_at>
+  <updated_at>Sat Jun 26 06:19:28 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>18110768</id>
+  <body><![CDATA[@Zeeshan: I'm not exactly sure what you mean. What question are we taking a stand on?]]></body>
+  
+  <user>
+    <id>406662</id>
+    <name>Lauryl</name>
+    <display_name>Lauryl</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/406662-lauryl]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1451712125p3/406662.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1451712125p2/406662.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jun 26 12:39:09 -0700 2010</created_at>
+  <updated_at>Sat Jun 26 12:39:09 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>21087842</id>
+  <body><![CDATA[lot of hypocrisy in this review you people never be broad minded]]></body>
+  
+  <user>
+    <id>2269098</id>
+    <name>Ravikiran</name>
+    <display_name>Ravikiran moturi</display_name>
+
+    <location>Hyderabad, 02, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2269098-ravikiran-moturi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1285256767p3/2269098.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1285256767p2/2269098.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Sep 19 03:09:10 -0700 2010</created_at>
+  <updated_at>Sun Sep 19 03:09:10 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>44985969</id>
+  <body><![CDATA[Am actually not quite a fan of novel reading. But this novel really changed my way of viewing things. To contribute . Believing writing document by someone like you and I who happened not to exit when this stories that are]]></body>
+  
+  <user>
+    <id>6739425</id>
+    <name>Damian</name>
+    <display_name>Damian</display_name>
+
+    <location>stockholm, 26, Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6739425-damian]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1324615593p3/6739425.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1324615593p2/6739425.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Feb 09 14:07:02 -0800 2012</created_at>
+  <updated_at>Thu Feb 09 14:07:02 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>44986114</id>
+  <body><![CDATA[Written for the purpose of making money I think is unreasonable .]]></body>
+  
+  <user>
+    <id>6739425</id>
+    <name>Damian</name>
+    <display_name>Damian</display_name>
+
+    <location>stockholm, 26, Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6739425-damian]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1324615593p3/6739425.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1324615593p2/6739425.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Feb 09 14:09:26 -0800 2012</created_at>
+  <updated_at>Thu Feb 09 14:09:26 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>46992707</id>
+  <body><![CDATA["The book is crap. It's not at all well written."<br /><br />Much bitterness here...<br />The book is well-written. <br />Who are you to declare it's not badly written?<br />Because you declare it as if fact. So, with what can you back up your allegation? It's up to the accuser to bring proof...]]></body>
+  
+  <user>
+    <id>7924170</id>
+    <name>Tatiana</name>
+    <display_name>Tatiana</display_name>
+
+    <location>France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7924170-tatiana]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1393981685p3/7924170.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1393981685p2/7924170.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 14 20:22:48 -0700 2012</created_at>
+  <updated_at>Wed Mar 14 20:22:48 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47031695</id>
+  <body><![CDATA[Actually, it's her opinion that the book is crap, and not well-written. In a book review, the idea that these are one person's opinions is implicit. <br /><br />However, I have to agree with her. I thought the book was poorly written as well.]]></body>
+  
+  <user>
+    <id>406662</id>
+    <name>Lauryl</name>
+    <display_name>Lauryl</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/406662-lauryl]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1451712125p3/406662.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1451712125p2/406662.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Mar 15 15:02:32 -0700 2012</created_at>
+  <updated_at>Thu Mar 15 15:02:32 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47091524</id>
+  <body><![CDATA[An opinion would be: I didn't like the style of writing.<br /><br />Saying "the book is badly written" is NOT a mere opinion.]]></body>
+  
+  <user>
+    <id>7924170</id>
+    <name>Tatiana</name>
+    <display_name>Tatiana</display_name>
+
+    <location>France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7924170-tatiana]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1393981685p3/7924170.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1393981685p2/7924170.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 16 15:32:39 -0700 2012</created_at>
+  <updated_at>Fri Mar 16 15:32:39 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>71673165</id>
+  <body><![CDATA[Well this book it got me to read it out of curiosity and I am grateful for that. As with music there are all sorts for different moments, the same applies for literature.]]></body>
+  
+  <user>
+    <id>18689933</id>
+    <name>Diego</name>
+    <display_name>Diego Palomino</display_name>
+
+    <location>Temple City, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18689933-diego-palomino]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1378574672p3/18689933.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1378574672p2/18689933.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Apr 08 21:51:30 -0700 2013</created_at>
+  <updated_at>Mon Apr 08 21:51:30 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73845409</id>
+  <body><![CDATA[its not for those who want to live in a lie]]></body>
+  
+  <user>
+    <id>10891205</id>
+    <name>Ann</name>
+    <display_name>Ann</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10891205-ann]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1353866184p3/10891205.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1353866184p2/10891205.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri May 10 13:59:31 -0700 2013</created_at>
+  <updated_at>Fri May 10 13:59:31 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>74264355</id>
+  <body><![CDATA[<a target="_blank" href="http://www.telegraph.co.uk/culture/10049454/Dont-make-fun-of-renowned-Dan-Brown.html" rel="nofollow">http://www.telegraph.co.uk/culture/10...</a>]]></body>
+  
+  <user>
+    <id>406662</id>
+    <name>Lauryl</name>
+    <display_name>Lauryl</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/406662-lauryl]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1451712125p3/406662.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1451712125p2/406662.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 16 21:42:46 -0700 2013</created_at>
+  <updated_at>Thu May 16 21:42:46 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>74264517</id>
+  <body><![CDATA[I am hereby relieved of my public duty to make fun of Dan Brown. The above article says everything that needs to be said.]]></body>
+  
+  <user>
+    <id>406662</id>
+    <name>Lauryl</name>
+    <display_name>Lauryl</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/406662-lauryl]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1451712125p3/406662.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1451712125p2/406662.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 16 21:48:48 -0700 2013</created_at>
+  <updated_at>Thu May 16 21:48:48 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>101515029</id>
+  <body><![CDATA[if ya gotta hate, please don't commentate]]></body>
+  
+  <user>
+    <id>32638643</id>
+    <name>David</name>
+    <display_name>David Bein</display_name>
+
+    <location>Wheaton, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32638643-david-bein]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 03 13:37:53 -0700 2014</created_at>
+  <updated_at>Thu Jul 03 13:37:53 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>115302133</id>
+  <body><![CDATA[In fact, the Priory of Sion myth was invented by an arrogant anti-Semite called Pierre Plantard and debunked long before Brown swaggered onto the scene.]]></body>
+  
+  <user>
+    <id>35008235</id>
+    <name>Dido</name>
+    <display_name>Dido AuLeFer</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/35008235-dido-aulefer]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1453729765p3/35008235.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1453729765p2/35008235.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 27 05:57:18 -0800 2015</created_at>
+  <updated_at>Fri Feb 27 05:57:18 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>119055187</id>
+  <body><![CDATA[nice rreview.<br />but personaly loved the bookk and angels and demons...<br />to eeach his own...i guess]]></body>
+  
+  <user>
+    <id>15034383</id>
+    <name>siriusedward</name>
+    <display_name>siriusedward</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15034383-siriusedward]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1361371711p3/15034383.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1361371711p2/15034383.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon May 11 10:32:36 -0700 2015</created_at>
+  <updated_at>Mon May 11 10:32:36 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>129906923</id>
+  <body><![CDATA[i agree with your review]]></body>
+  
+  <user>
+    <id>24431232</id>
+    <name>David</name>
+    <display_name>David Dapaah</display_name>
+
+    <location>Ghana</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24431232-david-dapaah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1380824509p3/24431232.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1380824509p2/24431232.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 05 12:59:25 -0700 2015</created_at>
+  <updated_at>Fri Jun 05 12:59:25 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>143491541</id>
+  <body><![CDATA[Oh, listen to audio books all the time.]]></body>
+  
+  <user>
+    <id>41752458</id>
+    <name>Ellen</name>
+    <display_name>Ellen</display_name>
+
+    <location>Milton, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/41752458-ellen]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 27 23:24:41 -0800 2015</created_at>
+  <updated_at>Fri Nov 27 23:24:41 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>146670513</id>
+  <body><![CDATA[I'm not religious, and I know that Mary was the Immaculate Conception! And art historians have debunked much of what Dan Brown writes in "The Da Vinci Code". The writing is horrible.]]></body>
+  
+  <user>
+    <id>35008235</id>
+    <name>Dido</name>
+    <display_name>Dido AuLeFer</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/35008235-dido-aulefer]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1453729765p3/35008235.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1453729765p2/35008235.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 27 01:48:57 -0800 2016</created_at>
+  <updated_at>Wed Jan 27 01:48:57 -0800 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/3783418]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3783418]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

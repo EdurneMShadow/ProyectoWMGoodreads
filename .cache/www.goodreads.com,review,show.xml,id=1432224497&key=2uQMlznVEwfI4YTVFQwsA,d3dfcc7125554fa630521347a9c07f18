@@ -1,0 +1,215 @@
+status: 200
+x-request-id: 4QYT5H0ZNFER2BZW31EZ
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=1432224497&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhgxNDYtNjQ3NjYxOC04NjQzMjA1BjoGRVQ%3D--1d9edf24a6b9586e064788c6608628d9c1aab2eb;
+ path=/; expires=Wed, 15 Apr 2037 15:41:13 -0000, locale=es;
+ path=/, _session_id2=9940f1d38768a14fd315d1d17bc17426; path=/;
+ expires=Sat, 15 Apr 2017 21:41:13 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 7363
+server: Server
+x-runtime: 0.293283
+etag: W/"e4508f50f3f159b49ce2657ec871b5c5"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:41:13 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1432224497</id>
+    
+  <user>
+    <id>29755501</id>
+    <name>Allan</name>
+    <display_name>Allan Walsh</display_name>
+
+    <location>Brisbane, 04, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/29755501-allan-walsh]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1427852243p3/29755501.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1427852243p2/29755501.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">2880</id>
+  <isbn>1591164419</isbn>
+  <isbn13>9781591164418</isbn13>
+  <text_reviews_count type="integer">828</text_reviews_count>
+  <title>Bleach, Volume 01</title>
+  <title_without_series>Bleach, Volume 01</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2880.Bleach_Volume_01</link>
+  <num_pages>200</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>VIZ Media LLC</publisher>
+  <publication_day>19</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.21</average_rating>
+  <ratings_count>116394</ratings_count>
+  <description>Hot-tempered 15-year-old Ichigo Kurosaki, the hero of the popular fantasy-adventure &lt;i&gt;
+  &lt;b&gt;
+    &lt;u&gt;Bleach&lt;/u&gt;
+  &lt;/b&gt;
+&lt;/i&gt;, has the unsettling ability to see spirits who are unable to rest in peace. His sixth sense leads him to Rukia, a Soul Reaper who destroys &lt;i&gt;Hollows&lt;/i&gt; (soul-devouring monsters) and ensures the deceased find repose with the Soul Society. When she's injured in battle, Rukia transfers her sword and much of her power to Ichigo, whose spiritual energy makes him a formidable substitute Soul Reaper. But the orange-haired teenager isn't sure he wants the job: too many risks and moral dilemmas.</description>
+<authors>
+<author>
+<id>1977</id>
+<name>Tite Kubo</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1253238688p5/1977.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1253238688p2/1977.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1977.Tite_Kubo]]></link>
+<average_rating>4.28</average_rating>
+<ratings_count>386412</ratings_count>
+<text_reviews_count>4523</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1059201040</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Tue Nov 03 01:24:55 -0800 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1059200969</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Tue Nov 03 01:24:45 -0800 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>4</rating>
+  <votes>2</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="manga" exclusive="false" review_shelf_id="1516433063" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Nov 03 00:00:00 -0800 2015</started_at>
+  <read_at>Tue Nov 03 00:00:00 -0800 2015</read_at>
+  <date_added>Tue Nov 03 01:24:45 -0800 2015</date_added>
+  <date_updated>Fri Dec 30 02:35:43 -0800 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Okay, I’m a little behind on my Goodreads reading challenge and need to make up some ground. So I have switched to Manga for my next review. Bleach Vol 1 starts the story of Ichigo Kurosaki, a boy who sees ghosts. An unexpected encounter with Rukia Kuchiki and Ichigo becomes a Soul Reaper, huntin...]]>
+  </body>
+
+  
+
+  <comments_count>3</comments_count>
+    <comments start="1" end="3" total="3">
+        <comment>
+  <id>142317621</id>
+  <body><![CDATA[I'm a longtime Bleach fan, so I'm glad to hear you liked it.]]></body>
+  
+  <user>
+    <id>4543220</id>
+    <name>Daniel</name>
+    <display_name>Daniel Ferguson</display_name>
+
+    <location>Brisbane, 04, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4543220-daniel-ferguson]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1490934162p3/4543220.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1490934162p2/4543220.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 03 01:44:38 -0800 2015</created_at>
+  <updated_at>Tue Nov 03 01:44:38 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>142319123</id>
+  <body><![CDATA[Thanks Dan, my niece used to love Bleach too, not sure why it took me so long to get to it, but it was good fun to read and I will be reading the rest of them for sure.]]></body>
+  
+  <user>
+    <id>29755501</id>
+    <name>Allan</name>
+    <display_name>Allan Walsh</display_name>
+
+    <location>Brisbane, 04, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/29755501-allan-walsh]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1427852243p3/29755501.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1427852243p2/29755501.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 03 03:31:16 -0800 2015</created_at>
+  <updated_at>Tue Nov 03 03:31:16 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>142320485</id>
+  <body><![CDATA[They're up to the final arc in the manga, pretty sure they're up to the second-final one in the anime but I'll have to see at JB.]]></body>
+  
+  <user>
+    <id>4543220</id>
+    <name>Daniel</name>
+    <display_name>Daniel Ferguson</display_name>
+
+    <location>Brisbane, 04, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4543220-daniel-ferguson]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1490934162p3/4543220.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1490934162p2/4543220.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 03 04:40:12 -0800 2015</created_at>
+  <updated_at>Tue Nov 03 04:40:12 -0800 2015</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1432224497]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1432224497]]></link>
+    <owned>1</owned>
+</review>
+
+
+</GoodreadsResponse>

@@ -1,0 +1,1532 @@
+status: 200
+x-request-id: B3B3TFT18DTM99TFBETZ
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=890184169&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhgyNTktMDcyMTEyMi00MzY4OTYwBjoGRVQ%3D--1eea516a2b7391e9d686d574c322078b9480dd14;
+ path=/; expires=Wed, 15 Apr 2037 17:01:55 -0000, locale=es;
+ path=/, _session_id2=8b8821257d6b1ed7dec3335e0f83f547; path=/;
+ expires=Sat, 15 Apr 2017 23:01:55 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 84057
+server: Server
+x-runtime: 0.906373
+etag: W/"861391fdd71def51ed25501435a8ba56"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 17:01:55 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>890184169</id>
+    
+  <user>
+    <id>25353295</id>
+    <name>Carmen</name>
+    <display_name>Carmen</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25353295-carmen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1412617445p3/25353295.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1412617445p2/25353295.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">14743396</id>
+  <isbn>9781435136</isbn>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">53</text_reviews_count>
+  <title>Frankenstein</title>
+  <title_without_series>Frankenstein</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1415246981m/14743396.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1415246981s/14743396.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/14743396-frankenstein</link>
+  <num_pages>207</num_pages>
+  <format>Leather Bound</format>
+  <edition_information/>
+  <publisher>Barnes &amp; Noble, Inc.</publisher>
+  <publication_day/>
+  <publication_year>2012</publication_year>
+  <publication_month/>
+  <average_rating>3.75</average_rating>
+  <ratings_count>855238</ratings_count>
+  <description>Mary Shelley’s Frankenstein is the world’s most famous Gothic novel about eccentric scientist Victor Frankenstein, who creates a grotesque creature in an unorthodox scientific experiment. Shelley's work is considered to be the world's first science fiction, with Frankenstein’s monster being a symbol of science gone awry. Shelley’s masterpiece has inspired numerous films, plays and other books. This, the 1831 edition, contains the author’s final revisions.</description>
+<authors>
+<author>
+<id>11139</id>
+<name>Mary Wollstonecraft Shelley</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p5/11139.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p2/11139.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/11139.Mary_Wollstonecraft_Shelley]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>877806</ratings_count>
+<text_reviews_count>20767</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">113177389</id>
+          <page type="integer">206</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Nov 17 21:49:44 -0800 2016</created_at>
+          <updated_at type="datetime">Thu Nov 17 21:49:46 -0800 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">4</ratings_count>
+          <percent type="integer">99</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.4f2eb9be58d51336664bf5c7285a9c9c</note_uri>
+          <note_updated_at type="datetime">Thu Nov 17 21:49:46 -0800 2016</note_updated_at>
+          <body><![CDATA[<i>"I, the miserable and the abandoned, am an abortion, to be spurned at, and kicked, and trampled on."</i>]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">113175076</id>
+          <page type="integer">195</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Nov 17 21:00:46 -0800 2016</created_at>
+          <updated_at type="datetime">Thu Nov 17 21:00:47 -0800 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">8</ratings_count>
+          <percent type="integer">94</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.77aa64059f142e89923233ef324f3829</note_uri>
+          <note_updated_at type="datetime">Thu Nov 17 21:00:47 -0800 2016</note_updated_at>
+          <body><![CDATA[<i>What a glorious creature must he have been in the days of his prosperity, when he is thus noble and godlike in ruin! He seems to feel his own worth, and the greatness of his fall.</i><br /><br />UGH. *rolls eyes*]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">113173037</id>
+          <page type="integer">194</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Nov 17 20:27:33 -0800 2016</created_at>
+          <updated_at type="datetime">Thu Nov 17 20:27:48 -0800 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">93</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.1378eb7a59dd78f5162d2613c24fff34</note_uri>
+          <note_updated_at type="datetime">Thu Nov 17 20:27:48 -0800 2016</note_updated_at>
+          <body><![CDATA[<i>"Are you mad, my friend?" said he' "or whither does your senseless curiosity lead you? Would you also create for yourself and the world a demoniacal enemy? Peace, peace! learn my miseries, and do not seek to increase your own."</i>]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">113172414</id>
+          <page type="integer">182</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Nov 17 20:17:59 -0800 2016</created_at>
+          <updated_at type="datetime">Thu Nov 17 20:18:44 -0800 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">87</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.77157e7e2700823faaf6ca6aa756d4c5</note_uri>
+          <note_updated_at type="datetime">Thu Nov 17 20:18:44 -0800 2016</note_updated_at>
+          <body><![CDATA[<i>I hired men to row and took an oar myself; for I had always experienced relief from mental torment in bodily exercise. ...<br /><br />Nothing is so painful to the human mind as a great a sudden change. The sun might shine, or the clouds might lower, but nothing could appear to me as it had done the day before.</i>]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">112938001</id>
+          <page type="integer">176</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Nov 15 03:24:51 -0800 2016</created_at>
+          <updated_at type="datetime">Tue Nov 15 03:24:53 -0800 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">10</ratings_count>
+          <percent type="integer">85</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.29e1f214a86b6f9403dd1a70129f2b2a</note_uri>
+          <note_updated_at type="datetime">Tue Nov 15 03:24:53 -0800 2016</note_updated_at>
+          <body><![CDATA[<i>But, as if possessed of magic powers, the monster had blinded me to his real intentions...</i><br /><br />No, you're just stupid.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">112937828</id>
+          <page type="integer">171</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Nov 15 03:20:34 -0800 2016</created_at>
+          <updated_at type="datetime">Tue Nov 15 03:20:52 -0800 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">2</ratings_count>
+          <percent type="integer">82</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.926d3534215fbf4e278db42591c46578</note_uri>
+          <note_updated_at type="datetime">Tue Nov 15 03:20:52 -0800 2016</note_updated_at>
+          <body><![CDATA[<i>But, besides, I could not bring myself to disclose a secret which would fill my hearer with consternation, and make fear and unnatural horror the inmates of his breast. I checked, therefore, my impatient thirst for sympathy, and was silent when I would have given the world to have confided the fatal secret. Yet still words like these I have recorded would burst uncontrollably from me. I could offer no explanation</i>]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">112937607</id>
+          <page type="integer">167</page>
+          <chapter type="integer"></chapter>
+          <comments_count>1</comments_count>
+          <created_at type="datetime">Tue Nov 15 03:14:07 -0800 2016</created_at>
+          <updated_at type="datetime">Tue Nov 15 03:14:50 -0800 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">3</ratings_count>
+          <percent type="integer">80</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.abc03d4b9f66e1c4fa37c83415c667b8</note_uri>
+          <note_updated_at type="datetime">Tue Nov 15 03:14:50 -0800 2016</note_updated_at>
+          <body><![CDATA[<i>...for to me the walls of a dungeon or a palace were alike hateful. The cup of life was poisoned for ever; and although the sun shone upon me, as upon the happy and gay of heart, I saw around me nothing but a dense and frightful darkness, penetrated by no light but the glimmer of two eyes that glared upon me. Sometimes they were the expressive eyes of 00000, languishing in death, the dark orbs nearly covered by</i>]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">112937531</id>
+          <page type="integer">166</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Nov 15 03:11:43 -0800 2016</created_at>
+          <updated_at type="datetime">Tue Nov 15 03:11:52 -0800 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">80</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.29023d7711da366dab662e079a1aff56</note_uri>
+          <note_updated_at type="datetime">Tue Nov 15 03:11:52 -0800 2016</note_updated_at>
+          <body><![CDATA[<i>Alas! why did they preserve so miserable and detested a life? It was surely that I might fill my destiny, which is now drawing to a close. Soon, oh! very soon, will death extinguish these throbbings, and relieve me from the mighty weight of anguish that bears me to dust; and, in executing the award of justice, I shall also sink to rest.</i>]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">112912355</id>
+          <page type="integer">162</page>
+          <chapter type="integer"></chapter>
+          <comments_count>1</comments_count>
+          <created_at type="datetime">Mon Nov 14 18:45:38 -0800 2016</created_at>
+          <updated_at type="datetime">Mon Nov 14 18:45:54 -0800 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">10</ratings_count>
+          <percent type="integer">78</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.d02215429db046a82aabca5b0aabdac3</note_uri>
+          <note_updated_at type="datetime">Mon Nov 14 18:45:54 -0800 2016</note_updated_at>
+          <body><![CDATA[<i>Why did I not die? More miserable than man ever was before, why did I not sink into forgetfulness and rest? Death snatches away many blooming children, the only hopes of their doating parents: how many brides and youthful lovers have been one day in the bloom of health and hope, and the next a prey for worms and the decay of the tomb! Of what materials was I made, that I could thus resist so many shocks, which,</i>]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">112909787</id>
+          <page type="integer">159</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Nov 14 18:09:31 -0800 2016</created_at>
+          <updated_at type="datetime">Mon Nov 14 18:09:54 -0800 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">8</ratings_count>
+          <percent type="integer">76</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.611180bb6f2d8ac4fea49863c4733881</note_uri>
+          <note_updated_at type="datetime">Mon Nov 14 18:09:54 -0800 2016</note_updated_at>
+          <body><![CDATA[<i>Little did I then expect the calamity that was in a few moments to overwhelm me, and extinguish in horror and despair all fear of ignominy or death.</i>]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">112909719</id>
+          <page type="integer">158</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Nov 14 18:08:43 -0800 2016</created_at>
+          <updated_at type="datetime">Mon Nov 14 18:08:54 -0800 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">3</ratings_count>
+          <percent type="integer">76</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.590de1e7e1fe00e27c373293f802cdb5</note_uri>
+          <note_updated_at type="datetime">Mon Nov 14 18:08:54 -0800 2016</note_updated_at>
+          <body><![CDATA[<i>How mutable are our feelings, and how strange is that clinging love we have of life even in the excess of misery!</i>]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">112775394</id>
+          <page type="integer">157</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sun Nov 13 08:13:24 -0800 2016</created_at>
+          <updated_at type="datetime">Sun Nov 13 08:14:17 -0800 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">13</ratings_count>
+          <percent type="integer">75</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.f9ac473d71eff21408835596fb3e74c9</note_uri>
+          <note_updated_at type="datetime">Sun Nov 13 08:14:17 -0800 2016</note_updated_at>
+          <body><![CDATA[Then the good doctor decides to row a boat out four miles and then take a nap. Of course he wakes up in the middle of the ocean and is terrified of dying. What on earth was he thinking?!? I've never seen such a stupid individual. He's really SO DUMB. It's hard for me to believe he's this dumb, especially taking into account how many COMPLETELY STUPID things he's done so far in this book. It's baffling.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">112775147</id>
+          <page type="integer">154</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sun Nov 13 08:08:41 -0800 2016</created_at>
+          <updated_at type="datetime">Sun Nov 13 08:09:18 -0800 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">2</ratings_count>
+          <percent type="integer">74</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.938d38954f52942654071725827e6812</note_uri>
+          <note_updated_at type="datetime">Sun Nov 13 08:09:18 -0800 2016</note_updated_at>
+          <body><![CDATA[You're a fucking idiot if you can't understand his threat, Frankenstein. My mind boggles. o.O]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">112750870</id>
+          <page type="integer">153</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Nov 12 22:35:35 -0800 2016</created_at>
+          <updated_at type="datetime">Sat Nov 12 22:36:18 -0800 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">15</ratings_count>
+          <percent type="integer">73</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.cef381b6e9ab23c15551f4970ce5fee1</note_uri>
+          <note_updated_at type="datetime">Sat Nov 12 22:36:18 -0800 2016</note_updated_at>
+          <body><![CDATA[<i>"Remember that I have power; you believe yourself miserable, but I can make you so wretched that the light of day will be hateful to you. <br /><br />YOU ARE MY CREATOR, BUT I AM YOUR MASTER - OBEY!"</i><br /><br />Far out!]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">112750748</id>
+          <page type="integer">151</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Nov 12 22:32:40 -0800 2016</created_at>
+          <updated_at type="datetime">Sat Nov 12 22:33:18 -0800 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">72</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.2cd890d760f73afdcdaf61ddf3499418</note_uri>
+          <note_updated_at type="datetime">Sat Nov 12 22:33:18 -0800 2016</note_updated_at>
+          <body><![CDATA[Finally, the free will of the female is discussed.<br /><br />Also, if you don't want them to have babies just don't give her a uterus.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">112750499</id>
+          <page type="integer">146</page>
+          <chapter type="integer"></chapter>
+          <comments_count>1</comments_count>
+          <created_at type="datetime">Sat Nov 12 22:26:30 -0800 2016</created_at>
+          <updated_at type="datetime">Sat Nov 12 22:27:17 -0800 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">70</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.6f239943cef5f2ae35c57cf5f07e0604</note_uri>
+          <note_updated_at type="datetime">Sat Nov 12 22:27:17 -0800 2016</note_updated_at>
+          <body><![CDATA[<i>I was formed for peaceful happiness. During my youthful days discontent never visited my mind; and if I was ever overcome by ennui, the sight of what is beautiful in nature, or the study of what is excellent and sublime in the productions of man, could always interest my heart, and communicate elasticity to my spirits. But I am a blasted tree; the bolt has entered my soul; and I felt then that I should survive to</i>]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">112750284</id>
+          <page type="integer">143</page>
+          <chapter type="integer"></chapter>
+          <comments_count>1</comments_count>
+          <created_at type="datetime">Sat Nov 12 22:21:11 -0800 2016</created_at>
+          <updated_at type="datetime">Sat Nov 12 22:21:19 -0800 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">69</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.aed74e2695c598be2f2018580e4ea95b</note_uri>
+          <note_updated_at type="datetime">Sat Nov 12 22:21:19 -0800 2016</note_updated_at>
+          <body><![CDATA[<i>"And where does he now exist? Is this gentle and lovely being lost for ever? Has this mind, so replete with ideas, imaginations fanciful and magnificent, which formed a world, whose existence depended on the life of its creator - has this mind perished? Does it now only exist in my memory? No, it is not thus; your form so divinely wrought, and beaming with beauty, has decayed, but your spirit still visits and</i>]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">112735600</id>
+          <page type="integer">135</page>
+          <chapter type="integer"></chapter>
+          <comments_count>8</comments_count>
+          <created_at type="datetime">Sat Nov 12 17:45:34 -0800 2016</created_at>
+          <updated_at type="datetime">Sat Nov 12 17:46:19 -0800 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">6</ratings_count>
+          <percent type="integer">65</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.14c7eedfc116848e734b3943169db3f4</note_uri>
+          <note_updated_at type="datetime">Sat Nov 12 17:46:19 -0800 2016</note_updated_at>
+          <body><![CDATA[<i>Yet even thus I loved them to adoration; and to save them, I resolved to dedicate myself to my most abhorred task. The prospect of such an occupation made every other circumstance of existence pass before me like a dream, and that thought only had to me the reality of life.</i><br /><br />This writing! Shelley is tops.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">112552469</id>
+          <page type="integer">134</page>
+          <chapter type="integer"></chapter>
+          <comments_count>18</comments_count>
+          <created_at type="datetime">Thu Nov 10 07:29:27 -0800 2016</created_at>
+          <updated_at type="datetime">Thu Nov 10 07:29:55 -0800 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">21</ratings_count>
+          <percent type="integer">64</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.b76be046441687589fa1e6d25c3955e6</note_uri>
+          <note_updated_at type="datetime">Thu Nov 10 07:29:54 -0800 2016</note_updated_at>
+          <body><![CDATA[The creature explains why having a girlfriend will fix EVERYTHING. No mention of whether the new creation will have any interest in being with him... 'cause fuck giving females choices, right?!!?]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">112552270</id>
+          <page type="integer">131</page>
+          <chapter type="integer"></chapter>
+          <comments_count>1</comments_count>
+          <created_at type="datetime">Thu Nov 10 07:25:52 -0800 2016</created_at>
+          <updated_at type="datetime">Thu Nov 10 07:25:58 -0800 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">4</ratings_count>
+          <percent type="integer">63</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.22063cc66b54932ed6ef141cf9a1d117</note_uri>
+          <note_updated_at type="datetime">Thu Nov 10 07:25:57 -0800 2016</note_updated_at>
+          <body><![CDATA[Some Assembly Required<br /><br /><i>"I am malicious because I am miserable. Am I not shunned and hated by all mankind? You, my creator, would tear me to pieces, and triumph; remember that, and tell me why I should pity man more than he pities me?"</i><br /><br />Vegetarian. Creeping on sleeping women.<br /><br /><i>"I will revenge my injuries; if I cannot inspire love, I will cause fear, and chiefly towards you my arch-enemy, because my creator</i>]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">112551254</id>
+          <page type="integer">130</page>
+          <chapter type="integer"></chapter>
+          <comments_count>1</comments_count>
+          <created_at type="datetime">Thu Nov 10 07:08:05 -0800 2016</created_at>
+          <updated_at type="datetime">Thu Nov 10 07:08:53 -0800 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">4</ratings_count>
+          <percent type="integer">62</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.e135d9d575f6cec653fe5bf4bead5e58</note_uri>
+          <note_updated_at type="datetime">Thu Nov 10 07:08:53 -0800 2016</note_updated_at>
+          <body><![CDATA[<i>"For a few moments I gazed with delight on her dark eyes, fringed by deep lashes, and her lovely lips; but presently my rage returned: I remembered that I was for ever deprived of the delights that such beautiful creatures could bestow; and that she whose resemblance I contemplated would, in regarding me, have changed that air of divine benignity to one expressive of disgust and affright."</i><br /><br />Women won't date me]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">112551158</id>
+          <page type="integer">129</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Nov 10 07:06:21 -0800 2016</created_at>
+          <updated_at type="datetime">Thu Nov 10 07:06:54 -0800 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">62</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.23a43be99b64f76cb2eaaded1b8f7f33</note_uri>
+          <note_updated_at type="datetime">Thu Nov 10 07:06:54 -0800 2016</note_updated_at>
+          <body><![CDATA[<i>"I gazed upon my victim, and my heart swelled with exultation and hellish triumph; clapping my hands, I exclaimed, 'I too can create desolation; my enemy is not invulnerable; this death will carry despair to him, and a thousand other miseries shall torment and destroy him."</i>]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">112550942</id>
+          <page type="integer">128</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Nov 10 07:02:35 -0800 2016</created_at>
+          <updated_at type="datetime">Thu Nov 10 07:02:55 -0800 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">61</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.4abb6d8de8b7012b96bf9acbb1bac596</note_uri>
+          <note_updated_at type="datetime">Thu Nov 10 07:02:55 -0800 2016</note_updated_at>
+          <body><![CDATA[<i>"This was then the reward of my benevolence! I had saved a human being from destruction, and as a recompense I now writhed under the miserable pain of a wound which shattered the flesh and bone. The feelings of kindness and gentleness, which I had entertained but a few moments before, gave place to hellish rage and gnashing of teeth."</i>]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">112550589</id>
+          <page type="integer">126</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Nov 10 06:57:05 -0800 2016</created_at>
+          <updated_at type="datetime">Thu Nov 10 06:57:54 -0800 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">60</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.d18576212a107b41753b33c8a66e3854</note_uri>
+          <note_updated_at type="datetime">Thu Nov 10 06:57:54 -0800 2016</note_updated_at>
+          <body><![CDATA[Arson<br /><br /><i>"Unfeeling, heartless creator! You had endowed me with perceptions and passions and then cast me abroad an object for the scorn and horror of mankind."</i>]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">112274815</id>
+          <page type="integer">123</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sun Nov 06 16:37:27 -0800 2016</created_at>
+          <updated_at type="datetime">Sun Nov 06 16:37:53 -0800 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">12</ratings_count>
+          <percent type="integer">59</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.8da1a71031b88d4b4e4a68687787d622</note_uri>
+          <note_updated_at type="datetime">Sun Nov 06 16:37:53 -0800 2016</note_updated_at>
+          <body><![CDATA[<i>"I could with pleasure have destroyed the cottage and its inhabitants, and have glutted myself with their shrieks and misery... There was none among the myriads of men that existed who would pity or assist me; and should I feel kindness towards my enemies? No: from that moment I declared everlasting war against the species, and, more than all, against him who had formed me, and sent me forth to this insupportable</i>]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">112270418</id>
+          <page type="integer">118</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sun Nov 06 15:31:50 -0800 2016</created_at>
+          <updated_at type="datetime">Sun Nov 06 15:31:54 -0800 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">10</ratings_count>
+          <percent type="integer">57</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.535cc75c770748b59818eea4e51ac893</note_uri>
+          <note_updated_at type="datetime">Sun Nov 06 15:31:54 -0800 2016</note_updated_at>
+          <body><![CDATA[<i>"Hateful day when I received life!" I exclaimed in agony. "Accursed creator! Why did you form a monster so hideous that even YOU turned from me in disgust? God, in pity, made man beautiful and alluring, after his own image; but my form is a filthy type of yours, more horrid even from the very resemblance. Satan had his companions, fellow devils, to admire and encourage him; but I am solitary and abhorred."</i>]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">111155100</id>
+          <page type="integer">116</page>
+          <chapter type="integer"></chapter>
+          <comments_count>1</comments_count>
+          <created_at type="datetime">Sun Oct 23 19:17:00 -0700 2016</created_at>
+          <updated_at type="datetime">Sun Oct 23 19:17:18 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">19</ratings_count>
+          <percent type="integer">56</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.25c2b272b855fc965d16508de1a9e96a</note_uri>
+          <note_updated_at type="datetime">Sun Oct 23 19:17:18 -0700 2016</note_updated_at>
+          <body><![CDATA[<i>I found myself similar, yet at the same time strangely unlike to the beings concerning whom I read, and to whose conversation I was a listener. I sympathised with and partly understood them, but I was unformed in mind; I was dependent on none, and related to none. 'The path of my departure was free,' and there was none to lament my annihilation. My person was hideous and my stature gigantic. What did this mean?</i>]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">111142051</id>
+          <page type="integer">111</page>
+          <chapter type="integer"></chapter>
+          <comments_count>2</comments_count>
+          <created_at type="datetime">Sun Oct 23 16:07:03 -0700 2016</created_at>
+          <updated_at type="datetime">Sun Oct 23 16:07:19 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">12</ratings_count>
+          <percent type="integer">53</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.5b7ff4f0bf89f73cccff12208468cfa9</note_uri>
+          <note_updated_at type="datetime">Sun Oct 23 16:07:19 -0700 2016</note_updated_at>
+          <body><![CDATA[<i>Felix rejected his offers with contempt; yet when he saw the lovely Safie, who was allowed to visit her father and who, by her gestures, expressed her lively gratitude, the youth could not help owning to his own mind that the captive possessed a treasure which would fully reward his toil and hazard.</i><br /><br />Ick.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">110185676</id>
+          <page type="integer">108</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Oct 12 03:07:38 -0700 2016</created_at>
+          <updated_at type="datetime">Wed Oct 12 03:08:25 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">18</ratings_count>
+          <percent type="integer">52</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.e8cebe5a207a5bad10c3f7b5514b53a5</note_uri>
+          <note_updated_at type="datetime">Wed Oct 12 03:08:25 -0700 2016</note_updated_at>
+          <body><![CDATA[<i>When I looked around I saw and heard of none like me. Was I, then, a monster, a blot upon the earth, from which all men fled and whom all men disowned?</i>]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">110165897</id>
+          <page type="integer">98</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Oct 11 20:02:05 -0700 2016</created_at>
+          <updated_at type="datetime">Tue Oct 11 20:02:27 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">12</ratings_count>
+          <percent type="integer">47</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.b0915919559f53980926334495a55848</note_uri>
+          <note_updated_at type="datetime">Tue Oct 11 20:02:27 -0700 2016</note_updated_at>
+          <body><![CDATA[<i>If such lovely creatures were miserable, it was less strange that I, an imperfect and solitary being, should be wretched.</i>]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">109920732</id>
+          <page type="integer">87</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Oct 08 23:48:00 -0700 2016</created_at>
+          <updated_at type="datetime">Sat Oct 08 23:48:52 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">10</ratings_count>
+          <percent type="integer">42</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.a9c4c6fe8253275710f16c577c69622a</note_uri>
+          <note_updated_at type="datetime">Sat Oct 08 23:48:52 -0700 2016</note_updated_at>
+          <body><![CDATA[<i>"Remember, that I am thy creature; I ought to be thy Adam, but I am rather the fallen angel, whom thou drivest from joy for no misdeed."</i>]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">109863341</id>
+          <page type="integer">81</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Oct 08 06:22:29 -0700 2016</created_at>
+          <updated_at type="datetime">Sat Oct 08 06:22:54 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">19</ratings_count>
+          <percent type="integer">39</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.bef9d4c7e1ad843650abb31b95ba5c3e</note_uri>
+          <note_updated_at type="datetime">Sat Oct 08 06:22:54 -0700 2016</note_updated_at>
+          <body><![CDATA[No curiosity, obviously not a true scientist.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">109863253</id>
+          <page type="integer">79</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Oct 08 06:20:42 -0700 2016</created_at>
+          <updated_at type="datetime">Sat Oct 08 06:20:55 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">12</ratings_count>
+          <percent type="integer">38</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.a2d9137f05a365f06343e861b57d3400</note_uri>
+          <note_updated_at type="datetime">Sat Oct 08 06:20:55 -0700 2016</note_updated_at>
+          <body><![CDATA[<i>Remorse extinguished every hope. I had been the author of unalterable evils, and I lived in daily fear lest the monster whom I had created should perpetrate some new wickedness. I had an obscure feeling that all was not over, and that he would still commit some signal crime, which by its enormity should almost efface the recollection of the past.</i><br /><br />Then DO SOMETHING, you weak, emo, sniveling, spineless trash.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">109861884</id>
+          <page type="integer">77</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Oct 08 05:52:04 -0700 2016</created_at>
+          <updated_at type="datetime">Sat Oct 08 05:52:53 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">4</ratings_count>
+          <percent type="integer">37</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.6b062c586f2d863257a2c7f8ad937586</note_uri>
+          <note_updated_at type="datetime">Sat Oct 08 05:52:53 -0700 2016</note_updated_at>
+          <body><![CDATA[<i>Nothing is more painful to the human mind than, after the feelings have been worked up by a quick succession of events, the dead calmness of inaction and certainty which follows and deprives the soul both of hope and fear.</i>]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">109861681</id>
+          <page type="integer">73</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Oct 08 05:47:48 -0700 2016</created_at>
+          <updated_at type="datetime">Sat Oct 08 05:47:56 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">35</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.55e3b96e60e4289917e3c4d3a6ec47e8</note_uri>
+          <note_updated_at type="datetime">Sat Oct 08 05:47:56 -0700 2016</note_updated_at>
+          <body><![CDATA[<i>The tortures of the accused did not equal mine; she was sustained by innocence, but the fangs of remorse tore my bosom and would not forego their hold.</i><br /><br />Yes, the woman condemned to death isn't suffering NEARLY as much as you are. Sure. You self-centered piece of garbage.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">109861356</id>
+          <page type="integer">64</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Oct 08 05:40:07 -0700 2016</created_at>
+          <updated_at type="datetime">Sat Oct 08 05:40:54 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">30</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.aefcab43aa91ee1378af59e2bfab4597</note_uri>
+          <note_updated_at type="datetime">Sat Oct 08 05:40:54 -0700 2016</note_updated_at>
+          <body><![CDATA[<i>Nothing in human shape could have destroyed that fair child.</i><br /><br />HA!<br /><br /><i>Two years had now nearly elapsed since the night on which he first received life; and this was his first crime?</i>]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">109855998</id>
+          <page type="integer">63</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Oct 08 03:20:35 -0700 2016</created_at>
+          <updated_at type="datetime">Sat Oct 08 03:20:54 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">30</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.2f1dd564452f0c022a55c7a83d5f6623</note_uri>
+          <note_updated_at type="datetime">Sat Oct 08 03:20:54 -0700 2016</note_updated_at>
+          <body><![CDATA[<i>The picture appeared a vast and dim scene of evil, and I foresaw obscurely that I was destined to become the most wretched of human beings. Alas! I prophesied truly, and failed only in one single circumstance, that in all the misery I imagined and dreaded, I did not conceive the hundredth part of the anguish I was destined to endure.</i><br /><br />Oh, shut the fuck up you worthless, pathetic excuse for a human being.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">109855921</id>
+          <page type="integer">62</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Oct 08 03:18:05 -0700 2016</created_at>
+          <updated_at type="datetime">Sat Oct 08 03:18:54 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">29</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.0b98b54950550c6f1c3c5b380c6d9632</note_uri>
+          <note_updated_at type="datetime">Sat Oct 08 03:18:54 -0700 2016</note_updated_at>
+          <body><![CDATA[<i>I passed through scenes familiar to my youth, but which I had not seen for nearly six years.</i>]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">109855881</id>
+          <page type="integer">61</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Oct 08 03:16:32 -0700 2016</created_at>
+          <updated_at type="datetime">Sat Oct 08 03:16:54 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">5</ratings_count>
+          <percent type="integer">29</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.f860b9460ad7b17f5407c7d07b48973c</note_uri>
+          <note_updated_at type="datetime">Sat Oct 08 03:16:54 -0700 2016</note_updated_at>
+          <body><![CDATA[<i>"My dear Frankenstein," exclaimed Henry, when he perceived me weep with bitterness, " are you always to be unhappy?"</i><br /><br />Yes.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">109855406</id>
+          <page type="integer">60</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Oct 08 03:00:09 -0700 2016</created_at>
+          <updated_at type="datetime">Sat Oct 08 03:00:53 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">2</ratings_count>
+          <percent type="integer">28</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.827da453430d94436ecf1e114232b7e3</note_uri>
+          <note_updated_at type="datetime">Sat Oct 08 03:00:53 -0700 2016</note_updated_at>
+          <body><![CDATA[<i>....the print of the murderer's finger was on his neck.</i>]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">109855168</id>
+          <page type="integer">50</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Oct 08 02:52:42 -0700 2016</created_at>
+          <updated_at type="datetime">Sat Oct 08 02:52:57 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">2</ratings_count>
+          <percent type="integer">24</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.1f5da3882e759e9fff60977c8be4fcaa</note_uri>
+          <note_updated_at type="datetime">Sat Oct 08 02:52:57 -0700 2016</note_updated_at>
+          <body><![CDATA[I ignored my friends and family for two years, and then selfishly keep my friend from his life's dream for a few months. I am a selfish bastard, an idiot, and a ball-less wonder.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">109839782</id>
+          <page type="integer">44</page>
+          <chapter type="integer"></chapter>
+          <comments_count>8</comments_count>
+          <created_at type="datetime">Fri Oct 07 19:57:28 -0700 2016</created_at>
+          <updated_at type="datetime">Fri Oct 07 19:57:54 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">14</ratings_count>
+          <percent type="integer">21</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.7cbdbeaaef39164ca0d74c6fc6f1e8c9</note_uri>
+          <note_updated_at type="datetime">Fri Oct 07 19:57:54 -0700 2016</note_updated_at>
+          <body><![CDATA[<i>It was on a dreary night of November, that I beheld the accomplishment of my toils....<br /><br />For this I had deprived myself of rest and health. I had desired it with an ardour that far exceeded moderation; but now that I had finished, the beauty of the dream vanished, and breathless horror and disgust filled my heart.</i><br /><br />So I just ran away and hid in my bedroom, like a fucking coward and a spineless wonder.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">109839556</id>
+          <page type="integer">41</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Oct 07 19:53:22 -0700 2016</created_at>
+          <updated_at type="datetime">Fri Oct 07 19:53:54 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">3</ratings_count>
+          <percent type="integer">19</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.3d2a30fa3e7bd25fad7178bfedde39a2</note_uri>
+          <note_updated_at type="datetime">Fri Oct 07 19:53:54 -0700 2016</note_updated_at>
+          <body><![CDATA[<i>Life and death appeared to me ideal bounds, which I should first break through, and pour a torrent of light into our dark world. A new species would bless me as its creator and source; many happy and excellent natures would owe their being to me. No father could claim the gratitude of his child so completely as I should deserve theirs.</i>]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">109838642</id>
+          <page type="integer">39</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Oct 07 19:37:57 -0700 2016</created_at>
+          <updated_at type="datetime">Fri Oct 07 19:38:52 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">2</ratings_count>
+          <percent type="integer">18</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.e5ad6d3cd523e7f2b32351a72662beae</note_uri>
+          <note_updated_at type="datetime">Fri Oct 07 19:38:52 -0700 2016</note_updated_at>
+          <body><![CDATA[<i>Darkness had no effect upon my fancy; and a churchyard was to me merely the receptacle of bodies deprived of life, which, from being the seat of beauty and strength, had become food for the worm.</i>]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">109838593</id>
+          <page type="integer">37</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Oct 07 19:36:51 -0700 2016</created_at>
+          <updated_at type="datetime">Fri Oct 07 19:36:58 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">17</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.611dec62bbe1892cc71a3e051c635624</note_uri>
+          <note_updated_at type="datetime">Fri Oct 07 19:36:58 -0700 2016</note_updated_at>
+          <body><![CDATA[<i>None but those who have experienced them can conceive of the enticements of science. In other studies you go as far as others have gone before you, and there is nothing more to know; but in a scientific pursuit there is continual food for discovery and wonder.</i>]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">109838215</id>
+          <page type="integer">35</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Oct 07 19:30:13 -0700 2016</created_at>
+          <updated_at type="datetime">Fri Oct 07 19:30:53 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">16</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.d2820493be72343b072321b41cb77509</note_uri>
+          <note_updated_at type="datetime">Fri Oct 07 19:30:53 -0700 2016</note_updated_at>
+          <body><![CDATA[<i>So much has been done, exclaimed the soul of Frankenstein - more, far more, will I achieve: treading in the steps already marked, I will pioneer a new way, explore unknown powers, and unfold to the world the deepest mysteries of creation.</i><br /><br />Rarely have I seen a more sneering, egotistical, and thoroughly self-absorbed individual.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">109837046</id>
+          <page type="integer">29</page>
+          <chapter type="integer"></chapter>
+          <comments_count>2</comments_count>
+          <created_at type="datetime">Fri Oct 07 19:09:29 -0700 2016</created_at>
+          <updated_at type="datetime">Fri Oct 07 19:09:54 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">5</ratings_count>
+          <percent type="integer">14</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.21f4ec2ccc1fbf08602b629de543790f</note_uri>
+          <note_updated_at type="datetime">Fri Oct 07 19:09:54 -0700 2016</note_updated_at>
+          <body><![CDATA[<i>Destiny was too potent, and her immutable laws had decreed my utter and terrible destruction.</i><br /><br />Oh, please. Get a hold of yourself, Victor.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">109825391</id>
+          <page type="integer">28</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Oct 07 15:18:35 -0700 2016</created_at>
+          <updated_at type="datetime">Fri Oct 07 15:18:55 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">6</ratings_count>
+          <percent type="integer">13</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.d3ce400c8321bf9511cc2c4727149fd4</note_uri>
+          <note_updated_at type="datetime">Fri Oct 07 15:18:55 -0700 2016</note_updated_at>
+          <body><![CDATA[<i>The raising of ghosts or devils was a promise liberally accorded by my favourite authors, the fulfilment of which I most eagerly sought; and if my incantations were always unsuccessful, I attributed the failure rather to my own inexperience and mistake, than to a want of skill or fidelity in my instructors.</i>]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">109700112</id>
+          <page type="integer">23</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Oct 06 03:15:10 -0700 2016</created_at>
+          <updated_at type="datetime">Thu Oct 06 03:15:42 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">4</ratings_count>
+          <percent type="integer">11</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.22d788ea2ac31cead6b8bdba9fb29965</note_uri>
+          <note_updated_at type="datetime">Thu Oct 06 03:15:42 -0700 2016</note_updated_at>
+          <body><![CDATA[What a bunch of racist bullshit.<br /><br /><i>No word, no expression could body forth the kind of relation in which she stood to me - my more than sister, since till death she was to be mine only.</i><br /><br />Okay.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">109697993</id>
+          <page type="integer">17</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Oct 06 02:03:29 -0700 2016</created_at>
+          <updated_at type="datetime">Thu Oct 06 02:03:44 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">2</ratings_count>
+          <percent type="integer">8</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.c8e57d9e7fb66f737f42547056d3747a</note_uri>
+          <note_updated_at type="datetime">Thu Oct 06 02:03:44 -0700 2016</note_updated_at>
+          <body><![CDATA[<i>Sometimes I have endeavoured to discover what quality it is which he possesses, that elevates him so immeasurably above any other person I ever knew.</i><br /><br />Oh, puh-lease, man. Pull yourself together!]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">109694347</id>
+          <page type="integer">3</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Oct 06 00:05:13 -0700 2016</created_at>
+          <updated_at type="datetime">Thu Oct 06 00:05:42 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">1</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.1bcfa7fabe56c93948ef2a1273847535</note_uri>
+          <note_updated_at type="datetime">Thu Oct 06 00:05:42 -0700 2016</note_updated_at>
+          <body><![CDATA[<i>I commenced by inuring my body to hardship.<br /><br />...<br /><br />My life might have been passed in ease and luxury; but I preferred glory to every enticement that wealth placed in my path.</i>]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">109694269</id>
+          <page type="integer">2</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Oct 06 00:03:18 -0700 2016</created_at>
+          <updated_at type="datetime">Thu Oct 06 00:03:43 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">0</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.34f3fdec4cd9cf750780e3edc15cc784</note_uri>
+          <note_updated_at type="datetime">Thu Oct 06 00:03:43 -0700 2016</note_updated_at>
+          <body><![CDATA[<i>What may not be expected in a country of eternal light?...<br /><br />...for nothing contributes so much to tranquilize the mind as a steady purpose - a point on which the soul may fix its intellectual eye.</i>]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">109694149</id>
+          <page type="integer">1</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Oct 06 00:00:55 -0700 2016</created_at>
+          <updated_at type="datetime">Thu Oct 06 00:01:41 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">0</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.0bf24f688c00ac368c53dd1df14f027a</note_uri>
+          <note_updated_at type="datetime">Thu Oct 06 00:01:41 -0700 2016</note_updated_at>
+          <body><![CDATA[<i>You will rejoice to hear that no disaster has accompanied the commencement of an enterprise which you have regarded with such evil forebodings.</i>]]></body>
+        </user_status>
+    </user_statuses>
+  <rating>5</rating>
+  <votes>70</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="fiction" exclusive="false" review_shelf_id="1477467792" sortable="false" />
+    <shelf name="favorites" exclusive="false" review_shelf_id="1477469198" sortable="false" />
+    <shelf name="classics" exclusive="false" review_shelf_id="1477467744" sortable="false" />
+    <shelf name="horror" exclusive="false" review_shelf_id="1477467845" sortable="false" />
+    <shelf name="science-fiction" exclusive="false" review_shelf_id="1477467869" sortable="false" />
+    <shelf name="traditionally-published" exclusive="false" review_shelf_id="1477467896" sortable="false" />
+</shelves>
+  <recommended_for>Everyone</recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Oct 03 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Nov 17 00:00:00 -0800 2016</read_at>
+  <date_added>Sun Mar 23 21:53:50 -0700 2014</date_added>
+  <date_updated>Fri Nov 18 01:19:48 -0800 2016</date_updated>
+  <read_count>10</read_count>
+  <body>
+      <![CDATA[NO MAJOR SPOILERS, BUT MILD ONES AS I AM GOING TO BE DISCUSSING THE BASIC PLOT<br /><br /><i>“Remember that I have power; you believe yourself miserable, but I can make you so wretched that the light of day will be hateful to you. You are my creator, but I am your master;--obey!” </i><br /><br />SO. This is one of my favorite...]]>
+  </body>
+
+  
+
+  <comments_count>27</comments_count>
+    <comments start="1" end="27" total="27">
+        <comment>
+  <id>159248509</id>
+  <body><![CDATA[Great review Camen.]]></body>
+  
+  <user>
+    <id>2752994</id>
+    <name>Dem</name>
+    <display_name>Dem</display_name>
+
+    <location>Ireland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2752994-dem]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1468313742p3/2752994.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1468313742p2/2752994.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 18 03:24:11 -0800 2016</created_at>
+  <updated_at>Fri Nov 18 03:24:11 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159254963</id>
+  <body><![CDATA[Fantastic review, Carmen! Thanks for including some great passages. This story and the characters really tug the reader in all different directions emotionally and intellectually. I'm glad it continues to be a great reading experience for you over the years. :)]]></body>
+  
+  <user>
+    <id>6217162</id>
+    <name>Donna</name>
+    <display_name>Donna</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6217162-donna]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1430955688p3/6217162.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1430955688p2/6217162.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 18 07:40:54 -0800 2016</created_at>
+  <updated_at>Fri Nov 18 07:40:54 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159257265</id>
+  <body><![CDATA[<i>Dem wrote: "Great review Camen."</i><br /><br />Thank you! :D]]></body>
+  
+  <user>
+    <id>25353295</id>
+    <name>Carmen</name>
+    <display_name>Carmen</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25353295-carmen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1412617445p3/25353295.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1412617445p2/25353295.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 18 08:45:27 -0800 2016</created_at>
+  <updated_at>Fri Nov 18 08:45:27 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159257282</id>
+  <body><![CDATA[<i>Donna wrote: "Fantastic review, Carmen! Thanks for including some great passages. This story and the characters really tug the reader in all different directions emotionally and intellectually. I'm glad it conti..."</i><br /><br />Thank you so much, Donna! I will have to read everyone else's wonderful reviews now! Took me long enough to finish, LOL.]]></body>
+  
+  <user>
+    <id>25353295</id>
+    <name>Carmen</name>
+    <display_name>Carmen</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25353295-carmen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1412617445p3/25353295.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1412617445p2/25353295.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 18 08:46:01 -0800 2016</created_at>
+  <updated_at>Fri Nov 18 08:46:01 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159265698</id>
+  <body><![CDATA[excelente review!]]></body>
+  
+  <user>
+    <id>4765800</id>
+    <name>Mitticus</name>
+    <display_name>Mitticus</display_name>
+
+    <location>Arica, Chile, Chile</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4765800-mitticus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488119829p3/4765800.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488119829p2/4765800.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 18 13:01:50 -0800 2016</created_at>
+  <updated_at>Fri Nov 18 13:01:50 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159267299</id>
+  <body><![CDATA[Gracias. :)]]></body>
+  
+  <user>
+    <id>25353295</id>
+    <name>Carmen</name>
+    <display_name>Carmen</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25353295-carmen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1412617445p3/25353295.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1412617445p2/25353295.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 18 13:51:16 -0800 2016</created_at>
+  <updated_at>Fri Nov 18 13:51:16 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159267469</id>
+  <body><![CDATA[Absolutely adore your review; however, I can't help but pity the monster. It shows you how real-life monsters are created -- through abandonment, hatred. And how the lust for vengeance will totally kill you. <a class="jsShowSpoiler spoilerAction">(view spoiler)</a><span class="spoilerContainer" style="display: none">[Once the monster has hounded Frankenstein to death, the monster loses his desire to live, heading to the North Pole to die. <a class="jsHideSpoiler spoilerAction">(hide spoiler)</a>]</span>]]></body>
+  
+  <user>
+    <id>3803671</id>
+    <name>Ivonne</name>
+    <display_name>Ivonne Rovira</display_name>
+
+    <location>Louisville, KY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3803671-ivonne-rovira]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1339470651p3/3803671.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1339470651p2/3803671.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 18 13:56:29 -0800 2016</created_at>
+  <updated_at>Fri Nov 18 13:56:29 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159267547</id>
+  <body><![CDATA[Yes... I see how the monster got the shaft. However, I can no longer feel sorry for him when he starts ruthlessly murdering innocent after innocent after innocent. And he knows it's wrong. I don't know, he just lost my sympathy after that.]]></body>
+  
+  <user>
+    <id>25353295</id>
+    <name>Carmen</name>
+    <display_name>Carmen</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25353295-carmen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1412617445p3/25353295.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1412617445p2/25353295.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 18 13:58:27 -0800 2016</created_at>
+  <updated_at>Fri Nov 18 13:58:27 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159274484</id>
+  <body><![CDATA[Brilliant review, Carmen. You also "wrote the shit" out of it. Mary Shelly would have been pleased. I love how you don't mince your words, I'm always too reticent when I write. You even have a TL;DR, I'm not so considerate with my longwindedness (´∀｀*)]]></body>
+  
+  <user>
+    <id>2457095</id>
+    <name>Apatt</name>
+    <display_name>Apatt</display_name>
+
+    <location>Bangkok, Thailand</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2457095-apatt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1349239948p3/2457095.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1349239948p2/2457095.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 18 17:38:38 -0800 2016</created_at>
+  <updated_at>Fri Nov 18 17:38:38 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159274520</id>
+  <body><![CDATA[<i>You also "wrote the shit" out of it.</i><br /><br />Awww! Thanks! :)<br /><br />Thanks for all your kind words, Apatt. I'm glad you loved this book as well!]]></body>
+  
+  <user>
+    <id>25353295</id>
+    <name>Carmen</name>
+    <display_name>Carmen</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25353295-carmen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1412617445p3/25353295.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1412617445p2/25353295.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 18 17:40:06 -0800 2016</created_at>
+  <updated_at>Fri Nov 18 17:40:06 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159276465</id>
+  <body><![CDATA[What an impassioned review! Thank you for this. I've had Frankenstein for years, always meaning to pick it up. I need to move this book up the list, since I've been reading so many thoughtful analyses of this book recently.]]></body>
+  
+  <user>
+    <id>13126933</id>
+    <name>Lata</name>
+    <display_name>Lata</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13126933-lata]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1467311099p3/13126933.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1467311099p2/13126933.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 18 18:54:11 -0800 2016</created_at>
+  <updated_at>Fri Nov 18 18:54:11 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159277805</id>
+  <body><![CDATA[<i>Lata wrote: "What an impassioned review! Thank you for this. I've had Frankenstein for years, always meaning to pick it up. I need to move this book up the list, since I've been reading so many thoughtful analyses of this book recently. "</i><br /><br />Thank you, Lata! If you read it, I hope you enjoy it! :)]]></body>
+  
+  <user>
+    <id>25353295</id>
+    <name>Carmen</name>
+    <display_name>Carmen</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25353295-carmen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1412617445p3/25353295.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1412617445p2/25353295.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 18 19:43:26 -0800 2016</created_at>
+  <updated_at>Fri Nov 18 19:43:26 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159281344</id>
+  <body><![CDATA[Loved this review.]]></body>
+  
+  <user>
+    <id>6803829</id>
+    <name>Nate</name>
+    <display_name>Nate</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6803829-nate]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1413944642p3/6803829.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1413944642p2/6803829.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 18 22:49:27 -0800 2016</created_at>
+  <updated_at>Fri Nov 18 22:49:27 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159281432</id>
+  <body><![CDATA[Thank you, Nay-Nay! :)]]></body>
+  
+  <user>
+    <id>25353295</id>
+    <name>Carmen</name>
+    <display_name>Carmen</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25353295-carmen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1412617445p3/25353295.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1412617445p2/25353295.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 18 22:54:51 -0800 2016</created_at>
+  <updated_at>Fri Nov 18 22:54:51 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159283390</id>
+  <body><![CDATA[Fab review, Carmen!<br />And yes, Frankenstein was a jerk even before he created the monster.]]></body>
+  
+  <user>
+    <id>43579369</id>
+    <name>Kevin</name>
+    <display_name>Kevin Ansbro</display_name>
+
+    <location>Norwich, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/43579369-kevin-ansbro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442982666p3/43579369.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442982666p2/43579369.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Nov 19 01:42:18 -0800 2016</created_at>
+  <updated_at>Sat Nov 19 01:42:18 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159293881</id>
+  <body><![CDATA[<i>Kevin wrote: "Fab review, Carmen!<br />And yes, Frankenstein was a jerk even before he created the monster."</i><br /><br />Yes, no good could come of THAT guy attempting to be God. Ugh.<br /><br />And thanks!]]></body>
+  
+  <user>
+    <id>25353295</id>
+    <name>Carmen</name>
+    <display_name>Carmen</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25353295-carmen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1412617445p3/25353295.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1412617445p2/25353295.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Nov 19 09:54:47 -0800 2016</created_at>
+  <updated_at>Sat Nov 19 09:54:47 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159328145</id>
+  <body><![CDATA[Great review. It's one of my favorite horror stories (along with Stoker's Dracula). Hard to believe that she was only 21 when it was originally published.]]></body>
+  
+  <user>
+    <id>9822645</id>
+    <name>Jon</name>
+    <display_name>Jon</display_name>
+
+    <location>Citrus Heights, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9822645-jon]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1439348441p3/9822645.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1439348441p2/9822645.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 20 09:07:49 -0800 2016</created_at>
+  <updated_at>Sun Nov 20 09:07:49 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159330305</id>
+  <body><![CDATA[<i>Jon wrote: "Great review. It's one of my favorite horror stories (along with Stoker's Dracula). Hard to believe that she was only 21 when it was originally published."</i><br /><br />I also liked Dracula very much. I think I prefer Frankenstein, though. Thanks, Jon! :)]]></body>
+  
+  <user>
+    <id>25353295</id>
+    <name>Carmen</name>
+    <display_name>Carmen</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25353295-carmen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1412617445p3/25353295.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1412617445p2/25353295.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 20 10:25:10 -0800 2016</created_at>
+  <updated_at>Sun Nov 20 10:25:10 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159408049</id>
+  <body><![CDATA[Awesome review, Carmen, thank you. Love your thorough, tell-it-like-it-is, style. Very much enjoyed reading it, thanks again.]]></body>
+  
+  <created_at>Tue Nov 22 10:06:13 -0800 2016</created_at>
+  <updated_at>Tue Nov 22 10:06:13 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159408358</id>
+  <body><![CDATA[<i>Anne wrote: "Awesome review, Carmen, thank you. Love your thorough, tell-it-like-it-is, style. Very much enjoyed reading it, thanks again."</i><br /><br />Thank you, Anne!]]></body>
+  
+  <user>
+    <id>25353295</id>
+    <name>Carmen</name>
+    <display_name>Carmen</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25353295-carmen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1412617445p3/25353295.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1412617445p2/25353295.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 22 10:14:25 -0800 2016</created_at>
+  <updated_at>Tue Nov 22 10:14:25 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159443619</id>
+  <body><![CDATA[Great review, Carmen. That monster sounds like my kind of guy. ;)]]></body>
+  
+  <user>
+    <id>12058788</id>
+    <name>Ɗắɳ  2.✽</name>
+    <display_name>Ɗắɳ  2.✽</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12058788-2]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488993170p3/12058788.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488993170p2/12058788.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 23 08:35:52 -0800 2016</created_at>
+  <updated_at>Wed Nov 23 08:35:52 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159449127</id>
+  <body><![CDATA[LOL o.O I'm rather perturbed by that, Dan.<br /><br />Thanks!]]></body>
+  
+  <user>
+    <id>25353295</id>
+    <name>Carmen</name>
+    <display_name>Carmen</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25353295-carmen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1412617445p3/25353295.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1412617445p2/25353295.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 23 11:25:43 -0800 2016</created_at>
+  <updated_at>Wed Nov 23 11:25:43 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159654239</id>
+  <body><![CDATA[hmmm I have read this book it's scary it makes me feel afraid when I started reading this book I can't sleep atg night the first part is not scary but mysterious.that's it...]]></body>
+  
+  <user>
+    <id>61471193</id>
+    <name>Dibashree Das</name>
+    <display_name>Dibashree Das</display_name>
+
+    <location>India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/61471193-dibashree-das]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 29 10:07:39 -0800 2016</created_at>
+  <updated_at>Tue Nov 29 10:07:39 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159654337</id>
+  <body><![CDATA[ohhh!!!dear Carmen I forgot to tell u something I mean I want to tell u that u have written a awesome and great review....fantastic]]></body>
+  
+  <user>
+    <id>61471193</id>
+    <name>Dibashree Das</name>
+    <display_name>Dibashree Das</display_name>
+
+    <location>India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/61471193-dibashree-das]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 29 10:10:20 -0800 2016</created_at>
+  <updated_at>Tue Nov 29 10:10:20 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159660801</id>
+  <body><![CDATA[Thanks, Dibashree! I am glad you liked the book!]]></body>
+  
+  <user>
+    <id>25353295</id>
+    <name>Carmen</name>
+    <display_name>Carmen</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25353295-carmen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1412617445p3/25353295.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1412617445p2/25353295.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 29 13:21:40 -0800 2016</created_at>
+  <updated_at>Tue Nov 29 13:21:40 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159679961</id>
+  <body><![CDATA[this was great. I especially loved and agreed with your points about that infamous narcissist and asshole, Dr. Frankenstein.]]></body>
+  
+  <user>
+    <id>131922</id>
+    <name>mark</name>
+    <display_name>mark monday</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/131922-mark-monday]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478025730p3/131922.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478025730p2/131922.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 30 00:36:09 -0800 2016</created_at>
+  <updated_at>Wed Nov 30 00:36:09 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159711762</id>
+  <body><![CDATA[Aw, thank you, Mark! :) Yeah, Frankenstein is a jerk!]]></body>
+  
+  <user>
+    <id>25353295</id>
+    <name>Carmen</name>
+    <display_name>Carmen</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25353295-carmen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1412617445p3/25353295.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1412617445p2/25353295.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 30 19:01:03 -0800 2016</created_at>
+  <updated_at>Wed Nov 30 19:01:03 -0800 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/890184169]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/890184169]]></link>
+    <owned>1</owned>
+</review>
+
+
+</GoodreadsResponse>

@@ -1,0 +1,301 @@
+status: 200
+x-request-id: YF7CQNW0Q3NQYBWSVWYH
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=1797982457&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhg4MjEtNzcyMTE5NS0wMDUzMTg4BjoGRVQ%3D--c4b5fa10ffc26bc6f9665b8a596797cf28df32bb;
+ path=/; expires=Wed, 15 Apr 2037 17:00:22 -0000, locale=es;
+ path=/, _session_id2=643252b44f4475d0be2049ea613962e5; path=/;
+ expires=Sat, 15 Apr 2017 23:00:22 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 12734
+server: Server
+x-runtime: 0.322904
+etag: W/"0cc291dd4748199af27563c0d425a886"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 17:00:22 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1797982457</id>
+    
+  <user>
+    <id>16628840</id>
+    <name>Mario</name>
+    <display_name>Mario</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16628840-mario]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1477316053p3/16628840.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1477316053p2/16628840.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">578587</id>
+  <isbn>0552150738</isbn>
+  <isbn13>9780552150736</isbn13>
+  <text_reviews_count type="integer">754</text_reviews_count>
+  <title>Angels and Demons (Robert Langdon, #1)</title>
+  <title_without_series>Angels and Demons</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1362495614m/578587.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1362495614s/578587.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/578587.Angels_and_Demons</link>
+  <num_pages>620</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>Corgi Books</publisher>
+  <publication_day/>
+  <publication_year>2001</publication_year>
+  <publication_month/>
+  <average_rating>3.85</average_rating>
+  <ratings_count>2009784</ratings_count>
+  <description>When a world renowned scientist is found brutally murdered in a Swiss research facility, a Harvard professor, Robert Langdon, is summoned to identify the mysterious symbol seared onto the dead man's chest. His baffling conclusion: it is the work of the Illuminati, a secret brotherhood presumed extinct for nearly four hundred years - reborn to continue their bitter vendetta against their sworn enemy, the Catholic church.&lt;br /&gt;&lt;br /&gt;In Rome, the college of cardinals assembles to elect a new pope. Yet somewhere within the walls of the Vatican, an unstoppable bomb of terrifying power relentlessly counts down to oblivion. While the minutes tick away, Langdon joins forces with Vittoria Vetra, a beautiful and mysterious Italian scientist, to decipher the labyrinthine trail of ancient symbols that snakes across Rome to the long-forgotten Illuminati lair - a secret refuge wherein lies the only hope for the Vatican.&lt;br /&gt;&lt;br /&gt;But with each revelation comes another twist, another turn in the plot, which leaves Langdon and Vetra reeling and at the mercy of a seemingly invisible enemy...</description>
+<authors>
+<author>
+<id>630</id>
+<name>Dan Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p5/630.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p2/630.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/630.Dan_Brown]]></link>
+<average_rating>3.77</average_rating>
+<ratings_count>5177651</ratings_count>
+<text_reviews_count>138138</text_reviews_count>
+</author>
+</authors>
+  <published>2001</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">115802771</id>
+          <page type="integer">500</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Dec 21 11:13:55 -0800 2016</created_at>
+          <updated_at type="datetime">Wed Dec 21 11:13:55 -0800 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">12</ratings_count>
+          <percent type="integer">80</percent>
+          <work_id type="integer">3338963</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">114585982</id>
+          <page type="integer">400</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Dec 06 01:23:34 -0800 2016</created_at>
+          <updated_at type="datetime">Tue Dec 06 01:23:34 -0800 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">22</ratings_count>
+          <percent type="integer">64</percent>
+          <work_id type="integer">3338963</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">113903379</id>
+          <page type="integer">300</page>
+          <chapter type="integer"></chapter>
+          <comments_count>3</comments_count>
+          <created_at type="datetime">Sun Nov 27 14:10:11 -0800 2016</created_at>
+          <updated_at type="datetime">Sun Nov 27 14:10:11 -0800 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">17</ratings_count>
+          <percent type="integer">48</percent>
+          <work_id type="integer">3338963</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">112247014</id>
+          <page type="integer">100</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sun Nov 06 10:32:48 -0800 2016</created_at>
+          <updated_at type="datetime">Sun Nov 06 10:32:48 -0800 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">12</ratings_count>
+          <percent type="integer">16</percent>
+          <work_id type="integer">3338963</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">1630903860</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Mon Dec 26 12:19:18 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1562152304</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Sun Oct 30 02:37:50 -0700 2016</updated_at>
+          <ratings_count>11</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>45</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="best-of-the-best" exclusive="false" review_shelf_id="1511585523" sortable="false" />
+    <shelf name="completed-series" exclusive="false" review_shelf_id="1511585554" sortable="false" />
+    <shelf name="reread" exclusive="false" review_shelf_id="1511588080" sortable="false" />
+    <shelf name="own" exclusive="false" review_shelf_id="1511585372" sortable="false" />
+    <shelf name="favorites" exclusive="false" review_shelf_id="1511585491" sortable="false" />
+    <shelf name="own-read" exclusive="false" review_shelf_id="1511585419" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Oct 30 00:00:00 -0700 2016</started_at>
+  <read_at>Mon Dec 26 00:00:00 -0800 2016</read_at>
+  <date_added>Sun Oct 30 02:37:49 -0700 2016</date_added>
+  <date_updated>Wed Dec 28 09:09:51 -0800 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<i>Science tells me God must exist. My mind tells me I will never understand God. And my heart tells me I am not meant to.</i><br /><br /><br />The first time I read <i>Angels and Demons</i> was 4 years ago, and it completely blew me away. This was my fourth time reading it, and it still is one of my favorite books of all time,...]]>
+  </body>
+
+  
+
+  <comments_count>4</comments_count>
+    <comments start="1" end="4" total="4">
+        <comment>
+  <id>160647820</id>
+  <body><![CDATA[I re-read Angels &amp; Demons this year as well, but it was 10 years after my first read to the book. It was so brilliant!!!]]></body>
+  
+  <user>
+    <id>17165680</id>
+    <name>Medhat</name>
+    <display_name>Medhat</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17165680-medhat]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478014383p3/17165680.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478014383p2/17165680.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 27 09:23:06 -0800 2016</created_at>
+  <updated_at>Tue Dec 27 09:23:06 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>160674095</id>
+  <body><![CDATA[Completely agree. I was afraid that I would not like it as much as I liked it when I read it the first time, but I liked it pretty much the same :)]]></body>
+  
+  <user>
+    <id>16628840</id>
+    <name>Mario</name>
+    <display_name>Mario</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16628840-mario]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1477316053p3/16628840.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1477316053p2/16628840.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 27 23:10:40 -0800 2016</created_at>
+  <updated_at>Tue Dec 27 23:10:40 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>160688255</id>
+  <body><![CDATA[<i>Mario wrote: "Completely agree. I was afraid that I would not like it as much as I liked it when I read it the first time, but I liked it pretty much the same :)"</i><br /><br />I did a Dan Brown marathon, and I called it #10YearsOfDanBrown, and that is to celebrate the 10 anniversary of reading Dan Brown for the first and also reading books as well, since The Da Vinci Code was my very first 'real' read... and so it happens that Inferno the movie was released in Lebanon on my 22th birthday (I read The Da Vinci Code when I was 12).]]></body>
+  
+  <user>
+    <id>17165680</id>
+    <name>Medhat</name>
+    <display_name>Medhat</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17165680-medhat]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478014383p3/17165680.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478014383p2/17165680.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Dec 28 09:44:23 -0800 2016</created_at>
+  <updated_at>Wed Dec 28 09:44:23 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>160691858</id>
+  <body><![CDATA[<i>Medhat wrote: "Mario wrote: "Completely agree. I was afraid that I would not like it as much as I liked it when I read it the first time, but I liked it pretty much the same :)"<br /><br />I did a Dan Brown marathon, and I..."</i><br /><br /><i>Mario wrote: "Completely agree. I was afraid that I would not like it as much as I liked it when I read it the first time, but I liked it pretty much the same :)"</i><br /><br />... When I re-read Digital Fortress this year, I soooo hated it. The writing-style was awful, and the book seriously needed a lot of editing.]]></body>
+  
+  <user>
+    <id>17165680</id>
+    <name>Medhat</name>
+    <display_name>Medhat</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17165680-medhat]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478014383p3/17165680.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478014383p2/17165680.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Dec 28 11:27:26 -0800 2016</created_at>
+  <updated_at>Wed Dec 28 11:27:26 -0800 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1797982457]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1797982457]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

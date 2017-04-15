@@ -1,0 +1,525 @@
+status: 200
+x-request-id: VT6SJ8KM4SCP507ST7BD
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=606696731&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhg5ODAtMzQwMTc2NC0zOTY5MTY4BjoGRVQ%3D--11f805359b32a45e9817193f688ad7c53ab03b93;
+ path=/; expires=Wed, 15 Apr 2037 15:44:47 -0000, locale=es;
+ path=/, _session_id2=325427d2fa1d2fe6a8c6f77a8bec8bf1; path=/;
+ expires=Sat, 15 Apr 2017 21:44:48 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 28212
+server: Server
+x-runtime: 0.416630
+etag: W/"cd78ad95de7510ab9bfe68e338ff94ea"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:44:48 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>606696731</id>
+    
+  <user>
+    <id>3103000</id>
+    <name>Tea</name>
+    <display_name>Tea Jovanović</display_name>
+
+    <location>Belgrade, Serbia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3103000-tea-jovanovi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1475352612p3/3103000.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1475352612p2/3103000.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">1149045</id>
+  <isbn>8675600224</isbn>
+  <isbn13>9788675600220</isbn13>
+  <text_reviews_count type="integer">4</text_reviews_count>
+  <title>Da Vinčijev kod</title>
+  <title_without_series>Da Vinčijev kod</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1300413338m/1149045.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1300413338s/1149045.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1149045.Da_Vin_ijev_kod</link>
+  <num_pages>399</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Solaris</publisher>
+  <publication_day/>
+  <publication_year>2004</publication_year>
+  <publication_month/>
+  <average_rating>3.78</average_rating>
+  <ratings_count>1524831</ratings_count>
+  <description>Den Braun u svom trileru &lt;i&gt;Da Vinčijev kod&lt;/i&gt; kreativno kombinuje mnogobrojne istorijske reference (Da Vinči, Templari, sveti Gral) sa fikcijom.&lt;br /&gt;&lt;br /&gt;Protagonista romana je, kao i u prethodnom bestseleru &lt;i&gt;Anđeli i demoni&lt;/i&gt;, harvardski profesor Robert Lengdon. Kada pariska policija otkrije njegovo ime sakriveno u šifrovanoj poruci pronađenoj pored tela ubijenog kustosa Luvra, on postaje njihov glavni osumnjičeni za brutalno ubistvo. Jedina osoba koja veruje u njegovu nevinost je francuski kriptolog, Sofi Nevu, koja mu pomaže da pobegne. Bežeći od policije pokušavaju da dešifruju misterioznu poruku i dolaze do zapanjujućeg zaključka. Ključ za rešenje je sakriven u Da Vinčijevim delima, svima vidljiv, istovremeno dobro sakriven. Put im se ukršta sa vekovima starim tajnim društvom, čiji je član bio pokojni kustos, ali i Da Vinči, Isak Njutn, Botičeli, Igo, kao i sa kontroverznim ogrankom Katoličke crkve. Ukoliko Robert i Sofi ne uspeju da dešifruju kod na vreme, drevna tajna, kao i velika istorijska istina, biće zauvek izgubljena.</description>
+<authors>
+<author>
+<id>630</id>
+<name>Dan Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p5/630.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p2/630.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/630.Dan_Brown]]></link>
+<average_rating>3.77</average_rating>
+<ratings_count>5177586</ratings_count>
+<text_reviews_count>138137</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">10446544</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sat May 04 04:33:59 -0700 2013</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>3</rating>
+  <votes>43</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="read-for-pleasure" exclusive="false" review_shelf_id="419010409" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sat Jan 01 00:00:00 -0800 2005</read_at>
+  <date_added>Sat May 04 04:33:59 -0700 2013</date_added>
+  <date_updated>Tue Jan 07 17:06:27 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Čitav svet je poludeo za ovom knjigom... I dalje mi nije jasno zašto... Mislim da je pisana za prosečnog neobrazovanog Amerikanca kome je autor sažvakavao istoriju i ti delovi su me bolno smorili... Uvek sam pre za čitanje knjige nego gledanje filma po istoimenoj knjizi... U ovom slučaju prednost...]]>
+  </body>
+
+  
+
+  <comments_count>17</comments_count>
+    <comments start="1" end="17" total="17">
+        <comment>
+  <id>73409528</id>
+  <body><![CDATA[Slazem se .... meni je iz ovog zanra recimo sjajan Sam Bourne kod nas ga izdaje Laguna, posebno prvu knjigu preporucujem <a target="_blank" href="https://www.goodreads.com/book/show/1072949.The_Righteous_Men" rel="nofollow">http://www.goodreads.com/book/show/10...</a>]]></body>
+  
+  <user>
+    <id>12277740</id>
+    <name>Jadranka</name>
+    <display_name>Jadranka</display_name>
+
+    <location>Belgrade, Serbia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12277740-jadranka]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1393172340p3/12277740.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1393172340p2/12277740.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 04 04:45:33 -0700 2013</created_at>
+  <updated_at>Sat May 04 04:45:33 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73409666</id>
+  <body><![CDATA[Drago mi je da delimo misljenje... Sam Bourne, prva knjiga, bila je moja urednička kupovina... pre nego što sam ih napustila... :)]]></body>
+  
+  <user>
+    <id>3103000</id>
+    <name>Tea</name>
+    <display_name>Tea Jovanović</display_name>
+
+    <location>Belgrade, Serbia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3103000-tea-jovanovi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1475352612p3/3103000.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1475352612p2/3103000.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 04 04:51:21 -0700 2013</created_at>
+  <updated_at>Sat May 04 04:51:21 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73409737</id>
+  <body><![CDATA[Stvarno !! Sjajno, eto nisam ni znala :) dobar je Sam ova poslednja mu je nesto slabija ali i dalje mnogo bolje pise od DB po meni bolje drzi tenziju a i odlicno barata istorijskim i drustveno-politickim dogadjajima, nesto covek i da nauci za razliku od cistog senzacionalizma DB.<br />Inace kad smo vec kod DB po meni za nijansu bolja Andjeli i demoni, ali tek nesto malo]]></body>
+  
+  <user>
+    <id>12277740</id>
+    <name>Jadranka</name>
+    <display_name>Jadranka</display_name>
+
+    <location>Belgrade, Serbia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12277740-jadranka]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1393172340p3/12277740.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1393172340p2/12277740.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 04 04:53:00 -0700 2013</created_at>
+  <updated_at>Sat May 04 04:53:00 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73409880</id>
+  <body><![CDATA[<i>Jadranka wrote: "Stvarno !! Sjajno, eto nisam ni znala :) dobar je Sam ova poslednja mu je nesto slabija ali i dalje mnogo bolje pise od DB po meni bolje drzi tenziju a i odlicno barata istorijskim i drustveno-poli..."</i><br /><br />Da bidnem iskrena, procitala sam tu prvu knjigu Semovu, još u rukopisu, i kako sam napustila Lagunu nikako da nađem vremena da pročitam i ostale knjige posle te prve... A ta hrpa knjiga koje su ostale da ih ubuduće čitam za svoju dušu je pogolema... kao i hrpa rukopisa koje sam podobijala od stranih agenata a u koje još nisam stigla ni da zavirim... ali hoću... jednog dana... :)]]></body>
+  
+  <user>
+    <id>3103000</id>
+    <name>Tea</name>
+    <display_name>Tea Jovanović</display_name>
+
+    <location>Belgrade, Serbia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3103000-tea-jovanovi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1475352612p3/3103000.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1475352612p2/3103000.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 04 04:59:26 -0700 2013</created_at>
+  <updated_at>Sat May 04 04:59:26 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73410027</id>
+  <body><![CDATA[Ja bih najvise na svetu volela da mogu samo da po ceo dan citam :) cini mi se mi nikad ne nestalo materijala - toliko puno knjiga a tako malo vremena - moja vecita fraza :)<br />Ja Sema redovno kupujem kako koja izadje, on mi je uz Patrisu od Laguninih serijala (uz neku epsku fantastiku) jedan od najdrazih serijala - iako nije zapravo rec o serijalu]]></body>
+  
+  <user>
+    <id>12277740</id>
+    <name>Jadranka</name>
+    <display_name>Jadranka</display_name>
+
+    <location>Belgrade, Serbia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12277740-jadranka]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1393172340p3/12277740.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1393172340p2/12277740.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 04 05:04:39 -0700 2013</created_at>
+  <updated_at>Sat May 04 05:04:39 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73410248</id>
+  <body><![CDATA[I da po ceo dan čitaš (i da ti je to posao) opet bi ti dan bio kratak i ne bi stizala sve da pročitaš... a ponajmanje za svoju dušu... Ja na svaku knjigu koju urednički odaberem/kupim/prodam koja je vredna pažnje i objavljivanja moram da pročitam barem po 20-50 strana kojekakvih nikakvih knjiga koje ovde neću ni spominjati da bih došla do te jedne vredne naše pažnje... A s godinama je sve teže odabrati nešto što nije već viđeno ovde i što je bolje od onog objavljenog (glupo je objavljivati gore knjige od već objavljenih kod nas, a mnogi izdavači upravo to čine...) Ne sećam se kad sam poslednji put pročitala neku knjigu isključivo za svoju dušu... :(]]></body>
+  
+  <user>
+    <id>3103000</id>
+    <name>Tea</name>
+    <display_name>Tea Jovanović</display_name>
+
+    <location>Belgrade, Serbia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3103000-tea-jovanovi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1475352612p3/3103000.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1475352612p2/3103000.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 04 05:13:33 -0700 2013</created_at>
+  <updated_at>Sat May 04 05:13:33 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73410970</id>
+  <body><![CDATA[Razumem ali i tebi je jasno da je velikoj vecini nas ovde tvoj posao - posao iz snova iako je kao sto i sama kazes i to posao. <br />I slazem se da je vremenom sve teze naci nesto novo a dobro, posebno kad pod uticajem vladajucih trendova krenu da isplivavaju naslovi koji pored toga sto su ukalupljeni jos su i loseg kvaliteta.<br />Meni se cini da su kod nas izdavaci u poslednje vreme nekako digli ruke od kvaliteta a na ustrb lagane komercijale koja je trenutni hit, i da mnogo vise paznje poklanjaju instant citaocima umesto nama koji smo citali i pre pojave raznih nijansi, plitkih i povrsnih naslova koji ostaju u secanju samo dok ne uzmes u ruke sledeci naslov.<br />To pomalo nije fer i zato je i nama pravim knjigoholicarima tesko da dodjemo da kavlitetnog stiva. <br />Ja malo oduzih i udaljih se teme tvog originalnog posta nadam se da ne zameras :)]]></body>
+  
+  <user>
+    <id>12277740</id>
+    <name>Jadranka</name>
+    <display_name>Jadranka</display_name>
+
+    <location>Belgrade, Serbia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12277740-jadranka]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1393172340p3/12277740.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1393172340p2/12277740.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 04 05:38:49 -0700 2013</created_at>
+  <updated_at>Sat May 04 05:38:49 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73412194</id>
+  <body><![CDATA[Naravno da ne zameram, Jadranka, drago mi je uvek da čujem želje i mišljenja čitaoca... Barem imam sreću da se bavim poslom koji mi je i veliko uživanje... I ja se godinama borim s našim izdavačima u pokušaju da ih navedem da više biraju i objavljuju kvalitetnije knjige (i kod komercijalnih izdanja ima raznih klasa u kvalitetu)... Ja mislim da naša publika čita samo A i eventualno B klasu komercijalnih knjiga i da im ne možeš uvaljivati C-X klase... Ali sve su gluvlji... i urednici im uglavnom uopšte ne čitaju knjige za koje kupuju prava... Ja sam svaku knjigu koju sam kao urednik kupila pre toga pročitala, u 90% slučajeva od korica do korica, a novi koji sada to rade po raznim izdavačkim kućama niti su čitali šta su te kuće ranije objavljivale niti čitaju to što kupuju... i rezultat je kakav jeste...]]></body>
+  
+  <user>
+    <id>3103000</id>
+    <name>Tea</name>
+    <display_name>Tea Jovanović</display_name>
+
+    <location>Belgrade, Serbia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3103000-tea-jovanovi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1475352612p3/3103000.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1475352612p2/3103000.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 04 06:16:07 -0700 2013</created_at>
+  <updated_at>Sat May 04 06:16:07 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73412945</id>
+  <body><![CDATA[Pa da takav utisak se i stiče - kao da ni urednici ne čitaju to što objavljuju. I imam poprilično zamerke i na neke kuće kad je reč o kvalitetu prevoda i lekture - neke greške mi stvarno toliko zasmetaju da mi dođe da dignem ruke od daljeg čitanja.<br />Ali da ne bude da samo mračim, ono što jeste divno je to koliko se tržište kod nas otvorilo u poslednjih 10-15 godina, stižu nam naslovi koji su trenutni hit i svetu i ima sve više knjižara.<br />Kad se setim dok sam bila u gimnaziji gde sam sve knjige kupovala sad mi izgleda neverovatno - recimo Pekićevo Besnilo (Solaris izdanje) sam kupila verovala ti ili ne u Depou :) neki su tamo išli da kupuju garderobu a sestra i ja knjige :)<br />Tako da nije sve ni baš crno :)]]></body>
+  
+  <user>
+    <id>12277740</id>
+    <name>Jadranka</name>
+    <display_name>Jadranka</display_name>
+
+    <location>Belgrade, Serbia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12277740-jadranka]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1393172340p3/12277740.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1393172340p2/12277740.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 04 06:34:05 -0700 2013</created_at>
+  <updated_at>Sat May 04 06:34:05 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73413276</id>
+  <body><![CDATA[Nije sve crno... nešto je i sivo... :)<br /><br />Neki "ugledni" izdavači plaćaju prevodioce 1 evro po šlajfni prevoda, korekturu ne rade jer im je skupo da štampaju tekst za korekturu na papiru pa još i da plate korektora, o njihovim lektorima ne bih ovom prilikom... :( Pa onda ni izdanja ne mogu da im izgledaju bolje... I sve sam im to sto puta rekla u oči ali njih briga za to... oni ne čitaju knjige, mogu da prodaju i toalet-papir kao i knjige (jednako se razumeju u oba proizvoda)... A ima i izdavača poput Lagune i još nekih koji pošteno plaćaju prevodioce pa su u mogućnosti da im i prevodi budu dobri... I onim "uglednim" se ne isplati da bolje plaćaju pa i da dobiju bolje prevodioce, a Laguni se isplati (i to na istom tržištu)...<br /><br />Pre 2 godine naturena mi je na uredjenje jedna knjiga koju nisam birala, toliko je to bio očajno glup i loš tekst da smo knjigu sredili ali sam odbila da je potpišem kao urednik jer nisam mogla da stanem iza te knjige (osim da su prevod i lektura OK) i kad smo završili rekla sam izdavaču da ga treba zavezati za stolicu i naterati ga za kaznu da pročita knjigu koju je objavio... Srce me je bolelo za uludo bačene pare za prava, prevod i sve ostalo... Za te pare se mogla pribaviti 10 puta bolja knjiga...]]></body>
+  
+  <user>
+    <id>3103000</id>
+    <name>Tea</name>
+    <display_name>Tea Jovanović</display_name>
+
+    <location>Belgrade, Serbia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3103000-tea-jovanovi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1475352612p3/3103000.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1475352612p2/3103000.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 04 06:42:14 -0700 2013</created_at>
+  <updated_at>Sat May 04 06:42:14 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73413837</id>
+  <body><![CDATA[Da Laguna ima dobre prevodioce - omakne se i njima neki propust ali dobro, greše manje od nekih drugih.<br />Ono što ja mogu da primetim kao laik je da recimo Dereta jako dobro radi svoje prevode - bar ono što sam ja imala prilike da čitam kao i Plato.<br />Jedna izdavačka kuća koju ne znam da li da pominjem po imenu pošto nemam lepo mišljenje o njihovim prevodima a mislim da lako može da se zaključi na koju mislim (sad su u samom vrhu izdavaštva kod nas )- tako zna da upropasti knjigu da nemam reči...ali bukvalno knjige kasape lošim prevodima. To me baš užasava!]]></body>
+  
+  <user>
+    <id>12277740</id>
+    <name>Jadranka</name>
+    <display_name>Jadranka</display_name>
+
+    <location>Belgrade, Serbia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12277740-jadranka]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1393172340p3/12277740.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1393172340p2/12277740.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 04 06:55:14 -0700 2013</created_at>
+  <updated_at>Sat May 04 06:55:14 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73414185</id>
+  <body><![CDATA[Dereta ima dobre prevode kad ponekad angažuje vrsnog prevodioca sa strane... Šteta što im jedna njihova stalna prevodilica upropašćava neke knjige (za koje me duša boli)...<br /><br />Plato ima dobre prevode sa ruskog kad im radi Natalija Nenezić, inače ni oni ne lektorišu svoje knjige... Od svih knjiga koje sam objavila digitalno (a koje su sve ranije već bile objavljivane), 70% naslova sam morala da lektorišem jer prvi put to nije bilo urađeno (iako su na Platoovim izdanjima uredno bili potpisani razni lektori)...<br /><br />Mislimo na istog izdavača, ti mu ne spominješ ime a ja ga nazivam "uglednim", i sve što sam ovde napisala rekla sam mu hiljadu puta i uživo... Zato odavno od mene ne dobija nijedan predlog neke knjige jer ne želim da ih upropasti kriminalnim prevodima za bedne pare...]]></body>
+  
+  <user>
+    <id>3103000</id>
+    <name>Tea</name>
+    <display_name>Tea Jovanović</display_name>
+
+    <location>Belgrade, Serbia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3103000-tea-jovanovi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1475352612p3/3103000.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1475352612p2/3103000.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 04 07:03:29 -0700 2013</created_at>
+  <updated_at>Sat May 04 07:03:29 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73414493</id>
+  <body><![CDATA[Eto vidiš svašta nešto mi obični čitaoci ni ne znamo.<br /><br />Moram da priznam da su znali da me prijatno iznenade neki mali izdavači iz unutrašnjosti Srbije.<br />Takođe izdanja rađena u staroj YU su i dalje daleko po kvalitetu ispred današnjih.<br /><br />Znam da mislimo na istog izdavača...osim jednog pisca koga oni ekskluzivno drže za naše područje sve ostalo sam počela da zaobilazim u širokom luku]]></body>
+  
+  <user>
+    <id>12277740</id>
+    <name>Jadranka</name>
+    <display_name>Jadranka</display_name>
+
+    <location>Belgrade, Serbia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12277740-jadranka]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1393172340p3/12277740.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1393172340p2/12277740.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 04 07:09:27 -0700 2013</created_at>
+  <updated_at>Sat May 04 07:09:27 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73414944</id>
+  <body><![CDATA[Već godinama, kao zadušna baba rogobarim našim izdavačima da ne vređaju inteligenciju svojim čitaocima, da se potrude da pruže što bolji kvalitet čitaocima za pare koje izdvoje da kupe knjigu... I bilo ona teža ili lakša literatura da knjiga mora biti kvalitetno urađena... Ako hoće da dugo potraju na ovom tržištu i da im se čitaoci vraćaju i budu im verni... Jer svakom čitaocu možeš samo tri puta "uvaliti" loš tekst i loše odrađenu knjigu, i nikad više ništa neće kupiti od tebe pa taman da objaviš ne znam ni ja šta udarno... I uglavnom me poslušaju upravo ti manji izdavači s najmanje finansijskih mogućnosti... I zato njima često i besplatno pomognem... Ova kriza i ošljarenje na knjigama za koju godinu zbrisaće mnoge izdavače... I Narodna knjiga je nažalost propala kad je počela da štancuje i ošljari... A bila je najveća i imala je najširi izbor knjiga u to vreme u Srbiji...<br /><br />Ranije su se knjige temeljnije radile, zaista su se uređivale itd., bila su i srećnija vremena i ljudi su radili za plate a ne na normu... A sada se svi trude da prežive (posebno prevodioci i lektori) kojima sve vreme izdavači smanjuju honorare pa ne mogu jednu stranu da prevode ceo dan, nego moraju da urade minimum 10-20 da bi imali za lebac... A malo je onih koji su i brzi i dobri (ima ih ali su raritet)...]]></body>
+  
+  <user>
+    <id>3103000</id>
+    <name>Tea</name>
+    <display_name>Tea Jovanović</display_name>
+
+    <location>Belgrade, Serbia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3103000-tea-jovanovi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1475352612p3/3103000.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1475352612p2/3103000.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 04 07:20:12 -0700 2013</created_at>
+  <updated_at>Sat May 04 07:20:12 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73415706</id>
+  <body><![CDATA[Ispričasmo smo se mi ovde lepo :) na kraju nismo rekle ništa više od onoga što i sami izdavači znaju - doduše ne znam da li je to dobro ili loše, da li su samo nezainteresovani da čuju glas "naroda" tj.onih zbog koji i rade posao koji rade ili ih je jednostavno baš briga i misle da rade kako treba. <br /><br />Ono što znam to je da kad već dajem pare očekujem kvalitetan proizvod kao i svi.<br /><br />Iskreno ne očekujem da će se nešto bitno promeniti, zbog krize koja je sveprisutna, opstaće samo oni najjači što ne znači i najkvalitetniji.<br />Ima entuzijasta koji još odolevaju i onih koji se trude da nešto više urade i držim im pesnice.]]></body>
+  
+  <user>
+    <id>12277740</id>
+    <name>Jadranka</name>
+    <display_name>Jadranka</display_name>
+
+    <location>Belgrade, Serbia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12277740-jadranka]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1393172340p3/12277740.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1393172340p2/12277740.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 04 07:36:10 -0700 2013</created_at>
+  <updated_at>Sat May 04 07:36:10 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73434030</id>
+  <body><![CDATA[Jes, Jadranka, ispričasmo se lepo :) Jedan bibliotekar je našao dobro ime za nas kojima je kvalitet još uvek bitan... Nazvao nas je "poslednji Mohikanci"... :) I ne brini se... Svi izdavači koji su dugoročno radili nekvalitetno nestali su... Naravno, nažalost, pojavili su se novi nekvalitetni... Ali naše izdavače sahraniće gramzivost i sujeta... A dogod je takvih čitalaca koji za svoje pare hoće kvalitet i bojkotuju one koji ošljare ima nade i za naše izdavaštvo... :) I što češće treba javno da pričate o tome... Nije dovoljno da ih samo ja plašim time i izigravam babarogu... :) A globalizacija i elektronske knjige, i izlazak u svet nateraće ih da dignu kvalitet... Strane knjižare (elektronske) neće držati knjige izdavača čije knjige kupci vraćaju zbog lošeg tehničkog i jezičkog kvaliteta i traže svoje pare nazad... A mnogi naši izdavači s tehničke strane neće moći da prođu visoke standarde digitalnih knjižara u svetu... A ima mnogo izdavača koji ne umeju ni imejl da koriste i ne govore nijedan strani jezik, a i s maternjim loše stoje... :)]]></body>
+  
+  <user>
+    <id>3103000</id>
+    <name>Tea</name>
+    <display_name>Tea Jovanović</display_name>
+
+    <location>Belgrade, Serbia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3103000-tea-jovanovi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1475352612p3/3103000.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1475352612p2/3103000.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 04 13:35:43 -0700 2013</created_at>
+  <updated_at>Sat May 04 13:35:43 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>76803013</id>
+  <body><![CDATA[Stanje u Hrvatskoj je bolje. Cijene nisu primjerene, osim Znanja. U mene za jednu kvalitetu Martina (Igra prijestolja) košta 25€. To je previše dok Znanje izdaje većinom knjige niže kvalitete, cijena je 3-5.5€. Ukupno je gadno, ali podnošljivo. U Hr stanje se promjenilo zbog Todorića jer kad je kupio uništeno Znanje on ga je obnovio i stavio ga najjačega zbog cijene. Čak bivši "vladari" Mozaik knjiga i Profil su se spojili da oba ne propadnu. Zadnje vrijeme počelo je bolje. Larssona su ukupno objavili za 100€ nižu cijenu. A za 15€ se može uskoro kupiti Prohujalo s vihorom. Neka samo tako nastave.]]></body>
+  
+  <user>
+    <id>16048031</id>
+    <name>Obožavatelj</name>
+    <display_name>Obožavatelj Knjiga</display_name>
+
+    <location>Split, 21000, Croatia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16048031-obo-avatelj-knjiga]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1433406811p3/16048031.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1433406811p2/16048031.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jun 22 14:32:05 -0700 2013</created_at>
+  <updated_at>Sat Jun 22 14:32:05 -0700 2013</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/606696731]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/606696731]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

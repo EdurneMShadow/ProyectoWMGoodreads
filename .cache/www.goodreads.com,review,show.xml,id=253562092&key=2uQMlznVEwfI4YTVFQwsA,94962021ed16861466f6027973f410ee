@@ -1,0 +1,593 @@
+status: 200
+x-request-id: Q1CHHV3GRD3X9KK5S6VZ
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=253562092&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhgxMzctODcxMTQ0OC0wOTg4NDIxBjoGRVQ%3D--6b7f31bb747441b21c679cb14a2037c7aa500465;
+ path=/; expires=Wed, 15 Apr 2037 16:56:36 -0000, locale=es;
+ path=/, _session_id2=f3915e91fd6a7a329290acdc6f2ddbf2; path=/;
+ expires=Sat, 15 Apr 2017 22:56:36 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 22230
+server: Server
+x-runtime: 0.394863
+etag: W/"96b1be0c14d8f2ddadea355fccead1be"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 16:56:36 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>253562092</id>
+    
+  <user>
+    <id>5691412</id>
+    <name>Megs ♥</name>
+    <display_name>Megs ♥</display_name>
+
+    <location>Gold Coast, 4217, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5691412-megs]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1485177518p3/5691412.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1485177518p2/5691412.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">11870085</id>
+  <isbn>0525478817</isbn>
+  <isbn13>9780525478812</isbn13>
+  <text_reviews_count type="integer">126888</text_reviews_count>
+  <title>The Fault in Our Stars</title>
+  <title_without_series>The Fault in Our Stars</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1360206420m/11870085.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1360206420s/11870085.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/11870085-the-fault-in-our-stars</link>
+  <num_pages>313</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Dutton Books</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.27</average_rating>
+  <ratings_count>2358147</ratings_count>
+  <description>&lt;i&gt;There is an alternate cover edition &lt;a href="https://www.goodreads.com/book/show/25856606-the-fault-in-our-stars" rel="nofollow"&gt;here&lt;/a&gt;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;"I fell in love the way you fall asleep: slowly, then all at once."&lt;br /&gt;&lt;br /&gt;Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a gorgeous plot twist named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten.&lt;br /&gt;&lt;br /&gt;Insightful, bold, irreverent, and raw, The Fault in Our Stars is award-winning author John Green's most ambitious and heartbreaking work yet, brilliantly exploring the funny, thrilling, and tragic business of being alive and in love.</description>
+<authors>
+<author>
+<id>1406384</id>
+<name>John Green</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>4487320</ratings_count>
+<text_reviews_count>274858</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">10599004</id>
+          <page type="integer">103</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Jan 17 09:58:06 -0800 2012</created_at>
+          <updated_at type="datetime">Tue Jan 17 09:58:06 -0800 2012</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">33</percent>
+          <work_id type="integer">16827462</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">1247706069</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Feb 21 20:22:34 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>4</rating>
+  <votes>172</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="favs" exclusive="false" review_shelf_id="172294099" sortable="false" />
+    <shelf name="e-books" exclusive="false" review_shelf_id="172294079" sortable="false" />
+    <shelf name="own-copy" exclusive="false" review_shelf_id="176701365" sortable="false" />
+    <shelf name="signed" exclusive="false" review_shelf_id="181142357" sortable="false" />
+    <shelf name="z-2012-reads" exclusive="false" review_shelf_id="176701320" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Jan 15 00:00:00 -0800 2012</started_at>
+  <read_at>Wed Jan 18 00:00:00 -0800 2012</read_at>
+  <date_added>Fri Dec 30 20:06:25 -0800 2011</date_added>
+  <date_updated>Thu Jan 09 19:43:59 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<br />Hazel is a 16 year old girl with stage IV thyroid cancer, and has been living with an oxygen tank since she was first diagnosed at 12. She realizes she is going to die, but she is on a drug that is keeping the tumors at bay. At a support group meeting she meets hottie Augustus Waters, who is in r...]]>
+  </body>
+
+  
+
+  <comments_count>19</comments_count>
+    <comments start="1" end="19" total="19">
+        <comment>
+  <id>43546067</id>
+  <body><![CDATA[Vlog brothers ftw]]></body>
+  
+  <user>
+    <id>6818032</id>
+    <name>Lola</name>
+    <display_name>Lola</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6818032-lola]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1332626973p3/6818032.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1332626973p2/6818032.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 16 14:20:47 -0800 2012</created_at>
+  <updated_at>Mon Jan 16 14:20:47 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>43655567</id>
+  <body><![CDATA[His characters do tend to be similar. I am glad that is not the case with this book. Nice review :)]]></body>
+  
+  <user>
+    <id>5686305</id>
+    <name>Shayantani</name>
+    <display_name>Shayantani Das</display_name>
+
+    <location>new delhi, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5686305-shayantani-das]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1491731073p3/5686305.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1491731073p2/5686305.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 18 08:12:40 -0800 2012</created_at>
+  <updated_at>Wed Jan 18 08:12:40 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>43657024</id>
+  <body><![CDATA[I am ashamed to say I have never read a John Green book. *hanging head in shame*<br />I might have to start with this one. Wonderful review, Meg! :)]]></body>
+  
+  <user>
+    <id>4844873</id>
+    <name>Laura</name>
+    <display_name>Laura</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4844873-laura]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1299680097p3/4844873.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1299680097p2/4844873.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 18 08:49:14 -0800 2012</created_at>
+  <updated_at>Wed Jan 18 08:49:14 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>43657309</id>
+  <body><![CDATA[@Tanu- I was too...If Hazel had been his typical female it would not have worked at all! Thank you!<br /><br />@ Laura- Don't be ashamed. There are plenty of great authors I haven't gotten to yet, and before I even knew a single thing about John I picked up "Looking for Alaska" randomly from a bargain bin in 2008 and loved it. Hope you like this book if you read it and thanks!]]></body>
+  
+  <user>
+    <id>5691412</id>
+    <name>Megs ♥</name>
+    <display_name>Megs ♥</display_name>
+
+    <location>Gold Coast, 4217, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5691412-megs]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1485177518p3/5691412.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1485177518p2/5691412.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 18 08:53:55 -0800 2012</created_at>
+  <updated_at>Wed Jan 18 08:53:55 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>43659088</id>
+  <body><![CDATA[Did you get a preordered autographed copy?]]></body>
+  
+  <user>
+    <id>7368533</id>
+    <name>✿~[z๏ℯy]~✿</name>
+    <display_name>✿~[z๏ℯy]~✿</display_name>
+
+    <location>Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7368533-z-y]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1326147580p3/7368533.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1326147580p2/7368533.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 18 09:30:09 -0800 2012</created_at>
+  <updated_at>Wed Jan 18 09:30:09 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>43659880</id>
+  <body><![CDATA[Very nice review Meg! I know what you mean about authors slipping in big dictionary words!]]></body>
+  
+  <user>
+    <id>5463965</id>
+    <name>Heidi</name>
+    <display_name>Heidi</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5463965-heidi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1326677199p3/5463965.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1326677199p2/5463965.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 18 09:47:37 -0800 2012</created_at>
+  <updated_at>Wed Jan 18 09:47:37 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>43660748</id>
+  <body><![CDATA[@ Zoey- nope :/<br /><br />@ Heidi- thanks :-)]]></body>
+  
+  <user>
+    <id>5691412</id>
+    <name>Megs ♥</name>
+    <display_name>Megs ♥</display_name>
+
+    <location>Gold Coast, 4217, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5691412-megs]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1485177518p3/5691412.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1485177518p2/5691412.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 18 10:04:41 -0800 2012</created_at>
+  <updated_at>Wed Jan 18 10:04:41 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>44464005</id>
+  <body><![CDATA[I feel like I'm missing out here. I know this dude writes YA, but I've got to check him out.]]></body>
+  
+  <user>
+    <id>7266770</id>
+    <name>Nick</name>
+    <display_name>Nick</display_name>
+
+    <location>Bronx, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7266770-nick]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1325049989p3/7266770.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1325049989p2/7266770.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 31 11:08:50 -0800 2012</created_at>
+  <updated_at>Tue Jan 31 11:08:50 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>44646088</id>
+  <body><![CDATA[You should read Paper Towns first Nick.]]></body>
+  
+  <user>
+    <id>6818032</id>
+    <name>Lola</name>
+    <display_name>Lola</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6818032-lola]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1332626973p3/6818032.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1332626973p2/6818032.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 03 11:53:16 -0800 2012</created_at>
+  <updated_at>Fri Feb 03 11:53:16 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>44810269</id>
+  <body><![CDATA[I like Paper Towns and Looking for Alaska the most.]]></body>
+  
+  <user>
+    <id>7618731</id>
+    <name>Desiree</name>
+    <display_name>Desiree</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7618731-desiree]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328384052p3/7618731.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328384052p2/7618731.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 06 08:47:49 -0800 2012</created_at>
+  <updated_at>Mon Feb 06 08:47:49 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>45090442</id>
+  <body><![CDATA[What about Will Grayson?]]></body>
+  
+  <user>
+    <id>7162892</id>
+    <name>Fiona</name>
+    <display_name>Fiona</display_name>
+
+    <location>Dallas, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7162892-fiona]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1323665875p3/7162892.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1323665875p2/7162892.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 11 12:17:28 -0800 2012</created_at>
+  <updated_at>Sat Feb 11 12:17:28 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>46412212</id>
+  <body><![CDATA[OhMyGod so many tears :(]]></body>
+  
+  <user>
+    <id>7803885</id>
+    <name>Heaven</name>
+    <display_name>Heaven</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7803885-heaven]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1329544811p3/7803885.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1329544811p2/7803885.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Mar 05 10:03:19 -0800 2012</created_at>
+  <updated_at>Mon Mar 05 10:03:19 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>65670487</id>
+  <body><![CDATA[I liked that he used extensive vocabulary. To me it feels that he is respecting his audience by not dumbing anything down. I still felt like Hazel and Augustus were teens, I mean they still has certain phrases that kept them feeling young.]]></body>
+  
+  <user>
+    <id>7315087</id>
+    <name>Kim</name>
+    <display_name>Kim</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7315087-kim]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1426632851p3/7315087.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1426632851p2/7315087.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 16 00:04:23 -0800 2013</created_at>
+  <updated_at>Wed Jan 16 00:04:23 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69922613</id>
+  <body><![CDATA[I didn't know about Green's utube video. I might have to go watch it now because it sounds very interesting. I also realized that he portrayed similar characters in his stories but Hazel and August are original and I fell in love with them as soon as I started reading]]></body>
+  
+  <user>
+    <id>17657965</id>
+    <name>Ecs</name>
+    <display_name>Ecs</display_name>
+
+    <location>Cary, NC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17657965-ecs]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 15 20:22:52 -0700 2013</created_at>
+  <updated_at>Fri Mar 15 20:22:52 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>74559600</id>
+  <body><![CDATA[I feel exactly the same in the fact that Hazel and Agustus are their own characters and unlike any I have seen before. I agree with just about everything you said. I cried, I laughed, I thought it was just like any other cancer book but somehow had something more, etc. However, there is one thing I disagree on. While Hazel and Agustus don't sound like most teenagers I know, I don't think they should've sounded any different than they did. I know a couple of teenagers who do in fact use huge words that sometimes take you a minute to understand. He perfectly represented those kids. I couldn't have asked for a better Hazel or Agustus.]]></body>
+  
+  <user>
+    <id>18123833</id>
+    <name>Megan</name>
+    <display_name>Megan Haase</display_name>
+
+    <location>Conway, AR</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18123833-megan-haase]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1369223258p3/18123833.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1369223258p2/18123833.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue May 21 08:09:12 -0700 2013</created_at>
+  <updated_at>Tue May 21 08:09:12 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>99997039</id>
+  <body><![CDATA[Wasn't she diagnosed at 13???]]></body>
+  
+  <user>
+    <id>30020335</id>
+    <name>Quinny</name>
+    <display_name>Quinny quinn</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/30020335-quinny-quinn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1398760344p3/30020335.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1398760344p2/30020335.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 09 04:32:43 -0700 2014</created_at>
+  <updated_at>Mon Jun 09 04:32:43 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>100055618</id>
+  <body><![CDATA[<a href="https://www.goodreads.com/book/show/11870085.The_Fault_in_Our_Stars" title="The Fault in Our Stars by John Green" rel="nofollow">
+  <img src="https://images.gr-assets.com/books/1360206420s/11870085.jpg" alt="The Fault in Our Stars by John Green" class="gr-hostedUserImg"></a>Yeah Hazel was diagnosed when she was thirteen. It even says it in the movie trailer on you-tube]]></body>
+  
+  <user>
+    <id>30021849</id>
+    <name>Perfect</name>
+    <display_name>Perfect</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/30021849-perfect]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1426643743p3/30021849.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1426643743p2/30021849.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jun 10 00:35:38 -0700 2014</created_at>
+  <updated_at>Tue Jun 10 00:35:38 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>100830602</id>
+  <body><![CDATA[All I could think about was...Augustus Waters.]]></body>
+  
+  <user>
+    <id>10290663</id>
+    <name>Nikki</name>
+    <display_name>Nikki</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10290663-nikki]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1455058536p3/10290663.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1455058536p2/10290663.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 23 00:06:41 -0700 2014</created_at>
+  <updated_at>Mon Jun 23 00:06:41 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>106203488</id>
+  <body><![CDATA[My name is rebecka,I really agreed with this part that you wrote."As far as John writing a female voice for the first time, I thought he did a good job. This book wasn't life-changing for me, but I easily could see how others could be affected by this book in an astounding way. It tackles cancer, death, loss of sight, loss of loved ones, love, thoughts of the afterlife and shows vividly from one girls perspective what it may feel like to know you are dying. This book may not suit everyone, but if you don't have issues reading about those things I would recommend this book to you. It was quite depressing at times, but I'm sure you would know that just by reading the synopsis." I thought that you said it perfectly, this book definitely touches on death a lot and makes you kind of realize what it is like to be dying or have someone close to you that is dying.]]></body>
+  
+  <user>
+    <id>34918932</id>
+    <name>Rebecka</name>
+    <display_name>Rebecka</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34918932-rebecka]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Sep 16 06:18:05 -0700 2014</created_at>
+  <updated_at>Tue Sep 16 06:18:05 -0700 2014</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/253562092]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/253562092]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

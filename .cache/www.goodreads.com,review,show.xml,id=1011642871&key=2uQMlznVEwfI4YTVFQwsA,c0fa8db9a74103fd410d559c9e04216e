@@ -1,0 +1,1285 @@
+status: 200
+x-request-id: 45J9K2DVM6BSP8YG6ZCA
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=1011642871&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhgwOTktMzExNzgzMy01NzMyMjU5BjoGRVQ%3D--fee9dec46926322a8ea60d1abce0130e0eb6eee1;
+ path=/; expires=Wed, 15 Apr 2037 17:02:23 -0000, locale=es;
+ path=/, _session_id2=1e328672de8e3d1d303625c9f7c623ec; path=/;
+ expires=Sat, 15 Apr 2017 23:02:24 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 54938
+server: Server
+x-runtime: 0.471819
+etag: W/"51a86d0f0c9abe32eb62055a20b1bbaa"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 17:02:24 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1011642871</id>
+    
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">14742903</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>Frankenstein</title>
+  <title_without_series>Frankenstein</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1338477198m/14742903.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1338477198s/14742903.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/14742903-frankenstein</link>
+  <num_pages>208</num_pages>
+  <format>Paperback</format>
+  <edition_information>SF Masterworks, #100</edition_information>
+  <publisher>Gollancz</publisher>
+  <publication_day>11</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.75</average_rating>
+  <ratings_count>855238</ratings_count>
+  <description>The classic tale of the devastating consequences of playing God.&lt;br /&gt;&lt;br /&gt;Brilliant, driven Victor Frankenstein has at last realized his greatest ambition. The scientist has succeeded in creating intelligent life. But when his creature first stirs, Frankenstein realizes he has made a monster. And, abandoned by its maker and shunned by everyone who sees it, the Doctor's creation sets out to destroy him and all that he holds dear.&lt;br /&gt;&lt;br /&gt;Mary Shelley's FRANKENSTEIN remains one of the greatest horror stories ever written, a book that chillingly captures the unforeseen terror of playing God. And the heart-stopping fear of being pursued by a powerful, relentless killer.</description>
+<authors>
+<author>
+<id>11139</id>
+<name>Mary Wollstonecraft Shelley</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p5/11139.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p2/11139.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/11139.Mary_Wollstonecraft_Shelley]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>877806</ratings_count>
+<text_reviews_count>20767</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">539056093</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Aug 17 14:46:49 -0700 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">534696896</id>
+          <old_status>to-read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Wed Aug 13 17:14:55 -0700 2014</updated_at>
+          <ratings_count>8</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">516591104</id>
+          <old_status></old_status>
+          <status>to-read</status>
+          <updated_at type="datetime">Wed Jul 30 17:35:21 -0700 2014</updated_at>
+          <ratings_count>4</ratings_count>
+          <comments_count>8</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>3</rating>
+  <votes>112</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="horror" exclusive="false" review_shelf_id="767397783" sortable="false" />
+    <shelf name="romance" exclusive="false" review_shelf_id="767397903" sortable="false" />
+    <shelf name="science-fiction" exclusive="false" review_shelf_id="767397969" sortable="false" />
+    <shelf name="steampunk" exclusive="false" review_shelf_id="767398038" sortable="false" />
+    <shelf name="novel" exclusive="false" review_shelf_id="767397746" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Aug 13 00:00:00 -0700 2014</started_at>
+  <read_at>Sun Aug 17 00:00:00 -0700 2014</read_at>
+  <date_added>Wed Jul 30 17:35:21 -0700 2014</date_added>
+  <date_updated>Wed Aug 20 13:01:59 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<b> <i>Beware; for I am fearless, and therefore powerful.<i></i></i> </b><br /><br />Well, finally I read the original novel after watching infinite film adaptations, variations of the theme and even odd approaches to the topic.<br /><br />I was sure that I would enjoy a lot the novel but sadly, compelled to write an honest review, I have t...]]>
+  </body>
+
+  
+
+  <comments_count>49</comments_count>
+    <comments start="1" end="49" total="49">
+        <comment>
+  <id>104493226</id>
+  <body><![CDATA[Have heard that it is tedious and boring. Keep putting it on the back burner.]]></body>
+  
+  <user>
+    <id>7668522</id>
+    <name>Carol</name>
+    <display_name>Carol</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7668522-carol]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483228856p3/7668522.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483228856p2/7668522.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 17 17:45:12 -0700 2014</created_at>
+  <updated_at>Sun Aug 17 17:45:12 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104494659</id>
+  <body><![CDATA[<i>Carol wrote: "Have heard that it is tedious and boring. Keep putting it on the back burner."</i><br /><br />Yes, sorry, it wouldn't be honest if I hadn't mention it.]]></body>
+  
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 17 18:10:40 -0700 2014</created_at>
+  <updated_at>Sun Aug 17 18:10:40 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104495031</id>
+  <body><![CDATA[The creation story <i>
+  <b>of</b>
+</i> the novel is much more stirring than the creation story <i>
+  <b>in</b>
+</i> the novel. I have to agree with Alejandro. But the themes -- science as dangerous, the responsibility of the creator for the creation -- are good ones.]]></body>
+  
+  <user>
+    <id>3803671</id>
+    <name>Ivonne</name>
+    <display_name>Ivonne Rovira</display_name>
+
+    <location>Louisville, KY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3803671-ivonne-rovira]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1339470651p3/3803671.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1339470651p2/3803671.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 17 18:16:34 -0700 2014</created_at>
+  <updated_at>Sun Aug 17 18:16:34 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104496183</id>
+  <body><![CDATA[Quite indeed Ivonne!<br /><br />Great comments!]]></body>
+  
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 17 18:34:11 -0700 2014</created_at>
+  <updated_at>Sun Aug 17 18:34:11 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104507271</id>
+  <body><![CDATA[Excellent review, Alejandro!]]></body>
+  
+  <user>
+    <id>17861817</id>
+    <name>Ruth</name>
+    <display_name>Ruth Turner</display_name>
+
+    <location>Sydney, 02, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17861817-ruth-turner]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1435387851p3/17861817.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1435387851p2/17861817.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 17 22:13:39 -0700 2014</created_at>
+  <updated_at>Sun Aug 17 22:13:39 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104507533</id>
+  <body><![CDATA[<i>Ruth wrote: "Excellent review, Alejandro!"</i><br /><br />Thank you, Ruth! :)]]></body>
+  
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 17 22:21:23 -0700 2014</created_at>
+  <updated_at>Sun Aug 17 22:21:23 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104511099</id>
+  <body><![CDATA[Great review, it clearly articulates why I have never read the book either. I think a lot of it is due to when it was written - this would have been exceedingly racy and suspenseful in 1818, but slow and tedious to modern tastes.<br /><br />Have you read Dracula (without checking your books lists) - I found it to be a much better book than I expected]]></body>
+  
+  <user>
+    <id>10781757</id>
+    <name>Otherwyrld</name>
+    <display_name>Otherwyrld</display_name>
+
+    <location>Edinburgh, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10781757-otherwyrld]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1354381293p3/10781757.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1354381293p2/10781757.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 18 00:34:16 -0700 2014</created_at>
+  <updated_at>Mon Aug 18 00:34:16 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104526026</id>
+  <body><![CDATA[Yay! A very detailed, well-written and engaging review, Alejandro. "The writing of the book is tedious" I always had that feeling, I don't know why. (By the way, the "yay" is because of your fantastic review, not because you couldn't enjoy the book that much, just saying :P)<br />Thank you for your honesty; I think I'll read this book but not very soon.]]></body>
+  
+  <user>
+    <id>21575078</id>
+    <name>Florencia</name>
+    <display_name>Florencia</display_name>
+
+    <location>Argentina</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/21575078-florencia]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1491654995p3/21575078.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1491654995p2/21575078.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 18 08:25:15 -0700 2014</created_at>
+  <updated_at>Mon Aug 18 08:25:15 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104527606</id>
+  <body><![CDATA[<i>Alejandro wrote: "Carol wrote: "Have heard that it is tedious and boring. Keep putting it on the back burner."<br /><br />Yes, sorry, it wouldn't be honest if I hadn't mention it."</i><br /><br />Glad I read your informative review!]]></body>
+  
+  <user>
+    <id>7668522</id>
+    <name>Carol</name>
+    <display_name>Carol</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7668522-carol]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483228856p3/7668522.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483228856p2/7668522.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 18 08:55:14 -0700 2014</created_at>
+  <updated_at>Mon Aug 18 08:55:14 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104528258</id>
+  <body><![CDATA[Great review, Alejandro! A lot of people who like Frankenstein movies end up not enjoying the book. I liked it, but I think my expectations were different. Dr. Jekyll and Mr. Hyde, however, I thought was a mind-numbingly boring book that was a total waste of time.<br /><br />It's hard to get into these old classic horrors - because what was shocking and interesting at the time they were written is boring and mundane nowadays.<br /><br />Again, great review! And I agree with you that authors should just admit where they got their inspiration! There's no shame in it.]]></body>
+  
+  <user>
+    <id>25353295</id>
+    <name>Carmen</name>
+    <display_name>Carmen</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25353295-carmen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1412617445p3/25353295.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1412617445p2/25353295.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 18 09:07:34 -0700 2014</created_at>
+  <updated_at>Mon Aug 18 09:07:34 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104535944</id>
+  <body><![CDATA[<i>Otherwyrld wrote: "Great review, it clearly articulates why I have never read the book either. I think a lot of it is due to when it was written - this would have been exceedingly racy and suspenseful in 1818, but sl..."</i><br /><br />Hi, Otherwyrld! Yes, I agree that sometimes some books due the era when it was written can't impact in the expected way to the readers. That's sad, since I think that a good story should impact the same way not matter whenver is read. No, I haven't read "Dracula", I opted to read before "Carmilla" and it was an effect similar to this "Frankenstein", but hey! I still am planning to read "Dracula" :) I can't promise how much I'd like it, but I am willing to try it ;) I just need to fit it in my messy TBR list ;)]]></body>
+  
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 18 11:20:27 -0700 2014</created_at>
+  <updated_at>Mon Aug 18 11:20:27 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104536407</id>
+  <body><![CDATA[<i>Florencia wrote: "Yay! A very detailed, well-written and engaging review, Alejandro. "The writing of the book is tedious" I always had that feeling, I don't know why. (By the way, the "yay" is because of your fantas..."</i><br /><br />Hi, Florencia! ;) Don't worry, I understand the intention on your "yay" ;) Hehehehe. Thank you so much for your appraisals :) Oh, yes, I think that nobody with common sense decides to read some book with the anticipation that he/she will hate the book, it could be just dumb. In my case, as I explained I didn't hate it, just found it tedious, and it's maybe because it's one of the pioneers in the field of horror. I am sure that if the book would be more shocking due the publication era, maybe it wouldn't never find someboyd willing to publish it. I am truly glad of finally read it, and I think that's the important. The factor that I didn't enjoy that much, well, it's just something out of our control.]]></body>
+  
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 18 11:29:41 -0700 2014</created_at>
+  <updated_at>Mon Aug 18 11:29:41 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104536454</id>
+  <body><![CDATA[<i>Carol wrote: "Alejandro wrote: "Carol wrote: "Have heard that it is tedious and boring. Keep putting it on the back burner."<br /><br />Yes, sorry, it wouldn't be honest if I hadn't mention it."<br /><br />Glad I read your informa..."</i><br /><br />And I am glad too of helping you :)]]></body>
+  
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 18 11:30:25 -0700 2014</created_at>
+  <updated_at>Mon Aug 18 11:30:25 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104536840</id>
+  <body><![CDATA[<i>Carmen wrote: "Great review, Alejandro! A lot of people who like Frankenstein movies end up not enjoying the book. I liked it, but I think my expectations were different. Dr. Jekyll and Mr. Hyde, however, I th..."</i><br /><br />Hi, Carmen! :) Truly glad to know that you enjoyed so much this novel :) I plan to read "Dr. Jekyll and Mr. Hyde" really soon, then we'll be able to compare notes ;) Hehehe. Yes, as I commented before with other fellow readers, two readers never read the same book, for one will be just amazing, and to other will be "waste of time" as you put it. It's nobody's fault. One can't control the emotions provoked by a book to each of us. At least, while I didn't enjoy the novel as I'd expected, I would never qualified it as "waste of time", I am glad of finally read the original novel of a story which impacted so much in our popular culture. If I didn't really like it? Well, it's out of my own control. I just expressed my honest impression about the novel. Nor intending to discourage any future potential reader of the book. Each of us should decide for ourselves which novels we want to read, we appreciate recommendations, but at the end, it's our own final decision what defines if we want to read any book and the following reading experience will be out of our control.]]></body>
+  
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 18 11:36:23 -0700 2014</created_at>
+  <updated_at>Mon Aug 18 11:36:23 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104538398</id>
+  <body><![CDATA[Alejandro - I completely agree. Well said. :)]]></body>
+  
+  <user>
+    <id>25353295</id>
+    <name>Carmen</name>
+    <display_name>Carmen</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25353295-carmen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1412617445p3/25353295.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1412617445p2/25353295.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 18 12:02:37 -0700 2014</created_at>
+  <updated_at>Mon Aug 18 12:02:37 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104539385</id>
+  <body><![CDATA[<i>Carmen wrote: "Alejandro - I completely agree. Well said. :)"</i><br /><br />;) Cool!]]></body>
+  
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 18 12:19:18 -0700 2014</created_at>
+  <updated_at>Mon Aug 18 12:19:18 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104539672</id>
+  <body><![CDATA[I know the author was influenced a lot by Darwin and the theories of the origin of life influenced her deeply to develop this story. I really like this book as I read it to my girl when she was little and loved it so it brings good memories. <br />Great review as always Alejandro! :)]]></body>
+  
+  <user>
+    <id>9968594</id>
+    <name>Maria</name>
+    <display_name>Maria</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9968594-maria]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1450228502p3/9968594.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1450228502p2/9968594.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 18 12:22:47 -0700 2014</created_at>
+  <updated_at>Mon Aug 18 12:22:47 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104539946</id>
+  <body><![CDATA[<i>Maria wrote: "I know the author was influenced a lot by Darwin and the theories of the origin of life. Great review as always Alejandro! :)"</i><br /><br />That's a fact! :) In her introduction to the book, written by herself, she actually mentioned Darwin indicating that she had read his work as an influence. (I don't know why she never admitted the influences of other clearer sources).<br /><br />Actually, her introduction was written so engaging, that I was sure at that point that I will have the thrill of my life reading the actual novel. Sadly, it wasn't the case but I am glad of finally read it.<br /><br />Thank you so much for your very kind appraisals!]]></body>
+  
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 18 12:26:48 -0700 2014</created_at>
+  <updated_at>Mon Aug 18 12:26:48 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104555501</id>
+  <body><![CDATA[<i>Alejandro wrote: "Maria wrote: "I know the author was influenced a lot by Darwin and the theories of the origin of life. Great review as always Alejandro! :)"<br /><br />That's a fact! :) In her introduction to the book, writ..."</i><br /><br />Could you elaborate? After all, Origin of Species wasn't published until 1859, over 30 years after Frankenstein was published. Did she have access to Darwin's unpublished material, or hear him speak, or what? I am curious about this seeming discrepancy.]]></body>
+  
+  <user>
+    <id>10781757</id>
+    <name>Otherwyrld</name>
+    <display_name>Otherwyrld</display_name>
+
+    <location>Edinburgh, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10781757-otherwyrld]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1354381293p3/10781757.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1354381293p2/10781757.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 18 16:38:30 -0700 2014</created_at>
+  <updated_at>Mon Aug 18 16:38:30 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104612812</id>
+  <body><![CDATA[Helle and Otherwyrld: Both of you are right on your observation, Charles Darwin started publishing scientific papers until the 1830s and "On the Origin of Species" was not published until 1859. My comment was in reference to Dr. Erasmus Darwin (I apologize for not being specific) which I recently read on the book titled "Darwin's Ghosts" by Rebecca Stott:<br /><br />"Erasmus Darwin had a sophisticated understanding of how species had evolved from a single-celled aquatic ancestor, and how both rocks and species were the result of millions of years of adaptation.....but he did not come to understand evolutionary processes through a detailed story of natural history" <br /><br />Later on Percy Shelley telling Mary Shelley a discovery of Dr. Darwin in which "how in a paste of flour and water you can make tiny organisms increase in number and size, even without air, and they will come back to life when dried out. That is how life began he tells her. Not with a garden in Eden, but with tiny organisms in a pond" <br /><br />The book also mentions the dream and about the 1831 edition of Frankestein in which Mary first talks about the experiments of Dr. Darwin which obviously enormously influenced her as well as his grandson Charles Darwin. I believe she refers to him (Erasmus) only as Dr. Darwin but Im unsure about that. <br /><br />I hope this clarifies the comments made by Alejandro or myself regarding the influence of Darwin on Mary Shelley. :)]]></body>
+  
+  <user>
+    <id>9968594</id>
+    <name>Maria</name>
+    <display_name>Maria</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9968594-maria]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1450228502p3/9968594.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1450228502p2/9968594.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 19 14:17:00 -0700 2014</created_at>
+  <updated_at>Tue Aug 19 14:17:00 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104619787</id>
+  <body><![CDATA[<i>Maria wrote: "Helle and Otherwyrld: Both of you are right on your observation, Charles Darwin started publishing scientific papers until the 1830s and "On the Origin of Species" was not published until 1859. My ..."</i><br /><br />You never dissapoint me, María ;)<br /><br />Thanks a lot for your brilliant and illustrative explanation :)]]></body>
+  
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 19 16:10:40 -0700 2014</created_at>
+  <updated_at>Tue Aug 19 16:10:40 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104642555</id>
+  <body><![CDATA[Thanks for the clarification. Erasmus Darwin is always overshadowed by his more famous grandson but he really deserves to be better known, as he was an innovative natural scientist in his own right.]]></body>
+  
+  <user>
+    <id>10781757</id>
+    <name>Otherwyrld</name>
+    <display_name>Otherwyrld</display_name>
+
+    <location>Edinburgh, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10781757-otherwyrld]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1354381293p3/10781757.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1354381293p2/10781757.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 20 01:12:47 -0700 2014</created_at>
+  <updated_at>Wed Aug 20 01:12:47 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104661790</id>
+  <body><![CDATA[<i>Otherwyrld wrote: "Thanks for the clarification. Erasmus Darwin is always overshadowed by his more famous grandson but he really deserves to be better known, as he was an innovative natural scientist in his own right."</i><br /><br />Quite indeed :) Definitely he deserves be better known.]]></body>
+  
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 20 10:27:16 -0700 2014</created_at>
+  <updated_at>Wed Aug 20 10:27:16 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104672098</id>
+  <body><![CDATA[Huh, how come this one isn't in my "read" list? I read it back in 2008 or 2009. Weird, weird...]]></body>
+  
+  <user>
+    <id>549584</id>
+    <name>Yzabel</name>
+    <display_name>Yzabel Ginsberg</display_name>
+
+    <location>Edinburgh, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/549584-yzabel-ginsberg]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442957782p3/549584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442957782p2/549584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 20 13:09:53 -0700 2014</created_at>
+  <updated_at>Wed Aug 20 13:09:53 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104675002</id>
+  <body><![CDATA[<i>Yzabel wrote: "Huh, how come this one isn't in my "read" list? I read it back in 2008 or 2009. Weird, weird..."</i><br /><br />;) It happens to me all the time, a book that it's just about to be read... and zas! when I noticed I've read 10 books before of it.<br /><br />So much books, so little time ;)]]></body>
+  
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 20 13:54:31 -0700 2014</created_at>
+  <updated_at>Wed Aug 20 13:54:31 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104676200</id>
+  <body><![CDATA[I'll add it later, when I find my copy again. (I know, I'm anal-retentive like that sometimes: I have to add THE right edition, no other will do. XD)]]></body>
+  
+  <user>
+    <id>549584</id>
+    <name>Yzabel</name>
+    <display_name>Yzabel Ginsberg</display_name>
+
+    <location>Edinburgh, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/549584-yzabel-ginsberg]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442957782p3/549584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442957782p2/549584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 20 14:12:40 -0700 2014</created_at>
+  <updated_at>Wed Aug 20 14:12:40 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104677444</id>
+  <body><![CDATA[<i>Yzabel wrote: "I'll add it later, when I find my copy again. (I know, I'm anal-retentive like that sometimes: I have to add THE right edition, no other will do. XD)"</i><br /><br />Hahaha :P I know what you mean, I am quite fussy about adding the right edition of each novel, at least when I'm about actually to read it.]]></body>
+  
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 20 14:32:36 -0700 2014</created_at>
+  <updated_at>Wed Aug 20 14:32:36 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104679811</id>
+  <body><![CDATA[I think it can also be hard to enjoy a book which has become such a huge part of pop culture and redone on the big screen in a day and time when the pace of life and the possibilities of entertainment have changed so radically. I wonder too, if back then, pacing of books were slower generally speaking. I remember thinking the same thing when I read War of the Worlds. I felt that as a piece of literary history...5 stars, but as a contemporary read...not so much.]]></body>
+  
+  <user>
+    <id>9779623</id>
+    <name>Shaun</name>
+    <display_name>Shaun</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9779623-shaun]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1446523068p3/9779623.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1446523068p2/9779623.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 20 15:13:07 -0700 2014</created_at>
+  <updated_at>Wed Aug 20 15:13:07 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104680148</id>
+  <body><![CDATA[<i>Shaun wrote: "I think it can also be hard to enjoy a book which has become such a huge part of pop culture and redone on the big screen in a day and time when the pace of life and the possibilities of entertainm..."</i><br /><br />That's a good point, Shaun. It's very likely that the regular pacing of books at that time was normally slow. Still, while newer ones, I have read slow novels which I enjoyed so much since the narrative and/or the narrator's voice was engaging, but again you have a valid point about thinking about the style of the books at that moment.<br /><br />Thanks a lot for your input :)]]></body>
+  
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 20 15:19:08 -0700 2014</created_at>
+  <updated_at>Wed Aug 20 15:19:08 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104680755</id>
+  <body><![CDATA[Great review, Alejandro. I read this many years ago, but I remember that my thoughts ran very much along the same lines as yours. This is one of those books that I can appreciate because of its contributions, but which I can't say that particulary enjoyed.]]></body>
+  
+  <user>
+    <id>4702450</id>
+    <name>Rachel the Book Harlot</name>
+    <display_name>Rachel the Book Harlot</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4702450-rachel-the-book-harlot]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1412049533p3/4702450.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1412049533p2/4702450.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 20 15:30:46 -0700 2014</created_at>
+  <updated_at>Wed Aug 20 15:30:46 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104681072</id>
+  <body><![CDATA[<i>Rachel wrote: "Great review, Alejandro. I read this many years ago, but I remember that my thoughts ran very much along the same lines as yours. This is one of those books that I can appreciate because of its con..."</i><br /><br />Certainly we think the same about this novel, Rachel :)<br /><br />Thank you so much for your comments! :)]]></body>
+  
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 20 15:37:05 -0700 2014</created_at>
+  <updated_at>Wed Aug 20 15:37:05 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>105275321</id>
+  <body><![CDATA[I'm sure I enjoyed your review far more than I would the book, wonderfully full of fascinating tidbits. Mary's step-mother hung out with the Grimm Brothers?! Love it.]]></body>
+  
+  <user>
+    <id>10856439</id>
+    <name>Florence (Lefty)</name>
+    <display_name>Florence (Lefty) MacIntosh</display_name>
+
+    <location>Vancouver, BC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10856439-florence-lefty-macintosh]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1346034704p3/10856439.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1346034704p2/10856439.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 30 18:49:10 -0700 2014</created_at>
+  <updated_at>Sat Aug 30 18:49:10 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>105308232</id>
+  <body><![CDATA[<i>Florence (Lefty) wrote: "I'm sure I enjoyed your review far more than I would the book, wonderfully full of fascinating tidbits. Mary's step-mother hung out with the Grimm Brothers?! Love it."</i><br /><br />Hi, Florence! :) Truly appreciated your kind appraisals!<br /><br />Certainly Mary's step-mother could be an interesting character to write about then! ;)]]></body>
+  
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 31 11:03:15 -0700 2014</created_at>
+  <updated_at>Sun Aug 31 11:03:15 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>105920945</id>
+  <body><![CDATA[Nearly missed that review , Alejandro . Excellent !<br />I wasn’t too impressed by this novel too and rated it rather badly though to be honest read it eons ago . And in fact , I really don’t know what I remember from original novel and what from the movie . It’s all mixed in my memory now...]]></body>
+  
+  <user>
+    <id>2446508</id>
+    <name>Agnieszka</name>
+    <display_name>Agnieszka</display_name>
+
+    <location>Poland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2446508-agnieszka]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1371835955p3/2446508.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1371835955p2/2446508.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Sep 10 23:53:56 -0700 2014</created_at>
+  <updated_at>Wed Sep 10 23:53:56 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>106939972</id>
+  <body><![CDATA[<i>Agnieszka wrote: "Nearly missed that review , Alejandro . Excellent !<br />I wasn’t too impressed by this novel too and rated it rather badly though to be honest read it eons ago . And in fact , I really don’t know wh..."</i><br /><br />I'm glad that you didn't miss the review ;) Hehehe.<br /><br />Yes, I guess that the story has been so adapted through the years that now reading the original tale, ironically, isn't what expected fans of the core concept of the story.]]></body>
+  
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Sep 29 14:09:00 -0700 2014</created_at>
+  <updated_at>Mon Sep 29 14:09:00 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>108712028</id>
+  <body><![CDATA[Great review, Alejandro! I have very similar feelings towards the book.]]></body>
+  
+  <user>
+    <id>29402621</id>
+    <name>Renato</name>
+    <display_name>Renato Magalhães Rocha</display_name>
+
+    <location>São Paulo, Brazil</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/29402621-renato-magalh-es-rocha]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1410041377p3/29402621.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1410041377p2/29402621.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Nov 01 19:03:23 -0700 2014</created_at>
+  <updated_at>Sat Nov 01 19:03:23 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109687892</id>
+  <body><![CDATA[<i>Renato wrote: "Great review, Alejandro! I have very similar feelings towards the book."</i><br /><br />Until now I noticed this comment by you. Sorry for replying so late. <br /><br />Truly glad that we share our views about the novel ;)]]></body>
+  
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 19 17:26:45 -0800 2014</created_at>
+  <updated_at>Wed Nov 19 17:26:45 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109689775</id>
+  <body><![CDATA[Really great review. I liked how you mentioned all those Frankenstein movies. Had to laugh that you mentioned them all.]]></body>
+  
+  <user>
+    <id>5276322</id>
+    <name>Debbie</name>
+    <display_name>Debbie</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5276322-debbie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1479585576p3/5276322.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1479585576p2/5276322.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 19 18:06:19 -0800 2014</created_at>
+  <updated_at>Wed Nov 19 18:06:19 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109689828</id>
+  <body><![CDATA[<i>Debbie wrote: "Really great review. I liked how you mentioned all those Frankenstein movies. Had to laugh that you mentioned them all."</i><br /><br />Hehehe ;) And I am pretty sure that I left out some other adaptation that I may watched in the past! ;)<br /><br />Thank you for your kind appraisal about the review! :D]]></body>
+  
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 19 18:07:35 -0800 2014</created_at>
+  <updated_at>Wed Nov 19 18:07:35 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109695091</id>
+  <body><![CDATA[Very entertaining review.]]></body>
+  
+  <user>
+    <id>5276322</id>
+    <name>Debbie</name>
+    <display_name>Debbie</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5276322-debbie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1479585576p3/5276322.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1479585576p2/5276322.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 19 19:52:26 -0800 2014</created_at>
+  <updated_at>Wed Nov 19 19:52:26 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109695157</id>
+  <body><![CDATA[It's been a long time since I read this book, but I remember that I loved it. Maybe I won't re-read it now...]]></body>
+  
+  <user>
+    <id>8788453</id>
+    <name>Denise</name>
+    <display_name>Denise</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8788453-denise]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1389589754p3/8788453.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1389589754p2/8788453.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 19 19:53:53 -0800 2014</created_at>
+  <updated_at>Wed Nov 19 19:53:53 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109702046</id>
+  <body><![CDATA[An honest review and I know you are right, but it is a different feeling of you listen to Dan Stevens narration and don't dwell on the tedium. :)]]></body>
+  
+  <user>
+    <id>6460330</id>
+    <name>Cherie</name>
+    <display_name>Cherie</display_name>
+
+    <location>Hillsboro, OR</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6460330-cherie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1322706779p3/6460330.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1322706779p2/6460330.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Nov 20 01:49:18 -0800 2014</created_at>
+  <updated_at>Thu Nov 20 01:49:18 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>110482675</id>
+  <body><![CDATA[<i>Debbie wrote: "Very entertaining review."</i><br /><br />Thank you, Debbie!<br /><br />P.S.<br /><br />Sorry for replying until now. I just noticed that I had some comments on this review.]]></body>
+  
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Dec 04 16:19:10 -0800 2014</created_at>
+  <updated_at>Thu Dec 04 16:19:10 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>110482759</id>
+  <body><![CDATA[<i>Denise wrote: "It's been a long time since I read this book, but I remember that I loved it. Maybe I won't re-read it now..."</i><br /><br />Hi, Denise! Oh, never two people read the same book, so maybe you would love it again, but also, never you can read the same book twice, so maybe your second reading would be different, but maybe not worse, but even better. Who knows?<br /><br />It's likely that if I read the book in 5 years I would see it different ;)<br /><br />P.S.<br /><br />Sorry for replying until now. I just noticed that I had some comments on this review.]]></body>
+  
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Dec 04 16:21:04 -0800 2014</created_at>
+  <updated_at>Thu Dec 04 16:21:04 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>110482795</id>
+  <body><![CDATA[<i>Cherie wrote: "An honest review and I know you are right, but it is a different feeling of you listen to Dan Stevens narration and don't dwell on the tedium. :)"</i><br /><br />Hi, Cherie. It must be interesting to "hear" the book instead of reading it ;) Thanks for the tip :D<br /><br />P.S.<br />Sorry for not replying until now. I just noticed that I had some comments in this review.]]></body>
+  
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Dec 04 16:22:04 -0800 2014</created_at>
+  <updated_at>Thu Dec 04 16:22:04 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>113688695</id>
+  <body><![CDATA[Totally agree with the tedious part. There were many times in the book that I honestly called out loud to Ms. Shelley "Get to the !@#$ point!"]]></body>
+  
+  <user>
+    <id>3373220</id>
+    <name>Jim</name>
+    <display_name>Jim</display_name>
+
+    <location>Effort, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3373220-jim]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1476895497p3/3373220.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1476895497p2/3373220.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 29 15:26:19 -0800 2015</created_at>
+  <updated_at>Thu Jan 29 15:26:19 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>113691392</id>
+  <body><![CDATA[<i>Jim wrote: "Totally agree with the tedious part. There were many times in the book that I honestly called out loud to Ms. Shelley "Get to the !@#$ point!""</i><br /><br />Hehehe, certainly she took her time to advance in the story ;)<br /><br />Thanks for your feedback!]]></body>
+  
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 29 16:21:01 -0800 2015</created_at>
+  <updated_at>Thu Jan 29 16:21:01 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>159258148</id>
+  <body><![CDATA[Wonderful review!]]></body>
+  
+  <user>
+    <id>25353295</id>
+    <name>Carmen</name>
+    <display_name>Carmen</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25353295-carmen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1412617445p3/25353295.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1412617445p2/25353295.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 18 09:10:24 -0800 2016</created_at>
+  <updated_at>Fri Nov 18 09:10:24 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>160281654</id>
+  <body><![CDATA[<i>Carmen wrote: "Wonderful review!"</i><br /><br />You're so much kind, Carmen! :D]]></body>
+  
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Dec 16 09:30:39 -0800 2016</created_at>
+  <updated_at>Fri Dec 16 09:30:39 -0800 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1011642871]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1011642871]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

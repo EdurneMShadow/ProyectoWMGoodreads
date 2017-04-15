@@ -1,0 +1,1005 @@
+status: 200
+x-request-id: ZDHY7SF7EJ85274WVQJZ
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=764131575&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhg2MDQtNzc4OTQwNS03NjIxOTIxBjoGRVQ%3D--17c599a10aabe6c8e7da631efb088e7dd9a96fd5;
+ path=/; expires=Wed, 15 Apr 2037 15:17:06 -0000, locale=es;
+ path=/, _session_id2=ce62ca5ef7ee487e97dc00026ff2b6d2; path=/;
+ expires=Sat, 15 Apr 2017 21:17:06 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 40238
+server: Server
+x-runtime: 0.453572
+etag: W/"2dea9d8318e8ec7d6843ca241bbb5036"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:17:06 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>764131575</id>
+    
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">15923725</id>
+  <isbn>0007487290</isbn>
+  <isbn13>9780007487295</isbn13>
+  <text_reviews_count type="integer">96</text_reviews_count>
+  <title>The Hobbit</title>
+  <title_without_series>The Hobbit</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1353399989m/15923725.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1353399989s/15923725.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/15923725-the-hobbit</link>
+  <num_pages>389</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>HarperCollins</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.24</average_rating>
+  <ratings_count>2139201</ratings_count>
+  <description>Film tie-in edition of the best-selling classic work of fantasy of Bilbo Baggins’ adventures in Middle-earth, featuring the complete story told in both films, with a striking cover image from Peter Jackson’s THE HOBBIT: AN UNEXPECTED JOURNEY and drawings and maps by J.R.R. Tolkien.&lt;br /&gt;&lt;br /&gt;Bilbo Baggins is a hobbit who enjoys a comfortable, unambitious life, rarely travelling further than the pantry of his hobbit-hole in Bag End.&lt;br /&gt;&lt;br /&gt;But his contentment is disturbed when the wizard, Gandalf, and a company of thirteen dwarves arrive on his doorstep one day to whisk him away on an unexpected journey ‘there and back again’. They have a plot to raid the treasure hoard of Smaug the Magnificent, a large and very dangerous dragon…&lt;br /&gt;&lt;br /&gt;The prelude to The Lord of the Rings, The Hobbit has sold many millions of copies since its publication in 1937, establishing itself as one of the most beloved and influential books of the twentieth century.</description>
+<authors>
+<author>
+<id>656983</id>
+<name>J.R.R. Tolkien</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1434625177p5/656983.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1434625177p2/656983.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
+<average_rating>4.30</average_rating>
+<ratings_count>6098482</ratings_count>
+<text_reviews_count>90948</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">217340893</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Thu Nov 21 11:16:35 -0800 2013</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">209304509</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Wed Nov 13 13:24:50 -0800 2013</updated_at>
+          <ratings_count>6</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>4</rating>
+  <votes>108</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="epic-fantasy" exclusive="false" review_shelf_id="556224633" sortable="false" />
+    <shelf name="novel" exclusive="false" review_shelf_id="556224588" sortable="false" />
+    <shelf name="magic" exclusive="false" review_shelf_id="556224708" sortable="false" />
+    <shelf name="humor" exclusive="false" review_shelf_id="556224729" sortable="false" />
+    <shelf name="military" exclusive="false" review_shelf_id="556224757" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Nov 13 00:00:00 -0800 2013</started_at>
+  <read_at>Thu Nov 21 00:00:00 -0800 2013</read_at>
+  <date_added>Wed Nov 13 13:24:50 -0800 2013</date_added>
+  <date_updated>Tue Dec 22 12:14:36 -0800 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<b> <i>Where there's life there's hope.</i> </b><br /><br />I've been thinking a lot of how many stars giving to the book, since there were parts that I loved a lot, but there were others that I found tedious and even anti-climatic, but in respect to this great writer, J.R.R. Tolkien, I think that the book deserves at lea...]]>
+  </body>
+
+  
+
+  <comments_count>38</comments_count>
+    <comments start="1" end="38" total="38">
+        <comment>
+  <id>87252892</id>
+  <body><![CDATA[great review!]]></body>
+  
+  <user>
+    <id>10036605</id>
+    <name>Denise</name>
+    <display_name>Denise</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10036605-denise]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1389458772p3/10036605.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1389458772p2/10036605.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Nov 21 15:10:52 -0800 2013</created_at>
+  <updated_at>Thu Nov 21 15:10:52 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>87273323</id>
+  <body><![CDATA[<i>Denise wrote: "great review!"</i><br /><br />Thanks, Denise :) I appreaciate the comment.]]></body>
+  
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Nov 21 21:14:34 -0800 2013</created_at>
+  <updated_at>Thu Nov 21 21:14:34 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>87273868</id>
+  <body><![CDATA[Great review, Alejandro. I re-read this myself recently and it is really impressive how well it holds up over the years. A classic for a reason!]]></body>
+  
+  <user>
+    <id>7713825</id>
+    <name>Evan</name>
+    <display_name>Evan Leach</display_name>
+
+    <location>Minneapolis, MN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7713825-evan-leach]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1384621842p3/7713825.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1384621842p2/7713825.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Nov 21 21:27:16 -0800 2013</created_at>
+  <updated_at>Thu Nov 21 21:27:16 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>87287744</id>
+  <body><![CDATA[Great review! I love how passionate your reviews about books are, Alejandro.]]></body>
+  
+  <user>
+    <id>4054541</id>
+    <name>Wayne</name>
+    <display_name>Wayne McCoy</display_name>
+
+    <location>Tacoma, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4054541-wayne-mccoy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1331517656p3/4054541.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1331517656p2/4054541.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 22 07:19:29 -0800 2013</created_at>
+  <updated_at>Fri Nov 22 07:19:29 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>87293040</id>
+  <body><![CDATA[<i>Wayne wrote: "Great review! I love how passionate your reviews about books are, Alejandro."</i><br /><br />Thanks a lot, Wayne!!! I truly appreciate the comment! :)]]></body>
+  
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 22 09:23:17 -0800 2013</created_at>
+  <updated_at>Fri Nov 22 09:23:17 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>87293098</id>
+  <body><![CDATA[<i>Evan wrote: "Great review, Alejandro. I re-read this myself recently and it is really impressive how well it holds up over the years. A classic for a reason!"</i><br /><br />Definitely, Evan! The rock where the entire epic fantasy was founded. I'm sure that with each re-reading the book only gets better and better!]]></body>
+  
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 22 09:24:25 -0800 2013</created_at>
+  <updated_at>Fri Nov 22 09:24:25 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>87324639</id>
+  <body><![CDATA[Loved your review. I totally agreed with you on the points you made about the way it begins, Gandalf disappearing and reappearing in the story, Smaug's death, the number of dwarves in the story, and the Troll names.]]></body>
+  
+  <user>
+    <id>3506989</id>
+    <name>Tammie</name>
+    <display_name>Tammie</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3506989-tammie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1301750834p3/3506989.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1301750834p2/3506989.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 22 19:54:27 -0800 2013</created_at>
+  <updated_at>Fri Nov 22 19:54:27 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>87328650</id>
+  <body><![CDATA[Your wonderful review counters my tendency to consider this a YA book, having lived it when I was 13 or so. A fool not to consider rereading it as an adult. A pretty complete story unto itself. Do you suppose Tolkien was already planning the trilogy while he was writing this?]]></body>
+  
+  <user>
+    <id>4086118</id>
+    <name>Michael</name>
+    <display_name>Michael</display_name>
+
+    <location>Machiasport, ME</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4086118-michael]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1439669517p3/4086118.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1439669517p2/4086118.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 22 21:33:29 -0800 2013</created_at>
+  <updated_at>Fri Nov 22 21:33:29 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>87426060</id>
+  <body><![CDATA[<i>Tammie wrote: "Loved your review. I totally agreed with you on the points you made about the way it begins, Gandalf disappearing and reappearing in the story, Smaug's death, the number of dwarves in the story, an..."</i><br /><br />Hi, Tammie! Awesome! It seems that we thought just the same about the book. Cool! :)]]></body>
+  
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 24 15:03:18 -0800 2013</created_at>
+  <updated_at>Sun Nov 24 15:03:18 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>87426866</id>
+  <body><![CDATA[<i>Michael wrote: "Your wonderful review counters my tendency to consider this a YA book, having lived it when I was 13 or so. A fool not to consider rereading it as an adult. A pretty complete story unto itself. ..."</i><br /><br />Hi, Michael! Usually this book is "categorized" as fantasy and not epic fantasy, that I find totally illogical since while there are several moments totally open to children, there are other elements and scenes that they totally fit into the genre of epic fantasy and definitely "The Hobbit" is the base of all epic fantasy after its publication to this day. <br /><br />From what I read, Tolkien wrote "The Hobbit" but he was so enthusiastic about the universe created to write the book that he spent a lot of time writing all the "history" of the Middle-Earth right after he was done with "The Hobbit". Whe he was asked for a sequel. He sent an unfinished proposal of "The Silmarilion" but it was returned for some reason (I don't remember which) but Tolkien thought that the reason of the return of the proposal was that the publisher didn't like it, so he started to work on a "Hobbit sequel" that it become "The Fellowship of the Ring." I don't know how much of following adventures can have Tolkien on mind, but it's pretty amazing how he could develop a storyline like the full trilogy of "The Lord of the Rings" from the events on the fifth chapter in "The Hobbit". It's evident that he didn't have all the details developed since he needed to do an editing of that chapter to make it "fit" into the continuity of "The Lord of the Rings".]]></body>
+  
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 24 15:13:20 -0800 2013</created_at>
+  <updated_at>Sun Nov 24 15:13:20 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>88012946</id>
+  <body><![CDATA[One counter-point to what you said about Smaug is that Bilbo had the advantage of seeing Smaug as no warrior had seen him previously -- invisibly, at length, while the dragon was stationary. That could explain at least some of that issue away.]]></body>
+  
+  <user>
+    <id>76688</id>
+    <name>Eric</name>
+    <display_name>Eric</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/76688-eric]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1255373698p3/76688.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1255373698p2/76688.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Dec 04 09:39:36 -0800 2013</created_at>
+  <updated_at>Wed Dec 04 09:39:36 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>88014799</id>
+  <body><![CDATA[Great review, Alejandro.]]></body>
+  
+  <user>
+    <id>4591618</id>
+    <name>Yona</name>
+    <display_name>Yona</display_name>
+
+    <location>Sofia, Bulgaria</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4591618-yona]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1407345753p3/4591618.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1407345753p2/4591618.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Dec 04 10:12:51 -0800 2013</created_at>
+  <updated_at>Wed Dec 04 10:12:51 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>88024654</id>
+  <body><![CDATA[<i>Eric wrote: "One counter-point to what you said about Smaug is that Bilbo had the advantage of seeing Smaug as no warrior had seen him previously -- invisibly, at length, while the dragon was stationary. That c..."</i><br /><br />Indeed it was the same conclussion that came up to my mind some days later that I was re-analyzing the scene ;)]]></body>
+  
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Dec 04 14:21:08 -0800 2013</created_at>
+  <updated_at>Wed Dec 04 14:21:08 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>88024664</id>
+  <body><![CDATA[<i>Yona wrote: "Great review, Alejandro."</i><br /><br />Thanks Yoona!]]></body>
+  
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Dec 04 13:21:21 -0800 2013</created_at>
+  <updated_at>Wed Dec 04 13:21:21 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>88430675</id>
+  <body><![CDATA[A classic review of a timeless classic. Excellent work Alejandro.]]></body>
+  
+  <user>
+    <id>22660111</id>
+    <name>Pravin</name>
+    <display_name>Pravin Patil</display_name>
+
+    <location>Mumbai, 16, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22660111-pravin-patil]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1378670702p3/22660111.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1378670702p2/22660111.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Dec 11 07:05:02 -0800 2013</created_at>
+  <updated_at>Wed Dec 11 07:05:02 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>88433146</id>
+  <body><![CDATA[<i>Pravin wrote: "A classic review of a timeless classic. Excellent work Alejandro."</i><br /><br />Thanks Pravin! :) Indeed a timeless classic!]]></body>
+  
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Dec 11 08:05:38 -0800 2013</created_at>
+  <updated_at>Wed Dec 11 08:05:38 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>92493390</id>
+  <body><![CDATA[Great review &lt;3]]></body>
+  
+  <user>
+    <id>23919424</id>
+    <name>Nick Ten</name>
+    <display_name>Nick Ten</display_name>
+
+    <location>Mount Prospect, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23919424-nick-ten]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1485525978p3/23919424.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1485525978p2/23919424.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 10 07:35:10 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 07:35:10 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92516141</id>
+  <body><![CDATA[<i>Nick Ten wrote: "Great review &lt;3"</i><br /><br />Thanks a lot!]]></body>
+  
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 10 14:32:49 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 14:32:49 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103460579</id>
+  <body><![CDATA[I find myself in almost complete agreement about everything you write in your review. I read the book before watching the first Hobbit film, så I expected less Thorin in the movie, but I was pleasantly surprised that that was not the case! The changes to his character and the amount of screen time he has is one of the changes I am most pleased about in the films.]]></body>
+  
+  <user>
+    <id>5722722</id>
+    <name>Helle</name>
+    <display_name>Helle</display_name>
+
+    <location>Denmark</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5722722-helle]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1310069930p3/5722722.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1310069930p2/5722722.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 01 14:37:50 -0700 2014</created_at>
+  <updated_at>Fri Aug 01 14:37:50 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103461093</id>
+  <body><![CDATA[Wonderful review, Alejandro.]]></body>
+  
+  <user>
+    <id>25353295</id>
+    <name>Carmen</name>
+    <display_name>Carmen</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25353295-carmen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1412617445p3/25353295.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1412617445p2/25353295.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 01 14:46:48 -0700 2014</created_at>
+  <updated_at>Fri Aug 01 14:46:48 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103461600</id>
+  <body><![CDATA[<i>Helle wrote: "I find myself in almost complete agreement about everything you write in your review. I read the book before watching the first Hobbit film, så I expected less Thorin in the movie, but I was pleasa..."</i><br /><br />Truly glad that you agree with my assessments in the review :)]]></body>
+  
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 01 14:55:06 -0700 2014</created_at>
+  <updated_at>Fri Aug 01 14:55:06 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103461610</id>
+  <body><![CDATA[<i>Carmen wrote: "Wonderful review, Alejandro."</i><br /><br />Thank you, Carmen! :)]]></body>
+  
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 01 14:55:20 -0700 2014</created_at>
+  <updated_at>Fri Aug 01 14:55:20 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103465179</id>
+  <body><![CDATA[Alright Alejandro, honestly I don't know if I'm ever going to read The Hobbit or the Harry Potter books. I haven't even watched the movies! So I guess I cannot give you an opinion on "more magic" or "more realistic", hehe! <br />Regardless of my appreciation on this genre, I think your review is good enough for me and I can tell you that I did enjoyed it! :)]]></body>
+  
+  <user>
+    <id>9968594</id>
+    <name>Maria</name>
+    <display_name>Maria</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9968594-maria]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1450228502p3/9968594.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1450228502p2/9968594.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 01 15:54:49 -0700 2014</created_at>
+  <updated_at>Fri Aug 01 15:54:49 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103465823</id>
+  <body><![CDATA[<i>Maria wrote: "Alright Alejandro, honestly I don't know if I'm ever going to read The Hobbit or the Harry Potter books. I haven't even watched the movies! So I guess I cannot give you an opinion on "more magic" o..."</i><br /><br />Fair enough, Maria ;) Hehehe!<br /><br />Thank you a lot for your kind comments!]]></body>
+  
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 01 16:04:49 -0700 2014</created_at>
+  <updated_at>Fri Aug 01 16:04:49 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103468959</id>
+  <body><![CDATA[Awesome review as always! And I also LOVED the trolls!! :)]]></body>
+  
+  <user>
+    <id>5369366</id>
+    <name>Kim</name>
+    <display_name>Kim</display_name>
+
+    <location>Mount Pleasant, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5369366-kim]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1449242132p3/5369366.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1449242132p2/5369366.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 01 16:57:44 -0700 2014</created_at>
+  <updated_at>Fri Aug 01 16:57:44 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103469018</id>
+  <body><![CDATA[<i>Kim wrote: "Awesome review as always! And I also LOVED the trolls!! :)"</i><br /><br />Thank you, Kim! <br /><br />And cool! Trolls rule! ;)]]></body>
+  
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 01 16:58:40 -0700 2014</created_at>
+  <updated_at>Fri Aug 01 16:58:40 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103469721</id>
+  <body><![CDATA[Fantastic review, Alejandro! I already have this book on my TBR shelf but after this review, I will certainly try to read it soon.]]></body>
+  
+  <user>
+    <id>21575078</id>
+    <name>Florencia</name>
+    <display_name>Florencia</display_name>
+
+    <location>Argentina</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/21575078-florencia]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1491654995p3/21575078.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1491654995p2/21575078.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 01 17:11:59 -0700 2014</created_at>
+  <updated_at>Fri Aug 01 17:11:59 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103470985</id>
+  <body><![CDATA[Wonderful insights into one of my favorite books!]]></body>
+  
+  <user>
+    <id>1742824</id>
+    <name>Jason</name>
+    <display_name>Jason Koivu</display_name>
+
+    <location>Lemoore, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1742824-jason-koivu]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1464843865p3/1742824.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1464843865p2/1742824.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 01 17:36:32 -0700 2014</created_at>
+  <updated_at>Fri Aug 01 17:36:32 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103484309</id>
+  <body><![CDATA[Read the book twice, thinking about a 3rd time, a delightful journey, into an enchanting world,Alejandro... and the following novels, are even better ! As always, a sensational review.]]></body>
+  
+  <user>
+    <id>5431458</id>
+    <name>Henry</name>
+    <display_name>Henry Avila</display_name>
+
+    <location><![CDATA[San Diego, CA, The United States Minor Outlying Islands]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5431458-henry-avila]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1307597403p3/5431458.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1307597403p2/5431458.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 01 22:01:05 -0700 2014</created_at>
+  <updated_at>Fri Aug 01 22:01:05 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103489473</id>
+  <body><![CDATA[Again, you delivered up a great summary of a beloved book and made me think about things in a different way. I like your comments about Gandalf - about him being almost too powerful for the author to handle.<br /><br />It made me consider the same situation in another book that I recently read. <br /><br />However, since I can't write, I have to be grateful to all of the authors, like Tolkien, for providing characters like Gandalf and Bilbo to love and cherish.]]></body>
+  
+  <user>
+    <id>6460330</id>
+    <name>Cherie</name>
+    <display_name>Cherie</display_name>
+
+    <location>Hillsboro, OR</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6460330-cherie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1322706779p3/6460330.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1322706779p2/6460330.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 02 00:38:25 -0700 2014</created_at>
+  <updated_at>Sat Aug 02 00:38:25 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103536519</id>
+  <body><![CDATA[Great review of a beloved book, which I have read aloud to my children. Well done, Alejandro.]]></body>
+  
+  <created_at>Sat Aug 02 18:32:09 -0700 2014</created_at>
+  <updated_at>Sat Aug 02 18:32:09 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103574997</id>
+  <body><![CDATA[<i>Florencia wrote: "Fantastic review, Alejandro! I already have this book on my TBR shelf but after this review, I will certainly try to read it soon."</i><br /><br />Excellent news, Florencia ;)<br /><br />And thanks for your kind comments!]]></body>
+  
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 03 11:42:15 -0700 2014</created_at>
+  <updated_at>Sun Aug 03 11:42:15 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103575037</id>
+  <body><![CDATA[<i>Jason wrote: "Wonderful insights into one of my favorite books!"</i><br /><br />Thanks a lot, Jason! I appreciate your kind appraisal!]]></body>
+  
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 03 11:42:51 -0700 2014</created_at>
+  <updated_at>Sun Aug 03 11:42:51 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103575097</id>
+  <body><![CDATA[<i>Henry wrote: "Read the book twice, thinking about a 3rd time, a delightful journey, into an enchanting world,Alejandro... and the following novels, are even better ! As always, a sensational review."</i><br /><br />Thank you, Henry! Oh, indeed I will read the following trilogy, hopefully soon.<br /><br />Thank you for your kind comments!]]></body>
+  
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 03 11:43:53 -0700 2014</created_at>
+  <updated_at>Sun Aug 03 11:43:53 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103575126</id>
+  <body><![CDATA[<i>Cherie wrote: "Again, you delivered up a great summary of a beloved book and made me think about things in a different way. I like your comments about Gandalf - about him being almost too powerful for the author..."</i><br /><br />Hi, Cherie! Thank you so much for your comments! :D]]></body>
+  
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 03 11:44:23 -0700 2014</created_at>
+  <updated_at>Sun Aug 03 11:44:23 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103575184</id>
+  <body><![CDATA[<i>sckenda wrote: "Great review of a beloved book, which I have read aloud to my children. Well done, Alejandro."</i><br /><br />Thank you, Sckenda! How wonderful that you could read aloud this book to your children! Great family activity!<br /><br />Thank you for your appraisal!]]></body>
+  
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 03 11:45:13 -0700 2014</created_at>
+  <updated_at>Sun Aug 03 11:45:13 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103853947</id>
+  <body><![CDATA[I offer the biggest compliment I can, YOU MAKE ME WANT TO READ THE ENTIRE SERIES ALL OVER AGAIN. I've been avoiding series for years as too time consuming, and I rarely reread novels - so trust me, this is high praise:) Wonderful insights, thanks Alejando!]]></body>
+  
+  <user>
+    <id>10856439</id>
+    <name>Florence (Lefty)</name>
+    <display_name>Florence (Lefty) MacIntosh</display_name>
+
+    <location>Vancouver, BC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10856439-florence-lefty-macintosh]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1346034704p3/10856439.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1346034704p2/10856439.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 07 12:14:21 -0700 2014</created_at>
+  <updated_at>Thu Aug 07 12:14:21 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103884753</id>
+  <body><![CDATA[<i>Florence (Lefty) wrote: "I offer the biggest compliment I can, YOU MAKE ME WANT TO READ THE ENTIRE SERIES ALL OVER AGAIN. I've been avoiding series for years as too time consuming, and I rarely reread novels - so trust me,..."</i><br /><br />Hi, Florence! Indeed it's the biggest compliment! Even bigger coming from you! And I understand the struggle between time investing and option to read new material. In my case, also I rarely re-read novels, with the exception of the "Robotech" book series, in special the "First Robotech War" that I re-read 3 times. But also, I have been quite tempted to re-read several novels, and I think that I wish to re-read some material that I read too much time ago like Austen's novels and Sherlock Holmes' books. <br /><br />In my case I must admit that I haven't read the Lord of the Rings trilogy, but I have them in my TBR to be read quite soon, since I don't want to engage in other epic fantasy books without having read the series that started the genre. :)<br /><br />And Florence, I truly appreciate your high appraisals! Thank you so much!!!]]></body>
+  
+  <user>
+    <id>665584</id>
+    <name>Alejandro</name>
+    <display_name>Alejandro</display_name>
+
+    <location>San Jose, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665584-alejandro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328672389p3/665584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328672389p2/665584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 07 20:49:31 -0700 2014</created_at>
+  <updated_at>Thu Aug 07 20:49:31 -0700 2014</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/764131575]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/764131575]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

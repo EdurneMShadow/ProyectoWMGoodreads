@@ -1,0 +1,1305 @@
+status: 200
+x-request-id: QE23Z1QKJAWX2R13KGRA
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=80615382&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhg5NDUtOTY4MDI1NC0wMjExNzU0BjoGRVQ%3D--293609daebcab28fc314fcf4c8f5733c9239d4eb;
+ path=/; expires=Wed, 15 Apr 2037 15:22:33 -0000, locale=es;
+ path=/, _session_id2=6d046dada8ac772fa3818e7701c44b10; path=/;
+ expires=Sat, 15 Apr 2017 21:22:33 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 48079
+server: Server
+x-runtime: 0.518232
+etag: W/"d2cfcc2a165f84536ba28856e71522de"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:22:33 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>80615382</id>
+    
+  <user>
+    <id>2683062</id>
+    <name>★ </name>
+    <display_name>★ </display_name>
+
+    <location>Australia, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2683062]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1466182835p3/2683062.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1466182835p2/2683062.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">72193</id>
+  <isbn>0747532745</isbn>
+  <isbn13>9780747532743</isbn13>
+  <text_reviews_count type="integer">2255</text_reviews_count>
+  <title>Harry Potter and the Philosopher's Stone (Harry Potter, #1)</title>
+  <title_without_series>Harry Potter and the Philosopher's Stone</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1327190600m/72193.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1327190600s/72193.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/72193.Harry_Potter_and_the_Philosopher_s_Stone</link>
+  <num_pages>223</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Bloomsbury Publishing</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>1997</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.44</average_rating>
+  <ratings_count>4576472</ratings_count>
+  <description>Harry Potter thinks he is an ordinary boy - until he is rescued by an owl, taken to Hogwarts School of Witchcraft and Wizardry, learns to play Quidditch and does battle in a deadly duel. The Reason ... HARRY POTTER IS A WIZARD!</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1415945171p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1415945171p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.42</average_rating>
+<ratings_count>17561506</ratings_count>
+<text_reviews_count>435220</text_reviews_count>
+</author>
+</authors>
+  <published>1997</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">3987819</id>
+          <page type="integer">178</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Oct 23 17:04:45 -0700 2010</created_at>
+          <updated_at type="datetime">Sat Oct 23 17:04:45 -0700 2010</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">80</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">3975596</id>
+          <page type="integer">10</page>
+          <chapter type="integer"></chapter>
+          <comments_count>7</comments_count>
+          <created_at type="datetime">Fri Oct 22 01:46:07 -0700 2010</created_at>
+          <updated_at type="datetime">Sat Sep 07 03:08:45 -0700 2013</updated_at>
+          <last_comment_at type="datetime">Fri Oct 22 18:00:49 -0700 2010</last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">4</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.a140de63eaa5392f0f85879d23f15b5b</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[First re-read of 2010. Trying to get all 7 Potter books done before seeing the movie :)]]></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">1231230454</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Wed Feb 10 05:06:48 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>578</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="5-star-excellent" exclusive="false" review_shelf_id="75148083" sortable="false" />
+    <shelf name="read-in-2010" exclusive="false" review_shelf_id="83423833" sortable="false" />
+    <shelf name="dearest-old-favourites" exclusive="false" review_shelf_id="86951470" sortable="true" />
+    <shelf name="books-i-own" exclusive="false" review_shelf_id="55081862" sortable="false" />
+    <shelf name="favorites" exclusive="false" review_shelf_id="1296490633" sortable="true" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Jan 01 00:00:00 -0800 2015</read_at>
+  <date_added>Thu Dec 10 19:40:55 -0800 2009</date_added>
+  <date_updated>Wed Sep 28 01:55:02 -0700 2016</date_updated>
+  <read_count>Countless times</read_count>
+  <body>
+      <![CDATA[My original review was a comparison of sorts between Harry Potter and Twilight. However, this is stupid as the two are incomparable. Honestly, its not even worth discussing. Its not just that Twilight doesn't come close, it is the fact that Harry Potter transcends other similar works. Its peerles...]]>
+  </body>
+
+  
+
+  <comments_count>97</comments_count>
+    <comments start="1" end="50" total="97">
+        <comment>
+  <id>22173865</id>
+  <body><![CDATA[And quite frankly, they're two completely separate books that have absolutely nothing in common so why do people compare and pick a side?<br /><br />(and just for the record, I think Harry is WAAAAY cooler than Edward and I think pretty much everyone under the sun is smarter than Bella :-p)]]></body>
+  
+  <user>
+    <id>2377733</id>
+    <name>Miss Ryoko</name>
+    <display_name>Miss Ryoko</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2377733-miss-ryoko]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1463343990p3/2377733.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1463343990p2/2377733.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Oct 24 09:56:54 -0700 2010</created_at>
+  <updated_at>Sun Oct 24 09:56:54 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>26455768</id>
+  <body><![CDATA[They're being compared because they're both popular and best sellers. I remember one blog in Yahoo News comparing the Eclipse sales to the Deathly hallows sales]]></body>
+  
+  <user>
+    <id>1591538</id>
+    <name>Joyzi</name>
+    <display_name>Joyzi</display_name>
+
+    <location>Cavite, B6, Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1591538-joyzi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1410669310p3/1591538.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1410669310p2/1591538.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 13 01:59:58 -0800 2011</created_at>
+  <updated_at>Sun Feb 13 01:59:58 -0800 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>26913347</id>
+  <body><![CDATA[Agreed! Awwwwesome review.]]></body>
+  
+  <created_at>Wed Feb 23 16:05:23 -0800 2011</created_at>
+  <updated_at>Wed Feb 23 16:05:23 -0800 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>41340943</id>
+  <body><![CDATA[I feel like I am odd for liking both twilight and harry potter. They are two different stories, you really can't compare them.]]></body>
+  
+  <user>
+    <id>6783506</id>
+    <name>Sara</name>
+    <display_name>Sara</display_name>
+
+    <location>Fort Worth, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6783506-sara]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1462126490p3/6783506.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1462126490p2/6783506.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Dec 09 22:25:53 -0800 2011</created_at>
+  <updated_at>Fri Dec 09 22:25:53 -0800 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>42686797</id>
+  <body><![CDATA[I agree with you completely]]></body>
+  
+  <user>
+    <id>7314537</id>
+    <name>Casey</name>
+    <display_name>Casey</display_name>
+
+    <location>Annapolis, MD</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7314537-casey]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 02 16:40:02 -0800 2012</created_at>
+  <updated_at>Mon Jan 02 16:40:02 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>43524967</id>
+  <body><![CDATA[AGREED!]]></body>
+  
+  <user>
+    <id>7439419</id>
+    <name>Erin</name>
+    <display_name>Erin Lanning</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7439419-erin-lanning]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1326723888p3/7439419.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1326723888p2/7439419.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 16 09:25:00 -0800 2012</created_at>
+  <updated_at>Mon Jan 16 09:25:00 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>43581689</id>
+  <body><![CDATA[yeah much different they!! are separated!!]]></body>
+  
+  <user>
+    <id>7441939</id>
+    <name>Arthur</name>
+    <display_name>Arthur Alburo</display_name>
+
+    <location>davao, 8000, Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7441939-arthur-alburo]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1359244376p3/7441939.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1359244376p2/7441939.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 17 02:50:36 -0800 2012</created_at>
+  <updated_at>Tue Jan 17 02:50:36 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>46992706</id>
+  <body><![CDATA[These two stories have absolutely nothing in common. They need not be compared. However, society needs something to argue about so this topic came up. If we are comparing, however, Harry Potter wins. Dating back to old literature, vampires don't roam Earth during the day. I don't care how 'foggy/rainy/dreary' your town is. Harry Potter forces the reader to utilize imagination which, in my opinion, is a lost sense of self. Stephen King said it himself: 'Harry Potter is about facing your fears, being brave, and about adventure.. Twilight is about having a boyfriend."]]></body>
+  
+  <user>
+    <id>6860037</id>
+    <name>Taylor</name>
+    <display_name>Taylor</display_name>
+
+    <location>Upper Darby, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6860037-taylor]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488661267p3/6860037.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488661267p2/6860037.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 14 20:22:46 -0700 2012</created_at>
+  <updated_at>Wed Mar 14 20:22:46 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>48322824</id>
+  <body><![CDATA[I couldn't have said it better myself!]]></body>
+  
+  <user>
+    <id>8112021</id>
+    <name>Carrie</name>
+    <display_name>Carrie</display_name>
+
+    <location>Inverness, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8112021-carrie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1433300661p3/8112021.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1433300661p2/8112021.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Apr 05 13:46:05 -0700 2012</created_at>
+  <updated_at>Thu Apr 05 13:46:05 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>51102429</id>
+  <body><![CDATA[There is no debate! Harry Potter will always win! :)]]></body>
+  
+  <user>
+    <id>8570858</id>
+    <name>Justin</name>
+    <display_name>Justin Silva</display_name>
+
+    <location>Union City, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8570858-justin-silva]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat May 26 02:19:31 -0700 2012</created_at>
+  <updated_at>Sat May 26 02:19:31 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>51250954</id>
+  <body><![CDATA[So true!!! :P]]></body>
+  
+  <user>
+    <id>7490777</id>
+    <name>Tatum</name>
+    <display_name>Tatum</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7490777-tatum]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1467644901p3/7490777.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1467644901p2/7490777.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon May 28 17:53:32 -0700 2012</created_at>
+  <updated_at>Mon May 28 17:53:32 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>52459313</id>
+  <body><![CDATA[Now try actually reviewing the book you read...]]></body>
+  
+  <user>
+    <id>6261718</id>
+    <name>Hazel</name>
+    <display_name>Hazel</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6261718-hazel]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1323039712p3/6261718.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1323039712p2/6261718.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 18 07:53:38 -0700 2012</created_at>
+  <updated_at>Mon Jun 18 07:53:38 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>55017619</id>
+  <body><![CDATA[Anyone who dares to step up to that challenge is purely and simply brain dead.]]></body>
+  
+  <user>
+    <id>11243459</id>
+    <name>Shahida</name>
+    <display_name>Shahida</display_name>
+
+    <location><![CDATA[Sheffield, L9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11243459-shahida]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 27 17:24:34 -0700 2012</created_at>
+  <updated_at>Fri Jul 27 17:24:34 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>55677522</id>
+  <body><![CDATA[Thank You!!! I'm not saying the Twilight series aren't good books, but they will never compare to Harry Potter.]]></body>
+  
+  <user>
+    <id>11349024</id>
+    <name>Becca</name>
+    <display_name>Becca</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11349024-becca]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486753938p3/11349024.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486753938p2/11349024.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 06 14:19:58 -0700 2012</created_at>
+  <updated_at>Mon Aug 06 14:19:58 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>63210275</id>
+  <body><![CDATA[Pure wisdom!]]></body>
+  
+  <user>
+    <id>13253430</id>
+    <name>David</name>
+    <display_name>David Damiano</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13253430-david-damiano]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1384615740p3/13253430.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1384615740p2/13253430.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Dec 09 08:11:14 -0800 2012</created_at>
+  <updated_at>Sun Dec 09 08:11:14 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>63211730</id>
+  <body><![CDATA[Seriously? Edward sparkles, bella is dumb as a rock and the Weasley's are one of the best families I have ever heard of. James was probably one of the funniest characters in that movie. lol I know you are just pointing that out but to even compare them is stupid enough. lol]]></body>
+  
+  <user>
+    <id>13017475</id>
+    <name>Andrew</name>
+    <display_name>Andrew Kniceley</display_name>
+
+    <location>Belleville, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13017475-andrew-kniceley]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1348199119p3/13017475.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1348199119p2/13017475.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Dec 09 08:36:06 -0800 2012</created_at>
+  <updated_at>Sun Dec 09 08:36:06 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>64939882</id>
+  <body><![CDATA[Of course. Harry Potter is the most amazing series ever written and comparing JK Rowling to just about anyone is ridiculous.]]></body>
+  
+  <user>
+    <id>16123561</id>
+    <name>Laura</name>
+    <display_name>Laura</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16123561-laura]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1396438644p3/16123561.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1396438644p2/16123561.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 05 12:08:42 -0800 2013</created_at>
+  <updated_at>Sat Jan 05 12:08:42 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>65327351</id>
+  <body><![CDATA[I think people should be more careful when using the superlatives. One thing is that you want to apraise a thing (book) you love but the other is that you have no higher places to go when you read anything else which may or may not be as equally good. Not to say that Twillight and Harry Potter are very poor by any standard.]]></body>
+  
+  <user>
+    <id>15157839</id>
+    <name>Ondřej</name>
+    <display_name>Ondřej Miňovský</display_name>
+
+    <location>Prague, 52, Czech Republic</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15157839-ond-ej-mi-ovsk]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1354611347p3/15157839.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1354611347p2/15157839.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 11 03:40:25 -0800 2013</created_at>
+  <updated_at>Fri Jan 11 03:40:25 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>65672096</id>
+  <body><![CDATA[I really don't understand the huge debate of Harry Potter versus Twilight. I mean, their genres are completely different, they target different audiences. Really, the writing style's a mile apart. I enjoyed both of them, I don't feel a particular need to pick a side.]]></body>
+  
+  <user>
+    <id>5510558</id>
+    <name>Jolene</name>
+    <display_name>Jolene Yap</display_name>
+
+    <location>Singapore, 00, Singapore</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5510558-jolene-yap]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 16 01:22:16 -0800 2013</created_at>
+  <updated_at>Wed Jan 16 01:22:16 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>66986099</id>
+  <body><![CDATA[Hp will always be the.best flippin series.in the world.I don't care if people think.Twilight is better. Harry Potter has.more meaning]]></body>
+  
+  <user>
+    <id>12238760</id>
+    <name>Katelyn</name>
+    <display_name>Katelyn</display_name>
+
+    <location>Abilene, KS</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12238760-katelyn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1386468282p3/12238760.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1386468282p2/12238760.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 02 18:46:48 -0800 2013</created_at>
+  <updated_at>Sat Feb 02 18:46:48 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>67548759</id>
+  <body><![CDATA[so true i mean twilight could never compare to hp]]></body>
+  
+  <user>
+    <id>17345491</id>
+    <name>Mariana</name>
+    <display_name>Mariana Hernandez</display_name>
+
+    <location>Mexico</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17345491-mariana-hernandez]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1360544401p3/17345491.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1360544401p2/17345491.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 10 17:03:26 -0800 2013</created_at>
+  <updated_at>Sun Feb 10 17:03:26 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>67702079</id>
+  <body><![CDATA[Breaking Dawn is one of my favorite books, but Harry Potter is not the standard. It stands alone, not on any list of amazing books, simply there. There just isn't anything better, so I've stopped counting it.]]></body>
+  
+  <user>
+    <id>14686940</id>
+    <name>talltyrion</name>
+    <display_name>talltyrion</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14686940-talltyrion]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1418590427p3/14686940.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1418590427p2/14686940.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 12 18:26:38 -0800 2013</created_at>
+  <updated_at>Tue Feb 12 18:26:38 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>68016717</id>
+  <body><![CDATA[I'd read potter..<br />I'll not touch twilight with a ten foot pole.<br />if I want vampires.. I'll read anne rice again]]></body>
+  
+  <user>
+    <id>7468171</id>
+    <name>Sadie-jane (sj)</name>
+    <display_name>Sadie-jane (sj) alexis nunis</display_name>
+
+    <location>Singapore, 00, Singapore</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7468171-sadie-jane-sj-alexis-nunis]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1484025474p3/7468171.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1484025474p2/7468171.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 17 08:39:04 -0800 2013</created_at>
+  <updated_at>Sun Feb 17 08:39:04 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69042419</id>
+  <body><![CDATA[You go!]]></body>
+  
+  <user>
+    <id>14035452</id>
+    <name>Dave</name>
+    <display_name>Dave</display_name>
+
+    <location>San Antonio, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14035452-dave]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Mar 03 10:07:31 -0800 2013</created_at>
+  <updated_at>Sun Mar 03 10:07:31 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69071462</id>
+  <body><![CDATA[You madam, have my respect (;]]></body>
+  
+  <user>
+    <id>18019787</id>
+    <name>Angela</name>
+    <display_name>Angela Park</display_name>
+
+    <location>Calgary, AB, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18019787-angela-park]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1362357219p3/18019787.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1362357219p2/18019787.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Mar 03 16:41:14 -0800 2013</created_at>
+  <updated_at>Sun Mar 03 16:41:14 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69601188</id>
+  <body><![CDATA[You're absolutely right, justin!!!(&amp; all the other people that have agreed that harry potter is better. <br />Darn, how do you paste a pic??? Anyways, stephen king is one of the many few people that has his head screwed on right. Hp is just awesome and legendary, <br /><br />"when i'm 80 years old and sitting in my rocking chair and reading harry potter, and my family will say to me 'after all this time?' and i will say to them 'always' " -alan Rickman(snape in the movie) <br /><br />Harry potter leaves a special place in your heart. And i will NOT start my twilight rant.]]></body>
+  
+  <user>
+    <id>17618665</id>
+    <name>Take.a.bite.of.a.b0ok-_-</name>
+    <display_name>Take.a.bite.of.a.b0ok-_-</display_name>
+
+    <location>Durban, South Africa</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17618665-take-a-bite-of-a-b0ok---]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1361291819p3/17618665.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1361291819p2/17618665.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Mar 11 09:12:41 -0700 2013</created_at>
+  <updated_at>Mon Mar 11 09:12:41 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69604391</id>
+  <body><![CDATA[<i>Take.a.bite.of.a.b0ok-_- wrote: "You're absolutely right, justin!!!(&amp; all the other people that have agreed that harry potter is better. <br />Darn, how do you paste a pic??? Anyways, stephen king is one of the many few people that has..."</i><br /><br />My favorite Alan Rickman quote! And the case will be the same for me too.<br /><br />I agree with you, Harry Potter does leave a special place in your heart. I'm in the strange place where I actually like both series, yet I absolutely agree with every criticism of Twilight that comes up... but I still like it for some reason.<br /> And whenever anyone asks me which I like better, I give them the "You can't seriously be asking me that..." look, and place myself firmly in the HP Camp. <br />In fact, I'm not even sure I can see the Twilight Camp from where I am...]]></body>
+  
+  <user>
+    <id>11349024</id>
+    <name>Becca</name>
+    <display_name>Becca</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11349024-becca]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486753938p3/11349024.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486753938p2/11349024.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Mar 11 12:40:28 -0700 2013</created_at>
+  <updated_at>Mon Mar 11 12:40:28 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69964721</id>
+  <body><![CDATA[YES! LOVE THIS!]]></body>
+  
+  <user>
+    <id>14966848</id>
+    <name>Aline</name>
+    <display_name>Aline</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14966848-aline]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1425416479p3/14966848.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1425416479p2/14966848.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Mar 16 13:43:15 -0700 2013</created_at>
+  <updated_at>Sat Mar 16 13:43:15 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69964913</id>
+  <body><![CDATA[Also, why are they even compared as though they are in the same league? Harry Potter is so, so, sosososososo much better in every way, literary and otherwise, that i don't understand the whole argument. The Twilight Saga is literally four books about a shallow irl complaining, and mostly just talking about her boyfriend. Who is a 'hot' vampire. Please. Give me a REAL issue. Like having to fight all your life for good and your loved ones. Not fight for your glittery boyf.]]></body>
+  
+  <user>
+    <id>14966848</id>
+    <name>Aline</name>
+    <display_name>Aline</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14966848-aline]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1425416479p3/14966848.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1425416479p2/14966848.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Mar 16 13:46:30 -0700 2013</created_at>
+  <updated_at>Sat Mar 16 13:46:30 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>71583629</id>
+  <body><![CDATA[NICE REVIEW!!]]></body>
+  
+  <user>
+    <id>15036081</id>
+    <name>Frieda</name>
+    <display_name>Frieda</display_name>
+
+    <location>Dallas, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15036081-frieda]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Apr 07 17:50:30 -0700 2013</created_at>
+  <updated_at>Sun Apr 07 17:50:30 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>72800038</id>
+  <body><![CDATA[preach it guurrrlll!!!!]]></body>
+  
+  <user>
+    <id>5222460</id>
+    <name>Hannah</name>
+    <display_name>Hannah</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5222460-hannah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1474568865p3/5222460.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1474568865p2/5222460.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Apr 25 03:32:50 -0700 2013</created_at>
+  <updated_at>Thu Apr 25 03:32:50 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73133814</id>
+  <body><![CDATA[Agreed! I cant even begin to explain just how amazing Harry Potter is compared to Twilight.]]></body>
+  
+  <user>
+    <id>19427853</id>
+    <name>Laura</name>
+    <display_name>Laura</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/19427853-laura]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1367303834p3/19427853.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1367303834p2/19427853.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Apr 30 00:07:42 -0700 2013</created_at>
+  <updated_at>Tue Apr 30 00:07:42 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73536324</id>
+  <body><![CDATA[How very dare you!!!!!!!!!!!!!]]></body>
+  
+  <user>
+    <id>17292247</id>
+    <name>Dana</name>
+    <display_name>Dana</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17292247-dana]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon May 06 04:32:12 -0700 2013</created_at>
+  <updated_at>Mon May 06 04:32:12 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73536353</id>
+  <body><![CDATA[The Twilight saga is one of the best sagas I have ever read!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]]></body>
+  
+  <user>
+    <id>17292247</id>
+    <name>Dana</name>
+    <display_name>Dana</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17292247-dana]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon May 06 04:33:12 -0700 2013</created_at>
+  <updated_at>Mon May 06 04:33:12 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73544597</id>
+  <body><![CDATA[I hope you are trolling]]></body>
+  
+  <user>
+    <id>2683062</id>
+    <name>★ </name>
+    <display_name>★ </display_name>
+
+    <location>Australia, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2683062]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1466182835p3/2683062.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1466182835p2/2683062.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon May 06 07:40:42 -0700 2013</created_at>
+  <updated_at>Mon May 06 07:40:42 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73750532</id>
+  <body><![CDATA[I enjoy both series. They both have strong points and they both have weak points. They are very different books so I would never think to compare them. Anymore than I would compare a Pickup truck to a Sports car..ect]]></body>
+  
+  <user>
+    <id>5307444</id>
+    <name>Ambrosia</name>
+    <display_name>Ambrosia Sullivan</display_name>
+
+    <location>Tucson, AZ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5307444-ambrosia-sullivan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1373868372p3/5307444.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1373868372p2/5307444.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 09 06:04:26 -0700 2013</created_at>
+  <updated_at>Thu May 09 06:04:26 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>74000497</id>
+  <body><![CDATA[I have read both series, I am 31. Now with saying that - I have read both series over a few different times, when new books came out or I was going to watch the movies based on the novel. <br />I realize that HP has more novels/movies than Twilight, yet even after all books and movies came out - I still go back to HP hands down.<br />I have not even bothered watching the.last two twilight movies - a waste if time IMHO. <br />Harry Potter pulls at all of your emotions, the older you are (or at least for me) the more I get out of each read. <br />Completely agree with your review. Definitely brought a smile to my face.]]></body>
+  
+  <user>
+    <id>6113515</id>
+    <name>Neeka</name>
+    <display_name>Neeka</display_name>
+
+    <location>East Wenatchee, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6113515-neeka]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1462839500p3/6113515.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1462839500p2/6113515.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon May 13 02:56:37 -0700 2013</created_at>
+  <updated_at>Mon May 13 02:56:37 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>74932459</id>
+  <body><![CDATA[Agreed. However, if Bella and Hermione actually existed then Hermione would be smarter. :)]]></body>
+  
+  <user>
+    <id>20731814</id>
+    <name>Ashlee</name>
+    <display_name>Ashlee</display_name>
+
+    <location>Salem, OR</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/20731814-ashlee]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun May 26 18:54:48 -0700 2013</created_at>
+  <updated_at>Sun May 26 18:54:48 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>75171548</id>
+  <body><![CDATA[Preach it! This is so true]]></body>
+  
+  <user>
+    <id>20841717</id>
+    <name>Kat</name>
+    <display_name>Kat</display_name>
+
+    <location>Launceston, 06, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/20841717-kat]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1369900526p3/20841717.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1369900526p2/20841717.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 30 00:57:43 -0700 2013</created_at>
+  <updated_at>Thu May 30 00:57:43 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>75239647</id>
+  <body><![CDATA[Haha I love the way you did this! Can't even <i>begin</i> to understand why some people say Twilight is better...*shakes head* hormonal teenagers these days :P]]></body>
+  
+  <user>
+    <id>15464824</id>
+    <name>Sophie</name>
+    <display_name>Sophie</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15464824-sophie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1443337317p3/15464824.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1443337317p2/15464824.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 30 23:26:20 -0700 2013</created_at>
+  <updated_at>Thu May 30 23:26:20 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>75240062</id>
+  <body><![CDATA[<i>Sophie wrote: "Haha I love the way you did this! Can't even begin to understand why some people say Twilight is better...*shakes head* hormonal teenagers these days :P"</i><br /><br /><br />'Hormonal" :"")]]></body>
+  
+  <user>
+    <id>20841717</id>
+    <name>Kat</name>
+    <display_name>Kat</display_name>
+
+    <location>Launceston, 06, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/20841717-kat]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1369900526p3/20841717.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1369900526p2/20841717.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 30 23:46:48 -0700 2013</created_at>
+  <updated_at>Thu May 30 23:46:48 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>75727028</id>
+  <body><![CDATA[Ha! Whoever says twilight is better is wrong. What did Meyer teach us? When your boyfriend leaves you, go jump off a cliff? I think not!! Harry Potter is superior because it teaches us lessens!]]></body>
+  
+  <user>
+    <id>19402025</id>
+    <name>Maximum</name>
+    <display_name>Maximum Potter</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/19402025-maximum-potter]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1412973979p3/19402025.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1412973979p2/19402025.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 06 22:51:23 -0700 2013</created_at>
+  <updated_at>Thu Jun 06 22:51:23 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>75819819</id>
+  <body><![CDATA[I completely agree, because I've grown up with Harry Potter and for me, it doesn't replace anything.<br />Yes, I've read three Twilight books, but I've never felt the need to be compared it to this vampire-bullshit, because it's not possible. Obviously Harry Potter is a thousand times better! :)]]></body>
+  
+  <user>
+    <id>18930516</id>
+    <name>Ingrid Madreia</name>
+    <display_name>Ingrid Madreia</display_name>
+
+    <location>Estonia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18930516-ingrid-madreia]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1476711764p3/18930516.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1476711764p2/18930516.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jun 08 11:00:20 -0700 2013</created_at>
+  <updated_at>Sat Jun 08 11:00:20 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78241858</id>
+  <body><![CDATA[hey...wanna be friends.............and r those ur stories..?ur own?]]></body>
+  
+  <user>
+    <id>20495304</id>
+    <name>Meghana</name>
+    <display_name>Meghana pathapati</display_name>
+
+    <location>vellore, 25, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/20495304-meghana-pathapati]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 12 06:17:57 -0700 2013</created_at>
+  <updated_at>Fri Jul 12 06:17:57 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78533803</id>
+  <body><![CDATA[Thank god!!! Finally, someone with sense. You CAN'T compare at ALL!! There is NOTHING to compare!!]]></body>
+  
+  <user>
+    <id>22252134</id>
+    <name>Hermione</name>
+    <display_name>Hermione Granger</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22252134-hermione-granger]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1374054618p3/22252134.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1374054618p2/22252134.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 16 04:48:42 -0700 2013</created_at>
+  <updated_at>Tue Jul 16 04:48:42 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>79305455</id>
+  <body><![CDATA[<i>Dana wrote: "The Twilight saga is one of the best sagas I have ever read!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"</i><br />You better be trolling.]]></body>
+  
+  <user>
+    <id>14966848</id>
+    <name>Aline</name>
+    <display_name>Aline</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14966848-aline]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1425416479p3/14966848.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1425416479p2/14966848.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 26 10:31:35 -0700 2013</created_at>
+  <updated_at>Fri Jul 26 10:31:35 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>81227564</id>
+  <body><![CDATA[It's also quite stupid since the plots of the book are exact opposites.]]></body>
+  
+  <user>
+    <id>18655803</id>
+    <name>whoufflestories</name>
+    <display_name>whoufflestories</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18655803-whoufflestories]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1471214259p3/18655803.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1471214259p2/18655803.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 21 08:29:24 -0700 2013</created_at>
+  <updated_at>Wed Aug 21 08:29:24 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>81344341</id>
+  <body><![CDATA[I love them both. It bothers me how people always compare them, because they're really nothing alike except that they're both popular and fantasy. It's all a matter of opinion, and definitely not worth arguing about.]]></body>
+  
+  <user>
+    <id>22999682</id>
+    <name>Alyssa</name>
+    <display_name>Alyssa</display_name>
+
+    <location>Boone, NC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22999682-alyssa]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 22 19:29:25 -0700 2013</created_at>
+  <updated_at>Thu Aug 22 19:29:25 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>81428408</id>
+  <body><![CDATA[I've never read twilight, though I'd like to! Harry potter is a great book!!]]></body>
+  
+  <user>
+    <id>23199253</id>
+    <name>Izzy</name>
+    <display_name>Izzy</display_name>
+
+    <location><![CDATA[Sheffield, L9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23199253-izzy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1376834789p3/23199253.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1376834789p2/23199253.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 24 02:08:21 -0700 2013</created_at>
+  <updated_at>Sat Aug 24 02:08:21 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>83769998</id>
+  <body><![CDATA[Harry Potter &gt; Twilight<br />XD]]></body>
+  
+  <user>
+    <id>24270557</id>
+    <name>Kingston</name>
+    <display_name>Kingston Leung</display_name>
+
+    <location>San Ramon, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24270557-kingston-leung]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu Sep 26 21:50:00 -0700 2013</created_at>
+  <updated_at>Thu Sep 26 21:50:00 -0700 2013</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/80615382]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/80615382]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

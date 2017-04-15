@@ -1,0 +1,937 @@
+status: 200
+x-request-id: 4H47NZ2T9DZ3CRBYC1CF
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=207710836&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhg2MDctNzc5NjAxMC05NTU5NzIzBjoGRVQ%3D--ff19744b57d194819bb759a18485ad80cf46d0f0;
+ path=/; expires=Wed, 15 Apr 2037 15:23:21 -0000, locale=es;
+ path=/, _session_id2=6a91ae640fd876eb300b370dbcec30fc; path=/;
+ expires=Sat, 15 Apr 2017 21:23:21 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 41067
+server: Server
+x-runtime: 0.436814
+etag: W/"7ccc299d91c5e922b5863f99d9ce57cd"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:23:21 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>207710836</id>
+    
+  <user>
+    <id>6278820</id>
+    <name>Inge</name>
+    <display_name>Inge</display_name>
+
+    <location>Belgium</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6278820-inge]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1481031456p3/6278820.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1481031456p2/6278820.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">72193</id>
+  <isbn>0747532745</isbn>
+  <isbn13>9780747532743</isbn13>
+  <text_reviews_count type="integer">2255</text_reviews_count>
+  <title>Harry Potter and the Philosopher's Stone (Harry Potter, #1)</title>
+  <title_without_series>Harry Potter and the Philosopher's Stone</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1327190600m/72193.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1327190600s/72193.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/72193.Harry_Potter_and_the_Philosopher_s_Stone</link>
+  <num_pages>223</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Bloomsbury Publishing</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>1997</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.44</average_rating>
+  <ratings_count>4576472</ratings_count>
+  <description>Harry Potter thinks he is an ordinary boy - until he is rescued by an owl, taken to Hogwarts School of Witchcraft and Wizardry, learns to play Quidditch and does battle in a deadly duel. The Reason ... HARRY POTTER IS A WIZARD!</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1415945171p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1415945171p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.42</average_rating>
+<ratings_count>17561506</ratings_count>
+<text_reviews_count>435220</text_reviews_count>
+</author>
+</authors>
+  <published>1997</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">114230404</id>
+          <page type="integer">85</page>
+          <chapter type="integer"></chapter>
+          <comments_count>4</comments_count>
+          <created_at type="datetime">Thu Dec 01 11:02:22 -0800 2016</created_at>
+          <updated_at type="datetime">Thu Dec 01 11:03:00 -0800 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">23</ratings_count>
+          <percent type="integer">38</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.d345fc43eba87f1effba68e8e571906f</note_uri>
+          <note_updated_at type="datetime">Thu Dec 01 11:03:00 -0800 2016</note_updated_at>
+          <body><![CDATA[Hogwarts, Hogwarts, hoggy warty Hogwarts, teach us something please. &lt;3]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">114219675</id>
+          <page type="integer">1</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Dec 01 08:08:40 -0800 2016</created_at>
+          <updated_at type="datetime">Thu Dec 01 08:09:00 -0800 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">50</ratings_count>
+          <percent type="integer">0</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.10b93bc6ea69654061b045b9e090b121</note_uri>
+          <note_updated_at type="datetime">Thu Dec 01 08:09:00 -0800 2016</note_updated_at>
+          <body><![CDATA[<i>"Chapter one: The Boy Who Lived"</i><br /><br />Aaaand I can breathe.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">91681585</id>
+          <page type="integer">130</page>
+          <chapter type="integer"></chapter>
+          <comments_count>3</comments_count>
+          <created_at type="datetime">Sun Mar 20 07:37:48 -0700 2016</created_at>
+          <updated_at type="datetime">Sun Mar 20 07:38:11 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">67</ratings_count>
+          <percent type="integer">58</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.def91a5ea53293d9dbb9225d44a40098</note_uri>
+          <note_updated_at type="datetime">Sun Mar 20 07:38:11 -0700 2016</note_updated_at>
+          <body><![CDATA[<i>"Harry then did something that was both very brave and very stupid."</i> Harry Potter: A Summary.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">90861978</id>
+          <page type="integer">1</page>
+          <chapter type="integer"></chapter>
+          <comments_count>16</comments_count>
+          <created_at type="datetime">Fri Mar 11 08:06:45 -0800 2016</created_at>
+          <updated_at type="datetime">Fri Mar 11 08:07:05 -0800 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">51</ratings_count>
+          <percent type="integer">0</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.fec9d3aaba3b8d0e4ad9678543ce1329</note_uri>
+          <note_updated_at type="datetime">Fri Mar 11 08:07:05 -0800 2016</note_updated_at>
+          <body><![CDATA[Because when depression hits you this hard, it's time to bring out the big guns.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">61184236</id>
+          <page type="integer">214</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Mar 06 05:25:52 -0800 2015</created_at>
+          <updated_at type="datetime">Fri Mar 06 05:26:45 -0800 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">15</ratings_count>
+          <percent type="integer">95</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.869123917f13af528b3f301231f4cdf6</note_uri>
+          <note_updated_at type="datetime">Fri Mar 06 05:26:45 -0800 2015</note_updated_at>
+          <body><![CDATA[<i>"What happened down in the dungeons between you and Professor Quirrell is a complete secret, so, naturally, the whole school knows."</i>]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">61181339</id>
+          <page type="integer">202</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Mar 06 04:24:56 -0800 2015</created_at>
+          <updated_at type="datetime">Fri Mar 06 04:25:41 -0800 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">12</ratings_count>
+          <percent type="integer">90</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.5ffb7cc773b3ddec75e557809ea4f40c</note_uri>
+          <note_updated_at type="datetime">Fri Mar 06 04:25:41 -0800 2015</note_updated_at>
+          <body><![CDATA[<i>"Devil's Snare, Devil's Snare ... What did Professor Sprout say? It likes the dark and the damp -"<br /> "So light a fire!" Harry choked.<br /> "Yes - of course - but there's no wood!" Hermione cried, wringing her hands.<br /> "HAVE YOU GONE MAD?" Ron bellowed. "ARE YOU A WITCH OR NOT?"</i><br /><br /> Ron, you beautiful bastard.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">61178226</id>
+          <page type="integer">157</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Mar 06 02:57:18 -0800 2015</created_at>
+          <updated_at type="datetime">Fri Mar 06 02:57:36 -0800 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">11</ratings_count>
+          <percent type="integer">70</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.7a671397a6584ee70b2f1385bd95fa09</note_uri>
+          <note_updated_at type="datetime">Fri Mar 06 02:57:36 -0800 2015</note_updated_at>
+          <body><![CDATA[<i>"It does not do to dwell on dreams and forget to live."</i>]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">61126372</id>
+          <page type="integer">103</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Mar 05 12:13:11 -0800 2015</created_at>
+          <updated_at type="datetime">Thu Mar 05 12:13:52 -0800 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">15</ratings_count>
+          <percent type="integer">46</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.286a86c8ab40a21375852712300a7e93</note_uri>
+          <note_updated_at type="datetime">Thu Mar 05 12:13:52 -0800 2015</note_updated_at>
+          <body>I love sassy Harry.</body>
+        </user_status>
+        <user_status>
+          <id type="integer">61112684</id>
+          <page type="integer">79</page>
+          <chapter type="integer"></chapter>
+          <comments_count>11</comments_count>
+          <created_at type="datetime">Thu Mar 05 08:48:03 -0800 2015</created_at>
+          <updated_at type="datetime">Thu Mar 05 08:48:06 -0800 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">64</ratings_count>
+          <percent type="integer">35</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.98d37a08e6f2d7cdfa2e541e31fa9b87</note_uri>
+          <note_updated_at type="datetime">Thu Mar 05 08:48:06 -0800 2015</note_updated_at>
+          <body><![CDATA[<a href="http://tinypic.com?ref=2128f94" target="_blank" rel="nofollow">
+  <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1425574083i/13907308.jpg" alt="Image and video hosting by TinyPic" class="gr-hostedUserImg"></a>]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">61109217</id>
+          <page type="integer">42</page>
+          <chapter type="integer"></chapter>
+          <comments_count>3</comments_count>
+          <created_at type="datetime">Thu Mar 05 07:54:48 -0800 2015</created_at>
+          <updated_at type="datetime">Thu Mar 05 07:54:59 -0800 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">20</ratings_count>
+          <percent type="integer">18</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.c0cedf4fcafec0e432f8e41cf1b18424</note_uri>
+          <note_updated_at type="datetime">Thu Mar 05 07:54:59 -0800 2015</note_updated_at>
+          <body><![CDATA[<i>"We are pleased to inform you that you have a place at Hogwarts School of Witchcraft and Wizardry."</i> How many of us are still waiting for their letter?]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">61100637</id>
+          <page type="integer">1</page>
+          <chapter type="integer"></chapter>
+          <comments_count>3</comments_count>
+          <created_at type="datetime">Thu Mar 05 05:34:32 -0800 2015</created_at>
+          <updated_at type="datetime">Thu Mar 05 05:34:46 -0800 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">20</ratings_count>
+          <percent type="integer">0</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.e42a3c18f20623bff2d7d86f9d9e4f52</note_uri>
+          <note_updated_at type="datetime">Thu Mar 05 05:34:46 -0800 2015</note_updated_at>
+          <body>WHOOOOOOOO.</body>
+        </user_status>
+        <user_status>
+          <id type="integer">24727516</id>
+          <page type="integer">135</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sun Mar 10 05:59:48 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 05:11:51 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">3</ratings_count>
+          <percent type="integer">44</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.80d5b84e1a56c5cdfdf8becff5d000a0</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Reading this in Italian is slowly but surely becoming easier :)]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">24647157</id>
+          <page type="integer">82</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Mar 08 06:44:01 -0800 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 01:45:13 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">27</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.7a7349ae6c4391156a18c5c1a2583cba</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[<i>"I never know," said Harry. "What's the difference between a stalagmite and a stalactite?"<br /> "Stalagmite's got an 'm' in it."</i>]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">24494949</id>
+          <page type="integer">57</page>
+          <chapter type="integer"></chapter>
+          <comments_count>2</comments_count>
+          <created_at type="datetime">Tue Mar 05 03:29:35 -0800 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 03:41:49 -0700 2013</updated_at>
+          <last_comment_at type="datetime">Tue Mar 05 10:08:16 -0800 2013</last_comment_at>
+          <ratings_count type="integer">5</ratings_count>
+          <percent type="integer">18</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.477d1e258a874b1d75be34bc536311e8</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[I look stupid reading this. I've got the Italian version in one hand and the English version in the other. It also takes me five times as long to read the Italian version :P]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">24367391</id>
+          <page type="integer">1</page>
+          <chapter type="integer"></chapter>
+          <comments_count>7</comments_count>
+          <created_at type="datetime">Sat Mar 02 08:25:51 -0800 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 06:27:33 -0700 2013</updated_at>
+          <last_comment_at type="datetime">Sat Mar 02 13:52:04 -0800 2013</last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">0</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.a81c28b096dcd1934315632d9add0b4a</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[It's going to be quite a challenge to read this in Italian. Wish me luck.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">15026519</id>
+          <page type="integer">188</page>
+          <chapter type="integer"></chapter>
+          <comments_count>2</comments_count>
+          <created_at type="datetime">Thu Jun 21 05:58:22 -0700 2012</created_at>
+          <updated_at type="datetime">Sun Sep 08 01:21:28 -0700 2013</updated_at>
+          <last_comment_at type="datetime">Thu Jun 21 07:12:18 -0700 2012</last_comment_at>
+          <ratings_count type="integer">7</ratings_count>
+          <percent type="integer">84</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.5628a1738c12931c3c1ab479bd16aa0c</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[I'm reading too fast. I should stop.<br /><br /> ... *hides nose in book again*]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">15007165</id>
+          <page type="integer">157</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Jun 20 15:07:06 -0700 2012</created_at>
+          <updated_at type="datetime">Sat Sep 07 00:00:16 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">3</ratings_count>
+          <percent type="integer">70</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.6023e3c139e514284777d974a1fe468c</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[<i>'What do you see when you look in the mirror?'<br /> 'I? I see myself holding a pair of thick, woollen socks. One can never have enough socks.'</i><br /><br /> Dumbledore is so quirky but I love him and all his quirkiness &lt;3 have a Sherbot Lemon, D.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">15005648</id>
+          <page type="integer">142</page>
+          <chapter type="integer"></chapter>
+          <comments_count>5</comments_count>
+          <created_at type="datetime">Wed Jun 20 14:12:24 -0700 2012</created_at>
+          <updated_at type="datetime">Fri Sep 06 23:56:57 -0700 2013</updated_at>
+          <last_comment_at type="datetime">Wed Jun 20 15:04:39 -0700 2012</last_comment_at>
+          <ratings_count type="integer">20</ratings_count>
+          <percent type="integer">64</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.03328ba8ca39e71269a2c039e8b07bcb</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[<i>'The Weasley twins were punished for bewitching several snowballs so that they followed Quirrell around, bouncing off the back of his turban.'</i><br /><br /> When you think about it, the twins were actually snowballing Voldemort in the face.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">15004774</id>
+          <page type="integer">132</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Jun 20 13:43:18 -0700 2012</created_at>
+          <updated_at type="datetime">Sat Sep 07 19:08:11 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">3</ratings_count>
+          <percent type="integer">59</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.d1c37f7d212878cf8d08ef1b9b40cc8a</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[<i>'From that moment on, Hermione Granger became their friend. There are some things you can't share without ending up liking each other, and knocking out a twelve-foot mountain troll is one of them.'</i>]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">14953186</id>
+          <page type="integer">51</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Jun 19 03:38:03 -0700 2012</created_at>
+          <updated_at type="datetime">Sat Sep 07 17:45:02 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">5</ratings_count>
+          <percent type="integer">23</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.3e8a533004889f86b80ef7620b366a3e</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[I feel warm and loved and cuddled just by reading this. &lt;3]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">14933370</id>
+          <page type="integer">1</page>
+          <chapter type="integer"></chapter>
+          <comments_count>2</comments_count>
+          <created_at type="datetime">Mon Jun 18 13:49:44 -0700 2012</created_at>
+          <updated_at type="datetime">Sat Sep 07 17:30:29 -0700 2013</updated_at>
+          <last_comment_at type="datetime">Mon Jun 18 14:07:26 -0700 2012</last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">0</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.dacca758bc2bcf182afd854aa9c43c06</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Re-read with a bunch of people over the summer: <a target="_blank" href="https://www.goodreads.com/group/show/71640-the-awesome-harry-potter-re-read-group" rel="nofollow">http://www.goodreads.com/group/show/7...</a>]]></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">1600755292</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Fri Dec 02 07:16:10 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1599662502</id>
+          <old_status>read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Thu Dec 01 08:07:06 -0800 2016</updated_at>
+          <ratings_count>6</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1284669111</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Mar 20 08:37:08 -0700 2016</updated_at>
+          <ratings_count>1</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1273272054</id>
+          <old_status>read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Fri Mar 11 08:06:19 -0800 2016</updated_at>
+          <ratings_count>3</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">781946595</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Fri Mar 06 05:44:19 -0800 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">780663868</id>
+          <old_status>read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Thu Mar 05 05:34:08 -0800 2015</updated_at>
+          <ratings_count>6</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>226</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="main-character-is-cool" exclusive="false" review_shelf_id="199329490" sortable="false" />
+    <shelf name="villain-rocks-my-socks" exclusive="false" review_shelf_id="199334523" sortable="false" />
+    <shelf name="put-a-sock-in-it" exclusive="false" review_shelf_id="233045766" sortable="false" />
+    <shelf name="smiles-a-plenty" exclusive="false" review_shelf_id="233045779" sortable="false" />
+    <shelf name="magic" exclusive="false" review_shelf_id="199329478" sortable="false" />
+    <shelf name="all-time-favourites" exclusive="false" review_shelf_id="233045695" sortable="false" />
+    <shelf name="dragons" exclusive="false" review_shelf_id="233045718" sortable="false" />
+    <shelf name="laugh-out-loud-funny" exclusive="false" review_shelf_id="233045747" sortable="false" />
+    <shelf name="fantasy" exclusive="false" review_shelf_id="334827682" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Dec 01 00:00:00 -0800 2016</started_at>
+  <read_at>Thu Dec 01 00:00:00 -0800 2016</read_at>
+  <date_added>Mon Sep 12 12:54:49 -0700 2011</date_added>
+  <date_updated>Tue Feb 07 11:42:37 -0800 2017</date_updated>
+  <read_count>7</read_count>
+  <body>
+      <![CDATA[This doesn't really need a review, does it?<br /><br />This series is brilliant and it will live on forever in our hearts and minds.<br /><br /><img src="http://i49.tinypic.com/2q0vvd0.gif" alt="Image and video hosting by TinyPic" class="gr-hostedUserImg" />]]>
+  </body>
+
+  
+
+  <comments_count>19</comments_count>
+    <comments start="1" end="19" total="19">
+        <comment>
+  <id>52671566</id>
+  <body><![CDATA[You got that absolutely right, Inge!]]></body>
+  
+  <user>
+    <id>4336293</id>
+    <name>Haleema </name>
+    <display_name>Haleema </display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4336293-haleema]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1402430795p3/4336293.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1402430795p2/4336293.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 21 11:23:50 -0700 2012</created_at>
+  <updated_at>Thu Jun 21 11:23:50 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>52671656</id>
+  <body><![CDATA[I'm always right, Haleema. *ahem*]]></body>
+  
+  <user>
+    <id>6278820</id>
+    <name>Inge</name>
+    <display_name>Inge</display_name>
+
+    <location>Belgium</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6278820-inge]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1481031456p3/6278820.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1481031456p2/6278820.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 21 11:25:02 -0700 2012</created_at>
+  <updated_at>Thu Jun 21 11:25:02 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>52671739</id>
+  <body><![CDATA[A HP fanatic is always right. Indeed.]]></body>
+  
+  <user>
+    <id>4336293</id>
+    <name>Haleema </name>
+    <display_name>Haleema </display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4336293-haleema]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1402430795p3/4336293.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1402430795p2/4336293.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 21 11:26:14 -0700 2012</created_at>
+  <updated_at>Thu Jun 21 11:26:14 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>52671935</id>
+  <body><![CDATA[You're actually the first one to agree with that statement, hahaha!]]></body>
+  
+  <user>
+    <id>6278820</id>
+    <name>Inge</name>
+    <display_name>Inge</display_name>
+
+    <location>Belgium</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6278820-inge]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1481031456p3/6278820.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1481031456p2/6278820.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 21 11:29:44 -0700 2012</created_at>
+  <updated_at>Thu Jun 21 11:29:44 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>52672748</id>
+  <body><![CDATA[That gif. <br />I love that movie. <br />And Harry Potter, of course.]]></body>
+  
+  <user>
+    <id>1180957</id>
+    <name>Sophie</name>
+    <display_name>Sophie</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1180957-sophie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1337226233p3/1180957.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1337226233p2/1180957.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 21 11:44:12 -0700 2012</created_at>
+  <updated_at>Thu Jun 21 11:44:12 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>52672846</id>
+  <body><![CDATA[Love Actually is perfection &lt;3]]></body>
+  
+  <user>
+    <id>6278820</id>
+    <name>Inge</name>
+    <display_name>Inge</display_name>
+
+    <location>Belgium</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6278820-inge]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1481031456p3/6278820.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1481031456p2/6278820.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 21 11:45:56 -0700 2012</created_at>
+  <updated_at>Thu Jun 21 11:45:56 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>52673183</id>
+  <body><![CDATA[why only 4 stars?!]]></body>
+  
+  <user>
+    <id>7311946</id>
+    <name>Chloe</name>
+    <display_name>Chloe</display_name>
+
+    <location>Bath, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7311946-chloe]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1420535106p3/7311946.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1420535106p2/7311946.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 21 11:51:25 -0700 2012</created_at>
+  <updated_at>Thu Jun 21 11:51:25 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>52673329</id>
+  <body><![CDATA[Because there are some slow parts, I don't like Quirrell, not enough Dumbledore &amp; Weasley twins, and Malfoy is annoying as fuck.]]></body>
+  
+  <user>
+    <id>6278820</id>
+    <name>Inge</name>
+    <display_name>Inge</display_name>
+
+    <location>Belgium</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6278820-inge]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1481031456p3/6278820.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1481031456p2/6278820.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 21 11:54:25 -0700 2012</created_at>
+  <updated_at>Thu Jun 21 11:54:25 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>52673806</id>
+  <body><![CDATA[yeah Quirrell was a bad villain, I love Malfoy though. :)]]></body>
+  
+  <user>
+    <id>7311946</id>
+    <name>Chloe</name>
+    <display_name>Chloe</display_name>
+
+    <location>Bath, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7311946-chloe]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1420535106p3/7311946.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1420535106p2/7311946.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 21 12:02:00 -0700 2012</created_at>
+  <updated_at>Thu Jun 21 12:02:00 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>52673946</id>
+  <body><![CDATA[Normally I do too, but not in this part. Here, he's just a pathetic tattle-tale.]]></body>
+  
+  <user>
+    <id>6278820</id>
+    <name>Inge</name>
+    <display_name>Inge</display_name>
+
+    <location>Belgium</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6278820-inge]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1481031456p3/6278820.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1481031456p2/6278820.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 21 12:03:51 -0700 2012</created_at>
+  <updated_at>Thu Jun 21 12:03:51 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>52682031</id>
+  <body><![CDATA[LOL, yeah:-)]]></body>
+  
+  <user>
+    <id>7311946</id>
+    <name>Chloe</name>
+    <display_name>Chloe</display_name>
+
+    <location>Bath, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7311946-chloe]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1420535106p3/7311946.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1420535106p2/7311946.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 21 14:01:37 -0700 2012</created_at>
+  <updated_at>Thu Jun 21 14:01:37 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>63775819</id>
+  <body><![CDATA[malfoy is one of my favorite characters :)]]></body>
+  
+  <user>
+    <id>12672351</id>
+    <name>Katerina</name>
+    <display_name>Katerina</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12672351-katerina]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 18 15:11:29 -0800 2012</created_at>
+  <updated_at>Tue Dec 18 15:11:29 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>65607996</id>
+  <body><![CDATA[<i>Smeesh wrote: "malfoy is one of my favorite characters :)"</i><br /><br />In the end, he gets a lot of backstory and he becomes three-dimensional. In the beginning, he's a little prat who'll do anything to annoy Harry just because he can. But I cannot resist Tom Felton. :)]]></body>
+  
+  <user>
+    <id>6278820</id>
+    <name>Inge</name>
+    <display_name>Inge</display_name>
+
+    <location>Belgium</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6278820-inge]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1481031456p3/6278820.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1481031456p2/6278820.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 15 06:16:15 -0800 2013</created_at>
+  <updated_at>Tue Jan 15 06:16:15 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>65650981</id>
+  <body><![CDATA[<i>Inge *Studying for Exams* wrote: "Smeesh wrote: "malfoy is one of my favorite characters :)"<br /><br />In the end, he gets a lot of backstory and he becomes three-dimensional. In the beginning, he's a little prat who'll do anything to annoy..."</i><br />well yeah i dont think anyone liked him in the first one, but by the last one he was cool]]></body>
+  
+  <user>
+    <id>12672351</id>
+    <name>Katerina</name>
+    <display_name>Katerina</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12672351-katerina]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 15 17:41:13 -0800 2013</created_at>
+  <updated_at>Tue Jan 15 17:41:13 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>98437302</id>
+  <body><![CDATA[And then Andrew Lincoln left England and Keira Knightly to become a small town sheriff and fight zombies. He regrets that decision to this day.]]></body>
+  
+  <user>
+    <id>7022024</id>
+    <name>Mike</name>
+    <display_name>Mike</display_name>
+
+    <location>Arlington, VA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7022024-mike]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1470679918p3/7022024.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1470679918p2/7022024.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue May 13 11:57:54 -0700 2014</created_at>
+  <updated_at>Tue May 13 11:57:54 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>98437700</id>
+  <body><![CDATA[<i>Mike wrote: "And then Andrew Lincoln left England and Keira Knightly to become a small town sheriff and fight zombies. He regrets that decision to this day."</i><br /><br />And rightly, too!]]></body>
+  
+  <user>
+    <id>6278820</id>
+    <name>Inge</name>
+    <display_name>Inge</display_name>
+
+    <location>Belgium</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6278820-inge]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1481031456p3/6278820.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1481031456p2/6278820.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue May 13 12:06:38 -0700 2014</created_at>
+  <updated_at>Tue May 13 12:06:38 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>115725467</id>
+  <body><![CDATA[LOTR is better...<br />Igor]]></body>
+  
+  <user>
+    <id>10471943</id>
+    <name>Igor</name>
+    <display_name>Igor Ljubuncic</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10471943-igor-ljubuncic]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492196263p3/10471943.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492196263p2/10471943.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 06 13:03:34 -0800 2015</created_at>
+  <updated_at>Fri Mar 06 13:03:34 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>115750976</id>
+  <body><![CDATA[<i>Igor wrote: "LOTR is better...<br />Igor"</i><br /><br />Nope.]]></body>
+  
+  <user>
+    <id>6278820</id>
+    <name>Inge</name>
+    <display_name>Inge</display_name>
+
+    <location>Belgium</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6278820-inge]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1481031456p3/6278820.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1481031456p2/6278820.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Mar 07 01:15:39 -0800 2015</created_at>
+  <updated_at>Sat Mar 07 01:15:39 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>153827522</id>
+  <body><![CDATA[Amen,Inge.]]></body>
+  
+  <user>
+    <id>26836237</id>
+    <name>kush</name>
+    <display_name>kush</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/26836237-kush]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Jul 04 23:54:25 -0700 2016</created_at>
+  <updated_at>Mon Jul 04 23:54:25 -0700 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/207710836]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/207710836]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

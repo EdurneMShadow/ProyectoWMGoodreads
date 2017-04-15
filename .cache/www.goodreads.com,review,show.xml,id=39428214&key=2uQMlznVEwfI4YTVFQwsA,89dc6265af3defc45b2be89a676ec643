@@ -1,0 +1,248 @@
+status: 200
+x-request-id: KBS1AMNVAVSWTJ6T31V2
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=39428214&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhg0ODQtNTk2MTQwOC0zNzQyNDk4BjoGRVQ%3D--d6e562355443ab86c506acf852c01c3207fa204f;
+ path=/; expires=Wed, 15 Apr 2037 15:15:15 -0000, locale=es;
+ path=/, _session_id2=47ec4ffcfe3167e2b5e1a7c45a2f0ba0; path=/;
+ expires=Sat, 15 Apr 2017 21:15:15 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 9142
+server: Server
+x-runtime: 0.295500
+etag: W/"46cdd89624641c70afcc8134b0ec602d"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:15:15 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>39428214</id>
+    
+  <user>
+    <id>1775679</id>
+    <name>أحمد</name>
+    <display_name>أحمد</display_name>
+
+    <location>Alexandria, 06, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1775679]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1470680263p3/1775679.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1470680263p2/1775679.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">6010848</id>
+  <isbn>9770704857</isbn>
+  <isbn13>9789770704851</isbn13>
+  <text_reviews_count type="integer">51</text_reviews_count>
+  <title>ساحر الصحراء</title>
+  <title_without_series>ساحر الصحراء</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6010848</link>
+  <num_pages>144</num_pages>
+  <format/>
+  <edition_information/>
+  <publisher>دار الهلال</publisher>
+  <publication_day/>
+  <publication_year>1996</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.81</average_rating>
+  <ratings_count>1333089</ratings_count>
+  <description>الاسم الأصلي للرواية: O Alquimista&lt;br /&gt;نشرت لدي دور أخرى تحت عنوان: السميائي&lt;br /&gt;&lt;br /&gt;PAULO COELHO'S enchanting novel has inspired a devoted following around the world. This story, dazzling in its powerful simplicity and inspiring wisdom, is about an Andalusian shepherd boy named Santiago who travels from his homeland in Spain to the Egyptian desert in search of a treasure buried in the Pyramids. Along the way he meets a Gypsy woman, a man who calls himself king, and an alchemist, all of whom points Santiago in the direction of his quest. No one knows what the treasure is, or if Santiago will be able to surmount the obstacles along the way. But what starts out as a journey to find worldly goods turns into a discovery of the treasure found within. Lush, evocative, and deeply humane, the story of Santiago is an eternal testament to the transformation power of our dreams and the importance of listening to our hearts.</description>
+<authors>
+<author>
+<id>566</id>
+<name>Paulo Coelho</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201840056p5/566.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201840056p2/566.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/566.Paulo_Coelho]]></link>
+<average_rating>3.72</average_rating>
+<ratings_count>2103679</ratings_count>
+<text_reviews_count>95507</text_reviews_count>
+</author>
+</authors>
+  <published>1996</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1221188559</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Wed Feb 03 08:36:55 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>4</rating>
+  <votes>164</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Mon Jan 01 00:00:00 -0800 2007</read_at>
+  <date_added>Sat Dec 06 01:37:01 -0800 2008</date_added>
+  <date_updated>Thu Apr 23 02:14:55 -0700 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[رواية غيّرت روحي. جربت بعدها قراءة شيء آخر لباولو كويليو فتأكدت أن هذه الرواية هي الوحيدة تقريبا التي تستحق القراءة. أنصح بترجمة بهاء طاهر الصادرة عن دار الهلال بعنوان: ساحر الصحراء.<br /><br />أحمد الديب<br />2007]]>
+  </body>
+
+  
+
+  <comments_count>5</comments_count>
+    <comments start="1" end="5" total="5">
+        <comment>
+  <id>8017475</id>
+  <body><![CDATA[u would be amazed how many people didn't like it : (]]></body>
+  
+  <user>
+    <id>2196271</id>
+    <name>خالد</name>
+    <display_name>خالد العشرى</display_name>
+
+    <location>Cairo, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2196271]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1297838731p3/2196271.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1297838731p2/2196271.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 01 05:45:45 -0700 2009</created_at>
+  <updated_at>Sat Aug 01 05:45:45 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>104033833</id>
+  <body><![CDATA[يمكنكم الإستماع له باللغة العربية على اقرأ لي<br /><a target="_blank" href="http://bit.ly/1pvBHGm" rel="nofollow">http://bit.ly/1pvBHGm</a>]]></body>
+  
+  <user>
+    <id>20186963</id>
+    <name>Iqraaly</name>
+    <display_name>Iqraaly اقرألى </display_name>
+
+    <location>Cairo, 11, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/20186963-iqraaly]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1368103854p3/20186963.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1368103854p2/20186963.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 10 12:23:04 -0700 2014</created_at>
+  <updated_at>Sun Aug 10 12:23:04 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>118187333</id>
+  <body><![CDATA[جميله وغيرت روحي انا ايضا .. لكن وجدت لها نسخه تقريبا طبق الاصل للقصه الاصليه في كتاب المثنوي لجلال الدين الرومي .. عن شاب من بغداد يحلم بكنز في مصر ليسافر برحله طويله ويمر بسلسلة مغامرات نهايتها يقع بيد بعض اللصوص الذين يؤذونه ويضحكون عليه ويقول له احدهم انه حلم ايضا بكنز في بغداد في المكان الفلاني وانه ليس باحمق ليذهب اليه ...]]></body>
+  
+  <user>
+    <id>24505647</id>
+    <name>Ali</name>
+    <display_name>Ali Jamal</display_name>
+
+    <location>Baghdad, 07, Iraq</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24505647-ali-jamal]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1437990493p3/24505647.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1437990493p2/24505647.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Apr 23 12:35:38 -0700 2015</created_at>
+  <updated_at>Thu Apr 23 12:35:38 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>129185560</id>
+  <body><![CDATA[هل لديك رابط الكتروني لتحميل كتاب جلال الدين الرومي]]></body>
+  
+  <user>
+    <id>42631390</id>
+    <name>زينب</name>
+    <display_name>زينب الطرشان</display_name>
+
+    <location>Syrian Arab Republic</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/42631390]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1430336733p3/42631390.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1430336733p2/42631390.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 21 23:13:15 -0700 2015</created_at>
+  <updated_at>Thu May 21 23:13:15 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>153708176</id>
+  <body><![CDATA[ياريت اللينك لو سمحت]]></body>
+  
+  <user>
+    <id>2022328</id>
+    <name>Zahra</name>
+    <display_name>Zahra</display_name>
+
+    <location>Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2022328-zahra]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1456441961p3/2022328.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1456441961p2/2022328.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 01 19:51:18 -0700 2016</created_at>
+  <updated_at>Fri Jul 01 19:51:18 -0700 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/39428214]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/39428214]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

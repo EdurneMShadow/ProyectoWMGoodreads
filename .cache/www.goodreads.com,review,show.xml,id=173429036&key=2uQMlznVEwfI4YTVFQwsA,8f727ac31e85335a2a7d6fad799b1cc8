@@ -1,0 +1,1233 @@
+status: 200
+x-request-id: V53B9MZY4APNCFB1Q1EK
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=173429036&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhgyNTYtNDA3NTY3Mi0xMjM1NzE0BjoGRVQ%3D--7518a7283a217c3c201378e69d43a90a203e5fc9;
+ path=/; expires=Wed, 15 Apr 2037 15:23:02 -0000, locale=es;
+ path=/, _session_id2=ec038c830286673dc0a4bb4c7d3c6536; path=/;
+ expires=Sat, 15 Apr 2017 21:23:02 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 46876
+server: Server
+x-runtime: 0.429298
+etag: W/"f18e4c2fa5aa83eb23dc6712ddb8dc37"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:23:02 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>173429036</id>
+    
+  <user>
+    <id>4632071</id>
+    <name>Lora</name>
+    <display_name>Lora</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4632071-lora]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1305237530p3/4632071.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1305237530p2/4632071.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">77523</id>
+  <isbn>0590353403</isbn>
+  <isbn13>9780590353403</isbn13>
+  <text_reviews_count type="integer">1809</text_reviews_count>
+  <title>Harry Potter and the Sorcerer's Stone (Harry Potter, #1)</title>
+  <title_without_series>Harry Potter and the Sorcerer's Stone</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1474169299m/77523.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1474169299s/77523.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/77523.Harry_Potter_and_the_Sorcerer_s_Stone</link>
+  <num_pages>320</num_pages>
+  <format></format>
+  <edition_information>First American Edition</edition_information>
+  <publisher>Scholastic Inc.</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1998</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.44</average_rating>
+  <ratings_count>4576472</ratings_count>
+  <description>Harry Potter's life is miserable. His parents are dead and he's stuck with his heartless relatives, who force him to live in a tiny closet under the stairs. But his fortune changes when he receives a letter that tells him the truth about himself: he's a wizard. A mysterious visitor rescues him from his relatives and takes him to his new home, Hogwarts School of Witchcraft and Wizardry.&lt;br /&gt;&lt;br /&gt;After a lifetime of bottling up his magical powers, Harry finally feels like a normal kid. But even within the Wizarding community, he is special. He is the boy who lived: the only person to have ever survived a killing curse inflicted by the evil Lord Voldemort, who launched a brutal takeover of the Wizarding world, only to vanish after failing to kill Harry.&lt;br /&gt;&lt;br /&gt;Though Harry's first year at Hogwarts is the best of his life, not everything is perfect. There is a dangerous secret object hidden within the castle walls, and Harry believes it's his responsibility to prevent it from falling into evil hands. But doing so will bring him into contact with forces more terrifying than he ever could have imagined.&lt;br /&gt;&lt;br /&gt;Full of sympathetic characters, wildly imaginative situations, and countless exciting details, the first installment in the series assembles an unforgettable magical world and sets the stage for many high-stakes adventures to come.</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1415945171p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1415945171p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.42</average_rating>
+<ratings_count>17561506</ratings_count>
+<text_reviews_count>435220</text_reviews_count>
+</author>
+</authors>
+  <published>1998</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>842</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="surprised-me" exclusive="false" review_shelf_id="371485214" sortable="false" />
+    <shelf name="lib-read" exclusive="false" review_shelf_id="110504327" sortable="false" />
+    <shelf name="book-to-movie" exclusive="false" review_shelf_id="110504342" sortable="false" />
+    <shelf name="middle-grade-lit" exclusive="false" review_shelf_id="110504511" sortable="false" />
+    <shelf name="favorites" exclusive="false" review_shelf_id="110491488" sortable="false" />
+</shelves>
+  <recommended_for><![CDATA[anyone who is still waiting to read it]]></recommended_for>
+  <recommended_by><![CDATA[Tina, Morgan, my own curiosity]]></recommended_by>
+  <started_at>Wed Jun 01 00:00:00 -0700 2011</started_at>
+  <read_at>Fri Jun 03 00:00:00 -0700 2011</read_at>
+  <date_added>Fri Jun 03 12:40:20 -0700 2011</date_added>
+  <date_updated>Thu Aug 20 08:35:59 -0700 2015</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[I'm going to keep this brief since there isn't much to say that hasn't already been said. *clears throat*<br />I think the reason I waited so long to read this series is because I just couldn't imagine myself enjoying reading about an eleven-year-old boy and his adventures at a school of wizardry. I th...]]>
+  </body>
+
+  
+
+  <comments_count>161</comments_count>
+    <comments start="1" end="50" total="161">
+        <comment>
+  <id>31384793</id>
+  <body><![CDATA[So fun that you can read them all in a row without years between each book!<br /><br />(I did that once for a re-read when I was stuck in bed for a week. The story flows so well when you can jump straight to the next book.)<br /><br />Wishing you a brilliant literary journey. =)]]></body>
+  
+  <user>
+    <id>4515165</id>
+    <name>Sandy</name>
+    <display_name>Sandy</display_name>
+
+    <location>Seattle, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4515165-sandy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1320017147p3/4515165.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1320017147p2/4515165.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 03 13:16:58 -0700 2011</created_at>
+  <updated_at>Fri Jun 03 13:16:58 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31384929</id>
+  <body><![CDATA[Oh, thanks, Sandy! I figure it's time I see why (almost) everyone loves this series. :)]]></body>
+  
+  <user>
+    <id>4632071</id>
+    <name>Lora</name>
+    <display_name>Lora</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4632071-lora]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1305237530p3/4632071.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1305237530p2/4632071.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 03 13:20:22 -0700 2011</created_at>
+  <updated_at>Fri Jun 03 13:20:22 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31385021</id>
+  <body><![CDATA[Yay Lora!! Im so glad you liked it. I first read this when I was 8 and I remember how magicaL it was!<br /><br /> Honestly The Chamber of Secrets was my favorite, even though for many its their least favorite...]]></body>
+  
+  <user>
+    <id>3508918</id>
+    <name>Sarah</name>
+    <display_name>Sarah M</display_name>
+
+    <location>Calgary, AB, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3508918-sarah-m]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328138616p3/3508918.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328138616p2/3508918.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 03 13:22:25 -0700 2011</created_at>
+  <updated_at>Fri Jun 03 13:22:25 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31385108</id>
+  <body><![CDATA[<i>Sarah wrote: "Yay Lora!! Im so glad you liked it. I first read this when I was 8 and I remember how magicaL it was!<br /><br /> Honestly The Chamber of Secrets was my favorite, even though for many its there least favorit..."</i><br /><br />Hmm. We'll see! I've only read the first chapter of Chamber of Secrets, but I like it so far^^]]></body>
+  
+  <user>
+    <id>4632071</id>
+    <name>Lora</name>
+    <display_name>Lora</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4632071-lora]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1305237530p3/4632071.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1305237530p2/4632071.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 03 13:24:13 -0700 2011</created_at>
+  <updated_at>Fri Jun 03 13:24:13 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31388104</id>
+  <body><![CDATA[Hey! Your reading these!! ~super hugs you~ That is so awesome hun! Great review! Love LOve LOVE these books to death and I'm in my thirties babe;)<br />I'm doing a re-read of these books the first week of July so I'll be already for the last half of movie seven!!!!]]></body>
+  
+  <user>
+    <id>2594672</id>
+    <name>~Tina~</name>
+    <display_name>~Tina~</display_name>
+
+    <location>Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2594672-tina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1411474324p3/2594672.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1411474324p2/2594672.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 03 14:29:09 -0700 2011</created_at>
+  <updated_at>Fri Jun 03 14:29:09 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31388390</id>
+  <body><![CDATA[I was going to wait and read these with you and Nic (and anyone else wanting to join us), but I became impatient and just picked this up from my lib the other day. Loved it and I'm glad I stopped procrastinating^^]]></body>
+  
+  <user>
+    <id>4632071</id>
+    <name>Lora</name>
+    <display_name>Lora</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4632071-lora]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1305237530p3/4632071.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1305237530p2/4632071.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 03 14:35:18 -0700 2011</created_at>
+  <updated_at>Fri Jun 03 14:35:18 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31388898</id>
+  <body><![CDATA[OHMYGOD! this review could be MY review of the book, hehe! waited forever to read it, but totalllly ate it up once i began it. and then read the whole series in less than two weeks.<br /><br />god, i love these books so much. i'm going to have to reread them as soon as i possibly can.]]></body>
+  
+  <user>
+    <id>4559727</id>
+    <name>Aleeeeeza</name>
+    <display_name>Aleeeeeza</display_name>
+
+    <location>Karachi, Pakistan</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4559727-aleeeeeza]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 03 14:46:13 -0700 2011</created_at>
+  <updated_at>Fri Jun 03 14:46:13 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31388937</id>
+  <body><![CDATA[also: that was my favorite quote from the book too! :)]]></body>
+  
+  <user>
+    <id>4559727</id>
+    <name>Aleeeeeza</name>
+    <display_name>Aleeeeeza</display_name>
+
+    <location>Karachi, Pakistan</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4559727-aleeeeeza]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 03 14:46:53 -0700 2011</created_at>
+  <updated_at>Fri Jun 03 14:46:53 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31389698</id>
+  <body><![CDATA[I need to do a re-read of these books! They are so awesome. <br /><br />P.S. You might already know this, but the series get significantly darker by the end of the 3rd book. <br /><br />Happy reading!]]></body>
+  
+  <user>
+    <id>4642710</id>
+    <name>Steph</name>
+    <display_name>Steph Sinclair</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4642710-steph-sinclair]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1457555690p3/4642710.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1457555690p2/4642710.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 03 15:03:53 -0700 2011</created_at>
+  <updated_at>Fri Jun 03 15:03:53 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31389744</id>
+  <body><![CDATA[I've heard that^^ Thanks!]]></body>
+  
+  <user>
+    <id>4632071</id>
+    <name>Lora</name>
+    <display_name>Lora</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4632071-lora]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1305237530p3/4632071.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1305237530p2/4632071.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 03 15:04:53 -0700 2011</created_at>
+  <updated_at>Fri Jun 03 15:04:53 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31391402</id>
+  <body><![CDATA[Thats cool hun, no need to wait for us. I'm just THRILLED that your reading them. Now...only if Nic could be more enthused! lol]]></body>
+  
+  <user>
+    <id>2594672</id>
+    <name>~Tina~</name>
+    <display_name>~Tina~</display_name>
+
+    <location>Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2594672-tina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1411474324p3/2594672.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1411474324p2/2594672.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 03 15:39:49 -0700 2011</created_at>
+  <updated_at>Fri Jun 03 15:39:49 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31391723</id>
+  <body><![CDATA[Yes! We must go to Australia, hunt her down and force her to read this! <a class="jsShowSpoiler spoilerAction">(view spoiler)</a><span class="spoilerContainer" style="display: none">[OK, maybe that's a bit overdoing it^^ <a class="jsHideSpoiler spoilerAction">(hide spoiler)</a>]</span>]]></body>
+  
+  <user>
+    <id>4632071</id>
+    <name>Lora</name>
+    <display_name>Lora</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4632071-lora]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1305237530p3/4632071.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1305237530p2/4632071.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 03 15:46:59 -0700 2011</created_at>
+  <updated_at>Fri Jun 03 15:46:59 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31391747</id>
+  <body><![CDATA[HAHAHAHAHAH WIIIIIIIIIIIIIIIIIIIIIIIIIN]]></body>
+  
+  <user>
+    <id>2941288</id>
+    <name>Morgan</name>
+    <display_name>Morgan F</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2941288-morgan-f]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1262298598p3/2941288.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1262298598p2/2941288.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 03 15:47:18 -0700 2011</created_at>
+  <updated_at>Fri Jun 03 15:47:18 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31391799</id>
+  <body><![CDATA[<i>Lora wrote: "Yes! We must go to Australia, hunt her down and force her to read this! [spoilers removed]"</i><br /><br />No, I agree, 100%]]></body>
+  
+  <user>
+    <id>2941288</id>
+    <name>Morgan</name>
+    <display_name>Morgan F</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2941288-morgan-f]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1262298598p3/2941288.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1262298598p2/2941288.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 03 15:48:30 -0700 2011</created_at>
+  <updated_at>Fri Jun 03 15:48:30 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31393129</id>
+  <body><![CDATA[Oh no Lora. You really aren't helping me. ~hides~<br /><br />Great review though. And I am glad you were surprised at how much you loved it. Makes me a little less nervous about reading it.]]></body>
+  
+  <user>
+    <id>2813423</id>
+    <name>Nic</name>
+    <display_name>Nic</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2813423-nic]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1305802968p3/2813423.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1305802968p2/2813423.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 03 16:14:45 -0700 2011</created_at>
+  <updated_at>Fri Jun 03 16:14:45 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31393334</id>
+  <body><![CDATA[Nic! There is absolutely <i>no</i> reason to be nervous about reading this! It is a fantastic little book and I command you to read it! (Whenever you can, of course) ;)]]></body>
+  
+  <user>
+    <id>4632071</id>
+    <name>Lora</name>
+    <display_name>Lora</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4632071-lora]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1305237530p3/4632071.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1305237530p2/4632071.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 03 16:18:35 -0700 2011</created_at>
+  <updated_at>Fri Jun 03 16:18:35 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31395904</id>
+  <body><![CDATA[No worries twinie, you still have a bit, but I really do hope you read and like the first one. A promise is a promise so you only have to read the first one:)<br /><br />LOL Lora!]]></body>
+  
+  <user>
+    <id>2594672</id>
+    <name>~Tina~</name>
+    <display_name>~Tina~</display_name>
+
+    <location>Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2594672-tina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1411474324p3/2594672.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1411474324p2/2594672.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 03 17:09:49 -0700 2011</created_at>
+  <updated_at>Fri Jun 03 17:09:49 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31399665</id>
+  <body><![CDATA[I will read it. I promise. When are you reading it with me? July or August sometime?]]></body>
+  
+  <user>
+    <id>2813423</id>
+    <name>Nic</name>
+    <display_name>Nic</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2813423-nic]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1305802968p3/2813423.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1305802968p2/2813423.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 03 18:23:00 -0700 2011</created_at>
+  <updated_at>Fri Jun 03 18:23:00 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31399837</id>
+  <body><![CDATA[Julyyyyyyy]]></body>
+  
+  <user>
+    <id>2941288</id>
+    <name>Morgan</name>
+    <display_name>Morgan F</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2941288-morgan-f]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1262298598p3/2941288.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1262298598p2/2941288.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 03 18:27:03 -0700 2011</created_at>
+  <updated_at>Fri Jun 03 18:27:03 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31400381</id>
+  <body><![CDATA[LOL Morg!<br /><br />I was thinking the first week of July, since we're reading Forever the second week. Sound good?]]></body>
+  
+  <user>
+    <id>2594672</id>
+    <name>~Tina~</name>
+    <display_name>~Tina~</display_name>
+
+    <location>Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2594672-tina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1411474324p3/2594672.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1411474324p2/2594672.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 03 18:38:12 -0700 2011</created_at>
+  <updated_at>Fri Jun 03 18:38:12 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31401662</id>
+  <body><![CDATA[I'll be a little late, because I don't come home from Greece until the 5th, but I shall catch up :)]]></body>
+  
+  <user>
+    <id>2941288</id>
+    <name>Morgan</name>
+    <display_name>Morgan F</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2941288-morgan-f]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1262298598p3/2941288.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1262298598p2/2941288.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 03 19:03:10 -0700 2011</created_at>
+  <updated_at>Fri Jun 03 19:03:10 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31406288</id>
+  <body><![CDATA[July 2011 or 2012 :P<br /><br />How about we start on the 4th or 5th July?]]></body>
+  
+  <user>
+    <id>2813423</id>
+    <name>Nic</name>
+    <display_name>Nic</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2813423-nic]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1305802968p3/2813423.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1305802968p2/2813423.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 03 20:45:32 -0700 2011</created_at>
+  <updated_at>Fri Jun 03 20:45:32 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31512496</id>
+  <body><![CDATA[Great review! I'm looking forward to reading this with the gang :)]]></body>
+  
+  <user>
+    <id>3603005</id>
+    <name>Amber</name>
+    <display_name>Amber</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3603005-amber]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1475164151p3/3603005.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1475164151p2/3603005.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 06 07:37:59 -0700 2011</created_at>
+  <updated_at>Mon Jun 06 07:37:59 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31512637</id>
+  <body><![CDATA[I'm sure you'll love it, Amber^^ Thanks.]]></body>
+  
+  <user>
+    <id>4632071</id>
+    <name>Lora</name>
+    <display_name>Lora</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4632071-lora]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1305237530p3/4632071.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1305237530p2/4632071.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 06 07:42:34 -0700 2011</created_at>
+  <updated_at>Mon Jun 06 07:42:34 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31754668</id>
+  <body><![CDATA[Yippeee! I'm so glad you liked it! Harry Potter has always been my favorite literary character! I cried when the last book came out! Can't wait for the last movie this July! I'll be crying again!]]></body>
+  
+  <user>
+    <id>4000502</id>
+    <name>Milly</name>
+    <display_name>Milly</display_name>
+
+    <location>Chandler, AZ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4000502-milly]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291008553p3/4000502.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291008553p2/4000502.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 10 20:45:47 -0700 2011</created_at>
+  <updated_at>Fri Jun 10 20:45:47 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>33301798</id>
+  <body><![CDATA[Same. I can't believe I waited so long to read them.]]></body>
+  
+  <created_at>Sun Jul 10 09:57:41 -0700 2011</created_at>
+  <updated_at>Sun Jul 10 09:57:41 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>35341403</id>
+  <body><![CDATA[Lol &lt;3 the review!]]></body>
+  
+  <user>
+    <id>4241884</id>
+    <name>Mia</name>
+    <display_name>Mia</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4241884-mia]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 16 18:47:38 -0700 2011</created_at>
+  <updated_at>Tue Aug 16 18:47:38 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>37589199</id>
+  <body><![CDATA[That's my favorite quote from that book too :)]]></body>
+  
+  <user>
+    <id>6119550</id>
+    <name>Cassandra</name>
+    <display_name>Cassandra Jones</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6119550-cassandra-jones]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1331777851p3/6119550.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1331777851p2/6119550.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Sep 28 13:28:20 -0700 2011</created_at>
+  <updated_at>Wed Sep 28 13:28:20 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>39395845</id>
+  <body><![CDATA[This is exactly why this will be my first crack at reading these books. lol I'm a little excited but after watching one of the films on HBO this weekend I knew I had to finally give them a try.]]></body>
+  
+  <user>
+    <id>5902399</id>
+    <name>Valerie</name>
+    <display_name>Valerie</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5902399-valerie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1311840640p3/5902399.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1311840640p2/5902399.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Nov 03 00:38:33 -0700 2011</created_at>
+  <updated_at>Thu Nov 03 00:38:33 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>39469835</id>
+  <body><![CDATA[<i>Valbee wrote: "This is exactly why this will be my first crack at reading these books. lol I'm a little excited but after watching one of the films on HBO this weekend I knew I had to finally give them a try."</i><br /><br />In my opinion the books are way better than the movies. If you liked the movies I think you will defiently love the books :)]]></body>
+  
+  <user>
+    <id>6119550</id>
+    <name>Cassandra</name>
+    <display_name>Cassandra Jones</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6119550-cassandra-jones]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1331777851p3/6119550.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1331777851p2/6119550.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 04 13:42:51 -0700 2011</created_at>
+  <updated_at>Fri Nov 04 13:42:51 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>41062207</id>
+  <body><![CDATA[oh my, I am so, so very jealous of you! I can´t even remember the first time I read the Harry Potter books, and I want to feel that feeling I got when I read them for the first time, one more time. Just one more time, is that to much to ask? <br /><br />I genuinely think that getting a memory loss would be kind of awesome, in a very horrid way, but then I could read them all over again, not knowing that Quirrel were the bad guy or that Tom Riddle really were Voldemort and all this other plot twists you´ll experience while reading the books.. haha..<br /><br />ps, sorry if my English is bad, not my first language..;)]]></body>
+  
+  <user>
+    <id>7110851</id>
+    <name>Sandra</name>
+    <display_name>Sandra</display_name>
+
+    <location>Norway</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7110851-sandra]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1444505312p3/7110851.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1444505312p2/7110851.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Dec 04 13:38:44 -0800 2011</created_at>
+  <updated_at>Sun Dec 04 13:38:44 -0800 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>42120311</id>
+  <body><![CDATA[Ahh, Sandra, same here. :/ My mom read me the books before I entered preschool so I was kind of reared on them, and can't remember a time when I didn't love them :) (I'm 16 now) ^.^]]></body>
+  
+  <user>
+    <id>3345505</id>
+    <name>Hannah</name>
+    <display_name>Hannah</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3345505-hannah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1374088160p3/3345505.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1374088160p2/3345505.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Dec 23 20:47:03 -0800 2011</created_at>
+  <updated_at>Fri Dec 23 20:47:03 -0800 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>43119743</id>
+  <body><![CDATA[mmmn I did the same but when I did read it I regretted ever being doubtful! it s my 2nd favourite book]]></body>
+  
+  <user>
+    <id>7383836</id>
+    <name>India</name>
+    <display_name>India Woodward</display_name>
+
+    <location>Dublin, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7383836-india-woodward]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1326154921p3/7383836.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1326154921p2/7383836.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 09 16:29:18 -0800 2012</created_at>
+  <updated_at>Mon Jan 09 16:29:18 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>43866993</id>
+  <body><![CDATA[I didn't want to read it at first but I eventually gave in and became obsessed!]]></body>
+  
+  <user>
+    <id>7490156</id>
+    <name>Kate</name>
+    <display_name>Kate</display_name>
+
+    <location>Kingston, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7490156-kate]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1327248379p3/7490156.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1327248379p2/7490156.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 21 16:31:33 -0800 2012</created_at>
+  <updated_at>Sat Jan 21 16:31:33 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>49661328</id>
+  <body><![CDATA[I love this quote too and in my opinion the first is the best book of all the series .]]></body>
+  
+  <user>
+    <id>8956156</id>
+    <name>Siuan83</name>
+    <display_name>Siuan83</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8956156-siuan83]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Apr 29 02:54:41 -0700 2012</created_at>
+  <updated_at>Sun Apr 29 02:54:41 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>50061605</id>
+  <body><![CDATA[I just finished reading the chapter that ends with you're favorite quote haha. I loved that quote as well and I love the book!]]></body>
+  
+  <user>
+    <id>9175952</id>
+    <name>Ruby</name>
+    <display_name>Ruby</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9175952-ruby]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1429895711p3/9175952.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1429895711p2/9175952.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 06 14:14:08 -0700 2012</created_at>
+  <updated_at>Sun May 06 14:14:08 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>52394696</id>
+  <body><![CDATA[goosebumps on that fave quote... that's where all the adventure...begins!]]></body>
+  
+  <user>
+    <id>10277095</id>
+    <name>karisakun</name>
+    <display_name>karisakun</display_name>
+
+    <location>Los Baños, 33, Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10277095-karisakun]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1417528124p3/10277095.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1417528124p2/10277095.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jun 17 04:07:28 -0700 2012</created_at>
+  <updated_at>Sun Jun 17 04:07:28 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>54065096</id>
+  <body><![CDATA[Those books are legendary! I've read them when I was 11 years-old and I actually believed and waited for the Hogwart's letter to arrive at my door. During that summer I would check the mail every single day. Every single day I got disappointed :( then I finally realize that I was a muggle but I still got to read the books, so was ok :)]]></body>
+  
+  <user>
+    <id>9143927</id>
+    <name>Susana</name>
+    <display_name>Susana</display_name>
+
+    <location>Lisbon, Portugal</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9143927-susana]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1401577030p3/9143927.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1401577030p2/9143927.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 13 13:23:28 -0700 2012</created_at>
+  <updated_at>Fri Jul 13 13:23:28 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>55129440</id>
+  <body><![CDATA[I LOVE Harry Potter and The Prisoner of Azkaban the most. I think it has the right about of seriousness and fun!! I read the entire series at least 20 -24 times!! I hope you love every minute of it just like I did!!]]></body>
+  
+  <created_at>Sun Jul 29 13:43:49 -0700 2012</created_at>
+  <updated_at>Sun Jul 29 13:43:49 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>57247983</id>
+  <body><![CDATA[I fell that this is a great book, but is dificult to start reading this series. It have many things that makes you said " I don't think this book will be intresting for me", but it makes you fell in the place of harry.]]></body>
+  
+  <user>
+    <id>10436238</id>
+    <name>Luisp</name>
+    <display_name>Luisp</display_name>
+
+    <location>Guatemala City, 07, Guatemala</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10436238-luisp]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 30 17:46:18 -0700 2012</created_at>
+  <updated_at>Thu Aug 30 17:46:18 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>57249074</id>
+  <body><![CDATA[i read this book after see the movie, and like all the movies of the book the book is better.it contains many detail like the cards and the first night of harry in privet drive that dosen't have the movie]]></body>
+  
+  <user>
+    <id>10436238</id>
+    <name>Luisp</name>
+    <display_name>Luisp</display_name>
+
+    <location>Guatemala City, 07, Guatemala</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10436238-luisp]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 30 18:02:11 -0700 2012</created_at>
+  <updated_at>Thu Aug 30 18:02:11 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>57249108</id>
+  <body><![CDATA[**spoiler alert**]]></body>
+  
+  <user>
+    <id>10436238</id>
+    <name>Luisp</name>
+    <display_name>Luisp</display_name>
+
+    <location>Guatemala City, 07, Guatemala</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10436238-luisp]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 30 18:02:40 -0700 2012</created_at>
+  <updated_at>Thu Aug 30 18:02:40 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>61068940</id>
+  <body><![CDATA[I. Loved. This. Book.<br />It really makes you want to read the whole series. And I don't understand how anyone can rate it anything other than 5 stars! THE BEST BOOK EVER!<br />Well, actually, I liked the 7th book best, but still.<br />I definitely, definitely recommend this book.<br />I have to say, I was pretty disappointed at age 11 when I didn't get a Hogwarts letter...<br />;)]]></body>
+  
+  <created_at>Sat Nov 03 14:20:48 -0700 2012</created_at>
+  <updated_at>Sat Nov 03 14:20:48 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>62392994</id>
+  <body><![CDATA[I really like your review. Have you checked out leebrii.com? It's a streamlined approach to connecting people &amp; books. It would be great to have you join the community.]]></body>
+  
+  <user>
+    <id>9477473</id>
+    <name>Geoff</name>
+    <display_name>Geoff</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9477473-geoff]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1353884038p3/9477473.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1353884038p2/9477473.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 25 16:24:23 -0800 2012</created_at>
+  <updated_at>Sun Nov 25 16:24:23 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>64141540</id>
+  <body><![CDATA[I felt the same way :)]]></body>
+  
+  <user>
+    <id>15526339</id>
+    <name>Anna</name>
+    <display_name>Anna Chrysostomou</display_name>
+
+    <location>Johannesburg, South Africa</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15526339-anna-chrysostomou]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 25 10:31:54 -0800 2012</created_at>
+  <updated_at>Tue Dec 25 10:31:54 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>69962076</id>
+  <body><![CDATA[I would DIE without these books on my shelves.]]></body>
+  
+  <user>
+    <id>14966848</id>
+    <name>Aline</name>
+    <display_name>Aline</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14966848-aline]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1425416479p3/14966848.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1425416479p2/14966848.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Mar 16 12:59:47 -0700 2013</created_at>
+  <updated_at>Sat Mar 16 12:59:47 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73558250</id>
+  <body><![CDATA[♡♥♡♥♡ Love this books ♡♥♡♥♡♥]]></body>
+  
+  <user>
+    <id>20098834</id>
+    <name>Tania</name>
+    <display_name>Tania</display_name>
+
+    <location>Vila Nova De Gaia, Portugal</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/20098834-tania]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1444935918p3/20098834.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1444935918p2/20098834.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon May 06 11:49:31 -0700 2013</created_at>
+  <updated_at>Mon May 06 11:49:31 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>75961421</id>
+  <body><![CDATA[I really enjoyed this book too...:D]]></body>
+  
+  <user>
+    <id>21114948</id>
+    <name>Julianne</name>
+    <display_name>Julianne</display_name>
+
+    <location>Montgomery Village, MD</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/21114948-julianne]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1371076925p3/21114948.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1371076925p2/21114948.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 10 13:26:05 -0700 2013</created_at>
+  <updated_at>Mon Jun 10 13:26:05 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>77815833</id>
+  <body><![CDATA[I have just joined this website, and your review was the most recent one I have seen on here today for HP1 - I usually skip number one because the rest are just so much more fantastic, but as I re-read them this summer I will be making sure number one, is, quite rightly so, the first one I turn my attention to. It excited me that your curiosity got the better of you, how did you find the others I wonder?]]></body>
+  
+  <user>
+    <id>21964370</id>
+    <name>Ophelia</name>
+    <display_name>Ophelia</display_name>
+
+    <location><![CDATA[London, H9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/21964370-ophelia]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1389730935p3/21964370.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1389730935p2/21964370.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jul 06 12:58:24 -0700 2013</created_at>
+  <updated_at>Sat Jul 06 12:58:24 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>77826216</id>
+  <body><![CDATA[<i>Ophelia wrote: "I have just joined this website, and your review was the most recent one I have seen on here today for HP1 - I usually skip number one because the rest are just so much more fantastic, but as I re-..."</i><br /><br />Besides book 1, I have only read <a href="https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets__Harry_Potter___2_" title="Harry Potter and the Chamber of Secrets (Harry Potter, #2) by J.K. Rowling" rel="nofollow">Harry Potter and the Chamber of Secrets</a>, plus the first 200 pages of <a href="https://www.goodreads.com/book/show/5.Harry_Potter_and_the_Prisoner_of_Azkaban__Harry_Potter___3_" title="Harry Potter and the Prisoner of Azkaban (Harry Potter, #3) by J.K. Rowling" rel="nofollow">Harry Potter and the Prisoner of Azkaban</a>. I enjoyed book 2 (my review of it is <a href="https://www.goodreads.com/review/show/173434838" rel="nofollow">here</a>), and I plan to finish book 3 sometime before the end of the year. So far I've liked the first 200 pages of it more than I did book 2.]]></body>
+  
+  <user>
+    <id>4632071</id>
+    <name>Lora</name>
+    <display_name>Lora</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4632071-lora]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1305237530p3/4632071.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1305237530p2/4632071.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jul 06 15:41:04 -0700 2013</created_at>
+  <updated_at>Sat Jul 06 15:41:04 -0700 2013</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/173429036]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/173429036]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

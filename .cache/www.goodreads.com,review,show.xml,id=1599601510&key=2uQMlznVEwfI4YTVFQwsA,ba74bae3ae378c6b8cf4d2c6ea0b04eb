@@ -1,20 +1,20 @@
 status: 200
-x-request-id: 1JN190WY9GDR7YVYRJ5P
+x-request-id: NPDD0CD8CWJJ9V6HSGKV
 x-xss-protection: 1; mode=block
 content-location: https://www.goodreads.com/review/show.xml?id=1599601510&key=2uQMlznVEwfI4YTVFQwsA
 x-content-type-options: nosniff, nosniff
-set-cookie: csid=BAhJIhg5NTctMjYxMTgzMi05NzcxNTQwBjoGRVQ%3D--4e6b4e878e0a0db0cd7ce9865e389d4c26dda980;
- path=/; expires=Tue, 31 Mar 2037 20:08:18 -0000, locale=es;
- path=/, _session_id2=67d71cfed7041db2c8b4d58b93e3beb6; path=/;
- expires=Sat, 01 Apr 2017 02:08:19 -0000; HttpOnly
+set-cookie: csid=BAhJIhg0NzktNzEzMTE5My0zMzg2MDEwBjoGRVQ%3D--6b0fc7e3ca8b04861178150bb5a65b66211baa29;
+ path=/; expires=Wed, 15 Apr 2037 15:06:56 -0000, locale=es;
+ path=/, _session_id2=5892f37c5e749836f376256eb913e0bc; path=/;
+ expires=Sat, 15 Apr 2017 21:06:56 -0000; HttpOnly
 vary: User-Agent,Accept-Encoding
 connection: keep-alive
 content-length: 10946
 server: Server
-x-runtime: 0.345871
-etag: W/"8ed995813d6084939b641ac39bb3f5c7"
+x-runtime: 0.346540
+etag: W/"92616f809be9ba95d295c5c0f246465f"
 cache-control: max-age=0, private, must-revalidate
-date: Fri, 31 Mar 2017 20:08:19 GMT
+date: Sat, 15 Apr 2017 15:06:56 GMT
 x-frame-options: ALLOWALL
 content-type: application/xml; charset=utf-8
 -content-encoding: gzip
@@ -50,7 +50,7 @@ content-type: application/xml; charset=utf-8
   <id type="integer">2865</id>
   <isbn>0452287022</isbn>
   <isbn13>9780452287020</isbn13>
-  <text_reviews_count type="integer">5869</text_reviews_count>
+  <text_reviews_count type="integer">5878</text_reviews_count>
   <title>Girl with a Pearl Earring</title>
   <title_without_series>Girl with a Pearl Earring</title_without_series>
   <image_url>https://images.gr-assets.com/books/1327197580m/2865.jpg</image_url>
@@ -65,7 +65,7 @@ content-type: application/xml; charset=utf-8
   <publication_year>2005</publication_year>
   <publication_month/>
   <average_rating>3.84</average_rating>
-  <ratings_count>474508</ratings_count>
+  <ratings_count>476300</ratings_count>
   <description>With precisely 35 canvases to his credit, the Dutch painter Johannes Vermeer represents one of the great enigmas of 17th-century art. The meager facts of his biography have been gleaned from a handful of legal documents. Yet Vermeer's extraordinary paintings of domestic life, with their subtle play of light and texture, have come to define the Dutch golden age. His portrait of the anonymous Girl with a Pearl Earring has exerted a particular fascination for centuries - and it is this magnetic painting that lies at the heart of Tracy Chevalier's second novel of the same title.&lt;br /&gt;&lt;i&gt;Girl with a Pearl Earring&lt;/i&gt; centers on Vermeer's prosperous Delft household during the 1660s. When Griet, the novel's quietly perceptive heroine, is hired as a servant, turmoil follows. First, the 16-year-old narrator becomes increasingly intimate with her master. Then Vermeer employs her as his assistant--and ultimately has Griet sit for him as a model.</description>
 <authors>
 <author>
@@ -80,8 +80,8 @@ content-type: application/xml; charset=utf-8
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1973.Tracy_Chevalier]]></link>
 <average_rating>3.80</average_rating>
-<ratings_count>628168</ratings_count>
-<text_reviews_count>22238</text_reviews_count>
+<ratings_count>630785</ratings_count>
+<text_reviews_count>22325</text_reviews_count>
 </author>
 </authors>
   <published>2005</published>
@@ -159,9 +159,9 @@ content-type: application/xml; charset=utf-8
 <shelves>
   <shelf name="read" exclusive="true" />
 
+    <shelf name="soph" exclusive="false" review_shelf_id="1273656089" sortable="true" />
     <shelf name="historical" exclusive="false" review_shelf_id="1273656194" sortable="true" />
     <shelf name="read-16" exclusive="false" review_shelf_id="1494297253" sortable="false" />
-    <shelf name="soph" exclusive="false" review_shelf_id="1273656089" sortable="true" />
     <shelf name="watch" exclusive="false" review_shelf_id="1273656166" sortable="true" />
 </shelves>
   <recommended_for></recommended_for>

@@ -1,0 +1,143 @@
+status: 200
+x-request-id: Z449WJPE5TBWT4929PFN
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=166746746&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhg2MDAtOTE5NTcxOC02MTEwNDQ3BjoGRVQ%3D--c6165a079bd55c47b1daf2d0f82972d87c912afe;
+ path=/; expires=Wed, 15 Apr 2037 15:41:36 -0000, locale=es;
+ path=/, _session_id2=5a7f55d1e6feb7e0aed03b312dd21118; path=/;
+ expires=Sat, 15 Apr 2017 21:41:37 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 4966
+server: Server
+x-runtime: 0.363276
+etag: W/"bfc5b78ff38e37de1435e6b96658c85e"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:41:37 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>166746746</id>
+    
+  <user>
+    <id>1497350</id>
+    <name>Kathryn</name>
+    <display_name>Kathryn</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1497350-kathryn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1250569584p3/1497350.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1250569584p2/1497350.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">2880</id>
+  <isbn>1591164419</isbn>
+  <isbn13>9781591164418</isbn13>
+  <text_reviews_count type="integer">828</text_reviews_count>
+  <title>Bleach, Volume 01</title>
+  <title_without_series>Bleach, Volume 01</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2880.Bleach_Volume_01</link>
+  <num_pages>200</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>VIZ Media LLC</publisher>
+  <publication_day>19</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.21</average_rating>
+  <ratings_count>116394</ratings_count>
+  <description>Hot-tempered 15-year-old Ichigo Kurosaki, the hero of the popular fantasy-adventure &lt;i&gt;
+  &lt;b&gt;
+    &lt;u&gt;Bleach&lt;/u&gt;
+  &lt;/b&gt;
+&lt;/i&gt;, has the unsettling ability to see spirits who are unable to rest in peace. His sixth sense leads him to Rukia, a Soul Reaper who destroys &lt;i&gt;Hollows&lt;/i&gt; (soul-devouring monsters) and ensures the deceased find repose with the Soul Society. When she's injured in battle, Rukia transfers her sword and much of her power to Ichigo, whose spiritual energy makes him a formidable substitute Soul Reaper. But the orange-haired teenager isn't sure he wants the job: too many risks and moral dilemmas.</description>
+<authors>
+<author>
+<id>1977</id>
+<name>Tite Kubo</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1253238688p5/1977.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1253238688p2/1977.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1977.Tite_Kubo]]></link>
+<average_rating>4.28</average_rating>
+<ratings_count>386412</ratings_count>
+<text_reviews_count>4523</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">7577161</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Aug 06 00:44:08 -0700 2011</created_at>
+          <updated_at type="datetime">Sat Sep 07 05:56:45 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer"></percent>
+          <work_id type="integer">1854946</work_id>
+          <note_uri>kca://note/amzn1.grok.note.e435ce124d290b20d0b63121e85aaa12</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body>ehhhhh but still early.</body>
+        </user_status>
+    </user_statuses>
+  <rating>4</rating>
+  <votes>6</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="graphic-novel-manga" exclusive="false" review_shelf_id="105556576" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Jul 29 00:00:00 -0700 2011</started_at>
+  <read_at>Sun Aug 14 00:00:00 -0700 2011</read_at>
+  <date_added>Sun May 08 22:31:34 -0700 2011</date_added>
+  <date_updated>Wed Aug 17 00:08:27 -0700 2011</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This is one of those series I've heard so much about but put off diving into mainly due to the first few pages I always read in the store never snagging my interest enough but I took the plunge anyways and I am glad I did. The story is about high school students and it is targeted at high school...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/166746746]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/166746746]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

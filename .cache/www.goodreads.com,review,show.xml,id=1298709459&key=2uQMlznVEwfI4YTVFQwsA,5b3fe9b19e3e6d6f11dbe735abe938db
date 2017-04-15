@@ -1,0 +1,311 @@
+status: 200
+x-request-id: NPKJD9JPV6S07FYTBGJK
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=1298709459&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhg3OTItMTA4ODk4OC05NDkxMzM0BjoGRVQ%3D--ec145452e17495253838f32d6b901c1b3c6fae91;
+ path=/; expires=Wed, 15 Apr 2037 15:10:23 -0000, locale=es;
+ path=/, _session_id2=457dd2f5718b6fe94f39858890d3dfa7; path=/;
+ expires=Sat, 15 Apr 2017 21:10:24 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 11922
+server: Server
+x-runtime: 0.966373
+etag: W/"2c7ccbca65e16075fe8b1e192fd0b8e7"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:10:24 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1298709459</id>
+    
+  <user>
+    <id>40494163</id>
+    <name>Mateo</name>
+    <display_name>Mateo</display_name>
+
+    <location>Santiago, Chile</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/40494163-mateo]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1436389811p3/40494163.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1436389811p2/40494163.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">2657</id>
+  <isbn>0061120081</isbn>
+  <isbn13>9780061120084</isbn13>
+  <text_reviews_count type="integer">57300</text_reviews_count>
+  <title>To Kill a Mockingbird</title>
+  <title_without_series>To Kill a Mockingbird</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1361975680m/2657.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1361975680s/2657.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2657.To_Kill_a_Mockingbird</link>
+  <num_pages>324</num_pages>
+  <format>Paperback</format>
+  <edition_information>50th Anniversary</edition_information>
+  <publisher>Harper Perennial Modern Classics</publisher>
+  <publication_day>23</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.25</average_rating>
+  <ratings_count>3251393</ratings_count>
+  <description>The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it, To Kill A Mockingbird became both an instant bestseller and a critical success when it was first published in 1960. It went on to win the Pulitzer Prize in 1961 and was later made into an Academy Award-winning film, also a classic.&lt;br /&gt;&lt;br /&gt;Compassionate, dramatic, and deeply moving, To Kill A Mockingbird takes readers to the roots of human behavior - to innocence and experience, kindness and cruelty, love and hatred, humor and pathos. Now with over 18 million copies in print and translated into forty languages, this regional story by a young Alabama woman claims universal appeal. Harper Lee always considered her book to be a simple love story. Today it is regarded as a masterpiece of American literature.</description>
+<authors>
+<author>
+<id>1825</id>
+<name>Harper Lee</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1188820730p5/1825.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1188820730p2/1825.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1825.Harper_Lee]]></link>
+<average_rating>4.21</average_rating>
+<ratings_count>3414068</ratings_count>
+<text_reviews_count>94458</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">68810128</id>
+          <page type="integer">170</page>
+          <chapter type="integer"></chapter>
+          <comments_count>2</comments_count>
+          <created_at type="datetime">Mon Jun 15 07:36:40 -0700 2015</created_at>
+          <updated_at type="datetime">Mon Jun 15 07:36:49 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">37</ratings_count>
+          <percent type="integer">52</percent>
+          <work_id type="integer">3275794</work_id>
+          <note_uri>kca://note/amzn1.grok.note.2a3e88a8d52a6f93108fc6cbfe45e036</note_uri>
+          <note_updated_at type="datetime">Mon Jun 15 07:36:49 -0700 2015</note_updated_at>
+          <body><![CDATA[Si algún día soy papá, seré como Atticus &lt;3]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">67983757</id>
+          <page type="integer">47</page>
+          <chapter type="integer"></chapter>
+          <comments_count>6</comments_count>
+          <created_at type="datetime">Thu Jun 04 07:31:05 -0700 2015</created_at>
+          <updated_at type="datetime">Thu Jun 04 07:31:46 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">17</ratings_count>
+          <percent type="integer">14</percent>
+          <work_id type="integer">3275794</work_id>
+          <note_uri>kca://note/amzn1.grok.note.567ccd469d4dfda6555046d259c26e06</note_uri>
+          <note_updated_at type="datetime">Thu Jun 04 07:31:46 -0700 2015</note_updated_at>
+          <body><![CDATA[Al fin!! Tenía muchísimas ganas de empezarlo! Si ya lo leyeron dígame en los comentarios qué les pareció!]]></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">932166235</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Tue Jul 14 17:06:42 -0700 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">884816981</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Thu Jun 04 07:29:20 -0700 2015</updated_at>
+          <ratings_count>6</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>4</rating>
+  <votes>101</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Jun 04 00:00:00 -0700 2015</started_at>
+  <read_at>Tue Jul 14 00:00:00 -0700 2015</read_at>
+  <date_added>Thu Jun 04 07:29:19 -0700 2015</date_added>
+  <date_updated>Sun Aug 23 19:35:34 -0700 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Tengo la gran suerte de vivir en el caluroso, pintoresco <i>y quizás olvidado</i> estado de Alabama. Suerte por un lado, porque pude empatizar de una manera muy especial con los personajes, el entorno y la trama de la novela. Pero también, porque he podido ser testigo de las heridas que han dejado los a...]]>
+  </body>
+
+  
+
+  <comments_count>6</comments_count>
+    <comments start="1" end="6" total="6">
+        <comment>
+  <id>129889529</id>
+  <body><![CDATA[Uno de los mejores libros que he leído. Atticus Finch es un personaje brillantemente escrito. <br />Hasta hace poco entré en shock al enterarme que la autora publicará la secuela (<a target="_blank" href="https://www.goodreads.com/book/show/24817626-go-set-a-watchman" rel="nofollow">https://www.goodreads.com/book/show/2...</a>).<br /><br />Saludos.]]></body>
+  
+  <user>
+    <id>35660548</id>
+    <name>Pedro</name>
+    <display_name>Pedro Pérez lozano</display_name>
+
+    <location>Mexico</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/35660548-pedro-p-rez-lozano]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 05 06:11:52 -0700 2015</created_at>
+  <updated_at>Fri Jun 05 06:11:52 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>129897144</id>
+  <body><![CDATA[Sí! De hecho esa fue una de las razones por lo que lo empecé ahora y no antes. Quería tener fresca la memoria para la secuela!]]></body>
+  
+  <user>
+    <id>40494163</id>
+    <name>Mateo</name>
+    <display_name>Mateo</display_name>
+
+    <location>Santiago, Chile</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/40494163-mateo]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1436389811p3/40494163.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1436389811p2/40494163.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 05 09:13:46 -0700 2015</created_at>
+  <updated_at>Fri Jun 05 09:13:46 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>131009774</id>
+  <body><![CDATA[Atticus :3 mi modelo a seguir!]]></body>
+  
+  <user>
+    <id>18191425</id>
+    <name>Jairzinho</name>
+    <display_name>Jairzinho</display_name>
+
+    <location>Guadalajara, Mexico</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18191425-jairzinho]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1429233010p3/18191425.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1429233010p2/18191425.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jun 28 23:29:32 -0700 2015</created_at>
+  <updated_at>Sun Jun 28 23:29:32 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>131021281</id>
+  <body><![CDATA[<i>Jairzinho wrote: "Atticus :3 mi modelo a seguir!"</i><br /><br />Sí! El de muchos! :D]]></body>
+  
+  <user>
+    <id>40494163</id>
+    <name>Mateo</name>
+    <display_name>Mateo</display_name>
+
+    <location>Santiago, Chile</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/40494163-mateo]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1436389811p3/40494163.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1436389811p2/40494163.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 29 07:45:50 -0700 2015</created_at>
+  <updated_at>Mon Jun 29 07:45:50 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>148681082</id>
+  <body><![CDATA[Muy de acuerdo con tu resena. Atticus Finch -- lease: "Tipazo!"]]></body>
+  
+  <user>
+    <id>37984096</id>
+    <name>Liz</name>
+    <display_name>Liz</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/37984096-liz]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1418710000p3/37984096.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1418710000p2/37984096.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 08 16:37:44 -0800 2016</created_at>
+  <updated_at>Tue Mar 08 16:37:44 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>156674330</id>
+  <body><![CDATA[Sólo apuntar que el que se publicita como nuevo libro de Harper Lee 'Ve y pon un centinela' no es una secuela. Es el borrador que presentó a su editor y que bajo las recomendaciones de éste modificó y reescribió hasta convertirlo en To Kill a Mockinbird. Así que es el borrador inicial de esta novela.]]></body>
+  
+  <user>
+    <id>20449821</id>
+    <name>Víctor</name>
+    <display_name>Víctor</display_name>
+
+    <location>Murcia, Spain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/20449821-v-ctor]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1473083394p3/20449821.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1473083394p2/20449821.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Sep 11 11:19:28 -0700 2016</created_at>
+  <updated_at>Sun Sep 11 11:19:28 -0700 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1298709459]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1298709459]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

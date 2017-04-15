@@ -1,0 +1,604 @@
+status: 200
+x-request-id: K7JGN37XXJYEMGEYZESM
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=4560474&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhg0MTktMzMxNzYyMy0zMDE2NTI1BjoGRVQ%3D--8253a6b133f893ae1d3a7fa76a11cbe08cfb9a93;
+ path=/; expires=Wed, 15 Apr 2037 15:09:51 -0000, locale=es;
+ path=/, _session_id2=6a189452b49bb1f391103c876dd7e7ee; path=/;
+ expires=Sat, 15 Apr 2017 21:09:51 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 24196
+server: Server
+x-runtime: 0.438790
+etag: W/"02d031980ca5f08dcc7675db5e2f2170"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:09:51 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>4560474</id>
+    
+  <user>
+    <id>279256</id>
+    <name>Diane</name>
+    <display_name>Diane</display_name>
+
+    <location>Kansas City, MO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/279256-diane]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1463055842p3/279256.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1463055842p2/279256.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">2657</id>
+  <isbn>0061120081</isbn>
+  <isbn13>9780061120084</isbn13>
+  <text_reviews_count type="integer">57300</text_reviews_count>
+  <title>To Kill a Mockingbird</title>
+  <title_without_series>To Kill a Mockingbird</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1361975680m/2657.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1361975680s/2657.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2657.To_Kill_a_Mockingbird</link>
+  <num_pages>324</num_pages>
+  <format>Paperback</format>
+  <edition_information>50th Anniversary</edition_information>
+  <publisher>Harper Perennial Modern Classics</publisher>
+  <publication_day>23</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.25</average_rating>
+  <ratings_count>3251393</ratings_count>
+  <description>The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it, To Kill A Mockingbird became both an instant bestseller and a critical success when it was first published in 1960. It went on to win the Pulitzer Prize in 1961 and was later made into an Academy Award-winning film, also a classic.&lt;br /&gt;&lt;br /&gt;Compassionate, dramatic, and deeply moving, To Kill A Mockingbird takes readers to the roots of human behavior - to innocence and experience, kindness and cruelty, love and hatred, humor and pathos. Now with over 18 million copies in print and translated into forty languages, this regional story by a young Alabama woman claims universal appeal. Harper Lee always considered her book to be a simple love story. Today it is regarded as a masterpiece of American literature.</description>
+<authors>
+<author>
+<id>1825</id>
+<name>Harper Lee</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1188820730p5/1825.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1188820730p2/1825.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1825.Harper_Lee]]></link>
+<average_rating>4.21</average_rating>
+<ratings_count>3414068</ratings_count>
+<text_reviews_count>94458</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">57826712</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sun Jan 25 08:19:09 -0800 2015</created_at>
+          <updated_at type="datetime">Sun Jan 25 08:19:42 -0800 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">3</ratings_count>
+          <percent type="integer">90</percent>
+          <work_id type="integer">3275794</work_id>
+          <note_uri>kca://note/amzn1.grok.note.7b272ba7c74fd0415e50bffbb8192557</note_uri>
+          <note_updated_at type="datetime">Sun Jan 25 08:19:42 -0800 2015</note_updated_at>
+          <body><![CDATA[I have read this book probably a dozen times, and the fight scene with Mr. Ewell still gives me chills.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">57562699</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Jan 22 05:42:20 -0800 2015</created_at>
+          <updated_at type="datetime">Thu Jan 22 05:42:24 -0800 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">11</ratings_count>
+          <percent type="integer">63</percent>
+          <work_id type="integer">3275794</work_id>
+          <note_uri>kca://note/amzn1.grok.note.694b04fa6808394c0720796bac9cf54b</note_uri>
+          <note_updated_at type="datetime">Thu Jan 22 05:42:24 -0800 2015</note_updated_at>
+          <body><![CDATA[This will make my list of Best Audiobooks. Sissy Spacek's performance is amazing.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">57132440</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>3</comments_count>
+          <created_at type="datetime">Sat Jan 17 11:54:10 -0800 2015</created_at>
+          <updated_at type="datetime">Sat Jan 17 11:54:10 -0800 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">10</ratings_count>
+          <percent type="integer">36</percent>
+          <work_id type="integer">3275794</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">56705515</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Jan 12 15:30:46 -0800 2015</created_at>
+          <updated_at type="datetime">Mon Jan 12 15:30:51 -0800 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">6</ratings_count>
+          <percent type="integer"></percent>
+          <work_id type="integer">3275794</work_id>
+          <note_uri>kca://note/amzn1.grok.note.935e661562859b7248d46fbeb0e25dbe</note_uri>
+          <note_updated_at type="datetime">Mon Jan 12 15:30:51 -0800 2015</note_updated_at>
+          <body><![CDATA[I am listening to Sissy Spacek perform this on audio, and it is FANTASTIC. Sissy needs to narrate more southern literature.]]></body>
+        </user_status>
+    </user_statuses>
+  <rating>5</rating>
+  <votes>96</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="movie-adaptation" exclusive="false" review_shelf_id="496469583" sortable="false" />
+    <shelf name="audiobooks" exclusive="false" review_shelf_id="894762338" sortable="false" />
+    <shelf name="racism" exclusive="false" review_shelf_id="894762560" sortable="false" />
+    <shelf name="favorites" exclusive="false" review_shelf_id="245564037" sortable="false" />
+    <shelf name="classics" exclusive="false" review_shelf_id="245968642" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Mon Jan 26 00:00:00 -0800 2015</read_at>
+  <date_added>Tue Aug 14 18:32:03 -0700 2007</date_added>
+  <date_updated>Thu Dec 10 08:33:18 -0800 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[OK, everyone needs to stop what they're doing and go find a copy of Sissy Spacek reading this book. I am not exaggerating when I say it is the best audiobook performance I have ever heard. <br /><br />I have read <i>To Kill a Mockingbird</i> perhaps 10 or 12 times in my life, and it is one of my favorite books, but...]]>
+  </body>
+
+  
+
+  <comments_count>18</comments_count>
+    <comments start="1" end="18" total="18">
+        <comment>
+  <id>113450312</id>
+  <body><![CDATA[Fabulous review! It's such a shame that a story like this has remained so timeless : ( The book as a classic? Absolutely! But not the subject matter.]]></body>
+  
+  <user>
+    <id>11183856</id>
+    <name>Kelly (and the Book Boar)</name>
+    <display_name>Kelly (and the Book Boar)</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11183856-kelly-and-the-book-boar]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1484844464p3/11183856.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1484844464p2/11183856.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 25 14:07:56 -0800 2015</created_at>
+  <updated_at>Sun Jan 25 14:07:56 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>113450488</id>
+  <body><![CDATA[I read this book when I was studying English at age 14 or 15 - or rather I was forced to read this book by the school, through a summer holiday. I had a chart above my bed to tick off the pages and track progress, such was my reluctance. After a while I stopped updating the chart - I was so engrossed in the book I didn't need any incentive to continue. It left a big impact on me and remains one of the most important books I've read.<br />I also enjoyed your excellent review, Diane.]]></body>
+  
+  <user>
+    <id>5885760</id>
+    <name>Andrew</name>
+    <display_name>Andrew Smith</display_name>
+
+    <location><![CDATA[Newton Abbot, Devon, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5885760-andrew-smith]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1445019627p3/5885760.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1445019627p2/5885760.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 25 14:11:21 -0800 2015</created_at>
+  <updated_at>Sun Jan 25 14:11:21 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>113451662</id>
+  <body><![CDATA[great review, I'm glad to discover that my library does the Sissy Spacek audio book version. I've never listened to an audio book before, so I might just give this a try.]]></body>
+  
+  <user>
+    <id>30704264</id>
+    <name>Beth </name>
+    <display_name>Beth </display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/30704264-beth]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1484846766p3/30704264.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1484846766p2/30704264.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 25 14:33:33 -0800 2015</created_at>
+  <updated_at>Sun Jan 25 14:33:33 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>113451896</id>
+  <body><![CDATA[Thanks, Kelly. I agree this book is a classic, and I also wish it wasn't so timeless.]]></body>
+  
+  <user>
+    <id>279256</id>
+    <name>Diane</name>
+    <display_name>Diane</display_name>
+
+    <location>Kansas City, MO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/279256-diane]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1463055842p3/279256.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1463055842p2/279256.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 25 14:37:56 -0800 2015</created_at>
+  <updated_at>Sun Jan 25 14:37:56 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>113451988</id>
+  <body><![CDATA[Hi Andrew, I also remember getting excited and racing ahead when I was first assigned this book. Aside from its heavy themes, it is also very funny! I still giggle when I think of Scout trying to shock her father by saying, "Pass the damn ham, please."]]></body>
+  
+  <user>
+    <id>279256</id>
+    <name>Diane</name>
+    <display_name>Diane</display_name>
+
+    <location>Kansas City, MO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/279256-diane]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1463055842p3/279256.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1463055842p2/279256.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 25 14:39:39 -0800 2015</created_at>
+  <updated_at>Sun Jan 25 14:39:39 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>113452157</id>
+  <body><![CDATA[Hi Beth, I love audiobooks! I listen to them on my commute, when I workout, while I clean or work around the house -- it is a wonderful way to experience a book. However, I admit I am picky about my narrators, so when I find one I like, I will binge-listen to everything they've done. I'm glad you'll give it a try, and I hope you like it.]]></body>
+  
+  <user>
+    <id>279256</id>
+    <name>Diane</name>
+    <display_name>Diane</display_name>
+
+    <location>Kansas City, MO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/279256-diane]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1463055842p3/279256.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1463055842p2/279256.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 25 14:42:43 -0800 2015</created_at>
+  <updated_at>Sun Jan 25 14:42:43 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>113457548</id>
+  <body><![CDATA[I think I will give the audio book a try, I mentioned it to my husband and he seemed interested too. If we can't get into the audio experience, we will get a copy of the book because, embarrassingly, neither of us has read it :(]]></body>
+  
+  <user>
+    <id>30704264</id>
+    <name>Beth </name>
+    <display_name>Beth </display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/30704264-beth]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1484846766p3/30704264.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1484846766p2/30704264.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 25 16:19:47 -0800 2015</created_at>
+  <updated_at>Sun Jan 25 16:19:47 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>113458123</id>
+  <body><![CDATA[How cool! I had no idea Sissy Spacek did a recording of TKAM. Good one, Diane.]]></body>
+  
+  <user>
+    <id>35313527</id>
+    <name>Hunter</name>
+    <display_name>Hunter Murphy</display_name>
+
+    <location>Birmingham, AL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/35313527-hunter-murphy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1453332443p3/35313527.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1453332443p2/35313527.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 25 16:29:12 -0800 2015</created_at>
+  <updated_at>Sun Jan 25 16:29:12 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>113464069</id>
+  <body><![CDATA[Wow!!! I haven't gotten into audio books... But given how much I love this book, (also read it 4 or 5 times), and love Sissy Spacek... This sure would be a great first intro. to audio books. Thanks for your enthusiastic review.]]></body>
+  
+  <user>
+    <id>597461</id>
+    <name>Elyse</name>
+    <display_name>Elyse</display_name>
+
+    <location>San Jose, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/597461-elyse]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1319931381p3/597461.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1319931381p2/597461.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 25 18:19:51 -0800 2015</created_at>
+  <updated_at>Sun Jan 25 18:19:51 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>113476294</id>
+  <body><![CDATA[Marvelous and timely review Diane. I only recently read MLK's <a href="https://www.goodreads.com/book/show/203899.Letter_from_the_Birmingham_Jail" title="Letter from the Birmingham Jail by Martin Luther King Jr." rel="nofollow">Letter from the Birmingham Jail</a> and I had a similar reaction to yours and was saddened to think that almost 50 years after Mr.King's death, the racial bigotry is still pervasive in our "egalitarian" society.]]></body>
+  
+  <user>
+    <id>18383778</id>
+    <name>Dolors</name>
+    <display_name>Dolors</display_name>
+
+    <location>Barcelona, Spain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18383778-dolors]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1379500437p3/18383778.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1379500437p2/18383778.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 25 23:52:25 -0800 2015</created_at>
+  <updated_at>Sun Jan 25 23:52:25 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>113477463</id>
+  <body><![CDATA[<i>Diane wrote: "Hi Andrew, I also remember getting excited and racing ahead when I was first assigned this book. Aside from its heavy themes, it is also very funny! I still giggle when I think of Scout trying to s..."</i><br /><br />Diane, in truth I can remember very little of the detail of the book. I recall the general story, of course, but I may have to re-read this one to refresh my memory. In fact it's a book I've often promised myself I'll re-visit at some point.]]></body>
+  
+  <user>
+    <id>5885760</id>
+    <name>Andrew</name>
+    <display_name>Andrew Smith</display_name>
+
+    <location><![CDATA[Newton Abbot, Devon, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5885760-andrew-smith]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1445019627p3/5885760.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1445019627p2/5885760.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 26 01:06:07 -0800 2015</created_at>
+  <updated_at>Mon Jan 26 01:06:07 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>113512841</id>
+  <body><![CDATA[I agree with you completely! Sissy Spacek did a fantastic job reading To Kill a Mockingbird! I listened to the audiobook last year and it has been on my wishlist ever since.]]></body>
+  
+  <user>
+    <id>2278385</id>
+    <name>Angelique</name>
+    <display_name>Angelique</display_name>
+
+    <location>Bonn , Germany</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2278385-angelique]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1245746891p3/2278385.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1245746891p2/2278385.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 26 14:53:32 -0800 2015</created_at>
+  <updated_at>Mon Jan 26 14:53:32 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>137234662</id>
+  <body><![CDATA[I took your advice, Diane. It was a great read (and listen). Thanks!]]></body>
+  
+  <user>
+    <id>4742884</id>
+    <name>Lisa</name>
+    <display_name>Lisa Lieberman</display_name>
+
+    <location>Amherst, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4742884-lisa-lieberman]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1482348529p3/4742884.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1482348529p2/4742884.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 21 14:41:35 -0700 2015</created_at>
+  <updated_at>Tue Jul 21 14:41:35 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>137490694</id>
+  <body><![CDATA[Hi Lisa, I'm so glad you enjoyed the audiobook! That is wonderful to hear. I've shared my copy with several friends, who have all loved it. Sissy Spacek did an amazing job performing it.]]></body>
+  
+  <user>
+    <id>279256</id>
+    <name>Diane</name>
+    <display_name>Diane</display_name>
+
+    <location>Kansas City, MO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/279256-diane]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1463055842p3/279256.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1463055842p2/279256.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jul 26 09:32:51 -0700 2015</created_at>
+  <updated_at>Sun Jul 26 09:32:51 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>137691646</id>
+  <body><![CDATA[I just listened to the older Recorded Books version narrated by Sally Darling, and I thought she was absolutely fantastic as well. Will have to listen to some of Spacek's take to compare, and I suggest you check out the older version if you can as well!]]></body>
+  
+  <user>
+    <id>16241296</id>
+    <name>Leigh</name>
+    <display_name>Leigh</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16241296-leigh]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1357688292p3/16241296.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1357688292p2/16241296.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 30 09:57:33 -0700 2015</created_at>
+  <updated_at>Thu Jul 30 09:57:33 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>137738477</id>
+  <body><![CDATA[I agree with you that Sissy performance is excellent.]]></body>
+  
+  <user>
+    <id>30747275</id>
+    <name>Eddie</name>
+    <display_name>Eddie Castlow</display_name>
+
+    <location>Fort Worth, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/30747275-eddie-castlow]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1398136695p3/30747275.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1398136695p2/30747275.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 31 09:43:00 -0700 2015</created_at>
+  <updated_at>Fri Jul 31 09:43:00 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>137738478</id>
+  <body><![CDATA[I agree with you that Sissy performance is excellent.]]></body>
+  
+  <user>
+    <id>30747275</id>
+    <name>Eddie</name>
+    <display_name>Eddie Castlow</display_name>
+
+    <location>Fort Worth, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/30747275-eddie-castlow]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1398136695p3/30747275.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1398136695p2/30747275.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 31 09:43:01 -0700 2015</created_at>
+  <updated_at>Fri Jul 31 09:43:01 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>144144213</id>
+  <body><![CDATA[She was definitely well cast for that audiobook.]]></body>
+  
+  <user>
+    <id>15552932</id>
+    <name>Bekah</name>
+    <display_name>Bekah</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15552932-bekah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1473465404p3/15552932.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1473465404p2/15552932.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Dec 10 01:38:12 -0800 2015</created_at>
+  <updated_at>Thu Dec 10 01:38:12 -0800 2015</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/4560474]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/4560474]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

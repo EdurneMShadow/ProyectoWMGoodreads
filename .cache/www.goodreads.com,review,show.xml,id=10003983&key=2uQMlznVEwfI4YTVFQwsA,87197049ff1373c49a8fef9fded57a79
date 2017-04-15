@@ -1,0 +1,804 @@
+status: 200
+x-request-id: Z9V3HF6N6XW55PVTFHNS
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=10003983&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhgwODQtNTA0MDkyMi03Mjk3NDUyBjoGRVQ%3D--0b7acf45e150075c7af377ffa6002e05661d24ce;
+ path=/; expires=Wed, 15 Apr 2037 15:09:45 -0000, locale=es;
+ path=/, _session_id2=aad591c09c9badd3b8f2dfe06e090542; path=/;
+ expires=Sat, 15 Apr 2017 21:09:46 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 32469
+server: Server
+x-runtime: 0.470493
+etag: W/"a1796afb41a67c4061c48b2dea44d109"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:09:46 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>10003983</id>
+    
+  <user>
+    <id>648131</id>
+    <name>Denise</name>
+    <display_name>Denise</display_name>
+
+    <location>Los Angeles, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/648131-denise]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1196359774p3/648131.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1196359774p2/648131.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">2657</id>
+  <isbn>0061120081</isbn>
+  <isbn13>9780061120084</isbn13>
+  <text_reviews_count type="integer">57300</text_reviews_count>
+  <title>To Kill a Mockingbird</title>
+  <title_without_series>To Kill a Mockingbird</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1361975680m/2657.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1361975680s/2657.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2657.To_Kill_a_Mockingbird</link>
+  <num_pages>324</num_pages>
+  <format>Paperback</format>
+  <edition_information>50th Anniversary</edition_information>
+  <publisher>Harper Perennial Modern Classics</publisher>
+  <publication_day>23</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.25</average_rating>
+  <ratings_count>3251393</ratings_count>
+  <description>The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it, To Kill A Mockingbird became both an instant bestseller and a critical success when it was first published in 1960. It went on to win the Pulitzer Prize in 1961 and was later made into an Academy Award-winning film, also a classic.&lt;br /&gt;&lt;br /&gt;Compassionate, dramatic, and deeply moving, To Kill A Mockingbird takes readers to the roots of human behavior - to innocence and experience, kindness and cruelty, love and hatred, humor and pathos. Now with over 18 million copies in print and translated into forty languages, this regional story by a young Alabama woman claims universal appeal. Harper Lee always considered her book to be a simple love story. Today it is regarded as a masterpiece of American literature.</description>
+<authors>
+<author>
+<id>1825</id>
+<name>Harper Lee</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1188820730p5/1825.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1188820730p2/1825.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1825.Harper_Lee]]></link>
+<average_rating>4.21</average_rating>
+<ratings_count>3414068</ratings_count>
+<text_reviews_count>94458</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1220498643</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Tue Feb 02 19:44:13 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>189</votes>
+  <spoiler_flag>true</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="made-into-movie" exclusive="false" review_shelf_id="4355474" sortable="false" />
+    <shelf name="bookgroup" exclusive="false" review_shelf_id="5135544" sortable="false" />
+    <shelf name="classics" exclusive="false" review_shelf_id="4325224" sortable="false" />
+    <shelf name="books-i-love-so-much-i-bought" exclusive="false" review_shelf_id="3714187" sortable="false" />
+</shelves>
+  <recommended_for>Everyone</recommended_for>
+  <recommended_by>Bookgroup</recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Dec 01 00:00:00 -0800 2004</read_at>
+  <date_added>Wed Dec 05 16:30:28 -0800 2007</date_added>
+  <date_updated>Wed Jan 08 07:40:42 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I looked up Harper Lee online this is her only published book. However, she did write a few articles that one can find and read online:<br />Love in other Words - Vogue<br />Christmas to me - McCalls<br />When Children Discover America<br />Romance and High Adventure<br /><br />Her full name is Nellie Harper Lee - I bet she dropped...]]>
+  </body>
+
+  
+
+  <comments_count>29</comments_count>
+    <comments start="1" end="29" total="29">
+        <comment>
+  <id>391796</id>
+  <body><![CDATA[her name is nelle harper lee -- she dropped the nelle when she wrote mockingbird because she didn't want anyone to misprounce it and say "nellie" instead of "nelle."<br /><br />:)]]></body>
+  
+  <user>
+    <id>852252</id>
+    <name>Jessica</name>
+    <display_name>Jessica</display_name>
+
+    <location>River Edge, NJ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/852252-jessica]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1490039536p3/852252.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1490039536p2/852252.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 05 12:59:00 -0800 2008</created_at>
+  <updated_at>Tue Feb 05 12:59:00 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>492806</id>
+  <body><![CDATA[Denise, I really like your review too. Like Yareader2, I just read the book as an adult - though I read it once in high school, I think I didn't appreciate it fully then. Interestingly enough, what I think I didn't appreciate fully was not the adult stuff, but the kid stuff. The more I start growing away from my own childhood (I'm only 26, but that's already a good stint in adult life) the more amazed I am by writers who can still so sharply remember what it was like to be a kid. Thanks for your very honest review and I hope you find more books that move you to write.]]></body>
+  
+  <user>
+    <id>121386</id>
+    <name>Leslie</name>
+    <display_name>Leslie</display_name>
+
+    <location>Berlin, Germany</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/121386-leslie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1352917715p3/121386.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1352917715p2/121386.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Mar 08 14:53:12 -0800 2008</created_at>
+  <updated_at>Sat Mar 08 14:53:12 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>493112</id>
+  <body><![CDATA[Thank you for the information. Not sure where I got Nellie from but I guess she was right in her assumption. I still like my theory better ;)]]></body>
+  
+  <user>
+    <id>648131</id>
+    <name>Denise</name>
+    <display_name>Denise</display_name>
+
+    <location>Los Angeles, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/648131-denise]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1196359774p3/648131.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1196359774p2/648131.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Mar 08 17:15:15 -0800 2008</created_at>
+  <updated_at>Sat Mar 08 17:15:15 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1236524</id>
+  <body><![CDATA[There is a book about her life, My Name is Scout, that provides more information and insight to the person, Harper Lee, her relationships. It's a fascinating read. ]]></body>
+  
+  <user>
+    <id>1335784</id>
+    <name>Sheila</name>
+    <display_name>Sheila</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1335784-sheila]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 16 13:02:27 -0700 2008</created_at>
+  <updated_at>Wed Jul 16 13:02:27 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1237847</id>
+  <body><![CDATA[Thank you, I'm going to add that book under my to be read list.<br /><br />I just looked it up, It's call I Am Scout ;)]]></body>
+  
+  <user>
+    <id>648131</id>
+    <name>Denise</name>
+    <display_name>Denise</display_name>
+
+    <location>Los Angeles, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/648131-denise]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1196359774p3/648131.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1196359774p2/648131.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 16 14:58:12 -0700 2008</created_at>
+  <updated_at>Wed Jul 16 14:58:12 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1241049</id>
+  <body><![CDATA[You're right! I was relying on my memory, which is not always a good idea at my age. Anyway, it's a wonderful book and I'm glad you'll be reading it. ]]></body>
+  
+  <user>
+    <id>1335784</id>
+    <name>Sheila</name>
+    <display_name>Sheila</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1335784-sheila]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 16 21:20:27 -0700 2008</created_at>
+  <updated_at>Wed Jul 16 21:20:27 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>4237483</id>
+  <body><![CDATA[Interesting. Although I thought Atticus could have been more caring toward the kids...he didn't even bother to walk Scout to the first day of school or her pageant. He didn't even attend the pageant because he was tired. Plus, it is repeatedly mentioned that he reads a newspaper and leaves Jem and Scout to their own devices.]]></body>
+  
+  <user>
+    <id>714783</id>
+    <name>Katy</name>
+    <display_name>Katy</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/714783-katy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1376715544p3/714783.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1376715544p2/714783.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 27 13:03:41 -0800 2009</created_at>
+  <updated_at>Fri Feb 27 13:03:41 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>6009472</id>
+  <body><![CDATA[Hey, if I started a Group to discus this book, do you think anyonewould join?]]></body>
+  
+  <user>
+    <id>2077027</id>
+    <name>Kat</name>
+    <display_name>Kat</display_name>
+
+    <location>Darien, CT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2077027-kat]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri May 22 21:34:49 -0700 2009</created_at>
+  <updated_at>Fri May 22 21:34:49 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>6013945</id>
+  <body><![CDATA[sure. the problem would be to let everyone know that the group exists and to keep it active while different people read it at different times.]]></body>
+  
+  <user>
+    <id>648131</id>
+    <name>Denise</name>
+    <display_name>Denise</display_name>
+
+    <location>Los Angeles, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/648131-denise]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1196359774p3/648131.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1196359774p2/648131.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 23 08:53:29 -0700 2009</created_at>
+  <updated_at>Sat May 23 08:53:29 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>8304226</id>
+  <body><![CDATA[There's also a great book about her life called "Mockingbird" you should check out. It's very good.]]></body>
+  
+  <user>
+    <id>2621102</id>
+    <name>Emily</name>
+    <display_name>Emily Polhamus</display_name>
+
+    <location>Philadelphia, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2621102-emily-polhamus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1472135554p3/2621102.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1472135554p2/2621102.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 11 13:36:52 -0700 2009</created_at>
+  <updated_at>Tue Aug 11 13:36:52 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>8304242</id>
+  <body><![CDATA[AND forgot to mention, just an interesting fact. The character of Dill is based on Truman Capote who was a childhood friend of Harper Lee! ]]></body>
+  
+  <user>
+    <id>2621102</id>
+    <name>Emily</name>
+    <display_name>Emily Polhamus</display_name>
+
+    <location>Philadelphia, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2621102-emily-polhamus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1472135554p3/2621102.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1472135554p2/2621102.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 11 13:37:39 -0700 2009</created_at>
+  <updated_at>Tue Aug 11 13:37:39 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>8321612</id>
+  <body><![CDATA[Thanks Emily, I'm going to add Mockingbird to the list]]></body>
+  
+  <user>
+    <id>648131</id>
+    <name>Denise</name>
+    <display_name>Denise</display_name>
+
+    <location>Los Angeles, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/648131-denise]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1196359774p3/648131.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1196359774p2/648131.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 11 23:10:28 -0700 2009</created_at>
+  <updated_at>Tue Aug 11 23:10:28 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>9662456</id>
+  <body><![CDATA[oh my gosh i love thisss booook it was sooo coool and i love chapter 15 the part where when atticus tucks scout in bed waouuuuuuuuuu it was kiooooolllll <br />OHHHHHHH i can't believe this..................... OHHHHHHHH LA LA ]]></body>
+  
+  <user>
+    <id>2763849</id>
+    <name><![CDATA[Deguet Dwayne Carter jr. rockstar bayiB]]></name>
+    <display_name><![CDATA[Deguet Dwayne Carter jr. rockstar bayiB]]></display_name>
+
+    <location>babi city, 82, Cote D&apos;ivoire</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2763849-deguet-dwayne-carter-jr-rockstar-bayib]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Sep 28 05:45:18 -0700 2009</created_at>
+  <updated_at>Mon Sep 28 05:45:18 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>11382878</id>
+  <body><![CDATA[I figured Atticus allowed for his children to call him by his first name because he wanted them to see that he saw them as equals and not as pesky little kids. I was unsure of how to take that either but I went with it because imagining Scout saying, "Atticus!" was just too cute for me. ]]></body>
+  
+  <user>
+    <id>1565888</id>
+    <name>Cindy</name>
+    <display_name>Cindy</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1565888-cindy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1339041137p3/1565888.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1339041137p2/1565888.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 01 18:15:39 -0800 2009</created_at>
+  <updated_at>Tue Dec 01 18:15:39 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>17510057</id>
+  <body><![CDATA[I believe in many ways the fact that the children called Atticus by his first name represents the respect he had for them and vice versa. I do not believe it ever says that he required them to call him "Atticus." While Atticus is a nurturing loving father, he also is a prominent member of the community. I believe Scout and Jem recognize Atticus' importance as a lawyer, especially in the upcoming trial. I believe that in many ways the children recognize and absolutely respect the man that Atticus is as their father and as the lawyer in the community. They recogize his humility - this especially is a profound moment for Jem in the novel - when Atticus shots the dog and Jem finds out that Atticus was considered the best shot in the county. Jem comments that he is impressed by his father's skill but even more so by his father's humility and that he has never once bragged about this. Atticus, with the help of Calpurnia, must take on the role of father and mother. This must be quite a task. I do believe it also mentions at the beginning of the book that Atticus is older as a parent. I think in a perfect world Atticus could just be "Dad" - "Father" to his kids, but during this tumultuous period - he wanted the kids to understand the world was not always a perfect place - "good" did not always win out over evil. I think it is a lesson that Scout is able to embrace even more than Jem after the trial. Jem withdraws into himself and seems to be having a much more difficult time with the outcome. I have often wondered if Jem is a bit more emotional and at times withdrawn into himself because he remembers their mother and her subsequent death. Scout on the other hand does not remember their mother - only through what Jem tells her. Jem was old enough to truly experience and feel this loss intensely. Just a few of my thoughts on the relationship between Atticus and the kids. I teach this book in my literature classes and never tire of reading it. I have truly enjoyed reading everyone's reviews!]]></body>
+  
+  <user>
+    <id>3663153</id>
+    <name>Lisa</name>
+    <display_name>Lisa Newton-Smart</display_name>
+
+    <location>Denton, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3663153-lisa-newton-smart]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1430255456p3/3663153.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1430255456p2/3663153.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jun 09 14:27:43 -0700 2010</created_at>
+  <updated_at>Wed Jun 09 14:27:43 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>17510365</id>
+  <body><![CDATA[To any of you that would like to read more about Harper Lee there is a book that was published in 2006 called: <br /><br />Mockingbird: A Portrait of Harper Lee<br />by Charles J. Shields <br /><br />It is also a great reference on the life of Harper Lee, as well as the book and characters. I especially enjoyed the first chapter describing Harper Lee living in New York and walking through a blizzard to visit her publisher. I won't spoil it but it is a great addition to the novel and gives some great reference information.]]></body>
+  
+  <user>
+    <id>3663153</id>
+    <name>Lisa</name>
+    <display_name>Lisa Newton-Smart</display_name>
+
+    <location>Denton, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3663153-lisa-newton-smart]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1430255456p3/3663153.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1430255456p2/3663153.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jun 09 14:34:40 -0700 2010</created_at>
+  <updated_at>Wed Jun 09 14:34:40 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>31001285</id>
+  <body><![CDATA[Well, it worked, 'cause I thought she was a man &gt;o&lt;]]></body>
+  
+  <user>
+    <id>4986286</id>
+    <name>Arte</name>
+    <display_name>Arte</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4986286-arte]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1470886522p3/4986286.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1470886522p2/4986286.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 26 16:21:55 -0700 2011</created_at>
+  <updated_at>Thu May 26 16:21:55 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>32395651</id>
+  <body><![CDATA[Thanks for your review I have to read this for high school and now I understand it a little bit better]]></body>
+  
+  <user>
+    <id>5281225</id>
+    <name>Maatii</name>
+    <display_name>Maatii</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5281225-maatii]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1371767612p3/5281225.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1371767612p2/5281225.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 23 07:43:44 -0700 2011</created_at>
+  <updated_at>Thu Jun 23 07:43:44 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>32832421</id>
+  <body><![CDATA[Maatii: Did you finish reading the book for high school? Would be interested to know your thoughts!]]></body>
+  
+  <user>
+    <id>3663153</id>
+    <name>Lisa</name>
+    <display_name>Lisa Newton-Smart</display_name>
+
+    <location>Denton, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3663153-lisa-newton-smart]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1430255456p3/3663153.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1430255456p2/3663153.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 01 08:46:57 -0700 2011</created_at>
+  <updated_at>Fri Jul 01 08:46:57 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>33000453</id>
+  <body><![CDATA[Lisa: Yes I actually finished it today I just realized I'm like Scout because I don't fit in with girls my age and I act more like a boy than a young lady my aunt did live with me at one point in my life, my family has always tried to turn me into a lady but I always rebel a bit]]></body>
+  
+  <user>
+    <id>5281225</id>
+    <name>Maatii</name>
+    <display_name>Maatii</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5281225-maatii]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1371767612p3/5281225.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1371767612p2/5281225.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jul 04 20:58:24 -0700 2011</created_at>
+  <updated_at>Mon Jul 04 20:58:24 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>33016566</id>
+  <body><![CDATA[Of all the literature books I teach in my college classes, I believe Scout is my favorite character of all time. When Jem becomes disillusioned, Scout still sees hope. When even Atticus becomes discouraged, Scout still seems to find a silver lining in the darkest of situations. Scout was a tomboy but it doesn't matter if she wore dresses or overalls, jeans, or ...she has the biggest heart and exhibits great moral character - unparallelled in my opinion. I too could relate to Scout's character as a child. I am so glad you liked the book and were willing to share your thoughts!]]></body>
+  
+  <user>
+    <id>3663153</id>
+    <name>Lisa</name>
+    <display_name>Lisa Newton-Smart</display_name>
+
+    <location>Denton, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3663153-lisa-newton-smart]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1430255456p3/3663153.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1430255456p2/3663153.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 05 07:34:52 -0700 2011</created_at>
+  <updated_at>Tue Jul 05 07:34:52 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>42387580</id>
+  <body><![CDATA[interesting review.i hope i will definitely found all that out later after i finish reading the novel.]]></body>
+  
+  <user>
+    <id>7251349</id>
+    <name>Fane</name>
+    <display_name>Fane Davis</display_name>
+
+    <location>Rawang, 12, Malaysia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7251349-fane-davis]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu Dec 29 06:45:19 -0800 2011</created_at>
+  <updated_at>Thu Dec 29 06:45:19 -0800 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>43445402</id>
+  <body><![CDATA[I agree with you all the way. Just a little note I couldn't resist writing down. You don't respect people who are older than you because they are older. You respect them because older people have more experience than you. So you should just keep in mind that older people are more experienced.]]></body>
+  
+  <user>
+    <id>6260356</id>
+    <name>Noa</name>
+    <display_name>Noa</display_name>
+
+    <location>Belgium</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6260356-noa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1336320915p3/6260356.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1336320915p2/6260356.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 15 04:23:59 -0800 2012</created_at>
+  <updated_at>Sun Jan 15 04:23:59 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>53465425</id>
+  <body><![CDATA[I have long considered Atticus Finch to be one of the truly great heroes of American literature. I love this book - the story, the style, the characters.]]></body>
+  
+  <user>
+    <id>7449621</id>
+    <name>Dm</name>
+    <display_name>Dm</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7449621-dm]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 03 23:13:03 -0700 2012</created_at>
+  <updated_at>Tue Jul 03 23:13:03 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>53538262</id>
+  <body><![CDATA[I could not agree more! I still teach this book to my college English classes and you cannot find a better man than Atticus Finch. The book is one I read again and again and again and love everytime just a bit more!]]></body>
+  
+  <user>
+    <id>3663153</id>
+    <name>Lisa</name>
+    <display_name>Lisa Newton-Smart</display_name>
+
+    <location>Denton, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3663153-lisa-newton-smart]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1430255456p3/3663153.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1430255456p2/3663153.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 05 09:02:43 -0700 2012</created_at>
+  <updated_at>Thu Jul 05 09:02:43 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>68121138</id>
+  <body><![CDATA[I like that]]></body>
+  
+  <user>
+    <id>17588170</id>
+    <name>Zhanitah</name>
+    <display_name>Zhanitah</display_name>
+
+    <location>Durham, NC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17588170-zhanitah]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 18 15:05:30 -0800 2013</created_at>
+  <updated_at>Mon Feb 18 15:05:30 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>98545045</id>
+  <body><![CDATA[I disagree completely]]></body>
+  
+  <user>
+    <id>26453576</id>
+    <name>Corie</name>
+    <display_name>Corie Bocian</display_name>
+
+    <location>Grove City, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/26453576-corie-bocian]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu May 15 07:36:52 -0700 2014</created_at>
+  <updated_at>Thu May 15 07:36:52 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>147123722</id>
+  <body><![CDATA[I loved Dill. Such a hilarious character!]]></body>
+  
+  <user>
+    <id>41852046</id>
+    <name>Epicallyagirl</name>
+    <display_name>Epicallyagirl</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/41852046-epicallyagirl]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu Feb 04 19:39:46 -0800 2016</created_at>
+  <updated_at>Thu Feb 04 19:39:46 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>160566485</id>
+  <body><![CDATA["Too bad my head is so full of that information, I have to look up my own phone number." I almost choked on my water when I read that part. This is a brilliant review!]]></body>
+  
+  <user>
+    <id>41580369</id>
+    <name>Taya</name>
+    <display_name>Taya</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/41580369-taya]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1482406046p3/41580369.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1482406046p2/41580369.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Dec 24 12:27:22 -0800 2016</created_at>
+  <updated_at>Sat Dec 24 12:27:22 -0800 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/10003983]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/10003983]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

@@ -1,0 +1,260 @@
+status: 200
+x-request-id: 5BWX8ZC800XXS2TXFXCA
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=1732545385&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhg1MDQtNjYxNTY5Ni0zMDA3NTYxBjoGRVQ%3D--64ac68ffb78654b9f70ea1cd763cffc2c99ea6cd;
+ path=/; expires=Wed, 15 Apr 2037 15:31:08 -0000, locale=es;
+ path=/, _session_id2=d46d186f4988e1a6a9c7375c09c1d777; path=/;
+ expires=Sat, 15 Apr 2017 21:31:08 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 9401
+server: Server
+x-runtime: 0.395997
+etag: W/"f27764f8de3670071b88b99dd7d251ab"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:31:08 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1732545385</id>
+    
+  <user>
+    <id>51318038</id>
+    <name>Maggie</name>
+    <display_name>Maggie</display_name>
+
+    <location>Santa Fe, NM</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/51318038-maggie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488686563p3/51318038.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488686563p2/51318038.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">6567017</id>
+  <isbn>0525421580</isbn>
+  <isbn13>9780525421580</isbn13>
+  <text_reviews_count type="integer">12837</text_reviews_count>
+  <title>Will Grayson, Will Grayson</title>
+  <title_without_series>Will Grayson, Will Grayson</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1368393890m/6567017.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1368393890s/6567017.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6567017-will-grayson-will-grayson</link>
+  <num_pages>310</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Dutton Books</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.85</average_rating>
+  <ratings_count>242899</ratings_count>
+  <description>Will Grayson meets Will Grayson. One cold night, in a most unlikely corner of Chicago, two strangers are about to cross paths. From that moment on, their world will collide and lives intertwine.&lt;br /&gt;&lt;br /&gt;It's not that far from Evanston to Naperville, but Chicago suburbanites Will Grayson and Will Grayson might as well live on different planets. When fate delivers them both to the same surprising crossroads, the Will Graysons find their lives overlapping and hurtling in new and unexpected directions. With a push from friends new and old - including the massive, and massively fabulous, Tiny Cooper, offensive lineman and musical theater auteur extraordinaire - Will and Will begin building toward respective romantic turns-of-heart and the epic production of history's most awesome high school musical.</description>
+<authors>
+<author>
+<id>1406384</id>
+<name>John Green</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>4487195</ratings_count>
+<text_reviews_count>274854</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1477468826</id>
+          <old_status>currently-reading</old_status>
+          <status>dnf</status>
+          <updated_at type="datetime">Fri Aug 19 15:38:24 -0700 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1476614838</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Thu Aug 18 21:45:36 -0700 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>57</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf name="young-adult" exclusive="false" review_shelf_id="1468106802" sortable="false" />
+    <shelf name="lgbt" exclusive="false" review_shelf_id="1468106782" sortable="false" />
+    <shelf name="contemporary" exclusive="false" review_shelf_id="1468106763" sortable="false" />
+    <shelf name="dnf" exclusive="true" review_shelf_id="1399456781" sortable="false" />
+    <shelf name="1-star" exclusive="false" review_shelf_id="1506971959" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Aug 18 00:00:00 -0700 2016</started_at>
+  <read_at></read_at>
+  <date_added>Thu Aug 18 21:43:46 -0700 2016</date_added>
+  <date_updated>Wed Dec 21 13:08:59 -0800 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<blockquote> <i>❝Some people have lives; some people have music.❞</i> </blockquote><br /><br /><b>DNF at 14%</b><br /><br />1. I just chose that quote because it's the most popular one according to Goodreads<br />2. I don't feel ashamed leaving a John Green novel as a did not finish book. <br />Why?<br /><br />I really can't remember how many times the word "gay" was mentioned in t...]]>
+  </body>
+
+  
+
+  <comments_count>5</comments_count>
+    <comments start="1" end="5" total="5">
+        <comment>
+  <id>155767427</id>
+  <body><![CDATA[I DNF this too, but I think all of John Green's other books (that I've read) are quite good, and you may enjoy those. :)]]></body>
+  
+  <user>
+    <id>48457755</id>
+    <name>Skye (HailHydra)</name>
+    <display_name>Skye (HailHydra)</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/48457755-skye-hailhydra]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1471342331p3/48457755.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1471342331p2/48457755.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 20 02:14:12 -0700 2016</created_at>
+  <updated_at>Sat Aug 20 02:14:12 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155874263</id>
+  <body><![CDATA[Looking for Alaska, definitely better than this one.]]></body>
+  
+  <user>
+    <id>56738623</id>
+    <name>Llunch</name>
+    <display_name>Llunch</display_name>
+
+    <location>Argentina</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/56738623-llunch]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 22 19:46:13 -0700 2016</created_at>
+  <updated_at>Mon Aug 22 19:46:13 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155876878</id>
+  <body><![CDATA[<i>Llunch wrote: "Looking for Alaska, definitely better than this one."</i><br /><br />Phew]]></body>
+  
+  <user>
+    <id>51318038</id>
+    <name>Maggie</name>
+    <display_name>Maggie</display_name>
+
+    <location>Santa Fe, NM</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/51318038-maggie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488686563p3/51318038.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488686563p2/51318038.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 22 21:14:10 -0700 2016</created_at>
+  <updated_at>Mon Aug 22 21:14:10 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159317271</id>
+  <body><![CDATA[Good honest review :D]]></body>
+  
+  <user>
+    <id>55751376</id>
+    <name>Maddie </name>
+    <display_name>Maddie </display_name>
+
+    <location>Northcliff, 06, South Africa</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/55751376-maddie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488575784p3/55751376.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488575784p2/55751376.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 20 00:14:06 -0800 2016</created_at>
+  <updated_at>Sun Nov 20 00:14:06 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159319129</id>
+  <body><![CDATA[This was a DNF for me as well, and John Green is one of my favorite authors (as well as people). The TFIOS movie was good, but you lose a lot not having the story told through Hazel's narrative. Looking for Alaska is my favorite. :)]]></body>
+  
+  <user>
+    <id>47627265</id>
+    <name>Kaylin</name>
+    <display_name>Kaylin</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/47627265-kaylin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1491432676p3/47627265.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1491432676p2/47627265.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 20 02:25:30 -0800 2016</created_at>
+  <updated_at>Sun Nov 20 02:25:30 -0800 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1732545385]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1732545385]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

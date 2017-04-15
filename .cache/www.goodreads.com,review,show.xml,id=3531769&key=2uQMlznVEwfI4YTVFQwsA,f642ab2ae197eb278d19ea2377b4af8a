@@ -1,0 +1,303 @@
+status: 200
+x-request-id: EE7P8STSGAZBWW41GB2R
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=3531769&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhg4ODctMTQ2Njc2Mi0zMjkxMTA0BjoGRVQ%3D--165f5f50394799952259945e6b96117e92693d20;
+ path=/; expires=Wed, 15 Apr 2037 15:10:07 -0000, locale=es;
+ path=/, _session_id2=5b680edcd9ed346540dff721916463e9; path=/;
+ expires=Sat, 15 Apr 2017 21:10:07 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 12197
+server: Server
+x-runtime: 0.388186
+etag: W/"bd8c23efe8ca3d303fea8346f5307526"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:10:07 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>3531769</id>
+    
+  <user>
+    <id>60939</id>
+    <name>Mona</name>
+    <display_name>Mona</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/60939-mona]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1376619452p3/60939.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1376619452p2/60939.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">37449</id>
+  <isbn>1439550417</isbn>
+  <isbn13>9781439550410</isbn13>
+  <text_reviews_count type="integer">2645</text_reviews_count>
+  <title>To Kill a Mockingbird</title>
+  <title_without_series>To Kill a Mockingbird</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1339392178m/37449.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1339392178s/37449.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/37449.To_Kill_a_Mockingbird</link>
+  <num_pages>376</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Grand Central Publishing (Hachette Book Group)</publisher>
+  <publication_day/>
+  <publication_year>1982</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>4.25</average_rating>
+  <ratings_count>3251393</ratings_count>
+  <description>See alternate cover edition &lt;a href="https://www.goodreads.com/book/show/10257528-to-kill-a-mockingbird" rel="nofollow"&gt;
+  &lt;b&gt;here&lt;/b&gt;
+&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it, &lt;i&gt;To Kill A Mockingbird&lt;/i&gt; became both an instant bestseller and a critical success when it was first published in 1960. It went on to win the Pulitzer Prize in 1961 and was later made into an Academy Award-winning film, also a classic.&lt;br /&gt;&lt;br /&gt;Compassionate, dramatic, and deeply moving, &lt;i&gt;To Kill A Mockingbird&lt;/i&gt; takes readers to the roots of human behavior - to innocence and experience, kindness and cruelty, love and hatred, humor and pathos.</description>
+<authors>
+<author>
+<id>1825</id>
+<name>Harper Lee</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1188820730p5/1825.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1188820730p2/1825.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1825.Harper_Lee]]></link>
+<average_rating>4.21</average_rating>
+<ratings_count>3414068</ratings_count>
+<text_reviews_count>94458</text_reviews_count>
+</author>
+</authors>
+  <published>1982</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1326732771</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Fri Apr 22 07:46:46 -0700 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>120</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="law" exclusive="false" review_shelf_id="6747200" sortable="false" />
+    <shelf name="20th-century-lit" exclusive="false" review_shelf_id="81940095" sortable="false" />
+    <shelf name="historical-fiction" exclusive="false" review_shelf_id="81940176" sortable="false" />
+    <shelf name="literature" exclusive="false" review_shelf_id="81940195" sortable="false" />
+    <shelf name="united-states" exclusive="false" review_shelf_id="107333389" sortable="false" />
+    <shelf name="social-justice-human-rights" exclusive="false" review_shelf_id="26453402" sortable="false" />
+    <shelf name="favorites" exclusive="false" review_shelf_id="964311316" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sun Jul 01 00:00:00 -0700 2007</read_at>
+  <date_added>Wed Jul 25 18:51:53 -0700 2007</date_added>
+  <date_updated>Sat Apr 18 08:08:30 -0700 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I read this book a long time ago, when I was ten years old. I remembered nothing from it except thinking it was really, really good. And here I am, thirteen years later. I picked it up again because I was curious about what my reaction would be to it now.<br /><br />The book follows three years in the life o...]]>
+  </body>
+
+  
+
+  <comments_count>7</comments_count>
+    <comments start="1" end="7" total="7">
+        <comment>
+  <id>31952613</id>
+  <body><![CDATA[I was 10 when I read it two years ago.]]></body>
+  
+  <user>
+    <id>5574592</id>
+    <name>Sunny</name>
+    <display_name>Sunny</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5574592-sunny]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Jun 14 18:35:45 -0700 2011</created_at>
+  <updated_at>Tue Jun 14 18:35:45 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>88171108</id>
+  <body><![CDATA[I had the same experience of reading this many years apart and felt I should have revisited it before. It is just a wonderful book definitely on my 'best reads' list.]]></body>
+  
+  <user>
+    <id>26388153</id>
+    <name>Felicity</name>
+    <display_name>Felicity Flutter</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/26388153-felicity-flutter]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1386412586p3/26388153.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1386412586p2/26388153.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Dec 07 01:22:44 -0800 2013</created_at>
+  <updated_at>Sat Dec 07 01:22:44 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>98471254</id>
+  <body><![CDATA[I was 14 when i picked this up and it was so long ago that i only remember bits and pieces of it. But I remembered taking my own time reading it as i did not want the book to end and i loved the characters so much. I am going to revisit it soon tofind out what is was that made my 14 y.o self fall in love with this book in the first place.]]></body>
+  
+  <user>
+    <id>31346217</id>
+    <name>Poppy</name>
+    <display_name>Poppy Sinolinggo</display_name>
+
+    <location>Jakarta, 04, Indonesia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/31346217-poppy-sinolinggo]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1399985483p3/31346217.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1399985483p2/31346217.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue May 13 23:11:58 -0700 2014</created_at>
+  <updated_at>Tue May 13 23:11:58 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>98545888</id>
+  <body><![CDATA[To Kill a Mockingbird, so far, is a pretty interesting novel. The setting of this book informs you on the customs and opinions of the people in that time period. In addition, throughout the book you learn what characters are mockingbirds. For example, Atticus, Boo Radley, and Tom are mockingbirds. They are people who don't cause harm to anyone but are talked about throughout the town. From this I think we learn who are the mockingbirds around us. In the end To Kill a Mockingbird is a exciting book and I can't wait to see what happens next.]]></body>
+  
+  <user>
+    <id>24103756</id>
+    <name>Chiodo1535</name>
+    <display_name>Chiodo1535</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24103756-chiodo1535]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu May 15 07:54:45 -0700 2014</created_at>
+  <updated_at>Thu May 15 07:54:45 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>129532305</id>
+  <body><![CDATA[I feel exactly the same way about this book. Having finished it today, I even cried. Not because there was anything sad to cry about, but because I could not believe the greatness of this story and how deeply it had touched me. Now I feel the need to buy 10 versions of this book all with a different cover and collect those as if they were a treasure to hold on to for life.]]></body>
+  
+  <user>
+    <id>38753441</id>
+    <name>Mercurycode</name>
+    <display_name>Mercurycode</display_name>
+
+    <location>Berlin, Germany</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/38753441-mercurycode]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1433314245p3/38753441.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1433314245p2/38753441.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri May 29 04:54:06 -0700 2015</created_at>
+  <updated_at>Fri May 29 04:54:06 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>137191813</id>
+  <body><![CDATA[Excellent review. I cannot wait to get my hands on TKAMB. Its next on my list.]]></body>
+  
+  <user>
+    <id>44783925</id>
+    <name>Deirdre</name>
+    <display_name>Deirdre Bermingham</display_name>
+
+    <location>Dublin, 07, Ireland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/44783925-deirdre-bermingham]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 21 01:38:56 -0700 2015</created_at>
+  <updated_at>Tue Jul 21 01:38:56 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>163082132</id>
+  <body><![CDATA[Ik ben ook helemaal weg van hoe de auteur die verschillende thema's in een boek heeft kunnen brengen. Dit boek heeft me zeker geraakt en zal ik niet vergeten. Woorden komen tekort om de kracht van dit boek weer te geven. (Tranlation of Dutch: It amazes how the writer has used so many different themes in the book. It touched me and will not be forgotten. There aren't words to describe the power of this book.)]]></body>
+  
+  <user>
+    <id>55483669</id>
+    <name>Noha</name>
+    <display_name>Noha VM</display_name>
+
+    <location>Vilvoorde, 1800, Belgium</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/55483669-noha-vm]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 21 11:01:29 -0800 2017</created_at>
+  <updated_at>Tue Feb 21 11:01:29 -0800 2017</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/3531769]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3531769]]></link>
+    <owned>1</owned>
+</review>
+
+
+</GoodreadsResponse>

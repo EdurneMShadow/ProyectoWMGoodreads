@@ -1,0 +1,221 @@
+status: 200
+x-request-id: H1NM7RF2WN22N4JHKQ5G
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=1485927732&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhg0MTgtNjE4OTgzOS0xOTE0NTY1BjoGRVQ%3D--7ec8d8bbbc92a17f34a89f414d41991b0998b079;
+ path=/; expires=Wed, 15 Apr 2037 15:20:18 -0000, locale=es;
+ path=/, _session_id2=3e06cbc0e99d111d3af6df6d177017a1; path=/;
+ expires=Sat, 15 Apr 2017 21:20:18 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 8605
+server: Server
+x-runtime: 0.380887
+etag: W/"ae163cc9cb6c971a75328805c96bee14"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:20:18 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1485927732</id>
+    
+  <user>
+    <id>16628840</id>
+    <name>Mario</name>
+    <display_name>Mario</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16628840-mario]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1477316053p3/16628840.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1477316053p2/16628840.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">1617</id>
+  <isbn>0374500010</isbn>
+  <isbn13>9780374500016</isbn13>
+  <text_reviews_count type="integer">19845</text_reviews_count>
+  <title>Night</title>
+  <title_without_series>Night</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1473495285m/1617.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1473495285s/1617.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1617.Night</link>
+  <num_pages>120</num_pages>
+  <format>Paperback</format>
+  <edition_information>First Printing Edition</edition_information>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.29</average_rating>
+  <ratings_count>680808</ratings_count>
+  <description>&lt;i&gt;Night&lt;/i&gt; is Elie Wiesel's masterpiece, a candid, horrific, and deeply poignant autobiographical account of his survival as a teenager in the Nazi death camps. This new translation by Marion Wiesel, Elie's wife and frequent translator, presents this seminal memoir in the language and spirit truest to the author's original intent. And in a substantive new preface, Elie reflects on the enduring importance of Night and his lifelong, passionate dedication to ensuring that the world never forgets man's capacity for inhumanity to man.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Night&lt;/i&gt; offers much more than a litany of the daily terrors, everyday perversions, and rampant sadism at Auschwitz and Buchenwald; it also eloquently addresses many of the philosophical as well as personal questions implicit in any serious consideration of what the Holocaust was, what it meant, and what its legacy is and will be.</description>
+<authors>
+<author>
+<id>1049</id>
+<name>Elie Wiesel</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1255518412p5/1049.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1255518412p2/1049.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1049.Elie_Wiesel]]></link>
+<average_rating>4.27</average_rating>
+<ratings_count>716805</ratings_count>
+<text_reviews_count>24423</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">83896963</id>
+          <page type="integer">60</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Jan 04 05:10:09 -0800 2016</created_at>
+          <updated_at type="datetime">Mon Jan 04 05:10:09 -0800 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">11</ratings_count>
+          <percent type="integer">52</percent>
+          <work_id type="integer">265616</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">1151811774</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Mon Jan 04 07:19:54 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1144357453</id>
+          <old_status>to-read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Sat Jan 02 05:38:46 -0800 2016</updated_at>
+          <ratings_count>18</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1136729974</id>
+          <old_status>read</old_status>
+          <status>to-read</status>
+          <updated_at type="datetime">Wed Dec 30 07:47:38 -0800 2015</updated_at>
+          <ratings_count>5</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1136729967</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Wed Dec 30 07:47:38 -0800 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>40</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="favorites" exclusive="false" review_shelf_id="1177546785" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Jan 02 00:00:00 -0800 2016</started_at>
+  <read_at>Mon Jan 04 14:07:58 -0800 2016</read_at>
+  <date_added>Wed Dec 30 07:47:37 -0800 2015</date_added>
+  <date_updated>Mon Jan 04 07:45:59 -0800 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<i>Never shall I forget that night, the first night in camp, which has turned my life into one long night, seven times cursed and seven times sealed....Never shall I forget those moments which murdered my God and my soul and turned my dreams to dust. Never shall I forget these things, even if I am c...</i>]]>
+  </body>
+
+  
+
+  <comments_count>2</comments_count>
+    <comments start="1" end="2" total="2">
+        <comment>
+  <id>145421636</id>
+  <body><![CDATA[I completely agree. I knew what I was getting myself into, but I found that it took me so long to just read a page because of the haunting and heavy words. A very important book!]]></body>
+  
+  <user>
+    <id>28472435</id>
+    <name>Laura</name>
+    <display_name>Laura</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/28472435-laura]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1462948305p3/28472435.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1462948305p2/28472435.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 04 11:14:46 -0800 2016</created_at>
+  <updated_at>Mon Jan 04 11:14:46 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>160297231</id>
+  <body><![CDATA[Your review was alright because it explained the books nature in a short but to the point way. One criticization that i have for you is to write with more detail. This does not mean write a synopsis of the book but explain why it was such a good book or why you thought the things you did about the book. This is the correct way to review books with detail but no spiolers and make them stand out. To clarify, I am not saying your review was bad but it needs a little editing to be a more powerful one.]]></body>
+  
+  <user>
+    <id>62609370</id>
+    <name>Julian</name>
+    <display_name>Julian F.</display_name>
+
+    <location>Albuquerque, NM</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/62609370-julian-f]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Dec 16 18:00:55 -0800 2016</created_at>
+  <updated_at>Fri Dec 16 18:00:55 -0800 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1485927732]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1485927732]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

@@ -1,0 +1,807 @@
+status: 200
+x-request-id: PN6KN55HHWTGXMV9PAJT
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=826613140&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhgzMzEtMDMxMjU4Ni0yMzE1NTA0BjoGRVQ%3D--07e7d0b1bb15cf54c69481dbba2e31d05b518b76;
+ path=/; expires=Wed, 15 Apr 2037 17:02:03 -0000, locale=es;
+ path=/, _session_id2=326690ef10071b55cecb9b39089dfd96; path=/;
+ expires=Sat, 15 Apr 2017 23:02:03 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 35651
+server: Server
+x-runtime: 0.450592
+etag: W/"4172db44d4b5d362e96719a6ef268ed2"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 17:02:03 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>826613140</id>
+    
+  <user>
+    <id>27788046</id>
+    <name>Bookdragon Sean </name>
+    <display_name>Bookdragon Sean </display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27788046-bookdragon-sean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488703660p3/27788046.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488703660p2/27788046.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">18490</id>
+  <isbn>0141439475</isbn>
+  <isbn13>9780141439471</isbn13>
+  <text_reviews_count type="integer">12948</text_reviews_count>
+  <title>Frankenstein</title>
+  <title_without_series>Frankenstein</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1381512375m/18490.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1381512375s/18490.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18490.Frankenstein</link>
+  <num_pages>273</num_pages>
+  <format>Paperback</format>
+  <edition_information>Penguin Classics</edition_information>
+  <publisher>Penguin Books</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.75</average_rating>
+  <ratings_count>855238</ratings_count>
+  <description>&lt;b&gt;Mary Shelley&lt;/b&gt; began writing &lt;i&gt;Frankenstein&lt;/i&gt; when she was only eighteen. At once a Gothic thriller, a passionate romance, and a cautionary tale about the dangers of science, &lt;i&gt;Frankenstein&lt;/i&gt; tells the story of committed science student Victor Frankenstein. Obsessed with discovering the cause of generation and life and bestowing animation upon lifeless matter, Frankenstein assembles a human being from stolen body parts but; upon bringing it to life, he recoils in horror at the creature's hideousness. Tormented by isolation and loneliness, the once-innocent creature turns to evil and unleashes a campaign of murderous revenge against his creator, Frankenstein.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Frankenstein&lt;/i&gt;, an instant bestseller and an important ancestor of both the horror and science fiction genres, not only tells a terrifying story, but also raises profound, disturbing questions about the very nature of life and the place of humankind within the cosmos: What does it mean to be human? What responsibilities do we have to each other? How far can we go in tampering with Nature? In our age, filled with news of organ donation genetic engineering, and bio-terrorism, these questions are more relevant than ever.</description>
+<authors>
+<author>
+<id>11139</id>
+<name>Mary Wollstonecraft Shelley</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p5/11139.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p2/11139.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/11139.Mary_Wollstonecraft_Shelley]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>877806</ratings_count>
+<text_reviews_count>20767</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">285629685</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Fri Jan 17 15:27:41 -0800 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>186</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="5-star-reads" exclusive="false" review_shelf_id="1224695172" sortable="false" />
+    <shelf name="romantic-movement" exclusive="false" review_shelf_id="1486823021" sortable="false" />
+    <shelf name="classics" exclusive="false" review_shelf_id="718674782" sortable="false" />
+    <shelf name="shelley-s" exclusive="false" review_shelf_id="1414299601" sortable="false" />
+    <shelf name="sci-fi" exclusive="false" review_shelf_id="1079112196" sortable="false" />
+    <shelf name="favourites" exclusive="false" review_shelf_id="1599719709" sortable="false" />
+    <shelf name="horror-gothic" exclusive="false" review_shelf_id="1171303673" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Fri Mar 04 00:00:00 -0800 2016</read_at>
+  <date_added>Fri Jan 17 15:27:40 -0800 2014</date_added>
+  <date_updated>Thu Mar 16 15:19:46 -0700 2017</date_updated>
+  <read_count>3</read_count>
+  <body>
+      <![CDATA[Let’s have a party Victor. Let’s get together and celebrate all things Gothic, and dark, and wonderful. Let’s have it in an attic in an old house in the middle of a thunderstorm, and then afterwards let’s go to the graveyard with our shovels and our body bags. Sounds good doesn’t it Victor? We co...]]>
+  </body>
+
+  
+
+  <comments_count>29</comments_count>
+    <comments start="1" end="29" total="29">
+        <comment>
+  <id>129798335</id>
+  <body><![CDATA[Frankenstien is awesome and is also written by a woman. boo yah! Love to hear you enjoyed this, I saw the National Theatre play of this story in 2010 and it was just the right amount of creepy, gory, and heartfelt.<br /><br />I've yet to read Dracula but I want to love it as much as Frankenstien. :)]]></body>
+  
+  <user>
+    <id>21544960</id>
+    <name>Katie</name>
+    <display_name>Katie Brock</display_name>
+
+    <location>Axbridge, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/21544960-katie-brock]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483830262p3/21544960.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483830262p2/21544960.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jun 03 10:13:31 -0700 2015</created_at>
+  <updated_at>Wed Jun 03 10:13:31 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>129802226</id>
+  <body><![CDATA[Your brilliant review made me realize that the relationship between Victor and the Monster is just like that of George and Lennie in OF MICE AND MEN!]]></body>
+  
+  <user>
+    <id>5032322</id>
+    <name>Carol</name>
+    <display_name>Carol Storm</display_name>
+
+    <location>Troy, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5032322-carol-storm]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442507712p3/5032322.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442507712p2/5032322.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jun 03 11:38:46 -0700 2015</created_at>
+  <updated_at>Wed Jun 03 11:38:46 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>129810898</id>
+  <body><![CDATA[<i>Katie wrote: "Frankenstien is awesome and is also written by a woman. boo yah! Love to hear you enjoyed this, I saw the National Theatre play of this story in 2010 and it was just the right amount of creepy, gor..."</i><br /><br />I bet that was wonderful :)<br /><br />The telivison show <i>Penny Dreadful</i> has a great representation of Victor and his creature. That's where those pictures came from. <br /><br />If you liked this then you will almost definetely like Dracula. One thing that I found quite funny with Dracula is at the beginning the damsel in distress was actually a man who was rescued by his wife who had a “man’s brain.” It was quite an ironic twist of the roles!]]></body>
+  
+  <user>
+    <id>27788046</id>
+    <name>Bookdragon Sean </name>
+    <display_name>Bookdragon Sean </display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27788046-bookdragon-sean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488703660p3/27788046.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488703660p2/27788046.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jun 03 14:43:34 -0700 2015</created_at>
+  <updated_at>Wed Jun 03 14:43:34 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>129810988</id>
+  <body><![CDATA[<i>Carol wrote: "Your brilliant review made me realize that the relationship between Victor and the Monster is just like that of George and Lennie in OF MICE AND MEN!"</i><br /><br />mmmmmm... I've never looked at them quite like that, but I can see where your coming from. Lenny wasn't responsible for the murder he commited because he didn't know what he was doing. He should never have been left alone, which is also true with Frankenstein's monster. Interesting :)]]></body>
+  
+  <user>
+    <id>27788046</id>
+    <name>Bookdragon Sean </name>
+    <display_name>Bookdragon Sean </display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27788046-bookdragon-sean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488703660p3/27788046.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488703660p2/27788046.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jun 03 14:45:37 -0700 2015</created_at>
+  <updated_at>Wed Jun 03 14:45:37 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>129812585</id>
+  <body><![CDATA[Enjoyed this book and just read her father's Caleb Williams, excellent also.]]></body>
+  
+  <user>
+    <id>5431458</id>
+    <name>Henry</name>
+    <display_name>Henry Avila</display_name>
+
+    <location><![CDATA[San Diego, CA, The United States Minor Outlying Islands]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5431458-henry-avila]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1307597403p3/5431458.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1307597403p2/5431458.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jun 03 15:24:29 -0700 2015</created_at>
+  <updated_at>Wed Jun 03 15:24:29 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>129812888</id>
+  <body><![CDATA[Sean, it was. Benedict Cumberbatch made the creature child like which made the story horrific but also made you feel sorry for him.<br /><br />I never got into Penny Dreadful surprisingly. Too weird for me.<br /><br />I will definitely give it a go then!]]></body>
+  
+  <user>
+    <id>21544960</id>
+    <name>Katie</name>
+    <display_name>Katie Brock</display_name>
+
+    <location>Axbridge, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/21544960-katie-brock]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483830262p3/21544960.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483830262p2/21544960.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jun 03 15:31:19 -0700 2015</created_at>
+  <updated_at>Wed Jun 03 15:31:19 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>129833518</id>
+  <body><![CDATA[<i>Henry wrote: "Enjoyed this book and just read her father's Caleb Williams, excellent also."</i><br /><br />I've not heard of that, but I'll be sure to check it out :)]]></body>
+  
+  <user>
+    <id>27788046</id>
+    <name>Bookdragon Sean </name>
+    <display_name>Bookdragon Sean </display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27788046-bookdragon-sean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488703660p3/27788046.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488703660p2/27788046.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 04 00:31:52 -0700 2015</created_at>
+  <updated_at>Thu Jun 04 00:31:52 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>129833579</id>
+  <body><![CDATA[<i>Katie wrote: "Sean, it was. Benedict Cumberbatch made the creature child like which made the story horrific but also made you feel sorry for him.<br /><br />I never got into Penny Dreadful surprisingly. Too weird for me..."</i><br /><br />That guy can bring depth to any role! :)<br /><br />I suppose Vanessa’s madness was quite scary at first. <br /><br />I hope you like it as much as I did! :)]]></body>
+  
+  <user>
+    <id>27788046</id>
+    <name>Bookdragon Sean </name>
+    <display_name>Bookdragon Sean </display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27788046-bookdragon-sean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488703660p3/27788046.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488703660p2/27788046.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 04 00:34:14 -0700 2015</created_at>
+  <updated_at>Thu Jun 04 00:34:14 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>129843134</id>
+  <body><![CDATA[Great review. I loved this book so much!]]></body>
+  
+  <user>
+    <id>20646081</id>
+    <name>Chris</name>
+    <display_name>Chris</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/20646081-chris]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1433385043p3/20646081.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1433385043p2/20646081.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 04 07:47:25 -0700 2015</created_at>
+  <updated_at>Thu Jun 04 07:47:25 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>129853135</id>
+  <body><![CDATA[Yes, a great review. I'm revisiting this book at the moment. Read it first a long time ago now and I agree with you about Victor. Fascinating stuff! Mary was young when she wrote it. It is full of ideas and things that Shelley (her other half) and Byron talked about, books and poems that she read and her experiences too. It features quite a lot of interesting books also. Great atmosphere. A dramatic, passionate piece of work.]]></body>
+  
+  <user>
+    <id>23174792</id>
+    <name>Roisin</name>
+    <display_name>Roisin</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23174792-roisin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1377175545p3/23174792.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1377175545p2/23174792.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 04 11:27:47 -0700 2015</created_at>
+  <updated_at>Thu Jun 04 11:27:47 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>129883528</id>
+  <body><![CDATA[<i>Chris wrote: "Great review. I loved this book so much!"</i><br /><br />Thanks, I loved it too! ;)]]></body>
+  
+  <user>
+    <id>27788046</id>
+    <name>Bookdragon Sean </name>
+    <display_name>Bookdragon Sean </display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27788046-bookdragon-sean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488703660p3/27788046.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488703660p2/27788046.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 05 01:29:09 -0700 2015</created_at>
+  <updated_at>Fri Jun 05 01:29:09 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>129883556</id>
+  <body><![CDATA[<i>Roisin wrote: "Yes, a great review. I'm revisiting this book at the moment. Read it first a long time ago now and I agree with you about Victor. Fascinating stuff! Mary was young when she wrote it. It is full of ..."</i><br /><br />Yep, I couldn't agree more. It’s a shame I don’t get to study this one more deeply at university! :)]]></body>
+  
+  <user>
+    <id>27788046</id>
+    <name>Bookdragon Sean </name>
+    <display_name>Bookdragon Sean </display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27788046-bookdragon-sean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488703660p3/27788046.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488703660p2/27788046.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 05 01:30:46 -0700 2015</created_at>
+  <updated_at>Fri Jun 05 01:30:46 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>148479134</id>
+  <body><![CDATA[I assigned this for my SciFi-Fantasy Book Club and we went over time talking about it. There is so much depth to it. My favorite gothic literature.]]></body>
+  
+  <user>
+    <id>6871348</id>
+    <name>Krista</name>
+    <display_name>Krista Ivy</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6871348-krista-ivy]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 04 08:40:54 -0800 2016</created_at>
+  <updated_at>Fri Mar 04 08:40:54 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>148479295</id>
+  <body><![CDATA[What a flawless review...]]></body>
+  
+  <user>
+    <id>7665532</id>
+    <name>Fernando</name>
+    <display_name>Fernando</display_name>
+
+    <location>Argentina</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7665532-fernando]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1449917488p3/7665532.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1449917488p2/7665532.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 04 08:44:44 -0800 2016</created_at>
+  <updated_at>Fri Mar 04 08:44:44 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>148483900</id>
+  <body><![CDATA[Wow, your review makes me want to pick this one up again and give it another chance.. I'm not sure why I didn't like it as much, it certainly has the Gothic horror elements that I enjoy in the genre. Maybe it was the characters... I found most of them unlikable especially the main character . Victor Frankenstein rejected his own creation when it should've been the opposite. The "monster" simply wanted love and companionship and acceptance in the world. The part when Frankenstein backs out on the promise and promptly destroys the female creation meant to be a companion to the "monster" was so cruel... Now that I've read your review, I think I may give it another go and hopefully enjoy it more!]]></body>
+  
+  <user>
+    <id>12156259</id>
+    <name>Jessi</name>
+    <display_name>Jessi</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12156259-jessi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460510264p3/12156259.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460510264p2/12156259.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 04 10:35:38 -0800 2016</created_at>
+  <updated_at>Fri Mar 04 10:35:38 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>148511896</id>
+  <body><![CDATA[<i>Fernando wrote: "What a flawless review..."</i><br /><br />wow. thanks!]]></body>
+  
+  <user>
+    <id>27788046</id>
+    <name>Bookdragon Sean </name>
+    <display_name>Bookdragon Sean </display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27788046-bookdragon-sean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488703660p3/27788046.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488703660p2/27788046.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Mar 05 00:22:17 -0800 2016</created_at>
+  <updated_at>Sat Mar 05 00:22:17 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>148511903</id>
+  <body><![CDATA[<i>Krista wrote: "I assigned this for my SciFi-Fantasy Book Club and we went over time talking about it. There is so much depth to it. My favorite gothic literature."</i><br /><br />I know it's very dense.]]></body>
+  
+  <user>
+    <id>27788046</id>
+    <name>Bookdragon Sean </name>
+    <display_name>Bookdragon Sean </display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27788046-bookdragon-sean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488703660p3/27788046.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488703660p2/27788046.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Mar 05 00:22:39 -0800 2016</created_at>
+  <updated_at>Sat Mar 05 00:22:39 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>148511962</id>
+  <body><![CDATA[<i>Jessi wrote: "Wow, your review makes me want to pick this one up again and give it another chance.. I'm not sure why I didn't like it as much, it certainly has the Gothic horror elements that I enjoy in the genr..."</i><br /><br />They're all pretty much unlikable, but that's what makes the story. Victor tried to play at God and suffered the consequences. If anything the novel represents nineteen century fears of science. How far could it go? What horror and wonders could it achieve? What is humanity? I think there’s also a lot of social comment on the fickle nature of society. <br /><br />I’m glad my review what to make you try it again! :)]]></body>
+  
+  <user>
+    <id>27788046</id>
+    <name>Bookdragon Sean </name>
+    <display_name>Bookdragon Sean </display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27788046-bookdragon-sean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488703660p3/27788046.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488703660p2/27788046.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Mar 05 00:26:23 -0800 2016</created_at>
+  <updated_at>Sat Mar 05 00:26:23 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>148527027</id>
+  <body><![CDATA[On a side note, I do like that beautiful edition of Frankenstein! I might pick it up for myself. Barnes and Noble does really beautiful collections of the classics. Their leather bound editions are especially nice. Whenever they come out with a new edition I'm always tempted to pick it up even though I already have more than one copy of the same book...]]></body>
+  
+  <user>
+    <id>12156259</id>
+    <name>Jessi</name>
+    <display_name>Jessi</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12156259-jessi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460510264p3/12156259.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460510264p2/12156259.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Mar 05 10:04:16 -0800 2016</created_at>
+  <updated_at>Sat Mar 05 10:04:16 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>148538221</id>
+  <body><![CDATA[<i>Jessi wrote: "On a side note, I do like that beautiful edition of Frankenstein! I might pick it up for myself. Barnes and Noble does really beautiful collections of the classics. Their leather bound editions are..."</i><br /><br />It's so good! I have many, many of them. Look here's my lot: <a href="https://www.goodreads.com/review/show/855631527?book_show_action=false" rel="nofollow">barnes and noble leatherbound.</a><br /><br />Since posting that I now have two more....<br /><br />And I know that feeling, I have three copies of A Christmas Carol and two lots of Jane Austen's works.]]></body>
+  
+  <user>
+    <id>27788046</id>
+    <name>Bookdragon Sean </name>
+    <display_name>Bookdragon Sean </display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27788046-bookdragon-sean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488703660p3/27788046.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488703660p2/27788046.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Mar 05 15:22:29 -0800 2016</created_at>
+  <updated_at>Sat Mar 05 15:22:29 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>148559663</id>
+  <body><![CDATA[Great review!! I totally agree with you saying that alongside Dracula, it is the best representation of gothic literature. A great review really !!!]]></body>
+  
+  <user>
+    <id>38089732</id>
+    <name>Djamel</name>
+    <display_name>Djamel Bouchenaki</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/38089732-djamel-bouchenaki]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1454096031p3/38089732.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1454096031p2/38089732.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Mar 06 06:30:20 -0800 2016</created_at>
+  <updated_at>Sun Mar 06 06:30:20 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>148563399</id>
+  <body><![CDATA[Brilliant review, Sean! This is amazing. It's honestly baffling how much you can take from a book, and how well you communicate your insights. I just have to shelf(and read) this because you raised one hell of an interest in me :D]]></body>
+  
+  <user>
+    <id>23304719</id>
+    <name>Anne </name>
+    <display_name>Anne </display_name>
+
+    <location>Vinnitsa, Ukraine</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23304719-anne]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483298048p3/23304719.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483298048p2/23304719.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Mar 06 08:11:55 -0800 2016</created_at>
+  <updated_at>Sun Mar 06 08:11:55 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>148574665</id>
+  <body><![CDATA[<i>Djamel wrote: "Great review!! I totally agree with you saying that alongside Dracula, it is the best representation of gothic literature. A great review really !!!"</i><br /><br />Thanks, I had so much fun writting it. :)]]></body>
+  
+  <user>
+    <id>27788046</id>
+    <name>Bookdragon Sean </name>
+    <display_name>Bookdragon Sean </display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27788046-bookdragon-sean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488703660p3/27788046.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488703660p2/27788046.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Mar 06 12:47:19 -0800 2016</created_at>
+  <updated_at>Sun Mar 06 12:47:19 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>148575342</id>
+  <body><![CDATA[<i>Anne (Anneshka) wrote: "Brilliant review, Sean! This is amazing. It's honestly baffling how much you can take from a book, and how well you communicate your insights. I just have to shelf(and read) this because you raised..."</i><br /><br />I think I'm just a big nerd. I thought it'd be cool to direct the review at the protagonist for a change. <br /><br />I must say a lot of my feelings about this novel developed when I watched Penny Dreadful. The relationship established on screen between Victor and his Creature is powerful, thought-provoking and scary. It's the best portrayal of characters I've seen form this novel. (they’re the ones in the pics I used)<br /><br />And thanks, I love writing reviews. I’m glad they don’t come across as too weird. And I also read this three times, I think that helped .]]></body>
+  
+  <user>
+    <id>27788046</id>
+    <name>Bookdragon Sean </name>
+    <display_name>Bookdragon Sean </display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27788046-bookdragon-sean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488703660p3/27788046.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488703660p2/27788046.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Mar 06 13:03:05 -0800 2016</created_at>
+  <updated_at>Sun Mar 06 13:03:05 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>148578672</id>
+  <body><![CDATA[<i>Bookworm Sean wrote: "Anne (Anneshka) wrote: "Brilliant review, Sean! This is amazing. It's honestly baffling how much you can take from a book, and how well you communicate your insights. I just have to shelf(and read)..."</i><br /><br />You read it three times already?! Woah. You definitely are a nerd ⬅ meant in the coolest way possible. And I think I've heard about Penny Dreadful before! Somewhere... Somewhere... I'm sure I have. I'm really interested in watching the series. I think if it's such a good representation of the book, then watching it before I read Frankenstein won't be such a terrible move. I usually prefer to read books before watching their movie adaptations. It's hmm... Safer and more interesting that way. Gahhh I'm already mentally preparing for the blood. I'm a bit ewwy about blood if it isn't in a controlled environment. Like a surgical room? :D<br /><br />I hope you keep writing reviews, they're so very helpful. **thumbies**]]></body>
+  
+  <user>
+    <id>23304719</id>
+    <name>Anne </name>
+    <display_name>Anne </display_name>
+
+    <location>Vinnitsa, Ukraine</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23304719-anne]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483298048p3/23304719.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483298048p2/23304719.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Mar 06 14:12:44 -0800 2016</created_at>
+  <updated_at>Sun Mar 06 14:12:44 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>148653604</id>
+  <body><![CDATA[<i>Anne (Anneshka) wrote: "Bookworm Sean wrote: "Anne (Anneshka) wrote: "Brilliant review, Sean! This is amazing. It's honestly baffling how much you can take from a book, and how well you communicate your insights. I just h..."</i><br /><br /><br />I shall keep writing reviews. I think I'm developing an addiction, and sometimes it helps to make me realise exactly how I feel about a book. It's a good channel for thoughts. I’m glad they’re helpful. ;)<br /><br />And I read it when I was fourteen, once last year and again last week.]]></body>
+  
+  <user>
+    <id>27788046</id>
+    <name>Bookdragon Sean </name>
+    <display_name>Bookdragon Sean </display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27788046-bookdragon-sean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488703660p3/27788046.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488703660p2/27788046.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 08 05:04:02 -0800 2016</created_at>
+  <updated_at>Tue Mar 08 05:04:02 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>150562411</id>
+  <body><![CDATA[This year in accelerated L.A we read this book and i found out that the book is nothing like the misconceptions that the public knows it for. We read the 1818 edition. Right now we are reading both Much ado about nothing and Macbeth so wish me luck.]]></body>
+  
+  <user>
+    <id>50518603</id>
+    <name>Reviewer Nick</name>
+    <display_name>Reviewer Nick</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/50518603-reviewer-nick]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Apr 19 14:40:05 -0700 2016</created_at>
+  <updated_at>Tue Apr 19 14:40:05 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159257915</id>
+  <body><![CDATA[Great review! I have the same beautiful copy of Frankenstein. It's one of my favorite books. :) I agree with you about Dracula and epistolary novels.]]></body>
+  
+  <user>
+    <id>25353295</id>
+    <name>Carmen</name>
+    <display_name>Carmen</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25353295-carmen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1412617445p3/25353295.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1412617445p2/25353295.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 18 09:03:57 -0800 2016</created_at>
+  <updated_at>Fri Nov 18 09:03:57 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159530709</id>
+  <body><![CDATA[<i>Carmen wrote: "Great review! I have the same beautiful copy of Frankenstein. It's one of my favorite books. :) I agree with you about Dracula and epistolary novels."</i><br /><br />Thanks, I just love ❤ it]]></body>
+  
+  <user>
+    <id>27788046</id>
+    <name>Bookdragon Sean </name>
+    <display_name>Bookdragon Sean </display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27788046-bookdragon-sean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488703660p3/27788046.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488703660p2/27788046.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Nov 26 00:37:36 -0800 2016</created_at>
+  <updated_at>Sat Nov 26 00:37:36 -0800 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/826613140]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/826613140]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

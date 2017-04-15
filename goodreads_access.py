@@ -33,6 +33,15 @@ def get_info_usuario (reviews, client, genero):
         t.sleep(1)
     return users
 
+ '''Guardar los usuarios en un fichero formato igraph'''   
+def guardar_en_fichero(lista_usuarios):
+    fichero = open('grafo.txt','a')
+    for user in lista_usuarios:
+        fichero.write('node [ \n')
+        fichero.write('id '+user['id_user']+' \n')
+        fichero.write('nombre_usuario '+user['nombre']+' \n')
+        fichero.write('] \n')
+    fichero.close()
 
 #Listas de ids de reviews
 r_arte = set(get_id_reviews('./crawler_reviews/reviews_arte.json'))
@@ -54,24 +63,67 @@ r_scifi = set(get_id_reviews('./crawler_reviews/reviews_scifi.json'))
 r_suspense = set(get_id_reviews('./crawler_reviews/reviews_suspense.json'))
 r_terror = set(get_id_reviews('./crawler_reviews/reviews_terror.json'))
 
-#Listas con información de usuarios
+#Listas con información de usuarios + guardar en fichero
 
-usuarios = []
-usuarios += get_info_usuario(r_arte,client,'arte')
-usuarios += get_info_usuario(r_adolescente,client,'adolescente')
-usuarios += get_info_usuario(r_clasicos,client,'clasicos')
-usuarios += get_info_usuario(r_crimen,client,'crimen')
-usuarios += get_info_usuario(r_espiritualidad,client,'espiritualidad')
-usuarios += get_info_usuario(r_fantasia,client,'fantasia')
-usuarios += get_info_usuario(r_ficcion,client,'ficcion')
-usuarios += get_info_usuario(r_historico,client,'historico')
-usuarios += get_info_usuario(r_infantil,client,'infantil')
-usuarios += get_info_usuario(r_lgtb,client,'lgtb')
-usuarios += get_info_usuario(r_manga,client,'manga')
-usuarios += get_info_usuario(r_misterio,client,'misterio')
-usuarios += get_info_usuario(r_musica,client,'musica')
-usuarios += get_info_usuario(r_poesia,client,'poesia')
-usuarios += get_info_usuario(r_romance,client,'romance')
-usuarios += get_info_usuario(r_scifi,client,'ciencia ficcion')
-usuarios += get_info_usuario(r_suspense,client,'suspense')
-usuarios += get_info_usuario(r_terror,client,'terror')
+usuarios_arte = get_info_usuario(r_arte,client,'arte')
+guardar_en_fichero(usuarios_arte)
+
+usuarios_adolescente = get_info_usuario(r_adolescente,client,'adolescente')
+guardar_en_fichero(usuarios_adolescente)
+
+usuarios_clasicos = get_info_usuario(r_clasicos,client,'clasicos')
+guardar_en_fichero(usuarios_clasicos)
+
+usuarios_crimen = get_info_usuario(r_crimen,client,'crimen')
+guardar_en_fichero(usuarios_crimen)
+
+usuarios_espiritualidad = get_info_usuario(r_espiritualidad,client,'espiritualidad')
+guardar_en_fichero(usuarios_espiritualidad)
+
+usuarios_fantasia = get_info_usuario(r_fantasia,client,'fantasia')
+guardar_en_fichero(usuarios_fantasia)
+
+usuarios_ficcion = get_info_usuario(r_ficcion,client,'ficcion')
+guardar_en_fichero(usuarios_ficcion)
+
+usuarios_historico = get_info_usuario(r_historico,client,'historico')
+guardar_en_fichero(usuarios_historico)
+
+usuarios_infantil = get_info_usuario(r_infantil,client,'infantil')
+guardar_en_fichero(usuarios_infantil)
+
+usuarios_lgtb = get_info_usuario(r_lgtb,client,'lgtb')
+guardar_en_fichero(usuarios_lgtb)
+
+usuarios_manga = get_info_usuario(r_manga,client,'manga')
+guardar_en_fichero(usuarios_manga)
+
+usuarios_misterio = get_info_usuario(r_misterio,client,'misterio')
+guardar_en_fichero(usuarios_misterio)
+
+usuarios_musica = get_info_usuario(r_musica,client,'musica')
+guardar_en_fichero(usuarios_musica)
+
+usuarios_poesia = get_info_usuario(r_poesia,client,'poesia')
+guardar_en_fichero(usuarios_poesia)
+
+usuarios_romance = get_info_usuario(r_romance,client,'romance')
+guardar_en_fichero(usuarios_romance)
+
+usuarios_scifi = get_info_usuario(r_scifi,client,'ciencia ficcion')
+guardar_en_fichero(usuarios_scifi)
+
+usuarios_suspense = get_info_usuario(r_suspense,client,'suspense')
+guardar_en_fichero(usuarios_suspense)
+
+usuarios_terror = get_info_usuario(r_terror,client,'terror')
+guardar_en_fichero(usuarios_terror)
+
+
+
+
+
+
+
+
+

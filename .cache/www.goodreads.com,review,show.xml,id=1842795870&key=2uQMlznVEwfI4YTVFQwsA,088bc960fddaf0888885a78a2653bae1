@@ -1,0 +1,189 @@
+status: 200
+x-request-id: D44CM09SCW5740R5J3ZK
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=1842795870&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhgyNzYtMzM4NTM3Mi00Mjc1Mjc4BjoGRVQ%3D--32abd365352625a381ab704a082d849e69518366;
+ path=/; expires=Wed, 15 Apr 2037 15:15:55 -0000, locale=es;
+ path=/, _session_id2=90ef017ca43612059c4f4a48df29f7e1; path=/;
+ expires=Sat, 15 Apr 2017 21:15:56 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 6636
+server: Server
+x-runtime: 0.344146
+etag: W/"0280906b0be728626471e263f315e7ef"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:15:56 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1842795870</id>
+    
+  <user>
+    <id>23381142</id>
+    <name>Natalie</name>
+    <display_name>Natalie</display_name>
+
+    <location>Belgium</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23381142-natalie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1453108592p3/23381142.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1453108592p2/23381142.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">18144590</id>
+  <isbn>0062315005</isbn>
+  <isbn13>9780062315007</isbn13>
+  <text_reviews_count type="integer">511</text_reviews_count>
+  <title>The Alchemist</title>
+  <title_without_series>The Alchemist</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1466865542m/18144590.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1466865542s/18144590.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18144590-the-alchemist</link>
+  <num_pages>182</num_pages>
+  <format>Paperback</format>
+  <edition_information>25th Anniversary</edition_information>
+  <publisher>HarperOne</publisher>
+  <publication_day>15</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.81</average_rating>
+  <ratings_count>1333089</ratings_count>
+  <description>Paulo Coelho's enchanting novel has inspired a devoted following around the world. This story, dazzling in its powerful simplicity and soul-stirring wisdom, is about an Andalusian shepherd boy named Santiago who travels from his homeland in Spain to the Egyptian desert in search of a treasure buried near the Pyramids. Along the way he meets a Gypsy woman, a man who calls himself king, and an alchemist, all of whom point Santiago in the direction of his quest. No one knows what the treasure is, or if Santiago will be able to surmount the obstacles in his path. But what starts out as a journey to find worldly goods turns into a discovery of the treasure found within. Lush, evocative, and deeply humane, the story of Santiago is an eternal testament to the transforming power of our dreams and the importance of listening to our hearts.</description>
+<authors>
+<author>
+<id>566</id>
+<name>Paulo Coelho</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201840056p5/566.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201840056p2/566.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/566.Paulo_Coelho]]></link>
+<average_rating>3.72</average_rating>
+<ratings_count>2103679</ratings_count>
+<text_reviews_count>95507</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1676879473</id>
+          <old_status>to-read</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sat Jan 21 04:20:32 -0800 2017</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1620159981</id>
+          <old_status></old_status>
+          <status>to-read</status>
+          <updated_at type="datetime">Sun Dec 18 08:33:47 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>4</rating>
+  <votes>80</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="diverse-reads" exclusive="false" review_shelf_id="1544455247" sortable="false" />
+    <shelf name="audiobook" exclusive="false" review_shelf_id="1544455252" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Jan 20 00:00:00 -0800 2017</started_at>
+  <read_at>Sat Jan 21 00:00:00 -0800 2017</read_at>
+  <date_added>Sun Dec 18 08:33:46 -0800 2016</date_added>
+  <date_updated>Wed Feb 22 04:51:29 -0800 2017</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I had quite high expectations going into <b>The Alchemist</b>, granted that it had been my mom's favorite read about a decade ago when she picked it up. But upon having reached the last page myself, I was unclear on whether the book had made a positive impression on me or not. The one thing I remember f...]]>
+  </body>
+
+  
+
+  <comments_count>2</comments_count>
+    <comments start="1" end="2" total="2">
+        <comment>
+  <id>162066290</id>
+  <body><![CDATA[I should read it soon)]]></body>
+  
+  <user>
+    <id>36595208</id>
+    <name>Nərmin</name>
+    <display_name>Nərmin</display_name>
+
+    <location><![CDATA[Azerbaijan-Sumgait, Azerbaijan]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/36595208-n-rmin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483594953p3/36595208.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483594953p2/36595208.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 27 21:26:43 -0800 2017</created_at>
+  <updated_at>Fri Jan 27 21:26:43 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>162066521</id>
+  <body><![CDATA[<i>Nərmin wrote: "I should read it soon)"</i><br /><br />I hope you end up enjoying it too!! :)]]></body>
+  
+  <user>
+    <id>23381142</id>
+    <name>Natalie</name>
+    <display_name>Natalie</display_name>
+
+    <location>Belgium</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23381142-natalie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1453108592p3/23381142.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1453108592p2/23381142.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 27 21:39:54 -0800 2017</created_at>
+  <updated_at>Fri Jan 27 21:39:54 -0800 2017</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1842795870]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1842795870]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

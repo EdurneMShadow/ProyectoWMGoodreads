@@ -1,0 +1,200 @@
+status: 200
+x-request-id: AZJMZYEN6HDBA4PJ3GG9
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=1764938373&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhgwMjYtODAzMTU2My02MTk3NTMyBjoGRVQ%3D--5a2ffc75a458722c0116b308502c765597082e6e;
+ path=/; expires=Wed, 15 Apr 2037 17:02:39 -0000, locale=es;
+ path=/, _session_id2=33da54e8b589bb1450ae4724ceae2430; path=/;
+ expires=Sat, 15 Apr 2017 23:02:39 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 7815
+server: Server
+x-runtime: 0.292620
+etag: W/"5f5a6293da2670ab5dbfbdf586eadbe8"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 17:02:39 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1764938373</id>
+    
+  <user>
+    <id>8161922</id>
+    <name>Frankie</name>
+    <display_name>Frankie</display_name>
+
+    <location>Scotland, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8161922-frankie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488362797p3/8161922.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488362797p2/8161922.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">15773093</id>
+  <isbn nil="true"/>
+  <isbn13>9781400176342</isbn13>
+  <text_reviews_count type="integer">22</text_reviews_count>
+  <title>Frankenstein, or The Modern Prometheus</title>
+  <title_without_series>Frankenstein, or The Modern Prometheus</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1346427581m/15773093.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1346427581s/15773093.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/15773093-frankenstein-or-the-modern-prometheus</link>
+  <num_pages></num_pages>
+  <format>Audiobook</format>
+  <edition_information/>
+  <publisher>Tantor Media</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.75</average_rating>
+  <ratings_count>855238</ratings_count>
+  <description>Mary Shelley began writing Frankenstein when she was only eighteen. At once a Gothic thriller, a passionate romance, and a cautionary tale about the dangers of science, Frankenstein tells the story of committed science student Victor Frankenstein. Obsessed with discovering "the cause of generation and life" and "bestowing animation upon lifeless matter," Frankenstein assembles a human being from stolen body parts. However, upon bringing it to life, he recoils in horror at the creature's hideousness. Tormented by isolation and loneliness, the once-innocent creature turns to evil and unleashes a campaign of murderous revenge against his creator, Frankenstein.&lt;br /&gt;&lt;br /&gt;Frankenstein, an instant bestseller and an important ancestor of both the horror and science fiction genres, not only tells a terrifying story but also raises profound, disturbing questions about the very nature of life and the place of humankind within the cosmos: What does it mean to be human? What responsibilities do we have to each other? And how far can we go in tampering with Nature?</description>
+<authors>
+<author>
+<id>11139</id>
+<name>Mary Wollstonecraft Shelley</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p5/11139.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p2/11139.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/11139.Mary_Wollstonecraft_Shelley]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>877806</ratings_count>
+<text_reviews_count>20767</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1540550673</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Tue Oct 11 07:12:07 -0700 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1539241555</id>
+          <old_status>read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Mon Oct 10 03:44:50 -0700 2016</updated_at>
+          <ratings_count>22</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1518911711</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Thu Sep 22 05:59:48 -0700 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>4</rating>
+  <votes>97</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="2016" exclusive="false" review_shelf_id="1445210751" sortable="false" />
+    <shelf name="germany-poland" exclusive="false" review_shelf_id="1445211288" sortable="false" />
+    <shelf name="seen-movie" exclusive="false" review_shelf_id="1445211510" sortable="false" />
+    <shelf name="switzerland" exclusive="false" review_shelf_id="1445211476" sortable="false" />
+    <shelf name="audiobook" exclusive="false" review_shelf_id="1445210777" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Oct 10 00:00:00 -0700 2016</started_at>
+  <read_at>Tue Oct 11 16:31:31 -0700 2016</read_at>
+  <date_added>Thu Sep 22 05:59:48 -0700 2016</date_added>
+  <date_updated>Tue Oct 11 07:14:00 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I read this years ago and Loved it! <br />Great story and will need to read again soon. <br /><br />2016 - Listened to the audiobook version and loved it. Poor Monster. Victor is a twat. ]]>
+  </body>
+
+  
+
+  <comments_count>2</comments_count>
+    <comments start="1" end="2" total="2">
+        <comment>
+  <id>157127950</id>
+  <body><![CDATA[Love this great classic! Just don't go looking at the reviews...it'll make you sick!! I'm so surprised at all the 1&amp;2 star uneducated reviews and remarks! Awesome book!!]]></body>
+  
+  <user>
+    <id>33269229</id>
+    <name>Paul</name>
+    <display_name>Paul Nash</display_name>
+
+    <location>Hixson, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/33269229-paul-nash]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1412105187p3/33269229.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1412105187p2/33269229.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Sep 22 06:16:44 -0700 2016</created_at>
+  <updated_at>Thu Sep 22 06:16:44 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157131189</id>
+  <body><![CDATA[Such a great character piece. By far one of the best. I would also suggest reading The Portrait of Dorian Gray if you haven't already. That's another great character piece that kicks you right in the feels. At least in my opinion.]]></body>
+  
+  <user>
+    <id>2616607</id>
+    <name>Nikki &quot;The Crazie Betty&quot; V.</name>
+    <display_name>Nikki &quot;The Crazie Betty&quot; V.</display_name>
+
+    <location>Salt Lake City, UT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2616607-nikki-the-crazie-betty-v]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1475781521p3/2616607.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1475781521p2/2616607.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Sep 22 07:51:22 -0700 2016</created_at>
+  <updated_at>Thu Sep 22 07:51:22 -0700 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1764938373]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1764938373]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

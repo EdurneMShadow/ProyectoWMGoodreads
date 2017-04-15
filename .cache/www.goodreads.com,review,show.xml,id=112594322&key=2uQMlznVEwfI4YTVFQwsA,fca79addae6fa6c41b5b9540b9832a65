@@ -1,0 +1,619 @@
+status: 200
+x-request-id: W8DH7EQ6S6WHW95X8GR7
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=112594322&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhgzNjctNzAwODQ1MC00NTM5MTQ2BjoGRVQ%3D--c1c4ca3e7cb60ae9698fda75319cfdc309cf977a;
+ path=/; expires=Wed, 15 Apr 2037 16:03:08 -0000, locale=es;
+ path=/, _session_id2=e058773ba5c731760ea0103487212946; path=/;
+ expires=Sat, 15 Apr 2017 22:03:08 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 22302
+server: Server
+x-runtime: 0.503628
+etag: W/"d701a513849d8f255d59fe29932d1aac"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 16:03:08 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>112594322</id>
+    
+  <user>
+    <id>3270188</id>
+    <name>Kat Kennedy</name>
+    <display_name>Kat Kennedy</display_name>
+
+    <location>Sydney, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3270188-kat-kennedy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1471977536p3/3270188.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1471977536p2/3270188.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">4374400</id>
+  <isbn>0525421033</isbn>
+  <isbn13>9780525421030</isbn13>
+  <text_reviews_count type="integer">26111</text_reviews_count>
+  <title>If I Stay (If I Stay, #1)</title>
+  <title_without_series>If I Stay</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1347462970m/4374400.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1347462970s/4374400.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/4374400-if-i-stay</link>
+  <num_pages>201</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.96</average_rating>
+  <ratings_count>544896</ratings_count>
+  <description>&lt;i&gt;Librarian note: an alternate cover for this edition can be found &lt;a href="https://www.goodreads.com/book/show/21570677-if-i-stay" rel="nofollow"&gt;here&lt;/a&gt;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Just listen, Adam says with a voice that sounds like shrapnel.&lt;br /&gt;&lt;br /&gt;I open my eyes wide now.&lt;br /&gt;I sit up as much as I can.&lt;br /&gt;And I listen.&lt;br /&gt;&lt;br /&gt;Stay, he says.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Choices. Seventeen-year-old Mia is faced with some tough ones: Stay true to her first love—music—even if it means losing her boyfriend and leaving her family and friends behind?&lt;br /&gt;&lt;br /&gt;Then one February morning Mia goes for a drive with her family, and in an instant, everything changes. Suddenly, all the choices are gone, except one. And it's the only one that matters.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;If I Stay&lt;/i&gt; is a heartachingly beautiful book about the power of love, the true meaning of family, and the choices we all make.</description>
+<authors>
+<author>
+<id>295178</id>
+<name>Gayle Forman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1472502468p5/295178.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1472502468p2/295178.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/295178.Gayle_Forman]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>958448</ratings_count>
+<text_reviews_count>78529</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1215728385</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sat Jan 30 20:44:22 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>240</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="to-ya-or-not-to-ya" exclusive="false" review_shelf_id="171271602" sortable="false" />
+    <shelf name="leaves-awesomeness-behind" exclusive="false" review_shelf_id="171271570" sortable="false" />
+    <shelf name="kat-s-book-reviews" exclusive="false" review_shelf_id="171271558" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Jan 11 00:00:00 -0800 2012</started_at>
+  <read_at>Wed Mar 28 16:47:16 -0700 2012</read_at>
+  <date_added>Tue Jul 20 15:29:06 -0700 2010</date_added>
+  <date_updated>Tue Dec 24 19:56:09 -0800 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I played the violin for five years and the viola for three. It is the piano that only lasted for one year. My older brother and I began our lessons together when I was nine. <br /><br />My brother was a smart kid, but he didn't know it then. It didn't help that his little sister was extremely competitive, pr...]]>
+  </body>
+
+  
+
+  <comments_count>21</comments_count>
+    <comments start="1" end="21" total="21">
+        <comment>
+  <id>43211067</id>
+  <body><![CDATA[I hadn't cried so much over a book in ages. My heart was broken, and my eyes sore at the end of it...]]></body>
+  
+  <user>
+    <id>3651677</id>
+    <name><![CDATA[Lexxie (un)Conventional Bookviews]]></name>
+    <display_name><![CDATA[Lexxie (un)Conventional Bookviews]]></display_name>
+
+    <location>Europe, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3651677-lexxie-un-conventional-bookviews]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478007384p3/3651677.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478007384p2/3651677.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 11 07:11:07 -0800 2012</created_at>
+  <updated_at>Wed Jan 11 07:11:07 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>43212162</id>
+  <body><![CDATA[For this comment alone, I may have to move this up on my to-read shelf.]]></body>
+  
+  <user>
+    <id>3394076</id>
+    <name>Kimberly</name>
+    <display_name>Kimberly</display_name>
+
+    <location>Indianapolis, IN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3394076-kimberly]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1387571209p3/3394076.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1387571209p2/3394076.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 11 07:41:01 -0800 2012</created_at>
+  <updated_at>Wed Jan 11 07:41:01 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>43213003</id>
+  <body><![CDATA[This is one of the few contemporaries that made me genuinely sob.]]></body>
+  
+  <user>
+    <id>5889376</id>
+    <name>Lexie</name>
+    <display_name>Lexie</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5889376-lexie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1339363563p3/5889376.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1339363563p2/5889376.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 11 08:02:47 -0800 2012</created_at>
+  <updated_at>Wed Jan 11 08:02:47 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>43213160</id>
+  <body><![CDATA[This book was perfect! I couldn't stop crying...]]></body>
+  
+  <user>
+    <id>5122615</id>
+    <name>Bia</name>
+    <display_name>Bia</display_name>
+
+    <location>Dumont, SP, Brazil</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5122615-bia]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1327503469p3/5122615.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1327503469p2/5122615.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 11 08:06:55 -0800 2012</created_at>
+  <updated_at>Wed Jan 11 08:06:55 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>43213657</id>
+  <body><![CDATA[And that is exactly why I keep avoiding this book. I'm the kind of crier that can come into the last three heartwarming minuets of a movie and start to tear up even though I have no idea what's actually going on. I can't imagine what kind of mess I'd be!]]></body>
+  
+  <user>
+    <id>3235169</id>
+    <name>Jessica-Robyn</name>
+    <display_name>Jessica-Robyn</display_name>
+
+    <location>Kelowna, BC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3235169-jessica-robyn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1334750230p3/3235169.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1334750230p2/3235169.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 11 08:21:06 -0800 2012</created_at>
+  <updated_at>Wed Jan 11 08:21:06 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>43220287</id>
+  <body><![CDATA[I bawled too, so join to club. I loved this book. I can't wait to read your review.]]></body>
+  
+  <user>
+    <id>3902029</id>
+    <name>Barbara (VampAngel)</name>
+    <display_name>Barbara (VampAngel)</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3902029-barbara-vampangel]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1370404423p3/3902029.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1370404423p2/3902029.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 11 10:54:33 -0800 2012</created_at>
+  <updated_at>Wed Jan 11 10:54:33 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>43226742</id>
+  <body><![CDATA[Yeah this one broke my heart, man! (HUGS)]]></body>
+  
+  <user>
+    <id>4795605</id>
+    <name>Stephanie </name>
+    <display_name>Stephanie </display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4795605-stephanie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1339305204p3/4795605.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1339305204p2/4795605.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 11 13:02:34 -0800 2012</created_at>
+  <updated_at>Wed Jan 11 13:02:34 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>43229312</id>
+  <body><![CDATA[We all cried. How could you not. <br />It's one of the only books where I was completely torn on what I wanted for the character in the end. I'm just glad I didn't have to chose for her.<br />It was beautiful.]]></body>
+  
+  <user>
+    <id>7222124</id>
+    <name>Kim</name>
+    <display_name>Kim</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7222124-kim]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1342557268p3/7222124.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1342557268p2/7222124.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 11 13:43:53 -0800 2012</created_at>
+  <updated_at>Wed Jan 11 13:43:53 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>43239529</id>
+  <body><![CDATA[Unfortunately I read <a href="https://www.goodreads.com/book/show/6482837.Before_I_Fall" title="Before I Fall by Lauren Oliver" rel="nofollow">Before I Fall</a> just before I read this book, and BIF had such a huge emotional impact on me that whatever happened to you guys reading this novel just didn't happen to me.]]></body>
+  
+  <user>
+    <id>4973484</id>
+    <name>Lissa</name>
+    <display_name>Lissa</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4973484-lissa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442600840p3/4973484.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442600840p2/4973484.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 11 16:12:13 -0800 2012</created_at>
+  <updated_at>Wed Jan 11 16:12:13 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>43239677</id>
+  <body><![CDATA[I cried so hard when Mia's grandpa told her that it was okay if she wanted to die. I'm not sure why, but it broke my heart.]]></body>
+  
+  <user>
+    <id>5410237</id>
+    <name>Shelby</name>
+    <display_name>Shelby</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5410237-shelby]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1306470995p3/5410237.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1306470995p2/5410237.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 11 16:14:41 -0800 2012</created_at>
+  <updated_at>Wed Jan 11 16:14:41 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>43239954</id>
+  <body><![CDATA[I can understand that, Lissa. They're both very powerful novels and I can see that reading one after the other would drain you.]]></body>
+  
+  <user>
+    <id>3270188</id>
+    <name>Kat Kennedy</name>
+    <display_name>Kat Kennedy</display_name>
+
+    <location>Sydney, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3270188-kat-kennedy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1471977536p3/3270188.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1471977536p2/3270188.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 11 16:19:34 -0800 2012</created_at>
+  <updated_at>Wed Jan 11 16:19:34 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>43240004</id>
+  <body><![CDATA[Oh Shelby, me too, me too.]]></body>
+  
+  <user>
+    <id>3902029</id>
+    <name>Barbara (VampAngel)</name>
+    <display_name>Barbara (VampAngel)</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3902029-barbara-vampangel]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1370404423p3/3902029.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1370404423p2/3902029.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 11 16:20:33 -0800 2012</created_at>
+  <updated_at>Wed Jan 11 16:20:33 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>43240608</id>
+  <body><![CDATA[Great review Kat! In my opinion, the sequel is even better :)]]></body>
+  
+  <user>
+    <id>4622890</id>
+    <name>Emily May</name>
+    <display_name>Emily May</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4622890-emily-may]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1402215455p3/4622890.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1402215455p2/4622890.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 11 16:30:49 -0800 2012</created_at>
+  <updated_at>Wed Jan 11 16:30:49 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>50795058</id>
+  <body><![CDATA[I always wanted to be great at a musical instrument. But I also never stayed with anything long enough to be great. :-/]]></body>
+  
+  <user>
+    <id>3477668</id>
+    <name>✌ Kaye ♡</name>
+    <display_name>✌ Kaye ♡</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3477668-kaye]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1458244676p3/3477668.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1458244676p2/3477668.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 20 12:25:04 -0700 2012</created_at>
+  <updated_at>Sun May 20 12:25:04 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>63338981</id>
+  <body><![CDATA[i have played the violin for thirteen to fifteen years on and off and this book made me want to start again. lovely story.]]></body>
+  
+  <user>
+    <id>11532354</id>
+    <name>Ashley</name>
+    <display_name>Ashley</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11532354-ashley]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1344006601p3/11532354.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1344006601p2/11532354.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 11 09:42:48 -0800 2012</created_at>
+  <updated_at>Tue Dec 11 09:42:48 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>102762977</id>
+  <body><![CDATA[what you wrote was beautiful!]]></body>
+  
+  <user>
+    <id>16122102</id>
+    <name>Jasmine</name>
+    <display_name>Jasmine</display_name>
+
+    <location><![CDATA[London, H9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16122102-jasmine]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 22 12:31:25 -0700 2014</created_at>
+  <updated_at>Tue Jul 22 12:31:25 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>108022306</id>
+  <body><![CDATA[If you like this book, check out my If I Stay blog! <a target="_blank" href="http://kam3bloggers.blogspot.com" rel="nofollow">http://kam3bloggers.blogspot.com</a><br />In my english class, we are doing this for a lit-circle project so check it out!]]></body>
+  
+  <user>
+    <id>36105021</id>
+    <name>Marissa</name>
+    <display_name>Marissa Telles</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/36105021-marissa-telles]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1413747470p3/36105021.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1413747470p2/36105021.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Oct 19 12:44:55 -0700 2014</created_at>
+  <updated_at>Sun Oct 19 12:44:55 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109933354</id>
+  <body><![CDATA[Wow, I cannot agree more with everything you wrote! As a cellist, I really do understand what you said about the importance of playing with soul, and I've been fortunate enough to have a teacher that really encourages me to play with all my heart. And this applies so perfectly to describing this book, as it isn't necessarily the best technically written but the amount of raw emotional power this book conveys more than makes up for it all.]]></body>
+  
+  <user>
+    <id>7623245</id>
+    <name>Rowan</name>
+    <display_name>Rowan</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7623245-rowan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480189297p3/7623245.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480189297p2/7623245.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 24 14:30:13 -0800 2014</created_at>
+  <updated_at>Mon Nov 24 14:30:13 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>110299460</id>
+  <body><![CDATA[Wow, thats so deep.]]></body>
+  
+  <user>
+    <id>29942076</id>
+    <name>Ayesha </name>
+    <display_name>Ayesha </display_name>
+
+    <location>Jeddah, Saudi Arabia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/29942076-ayesha]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1429481006p3/29942076.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1429481006p2/29942076.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Dec 01 11:27:38 -0800 2014</created_at>
+  <updated_at>Mon Dec 01 11:27:38 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>142949328</id>
+  <body><![CDATA[I played the violin when I was little, too, I can relate to EVERYTHING you said... This book made me cry so much and it has a huge place in my heart.<br /><br />Good Review.]]></body>
+  
+  <user>
+    <id>47847208</id>
+    <name>Samira</name>
+    <display_name>Samira</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/47847208-samira]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1444662019p3/47847208.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1444662019p2/47847208.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 17 08:08:55 -0800 2015</created_at>
+  <updated_at>Tue Nov 17 08:08:55 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>144132633</id>
+  <body><![CDATA[Kat I identify a lot with the excerpt from the book you quoted because I have a little brother too, and this book made me want to run and hug him.]]></body>
+  
+  <user>
+    <id>47847242</id>
+    <name>Carolina</name>
+    <display_name>Carolina</display_name>
+
+    <location>Tampico, 28, Mexico</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/47847242-carolina]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Dec 09 17:40:41 -0800 2015</created_at>
+  <updated_at>Wed Dec 09 17:40:41 -0800 2015</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/112594322]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/112594322]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

@@ -1,0 +1,702 @@
+status: 200
+x-request-id: XH16Q5GKTAF6FTX34Z85
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=16111782&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhg2OTItMzY1ODUyMy00NzE0ODIzBjoGRVQ%3D--5c840e7a70edbf0815f81df25c1436dc032d125d;
+ path=/; expires=Wed, 15 Apr 2037 15:44:05 -0000, locale=es;
+ path=/, _session_id2=5b688e6f8d25b524dd2073f28aa4af68; path=/;
+ expires=Sat, 15 Apr 2017 21:44:06 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 29192
+server: Server
+x-runtime: 0.310775
+etag: W/"78b607485b2098b07dc8e0d068764585"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:44:06 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>16111782</id>
+    
+  <user>
+    <id>107301</id>
+    <name>Robert</name>
+    <display_name>Robert</display_name>
+
+    <location>Gaithersburg, MD</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/107301-robert]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1180568811p3/107301.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1180568811p2/107301.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">4248</id>
+  <isbn>1400079179</isbn>
+  <isbn13>9781400079179</isbn13>
+  <text_reviews_count type="integer">1445</text_reviews_count>
+  <title>The Da Vinci Code (Robert Langdon, #2)</title>
+  <title_without_series>The Da Vinci Code</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1361293878m/4248.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1361293878s/4248.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/4248.The_Da_Vinci_Code</link>
+  <num_pages>489</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Anchor</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.78</average_rating>
+  <ratings_count>1524831</ratings_count>
+  <description>An ingenious code hidden in the works of Leonardo da Vinci. A desperate race through the cathedrals and castles of Europe. An astonishing truth concealed for centuries . . . unveiled at last.&lt;br /&gt;&lt;br /&gt;While in Paris, Harvard symbologist Robert Langdon is awakened by a phone call in the dead of the night. The elderly curator of the Louvre has been murdered inside the museum, his body covered in baffling symbols. As Langdon and gifted French cryptologist Sophie Neveu sort through the bizarre riddles, they are stunned to discover a trail of clues hidden in the works of Leonardo da Vinci—clues visible for all to see and yet ingeniously disguised by the painter.&lt;br /&gt;&lt;br /&gt;Even more startling, the late curator was involved in the Priory of Sion—a secret society whose members included Sir Isaac Newton, Victor Hugo, and Da Vinci—and he guarded a breathtaking historical secret. Unless Langdon and Neveu can decipher the labyrinthine puzzle—while avoiding the faceless adversary who shadows their every move—the explosive, ancient truth will be lost forever.</description>
+<authors>
+<author>
+<id>630</id>
+<name>Dan Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p5/630.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p2/630.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/630.Dan_Brown]]></link>
+<average_rating>3.77</average_rating>
+<ratings_count>5177586</ratings_count>
+<text_reviews_count>138137</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1228784593</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Mon Feb 08 12:18:37 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>88</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="female-divinity" exclusive="false" review_shelf_id="12886362" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Feb 22 13:41:59 -0800 2008</date_added>
+  <date_updated>Tue Jan 07 18:41:53 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[For the most part, it seems that people either passionately love this book or they passionately hate it. I happen to be one of the former. For my part, I don't see the book so much as an indictment of the Catholic Church in particular but of religious extremism and religion interfering in politic...]]>
+  </body>
+
+  
+
+  <comments_count>26</comments_count>
+    <comments start="1" end="26" total="26">
+        <comment>
+  <id>1446881</id>
+  <body><![CDATA[The message isn't the problem, it's the shitty writing.]]></body>
+  
+  <user>
+    <id>163573</id>
+    <name>Rusty</name>
+    <display_name>Rusty</display_name>
+
+    <location>Revere, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/163573-rusty]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1459297970p3/163573.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1459297970p2/163573.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 08 10:25:20 -0700 2008</created_at>
+  <updated_at>Fri Aug 08 10:25:20 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1446982</id>
+  <body><![CDATA[Quite to the contrary, I think the message is the problem for many people. That said, I agree the writing could certainly improve. For my part, sometimes I enjoy good stories where the writing isn't perfect so long as it's not to the point where it jars me. I didn't find this to be the case with Da Vinci Code. The Celestine Prophecy, for example, was so bad, I simply couldn't read it. If some people with more acute literary tastes than I felt the same way about Da Vinci Code, then I can't fault them. It just wasn't my experience. ]]></body>
+  
+  <user>
+    <id>107301</id>
+    <name>Robert</name>
+    <display_name>Robert</display_name>
+
+    <location>Gaithersburg, MD</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/107301-robert]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1180568811p3/107301.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1180568811p2/107301.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 08 10:37:33 -0700 2008</created_at>
+  <updated_at>Fri Aug 08 10:37:33 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1447047</id>
+  <body><![CDATA[Unfortunately I don't think most people who like the Da Vinci Code like it for the same (and good) reasons you like it. (I haven't read it, so I have no opinion.)]]></body>
+  
+  <user>
+    <id>369699</id>
+    <name>Matt</name>
+    <display_name>Matt Walker</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/369699-matt-walker]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1219193111p3/369699.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1219193111p2/369699.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 08 10:44:49 -0700 2008</created_at>
+  <updated_at>Fri Aug 08 10:44:49 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1447098</id>
+  <body><![CDATA[For Matt --<br /><br />I must be insulated by decent people, then. My wife, mother, and sister, seemed to come to similar conclusions when we discussed the book. ]]></body>
+  
+  <user>
+    <id>107301</id>
+    <name>Robert</name>
+    <display_name>Robert</display_name>
+
+    <location>Gaithersburg, MD</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/107301-robert]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1180568811p3/107301.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1180568811p2/107301.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 08 10:51:33 -0700 2008</created_at>
+  <updated_at>Fri Aug 08 10:51:33 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1447739</id>
+  <body><![CDATA[It <i>wasn't</i> well written, but it was a fun read, and I really do like the fact that "regular" people (and so MANY of them!) were exposed to feminist ideas that they probably wouldn't have <i>ever</i> been exposed to otherwise. For that I can cut his shitty writing some slack.]]></body>
+  
+  <user>
+    <id>1069458</id>
+    <name>Meen</name>
+    <display_name>Meen</display_name>
+
+    <location>Washington, DC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1069458-meen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1309493031p3/1069458.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1309493031p2/1069458.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 08 11:59:32 -0700 2008</created_at>
+  <updated_at>Fri Aug 08 11:59:32 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1448701</id>
+  <body><![CDATA[For Mindy --<br /><br />And it's not to say that Brown's is in any way the only take on feminism in religion. It is just one and, at least from my point of view, a good story as well (if not so well written). Hopefully, those who are introduced to these ideas by Brown will be curious and explore other works that tackle the subject as well -- like "Holy Blood, Holy Grain," or the "Silence of John" for a more Christian take on the issue. ]]></body>
+  
+  <user>
+    <id>107301</id>
+    <name>Robert</name>
+    <display_name>Robert</display_name>
+
+    <location>Gaithersburg, MD</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/107301-robert]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1180568811p3/107301.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1180568811p2/107301.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 08 13:40:26 -0700 2008</created_at>
+  <updated_at>Fri Aug 08 13:40:26 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1450454</id>
+  <body><![CDATA[I can’t say that I passionately loved this book, but it kept me entertained and guessing throughout the whole story during a time in my life when I needed the distraction. For that, I was able to overlook Brown’s somewhat annoying habit of ending each chapter with a cliffhanger.]]></body>
+  
+  <created_at>Fri Aug 08 16:45:18 -0700 2008</created_at>
+  <updated_at>Fri Aug 08 16:45:18 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1450790</id>
+  <body><![CDATA[For M,<br /><br />Ah, the ending each chapter with a cliffhanger. That seems to be something quite a few authors do these days!]]></body>
+  
+  <user>
+    <id>107301</id>
+    <name>Robert</name>
+    <display_name>Robert</display_name>
+
+    <location>Gaithersburg, MD</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/107301-robert]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1180568811p3/107301.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1180568811p2/107301.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 08 17:32:44 -0700 2008</created_at>
+  <updated_at>Fri Aug 08 17:32:44 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1456113</id>
+  <body><![CDATA[Remember- it is fiction! Not a story that has been kept quiet and in the dark for far too long! Give me a break! <br />]]></body>
+  
+  <user>
+    <id>931406</id>
+    <name>Jeff</name>
+    <display_name>Jeff</display_name>
+
+    <location>Knoxville, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/931406-jeff]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1206923248p3/931406.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1206923248p2/931406.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 09 15:36:20 -0700 2008</created_at>
+  <updated_at>Sat Aug 09 15:36:20 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1456198</id>
+  <body><![CDATA[Well, the exclusion of women's voices from the religious narrative is indeed fact, Jeff.]]></body>
+  
+  <user>
+    <id>1069458</id>
+    <name>Meen</name>
+    <display_name>Meen</display_name>
+
+    <location>Washington, DC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1069458-meen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1309493031p3/1069458.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1309493031p2/1069458.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 09 15:52:41 -0700 2008</created_at>
+  <updated_at>Sat Aug 09 15:52:41 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1456821</id>
+  <body><![CDATA[For Jeff --<br /><br />Gotta agree with Mindy on this one. Womens' voices have been excluded from the religious narrative or only strictly confined to certain roles. The issue is something that Da Vinci code only begins to explore. And, in this case, it is only through the lens of a male protagonist on a journey of discovery. <br /><br />Sometimes, there can be truth in fiction so long as, even though the story is technically untrue, it reveals something that is true about society. If you're interested in learning more about truth in fiction, you might want to take a look at Tim O'Brian's "How to Tell a True War Story."]]></body>
+  
+  <user>
+    <id>107301</id>
+    <name>Robert</name>
+    <display_name>Robert</display_name>
+
+    <location>Gaithersburg, MD</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/107301-robert]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1180568811p3/107301.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1180568811p2/107301.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 09 18:05:09 -0700 2008</created_at>
+  <updated_at>Sat Aug 09 18:05:09 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1506487</id>
+  <body><![CDATA[The fact that an average story garnered from below average imagination got so much attention is a testament to "the popular" getting unwarranted attention. It's like if Hilton is seen toting a book, everyone reads it whether it's good or not. Sad state of a celebrity motivated society.]]></body>
+  
+  <user>
+    <id>1006205</id>
+    <name>Jeffrey</name>
+    <display_name>Jeffrey</display_name>
+
+    <location>Canoga Park, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1006205-jeffrey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442489375p3/1006205.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442489375p2/1006205.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 14 19:32:31 -0700 2008</created_at>
+  <updated_at>Thu Aug 14 19:32:31 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1517278</id>
+  <body><![CDATA[For Jeffrey-- <br /><br />Actually, this is where I disagree. I think the story, if not the writing, was good. That's my opinion and I certainly respect yours. But it's obvious that a good number of people do like it. ]]></body>
+  
+  <user>
+    <id>107301</id>
+    <name>Robert</name>
+    <display_name>Robert</display_name>
+
+    <location>Gaithersburg, MD</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/107301-robert]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1180568811p3/107301.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1180568811p2/107301.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 15 21:25:49 -0700 2008</created_at>
+  <updated_at>Fri Aug 15 21:25:49 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1517358</id>
+  <body><![CDATA[I agree. It was a good story. It wasn't great literature, but it was fun and exciting and easy to get lost in, which is completely unremarkable. It got so much attention <i>because of</i> the gendered religious controversy.]]></body>
+  
+  <user>
+    <id>1069458</id>
+    <name>Meen</name>
+    <display_name>Meen</display_name>
+
+    <location>Washington, DC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1069458-meen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1309493031p3/1069458.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1309493031p2/1069458.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 15 21:37:13 -0700 2008</created_at>
+  <updated_at>Fri Aug 15 21:37:13 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1517621</id>
+  <body><![CDATA[For Mindy --<br /><br />I agree. From my point of view, the gendered religious controversy needed to be outed. How better than an entertaining, if light on the literature, read? Hopefully, we'll see more in this vein. Perhaps some that also have a nice literary polish? ]]></body>
+  
+  <user>
+    <id>107301</id>
+    <name>Robert</name>
+    <display_name>Robert</display_name>
+
+    <location>Gaithersburg, MD</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/107301-robert]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1180568811p3/107301.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1180568811p2/107301.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 15 22:13:15 -0700 2008</created_at>
+  <updated_at>Fri Aug 15 22:13:15 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1573867</id>
+  <body><![CDATA[Hi :) I liked your review. Every body have their own point of view. All of us percieve matter differently. Perception. Well, I'm not making much sense right now since I am not in a mood to actually write. But having read your review - I just thought that I ought to say, I do agree with your perception. That's it. And I think I wrote a review about the book too - kinda similar. Am tired, since I just returned from my summer vacation. Shall check in later. Till then.<br /><br />]]></body>
+  
+  <user>
+    <id>1168649</id>
+    <name>Loveena</name>
+    <display_name>Loveena</display_name>
+
+    <location><![CDATA[Abu Dhabi, The United Arab Emirates]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1168649-loveena]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1211020510p3/1168649.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1211020510p2/1168649.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 21 10:04:43 -0700 2008</created_at>
+  <updated_at>Thu Aug 21 10:04:43 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1634044</id>
+  <body><![CDATA[For Ahavah --<br /><br />Thanks for the kind thoughts on this. I do understand what it's like to be tired :). Best wishes and here's to forming your own opinion ;).]]></body>
+  
+  <user>
+    <id>107301</id>
+    <name>Robert</name>
+    <display_name>Robert</display_name>
+
+    <location>Gaithersburg, MD</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/107301-robert]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1180568811p3/107301.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1180568811p2/107301.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 26 14:58:15 -0700 2008</created_at>
+  <updated_at>Tue Aug 26 14:58:15 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>9390610</id>
+  <body><![CDATA[Hi :) Did you read 'The Lost Symbol'? Well, history seems to be repeating itself! Anyways, I liked it. It certainly was not a waste of time. Maybe for those who'd seen the movie National Treasure and those of you who live in America a book on DC and its Symbology is ... Mundane? But for me an outsider, it was added knowledge. I may not be able to see or visit DC, but reading about it, somehow brings it closer. Anyways it was a nice book to read :) ]]></body>
+  
+  <user>
+    <id>1168649</id>
+    <name>Loveena</name>
+    <display_name>Loveena</display_name>
+
+    <location><![CDATA[Abu Dhabi, The United Arab Emirates]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1168649-loveena]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1211020510p3/1168649.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1211020510p2/1168649.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 18 01:11:02 -0700 2009</created_at>
+  <updated_at>Fri Sep 18 01:11:02 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10072914</id>
+  <body><![CDATA[<i>Robert wrote: "For Jeff --<br /><br />Gotta agree with Mindy on this one. Womens' voices have been excluded from the religious narrative or only strictly confined to certain roles. The issue is something that Da Vinci co..."</i><br /><br />I have not read the book and it sounds as though I will not agree with alot of religious beliefs in the book, but I may attempt to read it just so I will have knowledge of what message it is trying to put forth.<br /><br />But I will tell you all that in the Holy Word which is the Bible, (divinely inspired by God) there are scriptures that tell exactly what the roll of women are in the church and tell us that we are no less important then man.<br /><br />1 Cor 11:3 shows the CORRECT order of God, His Son, man and woman<br />1 Tim 2: 11-14, Eph 5:22-25 tells how woman are to conduct themselves in the assembly of a congregation and with men. And how men are to treat women.<br />1 Pet 3:7 Woman are not seen as a lesser being in the eyes of God...men and women together are heirs of the grace of life, although men are to treat us with honor and as a weaker vessel.<br /><br />]]></body>
+  
+  <created_at>Tue Oct 13 17:42:46 -0700 2009</created_at>
+  <updated_at>Tue Oct 13 17:42:46 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>52858293</id>
+  <body><![CDATA[I couldn't believe there were so many negative reviews and ratings!<br /><br />I haven't noticed anything in his writing that was 'shitty', in my limited opinion. I'm not a great reader, but I know how to make slight differentiation on writing level. <br /><br />What I liked most: the factual bits. For a teenager, it was a real treat to learn new things.]]></body>
+  
+  <user>
+    <id>9950851</id>
+    <name>Warda</name>
+    <display_name>Warda</display_name>
+
+    <location><![CDATA[Dubai, The United Arab Emirates]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9950851-warda]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1436563583p3/9950851.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1436563583p2/9950851.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jun 24 11:39:16 -0700 2012</created_at>
+  <updated_at>Sun Jun 24 11:39:16 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>60741131</id>
+  <body><![CDATA[i m currently reading that book. yes the book is highly controversial. when i just signed up on dis site i was under impression i wud get thousands of good reviews about it but unfortunately lot of people are giving negative reviews for dis book. i dnt knw why. one girl accused for its shitty writing and boring dialogues. i never found anything boring or shitty in d book.]]></body>
+  
+  <user>
+    <id>14032612</id>
+    <name>Komal</name>
+    <display_name>Komal</display_name>
+
+    <location>Mumbai, 16, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14032612-komal]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Oct 28 20:26:39 -0700 2012</created_at>
+  <updated_at>Sun Oct 28 20:26:39 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>72756302</id>
+  <body><![CDATA[most people hate it because its against the church]]></body>
+  
+  <user>
+    <id>12277284</id>
+    <name>kiki</name>
+    <display_name>kiki</display_name>
+
+    <location>Georgetown, 12, Guyana</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12277284-kiki]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1348799824p3/12277284.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1348799824p2/12277284.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Apr 24 11:58:37 -0700 2013</created_at>
+  <updated_at>Wed Apr 24 11:58:37 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>75407721</id>
+  <body><![CDATA[I totally agree with Adeola. I think that's what's so special about some of us teenagers. We have our own minds and aren't as persuaded by what the church is pushing on everyone.<br />I'm not fully done with the book (Got about 1/6th left), I'm finding it a good book. Then again I'm a Satanist so I despise the church anyways, however I am open minded.]]></body>
+  
+  <user>
+    <id>18687034</id>
+    <name>Kasandra</name>
+    <display_name>Kasandra Klages</display_name>
+
+    <location>Andover, MN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18687034-kasandra-klages]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Jun 02 13:09:53 -0700 2013</created_at>
+  <updated_at>Sun Jun 02 13:09:53 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>87523988</id>
+  <body><![CDATA[Thank goodness SOMEBODY rated it nicely. I just finished The Da Vinci Code and I really like it (4-5 stars) and I was just scrolling through all the reviews and everyone was just ranting on how horrible the book was.]]></body>
+  
+  <user>
+    <id>23094053</id>
+    <name>Chloe</name>
+    <display_name>Chloe</display_name>
+
+    <location>Kowloon, 00, Hong Kong</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23094053-chloe]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 26 04:15:13 -0800 2013</created_at>
+  <updated_at>Tue Nov 26 04:15:13 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>142681792</id>
+  <body><![CDATA[Great review Robert!]]></body>
+  
+  <user>
+    <id>34207574</id>
+    <name>Miquel</name>
+    <display_name>Miquel Reina</display_name>
+
+    <location>Barcelona, Spain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34207574-miquel-reina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1472878884p3/34207574.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1472878884p2/34207574.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 11 09:58:15 -0800 2015</created_at>
+  <updated_at>Wed Nov 11 09:58:15 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>144109832</id>
+  <body><![CDATA[People really give this book the stick. They need to understand ti not take a fiction book so seriously. It is fiction after all, it is there to enteratain.]]></body>
+  
+  <user>
+    <id>47847226</id>
+    <name>José</name>
+    <display_name>José</display_name>
+
+    <location>Tampico, 28, Mexico</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/47847226-jos]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1445482288p3/47847226.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1445482288p2/47847226.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Dec 09 07:57:24 -0800 2015</created_at>
+  <updated_at>Wed Dec 09 07:57:24 -0800 2015</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/16111782]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/16111782]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

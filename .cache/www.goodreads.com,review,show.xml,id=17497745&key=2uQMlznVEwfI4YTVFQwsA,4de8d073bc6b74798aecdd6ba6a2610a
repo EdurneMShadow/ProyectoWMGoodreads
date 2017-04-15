@@ -1,0 +1,1273 @@
+status: 200
+x-request-id: 35KEA1YHZ3C34DQ0XF47
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=17497745&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhgzMTUtOTk0NDkyMS04OTMxNTQ5BjoGRVQ%3D--87c7ebab5b8868bbee56a1911c8f75401dd1c1f3;
+ path=/; expires=Wed, 15 Apr 2037 15:10:03 -0000, locale=es;
+ path=/, _session_id2=db3d05fcd470145bd9aad843d81825af; path=/;
+ expires=Sat, 15 Apr 2017 21:10:03 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 52221
+server: Server
+x-runtime: 0.526065
+etag: W/"79f992bb292295ab512945d20a3cc9f0"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:10:03 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>17497745</id>
+    
+  <user>
+    <id>520753</id>
+    <name>Kim</name>
+    <display_name>Kim</display_name>
+
+    <location>Essex Junction, VT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/520753-kim]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1402541317p3/520753.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1402541317p2/520753.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">2657</id>
+  <isbn>0061120081</isbn>
+  <isbn13>9780061120084</isbn13>
+  <text_reviews_count type="integer">57300</text_reviews_count>
+  <title>To Kill a Mockingbird</title>
+  <title_without_series>To Kill a Mockingbird</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1361975680m/2657.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1361975680s/2657.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2657.To_Kill_a_Mockingbird</link>
+  <num_pages>324</num_pages>
+  <format>Paperback</format>
+  <edition_information>50th Anniversary</edition_information>
+  <publisher>Harper Perennial Modern Classics</publisher>
+  <publication_day>23</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.25</average_rating>
+  <ratings_count>3251393</ratings_count>
+  <description>The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it, To Kill A Mockingbird became both an instant bestseller and a critical success when it was first published in 1960. It went on to win the Pulitzer Prize in 1961 and was later made into an Academy Award-winning film, also a classic.&lt;br /&gt;&lt;br /&gt;Compassionate, dramatic, and deeply moving, To Kill A Mockingbird takes readers to the roots of human behavior - to innocence and experience, kindness and cruelty, love and hatred, humor and pathos. Now with over 18 million copies in print and translated into forty languages, this regional story by a young Alabama woman claims universal appeal. Harper Lee always considered her book to be a simple love story. Today it is regarded as a masterpiece of American literature.</description>
+<authors>
+<author>
+<id>1825</id>
+<name>Harper Lee</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1188820730p5/1825.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1188820730p2/1825.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1825.Harper_Lee]]></link>
+<average_rating>4.21</average_rating>
+<ratings_count>3414068</ratings_count>
+<text_reviews_count>94458</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">1402413</id>
+          <page type="integer">336</page>
+          <chapter type="integer"></chapter>
+          <comments_count>1</comments_count>
+          <created_at type="datetime">Mon Oct 05 02:46:54 -0700 2009</created_at>
+          <updated_at type="datetime">Mon Oct 05 02:46:54 -0700 2009</updated_at>
+          <last_comment_at type="datetime">Fri Jan 22 20:38:54 -0800 2010</last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer"></percent>
+          <work_id type="integer"></work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">1218114446</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Mon Feb 01 09:09:27 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>544</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="cultured" exclusive="false" review_shelf_id="6854838" sortable="false" />
+    <shelf name="simpatico" exclusive="false" review_shelf_id="39531774" sortable="false" />
+    <shelf name="mmix" exclusive="false" review_shelf_id="75721949" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Oct 15 00:00:00 -0700 2009</read_at>
+  <date_added>Tue Mar 11 03:28:52 -0700 2008</date_added>
+  <date_updated>Mon Jan 13 05:08:23 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Why is it when I pick up <i> To Kill A Mockingbird</i> , I am instantly visited by a sensory memory: I’m walking home, leaves litter the ground, crunching under my feet. I smell the smoke of fireplaces and think about hot cider and the wind catches and my breath is taken from me and I bundle my coat tig...]]>
+  </body>
+
+  
+
+  <comments_count>72</comments_count>
+    <comments start="1" end="50" total="72">
+        <comment>
+  <id>9876921</id>
+  <body><![CDATA[I should re-read that. I only vaguely remember it. Old age, senility and all that...]]></body>
+  
+  <user>
+    <id>629685</id>
+    <name>Amelia</name>
+    <display_name>Amelia</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/629685-amelia]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1481498504p3/629685.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1481498504p2/629685.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 06 12:13:35 -0700 2009</created_at>
+  <updated_at>Tue Oct 06 12:13:35 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>9892462</id>
+  <body><![CDATA[I felt the same way, Ames... it's definitely worth a refresher. ]]></body>
+  
+  <user>
+    <id>520753</id>
+    <name>Kim</name>
+    <display_name>Kim</display_name>
+
+    <location>Essex Junction, VT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/520753-kim]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1402541317p3/520753.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1402541317p2/520753.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 06 18:56:23 -0700 2009</created_at>
+  <updated_at>Tue Oct 06 18:56:23 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10113836</id>
+  <body><![CDATA['hot enough to melt the balls off a brass monkey'<br /><br />Nice one, Skimmers. (The review <i>and</i> the metaphor.)<br /><br />I was assigned this one in freshman English but never got around to reading it. Thank you, Cliff Notes.]]></body>
+  
+  <created_at>Thu Oct 15 12:12:40 -0700 2009</created_at>
+  <updated_at>Thu Oct 15 12:12:40 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10117977</id>
+  <body><![CDATA[UHM...Hi ! Loved the book,love your review of it. Just popped in to say it is cold in Bama in Oct................. Just sayin'. : )]]></body>
+  
+  <user>
+    <id>234101</id>
+    <name>ScottK</name>
+    <display_name>ScottK</display_name>
+
+    <location>Portland, OR</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/234101-scottk]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1321989111p3/234101.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1321989111p2/234101.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Oct 15 14:47:38 -0700 2009</created_at>
+  <updated_at>Thu Oct 15 14:47:38 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10131924</id>
+  <body><![CDATA[Thanks, Scott!!... uh... I live in Vermont... what's your definition of cold? :)<br /><br />]]></body>
+  
+  <user>
+    <id>520753</id>
+    <name>Kim</name>
+    <display_name>Kim</display_name>
+
+    <location>Essex Junction, VT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/520753-kim]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1402541317p3/520753.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1402541317p2/520753.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 16 04:26:23 -0700 2009</created_at>
+  <updated_at>Fri Oct 16 04:26:23 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10137531</id>
+  <body><![CDATA[Is it even <i>possible</i> to not like Atticus Finch?]]></body>
+  
+  <user>
+    <id>289556</id>
+    <name>Jackie &quot;the Librarian&quot;</name>
+    <display_name>Jackie &quot;the Librarian&quot;</display_name>
+
+    <location>Olympia, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/289556-jackie-the-librarian]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1307387831p3/289556.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1307387831p2/289556.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 16 11:00:04 -0700 2009</created_at>
+  <updated_at>Fri Oct 16 11:00:04 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10137643</id>
+  <body><![CDATA[It's far past 'like' with me, Jackie... far. ]]></body>
+  
+  <user>
+    <id>520753</id>
+    <name>Kim</name>
+    <display_name>Kim</display_name>
+
+    <location>Essex Junction, VT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/520753-kim]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1402541317p3/520753.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1402541317p2/520753.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 16 11:07:27 -0700 2009</created_at>
+  <updated_at>Fri Oct 16 11:07:27 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10140235</id>
+  <body><![CDATA[And now I suspect you are picturing Gregory Peck, Kim... ;)]]></body>
+  
+  <user>
+    <id>289556</id>
+    <name>Jackie &quot;the Librarian&quot;</name>
+    <display_name>Jackie &quot;the Librarian&quot;</display_name>
+
+    <location>Olympia, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/289556-jackie-the-librarian]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1307387831p3/289556.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1307387831p2/289556.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 16 13:03:04 -0700 2009</created_at>
+  <updated_at>Fri Oct 16 13:03:04 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10145695</id>
+  <body><![CDATA[Wonderful review! This is my all-time favorite book. Every time I read it, I get something different out of it. ]]></body>
+  
+  <user>
+    <id>811687</id>
+    <name>Sandi</name>
+    <display_name>Sandi</display_name>
+
+    <location>Fountain Valley, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/811687-sandi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1404709147p3/811687.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1404709147p2/811687.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 16 16:20:11 -0700 2009</created_at>
+  <updated_at>Fri Oct 16 16:20:11 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10146104</id>
+  <body><![CDATA[Kim, Great review! Sandi, This is probably my favorite book too. It certainly was when I read it for the first time when I was 11 or 12. (I'd seen the movie when it first came out when I was 9 so I knew the gist of the story.) I've reread it so many times but not for over a decade. It might be time for another reread.]]></body>
+  
+  <user>
+    <id>83445</id>
+    <name>Lisa</name>
+    <display_name>Lisa Vegan</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/83445-lisa-vegan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1243394822p3/83445.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1243394822p2/83445.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 16 16:36:44 -0700 2009</created_at>
+  <updated_at>Fri Oct 16 16:36:44 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10146520</id>
+  <body><![CDATA[Wonderful review, Kim. You are not alone in your fixation on Atticus Finch. I adore him. I thought I was weird for so many years because of my feelings for this character. I can't decide if I want to marry him or have him be my honorary dad. ]]></body>
+  
+  <user>
+    <id>1570669</id>
+    <name><![CDATA[ Danielle The Book Huntress (Back to the Books)]]></name>
+    <display_name><![CDATA[ Danielle The Book Huntress (Back to the Books)]]></display_name>
+
+    <location>Round Rock, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1570669-danielle-the-book-huntress-back-to-the-books]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1403239075p3/1570669.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1403239075p2/1570669.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 16 16:57:18 -0700 2009</created_at>
+  <updated_at>Fri Oct 16 16:57:18 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10155590</id>
+  <body><![CDATA[Thank you! I feel the same way Danielle... and it will provide discussions for many more therapy sessions, I'm sure. <br /><br /><i>And now I suspect you are picturing Gregory Peck, Kim... ;) </i><br /><br />well, there's <i>that</i>. :)]]></body>
+  
+  <user>
+    <id>520753</id>
+    <name>Kim</name>
+    <display_name>Kim</display_name>
+
+    <location>Essex Junction, VT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/520753-kim]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1402541317p3/520753.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1402541317p2/520753.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Oct 17 00:36:35 -0700 2009</created_at>
+  <updated_at>Sat Oct 17 00:36:35 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10159044</id>
+  <body><![CDATA[Gregory Peck was sooooo dreamy. Why aren't actors today as hot as Gregory Peck, Clark Gable, et al?]]></body>
+  
+  <user>
+    <id>811687</id>
+    <name>Sandi</name>
+    <display_name>Sandi</display_name>
+
+    <location>Fountain Valley, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/811687-sandi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1404709147p3/811687.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1404709147p2/811687.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Oct 17 08:45:56 -0700 2009</created_at>
+  <updated_at>Sat Oct 17 08:45:56 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10160478</id>
+  <body><![CDATA[Gregory Peck was in a class of his own, oh and well maybe Jimmy Stewart too. I just loved Peck as Atticus!]]></body>
+  
+  <user>
+    <id>83445</id>
+    <name>Lisa</name>
+    <display_name>Lisa Vegan</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/83445-lisa-vegan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1243394822p3/83445.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1243394822p2/83445.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Oct 17 09:37:43 -0700 2009</created_at>
+  <updated_at>Sat Oct 17 09:37:43 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10160583</id>
+  <body><![CDATA[What about Humphrey Bogart? He wasn't classically handsome, but he was sexy. Harrison Ford is kind of the same type, but I don't see anyone in the new generation of actors who fits the bill.]]></body>
+  
+  <user>
+    <id>811687</id>
+    <name>Sandi</name>
+    <display_name>Sandi</display_name>
+
+    <location>Fountain Valley, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/811687-sandi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1404709147p3/811687.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1404709147p2/811687.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Oct 17 09:42:19 -0700 2009</created_at>
+  <updated_at>Sat Oct 17 09:42:19 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>14960466</id>
+  <body><![CDATA[I agree. No actors around that match Gregory Peck these days.]]></body>
+  
+  <user>
+    <id>3496311</id>
+    <name>Amy</name>
+    <display_name>Amy</display_name>
+
+    <location>Palo Alto, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3496311-amy]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu Mar 25 18:37:05 -0700 2010</created_at>
+  <updated_at>Thu Mar 25 18:37:05 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>18729255</id>
+  <body><![CDATA[Kim, wow! <br /><br />I love the thoughts and the place that reading this book brought you. My "south" was Texas in the 50s/60s with lots going on of which I was unaware. It is only upon reflection that I see hints of the larger issues that were about.<br /><br />My father, a prosecutor with a seersucker suit, resembled Atticus in so many of the important ways.<br /><br />He would have been able to shoot that dog down at an even greater distance and by the time I was scout's age, I could have too. <br /><br />That we were taught to shoot and were taken hunting seems a cliche, but it was with the utmost reverence for where we were and what we were doing as well as with safety and respect for weaponry. <br /><br />He also cared and provided for his fellow human beings. He shared that humanity. He gave legal advice and services to many with "payments" in whatever they had to offer, often just a handshake and a smile. He took the fruits of our hunting and gathering to people who were in need.<br /><br />His ethics were nearly flawless. He taught us what it meant to hate and to perpetuate that hate and the terrible legacy of small mindedness. His father, a klansman, left an indelible impression on generations. He rejected that message and supported our formation as ALL our brother's keepers. <br /><br />However, he wasn't humble. He took pride in his abilities and those of his children. Even when he called us brats, we could feel that love.<br /><br />That love and value system has seen me far in this difficult world. I thank the powers that be for that support and strength and I feel it when I even hear the opening music to the movie made from Harper Lee's book or dip once again into the pages and go back to those warm summer nights and roaming the neighborhood watching and waiting for Boo Radley.]]></body>
+  
+  <user>
+    <id>1273541</id>
+    <name>Beth</name>
+    <display_name>Beth</display_name>
+
+    <location>Amarillo, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1273541-beth]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1452437406p3/1273541.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1452437406p2/1273541.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 14 04:47:22 -0700 2010</created_at>
+  <updated_at>Wed Jul 14 04:47:22 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>18731519</id>
+  <body><![CDATA[Wow, Beth! Thanks for that post! It's good to know that Atticus Finch still lives!!]]></body>
+  
+  <user>
+    <id>520753</id>
+    <name>Kim</name>
+    <display_name>Kim</display_name>
+
+    <location>Essex Junction, VT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/520753-kim]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1402541317p3/520753.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1402541317p2/520753.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 14 07:05:33 -0700 2010</created_at>
+  <updated_at>Wed Jul 14 07:05:33 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>18733906</id>
+  <body><![CDATA[Lived...and you are more than welcome. I read your post followed by mine to my husband, another southerner, born and raised in New Orleans in the 1940s. Then we both teared up. <br /><br />Not everyone gets or is really meant to get this book. That you do and that it is important because of your background instead of in spite of it, is a gift, especially to me. That no matter our ages, we can be scout and walk with her on a leafy, blowing evening at dusk...the power of storytelling.<br /><br />I'm going to try and friend you, so look for me.]]></body>
+  
+  <user>
+    <id>1273541</id>
+    <name>Beth</name>
+    <display_name>Beth</display_name>
+
+    <location>Amarillo, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1273541-beth]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1452437406p3/1273541.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1452437406p2/1273541.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 14 08:33:23 -0700 2010</created_at>
+  <updated_at>Wed Jul 14 08:33:23 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>18844995</id>
+  <body><![CDATA[This is the most heartfelt review I've ever read.]]></body>
+  
+  <user>
+    <id>4011306</id>
+    <name>Rc</name>
+    <display_name>Rc</display_name>
+
+    <location>Auckland, E7, New Zealand</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4011306-rc]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1285549751p3/4011306.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1285549751p2/4011306.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jul 17 07:04:46 -0700 2010</created_at>
+  <updated_at>Sat Jul 17 07:04:46 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>18845981</id>
+  <body><![CDATA[Well, thanks, Rc. That's real sweet of you. ;)]]></body>
+  
+  <user>
+    <id>520753</id>
+    <name>Kim</name>
+    <display_name>Kim</display_name>
+
+    <location>Essex Junction, VT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/520753-kim]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1402541317p3/520753.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1402541317p2/520753.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jul 17 08:11:49 -0700 2010</created_at>
+  <updated_at>Sat Jul 17 08:11:49 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20928696</id>
+  <body><![CDATA[This made me tear up a bit.]]></body>
+  
+  <user>
+    <id>1212912</id>
+    <name>Elisabeth</name>
+    <display_name>Elisabeth</display_name>
+
+    <location>Hesperia, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1212912-elisabeth]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1378099632p3/1212912.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1378099632p2/1212912.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Sep 13 17:38:35 -0700 2010</created_at>
+  <updated_at>Mon Sep 13 17:38:35 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>22308492</id>
+  <body><![CDATA[Ah great review. Your first paragraph has clicked into my mind that you're great at visualizing things. ^_^ <br /><br />I enjoyed reading this review, and what your opinions were for this book. It's fun to read other people's opinions about things. Keep up the great reviews!]]></body>
+  
+  <user>
+    <id>4474605</id>
+    <name>Amy</name>
+    <display_name>Amy</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4474605-amy]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu Oct 28 13:58:02 -0700 2010</created_at>
+  <updated_at>Thu Oct 28 13:58:02 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>22308903</id>
+  <body><![CDATA[Thanks, Amy!]]></body>
+  
+  <user>
+    <id>520753</id>
+    <name>Kim</name>
+    <display_name>Kim</display_name>
+
+    <location>Essex Junction, VT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/520753-kim]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1402541317p3/520753.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1402541317p2/520753.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Oct 28 14:12:18 -0700 2010</created_at>
+  <updated_at>Thu Oct 28 14:12:18 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>23139380</id>
+  <body><![CDATA[So you've got all that to say about your father (Budweiser, racial slurs, sissies) and you're prejudiced against the South?<br /><br />I won't say your feelings about the South are wrong. But basically, every place is that bad. I say this from my experience of living and working in 10 different states all over the US.<br /><br />I like the South, the traces of gentility that remain, the sense of a lost culture and history. The Southerners of Scout's world were a defeated people, and that set them apart from the rest of our country, gave them a sort of group tragedy.<br /><br />No, I don't mean to apologize or forgive for the awful things that have been done there. But I'd challenge you to find a region of North America that doesn't have terrible incidents in its history, and terrible people in its present.<br /><br />I didn't really come here looking for something to chastise. I liked your review of Mockingbird, one of my favorite books too for many of the reasons you give. But I was struck by the comments even as I was reminded of my own rantings against parental prejudice (my mother, who turned cold as ice when I announced I was marrying someone not of her race).]]></body>
+  
+  <user>
+    <id>4466667</id>
+    <name>Ted</name>
+    <display_name>Ted</display_name>
+
+    <location>Athens, GA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4466667-ted]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1288358585p3/4466667.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1288358585p2/4466667.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 23 14:14:25 -0800 2010</created_at>
+  <updated_at>Tue Nov 23 14:14:25 -0800 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>24976062</id>
+  <body><![CDATA[This is one of my top rated books of all time I have read it several times and will again its just my style and interest me in relation to its history and location but mostly it purpose.]]></body>
+  
+  <user>
+    <id>4777011</id>
+    <name>Tere</name>
+    <display_name>Tere</display_name>
+
+    <location>Crofton, MD</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4777011-tere]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 09 19:11:10 -0800 2011</created_at>
+  <updated_at>Sun Jan 09 19:11:10 -0800 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>36412997</id>
+  <body><![CDATA[perfect!]]></body>
+  
+  <user>
+    <id>6211903</id>
+    <name>Keerthi</name>
+    <display_name>Keerthi</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6211903-keerthi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1332591307p3/6211903.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1332591307p2/6211903.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Sep 05 04:48:08 -0700 2011</created_at>
+  <updated_at>Mon Sep 05 04:48:08 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>37509640</id>
+  <body><![CDATA[Well. I haven't gotten to participate yet as I would have liked but; nevertheless , have almost finished reading it. Oh if I had more time. I'm a southerner living in New York City and have interesting observations about the south but don't have time at the moment.]]></body>
+  
+  <user>
+    <id>6088623</id>
+    <name>Francis</name>
+    <display_name>Francis Majors</display_name>
+
+    <location>Destrehan, LA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6088623-francis-majors]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1313897472p3/6088623.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1313897472p2/6088623.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Sep 26 19:06:35 -0700 2011</created_at>
+  <updated_at>Mon Sep 26 19:06:35 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>47382535</id>
+  <body><![CDATA[WOW! Simply WOW! Are you are writer? You can may be write a book as good as To Kill a Mocking Bird. You have some passion. Some force. You have a talent for writing. WOW! What a rev.... WOW! Super! WOW! What a review! Delighted to read it from the first to last. Again I say to myself after reading this review - WOW!]]></body>
+  
+  <user>
+    <id>4866459</id>
+    <name>Adi Narayan</name>
+    <display_name>Adi Narayan Mandalemula</display_name>
+
+    <location>Visakhapatnam, 02, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4866459-adi-narayan-mandalemula]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1296393884p3/4866459.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1296393884p2/4866459.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 21 13:39:10 -0700 2012</created_at>
+  <updated_at>Wed Mar 21 13:39:10 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47491202</id>
+  <body><![CDATA[Thank you Aditya... that is very kind of you. :)]]></body>
+  
+  <user>
+    <id>520753</id>
+    <name>Kim</name>
+    <display_name>Kim</display_name>
+
+    <location>Essex Junction, VT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/520753-kim]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1402541317p3/520753.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1402541317p2/520753.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 23 11:07:55 -0700 2012</created_at>
+  <updated_at>Fri Mar 23 11:07:55 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>49594697</id>
+  <body><![CDATA[When I was reading this for school, I thought it would just be another book that ended in a tragedy , like Of Mice &amp; Men, that we had finished not too long before we started TKAM. When I read almost any line of Atticus', I melt as well because like you, Kim, I have Daddy issues as well. Thus was the kind of dad I've always wanted and that's what I love about books. You cab go into that world and practically live there when you read it for the first time and then when you read it again and again, you feel as if you're coming home into the safety on someones arms. <br />Great job onthis review and I hope you relationship between your dad has did improve at some point in time.]]></body>
+  
+  <user>
+    <id>6829753</id>
+    <name>Danae</name>
+    <display_name>Danae</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6829753-danae]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1410748564p3/6829753.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1410748564p2/6829753.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Apr 27 19:07:53 -0700 2012</created_at>
+  <updated_at>Fri Apr 27 19:07:53 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>49776892</id>
+  <body><![CDATA[Thanks, Danae!]]></body>
+  
+  <user>
+    <id>520753</id>
+    <name>Kim</name>
+    <display_name>Kim</display_name>
+
+    <location>Essex Junction, VT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/520753-kim]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1402541317p3/520753.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1402541317p2/520753.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue May 01 06:01:40 -0700 2012</created_at>
+  <updated_at>Tue May 01 06:01:40 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>50578036</id>
+  <body><![CDATA[Hi Elizabeth. One of my book group is going to revisit To Kill a Mockingbird this summer. Can't think of a better time to read it. Wonderful documentary on PBS about the friendship and estrangement of Harper Lee and Truman Capote. Catch it if you can. Peace to you.]]></body>
+  
+  <user>
+    <id>4993852</id>
+    <name>Jean Marie</name>
+    <display_name>Jean Marie Angelo</display_name>
+
+    <location>Mount Vernon, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4993852-jean-marie-angelo]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1466822153p3/4993852.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1466822153p2/4993852.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed May 16 09:54:44 -0700 2012</created_at>
+  <updated_at>Wed May 16 09:54:44 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>66817441</id>
+  <body><![CDATA[Heartwarming review Kim!]]></body>
+  
+  <user>
+    <id>15304851</id>
+    <name>Betsey</name>
+    <display_name>Betsey C.</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15304851-betsey-c]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1382839802p3/15304851.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1382839802p2/15304851.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 31 11:02:17 -0800 2013</created_at>
+  <updated_at>Thu Jan 31 11:02:17 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>66820477</id>
+  <body><![CDATA[Thanks, Betsey!]]></body>
+  
+  <user>
+    <id>520753</id>
+    <name>Kim</name>
+    <display_name>Kim</display_name>
+
+    <location>Essex Junction, VT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/520753-kim]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1402541317p3/520753.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1402541317p2/520753.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 31 11:54:47 -0800 2013</created_at>
+  <updated_at>Thu Jan 31 11:54:47 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>68121224</id>
+  <body><![CDATA[That's not pretty at all]]></body>
+  
+  <user>
+    <id>17588170</id>
+    <name>Zhanitah</name>
+    <display_name>Zhanitah</display_name>
+
+    <location>Durham, NC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17588170-zhanitah]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 18 15:06:25 -0800 2013</created_at>
+  <updated_at>Mon Feb 18 15:06:25 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>74918673</id>
+  <body><![CDATA[One doesn't need to have daddy issues to see that Atticus is a model father as well as a model man. Lovely review. This was my favorite book when I read it in school and is still my favorite book now. I'm 42 as well and have read it twice more since school. I don't think I've ever been inclined to read any books more than once since my Dr Seuss days. I think I might read it again now that your review has sparked the memory of its epicness again!]]></body>
+  
+  <user>
+    <id>20709669</id>
+    <name>Kathy</name>
+    <display_name>Kathy Copple</display_name>
+
+    <location>Las Vegas, NV</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/20709669-kathy-copple]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1369554150p3/20709669.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1369554150p2/20709669.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 26 15:13:25 -0700 2013</created_at>
+  <updated_at>Sun May 26 15:13:25 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>76739431</id>
+  <body><![CDATA[The author of this book has grown rich brainwashing schoolchildren and simple adults with this trash. Harper Lee even had the temerity to exploit the voice of a child to inculcate her poison into receptive minds. It's not suitable for schoolchildren at all, being a work of propaganda that is focused on negative stereotypes and heavy symbolism that denigrates white people, while do its utmost to embellish archetypes of African Americans. The book is simply a vehicle for the civil rights movement and part of the chicanery that has led to the criminal and socially unstable quagmire that the USA is today. Children who have not learned to think for themselves should not be subjected to this indulgence in misrepresentation.]]></body>
+  
+  <user>
+    <id>12449102</id>
+    <name>Greg</name>
+    <display_name>Greg Deane</display_name>
+
+    <location>Ryde, 02, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12449102-greg-deane]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1453317356p3/12449102.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1453317356p2/12449102.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 21 14:43:25 -0700 2013</created_at>
+  <updated_at>Fri Jun 21 14:43:25 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>76739725</id>
+  <body><![CDATA[<i>Greg wrote: "The author of this book has grown rich brainwashing schoolchildren and simple adults with this trash. Harper Lee even had the temerity to exploit the voice of a child to inculcate her poison into receptive minds. It's not suitable for schoolchildren at all, being a work of propaganda that is focused on negative stereotypes and heavy symbolism that denigrates white people, while do its utmost to embellish archetypes of African Americans. The book is simply a vehicle for the civil rights movement and part of the chicanery that has led to the criminal and socially unstable quagmire that the USA is today. Children who have not learned to think for themselves should not be subjected to this indulgence in misrepresentation."</i><br /><br />Wow!<br /><br />Flagged for hate speech, though I don't know if Goodreads will care.]]></body>
+  
+  <user>
+    <id>83445</id>
+    <name>Lisa</name>
+    <display_name>Lisa Vegan</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/83445-lisa-vegan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1243394822p3/83445.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1243394822p2/83445.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 21 14:48:18 -0700 2013</created_at>
+  <updated_at>Fri Jun 21 14:48:18 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>76739810</id>
+  <body><![CDATA[There is more &amp; more of this hatred at Goodreads. It was incredibly rare to have this expressed on Goodreads when I joined 6 years ago.<br /><br />I'd love to blame it on the sale to Amazon, but I probably can't.]]></body>
+  
+  <user>
+    <id>83445</id>
+    <name>Lisa</name>
+    <display_name>Lisa Vegan</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/83445-lisa-vegan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1243394822p3/83445.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1243394822p2/83445.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 21 14:49:34 -0700 2013</created_at>
+  <updated_at>Fri Jun 21 14:49:34 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>76741600</id>
+  <body><![CDATA[Wow indeed! Thanks, Lisa... incredible.. I almost have to laugh.]]></body>
+  
+  <user>
+    <id>520753</id>
+    <name>Kim</name>
+    <display_name>Kim</display_name>
+
+    <location>Essex Junction, VT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/520753-kim]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1402541317p3/520753.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1402541317p2/520753.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 21 15:16:41 -0700 2013</created_at>
+  <updated_at>Fri Jun 21 15:16:41 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>76747038</id>
+  <body><![CDATA[<i>Kim wrote: "Wow indeed! Thanks, Lisa... incredible.. I almost have to laugh."</i><br /><br />Yep.]]></body>
+  
+  <user>
+    <id>83445</id>
+    <name>Lisa</name>
+    <display_name>Lisa Vegan</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/83445-lisa-vegan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1243394822p3/83445.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1243394822p2/83445.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 21 16:46:46 -0700 2013</created_at>
+  <updated_at>Fri Jun 21 16:46:46 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>76761719</id>
+  <body><![CDATA[<i>Lisa wrote: "There is more &amp; more of this hatred at Goodreads. It was incredibly rare to have this expressed on Goodreads when I joined 6 years ago.<br /><br />I'd love to blame it on the sale to Amazon, but I probably c..."</i><br /><br />This is the first time I've seen anything like this. I just find it hard to believe that there are people who still think like this in 2013. Then again, I've just been reading about the Paula Deen scandal and am just shaking my head.]]></body>
+  
+  <user>
+    <id>811687</id>
+    <name>Sandi</name>
+    <display_name>Sandi</display_name>
+
+    <location>Fountain Valley, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/811687-sandi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1404709147p3/811687.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1404709147p2/811687.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 21 20:57:20 -0700 2013</created_at>
+  <updated_at>Fri Jun 21 20:57:20 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>76763315</id>
+  <body><![CDATA[Sandi, someone like this comments on some of the reviews of a friend of mine, and has been for a long time, but much of this stuff I've noticed coinciding with the Goodreads = Amazon situation. It's probably s coincidence. I've seen and heard about too much ugliness so I'm not surprised it's out there, but I am surprised it's made its way here to Goodreads. I never saw anything like it in 2007. Stuff 1/4 as awful was immediately tended to and an end was put to it. Unfortunately, things have changed and are continuing to change. And not for the better.]]></body>
+  
+  <user>
+    <id>83445</id>
+    <name>Lisa</name>
+    <display_name>Lisa Vegan</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/83445-lisa-vegan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1243394822p3/83445.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1243394822p2/83445.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 21 21:29:00 -0700 2013</created_at>
+  <updated_at>Fri Jun 21 21:29:00 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>76764225</id>
+  <body><![CDATA[Most of the ugliness I've seen has been when I or someone else has dared to declare a dislike of something that a gazillion people love. Even a well thought out criticism of some works will lead to some very ugly responses. It's one of the reasons I always try to "like" reviews that are well-written even if I don't agree with them and post something to the effect of "Well, I loved the book, but I can see your points and can understand why you didn't like it." Some people call that civil discourse.]]></body>
+  
+  <user>
+    <id>811687</id>
+    <name>Sandi</name>
+    <display_name>Sandi</display_name>
+
+    <location>Fountain Valley, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/811687-sandi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1404709147p3/811687.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1404709147p2/811687.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 21 21:51:35 -0700 2013</created_at>
+  <updated_at>Fri Jun 21 21:51:35 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>76765134</id>
+  <body><![CDATA[Exactly, Sandi. I'm like that too. I never comment on people's opinions of books, other than nicely agreeing or disagreeing and saying why. However, that's different that people's opinions about certain aspects of life.]]></body>
+  
+  <user>
+    <id>83445</id>
+    <name>Lisa</name>
+    <display_name>Lisa Vegan</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/83445-lisa-vegan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1243394822p3/83445.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1243394822p2/83445.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 21 22:16:57 -0700 2013</created_at>
+  <updated_at>Fri Jun 21 22:16:57 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>76782826</id>
+  <body><![CDATA[Kim, I wanted to affirm your beautiful review, which was Proust-like and rich in sensory experience and memory. I love reading personal accounts, like yours, of how a great book changed a life, softened a heart, created a hunger, helped to articulate a disappointment, or changed an attitude. I can see from the comment thread that Harper Lee still has her work cut out for her. Victor Hugo, in his epigraph to Les Miserables, wrote, "while ignorance and poverty persist on earth books such as this cannot fail to be of value."]]></body>
+  
+  <created_at>Sat Jun 22 08:22:19 -0700 2013</created_at>
+  <updated_at>Sat Jun 22 08:22:19 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>76789466</id>
+  <body><![CDATA[Thank you, Steve. I have enjoyed your reviews as well. :)]]></body>
+  
+  <user>
+    <id>520753</id>
+    <name>Kim</name>
+    <display_name>Kim</display_name>
+
+    <location>Essex Junction, VT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/520753-kim]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1402541317p3/520753.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1402541317p2/520753.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jun 22 10:26:55 -0700 2013</created_at>
+  <updated_at>Sat Jun 22 10:26:55 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>95978801</id>
+  <body><![CDATA[Hi,<br /><br />I am Pankaj and I represent <a target="_blank" href="http://www.learningandcreativity.com" rel="nofollow">www.learningandcreativity.com</a>, a interactive site to promote writing talents. I like your writing stytle and would like to post your this and other reviews/writings on our website. <br /><br />We will feature your bio with your photograph with a link back to your blog or website (if any).<br /><br />Let me know your views. Meanwhile check out our authors who contribute to our website.<br /><a target="_blank" href="http://www.learningandcreativity.com/contributors/" rel="nofollow">http://www.learningandcreativity.com/...</a><br /><br />Warm Regards,<br />Pankaj Sharma]]></body>
+  
+  <user>
+    <id>21540591</id>
+    <name>Pankaj</name>
+    <display_name>Pankaj Sharma</display_name>
+
+    <location>New Delhi, 07, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/21540591-pankaj-sharma]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1390031665p3/21540591.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1390031665p2/21540591.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Apr 03 23:24:38 -0700 2014</created_at>
+  <updated_at>Thu Apr 03 23:24:38 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>107738176</id>
+  <body><![CDATA[My mum made me read the book because she said it was good. I should have read your review first because, if possible, I would have liked it even better.]]></body>
+  
+  <user>
+    <id>35891075</id>
+    <name>Maddiepanda</name>
+    <display_name>Maddiepanda</display_name>
+
+    <location>Campbelltown, 02, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/35891075-maddiepanda]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1413281290p3/35891075.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1413281290p2/35891075.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 14 02:53:39 -0700 2014</created_at>
+  <updated_at>Tue Oct 14 02:53:39 -0700 2014</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/17497745]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/17497745]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

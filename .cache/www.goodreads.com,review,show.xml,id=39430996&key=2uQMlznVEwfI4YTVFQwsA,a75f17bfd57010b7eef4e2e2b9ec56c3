@@ -1,0 +1,848 @@
+status: 200
+x-request-id: S4G070YYA5TJV62FCMJY
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=39430996&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhg5OTQtMzI5NDMwMi0xNzgyNjg3BjoGRVQ%3D--d67b07c40fb4a7f2acf4a35a9db505b69b34ce36;
+ path=/; expires=Wed, 15 Apr 2037 15:16:43 -0000, locale=es;
+ path=/, _session_id2=bbbb5026c52cc32ae636e30270b171c5; path=/;
+ expires=Sat, 15 Apr 2017 21:16:43 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 31843
+server: Server
+x-runtime: 0.457177
+etag: W/"f0abb0df93386a51278034a450af60c5"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:16:43 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>39430996</id>
+    
+  <user>
+    <id>1713956</id>
+    <name>Manny</name>
+    <display_name>Manny</display_name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1713956-manny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442491692p3/1713956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442491692p2/1713956.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">5907</id>
+  <isbn>0618260307</isbn>
+  <isbn13>9780618260300</isbn13>
+  <text_reviews_count type="integer">27500</text_reviews_count>
+  <title>The Hobbit</title>
+  <title_without_series>The Hobbit</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1372847500m/5907.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1372847500s/5907.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/5907.The_Hobbit</link>
+  <num_pages>366</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Houghton Mifflin</publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.24</average_rating>
+  <ratings_count>2139201</ratings_count>
+  <description>&lt;i&gt;In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a hobbit-hole, and that means comfort.&lt;br /&gt;&lt;br /&gt;&lt;/i&gt;Written for J.R.R. Tolkien’s own children, &lt;i&gt;The Hobbit&lt;/i&gt; met with instant critical acclaim when it was first published in 1937. Now recognized as a timeless classic, this introduction to the hobbit Bilbo Baggins, the wizard Gandalf, Gollum, and the spectacular world of Middle-earth recounts of the adventures of a reluctant hero, a powerful and dangerous ring, and the cruel dragon Smaug the Magnificent. The text in this 372-page paperback edition is based on that first published in Great Britain by Collins Modern Classics (1998), and includes a note on the text by Douglas A. Anderson (2001). Unforgettable!&lt;br /&gt;</description>
+<authors>
+<author>
+<id>656983</id>
+<name>J.R.R. Tolkien</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1434625177p5/656983.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1434625177p2/656983.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
+<average_rating>4.30</average_rating>
+<ratings_count>6098482</ratings_count>
+<text_reviews_count>90948</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1216719244</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Jan 31 12:35:11 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>4</rating>
+  <votes>85</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sat Jan 01 00:00:00 -0800 1966</read_at>
+  <date_added>Sat Dec 06 05:24:48 -0800 2008</date_added>
+  <date_updated>Fri Feb 27 07:09:16 -0800 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I love the feeling of connectedness you get when you've wondered about something for a long time, and finally discover the answer. I had a great example of that yesterday. As I said in <a href="http://www.goodreads.com/review/show/38902981" rel="nofollow">my review of The Lord of the Rings</a>, for me Tolkien is all about language. I must have read <i>The Hobbit</i> when I was...]]>
+  </body>
+
+  
+
+  <comments_count>31</comments_count>
+    <comments start="1" end="31" total="31">
+        <comment>
+  <id>5730036</id>
+  <body><![CDATA[I'm fascinated by philology but not equiped to pursue it. :-(]]></body>
+  
+  <user>
+    <id>1433865</id>
+    <name>Robert</name>
+    <display_name>Robert</display_name>
+
+    <location>Bath, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1433865-robert]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1254324661p3/1433865.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1254324661p2/1433865.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 10 08:48:22 -0700 2009</created_at>
+  <updated_at>Sun May 10 08:48:22 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>9444709</id>
+  <body><![CDATA[Okay, so what about Tomnoddy? Of course, that's insulting to anyone. =) <br /><br />I was amazed when I started learning Sindarin that almost all the names for things are just literal translations of their English names (or vice-versa, I mean). So like Aglarond means glittering cave, Legolas means Greenleaf, etc. I thought that was cool. <br /><br />Also, I think all the words in the speech of the Eorlingas are actual Old English words, so we know a lot of those words now just from reading the LotR trilogy a gazillion times. <br /><br />I remember being shocked when realizing a lot of the Fremen words from Dune are actually Arabic. It's nice to accidentally learn something from the real world too when you get involved in fiction. =)]]></body>
+  
+  <user>
+    <id>180908</id>
+    <name>Tatiana</name>
+    <display_name>Tatiana</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/180908-tatiana]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1184048097p3/180908.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1184048097p2/180908.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Sep 20 07:36:43 -0700 2009</created_at>
+  <updated_at>Sun Sep 20 07:36:43 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>9454741</id>
+  <body><![CDATA[<i>Tatiana wrote: "I remember being shocked when realizing a lot of the Fremen words from Dune are actually Arabic."</i><br /><br />Tatiana: if you haven't already done so, you might want to take a look at my review of Dune, where I expand on this theme.<br /><br />]]></body>
+  
+  <user>
+    <id>1713956</id>
+    <name>Manny</name>
+    <display_name>Manny</display_name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1713956-manny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442491692p3/1713956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442491692p2/1713956.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Sep 20 14:02:45 -0700 2009</created_at>
+  <updated_at>Sun Sep 20 14:02:45 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>16490099</id>
+  <body><![CDATA[lol -- that question (origin of 'attercop') randomly popped into my head 2 days ago at which point I got distracted by daily life - thank you for answering it for me!<br /><br />I love his personal history with languages, as well as what he does with them in his writing]]></body>
+  
+  <user>
+    <id>2969156</id>
+    <name>Trice</name>
+    <display_name>Trice</display_name>
+
+    <location>Kunming, YN, China</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2969156-trice]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1376036013p3/2969156.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1376036013p2/2969156.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon May 10 07:18:54 -0700 2010</created_at>
+  <updated_at>Mon May 10 07:18:54 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20749147</id>
+  <body><![CDATA[More fun language trivia - in the earlier editions, Tolkien referred to the High Wood Elves as "gnomes" because of the derivation from the Greek "gnosis," but changed because obviously what comes to mind is garish garden decorations. <br><br><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1379745533i/95878.jpg" class="gr-hostedUserImg">]]></body>
+  
+  <user>
+    <id>2863914</id>
+    <name>j</name>
+    <display_name>j</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2863914-j]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1407175214p3/2863914.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1407175214p2/2863914.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Sep 08 09:24:29 -0700 2010</created_at>
+  <updated_at>Wed Sep 08 09:24:29 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>110653629</id>
+  <body><![CDATA[Totally agree with you... A new language learnt will take us to a new horizon &amp; open many doors, which weren't visible(accessible?) earlier...<br />Thanks for sharing ur feeling.....]]></body>
+  
+  <user>
+    <id>30721648</id>
+    <name>Srikumar</name>
+    <display_name>Srikumar Krishna Iyer</display_name>
+
+    <location>Chennai, 25, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/30721648-srikumar-krishna-iyer]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1437499699p3/30721648.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1437499699p2/30721648.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Dec 08 02:59:35 -0800 2014</created_at>
+  <updated_at>Mon Dec 08 02:59:35 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>115306055</id>
+  <body><![CDATA[Manny did you first read Tolkien's books in English?]]></body>
+  
+  <user>
+    <id>38457634</id>
+    <name>Neil </name>
+    <display_name>Neil </display_name>
+
+    <location>Ireland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/38457634-neil]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1436111927p3/38457634.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1436111927p2/38457634.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 27 07:23:07 -0800 2015</created_at>
+  <updated_at>Fri Feb 27 07:23:07 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>115306124</id>
+  <body><![CDATA[<i>Neil wrote: "Manny did you first read Tolkien's books in English?"</i><br /><br />Absolutely. In fact I have never read them in any other language.]]></body>
+  
+  <user>
+    <id>1713956</id>
+    <name>Manny</name>
+    <display_name>Manny</display_name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1713956-manny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442491692p3/1713956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442491692p2/1713956.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 27 07:24:49 -0800 2015</created_at>
+  <updated_at>Fri Feb 27 07:24:49 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>115306337</id>
+  <body><![CDATA[<i>Manny wrote: "Neil wrote: "Manny did you first read Tolkien's books in English?"<br /><br />Absolutely. In fact I have never read them in any other language."</i><br /><br />What hooked me was the epic use of archaic language he uses throughout his works, I wonder if they would translate well, maybe they would with another Germanic language, I only speak English, though I've often wondered about it]]></body>
+  
+  <user>
+    <id>38457634</id>
+    <name>Neil </name>
+    <display_name>Neil </display_name>
+
+    <location>Ireland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/38457634-neil]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1436111927p3/38457634.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1436111927p2/38457634.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 27 07:29:09 -0800 2015</created_at>
+  <updated_at>Fri Feb 27 07:29:09 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>115306455</id>
+  <body><![CDATA[I must look at a French translation! Now I have to know too :)]]></body>
+  
+  <user>
+    <id>1713956</id>
+    <name>Manny</name>
+    <display_name>Manny</display_name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1713956-manny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442491692p3/1713956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442491692p2/1713956.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 27 07:31:41 -0800 2015</created_at>
+  <updated_at>Fri Feb 27 07:31:41 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>115306522</id>
+  <body><![CDATA[<i>Manny wrote: "I must look at a French translation! Now I have to know too :)"</i><br /><br />Yay, post your findings:)]]></body>
+  
+  <user>
+    <id>38457634</id>
+    <name>Neil </name>
+    <display_name>Neil </display_name>
+
+    <location>Ireland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/38457634-neil]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1436111927p3/38457634.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1436111927p2/38457634.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 27 07:33:11 -0800 2015</created_at>
+  <updated_at>Fri Feb 27 07:33:11 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>115306704</id>
+  <body><![CDATA[Start by looking <a href="http://fr.wikipedia.org/wiki/Le_Seigneur_des_anneaux" rel="nofollow">here</a>.]]></body>
+  
+  <user>
+    <id>1713956</id>
+    <name>Manny</name>
+    <display_name>Manny</display_name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1713956-manny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442491692p3/1713956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442491692p2/1713956.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 27 07:36:47 -0800 2015</created_at>
+  <updated_at>Fri Feb 27 07:36:47 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>115309305</id>
+  <body><![CDATA[I find it no fun at all to acquire a new language; I just find it impossible. I think it would be immense fun <i>to have</i> acquired a new language, though. E.g. English...]]></body>
+  
+  <user>
+    <id>1433865</id>
+    <name>Robert</name>
+    <display_name>Robert</display_name>
+
+    <location>Bath, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1433865-robert]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1254324661p3/1433865.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1254324661p2/1433865.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 27 08:27:27 -0800 2015</created_at>
+  <updated_at>Fri Feb 27 08:27:27 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>115318239</id>
+  <body><![CDATA[you're right about that Robert. I have a Japanese teacher who randomly starts speaking in japanese and im just like ...<br />the hell?]]></body>
+  
+  <user>
+    <id>31576181</id>
+    <name>bileys little stupid kindle</name>
+    <display_name>bileys little stupid kindle</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/31576181-bileys-little-stupid-kindle]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 27 11:31:14 -0800 2015</created_at>
+  <updated_at>Fri Feb 27 11:31:14 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>115320677</id>
+  <body><![CDATA[<i>Bails_Williams wrote: "you're right about that Robert. I have a Japanese teacher who randomly starts speaking in japanese and im just like ...<br />the hell?"</i><br /><br />Is your Japanese teacher Japanese?]]></body>
+  
+  <user>
+    <id>1433865</id>
+    <name>Robert</name>
+    <display_name>Robert</display_name>
+
+    <location>Bath, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1433865-robert]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1254324661p3/1433865.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1254324661p2/1433865.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 27 12:16:29 -0800 2015</created_at>
+  <updated_at>Fri Feb 27 12:16:29 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>115403663</id>
+  <body><![CDATA[sorry Robert, she isn't. also isnt that racist but still, i dont really care]]></body>
+  
+  <user>
+    <id>31576181</id>
+    <name>bileys little stupid kindle</name>
+    <display_name>bileys little stupid kindle</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/31576181-bileys-little-stupid-kindle]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Mar 01 01:22:28 -0800 2015</created_at>
+  <updated_at>Sun Mar 01 01:22:28 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>116299663</id>
+  <body><![CDATA[I've started reading El Hobbit (in Spanish) and it's giving me a whole new feeling for the story. It's all new to me again, in some way. Of course it's much slower going for me, since my Spanish is only so-so (I've been studying it on duolingo for about 7 months now) and part of it may have to do with just how much more you notice when you read slower. But part of it is the language itself, which is making the story fresh for me again. It's pretty awesome! After El Hobbit, I plan to read the whole Señor de los Anillos trilogy.]]></body>
+  
+  <user>
+    <id>180908</id>
+    <name>Tatiana</name>
+    <display_name>Tatiana</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/180908-tatiana]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1184048097p3/180908.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1184048097p2/180908.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 17 20:25:17 -0700 2015</created_at>
+  <updated_at>Tue Mar 17 20:25:17 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>116304142</id>
+  <body><![CDATA[Hey, I'm learning Spanish too! Though I decided to read <i>Persépolis</i> instead, which is also working pretty well. <br /><br />I seriously considered <i>El Hobbit</i>... actually got as far as taking it down from the shelf at the bookstore and leafing through it before putting it back. An impressive near-coincidence!]]></body>
+  
+  <user>
+    <id>1713956</id>
+    <name>Manny</name>
+    <display_name>Manny</display_name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1713956-manny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442491692p3/1713956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442491692p2/1713956.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 17 23:44:31 -0700 2015</created_at>
+  <updated_at>Tue Mar 17 23:44:31 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>116305307</id>
+  <body><![CDATA[<i>Manny wrote: "An impressive near-coincidence!"</i><br /><br />And on such things entire mumbo-jombo belief systems are built...]]></body>
+  
+  <user>
+    <id>1199525</id>
+    <name>Cecily</name>
+    <display_name>Cecily</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1199525-cecily]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480285828p3/1199525.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480285828p2/1199525.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 18 00:55:11 -0700 2015</created_at>
+  <updated_at>Wed Mar 18 00:55:11 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>116305490</id>
+  <body><![CDATA[As Lea Thompson says in <i>Howard the Duck</i>, everything happens for a purpose!]]></body>
+  
+  <user>
+    <id>1713956</id>
+    <name>Manny</name>
+    <display_name>Manny</display_name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1713956-manny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442491692p3/1713956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442491692p2/1713956.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 18 01:08:16 -0700 2015</created_at>
+  <updated_at>Wed Mar 18 01:08:16 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>116305577</id>
+  <body><![CDATA[I'm sceptical.]]></body>
+  
+  <user>
+    <id>1199525</id>
+    <name>Cecily</name>
+    <display_name>Cecily</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1199525-cecily]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480285828p3/1199525.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480285828p2/1199525.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 18 01:13:24 -0700 2015</created_at>
+  <updated_at>Wed Mar 18 01:13:24 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>116305765</id>
+  <body><![CDATA[What?!<br /><br />Look, if Howard hadn't been fetched from the Duck Planet by Dr Jenning's laser spectroscope, no one would have been there to save Earth from the Dark Overlord. I know you'll say it's just a story, but things like that happen all the time... it's really more a parable. How much proof do you need?]]></body>
+  
+  <user>
+    <id>1713956</id>
+    <name>Manny</name>
+    <display_name>Manny</display_name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1713956-manny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442491692p3/1713956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442491692p2/1713956.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 18 01:24:40 -0700 2015</created_at>
+  <updated_at>Wed Mar 18 01:24:40 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>116306226</id>
+  <body><![CDATA[<i>Manny wrote: "How much proof do you need?"</i><br /><br />You're persuasive, of course, but I think I need to talk to the Duck.]]></body>
+  
+  <user>
+    <id>1199525</id>
+    <name>Cecily</name>
+    <display_name>Cecily</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1199525-cecily]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480285828p3/1199525.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480285828p2/1199525.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 18 01:55:38 -0700 2015</created_at>
+  <updated_at>Wed Mar 18 01:55:38 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>116306565</id>
+  <body><![CDATA[I thought everything happened for a porpoise. I've given up trying to assimilate.]]></body>
+  
+  <user>
+    <id>5022264</id>
+    <name>Ian</name>
+    <display_name>Ian &quot;Marvin&quot; Graye</display_name>
+
+    <location>Brisbane, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5022264-ian-marvin-graye]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478494667p3/5022264.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478494667p2/5022264.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 18 02:17:43 -0700 2015</created_at>
+  <updated_at>Wed Mar 18 02:17:43 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>116307235</id>
+  <body><![CDATA[Cecily, you must have been born from a really hard-boiled egg.]]></body>
+  
+  <user>
+    <id>1713956</id>
+    <name>Manny</name>
+    <display_name>Manny</display_name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1713956-manny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442491692p3/1713956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442491692p2/1713956.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 18 02:59:27 -0700 2015</created_at>
+  <updated_at>Wed Mar 18 02:59:27 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>116307336</id>
+  <body><![CDATA[what is this about eggs and ducks?]]></body>
+  
+  <user>
+    <id>31576181</id>
+    <name>bileys little stupid kindle</name>
+    <display_name>bileys little stupid kindle</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/31576181-bileys-little-stupid-kindle]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 18 03:03:48 -0700 2015</created_at>
+  <updated_at>Wed Mar 18 03:03:48 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>116308132</id>
+  <body><![CDATA[<i>Bails_Williams wrote: "what is this about eggs and ducks?"</i><br /><br />Bails, you have to see <a href="http://www.imdb.com/title/tt0091225/" rel="nofollow">
+  <i>Howard the Duck</i>
+</a>. It's a masterpiece of bad taste. Or if you're in a hurry, save time by just checking out <a href="https://www.youtube.com/watch?v=u6hDf5cCUJw" rel="nofollow">the ten most disturbing moments</a>...]]></body>
+  
+  <user>
+    <id>1713956</id>
+    <name>Manny</name>
+    <display_name>Manny</display_name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1713956-manny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442491692p3/1713956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442491692p2/1713956.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 18 03:46:17 -0700 2015</created_at>
+  <updated_at>Wed Mar 18 03:46:17 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>116312545</id>
+  <body><![CDATA[<i>Bails_Williams wrote: "what is this about eggs and ducks?"</i><br /><br />Which came first?]]></body>
+  
+  <user>
+    <id>1199525</id>
+    <name>Cecily</name>
+    <display_name>Cecily</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1199525-cecily]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480285828p3/1199525.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480285828p2/1199525.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 18 06:33:03 -0700 2015</created_at>
+  <updated_at>Wed Mar 18 06:33:03 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>116325379</id>
+  <body><![CDATA[<i>Cecily wrote: "Bails_Williams wrote: "what is this about eggs and ducks?"<br /><br />Which came first?"</i><br /><br />Eggs.]]></body>
+  
+  <user>
+    <id>1433865</id>
+    <name>Robert</name>
+    <display_name>Robert</display_name>
+
+    <location>Bath, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1433865-robert]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1254324661p3/1433865.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1254324661p2/1433865.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 18 11:32:28 -0700 2015</created_at>
+  <updated_at>Wed Mar 18 11:32:28 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>116329298</id>
+  <body><![CDATA[ok thanks manny. Will look it up on YouTube today.]]></body>
+  
+  <user>
+    <id>31576181</id>
+    <name>bileys little stupid kindle</name>
+    <display_name>bileys little stupid kindle</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/31576181-bileys-little-stupid-kindle]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 18 12:45:39 -0700 2015</created_at>
+  <updated_at>Wed Mar 18 12:45:39 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141199424</id>
+  <body><![CDATA[I think that is my favourite book of all time! ;)]]></body>
+  
+  <user>
+    <id>34207574</id>
+    <name>Miquel</name>
+    <display_name>Miquel Reina</display_name>
+
+    <location>Barcelona, Spain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34207574-miquel-reina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1472878884p3/34207574.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1472878884p2/34207574.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Oct 08 03:06:50 -0700 2015</created_at>
+  <updated_at>Thu Oct 08 03:06:50 -0700 2015</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/39430996]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/39430996]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

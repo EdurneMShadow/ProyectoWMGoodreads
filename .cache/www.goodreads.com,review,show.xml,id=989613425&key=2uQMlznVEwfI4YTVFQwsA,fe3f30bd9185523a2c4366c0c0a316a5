@@ -1,0 +1,203 @@
+status: 200
+x-request-id: ABNJ48VPQGWWZ9E6AAM0
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=989613425&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhgwOTgtMTEwMDcyMy04MTQ1MjMxBjoGRVQ%3D--24f8eeba4814f6b1c6a4e1683baf8b84f3547f3a;
+ path=/; expires=Wed, 15 Apr 2037 16:54:23 -0000, locale=es;
+ path=/, _session_id2=487d07668ff8e3ea7d0cc1e8e1e09e7d; path=/;
+ expires=Sat, 15 Apr 2017 22:54:23 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 7281
+server: Server
+x-runtime: 0.477045
+etag: W/"4d7dbb78941c5a51b8a8e3d15d4afceb"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 16:54:23 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>989613425</id>
+    
+  <user>
+    <id>2160536</id>
+    <name>Marvin</name>
+    <display_name>Marvin</display_name>
+
+    <location>Palm Desert, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2160536-marvin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1485672728p3/2160536.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1485672728p2/2160536.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">240008</id>
+  <isbn>006256672</isbn>
+  <isbn13>9780060256678</isbn13>
+  <text_reviews_count type="integer">138</text_reviews_count>
+  <title>Where the Sidewalk Ends: Poems and Drawings</title>
+  <title_without_series>Where the Sidewalk Ends: Poems and Drawings</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1392592827m/240008.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1392592827s/240008.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/240008.Where_the_Sidewalk_Ends</link>
+  <num_pages>175</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>HarperCollins</publisher>
+  <publication_day>20</publication_day>
+  <publication_year>1974</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4.28</average_rating>
+  <ratings_count>1007364</ratings_count>
+  <description>Shel Silverstein shook the staid world of children's poetry in 1974 with the publication of this collection, and things haven't been the same since. More than four and a half million copies of &lt;i&gt;Where the Sidewalk Ends&lt;/i&gt; have been sold, making it the bestselling children's poetry book ever. With this and his other poetry collections (&lt;i&gt;A Light in the Attic&lt;/i&gt; and &lt;i&gt;Falling Up&lt;/i&gt;), Silverstein reveals his genius for reaching kids with silly words and simple pen-and-ink drawings. What child can resist a poem called "Dancing Pants" or "The Dirtiest Man in the World"? Each of the 130 poems is funny in a different way, or touching ... or both. Some approach naughtiness or are a bit disgusting to squeamish grown-ups, but that's exactly what kids like best about Silverstein's work. Jim Trelease, author of &lt;i&gt;The New Read-Aloud Handbook,&lt;/i&gt; calls this book "without question, the best-loved collection of poetry for children." &lt;i&gt;(Ages 4 to 10)&lt;/i&gt;</description>
+<authors>
+<author>
+<id>435477</id>
+<name>Shel Silverstein</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201029128p5/435477.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201029128p2/435477.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/435477.Shel_Silverstein]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>2175592</ratings_count>
+<text_reviews_count>30190</text_reviews_count>
+</author>
+</authors>
+  <published>1974</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">488911125</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Mon Jul 07 23:40:19 -0700 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>30</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="humor" exclusive="false" review_shelf_id="734751333" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Mon Jul 07 00:00:00 -0700 2014</read_at>
+  <date_added>Mon Jul 07 23:40:18 -0700 2014</date_added>
+  <date_updated>Tue Jul 08 06:35:47 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Look O Look!<br />I see a book! <br />A book that gleams<br />A book that screams <br />Delightful things<br />By Shel Silverstein<br />Poems and drawings<br />That are not boring<br />They speak to me <br />Like a tapestry<br />Of childhood joys<br />For girls and boys <br />Not just for kids<br />Adults will dig<br />The funny rhymes<br />of forgotten times<br />When they were young<br />And li...]]>
+  </body>
+
+  
+
+  <comments_count>3</comments_count>
+    <comments start="1" end="3" total="3">
+        <comment>
+  <id>117833281</id>
+  <body><![CDATA[Oh how I love this book!]]></body>
+  
+  <user>
+    <id>41798791</id>
+    <name>Jenna</name>
+    <display_name>Jenna</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/41798791-jenna]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu Apr 16 10:43:55 -0700 2015</created_at>
+  <updated_at>Thu Apr 16 10:43:55 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>143002976</id>
+  <body><![CDATA[I love this book]]></body>
+  
+  <user>
+    <id>49122051</id>
+    <name>Madison Justice</name>
+    <display_name>Madison Justice</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/49122051-madison-justice]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 18 10:46:46 -0800 2015</created_at>
+  <updated_at>Wed Nov 18 10:46:46 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>157385598</id>
+  <body><![CDATA[Nice one.]]></body>
+  
+  <user>
+    <id>60095664</id>
+    <name>Raqogugmail.Com</name>
+    <display_name>Raqogugmail.Com</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/60095664-raqogugmail-com]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu Sep 29 01:48:07 -0700 2016</created_at>
+  <updated_at>Thu Sep 29 01:48:07 -0700 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/989613425]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/989613425]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

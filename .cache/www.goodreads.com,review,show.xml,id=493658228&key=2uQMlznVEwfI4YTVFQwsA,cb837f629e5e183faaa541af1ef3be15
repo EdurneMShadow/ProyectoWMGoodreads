@@ -1,0 +1,406 @@
+status: 200
+x-request-id: 3EH8CAYE1B10GBWQDCT0
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=493658228&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhgwMjMtNTE0MzQ3Mi05MzE3OTQ5BjoGRVQ%3D--3bf0c83a88fd6eb34912139903fa686146a66094;
+ path=/; expires=Wed, 15 Apr 2037 15:23:25 -0000, locale=es;
+ path=/, _session_id2=07bd1c9f50acd761c52457c6588cd8b1; path=/;
+ expires=Sat, 15 Apr 2017 21:23:26 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 15156
+server: Server
+x-runtime: 0.636955
+etag: W/"fbdb2ba6e7bfa84b625e7c97df9ae9fa"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:23:26 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>493658228</id>
+    
+  <user>
+    <id>10376232</id>
+    <name>Saania Zee</name>
+    <display_name>Saania Zee Jamal ϟ</display_name>
+
+    <location>Hogwarts, Qatar, Qatar</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10376232-saania-zee-jamal]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488410202p3/10376232.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488410202p2/10376232.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">72193</id>
+  <isbn>0747532745</isbn>
+  <isbn13>9780747532743</isbn13>
+  <text_reviews_count type="integer">2255</text_reviews_count>
+  <title>Harry Potter and the Philosopher's Stone (Harry Potter, #1)</title>
+  <title_without_series>Harry Potter and the Philosopher's Stone</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1327190600m/72193.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1327190600s/72193.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/72193.Harry_Potter_and_the_Philosopher_s_Stone</link>
+  <num_pages>223</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Bloomsbury Publishing</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>1997</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.44</average_rating>
+  <ratings_count>4576472</ratings_count>
+  <description>Harry Potter thinks he is an ordinary boy - until he is rescued by an owl, taken to Hogwarts School of Witchcraft and Wizardry, learns to play Quidditch and does battle in a deadly duel. The Reason ... HARRY POTTER IS A WIZARD!</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1415945171p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1415945171p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.42</average_rating>
+<ratings_count>17561506</ratings_count>
+<text_reviews_count>435220</text_reviews_count>
+</author>
+</authors>
+  <published>1997</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">114980136</id>
+          <page type="integer">10</page>
+          <chapter type="integer"></chapter>
+          <comments_count>1</comments_count>
+          <created_at type="datetime">Sun Dec 11 07:48:13 -0800 2016</created_at>
+          <updated_at type="datetime">Sun Dec 11 07:48:23 -0800 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">40</ratings_count>
+          <percent type="integer">4</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.bae4653323d0b133bc13e9e124de5a36</note_uri>
+          <note_updated_at type="datetime">Sun Dec 11 07:48:23 -0800 2016</note_updated_at>
+          <body><![CDATA[OH MY SWEET BABY HARRY IM GETTING WAR FLASHBACKS TO FIFTH GRADE EXCEPT ITS THE GOOD KIND I CRI]]></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">1677239309</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sat Jan 21 10:25:53 -0800 2017</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1605239467</id>
+          <old_status>read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Tue Dec 06 04:14:02 -0800 2016</updated_at>
+          <ratings_count>17</ratings_count>
+          <comments_count>5</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1473254505</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Tue Aug 16 07:43:55 -0700 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>186</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="childhood-times" exclusive="false" review_shelf_id="388823888" sortable="false" />
+    <shelf name="perfect-authors" exclusive="false" review_shelf_id="1425987048" sortable="false" />
+    <shelf name="top-of-the-list-baby" exclusive="false" review_shelf_id="388822949" sortable="false" />
+    <shelf name="asdfghjklnenndjd" exclusive="false" review_shelf_id="388823021" sortable="false" />
+    <shelf name="fantasy-la-la-la" exclusive="false" review_shelf_id="402809409" sortable="false" />
+    <shelf name="covergasm" exclusive="false" review_shelf_id="1425987035" sortable="false" />
+    <shelf name="edge-of-the-seat-thriller" exclusive="false" review_shelf_id="1425987043" sortable="false" />
+    <shelf name="must-read" exclusive="false" review_shelf_id="388822979" sortable="false" />
+    <shelf name="feels-inducing" exclusive="false" review_shelf_id="1425987045" sortable="false" />
+    <shelf name="non-romantic-adventure" exclusive="false" review_shelf_id="1425987046" sortable="false" />
+</shelves>
+  <recommended_for>All human beans.</recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Jan 01 00:00:00 -0800 2008</started_at>
+  <read_at>Thu Jan 01 00:00:00 -0800 2009</read_at>
+  <date_added>Thu Jan 03 04:44:38 -0800 2013</date_added>
+  <date_updated>Sat Jan 21 10:28:58 -0800 2017</date_updated>
+  <read_count>2</read_count>
+  <body>
+      <![CDATA[Why oh why haven't I re-read this before? That was the best nostalgia train ride of my life.<br />________________________ <br /><br />This? This is <b>everything.</b><br />I wouldn't even be on here if I hadn't decided to randomly buy "that book with the cool-looking cover" all those long, long years ago— and for that, I than...]]>
+  </body>
+
+  
+
+  <comments_count>10</comments_count>
+    <comments start="1" end="10" total="10">
+        <comment>
+  <id>156976620</id>
+  <body><![CDATA[It's amazing how a book can start something so big! &lt;3 :)]]></body>
+  
+  <user>
+    <id>59531221</id>
+    <name>Gabi</name>
+    <display_name><![CDATA[Gabi (The Outcast Who Reads Too Much)]]></display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/59531221-gabi-the-outcast-who-reads-too-much]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1473610330p3/59531221.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1473610330p2/59531221.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Sep 18 12:24:06 -0700 2016</created_at>
+  <updated_at>Sun Sep 18 12:24:06 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>156978720</id>
+  <body><![CDATA[Amazing book. These stories were actually worth the hype, which almost never happens!]]></body>
+  
+  <user>
+    <id>31857555</id>
+    <name>Jody</name>
+    <display_name>Jody McGrath</display_name>
+
+    <location>Aberdeen, SD</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/31857555-jody-mcgrath]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1472364212p3/31857555.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1472364212p2/31857555.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Sep 18 13:18:09 -0700 2016</created_at>
+  <updated_at>Sun Sep 18 13:18:09 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158945113</id>
+  <body><![CDATA[It makes me so happy when a new reader reads Harry Potter for the first time. I miss those days.]]></body>
+  
+  <user>
+    <id>35147071</id>
+    <name><![CDATA[Jenn *The Crimson Dark Lord Scribe, House of Slytheread*]]></name>
+    <display_name><![CDATA[Jenn *The Crimson Dark Lord Scribe, House of Slytheread*]]></display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/35147071-jenn-the-crimson-dark-lord-scribe-house-of-slytheread]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1491306956p3/35147071.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1491306956p2/35147071.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 09 11:49:20 -0800 2016</created_at>
+  <updated_at>Wed Nov 09 11:49:20 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158945961</id>
+  <body><![CDATA[These books have given me so much peace and comfort over the years!]]></body>
+  
+  <user>
+    <id>11937899</id>
+    <name>Whitney</name>
+    <display_name>Whitney</display_name>
+
+    <location>Statesville, NC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11937899-whitney]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1464033237p3/11937899.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1464033237p2/11937899.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 09 12:17:49 -0800 2016</created_at>
+  <updated_at>Wed Nov 09 12:17:49 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158946218</id>
+  <body><![CDATA[<i>Especially</i> on a day like this one. *shudders*]]></body>
+  
+  <user>
+    <id>10376232</id>
+    <name>Saania Zee</name>
+    <display_name>Saania Zee Jamal ϟ</display_name>
+
+    <location>Hogwarts, Qatar, Qatar</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10376232-saania-zee-jamal]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488410202p3/10376232.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488410202p2/10376232.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 09 12:25:27 -0800 2016</created_at>
+  <updated_at>Wed Nov 09 12:25:27 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158946301</id>
+  <body><![CDATA[<i>Jenn *Sassy&amp;Opinionated* wrote: "It makes me so happy when a new reader reads Harry Potter for the first time. I miss those days."</i><br /><br />Yessss, I feel like a mama bear watching their kid growing up and learning new awesome things for some reason xD]]></body>
+  
+  <user>
+    <id>10376232</id>
+    <name>Saania Zee</name>
+    <display_name>Saania Zee Jamal ϟ</display_name>
+
+    <location>Hogwarts, Qatar, Qatar</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10376232-saania-zee-jamal]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488410202p3/10376232.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488410202p2/10376232.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 09 12:28:13 -0800 2016</created_at>
+  <updated_at>Wed Nov 09 12:28:13 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158946865</id>
+  <body><![CDATA[<i>Saania Zee wrote: "Jenn *Sassy&amp;Opinionated* wrote: "It makes me so happy when a new reader reads Harry Potter for the first time. I miss those days."<br /><br />Yessss, I feel like a mama bear watching their kid growing up and..."</i><br /><br />Every time. I just feel bad that these kids now have to justify why they're reading these books and I'm like, 'dude. chill. I LOVE THESE BOOKS!']]></body>
+  
+  <user>
+    <id>35147071</id>
+    <name><![CDATA[Jenn *The Crimson Dark Lord Scribe, House of Slytheread*]]></name>
+    <display_name><![CDATA[Jenn *The Crimson Dark Lord Scribe, House of Slytheread*]]></display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/35147071-jenn-the-crimson-dark-lord-scribe-house-of-slytheread]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1491306956p3/35147071.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1491306956p2/35147071.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 09 12:49:11 -0800 2016</created_at>
+  <updated_at>Wed Nov 09 12:49:11 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159060388</id>
+  <body><![CDATA[Glad you loved this book :)]]></body>
+  
+  <user>
+    <id>25327841</id>
+    <name>P </name>
+    <display_name>P </display_name>
+
+    <location>Thailand</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25327841-p]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1489853536p3/25327841.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1489853536p2/25327841.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Nov 12 23:03:02 -0800 2016</created_at>
+  <updated_at>Sat Nov 12 23:03:02 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159082582</id>
+  <body><![CDATA[Yes :( Times like these make HP a must.]]></body>
+  
+  <user>
+    <id>11937899</id>
+    <name>Whitney</name>
+    <display_name>Whitney</display_name>
+
+    <location>Statesville, NC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11937899-whitney]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1464033237p3/11937899.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1464033237p2/11937899.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 13 16:00:06 -0800 2016</created_at>
+  <updated_at>Sun Nov 13 16:00:06 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159988294</id>
+  <body><![CDATA[WAHHHHH! Enjoy reading Saania!! I hope to read this soon!!! &lt;3]]></body>
+  
+  <user>
+    <id>54892938</id>
+    <name>CAM ♔</name>
+    <display_name>CAM ♔</display_name>
+
+    <location>The United Arab Emirates</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/54892938-cam]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483363906p3/54892938.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483363906p2/54892938.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Dec 08 04:57:35 -0800 2016</created_at>
+  <updated_at>Thu Dec 08 04:57:35 -0800 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/493658228]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/493658228]]></link>
+    <owned>1</owned>
+</review>
+
+
+</GoodreadsResponse>

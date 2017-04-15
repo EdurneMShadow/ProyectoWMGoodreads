@@ -1,0 +1,643 @@
+status: 200
+x-request-id: ZTTK9E7QFG3ZFCHJSVB5
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=1182910&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhg4MDMtNjY1NDI1Ny02Nzg4ODE0BjoGRVQ%3D--bb37d8b792ec8ec3cd5a7a4e182d3a6e04cd9dfe;
+ path=/; expires=Wed, 15 Apr 2037 17:02:25 -0000, locale=es;
+ path=/, _session_id2=c67cc37db850c234276918465609b4ec; path=/;
+ expires=Sat, 15 Apr 2017 23:02:26 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 26763
+server: Server
+x-runtime: 0.424260
+etag: W/"150b1629ada91624df55b7a6e0e45990"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 17:02:26 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1182910</id>
+    
+  <user>
+    <id>83582</id>
+    <name>Bill </name>
+    <display_name>Bill  Kerwin</display_name>
+
+    <location>Columbus, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/83582-bill-kerwin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442940975p3/83582.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442940975p2/83582.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">18490</id>
+  <isbn>0141439475</isbn>
+  <isbn13>9780141439471</isbn13>
+  <text_reviews_count type="integer">12948</text_reviews_count>
+  <title>Frankenstein</title>
+  <title_without_series>Frankenstein</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1381512375m/18490.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1381512375s/18490.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18490.Frankenstein</link>
+  <num_pages>273</num_pages>
+  <format>Paperback</format>
+  <edition_information>Penguin Classics</edition_information>
+  <publisher>Penguin Books</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.75</average_rating>
+  <ratings_count>855238</ratings_count>
+  <description>&lt;b&gt;Mary Shelley&lt;/b&gt; began writing &lt;i&gt;Frankenstein&lt;/i&gt; when she was only eighteen. At once a Gothic thriller, a passionate romance, and a cautionary tale about the dangers of science, &lt;i&gt;Frankenstein&lt;/i&gt; tells the story of committed science student Victor Frankenstein. Obsessed with discovering the cause of generation and life and bestowing animation upon lifeless matter, Frankenstein assembles a human being from stolen body parts but; upon bringing it to life, he recoils in horror at the creature's hideousness. Tormented by isolation and loneliness, the once-innocent creature turns to evil and unleashes a campaign of murderous revenge against his creator, Frankenstein.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Frankenstein&lt;/i&gt;, an instant bestseller and an important ancestor of both the horror and science fiction genres, not only tells a terrifying story, but also raises profound, disturbing questions about the very nature of life and the place of humankind within the cosmos: What does it mean to be human? What responsibilities do we have to each other? How far can we go in tampering with Nature? In our age, filled with news of organ donation genetic engineering, and bio-terrorism, these questions are more relevant than ever.</description>
+<authors>
+<author>
+<id>11139</id>
+<name>Mary Wollstonecraft Shelley</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p5/11139.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p2/11139.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/11139.Mary_Wollstonecraft_Shelley]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>877806</ratings_count>
+<text_reviews_count>20767</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1215402164</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sat Jan 30 16:15:00 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>307</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="gothic" exclusive="false" review_shelf_id="239719877" sortable="false" />
+    <shelf name="detective-mystery" exclusive="false" review_shelf_id="239719882" sortable="false" />
+    <shelf name="epistolary" exclusive="false" review_shelf_id="261377390" sortable="false" />
+    <shelf name="weird-fiction" exclusive="false" review_shelf_id="239719899" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Jul 19 00:00:00 -0700 2012</read_at>
+  <date_added>Sat May 12 22:43:10 -0700 2007</date_added>
+  <date_updated>Tue Apr 11 09:49:05 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[<br />It's been fifty years since I had read <i>Frankenstein</i>, and, now—after a recent second reading—I am pleased to know that the pleasures of that first reading have been revived. Once again--just as it was in my teens--I was thrilled by the first glimpse of the immense figure of the monster, driving hi...]]>
+  </body>
+
+  
+
+  <comments_count>22</comments_count>
+    <comments start="1" end="22" total="22">
+        <comment>
+  <id>56986117</id>
+  <body><![CDATA[Very elaborated review, i have read this novel just when i became 24. And it's amazing how it's full of grace and passion. A favourite!]]></body>
+  
+  <user>
+    <id>6813229</id>
+    <name>Hamza</name>
+    <display_name>Hamza</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6813229-hamza]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1452181442p3/6813229.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1452181442p2/6813229.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 26 15:09:05 -0700 2012</created_at>
+  <updated_at>Sun Aug 26 15:09:05 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>57086553</id>
+  <body><![CDATA[Wasn't it the Antarctic? Or am I mis-remembering?]]></body>
+  
+  <user>
+    <id>1433865</id>
+    <name>Robert</name>
+    <display_name>Robert</display_name>
+
+    <location>Bath, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1433865-robert]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1254324661p3/1433865.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1254324661p2/1433865.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 28 06:11:38 -0700 2012</created_at>
+  <updated_at>Tue Aug 28 06:11:38 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>57107931</id>
+  <body><![CDATA[It IS the Arctic, which in 1816 was still largely unknown. Explorer Robert Walton's first two letters to his sister are sent from St. Petersburgh and Archangelsk, Russia.]]></body>
+  
+  <user>
+    <id>83582</id>
+    <name>Bill </name>
+    <display_name>Bill  Kerwin</display_name>
+
+    <location>Columbus, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/83582-bill-kerwin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442940975p3/83582.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442940975p2/83582.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 28 13:26:32 -0700 2012</created_at>
+  <updated_at>Tue Aug 28 13:26:32 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>108069860</id>
+  <body><![CDATA[Great review, Bill.]]></body>
+  
+  <user>
+    <id>19832827</id>
+    <name>B the BookAddict</name>
+    <display_name>B the BookAddict</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/19832827-b-the-bookaddict]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478463572p3/19832827.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478463572p2/19832827.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 20 11:01:42 -0700 2014</created_at>
+  <updated_at>Mon Oct 20 11:01:42 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>108085547</id>
+  <body><![CDATA[Interesting. I enjoyed reading your review Bill, lots of things to think about and explore, but I don't find the ending rushed. I find the final scene probably the most powerful and evocative. <br />Did you mean the pace within the closing scenes or the way Shelley structures the final chapters of the book? The closing section in particular always reminds me of The Ancient Mariner.]]></body>
+  
+  <user>
+    <id>7742466</id>
+    <name>Anna</name>
+    <display_name>Anna</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7742466-anna]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1365873593p3/7742466.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1365873593p2/7742466.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 20 16:01:04 -0700 2014</created_at>
+  <updated_at>Mon Oct 20 16:01:04 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>108085802</id>
+  <body><![CDATA[I no longer remember for sure what I meant, but I think it was the narrative within narrative structure. yes, the last scene is very powerful.]]></body>
+  
+  <user>
+    <id>83582</id>
+    <name>Bill </name>
+    <display_name>Bill  Kerwin</display_name>
+
+    <location>Columbus, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/83582-bill-kerwin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442940975p3/83582.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442940975p2/83582.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 20 16:05:38 -0700 2014</created_at>
+  <updated_at>Mon Oct 20 16:05:38 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>108086465</id>
+  <body><![CDATA[Mmm I suppose it does move on fairly relentlessly after the wedding night.]]></body>
+  
+  <user>
+    <id>7742466</id>
+    <name>Anna</name>
+    <display_name>Anna</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7742466-anna]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1365873593p3/7742466.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1365873593p2/7742466.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 20 16:18:03 -0700 2014</created_at>
+  <updated_at>Mon Oct 20 16:18:03 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>140976515</id>
+  <body><![CDATA[Great review. I read this last year w/ one of my GR groups. I just loved it. I was really amazed that such a story could come from such a young women--at a time when educational opportunities and intellectual stimulation for women were a far cry from what they are today.]]></body>
+  
+  <user>
+    <id>22292038</id>
+    <name><![CDATA[Andrea (Catsos Person) is a Compulsive eBook Hoarder ]]></name>
+    <display_name><![CDATA[Andrea (Catsos Person) is a Compulsive eBook Hoarder ]]></display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22292038-andrea-catsos-person-is-a-compulsive-ebook-hoarder]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1413905854p3/22292038.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1413905854p2/22292038.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 02 17:42:04 -0700 2015</created_at>
+  <updated_at>Fri Oct 02 17:42:04 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>140979864</id>
+  <body><![CDATA[<i>Andrea (Catsos Person) is a Compulsive eBook Hoarder wrote: I was really amazed that such a story could come from such a young women--at a time when educational opportunities and intellectual stimulation for women were a far cry from what they are today."</i><br /><br />Yes. But--not to take anything away from Mary--when you consider both her parents were extraordinarily gifted and intelligent--her father a revolutionary social philosopher and her mother a pioneering feminist--perhaps it's not so surprising after all.]]></body>
+  
+  <user>
+    <id>83582</id>
+    <name>Bill </name>
+    <display_name>Bill  Kerwin</display_name>
+
+    <location>Columbus, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/83582-bill-kerwin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442940975p3/83582.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442940975p2/83582.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 02 19:36:25 -0700 2015</created_at>
+  <updated_at>Fri Oct 02 19:36:25 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>140979941</id>
+  <body><![CDATA[Maybe her parentage did have something to do with how gifted she was.]]></body>
+  
+  <user>
+    <id>22292038</id>
+    <name><![CDATA[Andrea (Catsos Person) is a Compulsive eBook Hoarder ]]></name>
+    <display_name><![CDATA[Andrea (Catsos Person) is a Compulsive eBook Hoarder ]]></display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22292038-andrea-catsos-person-is-a-compulsive-ebook-hoarder]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1413905854p3/22292038.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1413905854p2/22292038.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 02 19:39:06 -0700 2015</created_at>
+  <updated_at>Fri Oct 02 19:39:06 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>146199996</id>
+  <body><![CDATA[Love the review. commence the reading now;it definitely is a great work.]]></body>
+  
+  <user>
+    <id>49013470</id>
+    <name>Brit</name>
+    <display_name>Brit Cheung</display_name>
+
+    <location>Tianjin  China, China</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/49013470-brit-cheung]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1465451306p3/49013470.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1465451306p2/49013470.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 18 07:57:56 -0800 2016</created_at>
+  <updated_at>Mon Jan 18 07:57:56 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>146201222</id>
+  <body><![CDATA[Outstanding review!<br /><br />"Her prose also shows her father's mark in her ability to make delicate philosophical distinctions and express abstract ideas, but she is a much better writer than he: her sentences are more elegant and disciplined, and her descriptive details more aptly chosen and her scenes more effectively realized."<br /><br />She was definitely influenced by her father's writing and the philosophical writings of her deceased mother, Mary Wollstonecraft, as well. However, Percy Bysshe Shelley arguably had the greatest influence on Mary's Frankenstein. He provided her with a reading list and these books, particularly Paradise Lost and Plutarch's Lives, are referenced in the novel for their affect on the impressionable, self-taught creature. Further, according to what I've read, Percy critiqued and edited Mary's manuscript on a daily basis. He also wrote (in Mary's voice) the famous preface, with its reference to their 1816 sojourn with Byron and John Polidori at Byron's rented villa near Geneva, Switzerland.]]></body>
+  
+  <user>
+    <id>5963850</id>
+    <name>Gary</name>
+    <display_name>Gary Inbinder</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5963850-gary-inbinder]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442496373p3/5963850.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442496373p2/5963850.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 18 08:23:25 -0800 2016</created_at>
+  <updated_at>Mon Jan 18 08:23:25 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>146201785</id>
+  <body><![CDATA[<i>Gary wrote: "Outstanding review!<br /><br />"Her prose also shows her father's mark in her ability to make delicate philosophical distinctions and express abstract ideas, but she is a much better writer than he: her sent..."</i><br /><br />Thanks for your helpful, informative contributions to the review. I knew about the preface, but not about the rest. I also like the question your comments raised for me: is Shelley in some sense Victor and is Mary the creature?]]></body>
+  
+  <user>
+    <id>83582</id>
+    <name>Bill </name>
+    <display_name>Bill  Kerwin</display_name>
+
+    <location>Columbus, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/83582-bill-kerwin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442940975p3/83582.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442940975p2/83582.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 18 08:34:51 -0800 2016</created_at>
+  <updated_at>Mon Jan 18 08:34:51 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>146201933</id>
+  <body><![CDATA[<i>Brit wrote: "Love the review. commence the reading now;it definitely is a great work."</i><br /><br />Glad you liked the review. Yes. It has the elemental power of an old folk tale and the sophistication of a modern philosophical work as well.]]></body>
+  
+  <user>
+    <id>83582</id>
+    <name>Bill </name>
+    <display_name>Bill  Kerwin</display_name>
+
+    <location>Columbus, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/83582-bill-kerwin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442940975p3/83582.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442940975p2/83582.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 18 08:37:51 -0800 2016</created_at>
+  <updated_at>Mon Jan 18 08:37:51 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>146203197</id>
+  <body><![CDATA[<i>Bill wrote: "Gary wrote: "Outstanding review!<br /><br />"Her prose also shows her father's mark in her ability to make delicate philosophical distinctions and express abstract ideas, but she is a much better writer than..."</i><br /><br />You're welcome, Bill. I researched the subject several years ago for my first novel, Confessions of the Creature, a re-imagining of Frankenstein from the creature's perspective.<br /><br />In a sense both Shelley and William Godwin could have played Victor to Mary's creature. Much has been written about these complex relationships. I recall a revival of interest in Mary's Frankenstein, as opposed to the familiar 1930's Hollywood version, following the 1970's publication of Anne Edwards' novel, Haunted Summer. And then there were three 1980's films, Haunted Summer (a film adaptation of the Edwards novel), Rowing With the Wind, and Gothic, that dealt with the circumstances surrounding the creation of Frankenstein.]]></body>
+  
+  <user>
+    <id>5963850</id>
+    <name>Gary</name>
+    <display_name>Gary Inbinder</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5963850-gary-inbinder]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442496373p3/5963850.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442496373p2/5963850.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 18 09:03:24 -0800 2016</created_at>
+  <updated_at>Mon Jan 18 09:03:24 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>146209256</id>
+  <body><![CDATA[<i>Sabah wrote: "Bill, love this review of a novel I've read twice over and one which certainly lived up to my expectations.<br />I loved the similarities between Waldens character and Frankenstein, Shelley did a fin jo..."</i><br /><br />Thanks for the enriching observations!]]></body>
+  
+  <user>
+    <id>83582</id>
+    <name>Bill </name>
+    <display_name>Bill  Kerwin</display_name>
+
+    <location>Columbus, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/83582-bill-kerwin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442940975p3/83582.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442940975p2/83582.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 18 10:58:14 -0800 2016</created_at>
+  <updated_at>Mon Jan 18 10:58:14 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159371022</id>
+  <body><![CDATA[I'm ashamed to say that it's only now that I started reading Shelley's Frankenstein for the first time and so far it's an inspiring read. Bill, thanks for the in-depth review.]]></body>
+  
+  <user>
+    <id>30014454</id>
+    <name>John</name>
+    <display_name>John Matsui</display_name>
+
+    <location>London, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/30014454-john-matsui]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1475616320p3/30014454.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1475616320p2/30014454.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 21 11:33:47 -0800 2016</created_at>
+  <updated_at>Mon Nov 21 11:33:47 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>163121917</id>
+  <body><![CDATA[Frankenstein is a masterpiece of exploration of what it means to be human. Extraordinary and timeless. Daring and raw. Truly immersive voices from the past, from now and the future.]]></body>
+  
+  <user>
+    <id>36549125</id>
+    <name>William</name>
+    <display_name>William</display_name>
+
+    <location>London, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/36549125-william]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1415447115p3/36549125.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1415447115p2/36549125.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Feb 22 09:13:51 -0800 2017</created_at>
+  <updated_at>Wed Feb 22 09:13:51 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>163153160</id>
+  <body><![CDATA[Excelllent review Bill. I wonder, have you read the original 1818 edition published by OUP? This edition is very different to the 1835 edition that everyone as read.]]></body>
+  
+  <user>
+    <id>43011227</id>
+    <name>Peter</name>
+    <display_name>Peter</display_name>
+
+    <location><![CDATA[Edinburgh, x1, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/43011227-peter]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1456273229p3/43011227.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1456273229p2/43011227.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Feb 23 03:19:02 -0800 2017</created_at>
+  <updated_at>Thu Feb 23 03:19:02 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>163278307</id>
+  <body><![CDATA[<i>Peter wrote: "Excelllent review Bill. I wonder, have you read the original 1818 edition published by OUP? This edition is very different to the 1835 edition that everyone as read."</i><br /><br />No! I knew there was a great difference in the introductory materials, but I wasn't aware until now--when I just looked it up inspired by your comment--that the text itself was substantially revised as well.<br /><br />I'll have to read it sometime. Thanks fior the tip!]]></body>
+  
+  <user>
+    <id>83582</id>
+    <name>Bill </name>
+    <display_name>Bill  Kerwin</display_name>
+
+    <location>Columbus, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/83582-bill-kerwin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442940975p3/83582.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442940975p2/83582.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 26 10:59:27 -0800 2017</created_at>
+  <updated_at>Sun Feb 26 10:59:27 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>163278908</id>
+  <body><![CDATA[Peter. Wow! Thank you]]></body>
+  
+  <user>
+    <id>36549125</id>
+    <name>William</name>
+    <display_name>William</display_name>
+
+    <location>London, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/36549125-william]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1415447115p3/36549125.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1415447115p2/36549125.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 26 11:15:06 -0800 2017</created_at>
+  <updated_at>Sun Feb 26 11:15:06 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>165016492</id>
+  <body><![CDATA[Beautifully written review, Bill. A coworker was just talking about this book to me an hour ago. It's his favorite. I told him I was planning to read it this year (keep saying that but don't always get to it). I know it's a mixed opinion book.]]></body>
+  
+  <user>
+    <id>3048260</id>
+    <name>Erin ☕ *Proud Book Hoarder*</name>
+    <display_name>Erin ☕ *Proud Book Hoarder*</display_name>
+
+    <location>Lakeland, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3048260-erin-proud-book-hoarder]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480789270p3/3048260.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480789270p2/3048260.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Apr 11 10:16:48 -0700 2017</created_at>
+  <updated_at>Tue Apr 11 10:16:48 -0700 2017</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1182910]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1182910]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

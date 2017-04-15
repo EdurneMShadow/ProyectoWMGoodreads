@@ -1,0 +1,511 @@
+status: 200
+x-request-id: V7CX0H45FJFNXQG5E96Z
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=24749670&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhgxNjQtOTYyNzA4Mi01MzEyMDAzBjoGRVQ%3D--f85a7f25c31cc94cba2c05154e0a55900106d12f;
+ path=/; expires=Wed, 15 Apr 2037 15:19:25 -0000, locale=es;
+ path=/, _session_id2=f724655fe22a0fa86be33a7375a65e88; path=/;
+ expires=Sat, 15 Apr 2017 21:19:25 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 21548
+server: Server
+x-runtime: 0.309098
+etag: W/"da4c27147e9ff6955a53bf6914982e23"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:19:25 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>24749670</id>
+    
+  <user>
+    <id>1246837</id>
+    <name>Maggie</name>
+    <display_name>Maggie Stiefvater</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1246837-maggie-stiefvater]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460918409p3/1246837.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460918409p2/1246837.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">2767052</id>
+  <isbn>0439023483</isbn>
+  <isbn13>9780439023481</isbn13>
+  <text_reviews_count type="integer">140335</text_reviews_count>
+  <title>The Hunger Games (The Hunger Games, #1)</title>
+  <title_without_series>The Hunger Games</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1447303603m/2767052.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1447303603s/2767052.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2767052-the-hunger-games</link>
+  <num_pages>374</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First Edition</edition_information>
+  <publisher>Scholastic Press</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.35</average_rating>
+  <ratings_count>4766697</ratings_count>
+  <description>&lt;b&gt;Winning will make you famous. &lt;br /&gt;Losing means certain death.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;The nation of Panem, formed from a post-apocalyptic North America, is a country that consists of a wealthy Capitol region surrounded by 12 poorer districts. Early in its history, a rebellion led by a 13th district against the Capitol resulted in its destruction and the creation of an annual televised event known as the Hunger Games. In punishment, and as a reminder of the power and grace of the Capitol, each district must yield one boy and one girl between the ages of 12 and 18 through a lottery system to participate in the games. The 'tributes' are chosen during the annual Reaping and are forced to fight to the death, leaving only one survivor to claim victory.&lt;br /&gt;&lt;br /&gt;When 16-year-old Katniss's young sister, Prim, is selected as District 12's female representative, Katniss volunteers to take her place. She and her male counterpart Peeta, are pitted against bigger, stronger representatives, some of whom have trained for this their whole lives. , she sees it as a death sentence. But Katniss has been close to death before. For her, survival is second nature.</description>
+<authors>
+<author>
+<id>153394</id>
+<name>Suzanne Collins</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1394819770p5/153394.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1394819770p2/153394.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/153394.Suzanne_Collins]]></link>
+<average_rating>4.27</average_rating>
+<ratings_count>8905335</ratings_count>
+<text_reviews_count>355380</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1241795726</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Wed Feb 17 15:30:45 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>148</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="recommended" exclusive="false" review_shelf_id="546509657" sortable="true" />
+    <shelf name="young-adult" exclusive="false" review_shelf_id="12880191" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Jun 17 17:49:26 -0700 2008</date_added>
+  <date_updated>Mon Jan 06 16:23:15 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA["The Most Dangerous Game" meets Survivor. I loved it: deft characterization wrapped tightly around this lean, brutal plot that absolutely grabbed me and hung on. This was one that I started reading in the morning and snarled at all comers until I had finished it in the evening. HIGHLY RECOMMEND.<br /><br /><br />*...]]>
+  </body>
+
+  
+
+  <comments_count>17</comments_count>
+    <comments start="1" end="17" total="17">
+        <comment>
+  <id>9025741</id>
+  <body><![CDATA[Have you read Catching Fire yet? I loved Hunger Games, but Catching Fire surpassed my expectations and I loved it more than Games!!!]]></body>
+  
+  <user>
+    <id>2197852</id>
+    <name>Nallely</name>
+    <display_name>Nallely</display_name>
+
+    <location>Mission, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2197852-nallely]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1239474418p3/2197852.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1239474418p2/2197852.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 04 12:35:08 -0700 2009</created_at>
+  <updated_at>Fri Sep 04 12:35:08 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>9109499</id>
+  <body><![CDATA[I thought it was a brilliant follow up, and I didn't think such a thing was possible!]]></body>
+  
+  <user>
+    <id>1246837</id>
+    <name>Maggie</name>
+    <display_name>Maggie Stiefvater</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1246837-maggie-stiefvater]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460918409p3/1246837.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460918409p2/1246837.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Sep 07 09:25:08 -0700 2009</created_at>
+  <updated_at>Mon Sep 07 09:25:08 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>12659806</id>
+  <body><![CDATA[I kept being directed to this book by various online recommendations, but was utterly disturbed by the synopsis and was aghast that it was a YA book considering the theme (deadly Big Brother with innocent children). <br />I had just finished reading Cormac MacCarthy's THE ROAD (genius and radical in the way it is composed but hands down the most disturbing story I have ever read) and after that back-pack of bricks, I wanted something light and entertaining and HUNGER GAMES just wasn't in that category. <br />So I pushed it to the back of my mental bookshelf (prior to my upgrade to Goodreads obviously) until I was out of reads one day. I'd flitted through some light stories and enjoyed the ripples they made, but longed for something to make big waves in me again.<br />HUNGER GAMES was exactly what I was looking for at the time; obsession and all consuming squeeeeee!. I wanted something to dive into and not surface from until I finished, which HUNGER GAMES and very soon after (less than 24 hours)CATCHING FIRE did. My only disappointment is that I read them too soon and now have to wait for the final book in the trilogy.<br />I jiggled my feet up and down, paced the room, chewed my nails and all but bit the book from the anxious tension. <br />I suggest reading it in tandem with an equally gluttinous reader so that you have someone to share heart palpitations with and lament at Katniss's quandry/ies that tumble from one to the next in unrealistic, yet totally believable fashion.<br /><br />I not only bought these books with money, but with my heart too. Totally bought it!]]></body>
+  
+  <user>
+    <id>3148608</id>
+    <name>Monique</name>
+    <display_name>Monique</display_name>
+
+    <location>Sydney, NSW, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3148608-monique]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1318764321p3/3148608.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1318764321p2/3148608.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 13 02:44:58 -0800 2010</created_at>
+  <updated_at>Wed Jan 13 02:44:58 -0800 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>25476664</id>
+  <body><![CDATA["I not only bought these books with money, but with my heart too. Totally bought it!" - Niiice.]]></body>
+  
+  <user>
+    <id>4534616</id>
+    <name>Happy Bookaholic</name>
+    <display_name>Happy Bookaholic</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4534616-happy-bookaholic]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1292261361p3/4534616.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1292261361p2/4534616.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 21 10:29:01 -0800 2011</created_at>
+  <updated_at>Fri Jan 21 10:29:01 -0800 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>26629588</id>
+  <body><![CDATA[So glad you loved it, Monique. :)]]></body>
+  
+  <user>
+    <id>1246837</id>
+    <name>Maggie</name>
+    <display_name>Maggie Stiefvater</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1246837-maggie-stiefvater]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460918409p3/1246837.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460918409p2/1246837.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Feb 17 12:21:12 -0800 2011</created_at>
+  <updated_at>Thu Feb 17 12:21:12 -0800 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>28321595</id>
+  <body><![CDATA[Hey Maggie, out of curiosity what did you think of Mockingjay?]]></body>
+  
+  <user>
+    <id>4026253</id>
+    <name>Corey</name>
+    <display_name>Corey</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4026253-corey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1342049602p3/4026253.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1342049602p2/4026253.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Mar 27 17:37:31 -0700 2011</created_at>
+  <updated_at>Sun Mar 27 17:37:31 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>28387356</id>
+  <body><![CDATA[<i>Corey wrote: "Hey Maggie, out of curiosity what did you think of Mockingjay?"</i><br /><br />ummmmm . . . I liked the "real/ not real" bits. I'll leave it at that.]]></body>
+  
+  <user>
+    <id>1246837</id>
+    <name>Maggie</name>
+    <display_name>Maggie Stiefvater</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1246837-maggie-stiefvater]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460918409p3/1246837.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460918409p2/1246837.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 29 09:00:29 -0700 2011</created_at>
+  <updated_at>Tue Mar 29 09:00:29 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>29161874</id>
+  <body><![CDATA[My book club was evenly divided on mockingjay. I loved the real/not real parts too!]]></body>
+  
+  <user>
+    <id>2197852</id>
+    <name>Nallely</name>
+    <display_name>Nallely</display_name>
+
+    <location>Mission, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2197852-nallely]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1239474418p3/2197852.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1239474418p2/2197852.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Apr 15 20:51:23 -0700 2011</created_at>
+  <updated_at>Fri Apr 15 20:51:23 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>34366951</id>
+  <body><![CDATA[This is a sure-to-be classic all kids should read. can't put it down. I am sure it will be required reading in the near future...LOVE IT!]]></body>
+  
+  <user>
+    <id>5031411</id>
+    <name>Joline</name>
+    <display_name>Joline Moore</display_name>
+
+    <location>Monroe, NC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5031411-joline-moore]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 29 18:57:47 -0700 2011</created_at>
+  <updated_at>Fri Jul 29 18:57:47 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>36519685</id>
+  <body><![CDATA[luuuuuved this book. and now i am using it as the book for a literary luncheon that my english class i doin]]></body>
+  
+  <user>
+    <id>5239446</id>
+    <name>Tiana</name>
+    <display_name>Tiana</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5239446-tiana]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1347857211p3/5239446.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1347857211p2/5239446.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Sep 07 03:47:11 -0700 2011</created_at>
+  <updated_at>Wed Sep 07 03:47:11 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>45139896</id>
+  <body><![CDATA[Maggie, you should give Journey into the Realm: The Elf Girl a look. Like the Hunger Games, there is adventure, romance, danger and mystery. I loved the Hunger Games and I can't wait to sink into Catching Fire. I can't wait for the movie. Just hope they stay as close to the story line as possible, because it was great. Speaking of great...can't wait for Shiver to hit the big screen. Another one of my all time favorites!]]></body>
+  
+  <user>
+    <id>5445219</id>
+    <name>Maryanne</name>
+    <display_name>Maryanne Grabo</display_name>
+
+    <location>New Berlin, WI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5445219-maryanne-grabo]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1305502512p3/5445219.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1305502512p2/5445219.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 12 10:09:15 -0800 2012</created_at>
+  <updated_at>Sun Feb 12 10:09:15 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>49594754</id>
+  <body><![CDATA[I loved this book and I also love your books sooooo much you couldn't imagine!]]></body>
+  
+  <user>
+    <id>5729285</id>
+    <name>Jordan</name>
+    <display_name>Jordan</display_name>
+
+    <location>Fredericksburg, VA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5729285-jordan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1369003099p3/5729285.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1369003099p2/5729285.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Apr 27 19:08:55 -0700 2012</created_at>
+  <updated_at>Fri Apr 27 19:08:55 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>49632245</id>
+  <body><![CDATA[mockingjay is my fave! also can u write another book like the scorpio races????? it was amazing!!!! even better than shiver!]]></body>
+  
+  <created_at>Sat Apr 28 13:53:35 -0700 2012</created_at>
+  <updated_at>Sat Apr 28 13:53:35 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>81406367</id>
+  <body><![CDATA[Who wrote the last comment? Was it me? When touch it my name comes up....... weird..........but i just wanted to let you know you are my favourite author because of the shiver trilogy because everything in it was so ME i have been obsessed with wolves since i was 3 and i dont know why, i love playing the guitar, i write poems for everything i see like sam writes songs, i love to paint like SERIOUSLY love to paint like grace's mum and i love music but my favourite is emocore which i picture to be NARKOTICA's sound . Also I LOVE❤❤❤❤❤ to read so these books were my perfect match.........i know this is the hunger games page but i thought you might see this comment here... (Btw i really liked the hunger games). And it wasnt just what was in the book (the shiver books) it was how it was written with such passion since most books dont give you room to think for yourself and call that passion but you managed to let me see colours as i read... You probably dont know what i mean so i will explain... I see a colour for everything i do and for your shiver books i saw a bright yellow and snowy white and i hate the colour yellow but this was different it was amazing it was refeshing yet cozy and warm with sadness longing and despair yet hope and love i can barely put it in words what i felt. After this i read raven boys now i cant wait for the other books and though i dont even know anything about horses i just finished the scorpio races today and that last page made me cry first with grieving and then when i got the last line it was tears of joy this is why you are my favourite author and when i grow up i want to be an author if vet doesnt work out i know this is long and has nothing to do with hunger games but please, PLEASE READ THIS❤❤❤❤]]></body>
+  
+  <user>
+    <id>21937631</id>
+    <name>Nerissa</name>
+    <display_name>Nerissa</display_name>
+
+    <location><![CDATA[Port-of-spain, 05, Trinidad and Tobago]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/21937631-nerissa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1424057732p3/21937631.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1424057732p2/21937631.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 23 17:29:05 -0700 2013</created_at>
+  <updated_at>Fri Aug 23 17:29:05 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>81622889</id>
+  <body><![CDATA[I love this book, is so amazing, the story is so stranger but very incredible, is one of my favorite books, I just love it.]]></body>
+  
+  <user>
+    <id>23429568</id>
+    <name>Faith</name>
+    <display_name>Faith</display_name>
+
+    <location>Idris, Venezuela</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23429568-faith]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1397241160p3/23429568.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1397241160p2/23429568.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 26 19:37:56 -0700 2013</created_at>
+  <updated_at>Mon Aug 26 19:37:56 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>111450058</id>
+  <body><![CDATA[This book is seen by many as cliche. But only those of us who truly understand the book know that it is exactly the opposite. That this is one of the very few books that our world revolves around, along with The Raven Boys, PJ, and HP.]]></body>
+  
+  <user>
+    <id>37044076</id>
+    <name>Chloe</name>
+    <display_name>Chloe Armstrong</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/37044076-chloe-armstrong]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1453314809p3/37044076.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1453314809p2/37044076.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 23 18:21:14 -0800 2014</created_at>
+  <updated_at>Tue Dec 23 18:21:14 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>115353857</id>
+  <body><![CDATA[How do I read the book]]></body>
+  
+  <user>
+    <id>33547894</id>
+    <name>violet</name>
+    <display_name>violet</display_name>
+
+    <location>Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/33547894-violet]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 28 05:26:57 -0800 2015</created_at>
+  <updated_at>Sat Feb 28 05:26:57 -0800 2015</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/24749670]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/24749670]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

@@ -1,0 +1,950 @@
+status: 200
+x-request-id: 0RK1QC031W827P66VM74
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=937924832&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhg5NDMtMjczNTY0MS0zMDQyNTEyBjoGRVQ%3D--af9bea36532acf7b991c24621e6ff63917dffddb;
+ path=/; expires=Wed, 15 Apr 2037 16:58:41 -0000, locale=es;
+ path=/, _session_id2=ca846fb881f04c607d09ac8711d285e0; path=/;
+ expires=Sat, 15 Apr 2017 22:58:41 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 37533
+server: Server
+x-runtime: 0.437543
+etag: W/"91271cf74b95ce7c745c0c6c9dfc05cf"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 16:58:41 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>937924832</id>
+    
+  <user>
+    <id>27788046</id>
+    <name>Bookdragon Sean </name>
+    <display_name>Bookdragon Sean </display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27788046-bookdragon-sean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488703660p3/27788046.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488703660p2/27788046.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">7260188</id>
+  <isbn>0439023513</isbn>
+  <isbn13>9780439023511</isbn13>
+  <text_reviews_count type="integer">86037</text_reviews_count>
+  <title>Mockingjay (The Hunger Games, #3)</title>
+  <title_without_series>Mockingjay</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1358275419m/7260188.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1358275419s/7260188.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7260188-mockingjay</link>
+  <num_pages>392</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First Edition</edition_information>
+  <publisher>Scholastic Press</publisher>
+  <publication_day>24</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.03</average_rating>
+  <ratings_count>1827897</ratings_count>
+  <description>&lt;b&gt;My name is Katniss Everdeen.&lt;br /&gt;Why am I not dead?&lt;br /&gt;I should be dead.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Katniss Everdeen, girl on fire, has survived, even though her home has been destroyed. Gale has escaped. Katniss's family is safe. Peeta has been captured by the Capitol. District 13 really does exist. There are rebels. There are new leaders. A revolution is unfolding.&lt;br /&gt;&lt;br /&gt;It is by design that Katniss was rescued from the arena in the cruel and haunting Quarter Quell, and it is by design that she has long been part of the revolution without knowing it. District 13 has come out of the shadows and is plotting to overthrow the Capitol. Everyone, it seems, has had a hand in the carefully laid plans--except Katniss.&lt;br /&gt;&lt;br /&gt;The success of the rebellion hinges on Katniss's willingness to be a pawn, to accept responsibility for countless lives, and to change the course of the future of Panem. To do this, she must put aside her feelings of anger and distrust. She must become the rebels' Mockingjay--no matter what the personal cost.</description>
+<authors>
+<author>
+<id>153394</id>
+<name>Suzanne Collins</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1394819770p5/153394.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1394819770p2/153394.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/153394.Suzanne_Collins]]></link>
+<average_rating>4.27</average_rating>
+<ratings_count>8905585</ratings_count>
+<text_reviews_count>355382</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">430731176</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Tue May 20 12:00:25 -0700 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">424341411</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Thu May 15 05:30:40 -0700 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>117</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="fantasy" exclusive="false" review_shelf_id="1129239941" sortable="false" />
+    <shelf name="y-a" exclusive="false" review_shelf_id="1079113679" sortable="false" />
+    <shelf name="sci-fi" exclusive="false" review_shelf_id="1129239939" sortable="false" />
+    <shelf name="1-star-reads" exclusive="false" review_shelf_id="1224686962" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu May 15 00:00:00 -0700 2014</started_at>
+  <read_at>Sat May 17 00:00:00 -0700 2014</read_at>
+  <date_added>Thu May 15 05:30:40 -0700 2014</date_added>
+  <date_updated>Sat Feb 13 01:05:47 -0800 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[By now it’s no secret that I fucking hate the <i> The Hunger Games.</i> Instead of doing my usual thing where I attempt to explain why Suzanne Collins’ books are atrocious, I’m going to lay down my reasoning in a set of seven straight forward points. <br /><br /><b>1. Katniss has the personality of a vegetable </b><br /><br /><img src="https://media.giphy.com/media/67WHArnSfXDs4/200.gif" width="435" height="200" alt="description" class="gr-hostedUserImg" /><br /><br /><img src="https://media.giphy.com/media/mOvWhKtnxLqUg/200.gif" width="474" height="200" alt="description" class="gr-hostedUserImg" /><br /><br /><img src="http://cdn.playbuzz.com/cdn/7c604646-96d4-4164-8fb5-56b7790a9d72/fc9148b3-6b13-4e40-856a-59d50c0ee73e.gif" width="500" height="200" alt="description" class="gr-hostedUserImg" /><br /><br /><b> 2. Pee...</b>]]>
+  </body>
+
+  
+
+  <comments_count>35</comments_count>
+    <comments start="1" end="35" total="35">
+        <comment>
+  <id>141355411</id>
+  <body><![CDATA[Hi Sean, this is most interesting I think. I'm certainly not a stranger to that people feel very differently about books and I've certainly disliked or felt indifferent to ones that seemingly "everyone else" (or at least most) have praised. These are a bit unique though in that they are huge bestsellers as well as being praised (or at least liked) by a large number of people I know, while you positively hate them! :-0 <br /><br />I have been meaning to read these, and am encouraged to do so by your reviews - which of course is not surprising, good reviews (positive or negative) often do just that.]]></body>
+  
+  <user>
+    <id>32669562</id>
+    <name>Thomas</name>
+    <display_name>Thomas Strömquist</display_name>
+
+    <location>Stockholm, 11666, Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32669562-thomas-str-mquist]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1490648292p3/32669562.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1490648292p2/32669562.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 12 00:34:40 -0700 2015</created_at>
+  <updated_at>Mon Oct 12 00:34:40 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141356747</id>
+  <body><![CDATA[Accurate.]]></body>
+  
+  <user>
+    <id>25353295</id>
+    <name>Carmen</name>
+    <display_name>Carmen</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25353295-carmen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1412617445p3/25353295.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1412617445p2/25353295.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 12 02:41:48 -0700 2015</created_at>
+  <updated_at>Mon Oct 12 02:41:48 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141356936</id>
+  <body><![CDATA[<img src="https://images.gr-assets.com/hostedimages/1444643719ra/16530838.gif" width="" height="" alt="description" class="gr-hostedUserImg">]]></body>
+  
+  <user>
+    <id>26681101</id>
+    <name>Markus</name>
+    <display_name>Markus</display_name>
+
+    <location>Norway</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/26681101-markus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1421952301p3/26681101.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1421952301p2/26681101.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 12 02:55:29 -0700 2015</created_at>
+  <updated_at>Mon Oct 12 02:55:29 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141357452</id>
+  <body><![CDATA[It's a relief that I'm not the only one to think this about these books.]]></body>
+  
+  <user>
+    <id>27680510</id>
+    <name>Cheyenne</name>
+    <display_name>Cheyenne Kai</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27680510-cheyenne-kai]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1390427070p3/27680510.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1390427070p2/27680510.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 12 03:26:25 -0700 2015</created_at>
+  <updated_at>Mon Oct 12 03:26:25 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141364261</id>
+  <body><![CDATA[<i>Thomas wrote: "Hi Sean, this is most interesting I think. I'm certainly not a stranger to that people feel very differently about books and I've certainly disliked or felt indifferent to ones that seemingly "ever..."</i><br /><br />They were a struggle for me, they really were. I had to grit my teeth far too much when reading. <br /><br />I hope you have a more pleasant experience, though in all honesty I don't know why these are popular. I just can't see it objectively.]]></body>
+  
+  <user>
+    <id>27788046</id>
+    <name>Bookdragon Sean </name>
+    <display_name>Bookdragon Sean </display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27788046-bookdragon-sean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488703660p3/27788046.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488703660p2/27788046.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 12 07:53:54 -0700 2015</created_at>
+  <updated_at>Mon Oct 12 07:53:54 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141364269</id>
+  <body><![CDATA[<i>Carmen wrote: "Accurate."</i><br /><br />I know ;)]]></body>
+  
+  <user>
+    <id>27788046</id>
+    <name>Bookdragon Sean </name>
+    <display_name>Bookdragon Sean </display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27788046-bookdragon-sean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488703660p3/27788046.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488703660p2/27788046.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 12 07:54:08 -0700 2015</created_at>
+  <updated_at>Mon Oct 12 07:54:08 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141364357</id>
+  <body><![CDATA[<i>Markus wrote: ""</i><br><br><img src="https://images.gr-assets.com/hostedimages/1437297881ra/15566681.gif" width="400" height="225" alt="description" class="gr-hostedUserImg">]]></body>
+  
+  <user>
+    <id>27788046</id>
+    <name>Bookdragon Sean </name>
+    <display_name>Bookdragon Sean </display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27788046-bookdragon-sean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488703660p3/27788046.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488703660p2/27788046.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 12 07:56:08 -0700 2015</created_at>
+  <updated_at>Mon Oct 12 07:56:08 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141364372</id>
+  <body><![CDATA[<i>Cheyenne wrote: "It's a relief that I'm not the only one to think this about these books."</i><br /><br />They're so bad!]]></body>
+  
+  <user>
+    <id>27788046</id>
+    <name>Bookdragon Sean </name>
+    <display_name>Bookdragon Sean </display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27788046-bookdragon-sean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488703660p3/27788046.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488703660p2/27788046.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 12 07:56:35 -0700 2015</created_at>
+  <updated_at>Mon Oct 12 07:56:35 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141366227</id>
+  <body><![CDATA[Hi Sean - So tell us how you REALLY feel about these books! LOL Great reveiw(s)!]]></body>
+  
+  <user>
+    <id>40648422</id>
+    <name>SamuraiKitty</name>
+    <display_name>SamuraiKitty</display_name>
+
+    <location>Boulder, CO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/40648422-samuraikitty]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1425406132p3/40648422.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1425406132p2/40648422.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 12 08:44:00 -0700 2015</created_at>
+  <updated_at>Mon Oct 12 08:44:00 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141367125</id>
+  <body><![CDATA[<img src="https://images.gr-assets.com/hostedimages/1444666131ra/16533305.gif" class="gr-hostedUserImg">]]></body>
+  
+  <user>
+    <id>4422485</id>
+    <name>Lamora/Ches</name>
+    <display_name>Lamora/Ches</display_name>
+
+    <location>Portugal</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4422485-lamora-ches]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1420495671p3/4422485.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1420495671p2/4422485.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 12 09:08:51 -0700 2015</created_at>
+  <updated_at>Mon Oct 12 09:08:51 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141372939</id>
+  <body><![CDATA[" I will never understand its popularity. It is just terrible on every level. " - Fair enough, that's YOUR point. But please accept that others might have a different reading experience of the series than you - and that's the wonder of reading right? :)]]></body>
+  
+  <user>
+    <id>19885314</id>
+    <name>Rikke</name>
+    <display_name>Rikke Simonsen</display_name>
+
+    <location>Odense, Denmark</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/19885314-rikke-simonsen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1446252466p3/19885314.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1446252466p2/19885314.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 12 11:46:50 -0700 2015</created_at>
+  <updated_at>Mon Oct 12 11:46:50 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141374363</id>
+  <body><![CDATA[I came to this series from Battle Royale so yeh....while mu ratings for the books where more forgiving than yours I did think this series as a whole was a huge missed opportunity!]]></body>
+  
+  <user>
+    <id>41311366</id>
+    <name><![CDATA[Craig "NEEDS MORE DAMN TIME TO READ !!!!"]]></name>
+    <display_name><![CDATA[Craig "NEEDS MORE DAMN TIME TO READ !!!!"]]></display_name>
+
+    <location><![CDATA[United Kingdom, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/41311366-craig-needs-more-damn-time-to-read]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1444857464p3/41311366.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1444857464p2/41311366.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 12 12:21:40 -0700 2015</created_at>
+  <updated_at>Mon Oct 12 12:21:40 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141378818</id>
+  <body><![CDATA[what about this review suggests that the reviewer doesn't accept other people's enjoyment of this series?]]></body>
+  
+  <user>
+    <id>87367</id>
+    <name>Tiger</name>
+    <display_name>Tiger Gray</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/87367-tiger-gray]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442617711p3/87367.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442617711p2/87367.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 12 14:09:27 -0700 2015</created_at>
+  <updated_at>Mon Oct 12 14:09:27 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141382351</id>
+  <body><![CDATA[but why'd you bother with book 3 if you hated the 1st one so much?]]></body>
+  
+  <user>
+    <id>15701005</id>
+    <name>Lisa</name>
+    <display_name>Lisa</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15701005-lisa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1390171904p3/15701005.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1390171904p2/15701005.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 12 15:41:23 -0700 2015</created_at>
+  <updated_at>Mon Oct 12 15:41:23 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141383040</id>
+  <body><![CDATA[<i>Lisa wrote: "but why'd you bother with book 3 if you hated the 1st one so much?"</i><br /><br />to see if it got better. It's easy reading anyway. the sort of book you can finish in a day.]]></body>
+  
+  <user>
+    <id>27788046</id>
+    <name>Bookdragon Sean </name>
+    <display_name>Bookdragon Sean </display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27788046-bookdragon-sean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488703660p3/27788046.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488703660p2/27788046.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 12 16:00:16 -0700 2015</created_at>
+  <updated_at>Mon Oct 12 16:00:16 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141383129</id>
+  <body><![CDATA[<i>Tiger wrote: "what about this review suggests that the reviewer doesn't accept other people's enjoyment of this series?"</i><br /><br />I don't know to be honest. I think I stuck a nerve with my negative review. ;)]]></body>
+  
+  <user>
+    <id>27788046</id>
+    <name>Bookdragon Sean </name>
+    <display_name>Bookdragon Sean </display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27788046-bookdragon-sean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488703660p3/27788046.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488703660p2/27788046.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 12 16:02:57 -0700 2015</created_at>
+  <updated_at>Mon Oct 12 16:02:57 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141384033</id>
+  <body><![CDATA[I gave up pretty quick on the first book, but loved <a href="https://www.goodreads.com/book/show/57891.Battle_Royale" title="Battle Royale by Koushun Takami" rel="nofollow">Battle Royale</a>, which has a similar concept, just was better written.]]></body>
+  
+  <user>
+    <id>3923247</id>
+    <name>Marita</name>
+    <display_name>Marita Hansen</display_name>
+
+    <location>Auckland, 00, New Zealand</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3923247-marita-hansen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1455582213p3/3923247.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1455582213p2/3923247.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 12 16:30:03 -0700 2015</created_at>
+  <updated_at>Mon Oct 12 16:30:03 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141397635</id>
+  <body><![CDATA[Finally, I have found someone who shares my hatred for this series!]]></body>
+  
+  <user>
+    <id>1930497</id>
+    <name>Carly</name>
+    <display_name>Carly</display_name>
+
+    <location>Cambridge, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1930497-carly]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1404857277p3/1930497.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1404857277p2/1930497.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 13 01:08:16 -0700 2015</created_at>
+  <updated_at>Tue Oct 13 01:08:16 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141397718</id>
+  <body><![CDATA[Couldn't agree more, my daughter tried to get me to read this and all that I kept thinking was WHY. Oh, your comment is not fair on vegetables. Norman my pet Cauliflower was very upset!]]></body>
+  
+  <user>
+    <id>43011227</id>
+    <name>Peter</name>
+    <display_name>Peter</display_name>
+
+    <location><![CDATA[Edinburgh, x1, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/43011227-peter]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1456273229p3/43011227.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1456273229p2/43011227.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 13 01:15:01 -0700 2015</created_at>
+  <updated_at>Tue Oct 13 01:15:01 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141401607</id>
+  <body><![CDATA[seriously go to hell. HATER]]></body>
+  
+  <user>
+    <id>45916442</id>
+    <name>Nickols</name>
+    <display_name>Nickols</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/45916442-nickols]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1444972349p3/45916442.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1444972349p2/45916442.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 13 05:13:51 -0700 2015</created_at>
+  <updated_at>Tue Oct 13 05:13:51 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141402259</id>
+  <body><![CDATA[haha I love Hunger Games but I totally see where you are coming from. Your review made me laugh. well done.]]></body>
+  
+  <user>
+    <id>3109603</id>
+    <name>Giedre</name>
+    <display_name>Giedre</display_name>
+
+    <location><![CDATA[Manchester, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3109603-giedre]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1491854251p3/3109603.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1491854251p2/3109603.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 13 05:36:55 -0700 2015</created_at>
+  <updated_at>Tue Oct 13 05:36:55 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141403469</id>
+  <body><![CDATA[I've got it! The Great British Bake Off went global and the world went crazy, so a new edition was created and in every team is a baker and they must bake their way to freedom. Que <s>hummngbird</s> mockingjay theme.]]></body>
+  
+  <user>
+    <id>43011227</id>
+    <name>Peter</name>
+    <display_name>Peter</display_name>
+
+    <location><![CDATA[Edinburgh, x1, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/43011227-peter]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1456273229p3/43011227.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1456273229p2/43011227.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 13 06:15:02 -0700 2015</created_at>
+  <updated_at>Tue Oct 13 06:15:02 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141410134</id>
+  <body><![CDATA[This review is one of the best things I've ever read. Uncompromising, brutal and compelling. The message I take from it is to generally avoid overly popular works, with a few notable exceptions. Never underestimate society's unquenchable thirst for mediocre trash.]]></body>
+  
+  <user>
+    <id>32991790</id>
+    <name>Matt</name>
+    <display_name>Matt</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32991790-matt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1418068460p3/32991790.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1418068460p2/32991790.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 13 09:19:33 -0700 2015</created_at>
+  <updated_at>Tue Oct 13 09:19:33 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141416571</id>
+  <body><![CDATA[<i>Marita wrote: "I gave up pretty quick on the first book, but loved <a href="https://www.goodreads.com/book/show/57891.Battle_Royale" title="Battle Royale by Koushun Takami" rel="nofollow">Battle Royale</a>, which has a similar concept, just was better written."</i><br /><br />It's not the concept I hate, but everthing else ;)]]></body>
+  
+  <user>
+    <id>27788046</id>
+    <name>Bookdragon Sean </name>
+    <display_name>Bookdragon Sean </display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27788046-bookdragon-sean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488703660p3/27788046.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488703660p2/27788046.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 13 11:57:38 -0700 2015</created_at>
+  <updated_at>Tue Oct 13 11:57:38 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141416590</id>
+  <body><![CDATA[<i>Nickols wrote: "seriously go to hell. HATER"</i><br /><br />A little extreme! ;)]]></body>
+  
+  <user>
+    <id>27788046</id>
+    <name>Bookdragon Sean </name>
+    <display_name>Bookdragon Sean </display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27788046-bookdragon-sean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488703660p3/27788046.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488703660p2/27788046.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 13 11:57:59 -0700 2015</created_at>
+  <updated_at>Tue Oct 13 11:57:59 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141416656</id>
+  <body><![CDATA[<i>Peter wrote: "I've got it! The Great British Bake Off went global and the world went crazy, so a new edition was created and in every team is a baker and they must bake their way to freedom. Que hummngbird mocki..."</i><br /><br /><i>Peter wrote: "Couldn't agree more, my daughter tried to get me to read this and all that I kept thinking was WHY. Oh, your comment is not fair on vegetables. Norman my pet Cauliflower was very upset!"</i><br /><br />You have a pet cauliflower? How old is it?<br /><br />No, seriously though, his baking skills are over powered. it's not fair on the other contestants. He should have been made to leave his tools at home! ;)]]></body>
+  
+  <user>
+    <id>27788046</id>
+    <name>Bookdragon Sean </name>
+    <display_name>Bookdragon Sean </display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27788046-bookdragon-sean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488703660p3/27788046.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488703660p2/27788046.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 13 11:59:44 -0700 2015</created_at>
+  <updated_at>Tue Oct 13 11:59:44 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141416697</id>
+  <body><![CDATA[<i>Giedre wrote: "haha I love Hunger Games but I totally see where you are coming from. Your review made me laugh. well done."</i><br /><br />I'm glad you like it. I'd much rather like it than hate it. And thanks, I'm glad it was funny!]]></body>
+  
+  <user>
+    <id>27788046</id>
+    <name>Bookdragon Sean </name>
+    <display_name>Bookdragon Sean </display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27788046-bookdragon-sean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488703660p3/27788046.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488703660p2/27788046.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 13 12:00:49 -0700 2015</created_at>
+  <updated_at>Tue Oct 13 12:00:49 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141416739</id>
+  <body><![CDATA[<i>Matt wrote: "This review is one of the best things I've ever read. Uncompromising, brutal and compelling. The message I take from it is to generally avoid overly popular works, with a few notable exceptions. Ne..."</i><br /><br />Thanks! <br /><br />I do agree, but it's all about perpective. One man's trash is another man's treasure, and vice versa.]]></body>
+  
+  <user>
+    <id>27788046</id>
+    <name>Bookdragon Sean </name>
+    <display_name>Bookdragon Sean </display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27788046-bookdragon-sean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488703660p3/27788046.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488703660p2/27788046.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 13 12:02:06 -0700 2015</created_at>
+  <updated_at>Tue Oct 13 12:02:06 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>151474637</id>
+  <body><![CDATA[I don't hate this series like you do. I actually really like the first 2 books. But your review made me laugh so hard and I have to agree with some of your points. "I shall use my cake decorating skill to our advantage!" So hilarious and so true lmao]]></body>
+  
+  <user>
+    <id>16703015</id>
+    <name>Nghi </name>
+    <display_name>Nghi </display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16703015-nghi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1467611849p3/16703015.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1467611849p2/16703015.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue May 10 01:22:47 -0700 2016</created_at>
+  <updated_at>Tue May 10 01:22:47 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151492757</id>
+  <body><![CDATA[<i>Nghi wrote: "I don't hate this series like you do. I actually really like the first 2 books. But your review made me laugh so hard and I have to agree with some of your points. "I shall use my cake decorating s..."</i><br /><br />I had some big problems with it, but the cake thing just pushed me too far. It just makes no sense. ;)]]></body>
+  
+  <user>
+    <id>27788046</id>
+    <name>Bookdragon Sean </name>
+    <display_name>Bookdragon Sean </display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27788046-bookdragon-sean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488703660p3/27788046.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488703660p2/27788046.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue May 10 11:08:53 -0700 2016</created_at>
+  <updated_at>Tue May 10 11:08:53 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151759694</id>
+  <body><![CDATA[WOWZA !!! You really really dont like the hunger games! Just sayin I LUV the Hunger Games thank u!!!!!!!!! Katniss is sick hunting skills and Peeta is awesome w/ staying blen ded into the crowd.]]></body>
+  
+  <user>
+    <id>55415384</id>
+    <name>Unicorna Beawesome</name>
+    <display_name>Unicorna Beawesome</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/55415384-unicorna-beawesome]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon May 16 22:28:52 -0700 2016</created_at>
+  <updated_at>Mon May 16 22:28:52 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151846221</id>
+  <body><![CDATA[Nghi; I totally agree w/ you.]]></body>
+  
+  <user>
+    <id>55415384</id>
+    <name>Unicorna Beawesome</name>
+    <display_name>Unicorna Beawesome</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/55415384-unicorna-beawesome]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed May 18 20:36:50 -0700 2016</created_at>
+  <updated_at>Wed May 18 20:36:50 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155104753</id>
+  <body><![CDATA[Your point about Peeta's cake decorating and camouflage made me laugh. :)]]></body>
+  
+  <user>
+    <id>34293771</id>
+    <name>Laura</name>
+    <display_name>Laura</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34293771-laura]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1484940771p3/34293771.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1484940771p2/34293771.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 03 15:53:05 -0700 2016</created_at>
+  <updated_at>Wed Aug 03 15:53:05 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>165034755</id>
+  <body><![CDATA[This makes me laugh and is 100% true. The difference is that I don't have the heart to say it.]]></body>
+  
+  <user>
+    <id>25065437</id>
+    <name>BookBrio</name>
+    <display_name>BookBrio</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25065437-bookbrio]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1491779981p3/25065437.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1491779981p2/25065437.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Apr 11 18:32:51 -0700 2017</created_at>
+  <updated_at>Tue Apr 11 18:32:51 -0700 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>165037661</id>
+  <body><![CDATA[OK I'm so glad I wasn't the only one who felt that way about Peeta but someone told me they felt like the author was reversing gender roles by making him a useless baker and Katniss the action-oriented one. But I just realized saying that is sexist in itself to say that baking was defined be a gender to begin with 🙄]]></body>
+  
+  <user>
+    <id>20924213</id>
+    <name>Vanessa</name>
+    <display_name>Vanessa</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/20924213-vanessa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478650757p3/20924213.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478650757p2/20924213.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Apr 11 20:10:34 -0700 2017</created_at>
+  <updated_at>Tue Apr 11 20:10:34 -0700 2017</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/937924832]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/937924832]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

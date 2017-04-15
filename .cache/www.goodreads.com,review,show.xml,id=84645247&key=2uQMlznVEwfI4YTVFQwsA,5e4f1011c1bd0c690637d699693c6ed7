@@ -1,0 +1,1256 @@
+status: 200
+x-request-id: ZYZCW85D55V178RVQRFJ
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=84645247&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhg3OTMtMTQ3NjM5Mi0yNzU3OTI4BjoGRVQ%3D--cac0112a8f5a42a7e051ca7dcbb86c1fae24d350;
+ path=/; expires=Wed, 15 Apr 2037 15:17:28 -0000, locale=es;
+ path=/, _session_id2=bf325122dd6702b9008fb48b499c8ca8; path=/;
+ expires=Sat, 15 Apr 2017 21:17:28 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 51627
+server: Server
+x-runtime: 0.444542
+etag: W/"6330cc8442bc7df0c6cc3cb111e907f4"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:17:28 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>84645247</id>
+    
+  <user>
+    <id>3145526</id>
+    <name>Traveller</name>
+    <display_name>Traveller</display_name>
+
+    <location>Ambergris, 11, Tuvalu</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3145526-traveller]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1423246742p3/3145526.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1423246742p2/3145526.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">5907</id>
+  <isbn>0618260307</isbn>
+  <isbn13>9780618260300</isbn13>
+  <text_reviews_count type="integer">27500</text_reviews_count>
+  <title>The Hobbit</title>
+  <title_without_series>The Hobbit</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1372847500m/5907.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1372847500s/5907.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/5907.The_Hobbit</link>
+  <num_pages>366</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Houghton Mifflin</publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.24</average_rating>
+  <ratings_count>2139201</ratings_count>
+  <description>&lt;i&gt;In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a hobbit-hole, and that means comfort.&lt;br /&gt;&lt;br /&gt;&lt;/i&gt;Written for J.R.R. Tolkien’s own children, &lt;i&gt;The Hobbit&lt;/i&gt; met with instant critical acclaim when it was first published in 1937. Now recognized as a timeless classic, this introduction to the hobbit Bilbo Baggins, the wizard Gandalf, Gollum, and the spectacular world of Middle-earth recounts of the adventures of a reluctant hero, a powerful and dangerous ring, and the cruel dragon Smaug the Magnificent. The text in this 372-page paperback edition is based on that first published in Great Britain by Collins Modern Classics (1998), and includes a note on the text by Douglas A. Anderson (2001). Unforgettable!&lt;br /&gt;</description>
+<authors>
+<author>
+<id>656983</id>
+<name>J.R.R. Tolkien</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1434625177p5/656983.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1434625177p2/656983.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
+<average_rating>4.30</average_rating>
+<ratings_count>6098482</ratings_count>
+<text_reviews_count>90948</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1266084344</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sat Mar 05 20:18:46 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>166</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="fantasy" exclusive="false" review_shelf_id="48417041" sortable="true" />
+    <shelf name="1001-books" exclusive="false" review_shelf_id="1149719359" sortable="false" />
+    <shelf name="classics" exclusive="false" review_shelf_id="48417500" sortable="true" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Mon Dec 01 00:00:00 -0800 1997</read_at>
+  <date_added>Tue Jan 12 11:24:13 -0800 2010</date_added>
+  <date_updated>Wed Sep 28 15:31:38 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Maybe one day soon I'll write a proper review of The Hobbit.<br /><br />In the meantime, I want to say this:<br />If you are a child, you need to read this for Gollum's riddles.<br /><br />If you are an adult, you need to read this book to children (if you don't have children, <s>rent</s> borrow some) for at least one opportunity to...]]>
+  </body>
+
+  
+
+  <comments_count>52</comments_count>
+    <comments start="1" end="50" total="52">
+        <comment>
+  <id>49663248</id>
+  <body><![CDATA[LOL... the award..<br /><br />I saw it before but it's worth watching again. :-D]]></body>
+  
+  <user>
+    <id>3509341</id>
+    <name>Chris</name>
+    <display_name>Chris</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3509341-chris]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1421576684p3/3509341.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1421576684p2/3509341.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Apr 29 05:12:35 -0700 2012</created_at>
+  <updated_at>Sun Apr 29 05:12:35 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>49683611</id>
+  <body><![CDATA[<i>Chris wrote: "LOL... the award..<br />I saw it before but it's worth watching again. :-D"</i><br /><br />Yes, I loved it so much it has it's own little place on my hard drive. :)<br /><br />I'm awaiting the movie of this book with anticipation, I must say. I suppose at that point, reviews of the book will explode again.<br /><br />..and we'll see a bunch of spoof reviews as as well. c_c]]></body>
+  
+  <user>
+    <id>3145526</id>
+    <name>Traveller</name>
+    <display_name>Traveller</display_name>
+
+    <location>Ambergris, 11, Tuvalu</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3145526-traveller]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1423246742p3/3145526.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1423246742p2/3145526.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Apr 29 13:15:50 -0700 2012</created_at>
+  <updated_at>Sun Apr 29 13:15:50 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>55259767</id>
+  <body><![CDATA[I love this review. I read the Hobbit as an adult and I celebrated the inner child. Later, when my girls were old enough, I read it to them aloud, and then we read aloud the entire LOTR. A magical experience that I will always remember.]]></body>
+  
+  <created_at>Tue Jul 31 09:28:36 -0700 2012</created_at>
+  <updated_at>Tue Jul 31 09:28:36 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>55261515</id>
+  <body><![CDATA[Thanks Stephen! <br />I hope you really hammed it up with your Gollum impersonations! I read some of The Hobbit with my kids, and my son loved my Gollum impersonation so much, that he started doing Gollum impersonations himself and has become a pro at it. Sometimes he has me in stitches with that!]]></body>
+  
+  <user>
+    <id>3145526</id>
+    <name>Traveller</name>
+    <display_name>Traveller</display_name>
+
+    <location>Ambergris, 11, Tuvalu</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3145526-traveller]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1423246742p3/3145526.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1423246742p2/3145526.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 31 09:56:45 -0700 2012</created_at>
+  <updated_at>Tue Jul 31 09:56:45 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>55451563</id>
+  <body><![CDATA[One of life's great joys is reading to children. Thanks for reminding us. I read this one to mine, complete with different voices for all the major characters. What fun! It is an excellent introduction to the later, much more ambitious LOTR work. Read that one out loud as well, which was even more fun. I see this is the norm on GR-land. I had not seen the MTV award bit before. It is definitely preciousssssss!]]></body>
+  
+  <user>
+    <id>1526851</id>
+    <name>Will</name>
+    <display_name>Will Byrnes</display_name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1526851-will-byrnes]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291462190p3/1526851.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291462190p2/1526851.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 02 22:35:22 -0700 2012</created_at>
+  <updated_at>Thu Aug 02 22:35:22 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>55452350</id>
+  <body><![CDATA[I'm getting this uncontrollable urge to start talking like Gollum. It just goes to show that old hobbitses dies hard, yes they does, preciousss! (Especially if they was the keeper of the Precious for so long.)]]></body>
+  
+  <user>
+    <id>6014887</id>
+    <name>Richard</name>
+    <display_name>Richard</display_name>
+
+    <location>Ancaster, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6014887-richard]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1389632385p3/6014887.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1389632385p2/6014887.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 02 23:00:04 -0700 2012</created_at>
+  <updated_at>Thu Aug 02 23:00:04 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>55453839</id>
+  <body><![CDATA[What has it got in its pocketses, preciousss.]]></body>
+  
+  <user>
+    <id>1526851</id>
+    <name>Will</name>
+    <display_name>Will Byrnes</display_name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1526851-will-byrnes]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291462190p3/1526851.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291462190p2/1526851.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 02 23:50:11 -0700 2012</created_at>
+  <updated_at>Thu Aug 02 23:50:11 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>55454454</id>
+  <body><![CDATA[If it'sss jusssst a ssstupid Golden Popcorn award, we doesn't want it, precioussss, no we doesn't. Give usss nice fissshhh, rrraawwww!]]></body>
+  
+  <user>
+    <id>6014887</id>
+    <name>Richard</name>
+    <display_name>Richard</display_name>
+
+    <location>Ancaster, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6014887-richard]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1389632385p3/6014887.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1389632385p2/6014887.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 03 00:16:19 -0700 2012</created_at>
+  <updated_at>Fri Aug 03 00:16:19 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>55457153</id>
+  <body><![CDATA[I am already pining for the film.<br /><br />We mussst see it, preciousss, we mussst see it, gollum.]]></body>
+  
+  <user>
+    <id>1526851</id>
+    <name>Will</name>
+    <display_name>Will Byrnes</display_name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1526851-will-byrnes]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291462190p3/1526851.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291462190p2/1526851.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 03 02:48:14 -0700 2012</created_at>
+  <updated_at>Fri Aug 03 02:48:14 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>55457198</id>
+  <body><![CDATA[LOL, Will, and Richard, in our household Gollum is an endless source of entertainment. Glad to hear others also enjoy him. One of the best parts in the book is where where he and Bilbo have a riddle showdown .<br /><br />That award clip is one of my faves....and don't you just love how they put Sméagol in as his alter ego, and he insults everyone, including even MTV before he exits tightly clutching his award in spite of his insults...]]></body>
+  
+  <user>
+    <id>3145526</id>
+    <name>Traveller</name>
+    <display_name>Traveller</display_name>
+
+    <location>Ambergris, 11, Tuvalu</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3145526-traveller]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1423246742p3/3145526.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1423246742p2/3145526.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 03 02:50:53 -0700 2012</created_at>
+  <updated_at>Fri Aug 03 02:50:53 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>55457455</id>
+  <body><![CDATA[It was wonderful. Thanks for posting it, T.]]></body>
+  
+  <user>
+    <id>1526851</id>
+    <name>Will</name>
+    <display_name>Will Byrnes</display_name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1526851-will-byrnes]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291462190p3/1526851.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291462190p2/1526851.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 03 03:09:30 -0700 2012</created_at>
+  <updated_at>Fri Aug 03 03:09:30 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>55469154</id>
+  <body><![CDATA[After reading that, I rather wish my parents had read it to me. Instead, my father tossed me a dog-eared copy at about age five and said "here, you'll enjoy this." He was reading The Silmarillion at the time, and I asked him about it. He was about half-way through, and he looked over at me and said "too complex for you right. Or just crap. I haven't decided yet."<br /><br />Still haven't read The Silmarillion.<br /><br />Are you looking forward to the movies, T?]]></body>
+  
+  <user>
+    <id>7347880</id>
+    <name>L.H.</name>
+    <display_name>L.H. Thomson</display_name>
+
+    <location>Edmonton, AB, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7347880-l-h-thomson]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442618736p3/7347880.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442618736p2/7347880.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 03 08:51:20 -0700 2012</created_at>
+  <updated_at>Fri Aug 03 08:51:20 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>55470591</id>
+  <body><![CDATA[<i>L.H. wrote: "After reading that, I rather wish my parents had read it to me. Instead, my father tossed me a dog-eared copy at about age five and said "here, you'll enjoy this." He was reading The Silmarillion a..."</i><br /><br />I'm sorry to hear your regret, L.H. Admittedly, my own parents didn't read me this book, but my father did tell me lots of fairy-tales quite amazingly from memory, and we always had lots of books on supply.<br /><br />I've only read some of the Silmarillion. I prefer not to comment on books i haven't read to the end.<br /><br />About the Hobbit movies: well, i do like the LOTR movies, so, yes, i did largely anticipate it when it was announced, but i can't help wondering why there's going to be 3. <br />I guess it does make sense to make 3 shorter movies than one long movie if you're going to have a very young audience, but still- I do have some slight reservations.<br /><br />And you?]]></body>
+  
+  <user>
+    <id>3145526</id>
+    <name>Traveller</name>
+    <display_name>Traveller</display_name>
+
+    <location>Ambergris, 11, Tuvalu</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3145526-traveller]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1423246742p3/3145526.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1423246742p2/3145526.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 03 09:17:39 -0700 2012</created_at>
+  <updated_at>Fri Aug 03 09:17:39 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>55533764</id>
+  <body><![CDATA[I love that reading out loud to children as well and giving free rein to the thespian inside with the voices. My problem is when I get so carried away and then can't remember which voice goes with which character and you can bet your bottom dollar the kid remembers and corrects you.]]></body>
+  
+  <user>
+    <id>2569035</id>
+    <name>Mark</name>
+    <display_name>Mark</display_name>
+
+    <location><![CDATA[Teignmouth, P8, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2569035-mark]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1455213348p3/2569035.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1455213348p2/2569035.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 04 08:16:49 -0700 2012</created_at>
+  <updated_at>Sat Aug 04 08:16:49 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>55535124</id>
+  <body><![CDATA[I have found that when there are many voices to handle, one solution is to do character for a limited number and read the others in one's natural voice.]]></body>
+  
+  <user>
+    <id>1526851</id>
+    <name>Will</name>
+    <display_name>Will Byrnes</display_name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1526851-will-byrnes]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291462190p3/1526851.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291462190p2/1526851.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 04 08:51:50 -0700 2012</created_at>
+  <updated_at>Sat Aug 04 08:51:50 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>55538456</id>
+  <body><![CDATA[<i>Will wrote: "I have found that when there are many voices to handle, one solution is to do character for a limited number and read the others in one's natural voice."</i><br /><br />Now that would be the sensible thing to do my friend i would agree but my inner Alastair Sim, desperate to shine, can sometimes just not be controlled]]></body>
+  
+  <user>
+    <id>2569035</id>
+    <name>Mark</name>
+    <display_name>Mark</display_name>
+
+    <location><![CDATA[Teignmouth, P8, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2569035-mark]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1455213348p3/2569035.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1455213348p2/2569035.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 04 10:05:37 -0700 2012</created_at>
+  <updated_at>Sat Aug 04 10:05:37 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>55539001</id>
+  <body><![CDATA[<i>Mark wrote: "Now that would be the sensible thing to do my friend i would agree but my inner Alastair Sim, desperate to shine, can sometimes just not be controlled."</i><br /><br />LOL, it sounds like this is just the book for you, Mark- I wonder what voice you'd give Sauron? <br /><br />I must admit that I am less erm, ambitious, and didn't give all of the character interpretations too much energy for fear of not being able to keep it up. But i let my son share the burden of some of the reading, so it was fun all around!]]></body>
+  
+  <user>
+    <id>3145526</id>
+    <name>Traveller</name>
+    <display_name>Traveller</display_name>
+
+    <location>Ambergris, 11, Tuvalu</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3145526-traveller]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1423246742p3/3145526.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1423246742p2/3145526.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 04 10:17:08 -0700 2012</created_at>
+  <updated_at>Sat Aug 04 10:17:08 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>55539298</id>
+  <body><![CDATA[<i>Traveller wrote: " I wonder what voice you'd give Sauron"</i><br /><br />What a great party game....Off the top of my head, it would be a toss up between.....hmmmm, on second thoughts i had better be careful. I could be sued for defammation]]></body>
+  
+  <user>
+    <id>2569035</id>
+    <name>Mark</name>
+    <display_name>Mark</display_name>
+
+    <location><![CDATA[Teignmouth, P8, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2569035-mark]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1455213348p3/2569035.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1455213348p2/2569035.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 04 10:23:32 -0700 2012</created_at>
+  <updated_at>Sat Aug 04 10:23:32 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>55539557</id>
+  <body><![CDATA[<i>Mark wrote: "Traveller wrote: " I wonder what voice you'd give Sauron"<br /><br />What a great party game....Off the top of my head, it would be a toss up between.....hmmmm, on second thoughts i had better be careful. I ..."</i><br /><br />You never know... some people might actually be pleased to be likened to Sauron... :P]]></body>
+  
+  <user>
+    <id>3145526</id>
+    <name>Traveller</name>
+    <display_name>Traveller</display_name>
+
+    <location>Ambergris, 11, Tuvalu</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3145526-traveller]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1423246742p3/3145526.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1423246742p2/3145526.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 04 10:29:17 -0700 2012</created_at>
+  <updated_at>Sat Aug 04 10:29:17 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>55539618</id>
+  <body><![CDATA[<i>Traveller wrote: "L.H. wrote: "After reading that, I rather wish my parents had read it to me. Instead, my father tossed me a dog-eared copy at about age five and said "here, you'll enjoy this." He was reading The S..."</i><br /><br />Oh absolutely. I think the first reaction in the newsroom last week was "Huh?" Three books, three movies made a sort of sense. <br /><br />My middle earth fantasy-that-takes-itself-seriously vibe is only good for about two hours of screen time, I think. <br /><br />Now, a Pawn of Prophecy series with three movies (or six)? That I'd go to.<br /><br />On narration, to me the question is always "English accent or not?", because let's face it, everything sounds better went narrated by Ian McKellan, Christoper Plummer (he's Canadian but sounds English) or Emma Thompson.]]></body>
+  
+  <user>
+    <id>7347880</id>
+    <name>L.H.</name>
+    <display_name>L.H. Thomson</display_name>
+
+    <location>Edmonton, AB, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7347880-l-h-thomson]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442618736p3/7347880.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442618736p2/7347880.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 04 10:30:51 -0700 2012</created_at>
+  <updated_at>Sat Aug 04 10:30:51 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>55539802</id>
+  <body><![CDATA[L.H. Juliet Stevenson is a great english narrator too. Both the Virginia Woolf Audiobooks I have are narrated by her. Her reading of 'Mrs Dalloway' is just sublime]]></body>
+  
+  <user>
+    <id>2569035</id>
+    <name>Mark</name>
+    <display_name>Mark</display_name>
+
+    <location><![CDATA[Teignmouth, P8, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2569035-mark]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1455213348p3/2569035.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1455213348p2/2569035.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 04 10:35:03 -0700 2012</created_at>
+  <updated_at>Sat Aug 04 10:35:03 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>55539970</id>
+  <body><![CDATA[I agree, this is a great book to read aloud. But you have to make sure the narrator can read the troll parts well. And Gollum, too. I tried and failed. ;)]]></body>
+  
+  <user>
+    <id>3888591</id>
+    <name>Brandi</name>
+    <display_name>Brandi</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3888591-brandi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1455655485p3/3888591.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1455655485p2/3888591.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 04 10:38:57 -0700 2012</created_at>
+  <updated_at>Sat Aug 04 10:38:57 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>55542599</id>
+  <body><![CDATA[<i>Brandi wrote: "I agree, this is a great book to read aloud. But you have to make sure the narrator can read the troll parts well. And Gollum, too. I tried and failed. ;)"</i><br /><br />It takes a lot of practice! :)<br /><br />On narration... Hmmm some British actor's accents can be a bit too over the top, but for me, since the Tolkien books are so English in character, i would also say a British narrator. I agree with that i like Ian Mc Kellen's voice for a narration.<br /><br />I must check out L.H. Juliet Stevenson's voice acting/reading.]]></body>
+  
+  <user>
+    <id>3145526</id>
+    <name>Traveller</name>
+    <display_name>Traveller</display_name>
+
+    <location>Ambergris, 11, Tuvalu</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3145526-traveller]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1423246742p3/3145526.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1423246742p2/3145526.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 04 11:41:16 -0700 2012</created_at>
+  <updated_at>Sat Aug 04 11:41:16 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>55553456</id>
+  <body><![CDATA[British, for sure<br />I made the trolls German]]></body>
+  
+  <user>
+    <id>1526851</id>
+    <name>Will</name>
+    <display_name>Will Byrnes</display_name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1526851-will-byrnes]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291462190p3/1526851.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291462190p2/1526851.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 04 15:22:21 -0700 2012</created_at>
+  <updated_at>Sat Aug 04 15:22:21 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>56278604</id>
+  <body><![CDATA[But Ian McKellan is Gandalf, so wouldn't it be odd for him to be narrator who is NOT Gandalf?]]></body>
+  
+  <user>
+    <id>1199525</id>
+    <name>Cecily</name>
+    <display_name>Cecily</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1199525-cecily]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480285828p3/1199525.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480285828p2/1199525.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 15 11:06:22 -0700 2012</created_at>
+  <updated_at>Wed Aug 15 11:06:22 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>63652463</id>
+  <body><![CDATA[the movie is amazing. I vaguely remember hearing bits of the story when i was younger. And i loved the lord of the rings but never got a chance to read the hobbit. So yeah. I LOVED the movie.]]></body>
+  
+  <user>
+    <id>10405746</id>
+    <name>Ari</name>
+    <display_name>Ari</display_name>
+
+    <location>Mertztown, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10405746-ari]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Dec 16 14:45:25 -0800 2012</created_at>
+  <updated_at>Sun Dec 16 14:45:25 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>72747231</id>
+  <body><![CDATA[hehehehehe i loved the movie, can't wait for the next one though =D it will be mine XD]]></body>
+  
+  <user>
+    <id>18115915</id>
+    <name>Katherine</name>
+    <display_name>Katherine</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18115915-katherine]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1362599158p3/18115915.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1362599158p2/18115915.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Apr 24 08:56:22 -0700 2013</created_at>
+  <updated_at>Wed Apr 24 08:56:22 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>72754611</id>
+  <body><![CDATA[I can never get enough of Tolkienesque movies. Apparently there were other movies made, and of course there's quite a bit of artwork done around his stories; if you like that kind of art, this is a nice book to have: <a href="https://www.goodreads.com/book/show/23619.Realms_of_Tolkien" title="Realms of Tolkien by J.R.R. Tolkien" rel="nofollow">Realms of Tolkien</a>]]></body>
+  
+  <user>
+    <id>3145526</id>
+    <name>Traveller</name>
+    <display_name>Traveller</display_name>
+
+    <location>Ambergris, 11, Tuvalu</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3145526-traveller]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1423246742p3/3145526.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1423246742p2/3145526.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Apr 24 11:27:33 -0700 2013</created_at>
+  <updated_at>Wed Apr 24 11:27:33 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>75450918</id>
+  <body><![CDATA[I always loved The Hobbit...]]></body>
+  
+  <user>
+    <id>15736557</id>
+    <name>Lynne</name>
+    <display_name>Lynne King</display_name>
+
+    <location>France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15736557-lynne-king]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1357126217p3/15736557.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1357126217p2/15736557.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 03 04:45:50 -0700 2013</created_at>
+  <updated_at>Mon Jun 03 04:45:50 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>84482026</id>
+  <body><![CDATA[Enjoyed this review, Traveller.<br />I did read The Hobbit to one of my daughters followed by the entire Lord of the Rings over the course of a year. My older daughters had read it themselves but they used to listen in to the bedtime reading from time to time - picture it, four of us snuggled up together in one tiny bed - it was wonderful. Then the LotR movies hit the screens and they enjoyed them hugely, reruns and reruns until I couldn't stand any more shots of orks flooding the TV screen. But what they really loved was Gollum. They could do that back of the throat voice to perfection. The phrase, 'My Precious' eventually drove me crazier than the orks....]]></body>
+  
+  <user>
+    <id>5498525</id>
+    <name>Fionnuala</name>
+    <display_name>Fionnuala</display_name>
+
+    <location>France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5498525-fionnuala]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1368182051p3/5498525.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1368182051p2/5498525.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 08 02:42:30 -0700 2013</created_at>
+  <updated_at>Tue Oct 08 02:42:30 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>84482403</id>
+  <body><![CDATA[<i>Fionnuala wrote: "Enjoyed this review, Traveller.<br />I did read The Hobbit to one of my daughters followed by the entire Lord of the Rings over the course of a year. My older daughters had read it themselves but they u..."</i><br /><br />He he--although I started out the role-playing and doing the Gollum voice with my kids, my son kept working on it and mastered that gollum-voice to a creepy point of perfection. In fact, some days he sounds more gollum-y than Gollum to me!]]></body>
+  
+  <user>
+    <id>3145526</id>
+    <name>Traveller</name>
+    <display_name>Traveller</display_name>
+
+    <location>Ambergris, 11, Tuvalu</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3145526-traveller]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1423246742p3/3145526.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1423246742p2/3145526.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 08 03:01:05 -0700 2013</created_at>
+  <updated_at>Tue Oct 08 03:01:05 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>90236315</id>
+  <body><![CDATA[Gollum DOES rule! I especially like his voice in the movies.]]></body>
+  
+  <user>
+    <id>16732603</id>
+    <name>Rhea</name>
+    <display_name>Rhea</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16732603-rhea]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1375119407p3/16732603.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1375119407p2/16732603.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 07 15:55:37 -0800 2014</created_at>
+  <updated_at>Tue Jan 07 15:55:37 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90404365</id>
+  <body><![CDATA[I don't understand how you can rent children but i agree with you. :)]]></body>
+  
+  <created_at>Fri Jan 10 05:31:15 -0800 2014</created_at>
+  <updated_at>Fri Jan 10 05:31:15 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90462935</id>
+  <body><![CDATA[<i>Lucien wrote: "I don't understand how you can rent children but i agree with you. :)"</i><br /><br />Thanks for pointing that out, Lucien. Fixed!]]></body>
+  
+  <user>
+    <id>3145526</id>
+    <name>Traveller</name>
+    <display_name>Traveller</display_name>
+
+    <location>Ambergris, 11, Tuvalu</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3145526-traveller]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1423246742p3/3145526.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1423246742p2/3145526.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 11 01:24:46 -0800 2014</created_at>
+  <updated_at>Sat Jan 11 01:24:46 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90463529</id>
+  <body><![CDATA[It was lovely to see your review again Traveller!]]></body>
+  
+  <user>
+    <id>15736557</id>
+    <name>Lynne</name>
+    <display_name>Lynne King</display_name>
+
+    <location>France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15736557-lynne-king]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1357126217p3/15736557.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1357126217p2/15736557.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 11 02:04:38 -0800 2014</created_at>
+  <updated_at>Sat Jan 11 02:04:38 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90464706</id>
+  <body><![CDATA[Funny review, Trav. I just need to read this since I'm one of <i>those</i> who haven't *hangs head in utter embarrassment*]]></body>
+  
+  <user>
+    <id>7915003</id>
+    <name>Garima</name>
+    <display_name>Garima</display_name>
+
+    <location>India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7915003-garima]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1360053697p3/7915003.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1360053697p2/7915003.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 11 03:15:17 -0800 2014</created_at>
+  <updated_at>Sat Jan 11 03:15:17 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90464760</id>
+  <body><![CDATA[Actually Garima you would love this! It's such a wonderful tale.]]></body>
+  
+  <user>
+    <id>15736557</id>
+    <name>Lynne</name>
+    <display_name>Lynne King</display_name>
+
+    <location>France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15736557-lynne-king]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1357126217p3/15736557.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1357126217p2/15736557.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 11 03:17:59 -0800 2014</created_at>
+  <updated_at>Sat Jan 11 03:17:59 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90464919</id>
+  <body><![CDATA[<i>Garima wrote: "Funny review, Trav. I just need to read this since I'm one of those who haven't *hangs head in utter embarrassment*"</i><br />You shouldn't be embarassed, Garima, I've read very little Indian and other World Lit after all!<br /><br />...but it should be a quick read for you, Garima! ..and as an adult you should be able to catch the more subtle themes and humor too! It's where the whole Lord of the Rings phenomenon started out, and since the latter has had such a large influence on Western (and possibly other) cultural tropes, it is therefore a bit of cultural history, so to speak...]]></body>
+  
+  <user>
+    <id>3145526</id>
+    <name>Traveller</name>
+    <display_name>Traveller</display_name>
+
+    <location>Ambergris, 11, Tuvalu</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3145526-traveller]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1423246742p3/3145526.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1423246742p2/3145526.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 11 03:25:44 -0800 2014</created_at>
+  <updated_at>Sat Jan 11 03:25:44 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90466393</id>
+  <body><![CDATA[@Lynne: Oh I'm sure it is a wonderful tale. I'll read it soon. :)<br /><br />@Trav: True, but this book is different...kind of universal in its appeal and popularity. And...umm..I haven't read LOTR too and watched the movie in parts only because I wanted to get familiar with the text first. <br /><br />PS: Hope that 99 turns to 100 soon. I get restless when it doesn't :P]]></body>
+  
+  <user>
+    <id>7915003</id>
+    <name>Garima</name>
+    <display_name>Garima</display_name>
+
+    <location>India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7915003-garima]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1360053697p3/7915003.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1360053697p2/7915003.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 11 04:36:26 -0800 2014</created_at>
+  <updated_at>Sat Jan 11 04:36:26 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90466563</id>
+  <body><![CDATA[Yes I'm waiting for the 100 too Garima! Remember Lolita!]]></body>
+  
+  <user>
+    <id>15736557</id>
+    <name>Lynne</name>
+    <display_name>Lynne King</display_name>
+
+    <location>France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15736557-lynne-king]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1357126217p3/15736557.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1357126217p2/15736557.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 11 04:43:49 -0800 2014</created_at>
+  <updated_at>Sat Jan 11 04:43:49 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90466616</id>
+  <body><![CDATA[<i>Lynne wrote: "Yes I'm waiting for the 100 too Garima! Remember Lolita!"</i><br /><br />Haha! yes.]]></body>
+  
+  <user>
+    <id>7915003</id>
+    <name>Garima</name>
+    <display_name>Garima</display_name>
+
+    <location>India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7915003-garima]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1360053697p3/7915003.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1360053697p2/7915003.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 11 04:46:37 -0800 2014</created_at>
+  <updated_at>Sat Jan 11 04:46:37 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90467264</id>
+  <body><![CDATA[Heh, thanks, yes, I too, like a tidy number. The review doesn't really deserve so many likes, since one could write a much better review of TH, of course, but it was originally posted at a point in time when it occurred to me how well-done the movie character of Gollum was.<br /><br />So let's hope another Gollum er.. fan? comes along and gives us our 100 ^_^.]]></body>
+  
+  <user>
+    <id>3145526</id>
+    <name>Traveller</name>
+    <display_name>Traveller</display_name>
+
+    <location>Ambergris, 11, Tuvalu</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3145526-traveller]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1423246742p3/3145526.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1423246742p2/3145526.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 11 05:11:51 -0800 2014</created_at>
+  <updated_at>Sat Jan 11 05:11:51 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90467645</id>
+  <body><![CDATA[Ding-ding-ding-ding! Ema did us the the honor.<br /><br />Thanks Ema! :D]]></body>
+  
+  <user>
+    <id>3145526</id>
+    <name>Traveller</name>
+    <display_name>Traveller</display_name>
+
+    <location>Ambergris, 11, Tuvalu</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3145526-traveller]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1423246742p3/3145526.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1423246742p2/3145526.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 11 05:25:08 -0800 2014</created_at>
+  <updated_at>Sat Jan 11 05:25:08 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90467702</id>
+  <body><![CDATA[Yeeey, I am the 100th! Although I am not really a Gollum fan, but yeeey!<br />What's he eating there, a fish? What a pair of shiny, wet eyes he has, almost sad...]]></body>
+  
+  <user>
+    <id>5746897</id>
+    <name>Ema</name>
+    <display_name>Ema</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5746897-ema]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1394635581p3/5746897.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1394635581p2/5746897.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 11 05:26:40 -0800 2014</created_at>
+  <updated_at>Sat Jan 11 05:26:40 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90468447</id>
+  <body><![CDATA[What you didn't know, Ema, is that the 100th "like" clicker here, wins a book prize! :D<br /><br /><br />Yes, he is a water creature, so I guess he gets to eat fish... and I guess the rawness of the fish is to add to the 'ick' factor. Have you watched the LOTR movies or the first hobbit movie? His voice and everything about him is very well done.]]></body>
+  
+  <user>
+    <id>3145526</id>
+    <name>Traveller</name>
+    <display_name>Traveller</display_name>
+
+    <location>Ambergris, 11, Tuvalu</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3145526-traveller]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1423246742p3/3145526.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1423246742p2/3145526.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 11 05:48:43 -0800 2014</created_at>
+  <updated_at>Sat Jan 11 05:48:43 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90469906</id>
+  <body><![CDATA[Yup, I was going to ask if there was a prize, but I got too carried away! <br />I haven't watched all the LOTR movies, but I liked the ones I saw. I was more into Harry Potter, though. :P<br />I'd rather read the books at this point, as my passion for movies has subsided considerably.]]></body>
+  
+  <user>
+    <id>5746897</id>
+    <name>Ema</name>
+    <display_name>Ema</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5746897-ema]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1394635581p3/5746897.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1394635581p2/5746897.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 11 06:31:35 -0800 2014</created_at>
+  <updated_at>Sat Jan 11 06:31:35 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90470270</id>
+  <body><![CDATA[I read this to my three older kids and enjoyed it immensely. What I found so amazing is that Gollum's dialogue is written exactly the way it sounds in the LOTR movies, and it was almost impossible not to slip into the character. Of course, as a family we've watched the LOTR movies so many times I've lost count, as well as the first of The Hobbit. And of course the kids insisted on seeing the second as soon as it came to a theater near us.<br /><br />Great character, great book.]]></body>
+  
+  <user>
+    <id>9779623</id>
+    <name>Shaun</name>
+    <display_name>Shaun</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9779623-shaun]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1446523068p3/9779623.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1446523068p2/9779623.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 11 06:41:56 -0800 2014</created_at>
+  <updated_at>Sat Jan 11 06:41:56 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90478072</id>
+  <body><![CDATA[<i>Ema wrote: "I'd rather read the books at this point, as my passion for movies has subsided considerably...."</i><br /><br />Ema, if you get around used bookstores a lot, do look out for an illustrated version!<br /><br /><i>Shaun wrote: "I read this to my three older kids and enjoyed it immensely. What I found so amazing is that Gollum's dialogue is written exactly the way it sounds in the LOTR movies, and it was almost impossible ..."</i><br /><br />Yes, he's great fun, as are the Hobbits. He's even more fun to try and copy than Yoda!<br /><br />The Hobbit riddles have always been firm favorites as well. Which, come to think of it, sort of refers to the 'riddle' trope often found in folklore. :)]]></body>
+  
+  <user>
+    <id>3145526</id>
+    <name>Traveller</name>
+    <display_name>Traveller</display_name>
+
+    <location>Ambergris, 11, Tuvalu</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3145526-traveller]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1423246742p3/3145526.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1423246742p2/3145526.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 11 09:17:46 -0800 2014</created_at>
+  <updated_at>Sat Jan 11 09:17:46 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90527971</id>
+  <body><![CDATA[Oh, the drawings are beautiful, it's a pity not to read the illustrated edition! I'll keep an eye for it, we do have a second-hand chain of bookstores in Bucharest, which bring novels in English at affordable prices.]]></body>
+  
+  <user>
+    <id>5746897</id>
+    <name>Ema</name>
+    <display_name>Ema</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5746897-ema]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1394635581p3/5746897.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1394635581p2/5746897.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 11 23:51:54 -0800 2014</created_at>
+  <updated_at>Sat Jan 11 23:51:54 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90536383</id>
+  <body><![CDATA[The first and the last one are from illustrated versions, but I'm not sure if the third is part of a book or an artwork on its own. Now I'm tempted to put illustrations in the actual review... (and maybe beef the review up a bit--oh golly, so many reviews to be written...)]]></body>
+  
+  <user>
+    <id>3145526</id>
+    <name>Traveller</name>
+    <display_name>Traveller</display_name>
+
+    <location>Ambergris, 11, Tuvalu</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3145526-traveller]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1423246742p3/3145526.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1423246742p2/3145526.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 12 06:08:10 -0800 2014</created_at>
+  <updated_at>Sun Jan 12 06:08:10 -0800 2014</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/84645247]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/84645247]]></link>
+    <owned>1</owned>
+</review>
+
+
+</GoodreadsResponse>

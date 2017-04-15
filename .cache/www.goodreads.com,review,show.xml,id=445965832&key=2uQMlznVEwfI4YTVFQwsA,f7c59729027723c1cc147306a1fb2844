@@ -1,0 +1,1213 @@
+status: 200
+x-request-id: 8VJHB2VDM2EQG3WZP8WV
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=445965832&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhg3MTAtNDY3MDEyOC0xNjQyODk5BjoGRVQ%3D--d545f6ed55733c48a0714aca467a6f81794bae80;
+ path=/; expires=Wed, 15 Apr 2037 15:09:18 -0000, locale=es;
+ path=/, _session_id2=23c334f771b446a82be94daf6643b6fd; path=/;
+ expires=Sat, 15 Apr 2017 21:09:19 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 55595
+server: Server
+x-runtime: 0.487958
+etag: W/"722c150795cbaeee9543fb7a9eb61afd"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:09:19 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>445965832</id>
+    
+  <user>
+    <id>14147234</id>
+    <name>Lit Bug</name>
+    <display_name>Lit Bug</display_name>
+
+    <location>India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14147234-lit-bug]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1384000828p3/14147234.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1384000828p2/14147234.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">816815</id>
+  <isbn>0099419785</isbn>
+  <isbn13>9780099419785</isbn13>
+  <text_reviews_count type="integer">791</text_reviews_count>
+  <title>To Kill a Mockingbird</title>
+  <title_without_series>To Kill a Mockingbird</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/816815.To_Kill_a_Mockingbird</link>
+  <num_pages>309</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.25</average_rating>
+  <ratings_count>3251393</ratings_count>
+  <description>Harper Lee's Pulitzer Prize-winning masterwork of honor and injustice in the deep South ― and the heroism of one man in the face of blind and violent hatred.&lt;br /&gt;&lt;br /&gt;One of the best-loved stories of all time, &lt;i&gt;To Kill a Mockingbird&lt;/i&gt; has been translated into more than forty languages, sold more than thirty million copies worldwide, served as the basis of an enormously popular motion picture, and was voted one of the best novels of the twentieth century by librarians across the country. &lt;br /&gt;&lt;br /&gt;A gripping, heart-wrenching, and wholly remarkable tale of coming-of-age in a South poisoned by virulent prejudice, it views a world of great beauty and savage inequities through the eyes of a young girl, as her father ― a crusading local lawyer ― risks everything to defend a black man unjustly accused of a terrible crime.</description>
+<authors>
+<author>
+<id>1825</id>
+<name>Harper Lee</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1188820730p5/1825.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1188820730p2/1825.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1825.Harper_Lee]]></link>
+<average_rating>4.21</average_rating>
+<ratings_count>3414068</ratings_count>
+<text_reviews_count>94458</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1214695886</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sat Jan 30 07:22:44 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>262</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="american" exclusive="false" review_shelf_id="406873203" sortable="false" />
+    <shelf name="fiction" exclusive="false" review_shelf_id="406873236" sortable="false" />
+    <shelf name="novels" exclusive="false" review_shelf_id="406873281" sortable="false" />
+    <shelf name="owned" exclusive="false" review_shelf_id="406873287" sortable="false" />
+    <shelf name="literary" exclusive="false" review_shelf_id="406873493" sortable="false" />
+    <shelf name="favorites" exclusive="false" review_shelf_id="538018644" sortable="false" />
+</shelves>
+  <recommended_for>Everyone</recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Nov 05 00:00:00 -0800 2013</started_at>
+  <read_at>Tue Nov 05 00:00:00 -0800 2013</read_at>
+  <date_added>Wed Oct 31 23:46:42 -0700 2012</date_added>
+  <date_updated>Mon May 04 02:44:56 -0700 2015</date_updated>
+  <read_count>Almost 17</read_count>
+  <body>
+      <![CDATA[In the course of 5 years, I’ve read this book nearly 17 times. That adds up to reading it once at least every 4 months, on an average. And I still return to this book like a bark seeking a lighthouse in the dark. When I first finished it, I was so overwhelmed by how much I related to it, I read i...]]>
+  </body>
+
+  
+
+  <comments_count>48</comments_count>
+    <comments start="1" end="48" total="48">
+        <comment>
+  <id>86223277</id>
+  <body><![CDATA[Wow, Lit Bug. If there ever was a more compelling review towards a single book,it wouldn't be better than this.<br /><br />I have to read this now. Now.]]></body>
+  
+  <user>
+    <id>7747793</id>
+    <name>rahul</name>
+    <display_name>rahul</display_name>
+
+    <location>Bangalore, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7747793-rahul]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1453981231p3/7747793.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1453981231p2/7747793.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 05 09:19:27 -0800 2013</created_at>
+  <updated_at>Tue Nov 05 09:19:27 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>86223420</id>
+  <body><![CDATA[I'm honored to be one of the first to see and like this review, Lit. My one-word reaction is the same as Rahul's: Wow.]]></body>
+  
+  <user>
+    <id>7213075</id>
+    <name>Ted</name>
+    <display_name>Ted</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7213075-ted]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1454099719p3/7213075.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1454099719p2/7213075.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 05 09:22:44 -0800 2013</created_at>
+  <updated_at>Tue Nov 05 09:22:44 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>86223496</id>
+  <body><![CDATA[:) Thanks so much Ted and Rahul - I'd been waiting for long to review this. Favorite books are hardest to review.]]></body>
+  
+  <user>
+    <id>14147234</id>
+    <name>Lit Bug</name>
+    <display_name>Lit Bug</display_name>
+
+    <location>India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14147234-lit-bug]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1384000828p3/14147234.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1384000828p2/14147234.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 05 09:23:56 -0800 2013</created_at>
+  <updated_at>Tue Nov 05 09:23:56 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>86223933</id>
+  <body><![CDATA[Lit Bug,<br /><br />My that's all I can say. You've read this book (nearly) seventeen times! I had a friend who watched the movie "Casablanca" 57 times and I thought he was nuts. However, I love the "Thomas Crown Affair" DVD with Pearce Brosnan and I could watch that for ever. I love the music. It mesmerizes me. It sets a spring in my stride.<br /><br />I particularly liked : "Striving to follow this dictum, I have realized how difficult it is to be kind to others when I find I’m right." I'm a bit like that myself. <br /><br />So, I already have this book and I must read it.<br /><br />You are remarkable. You're getting close to Dolors but I still think that Dolors is in the lead...]]></body>
+  
+  <user>
+    <id>15736557</id>
+    <name>Lynne</name>
+    <display_name>Lynne King</display_name>
+
+    <location>France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15736557-lynne-king]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1357126217p3/15736557.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1357126217p2/15736557.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 05 09:31:36 -0800 2013</created_at>
+  <updated_at>Tue Nov 05 09:31:36 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>86224554</id>
+  <body><![CDATA[Whatay spell-binder of a review Lit. It's always tremendously moving to find another person's passionate eulogistic writing on something they truly cherish. I remember reading this in my first year of college, too late in life in fact. But it was one of those rewarding reading experiences I never forgot. Your review reminds me to revisit this some day in the future. It is inspiring to find at least one human being who has internalized the guiding life principles this book upholds. Brava!]]></body>
+  
+  <user>
+    <id>13266158</id>
+    <name>Samadrita</name>
+    <display_name>Samadrita</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13266158-samadrita]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1461258628p3/13266158.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1461258628p2/13266158.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 05 09:44:14 -0800 2013</created_at>
+  <updated_at>Tue Nov 05 09:44:14 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>86224850</id>
+  <body><![CDATA[Thanks Lynne!<br /><br />And Samadrita, I read this even late - 3rd year in college!]]></body>
+  
+  <user>
+    <id>14147234</id>
+    <name>Lit Bug</name>
+    <display_name>Lit Bug</display_name>
+
+    <location>India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14147234-lit-bug]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1384000828p3/14147234.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1384000828p2/14147234.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 05 09:51:07 -0800 2013</created_at>
+  <updated_at>Tue Nov 05 09:51:07 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>86224864</id>
+  <body><![CDATA[Ahh! I guess I was waiting for this review. I better pick the book from my shelf and read it, like finally. Loved your enthusiastic yet elegant response towards this work.]]></body>
+  
+  <user>
+    <id>7915003</id>
+    <name>Garima</name>
+    <display_name>Garima</display_name>
+
+    <location>India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7915003-garima]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1360053697p3/7915003.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1360053697p2/7915003.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 05 09:51:42 -0800 2013</created_at>
+  <updated_at>Tue Nov 05 09:51:42 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>86225059</id>
+  <body><![CDATA[<i>I’m glad somebody wrote this book, and somebody assigned this book as syllabus when I needed it the most</i><br /><br />I can't imagine a better tribute to an author!]]></body>
+  
+  <user>
+    <id>5498525</id>
+    <name>Fionnuala</name>
+    <display_name>Fionnuala</display_name>
+
+    <location>France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5498525-fionnuala]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1368182051p3/5498525.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1368182051p2/5498525.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 05 09:55:40 -0800 2013</created_at>
+  <updated_at>Tue Nov 05 09:55:40 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>86226200</id>
+  <body><![CDATA[It is so easy to hate. To ignore other people's troubles and think highly of one's own issues. But this is how I have become. Blame it on India or our society in general or my defense mechanism. I loved the movie version of this book.<br /><br />To be honest, I have little hope of any book changing my attitude in a big way, but this review of yours just makes me want to try it.<br /><br />Being kind is a difficult/tedious job,isn't it. Or am I the only one who feels this way.]]></body>
+  
+  <user>
+    <id>7747793</id>
+    <name>rahul</name>
+    <display_name>rahul</display_name>
+
+    <location>Bangalore, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7747793-rahul]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1453981231p3/7747793.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1453981231p2/7747793.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 05 10:21:57 -0800 2013</created_at>
+  <updated_at>Tue Nov 05 10:21:57 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>86226510</id>
+  <body><![CDATA[This is easily one of the best reviews I've read on this site and this site has many fine reviewers. Thank you for sharing it!]]></body>
+  
+  <user>
+    <id>12618229</id>
+    <name>Jeff </name>
+    <display_name>Jeff </display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12618229-jeff]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1491485453p3/12618229.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1491485453p2/12618229.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 05 10:30:04 -0800 2013</created_at>
+  <updated_at>Tue Nov 05 10:30:04 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>86226535</id>
+  <body><![CDATA[Wonderful review, Lit! I recently bought this book and is now on my bookshelf waiting to be read. After reading your review I can hardly wait to get started!]]></body>
+  
+  <user>
+    <id>21812440</id>
+    <name>Erwin</name>
+    <display_name>Erwin</display_name>
+
+    <location>Netherlands</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/21812440-erwin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1472274711p3/21812440.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1472274711p2/21812440.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 05 10:31:02 -0800 2013</created_at>
+  <updated_at>Tue Nov 05 10:31:02 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>86232675</id>
+  <body><![CDATA[I loved this dearly as well. Still do. Thanks or writing this.]]></body>
+  
+  <user>
+    <id>647547</id>
+    <name>Mariel</name>
+    <display_name>Mariel</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/647547-mariel]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1451321467p3/647547.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1451321467p2/647547.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 05 12:08:32 -0800 2013</created_at>
+  <updated_at>Tue Nov 05 12:08:32 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>86269502</id>
+  <body><![CDATA[Fantastic review! 17 times, wow, well worth reading it that many too! I've only read it twice but now I NEED a third reading. Great work, such emotion and energy in this review. Perfect.]]></body>
+  
+  <user>
+    <id>6431467</id>
+    <name>s.penkevich</name>
+    <display_name>s.penkevich</display_name>
+
+    <location>Holland, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6431467-s-penkevich]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487244329p3/6431467.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487244329p2/6431467.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 05 22:33:51 -0800 2013</created_at>
+  <updated_at>Tue Nov 05 22:33:51 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>86272036</id>
+  <body><![CDATA[There are a few great adjectives here preceding the word 'review' already, but I must say, stunning review. <br /><br />You illustrate perfectly what Harper Lee was trying to promulgate with this classic book. Especially when you mention the certain characters who appear unpleasant and villainous at first glance (as well as the clever mention of one of Wilde's many vibrant and brilliant quotes). Indeed, everyone is the protagonist of their own story and everyone has goals, dreams, hopes and motivations. I don't know what more could have been said, I'm jealous I didn't write it myself!]]></body>
+  
+  <created_at>Wed Nov 06 00:39:40 -0800 2013</created_at>
+  <updated_at>Wed Nov 06 00:39:40 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>86273276</id>
+  <body><![CDATA[This is great, LB. It's wonderful to read a review by someone who knows the material quite as thoroughly as you do. It wouldn't surprise me if you know this better than Harper Lee does!]]></body>
+  
+  <user>
+    <id>53165</id>
+    <name>Warwick</name>
+    <display_name>Warwick</display_name>
+
+    <location>Zürich, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/53165-warwick]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1469274171p3/53165.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1469274171p2/53165.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 06 01:55:42 -0800 2013</created_at>
+  <updated_at>Wed Nov 06 01:55:42 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>86279714</id>
+  <body><![CDATA[Really thank you everyone - this has been a book vital to keeping me grounded amidst the inescapable chaos and I never found an appropriate time to write about it. Crude as it is (my review), this was my 'koshish', my effort to express my gratitude to something that kept me from becoming indifferent and self-righteous.]]></body>
+  
+  <user>
+    <id>14147234</id>
+    <name>Lit Bug</name>
+    <display_name>Lit Bug</display_name>
+
+    <location>India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14147234-lit-bug]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1384000828p3/14147234.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1384000828p2/14147234.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 06 06:02:35 -0800 2013</created_at>
+  <updated_at>Wed Nov 06 06:02:35 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>86279902</id>
+  <body><![CDATA[This is a grand day for me as I've just discovered a new poignant voice amidst the chaotic internet universe. You've achieved something truly remarkable with this review, Lit Bug. You elevate literature to a life-changing experience while allowing your exultant voice commingle with the greatest...oh, the joy of sensing Coleridge and Wilde's echos only to bring them all together to such an uplifting conclusion. Awesome review which managed to make my day.]]></body>
+  
+  <user>
+    <id>18383778</id>
+    <name>Dolors</name>
+    <display_name>Dolors</display_name>
+
+    <location>Barcelona, Spain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18383778-dolors]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1379500437p3/18383778.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1379500437p2/18383778.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 06 06:07:56 -0800 2013</created_at>
+  <updated_at>Wed Nov 06 06:07:56 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>86280171</id>
+  <body><![CDATA[Lit Bug this review is wonderful. It's interesting to read a review of someone who found this book later in life. To Kill a Mockingbird was required reading in high school. I remember we also watched the film after we read th book. Gary Cooper - you couldn't have found a bettr actor to play Atticus. I haven't read it since but it remains with me. It' one of those books. But I'm now ptting it back on my TBR self so I can re=eperience it thoroud my own adult eyes. Than you.]]></body>
+  
+  <user>
+    <id>15983978</id>
+    <name>Karen</name>
+    <display_name>Karen</display_name>
+
+    <location>Edgerton, WI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15983978-karen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1408154423p3/15983978.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1408154423p2/15983978.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 06 06:13:18 -0800 2013</created_at>
+  <updated_at>Wed Nov 06 06:13:18 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>86280224</id>
+  <body><![CDATA[<i>Dolors wrote: "This is a grand day for me as I've just discovered a new poignant voice amidst the chaotic internet universe. You've achieved something truly remarkable with this review, Lit Bug. You elevate liter..."</i><br /><br />Ah, Dolors, what a pleasure to receive such effusive praise from a new and much-valued friend - but you really hit the bull's eye when you said I transmute literature to a life-changing experience. Literature came to me as pleasure only by chance. It wouldn't be an exaggeration to say literature is one of the major forces that shaped my life.<br /><br />Going over to Tagore, <br /><br /><i>Not hammer-strokes, but the dance of water, sings pebbles into perfection.</i><br /><br />That's what literature has done to me.]]></body>
+  
+  <user>
+    <id>14147234</id>
+    <name>Lit Bug</name>
+    <display_name>Lit Bug</display_name>
+
+    <location>India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14147234-lit-bug]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1384000828p3/14147234.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1384000828p2/14147234.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 06 06:14:25 -0800 2013</created_at>
+  <updated_at>Wed Nov 06 06:14:25 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>86280304</id>
+  <body><![CDATA[<i>Karen wrote: "Lit Bug this review is wonderful. It's interesting to read a review of someone who found this book later in life. To Kill a Mockingbird was required reading in high school. I remember we also wat..."</i><br /><br />It's a pity I haven't watched the movie yet for fear of disappointment. But I'll do so now - everybody seems to love it. It's a pity this book has got numerous 1 star reviews too.]]></body>
+  
+  <user>
+    <id>14147234</id>
+    <name>Lit Bug</name>
+    <display_name>Lit Bug</display_name>
+
+    <location>India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14147234-lit-bug]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1384000828p3/14147234.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1384000828p2/14147234.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 06 06:16:55 -0800 2013</created_at>
+  <updated_at>Wed Nov 06 06:16:55 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>86289007</id>
+  <body><![CDATA[Great review. If possible, watch the movie - Gregory Peck is fantastic as Atticus.]]></body>
+  
+  <user>
+    <id>6237864</id>
+    <name>Nandakishore</name>
+    <display_name>Nandakishore Varma</display_name>
+
+    <location>Mumbai, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6237864-nandakishore-varma]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1464497695p3/6237864.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1464497695p2/6237864.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 06 09:34:32 -0800 2013</created_at>
+  <updated_at>Wed Nov 06 09:34:32 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>86289197</id>
+  <body><![CDATA[<i>"It's a pity I haven't watched the movie yet for fear of disappointment. But I'll do so now - everybody seems to love it. It's a pity this book has got numerous 1 star reviews too."</i><br /><br />Ahh yes, the film was great. A little bit of trivia, Harper Lee was brought to tears from Gregory Peck's performance as Atticus Finch, it was spot on to everyone but even more so to the woman who knew the man.]]></body>
+  
+  <created_at>Wed Nov 06 09:38:44 -0800 2013</created_at>
+  <updated_at>Wed Nov 06 09:38:44 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>86289218</id>
+  <body><![CDATA[<i>Nandakishore wrote: "Great review. If possible, watch the movie - Gregory Peck is fantastic as Atticus."</i><br /><br />Thanks! Yes, I'll really watch it now :)]]></body>
+  
+  <user>
+    <id>14147234</id>
+    <name>Lit Bug</name>
+    <display_name>Lit Bug</display_name>
+
+    <location>India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14147234-lit-bug]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1384000828p3/14147234.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1384000828p2/14147234.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 06 09:39:10 -0800 2013</created_at>
+  <updated_at>Wed Nov 06 09:39:10 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>86290225</id>
+  <body><![CDATA[<i>Lit Bug wrote: "It's a pity this book has got numerous 1 star reviews too."</i><br /><br />Well, like you, most of them had it assigned in school. Unlike you, most of them were probably teenagers. The remarkable thing to me is that so many kids who were forced to read it <i>didn't</i> dislike it!<br /><br />I somehow managed to not read the book until my 30s, when my wife practically forced it on me. No regrets :) Atticus Finch, even if he is purely fictional, is America's answer to Gandhi.<br /><br />Lovely review!]]></body>
+  
+  <user>
+    <id>5420722</id>
+    <name>Derek</name>
+    <display_name>Derek</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5420722-derek]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1484231855p3/5420722.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1484231855p2/5420722.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 06 10:00:22 -0800 2013</created_at>
+  <updated_at>Wed Nov 06 10:00:22 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>86290387</id>
+  <body><![CDATA[<i>Derek (Guilty of thoughtcrime) wrote: "Lit Bug wrote: "It's a pity this book has got numerous 1 star reviews too."<br /><br />Well, like you, most of them had it assigned in school. Unlike you, most of them were probably teenagers. The remarkable..."</i><br /><br />Ah, I read in in my early 20s, for my Bachelors degree - I wish I had it in school.]]></body>
+  
+  <user>
+    <id>14147234</id>
+    <name>Lit Bug</name>
+    <display_name>Lit Bug</display_name>
+
+    <location>India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14147234-lit-bug]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1384000828p3/14147234.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1384000828p2/14147234.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 06 10:03:46 -0800 2013</created_at>
+  <updated_at>Wed Nov 06 10:03:46 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>86303119</id>
+  <body><![CDATA[What a thoughtful, heartfelt review, Lit. Amazing what extraordinary relationships we sometimes form with a specific book. And what a lot of beauty and goodness you've brought out of this, and strength.]]></body>
+  
+  <user>
+    <id>3145526</id>
+    <name>Traveller</name>
+    <display_name>Traveller</display_name>
+
+    <location>Ambergris, 11, Tuvalu</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3145526-traveller]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1423246742p3/3145526.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1423246742p2/3145526.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 06 14:07:24 -0800 2013</created_at>
+  <updated_at>Wed Nov 06 14:07:24 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>86314868</id>
+  <body><![CDATA[Wow! 17 times in a span of 5 years? That's gotta be a record. I understand it though, I love this book myself. If there was any guy in literature you can set as a role model, you can't do better than Atticus Finch. He's like me, if I was perfect. heh heh. Actually, I just finished reading a novel about John Brown and the african-american plight back then, so racism and motiveless malignancy is still pretty fresh to me. Though reading the perspective of an african-american kinda helped me understand things a bit. It says something like: 'Everyone's got opinion bout slavery, you can ask the yanks, the southerners, the christians, but nobody asks the negro. Everybody's got a say on slavery but the slave himself.' I think this still kinda applies to some countries, like India, who are behind in gender emancipation, in human-rights, and are subject to unfair customs and practices. That those people it subjugates can't help themselves even if they want to. And maybe, like John Brown did, it takes a revolution to change things through. Hahaha. I'm not a radical, but I really am for human-rights. Caste-systems and Male Chauvinism are the worst. I hope to hell things change in India, and in other places where they still have that. Amazing and Empowering review, LB. Keep on rocking. Tell one of 'em chauvinist pigs to "fuck off!" for me. Cheers! See you around.]]></body>
+  
+  <user>
+    <id>16587936</id>
+    <name>Jr</name>
+    <display_name>Jr Bacdayan</display_name>
+
+    <location>MNL, Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16587936-jr-bacdayan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1466928273p3/16587936.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1466928273p2/16587936.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 06 17:15:08 -0800 2013</created_at>
+  <updated_at>Wed Nov 06 17:15:08 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>86334555</id>
+  <body><![CDATA[@Traveller - Thanks very much for the kind comments!<br /><br />@Jr - yeah, India's a terribly complicated people with its uncountable divisions and therefore unlikely but true alliances. Maybe its a good place to visit,, but a horrible place to stay. I don't see any significant social change coming for at least 50 years. Yeah, am pretty pessimistic, but since I've read quite a lot on India right from Ancient and Medieval history, more things have stayed the same than having changed. It's a messy, gloomy place with occasional glimmers of goodness and hope. I don't even know how it has managed to survive its implosions. <br /><br />And gender is just a minor issue - there are a lot more worse issues raging here. It is a continent in its own right, rather than a country.]]></body>
+  
+  <user>
+    <id>14147234</id>
+    <name>Lit Bug</name>
+    <display_name>Lit Bug</display_name>
+
+    <location>India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14147234-lit-bug]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1384000828p3/14147234.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1384000828p2/14147234.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Nov 07 00:20:02 -0800 2013</created_at>
+  <updated_at>Thu Nov 07 00:20:02 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>86334828</id>
+  <body><![CDATA[Lit Bug, have you read <a href="https://www.goodreads.com/book/show/3979.Song_of_Kali" title="Song of Kali by Dan Simmons" rel="nofollow">Song of Kali</a> by Dan Simmons? After I had read it, I had thought he was being unfair and biased, but after hearing what several Indian people have to say, I'm starting to wonder if he wasn't just being honest.]]></body>
+  
+  <user>
+    <id>3145526</id>
+    <name>Traveller</name>
+    <display_name>Traveller</display_name>
+
+    <location>Ambergris, 11, Tuvalu</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3145526-traveller]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1423246742p3/3145526.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1423246742p2/3145526.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Nov 07 00:36:26 -0800 2013</created_at>
+  <updated_at>Thu Nov 07 00:36:26 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>86335060</id>
+  <body><![CDATA[<i>Traveller wrote: "Lit Bug, have you read Song of Kali by Dan Simmons? After I had read it, I had thought he was being unfair and biased, but after hearing what several Indian people have to say, I'm starting to won..."</i><br /><br />I haven't, but TBRing it. A lot many Indians bash other people for speaking up against the grim side of everyday India, but most of the criticism is true. It's a sick place, a country whose wounds are infected so deeply that it will never really heal. Someday, I'd really like to talk about it all, in massive detail. You'd be aghast then. It's like living in a stinky, festering flesh that you know will only worsen with time.]]></body>
+  
+  <user>
+    <id>14147234</id>
+    <name>Lit Bug</name>
+    <display_name>Lit Bug</display_name>
+
+    <location>India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14147234-lit-bug]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1384000828p3/14147234.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1384000828p2/14147234.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Nov 07 00:50:45 -0800 2013</created_at>
+  <updated_at>Thu Nov 07 00:50:45 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>86462930</id>
+  <body><![CDATA[The British have to be blamed to some degree for India's current problems—as they do in much of the world. They imposed a single state over a lot of smaller ones, but I can't help wondering whether India might be in a better situation today if they hadn't done only half a job.<br /><br />Would India today be a more stable society if the British had imposed a single culture on the sub-contintent, the way China has over its own sphere of control? India is actually populated about 3 times as densely as China, despite China's larger total population, so I wonder if any nation so large &amp; densely populated can ever be stable.<br /><br />[and let me assure you, even if such an Indian society was more stable, I'm not advocating it. I'm Canadian, and we still believe multi-culturalism can work, when European countries all call it a "failed experiment"]]]></body>
+  
+  <user>
+    <id>5420722</id>
+    <name>Derek</name>
+    <display_name>Derek</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5420722-derek]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1484231855p3/5420722.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1484231855p2/5420722.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Nov 09 06:52:15 -0800 2013</created_at>
+  <updated_at>Sat Nov 09 06:52:15 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>86520400</id>
+  <body><![CDATA[I've seen societies where multiculturalism does work. All you need is some basic goodwill. Even societies that have fragments of French in the mix. <br />It's tempting to blame French partisanship for the separatism in Canada, but I suspect there might be deeper issues than only that? The French haven't always been that separatist everywhere, although I guess they have a good track record of tending to keep themselves in a clique.<br /><br />Talking of China, China's cultural, erm, the acculturation of especially North and South China through the centuries, wasn't exactly an easy affair...<br /><br />I suppose one could look toward the Roman Empire as a model of multiculturalism working quite well?]]></body>
+  
+  <user>
+    <id>3145526</id>
+    <name>Traveller</name>
+    <display_name>Traveller</display_name>
+
+    <location>Ambergris, 11, Tuvalu</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3145526-traveller]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1423246742p3/3145526.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1423246742p2/3145526.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 10 01:05:27 -0800 2013</created_at>
+  <updated_at>Sun Nov 10 01:05:27 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>86586928</id>
+  <body><![CDATA[<i>Derek (Guilty of thoughtcrime) wrote: "The British have to be blamed to some degree for India's current problems—as they do in much of the world. They imposed a single state over a lot of smaller ones, but I can't help wondering whether..."</i><br /><br />You're quite right when you say the British can be blamed to "some" degree - the Brits could do it only because Indian society itself was a fractured, highly unequal, oppressive and exploitative, not to forget extremely selfish in nature. The Brits only took advantage of the internal rifts, and although everything the Brits did wasn't right, not everything they did was any worse than what we already were doing to each other under the approval of a different culture.<br /><br />Honestly, given a chance to turn back history, I'd say I prefer the 400 year Brit rule to leaving India in charge of its own land. I am thoroughly convinced that India would have been only slightly better off than Middle East today had it not been for the Brits.<br /><br />And this isn't my blind adoration/fixation with the mythical liberal West speaking, I've been thinking over this since at least 5 years, going over past and present events, wondering how it would have been if Brits hadn't come over. Already, we would have been slaughtered by the Portuguese, but suppose no one had discovered an alternate route to India after the fall of Constantinople, we would still have been mired in that exploitative culture.<br /><br />Don't fall for the metanarratives, the Grand Narratives about Indians being so family-oriented, so generous, so kind and warm people - they might be that to foreigners (Indians have a massive crush on the Whites and <i>Firangis</i>), but you need to integrate here for a few years to see beyond that façade.<br /><br />Multiculturalism can work, but like anything else, it needs goodwill. Currently, in India, even if people manage to develop goodwill among each other, political factions will step in deliberately to make a mess, incite hatred on some or other counts, and divide public opinion to gather votes from their targeted cultural/socio-economic/minority-majority group. Things here are too twisted, and nobody cares for the nuanced truth - they believe what they're told, until the representation replaces truth itself.]]></body>
+  
+  <user>
+    <id>14147234</id>
+    <name>Lit Bug</name>
+    <display_name>Lit Bug</display_name>
+
+    <location>India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14147234-lit-bug]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1384000828p3/14147234.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1384000828p2/14147234.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 11 00:41:48 -0800 2013</created_at>
+  <updated_at>Mon Nov 11 00:41:48 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>86679132</id>
+  <body><![CDATA[Superb review! What a great discussion here has been prompted by your review. Lee would love this.]]></body>
+  
+  <user>
+    <id>19832827</id>
+    <name>B the BookAddict</name>
+    <display_name>B the BookAddict</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/19832827-b-the-bookaddict]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478463572p3/19832827.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478463572p2/19832827.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 12 12:15:52 -0800 2013</created_at>
+  <updated_at>Tue Nov 12 12:15:52 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>86787263</id>
+  <body><![CDATA[A very powerful and thought provoking review,Lit Bug.Some of the possibilities you cite in absence of the British colonization of India may have come true;for one, we may never have emerged as a nation, and the decadent monarchy and zamindari system may have gone on.But maybe,a visionary ruler would have united some states of the land and led us to be an evolving kingdom? What causes me the greatest anguish is the traits of mental slavery,subjugation and holding some "other force" responsible for everything that happens to us instead of owning individual responsibility. This, I feel has become a genetic mutation after years of slavery and grovelling. As of now, may be we need to be compassionate with others, but less so with our ownselves.]]></body>
+  
+  <user>
+    <id>8490673</id>
+    <name>Ranjit</name>
+    <display_name>Ranjit Powar</display_name>
+
+    <location>Chandigarh, 160020, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8490673-ranjit-powar]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1375112785p3/8490673.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1375112785p2/8490673.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Nov 14 06:01:07 -0800 2013</created_at>
+  <updated_at>Thu Nov 14 06:01:07 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>95663205</id>
+  <body><![CDATA[Bravo on the review.]]></body>
+  
+  <user>
+    <id>1522588</id>
+    <name>Kareem</name>
+    <display_name>Kareem Youssef</display_name>
+
+    <location>Bronx, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1522588-kareem-youssef]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1386220673p3/1522588.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1386220673p2/1522588.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Mar 30 10:31:43 -0700 2014</created_at>
+  <updated_at>Sun Mar 30 10:31:43 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>105311135</id>
+  <body><![CDATA[i couldnt aagree more! its just amazing.]]></body>
+  
+  <user>
+    <id>22006363</id>
+    <name>Betelhem </name>
+    <display_name><![CDATA[Betelhem   is reading all about it]]></display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22006363-betelhem-is-reading-all-about-it]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1453831740p3/22006363.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1453831740p2/22006363.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 31 12:03:47 -0700 2014</created_at>
+  <updated_at>Sun Aug 31 12:03:47 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>116653073</id>
+  <body><![CDATA[I mbps]]></body>
+  
+  <user>
+    <id>41536789</id>
+    <name>Mary Nell Bleeker</name>
+    <display_name>Mary Nell Bleeker</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/41536789-mary-nell-bleeker]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1427243277p3/41536789.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1427243277p2/41536789.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 24 17:40:00 -0700 2015</created_at>
+  <updated_at>Tue Mar 24 17:40:00 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>118708274</id>
+  <body><![CDATA[Is it possible that someone reached right into my heart, scooped my emotions raw and presented them the way they were: numb in their throbbing? You just did.]]></body>
+  
+  <user>
+    <id>34622220</id>
+    <name>Seemita</name>
+    <display_name>Seemita</display_name>
+
+    <location>Chennai, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34622220-seemita]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1473185997p3/34622220.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1473185997p2/34622220.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon May 04 03:07:31 -0700 2015</created_at>
+  <updated_at>Mon May 04 03:07:31 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>118863054</id>
+  <body><![CDATA[Karen - I read your comment and enjoyed it. I would like to add that To Kill a Mockingbird is required reading for High School Students still to this day. The movie is still being shown after the students are finished the book. I'm sure this will remain as a continued requirement in the High School curriculum in the future too. Thanks for that comment. <br />I would just like to make one correction about your movie comment. It was Gregory Peck that played the role of Atticus and not Gary Cooper. The reason I know this is because I am a HS teacher and have seen this movie many many times, I can't even count how many times I've showed it to students. I enjoyed it every time. It's a good movie and Gregory Peck gives a great performance as Atticus.]]></body>
+  
+  <user>
+    <id>20252546</id>
+    <name>Marilyn</name>
+    <display_name>Marilyn</display_name>
+
+    <location>Tobyhanna, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/20252546-marilyn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1368330739p3/20252546.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1368330739p2/20252546.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 07 05:19:59 -0700 2015</created_at>
+  <updated_at>Thu May 07 05:19:59 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>118863443</id>
+  <body><![CDATA[Karen - Just one correction about the movie To Kill a Mockingbird. It was Gregory Peck who played Atticus not Gary Cooper. The reason why I know this is because I am a HS Teacher and I have showed this movie so many times that I've lost count. <br />Good movie though and Gregory Peck gave a great performance.]]></body>
+  
+  <user>
+    <id>20252546</id>
+    <name>Marilyn</name>
+    <display_name>Marilyn</display_name>
+
+    <location>Tobyhanna, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/20252546-marilyn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1368330739p3/20252546.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1368330739p2/20252546.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 07 05:33:41 -0700 2015</created_at>
+  <updated_at>Thu May 07 05:33:41 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>129140626</id>
+  <body><![CDATA['And I still return to this book like a bark seeking a lighthouse in the dark. ' more I don't need to be convinced that I must read this book!! Watched the movie a few times and it is one of my favorite already but the book is always better, isn't it?]]></body>
+  
+  <user>
+    <id>21482896</id>
+    <name>Andreas_55</name>
+    <display_name>Andreas_55</display_name>
+
+    <location>Yokohama, 04, Japan</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/21482896-andreas-55]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1421141001p3/21482896.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1421141001p2/21482896.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 21 05:31:57 -0700 2015</created_at>
+  <updated_at>Thu May 21 05:31:57 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>136982124</id>
+  <body><![CDATA[<i>And though we might not agree with any of them, like Atticus, we must see them for their peculiar situations and grant them a little leeway, make a little corner for them too, and yet, stand up for what is right in defiance of them.</i><br /><br />Very interesting comment, considering in "Go Set a Watchman" it is Atticus himself who must be granted the leeway, &amp; Scout stands up in defiance of him. The two books seem so much two halves of a whole than what I ever expected.]]></body>
+  
+  <user>
+    <id>2846441</id>
+    <name>Karla</name>
+    <display_name>Karla</display_name>
+
+    <location>South Strafford, VT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2846441-karla]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1485260424p3/2846441.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1485260424p2/2846441.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 17 11:52:29 -0700 2015</created_at>
+  <updated_at>Fri Jul 17 11:52:29 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>139364640</id>
+  <body><![CDATA[<i>Karla wrote: "And though we might not agree with any of them, like Atticus, we must see them for their peculiar situations and grant them a little leeway, make a little corner for them too, and yet, stand up for..."</i><br /><br />Oh thanks! I will, for sure]]></body>
+  
+  <user>
+    <id>14147234</id>
+    <name>Lit Bug</name>
+    <display_name>Lit Bug</display_name>
+
+    <location>India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14147234-lit-bug]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1384000828p3/14147234.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1384000828p2/14147234.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 28 01:04:08 -0700 2015</created_at>
+  <updated_at>Fri Aug 28 01:04:08 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>143384721</id>
+  <body><![CDATA[This book is very good and it shows the inequality of the 1900's]]></body>
+  
+  <user>
+    <id>28244089</id>
+    <name>Kenya</name>
+    <display_name>Kenya</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/28244089-kenya]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 25 21:45:33 -0800 2015</created_at>
+  <updated_at>Wed Nov 25 21:45:33 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>149776321</id>
+  <body><![CDATA[I have just finished reading it for the first time, fell in love with it, and saw your review here. I hope you won't take it the wrong way when I say that I think your review is completely worthy of the book!]]></body>
+  
+  <user>
+    <id>2575293</id>
+    <name>Stasha</name>
+    <display_name>Stasha</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2575293-stasha]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1450446906p3/2575293.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1450446906p2/2575293.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Apr 02 08:44:15 -0700 2016</created_at>
+  <updated_at>Sat Apr 02 08:44:15 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159430295</id>
+  <body><![CDATA[<a target="_blank" href="https://www.indiegogo.com/projects/the-meanest-man-in-texas-film-love#/" rel="nofollow">https://www.indiegogo.com/projects/th...</a>]]></body>
+  
+  <user>
+    <id>61829768</id>
+    <name>Laura</name>
+    <display_name>Laura</display_name>
+
+    <location>Calabasas, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/61829768-laura]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 22 22:44:24 -0800 2016</created_at>
+  <updated_at>Tue Nov 22 22:44:24 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>165088255</id>
+  <body><![CDATA[This is my favourate book. Only initial 3 chapters are there.. Wont take much time to read.<br /><a target="_blank" href="https://www.theperfectauthor.in/" rel="nofollow">https://www.theperfectauthor.in/</a> <br />Really breath holding... Waiting for the next release !]]></body>
+  
+  <user>
+    <id>66860785</id>
+    <name>Reader</name>
+    <display_name>Reader</display_name>
+
+    <location>Gurgaon, 10, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/66860785-reader]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu Apr 13 04:20:49 -0700 2017</created_at>
+  <updated_at>Thu Apr 13 04:20:49 -0700 2017</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/445965832]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/445965832]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

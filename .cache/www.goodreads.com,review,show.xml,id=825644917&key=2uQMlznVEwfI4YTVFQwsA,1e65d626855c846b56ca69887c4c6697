@@ -1,0 +1,775 @@
+status: 200
+x-request-id: YM3F8QA5AS4T9YFDZ13H
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=825644917&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhg2NTktOTAxODE2Mi02OTU2OTEyBjoGRVQ%3D--759e2c41adc80d51c76284c3efcf24963c65df1e;
+ path=/; expires=Wed, 15 Apr 2037 15:20:51 -0000, locale=es;
+ path=/, _session_id2=2a93294fc63b000fe5f20c8217259b11; path=/;
+ expires=Sat, 15 Apr 2017 21:20:51 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 28693
+server: Server
+x-runtime: 0.407927
+etag: W/"767f4e19456b443218d00678a20f5aa5"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:20:51 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>825644917</id>
+    
+  <user>
+    <id>23743588</id>
+    <name>Erika</name>
+    <display_name>Erika</display_name>
+
+    <location>Dallas, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23743588-erika]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1439597923p3/23743588.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1439597923p2/23743588.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">1617</id>
+  <isbn>0374500010</isbn>
+  <isbn13>9780374500016</isbn13>
+  <text_reviews_count type="integer">19845</text_reviews_count>
+  <title>Night</title>
+  <title_without_series>Night</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1473495285m/1617.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1473495285s/1617.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1617.Night</link>
+  <num_pages>120</num_pages>
+  <format>Paperback</format>
+  <edition_information>First Printing Edition</edition_information>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.29</average_rating>
+  <ratings_count>680808</ratings_count>
+  <description>&lt;i&gt;Night&lt;/i&gt; is Elie Wiesel's masterpiece, a candid, horrific, and deeply poignant autobiographical account of his survival as a teenager in the Nazi death camps. This new translation by Marion Wiesel, Elie's wife and frequent translator, presents this seminal memoir in the language and spirit truest to the author's original intent. And in a substantive new preface, Elie reflects on the enduring importance of Night and his lifelong, passionate dedication to ensuring that the world never forgets man's capacity for inhumanity to man.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Night&lt;/i&gt; offers much more than a litany of the daily terrors, everyday perversions, and rampant sadism at Auschwitz and Buchenwald; it also eloquently addresses many of the philosophical as well as personal questions implicit in any serious consideration of what the Holocaust was, what it meant, and what its legacy is and will be.</description>
+<authors>
+<author>
+<id>1049</id>
+<name>Elie Wiesel</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1255518412p5/1049.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1255518412p2/1049.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1049.Elie_Wiesel]]></link>
+<average_rating>4.27</average_rating>
+<ratings_count>716805</ratings_count>
+<text_reviews_count>24423</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1444028152</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Jul 24 09:39:12 -0700 2016</updated_at>
+          <ratings_count>2</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1432928690</id>
+          <old_status>to-read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Fri Jul 15 12:29:33 -0700 2016</updated_at>
+          <ratings_count>8</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">284438567</id>
+          <old_status></old_status>
+          <status>to-read</status>
+          <updated_at type="datetime">Thu Jan 16 14:32:28 -0800 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>70</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="books-read-in-2016" exclusive="false" review_shelf_id="1375297163" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Jul 15 00:00:00 -0700 2016</started_at>
+  <read_at>Sun Jul 24 14:40:18 -0700 2016</read_at>
+  <date_added>Thu Jan 16 14:32:28 -0800 2014</date_added>
+  <date_updated>Sun Jul 24 11:51:06 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I’ve been meaning to read <i>Night</i> for years and finally picked it up shortly after hearing about Eli Wiesel’s death. <i>Night</i> is not a book that I can review. It defies critique, and even analyzing it from my sunny porch with a cup of coffee, feels wrong. Yet it’s the reasons that <i>Night</i> belongs outsid...]]>
+  </body>
+
+  
+
+  <comments_count>27</comments_count>
+    <comments start="1" end="27" total="27">
+        <comment>
+  <id>154670642</id>
+  <body><![CDATA[A wonderful tribute Erika. I agree, this is not a book you can really review, much less rate]]></body>
+  
+  <user>
+    <id>5072847</id>
+    <name>Will</name>
+    <display_name>Will</display_name>
+
+    <location>Victoria, BC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5072847-will]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1485713675p3/5072847.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1485713675p2/5072847.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jul 24 10:29:43 -0700 2016</created_at>
+  <updated_at>Sun Jul 24 10:29:43 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>154670758</id>
+  <body><![CDATA[Thank you!]]></body>
+  
+  <user>
+    <id>23743588</id>
+    <name>Erika</name>
+    <display_name>Erika</display_name>
+
+    <location>Dallas, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23743588-erika]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1439597923p3/23743588.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1439597923p2/23743588.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jul 24 10:32:42 -0700 2016</created_at>
+  <updated_at>Sun Jul 24 10:32:42 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>154673069</id>
+  <body><![CDATA[Well said Erika.]]></body>
+  
+  <user>
+    <id>24389390</id>
+    <name>Duane</name>
+    <display_name>Duane</display_name>
+
+    <location>Louisville, KY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24389390-duane]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1403316391p3/24389390.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1403316391p2/24389390.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jul 24 11:38:23 -0700 2016</created_at>
+  <updated_at>Sun Jul 24 11:38:23 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>154673328</id>
+  <body><![CDATA[<i>Duane wrote: "Well said Erika."</i><br /><br />Thanks!]]></body>
+  
+  <user>
+    <id>23743588</id>
+    <name>Erika</name>
+    <display_name>Erika</display_name>
+
+    <location>Dallas, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23743588-erika]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1439597923p3/23743588.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1439597923p2/23743588.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jul 24 11:47:51 -0700 2016</created_at>
+  <updated_at>Sun Jul 24 11:47:51 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>154673939</id>
+  <body><![CDATA[Quite a review for a book you didn't think you could review. Just beautiful, and I love your last sentence.]]></body>
+  
+  <user>
+    <id>7262060</id>
+    <name>Diane</name>
+    <display_name>Diane Barnes</display_name>
+
+    <location>Mount Pleasant, SC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7262060-diane-barnes]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1329773692p3/7262060.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1329773692p2/7262060.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jul 24 12:07:09 -0700 2016</created_at>
+  <updated_at>Sun Jul 24 12:07:09 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>154674124</id>
+  <body><![CDATA[Great review Erika. It was such s powerful read and I agree, should be required reading.]]></body>
+  
+  <user>
+    <id>27709782</id>
+    <name>Jen</name>
+    <display_name>Jen</display_name>
+
+    <location>Toronto, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27709782-jen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1427578769p3/27709782.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1427578769p2/27709782.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jul 24 12:13:44 -0700 2016</created_at>
+  <updated_at>Sun Jul 24 12:13:44 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>154674595</id>
+  <body><![CDATA[I read this many years ago and honestly cannot even remember anything about the prose style. I just remember it being an all-encompassing experience.]]></body>
+  
+  <user>
+    <id>1248986</id>
+    <name>Evan</name>
+    <display_name>Evan</display_name>
+
+    <location>Louisville, KY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1248986-evan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488574589p3/1248986.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488574589p2/1248986.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jul 24 12:30:04 -0700 2016</created_at>
+  <updated_at>Sun Jul 24 12:30:04 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>154674637</id>
+  <body><![CDATA[Well put, Erika, and bright choice of the closing picture.]]></body>
+  
+  <user>
+    <id>22848274</id>
+    <name>Ilse</name>
+    <display_name>Ilse</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22848274-ilse]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1452137711p3/22848274.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1452137711p2/22848274.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jul 24 12:31:24 -0700 2016</created_at>
+  <updated_at>Sun Jul 24 12:31:24 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>154683990</id>
+  <body><![CDATA[<i>Diane wrote: "Quite a review for a book you didn't think you could review. Just beautiful, and I love your last sentence."</i><br />Thank you! That's really kind.]]></body>
+  
+  <user>
+    <id>23743588</id>
+    <name>Erika</name>
+    <display_name>Erika</display_name>
+
+    <location>Dallas, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23743588-erika]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1439597923p3/23743588.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1439597923p2/23743588.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jul 24 17:28:11 -0700 2016</created_at>
+  <updated_at>Sun Jul 24 17:28:11 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>154684070</id>
+  <body><![CDATA[<i>Jen wrote: "Great review Erika. It was such s powerful read and I agree, should be required reading."</i><br /><br />Thank you! I think just by recommending that others to read it, we're helping to keep Wiesel's work alive. It's so important this be remembered.]]></body>
+  
+  <user>
+    <id>23743588</id>
+    <name>Erika</name>
+    <display_name>Erika</display_name>
+
+    <location>Dallas, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23743588-erika]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1439597923p3/23743588.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1439597923p2/23743588.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jul 24 17:30:38 -0700 2016</created_at>
+  <updated_at>Sun Jul 24 17:30:38 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>154684118</id>
+  <body><![CDATA[<i>Evan wrote: "I read this many years ago and honestly cannot even remember anything about the prose style. I just remember it being an all-encompassing experience."</i><br />Yah! I would certainly call it encompassing.]]></body>
+  
+  <user>
+    <id>23743588</id>
+    <name>Erika</name>
+    <display_name>Erika</display_name>
+
+    <location>Dallas, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23743588-erika]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1439597923p3/23743588.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1439597923p2/23743588.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jul 24 17:32:25 -0700 2016</created_at>
+  <updated_at>Sun Jul 24 17:32:25 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>154684270</id>
+  <body><![CDATA[<i>Ilse wrote: "Well put, Erika, and bright choice of the closing picture."</i><br /><br />Thank you! He looks so happy in an understated way and to me, the photo really communicates the importance of this man's life.]]></body>
+  
+  <user>
+    <id>23743588</id>
+    <name>Erika</name>
+    <display_name>Erika</display_name>
+
+    <location>Dallas, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23743588-erika]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1439597923p3/23743588.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1439597923p2/23743588.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jul 24 17:37:29 -0700 2016</created_at>
+  <updated_at>Sun Jul 24 17:37:29 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>154685158</id>
+  <body><![CDATA[Best review I've read of this phenomenal book.]]></body>
+  
+  <user>
+    <id>4146551</id>
+    <name>Kelli</name>
+    <display_name>Kelli</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4146551-kelli]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1413330332p3/4146551.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1413330332p2/4146551.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jul 24 18:07:10 -0700 2016</created_at>
+  <updated_at>Sun Jul 24 18:07:10 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>154686320</id>
+  <body><![CDATA[<i>Kelli wrote: "Best review I've read of this phenomenal book."</i><br /><br />Wow, thank you so much. I don't even know what to say except I'm humbled, and a little embarrassed, by your extremely kind praise.]]></body>
+  
+  <user>
+    <id>23743588</id>
+    <name>Erika</name>
+    <display_name>Erika</display_name>
+
+    <location>Dallas, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23743588-erika]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1439597923p3/23743588.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1439597923p2/23743588.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jul 24 18:45:00 -0700 2016</created_at>
+  <updated_at>Sun Jul 24 18:45:00 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>154689217</id>
+  <body><![CDATA[Moving review! Fitting for the kind of moving story of this book and its author. Thanks!]]></body>
+  
+  <user>
+    <id>11270481</id>
+    <name>Jimmy</name>
+    <display_name>Jimmy</display_name>
+
+    <location>New Orleans, LA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11270481-jimmy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1345597783p3/11270481.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1345597783p2/11270481.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jul 24 20:25:37 -0700 2016</created_at>
+  <updated_at>Sun Jul 24 20:25:37 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>154697315</id>
+  <body><![CDATA[I utterly agree with the other commenters, Erika. Although this is not a "review" (or perhaps because), it is a moving essay putting it into its unique context.<br /><br />Have you read the other two books in the Trilogy, now published as <i>
+  <a href="https://www.goodreads.com/book/show/11166.Dawn__The_Night_Trilogy___2_" title="Dawn (The Night Trilogy, #2) by Elie Wiesel" rel="nofollow">Dawn</a>
+</i> and <i>
+  <a href="https://www.goodreads.com/book/show/11168.Day__The_Night_Trilogy___3_" title="Day (The Night Trilogy, #3) by Elie Wiesel" rel="nofollow">Day</a>
+</i>? It is interesting that, to follow the non-fiction <i>Night</i>, he felt he had to turn to fiction. Not very good fiction, I fear, but interesting in the moral issues they raise: in <i>Dawn</i>, what happens when it is the Jew who becomes the captor and wields the power of life and death, and in <i>Day</i> how the legacy of the Holocaust can pursue even a lucky survivor in safe Manhattan. R.]]></body>
+  
+  <user>
+    <id>42294189</id>
+    <name>Roger</name>
+    <display_name>Roger Brunyate</display_name>
+
+    <location>Baltimore, MD</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/42294189-roger-brunyate]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1462877641p3/42294189.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1462877641p2/42294189.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jul 25 03:45:33 -0700 2016</created_at>
+  <updated_at>Mon Jul 25 03:45:33 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>154700769</id>
+  <body><![CDATA[<i>Jimmy wrote: "Moving review! Fitting for the kind of moving story of this book and its author. Thanks!"</i><br /><br />Thank you! I was deeply affected by this book, but as you say, it's more than that. It's the very fact of Wiesel's life that is so moving.]]></body>
+  
+  <user>
+    <id>23743588</id>
+    <name>Erika</name>
+    <display_name>Erika</display_name>
+
+    <location>Dallas, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23743588-erika]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1439597923p3/23743588.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1439597923p2/23743588.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jul 25 06:21:12 -0700 2016</created_at>
+  <updated_at>Mon Jul 25 06:21:12 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>154701063</id>
+  <body><![CDATA[<i>Roger wrote: "I utterly agree with the other commenters, Erika. Although this is not a "review" (or perhaps because), it is a moving essay putting it into its unique context.<br /><br />Have you read the other two books i..."</i><br /><br />Thank you! I haven't read the other two books. Would you recommend them or not as much?]]></body>
+  
+  <user>
+    <id>23743588</id>
+    <name>Erika</name>
+    <display_name>Erika</display_name>
+
+    <location>Dallas, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23743588-erika]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1439597923p3/23743588.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1439597923p2/23743588.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jul 25 06:30:56 -0700 2016</created_at>
+  <updated_at>Mon Jul 25 06:30:56 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>154702668</id>
+  <body><![CDATA[<i>Erika wrote: "I haven't read the other two books. Would you recommend them or not as much?"</i><br /><br />Not as much, certainly, but it is interesting to know about them. I have taken something of an academic interest in Holocaust literature. The Shoah is simply there as a vast dark shadow over history. You can hardly write about the period, whether in fact or fiction, and avoid it. But <i>how</i> do you approach it? There is only room for so many first-hand accounts (and nobody left now to write them). Anything else must find a way to handle it that is meaningful and not banal. Wiesel, who was a pioneer, was just discovering this fact; it is not so much that books 2 and 3 are good, but that they represent the first encounters with the problem of post-Holocaust writing. Others have indeed found significantly helpful approaches (there is also far, far too much Holocaust Kitsch out there), many of which are better than Wiesel managed after <i>Night,</i> but he was the first. R.]]></body>
+  
+  <user>
+    <id>42294189</id>
+    <name>Roger</name>
+    <display_name>Roger Brunyate</display_name>
+
+    <location>Baltimore, MD</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/42294189-roger-brunyate]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1462877641p3/42294189.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1462877641p2/42294189.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jul 25 07:21:15 -0700 2016</created_at>
+  <updated_at>Mon Jul 25 07:21:15 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>154702954</id>
+  <body><![CDATA[A great tribute to a moving book and a memorable author. Thank you for sharing your thoughts!]]></body>
+  
+  <user>
+    <id>40792319</id>
+    <name>Councillor</name>
+    <display_name>Councillor</display_name>
+
+    <location>Germany, Germany</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/40792319-councillor]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1437208837p3/40792319.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1437208837p2/40792319.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jul 25 07:30:19 -0700 2016</created_at>
+  <updated_at>Mon Jul 25 07:30:19 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>154704323</id>
+  <body><![CDATA[<i>Councillor wrote: "A great tribute to a moving book and a memorable author. Thank you for sharing your thoughts!"</i><br /><br />Thank you for such a nice compliment! The book really is astonishing.]]></body>
+  
+  <user>
+    <id>23743588</id>
+    <name>Erika</name>
+    <display_name>Erika</display_name>
+
+    <location>Dallas, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23743588-erika]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1439597923p3/23743588.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1439597923p2/23743588.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jul 25 08:11:29 -0700 2016</created_at>
+  <updated_at>Mon Jul 25 08:11:29 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>154706699</id>
+  <body><![CDATA[Timely and beautiful.]]></body>
+  
+  <user>
+    <id>1166663</id>
+    <name>Carol</name>
+    <display_name>Carol</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1166663-carol]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1277905205p3/1166663.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1277905205p2/1166663.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jul 25 09:13:28 -0700 2016</created_at>
+  <updated_at>Mon Jul 25 09:13:28 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>154709353</id>
+  <body><![CDATA[Beautiful review, this is one of my top 10 reads. It will always haunt me.]]></body>
+  
+  <user>
+    <id>6450088</id>
+    <name>Tania</name>
+    <display_name>Tania</display_name>
+
+    <location><![CDATA[Johannesburg, 06, South Africa]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6450088-tania]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483260041p3/6450088.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483260041p2/6450088.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jul 25 09:57:25 -0700 2016</created_at>
+  <updated_at>Mon Jul 25 09:57:25 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>154724599</id>
+  <body><![CDATA[I love your review Erika!]]></body>
+  
+  <user>
+    <id>3643764</id>
+    <name>Esil</name>
+    <display_name>Esil</display_name>
+
+    <location>Toronto, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3643764-esil]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1443746908p3/3643764.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1443746908p2/3643764.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jul 25 15:44:35 -0700 2016</created_at>
+  <updated_at>Mon Jul 25 15:44:35 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>154734479</id>
+  <body><![CDATA[Thank you Carol, Tania, and Esil! I am very honored that you liked my review, especially given the importance of the book.]]></body>
+  
+  <user>
+    <id>23743588</id>
+    <name>Erika</name>
+    <display_name>Erika</display_name>
+
+    <location>Dallas, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23743588-erika]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1439597923p3/23743588.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1439597923p2/23743588.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jul 25 21:29:06 -0700 2016</created_at>
+  <updated_at>Mon Jul 25 21:29:06 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159359608</id>
+  <body><![CDATA[Your review is a beautiful tribute to this man. I agree that his work and his voice should never be silenced.]]></body>
+  
+  <user>
+    <id>3845138</id>
+    <name>Carol</name>
+    <display_name>Carol</display_name>
+
+    <location>Colorado Springs, CO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3845138-carol]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1438649960p3/3845138.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1438649960p2/3845138.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 21 06:25:30 -0800 2016</created_at>
+  <updated_at>Mon Nov 21 06:25:30 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159365317</id>
+  <body><![CDATA[<i>Carol wrote: "Your review is a beautiful tribute to this man. I agree that his work and his voice should never be silenced."</i><br /><br />Thank you so much for your comment!]]></body>
+  
+  <user>
+    <id>23743588</id>
+    <name>Erika</name>
+    <display_name>Erika</display_name>
+
+    <location>Dallas, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23743588-erika]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1439597923p3/23743588.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1439597923p2/23743588.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 21 08:53:07 -0800 2016</created_at>
+  <updated_at>Mon Nov 21 08:53:07 -0800 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/825644917]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/825644917]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

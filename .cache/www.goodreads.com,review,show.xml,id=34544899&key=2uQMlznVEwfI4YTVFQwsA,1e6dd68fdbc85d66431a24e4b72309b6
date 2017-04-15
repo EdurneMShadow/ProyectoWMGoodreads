@@ -1,0 +1,817 @@
+status: 200
+x-request-id: T3BD0P5C1R3654H6ZDAQ
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=34544899&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhg5MjEtNDE4Nzg1My0yNTI2NTEyBjoGRVQ%3D--66159b647eca175b5c34622b74e42fc1188355b8;
+ path=/; expires=Wed, 15 Apr 2037 17:00:11 -0000, locale=es;
+ path=/, _session_id2=a7e79b6151f31fa8e063b0e0ed05a553; path=/;
+ expires=Sat, 15 Apr 2017 23:00:11 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 30749
+server: Server
+x-runtime: 0.402207
+etag: W/"a41381a5b9bc6c2405d3fa8ee0c4c8d5"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 17:00:11 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>34544899</id>
+    
+  <user>
+    <id>1591538</id>
+    <name>Joyzi</name>
+    <display_name>Joyzi</display_name>
+
+    <location>Cavite, B6, Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1591538-joyzi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1410669310p3/1591538.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1410669310p2/1591538.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">578587</id>
+  <isbn>0552150738</isbn>
+  <isbn13>9780552150736</isbn13>
+  <text_reviews_count type="integer">754</text_reviews_count>
+  <title>Angels and Demons (Robert Langdon, #1)</title>
+  <title_without_series>Angels and Demons</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1362495614m/578587.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1362495614s/578587.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/578587.Angels_and_Demons</link>
+  <num_pages>620</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>Corgi Books</publisher>
+  <publication_day/>
+  <publication_year>2001</publication_year>
+  <publication_month/>
+  <average_rating>3.85</average_rating>
+  <ratings_count>2009784</ratings_count>
+  <description>When a world renowned scientist is found brutally murdered in a Swiss research facility, a Harvard professor, Robert Langdon, is summoned to identify the mysterious symbol seared onto the dead man's chest. His baffling conclusion: it is the work of the Illuminati, a secret brotherhood presumed extinct for nearly four hundred years - reborn to continue their bitter vendetta against their sworn enemy, the Catholic church.&lt;br /&gt;&lt;br /&gt;In Rome, the college of cardinals assembles to elect a new pope. Yet somewhere within the walls of the Vatican, an unstoppable bomb of terrifying power relentlessly counts down to oblivion. While the minutes tick away, Langdon joins forces with Vittoria Vetra, a beautiful and mysterious Italian scientist, to decipher the labyrinthine trail of ancient symbols that snakes across Rome to the long-forgotten Illuminati lair - a secret refuge wherein lies the only hope for the Vatican.&lt;br /&gt;&lt;br /&gt;But with each revelation comes another twist, another turn in the plot, which leaves Langdon and Vetra reeling and at the mercy of a seemingly invisible enemy...</description>
+<authors>
+<author>
+<id>630</id>
+<name>Dan Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p5/630.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p2/630.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/630.Dan_Brown]]></link>
+<average_rating>3.77</average_rating>
+<ratings_count>5177651</ratings_count>
+<text_reviews_count>138138</text_reviews_count>
+</author>
+</authors>
+  <published>2001</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1362316935</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sat May 21 15:09:17 -0700 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>28</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="fiction" exclusive="false" review_shelf_id="57307430" sortable="false" />
+    <shelf name="5-stars-or-more" exclusive="false" review_shelf_id="57778373" sortable="false" />
+    <shelf name="reviewed" exclusive="false" review_shelf_id="73343066" sortable="false" />
+    <shelf name="favorites" exclusive="false" review_shelf_id="87017997" sortable="true" />
+    <shelf name="book-series" exclusive="false" review_shelf_id="89206007" sortable="false" />
+    <shelf name="contemporary-fiction" exclusive="false" review_shelf_id="147089592" sortable="false" />
+    <shelf name="borrowed" exclusive="false" review_shelf_id="57307425" sortable="false" />
+    <shelf name="historical-fiction" exclusive="false" review_shelf_id="89206015" sortable="false" />
+    <shelf name="books-to-movies" exclusive="false" review_shelf_id="71512609" sortable="false" />
+    <shelf name="banned" exclusive="false" review_shelf_id="89206019" sortable="false" />
+    <shelf name="crime" exclusive="false" review_shelf_id="147089590" sortable="false" />
+    <shelf name="religion" exclusive="false" review_shelf_id="57307433" sortable="false" />
+    <shelf name="author-american" exclusive="false" review_shelf_id="147089601" sortable="false" />
+    <shelf name="adult" exclusive="false" review_shelf_id="69500336" sortable="false" />
+    <shelf name="mystery" exclusive="false" review_shelf_id="89033388" sortable="false" />
+    <shelf name="realistic-fiction" exclusive="false" review_shelf_id="147089541" sortable="false" />
+    <shelf name="thought-provoking" exclusive="false" review_shelf_id="157584403" sortable="false" />
+</shelves>
+  <recommended_for><![CDATA[Peeps who loves mystery, thriller, puzzles]]></recommended_for>
+  <recommended_by>My classmates</recommended_by>
+  <started_at>Thu Jan 12 00:00:00 -0800 2006</started_at>
+  <read_at>Thu Jan 12 00:00:00 -0800 2006</read_at>
+  <date_added>Sat Oct 04 20:00:04 -0700 2008</date_added>
+  <date_updated>Tue Aug 16 18:32:32 -0700 2011</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<b>I can't put it down and read it in one day. I remember my mom was mad at me because I'm like, "I don't want to eat yet, I'm reading a book!" After that I ate lunch, at our table while still reading and I'm holding the book in my other hand and holding the spoon in my other hand. That's how good t...</b>]]>
+  </body>
+
+  
+
+  <comments_count>29</comments_count>
+    <comments start="1" end="29" total="29">
+        <comment>
+  <id>20793313</id>
+  <body><![CDATA[i remember feeling that way too! LOL]]></body>
+  
+  <user>
+    <id>3284904</id>
+    <name>Jasmin</name>
+    <display_name>Jasmin</display_name>
+
+    <location>Fullerton, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3284904-jasmin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1351874823p3/3284904.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1351874823p2/3284904.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Sep 09 17:05:47 -0700 2010</created_at>
+  <updated_at>Thu Sep 09 17:05:47 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>32123921</id>
+  <body><![CDATA[yap me too.]]></body>
+  
+  <user>
+    <id>5387216</id>
+    <name>Jerald Vernon</name>
+    <display_name>Jerald Vernon Torres</display_name>
+
+    <location>Manila, F2, Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5387216-jerald-vernon-torres]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1308728346p3/5387216.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1308728346p2/5387216.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jun 18 02:57:46 -0700 2011</created_at>
+  <updated_at>Sat Jun 18 02:57:46 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>34846242</id>
+  <body><![CDATA[Thanks ^^]]></body>
+  
+  <user>
+    <id>1591538</id>
+    <name>Joyzi</name>
+    <display_name>Joyzi</display_name>
+
+    <location>Cavite, B6, Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1591538-joyzi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1410669310p3/1591538.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1410669310p2/1591538.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 08 02:05:00 -0700 2011</created_at>
+  <updated_at>Mon Aug 08 02:05:00 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>35022664</id>
+  <body><![CDATA[Yes, I was in an island in Palawan and I could not keep myself from reading this and my then very young daughter was crying because I was not paying attention to her and then she was also afraid to look at the cover because there was the word "demon" on it.]]></body>
+  
+  <user>
+    <id>2156200</id>
+    <name>K.D.</name>
+    <display_name>K.D. Absolutely</display_name>
+
+    <location><![CDATA[Alabat Island, Quezon Province, Philippines]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2156200-k-d-absolutely]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1471967140p3/2156200.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1471967140p2/2156200.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 11 08:08:29 -0700 2011</created_at>
+  <updated_at>Thu Aug 11 08:08:29 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>35045407</id>
+  <body><![CDATA[Kapag nagbabasa ko nito sa bahay lagi kasi akong madaldal. Alam mo ba mama yung Catholic Church blah blah blah tapos mapapatingin lang siya sa kin ano ba yang binabasa mo, tapos mageexplain na lang yung parents ko tungkol sa religion.<br /><br />Well for them it's somehow nice because I got interested in religion medyo di kasi talaga ko religious na bata.]]></body>
+  
+  <user>
+    <id>1591538</id>
+    <name>Joyzi</name>
+    <display_name>Joyzi</display_name>
+
+    <location>Cavite, B6, Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1591538-joyzi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1410669310p3/1591538.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1410669310p2/1591538.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 11 14:53:41 -0700 2011</created_at>
+  <updated_at>Thu Aug 11 14:53:41 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>35342584</id>
+  <body><![CDATA[love this more than The Da Vinci Code. :)]]></body>
+  
+  <user>
+    <id>4404986</id>
+    <name>Maria</name>
+    <display_name>Maria</display_name>
+
+    <location>Laguna, 4024, Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4404986-maria]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1299823285p3/4404986.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1299823285p2/4404986.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 16 19:06:56 -0700 2011</created_at>
+  <updated_at>Tue Aug 16 19:06:56 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>35345763</id>
+  <body><![CDATA[me too, though I haven't read the last one The Lost Symbol]]></body>
+  
+  <user>
+    <id>1591538</id>
+    <name>Joyzi</name>
+    <display_name>Joyzi</display_name>
+
+    <location>Cavite, B6, Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1591538-joyzi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1410669310p3/1591538.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1410669310p2/1591538.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 16 19:57:51 -0700 2011</created_at>
+  <updated_at>Tue Aug 16 19:57:51 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>35346012</id>
+  <body><![CDATA[i also love The Lost Symbol, different atmosphere but amazing book nonetheless]]></body>
+  
+  <user>
+    <id>4404986</id>
+    <name>Maria</name>
+    <display_name>Maria</display_name>
+
+    <location>Laguna, 4024, Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4404986-maria]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1299823285p3/4404986.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1299823285p2/4404986.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 16 20:01:48 -0700 2011</created_at>
+  <updated_at>Tue Aug 16 20:01:48 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>35346608</id>
+  <body><![CDATA[I wanna read it but there are so many negative reviews, I'm afraid I'll be disappointed]]></body>
+  
+  <user>
+    <id>1591538</id>
+    <name>Joyzi</name>
+    <display_name>Joyzi</display_name>
+
+    <location>Cavite, B6, Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1591538-joyzi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1410669310p3/1591538.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1410669310p2/1591538.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 16 20:12:05 -0700 2011</created_at>
+  <updated_at>Tue Aug 16 20:12:05 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>35349258</id>
+  <body><![CDATA[:) then you'll never know if the negative reviews are warranted.]]></body>
+  
+  <user>
+    <id>4404986</id>
+    <name>Maria</name>
+    <display_name>Maria</display_name>
+
+    <location>Laguna, 4024, Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4404986-maria]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1299823285p3/4404986.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1299823285p2/4404986.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 16 20:57:17 -0700 2011</created_at>
+  <updated_at>Tue Aug 16 20:57:17 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>35350408</id>
+  <body><![CDATA[I know but the book is expensive, maybe I'll try to look in the library]]></body>
+  
+  <user>
+    <id>1591538</id>
+    <name>Joyzi</name>
+    <display_name>Joyzi</display_name>
+
+    <location>Cavite, B6, Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1591538-joyzi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1410669310p3/1591538.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1410669310p2/1591538.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 16 21:20:02 -0700 2011</created_at>
+  <updated_at>Tue Aug 16 21:20:02 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>35351204</id>
+  <body><![CDATA[For me, The Lost Symbol is not at par with the first two Robert Langdon books and I think I am not alone having that opinion. For me, it's just nice to read if you want to kill time.]]></body>
+  
+  <user>
+    <id>2156200</id>
+    <name>K.D.</name>
+    <display_name>K.D. Absolutely</display_name>
+
+    <location><![CDATA[Alabat Island, Quezon Province, Philippines]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2156200-k-d-absolutely]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1471967140p3/2156200.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1471967140p2/2156200.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 16 21:37:46 -0700 2011</created_at>
+  <updated_at>Tue Aug 16 21:37:46 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>35351770</id>
+  <body><![CDATA[okay ^^ I will definitely read it then]]></body>
+  
+  <user>
+    <id>1591538</id>
+    <name>Joyzi</name>
+    <display_name>Joyzi</display_name>
+
+    <location>Cavite, B6, Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1591538-joyzi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1410669310p3/1591538.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1410669310p2/1591538.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 16 21:53:25 -0700 2011</created_at>
+  <updated_at>Tue Aug 16 21:53:25 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>35351826</id>
+  <body><![CDATA[I connected with every word in your review. At the time I wasn't married yet and my mother was mad because I didn't eat with the family and when I did, I kept reading the bloody book. I even remember that while drinking water I used to take the book up in order to keep it in my line of sight. My sister still laughs at me for this. <br /><br />It is one of the best experiences I've had, especially because there were a lot of historical and cultural references in the book, and I remember googling and reading about them and that was wonderful.<br /><br />The Lost Symbol, for me, was a huge disappointment in every aspect: bad writing, below average story, and uninteresting cultural elements.]]></body>
+  
+  <user>
+    <id>1257629</id>
+    <name>Carlo</name>
+    <display_name>Carlo</display_name>
+
+    <location>Montréal, QC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1257629-carlo]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483747499p3/1257629.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483747499p2/1257629.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 16 21:54:59 -0700 2011</created_at>
+  <updated_at>Tue Aug 16 21:54:59 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>35351887</id>
+  <body><![CDATA[Yeah it's really annoying when you're in the middle of reading interesting and then someone will just disturbed you to eat ^^]]></body>
+  
+  <user>
+    <id>1591538</id>
+    <name>Joyzi</name>
+    <display_name>Joyzi</display_name>
+
+    <location>Cavite, B6, Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1591538-joyzi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1410669310p3/1591538.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1410669310p2/1591538.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 16 21:56:48 -0700 2011</created_at>
+  <updated_at>Tue Aug 16 21:56:48 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>35352294</id>
+  <body><![CDATA[i beg to differ. The Lost Symbol for me is where Langdon is the strongest. It might not be as great as the first two books, but it is still gripping and mind-puzzling. Joyzi, i think may ebook ako neto :)]]></body>
+  
+  <user>
+    <id>4404986</id>
+    <name>Maria</name>
+    <display_name>Maria</display_name>
+
+    <location>Laguna, 4024, Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4404986-maria]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1299823285p3/4404986.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1299823285p2/4404986.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 16 22:09:51 -0700 2011</created_at>
+  <updated_at>Tue Aug 16 22:09:51 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>35352501</id>
+  <body><![CDATA[Thanks Maria ^^]]></body>
+  
+  <user>
+    <id>1591538</id>
+    <name>Joyzi</name>
+    <display_name>Joyzi</display_name>
+
+    <location>Cavite, B6, Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1591538-joyzi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1410669310p3/1591538.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1410669310p2/1591538.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 16 22:17:19 -0700 2011</created_at>
+  <updated_at>Tue Aug 16 22:17:19 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>35352513</id>
+  <body><![CDATA[can you send it in my e-mail, pm ko na lang]]></body>
+  
+  <user>
+    <id>1591538</id>
+    <name>Joyzi</name>
+    <display_name>Joyzi</display_name>
+
+    <location>Cavite, B6, Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1591538-joyzi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1410669310p3/1591538.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1410669310p2/1591538.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 16 22:17:44 -0700 2011</created_at>
+  <updated_at>Tue Aug 16 22:17:44 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>35353056</id>
+  <body><![CDATA[Hi Maria. I think I agree with that. He was stronger in the last book.<br /><br />My take on The Lost Symbol is that Brown tried to make the book look like the Da Vinci Code and Angels and Demons, but that's not possible as the subject is very different. He was very anxious that people won't like this one and that was his self-fulfulling propohecy. Because he tried to make it as good as the first two of the series, people hated the book.]]></body>
+  
+  <user>
+    <id>1257629</id>
+    <name>Carlo</name>
+    <display_name>Carlo</display_name>
+
+    <location>Montréal, QC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1257629-carlo]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483747499p3/1257629.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483747499p2/1257629.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 16 22:38:37 -0700 2011</created_at>
+  <updated_at>Tue Aug 16 22:38:37 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>35354702</id>
+  <body><![CDATA[maybe it's just because it's the last book and people have higher expectations]]></body>
+  
+  <user>
+    <id>1591538</id>
+    <name>Joyzi</name>
+    <display_name>Joyzi</display_name>
+
+    <location>Cavite, B6, Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1591538-joyzi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1410669310p3/1591538.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1410669310p2/1591538.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 16 23:48:08 -0700 2011</created_at>
+  <updated_at>Tue Aug 16 23:48:08 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>35356389</id>
+  <body><![CDATA[Yes, for me, I was expecting him to up the ante so to speak. Instead, I think he lost the stream. Using the Capitol and interpreting those symbol is just not as interesting as the first two books. Then in the end saying that the Word of God (Holy Bible) is the secret (or something to that effect) is just too obvious.]]></body>
+  
+  <user>
+    <id>2156200</id>
+    <name>K.D.</name>
+    <display_name>K.D. Absolutely</display_name>
+
+    <location><![CDATA[Alabat Island, Quezon Province, Philippines]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2156200-k-d-absolutely]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1471967140p3/2156200.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1471967140p2/2156200.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 17 02:12:04 -0700 2011</created_at>
+  <updated_at>Wed Aug 17 02:12:04 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>35356546</id>
+  <body><![CDATA[so the lost symbol is the Bible?]]></body>
+  
+  <user>
+    <id>1591538</id>
+    <name>Joyzi</name>
+    <display_name>Joyzi</display_name>
+
+    <location>Cavite, B6, Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1591538-joyzi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1410669310p3/1591538.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1410669310p2/1591538.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 17 02:27:29 -0700 2011</created_at>
+  <updated_at>Wed Aug 17 02:27:29 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>35364092</id>
+  <body><![CDATA[I agree with K.D. I would also like to add that in the first half of the book, he also made believe that he is talking about something bigger and more profound, which made the things worse for him.]]></body>
+  
+  <user>
+    <id>1257629</id>
+    <name>Carlo</name>
+    <display_name>Carlo</display_name>
+
+    <location>Montréal, QC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1257629-carlo]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483747499p3/1257629.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483747499p2/1257629.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 17 07:50:28 -0700 2011</created_at>
+  <updated_at>Wed Aug 17 07:50:28 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>35364470</id>
+  <body><![CDATA[so he's like building the story up but in the end it was a big let down]]></body>
+  
+  <user>
+    <id>1591538</id>
+    <name>Joyzi</name>
+    <display_name>Joyzi</display_name>
+
+    <location>Cavite, B6, Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1591538-joyzi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1410669310p3/1591538.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1410669310p2/1591538.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 17 08:00:16 -0700 2011</created_at>
+  <updated_at>Wed Aug 17 08:00:16 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>35393605</id>
+  <body><![CDATA[Indeed. But.. that building of the story? It's excellent. I enjoyed that part when I thought he would die while submerged in the water (or something). In that aspect, I guess I can relate to Maria saying that his writing is stronger (than the first 2 books). But yeah, sorry for the spoiler, the lost symbol is... the Word of God! :)]]></body>
+  
+  <user>
+    <id>2156200</id>
+    <name>K.D.</name>
+    <display_name>K.D. Absolutely</display_name>
+
+    <location><![CDATA[Alabat Island, Quezon Province, Philippines]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2156200-k-d-absolutely]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1471967140p3/2156200.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1471967140p2/2156200.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 17 17:04:45 -0700 2011</created_at>
+  <updated_at>Wed Aug 17 17:04:45 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>36191013</id>
+  <body><![CDATA[Here's a sneak peek to the new novel of mr. Dan Brown<br /><br /><a target="_blank" href="http://bookclubs.barnesandnoble.com/t5/Unabashedly-Bookish-The-BN/Barnes-and-Noble-EXCLUSIVE-Dan-Brown-s-New-Novel-The-Mysterium/ba-p/502484" rel="nofollow">http://bookclubs.barnesandnoble.com/t...</a><br /><br />Hoping to enjoy it]]></body>
+  
+  <user>
+    <id>5387216</id>
+    <name>Jerald Vernon</name>
+    <display_name>Jerald Vernon Torres</display_name>
+
+    <location>Manila, F2, Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5387216-jerald-vernon-torres]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1308728346p3/5387216.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1308728346p2/5387216.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Sep 01 01:27:40 -0700 2011</created_at>
+  <updated_at>Thu Sep 01 01:27:40 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>36191370</id>
+  <body><![CDATA[wow!]]></body>
+  
+  <user>
+    <id>1591538</id>
+    <name>Joyzi</name>
+    <display_name>Joyzi</display_name>
+
+    <location>Cavite, B6, Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1591538-joyzi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1410669310p3/1591538.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1410669310p2/1591538.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Sep 01 01:58:38 -0700 2011</created_at>
+  <updated_at>Thu Sep 01 01:58:38 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>45925963</id>
+  <body><![CDATA[My ratings are barely based on personal opinion. I did enjoy it so for me it deserves 5 stars.]]></body>
+  
+  <user>
+    <id>1591538</id>
+    <name>Joyzi</name>
+    <display_name>Joyzi</display_name>
+
+    <location>Cavite, B6, Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1591538-joyzi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1410669310p3/1591538.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1410669310p2/1591538.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 25 20:25:55 -0800 2012</created_at>
+  <updated_at>Sat Feb 25 20:25:55 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>159445082</id>
+  <body><![CDATA[i wish if i can read the book its looks hularius to read and hopeful]]></body>
+  
+  <user>
+    <id>61473767</id>
+    <name>haythamalex</name>
+    <display_name>haythamalex</display_name>
+
+    <location>Qatar</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/61473767-haythamalex]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 23 09:17:20 -0800 2016</created_at>
+  <updated_at>Wed Nov 23 09:17:20 -0800 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/34544899]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/34544899]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

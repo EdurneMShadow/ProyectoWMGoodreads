@@ -1,0 +1,189 @@
+status: 200
+x-request-id: 66TZ0D31W328TXK11SEZ
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=1448955062&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhg1ODQtODAyNTk5OS02ODE5Nzc2BjoGRVQ%3D--eb3b4e2b8b4930170683b19240c738d20d380517;
+ path=/; expires=Wed, 15 Apr 2037 15:32:07 -0000, locale=es;
+ path=/, _session_id2=6fff0b46a2d0a2d7c558f4bf456ebad2; path=/;
+ expires=Sat, 15 Apr 2017 21:32:07 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 6997
+server: Server
+x-runtime: 0.303227
+etag: W/"207398564c5476f35594c615b9ccfb09"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:32:07 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1448955062</id>
+    
+  <user>
+    <id>13926017</id>
+    <name>Vladimir</name>
+    <display_name>Vladimir</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13926017-vladimir]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1477933274p3/13926017.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1477933274p2/13926017.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">27217875</id>
+  <isbn nil="true"/>
+  <isbn13>9788689565232</isbn13>
+  <text_reviews_count type="integer">6</text_reviews_count>
+  <title>Vil Grejson, Vil Grejson</title>
+  <title_without_series>Vil Grejson, Vil Grejson</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1445018989m/27217875.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1445018989s/27217875.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/27217875-vil-grejson-vil-grejson</link>
+  <num_pages>241</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Urban Reads</publisher>
+  <publication_day/>
+  <publication_year>2015</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.85</average_rating>
+  <ratings_count>242899</ratings_count>
+  <description>Jedne hladne večeri, u najneočekivanijem kutku Čikaga ukrstiće se putevi dvojici imenjaka i prezimenjaka. Kako im se svetovi budu prožimali, životi dva Vila Grejsona krenuće u sasvim novom pravcu, vodeći ih ka romantičnom raspletu tokom izvođenja najvrcavijeg mjuzikla u istoriji srednje škole. Uz nesebičnu pomoć prijatelja, a ponajviše vernog i nimalo malog Mališe Kupera, obojica će shvatiti da je u životu potrebno samo malo hrabrosti, vere i odvažnosti.</description>
+<authors>
+<author>
+<id>1406384</id>
+<name>John Green</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>4487195</ratings_count>
+<text_reviews_count>274854</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">81293796</id>
+          <page type="integer">119</page>
+          <chapter type="integer"></chapter>
+          <comments_count>2</comments_count>
+          <created_at type="datetime">Mon Nov 30 14:19:49 -0800 2015</created_at>
+          <updated_at type="datetime">Mon Nov 30 14:19:49 -0800 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">7</ratings_count>
+          <percent type="integer">49</percent>
+          <work_id type="integer">6759965</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">81216243</id>
+          <page type="integer">21</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sun Nov 29 14:08:34 -0800 2015</created_at>
+          <updated_at type="datetime">Sun Nov 29 14:08:44 -0800 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">12</ratings_count>
+          <percent type="integer">8</percent>
+          <work_id type="integer">6759965</work_id>
+          <note_uri>kca://note/amzn1.grok.note.f9dc67c5cfc30944e978f8ad37386b43</note_uri>
+          <note_updated_at type="datetime">Sun Nov 29 14:08:44 -0800 2015</note_updated_at>
+          <body>:)))))</body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">1091904252</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Tue Dec 01 13:33:52 -0800 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1089036916</id>
+          <old_status>to-read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Sun Nov 29 10:10:20 -0800 2015</updated_at>
+          <ratings_count>7</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1081103432</id>
+          <old_status>currently-reading</old_status>
+          <status>to-read</status>
+          <updated_at type="datetime">Sun Nov 22 02:16:50 -0800 2015</updated_at>
+          <ratings_count>7</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1081102212</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Sun Nov 22 02:14:04 -0800 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>25</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="2015" exclusive="false" review_shelf_id="1144659550" sortable="false" />
+    <shelf name="owned-read" exclusive="false" review_shelf_id="1144659571" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Nov 22 00:00:00 -0800 2015</started_at>
+  <read_at>Tue Dec 01 00:00:00 -0800 2015</read_at>
+  <date_added>Sun Nov 22 02:14:03 -0800 2015</date_added>
+  <date_updated>Wed Dec 02 07:11:29 -0800 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Uopšte nisam očekivao da će ova knjiga kod mene izazvati toliku buru emocija... Totalno sam nepripremljen ušao u ovu priču.<br /><br />Govori se ovde o vezama, o prihvaćanju sebe, o nalaženju svoga mesta pod suncem, o usponima, o padovima, o jednom mjuziklu... ali pre svega o drugarstvu. Onom najiskrenijem,...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1448955062]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1448955062]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

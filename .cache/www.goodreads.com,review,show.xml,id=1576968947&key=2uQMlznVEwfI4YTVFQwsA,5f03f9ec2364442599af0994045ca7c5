@@ -1,0 +1,179 @@
+status: 200
+x-request-id: 2MEWYCQ1FH5B9SQZJ2Z0
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=1576968947&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhgyNDItMTA5NzIyNS01OTk3MTQyBjoGRVQ%3D--d4a3f98ad0cbe2b846fb468f7484005419b05197;
+ path=/; expires=Wed, 15 Apr 2037 15:32:03 -0000, locale=es;
+ path=/, _session_id2=559e67baea86c55d453dd806f499f06f; path=/;
+ expires=Sat, 15 Apr 2017 21:32:03 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 6463
+server: Server
+x-runtime: 0.315087
+etag: W/"4766539f51e01275598ffa85e675f9c4"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:32:03 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1576968947</id>
+    
+  <user>
+    <id>9740056</id>
+    <name>Kyle</name>
+    <display_name>Kyle</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9740056-kyle]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1481754383p3/9740056.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1481754383p2/9740056.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">8033219</id>
+  <isbn>1101222999</isbn>
+  <isbn13>9781101222997</isbn13>
+  <text_reviews_count type="integer">91</text_reviews_count>
+  <title>Will Grayson, Will Grayson</title>
+  <title_without_series>Will Grayson, Will Grayson</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1347193127m/8033219.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1347193127s/8033219.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/8033219-will-grayson-will-grayson</link>
+  <num_pages>336</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>Speak</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.85</average_rating>
+  <ratings_count>242899</ratings_count>
+  <description>One cold night, in a most unlikely corner of Chicago, two teens—both named Will Grayson—are about to cross paths. As their worlds collide and intertwine, the Will Graysons find their lives going in new and unexpected directions, building toward romantic turns-of-heart and the epic production of history’s most fabulous high school musical.&lt;br /&gt;&lt;br /&gt;Hilarious, poignant, and deeply insightful, John Green and David Levithan’s collaborative novel is brimming with a double helping of the heart and humor that have won both of them legions of faithful fans.</description>
+<authors>
+<author>
+<id>1406384</id>
+<name>John Green</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>4487195</ratings_count>
+<text_reviews_count>274854</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">98129185</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon May 30 13:50:32 -0700 2016</created_at>
+          <updated_at type="datetime">Mon May 30 13:50:32 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">3</ratings_count>
+          <percent type="integer">100</percent>
+          <work_id type="integer">6759965</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">98027247</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sun May 29 11:49:33 -0700 2016</created_at>
+          <updated_at type="datetime">Sun May 29 11:49:33 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">14</ratings_count>
+          <percent type="integer">21</percent>
+          <work_id type="integer">6759965</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">1373708689</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Mon May 30 13:51:01 -0700 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1371357196</id>
+          <old_status>to-read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Sat May 28 15:54:08 -0700 2016</updated_at>
+          <ratings_count>16</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1273935523</id>
+          <old_status></old_status>
+          <status>to-read</status>
+          <updated_at type="datetime">Fri Mar 11 19:20:53 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>3</rating>
+  <votes>36</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat May 28 15:54:07 -0700 2016</started_at>
+  <read_at>Mon May 30 16:31:15 -0700 2016</read_at>
+  <date_added>Fri Mar 11 19:20:52 -0800 2016</date_added>
+  <date_updated>Mon May 30 13:51:01 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<div> <p>Basically, 300+ pages of a cutzy gay musical.</p> <p>First, as with so many books about teenagers, the teenagers really don't act much like teenagers. It seems most adult authors have forgotten what it was like to be a teenager. I never found myself relating or caring for any of the characters. There a...</p></div>]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1576968947]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1576968947]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

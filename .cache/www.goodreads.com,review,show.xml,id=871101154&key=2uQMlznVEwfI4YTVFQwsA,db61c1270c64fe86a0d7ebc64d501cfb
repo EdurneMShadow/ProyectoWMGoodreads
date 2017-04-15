@@ -1,0 +1,577 @@
+status: 200
+x-request-id: QY9D0A4SW53V2WKKBV5Y
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=871101154&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhgzOTYtNTk3MDc4NS0yMjI4MTQxBjoGRVQ%3D--414b8eb58c6af25df7b1674091c493481604367d;
+ path=/; expires=Wed, 15 Apr 2037 15:21:18 -0000, locale=es;
+ path=/, _session_id2=fddf360a5ae1497bf0a8c3d19b7ea1b5; path=/;
+ expires=Sat, 15 Apr 2017 21:21:19 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 24110
+server: Server
+x-runtime: 0.418759
+etag: W/"698de7e726f4cef3db88f098800e36c5"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:21:19 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>871101154</id>
+    
+  <user>
+    <id>22063432</id>
+    <name>Tom</name>
+    <display_name>Tom Mathews</display_name>
+
+    <location>Livermore, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22063432-tom-mathews]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1477366612p3/22063432.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1477366612p2/22063432.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">1617</id>
+  <isbn>0374500010</isbn>
+  <isbn13>9780374500016</isbn13>
+  <text_reviews_count type="integer">19845</text_reviews_count>
+  <title>Night</title>
+  <title_without_series>Night</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1473495285m/1617.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1473495285s/1617.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1617.Night</link>
+  <num_pages>120</num_pages>
+  <format>Paperback</format>
+  <edition_information>First Printing Edition</edition_information>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.29</average_rating>
+  <ratings_count>680808</ratings_count>
+  <description>&lt;i&gt;Night&lt;/i&gt; is Elie Wiesel's masterpiece, a candid, horrific, and deeply poignant autobiographical account of his survival as a teenager in the Nazi death camps. This new translation by Marion Wiesel, Elie's wife and frequent translator, presents this seminal memoir in the language and spirit truest to the author's original intent. And in a substantive new preface, Elie reflects on the enduring importance of Night and his lifelong, passionate dedication to ensuring that the world never forgets man's capacity for inhumanity to man.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Night&lt;/i&gt; offers much more than a litany of the daily terrors, everyday perversions, and rampant sadism at Auschwitz and Buchenwald; it also eloquently addresses many of the philosophical as well as personal questions implicit in any serious consideration of what the Holocaust was, what it meant, and what its legacy is and will be.</description>
+<authors>
+<author>
+<id>1049</id>
+<name>Elie Wiesel</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1255518412p5/1049.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1255518412p2/1049.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1049.Elie_Wiesel]]></link>
+<average_rating>4.27</average_rating>
+<ratings_count>716805</ratings_count>
+<text_reviews_count>24423</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">101501681</id>
+          <page type="integer">118</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Jul 06 18:14:22 -0700 2016</created_at>
+          <updated_at type="datetime">Wed Jul 06 18:14:47 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">3</ratings_count>
+          <percent type="integer">98</percent>
+          <work_id type="integer">265616</work_id>
+          <note_uri>kca://note/amzn1.grok.note.8702841628fa658194847b5f7a18cdbb</note_uri>
+          <note_updated_at type="datetime">Wed Jul 06 18:14:47 -0700 2016</note_updated_at>
+          <body><![CDATA[The world did know and remained silent. And that is why I swore never to be silent whenever and wherever human beings endure suffering and humiliation. We must take sides. Neutrality helps the oppressor, never the victim. Silence encourages the tormentor, never the tormented. Sometimes we must interfere.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">101399342</id>
+          <page type="integer">80</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Jul 05 18:06:34 -0700 2016</created_at>
+          <updated_at type="datetime">Tue Jul 05 18:06:50 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">4</ratings_count>
+          <percent type="integer">66</percent>
+          <work_id type="integer">265616</work_id>
+          <note_uri>kca://note/amzn1.grok.note.5d7fd2b83e3a90d4f2c2168ad30f5e4f</note_uri>
+          <note_updated_at type="datetime">Tue Jul 05 18:06:50 -0700 2016</note_updated_at>
+          <body><![CDATA[His cold eyes stared at me. At last, he said wearily:<br /> "I have more faith in Hitler than in anyone else. He alone has kept his promises, all his promises, to the Jewish people."]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">101396415</id>
+          <page type="integer">64</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Jul 05 17:27:13 -0700 2016</created_at>
+          <updated_at type="datetime">Tue Jul 05 17:27:45 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">3</ratings_count>
+          <percent type="integer">53</percent>
+          <work_id type="integer">265616</work_id>
+          <note_uri>kca://note/amzn1.grok.note.bab77b86e81fb9b6254334b01382ce26</note_uri>
+          <note_updated_at type="datetime">Tue Jul 05 17:27:45 -0700 2016</note_updated_at>
+          <body><![CDATA[Then came the march past the victims. The two men were no longer alive. Their tongues were hanging out, swollen and bluish. But the third rope was still moving: the child, too light, was still breathing...<br /> And so he remained for more than half an hour, lingering between life and death, writhing before our eyes. And we were forced to look at him at close range. <br /> That night the soup tasted of corpses.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">101300343</id>
+          <page type="integer">29</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Jul 04 17:29:12 -0700 2016</created_at>
+          <updated_at type="datetime">Mon Jul 04 17:29:27 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">24</percent>
+          <work_id type="integer">265616</work_id>
+          <note_uri>kca://note/amzn1.grok.note.2ddd74a4f05b26fd98d51e2eb850634f</note_uri>
+          <note_updated_at type="datetime">Mon Jul 04 17:29:27 -0700 2016</note_updated_at>
+          <body><![CDATA[“Men to the left! Women to the right!”<br /> Eight words spoken quietly, indifferently, without emotion. Eight simple, short words. Yet that was the moment I left my mother.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">101263495</id>
+          <page type="integer">1</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Jul 04 09:56:17 -0700 2016</created_at>
+          <updated_at type="datetime">Mon Jul 04 09:56:28 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">2</ratings_count>
+          <percent type="integer">0</percent>
+          <work_id type="integer">265616</work_id>
+          <note_uri>kca://note/amzn1.grok.note.4e01b755b9cf4ec3010aa6db9643d289</note_uri>
+          <note_updated_at type="datetime">Mon Jul 04 09:56:28 -0700 2016</note_updated_at>
+          <body><![CDATA[Having survived, I needed to give some meaning to my survival. I only know that without this testimony, my life would not have become what it is: that of a witness who believes he has a moral obligation to try and prevent the enemy from enjoying one last victory by allowing his crimes to be erased from human memory.]]></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">1421711812</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Wed Jul 06 22:30:21 -0700 2016</updated_at>
+          <ratings_count>1</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1418117928</id>
+          <old_status>read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Mon Jul 04 09:38:30 -0700 2016</updated_at>
+          <ratings_count>2</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">340552005</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Mon Mar 03 17:19:22 -0800 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>52</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="read-before-2010" exclusive="false" review_shelf_id="1356725481" sortable="false" />
+    <shelf name="europe" exclusive="false" review_shelf_id="1356725651" sortable="false" />
+    <shelf name="world-war-2" exclusive="false" review_shelf_id="819098760" sortable="false" />
+    <shelf name="history-historical" exclusive="false" review_shelf_id="819098830" sortable="false" />
+    <shelf name="read-in-2016" exclusive="false" review_shelf_id="1360793201" sortable="false" />
+    <shelf name="non-fiction" exclusive="false" review_shelf_id="819098805" sortable="false" />
+</shelves>
+  <recommended_for>Anyone and everyone. </recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Jul 02 00:00:00 -0700 2016</started_at>
+  <read_at>Wed Jul 06 00:00:00 -0700 2016</read_at>
+  <date_added>Mon Mar 03 17:19:22 -0800 2014</date_added>
+  <date_updated>Fri Jul 08 13:30:31 -0700 2016</date_updated>
+  <read_count>2</read_count>
+  <body>
+      <![CDATA[July 2, 2016: On hearing of the passing of Elie Wiesel, President Obama, who visited the site of the Buchenwald concentration camp with Wiesel in 2009, <i> "He raised his voice, not just against anti-Semitism, but against hatred, bigotry and intolerance in all its forms. He implored each of us, as n...</i>]]>
+  </body>
+
+  
+
+  <comments_count>15</comments_count>
+    <comments start="1" end="15" total="15">
+        <comment>
+  <id>153804248</id>
+  <body><![CDATA[Couldn't agree more , Tom . I plan to reread this as well .]]></body>
+  
+  <user>
+    <id>4685500</id>
+    <name>Angela M</name>
+    <display_name>Angela M</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4685500-angela-m]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1482282626p3/4685500.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1482282626p2/4685500.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jul 04 10:48:30 -0700 2016</created_at>
+  <updated_at>Mon Jul 04 10:48:30 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>153866879</id>
+  <body><![CDATA[Yes, time for me to re-read. A book with a huge impact and a man who made his life after have great meaning.]]></body>
+  
+  <user>
+    <id>5512657</id>
+    <name>Sara</name>
+    <display_name>Sara</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5512657-sara]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1490295912p3/5512657.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1490295912p2/5512657.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 05 20:35:56 -0700 2016</created_at>
+  <updated_at>Tue Jul 05 20:35:56 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>153882697</id>
+  <body><![CDATA[My half Jewish, Roman Catholic mother began encouraging me to read historical fiction &amp; non-fiction about the holocaust in my early teens. This has had a lifelong impact on me.<br /> I have ordered "Night" to learn more about Elie Wiesel's early life &amp; to remember the victims.]]></body>
+  
+  <user>
+    <id>22631410</id>
+    <name>Bill</name>
+    <display_name>Bill</display_name>
+
+    <location>Valencia, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22631410-bill]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1420654087p3/22631410.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1420654087p2/22631410.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 06 07:49:04 -0700 2016</created_at>
+  <updated_at>Wed Jul 06 07:49:04 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>153885731</id>
+  <body><![CDATA[<i>BillC wrote: "My half Jewish, Roman Catholic mother began encouraging me to read historical fiction &amp; non-fiction about the holocaust in my early teens. This has had a lifelong impact on me.<br /> I have ordered "Night"</i><br /><br />I think Wiesel sits with Frank up at the top of the list of must-read books about the holocaust. While Frank puts a human face on those who died, Wiesel takes the stand and testifies with gut-wrenching eloquence as one who witnessed and endured the horrors of the holocaust.]]></body>
+  
+  <user>
+    <id>22063432</id>
+    <name>Tom</name>
+    <display_name>Tom Mathews</display_name>
+
+    <location>Livermore, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22063432-tom-mathews]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1477366612p3/22063432.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1477366612p2/22063432.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 06 09:01:46 -0700 2016</created_at>
+  <updated_at>Wed Jul 06 09:01:46 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>153899331</id>
+  <body><![CDATA[I agree that Wiesel stands in for everyone who experienced this horror, lost loved ones, and went on to not only survive but to contribute to the world in wonderful ways.]]></body>
+  
+  <user>
+    <id>5512657</id>
+    <name>Sara</name>
+    <display_name>Sara</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5512657-sara]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1490295912p3/5512657.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1490295912p2/5512657.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 06 14:48:58 -0700 2016</created_at>
+  <updated_at>Wed Jul 06 14:48:58 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>153916185</id>
+  <body><![CDATA[That was a beautiful review.]]></body>
+  
+  <user>
+    <id>1237196</id>
+    <name>Petra Eggs</name>
+    <display_name>Petra Eggs</display_name>
+
+    <location><![CDATA[Cuba Cigar Factory, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1237196-petra-eggs]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487547378p3/1237196.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487547378p2/1237196.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 06 23:23:31 -0700 2016</created_at>
+  <updated_at>Wed Jul 06 23:23:31 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>153919206</id>
+  <body><![CDATA[Thank you for writing such a moving review, Tom. This book has been on my list but I'll be moving it up.]]></body>
+  
+  <user>
+    <id>20625013</id>
+    <name>Liz</name>
+    <display_name>Liz</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/20625013-liz]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1464967483p3/20625013.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1464967483p2/20625013.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 07 02:26:01 -0700 2016</created_at>
+  <updated_at>Thu Jul 07 02:26:01 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>153925129</id>
+  <body><![CDATA[Thanks Tom. I think it is a time for me to reread it, too.]]></body>
+  
+  <user>
+    <id>32041201</id>
+    <name>Howard</name>
+    <display_name>Howard</display_name>
+
+    <location>Farmington, MO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32041201-howard]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1489955174p3/32041201.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1489955174p2/32041201.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 07 06:32:42 -0700 2016</created_at>
+  <updated_at>Thu Jul 07 06:32:42 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>153934048</id>
+  <body><![CDATA[Beautiful review, Tom.]]></body>
+  
+  <user>
+    <id>19061124</id>
+    <name>Laura </name>
+    <display_name>Laura </display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/19061124-laura]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1491067789p3/19061124.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1491067789p2/19061124.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 07 10:16:10 -0700 2016</created_at>
+  <updated_at>Thu Jul 07 10:16:10 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>153937348</id>
+  <body><![CDATA[Wonderful review, Tom. This book always stays with you as with this incredible man.]]></body>
+  
+  <user>
+    <id>9472704</id>
+    <name>Linda</name>
+    <display_name>Linda O&apos;Donnell </display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9472704-linda-o-donnell]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1336837712p3/9472704.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1336837712p2/9472704.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 07 11:39:55 -0700 2016</created_at>
+  <updated_at>Thu Jul 07 11:39:55 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>153948843</id>
+  <body><![CDATA[Awesome, heartfelt review, Tom.]]></body>
+  
+  <user>
+    <id>5240149</id>
+    <name>Brenda</name>
+    <display_name>Brenda</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5240149-brenda]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1426860671p3/5240149.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1426860671p2/5240149.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 07 16:51:36 -0700 2016</created_at>
+  <updated_at>Thu Jul 07 16:51:36 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>153949182</id>
+  <body><![CDATA[It is definitely a book that stays with you.]]></body>
+  
+  <user>
+    <id>5507954</id>
+    <name>Susu</name>
+    <display_name>Susu</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5507954-susu]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486344140p3/5507954.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486344140p2/5507954.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 07 17:01:10 -0700 2016</created_at>
+  <updated_at>Thu Jul 07 17:01:10 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>153958517</id>
+  <body><![CDATA[Thanks for this Tom.<br /><br />I recently read an ARC of the re-released <a href="https://www.goodreads.com/book/show/30047351.Fragments_of_Isabella_A_Memoir_of_Auschwitz" title="Fragments of Isabella A Memoir of Auschwitz by Isabella Leitner" rel="nofollow">Fragments of Isabella: A Memoir of Auschwitz</a> which I found to be a stunningly powerful remembrance of a young woman's time in Auschwitz during the last year of the war. Highly recommended]]></body>
+  
+  <user>
+    <id>3642045</id>
+    <name>Sue</name>
+    <display_name>Sue</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3642045-sue]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1274829293p3/3642045.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1274829293p2/3642045.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 07 22:06:18 -0700 2016</created_at>
+  <updated_at>Thu Jul 07 22:06:18 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>154267393</id>
+  <body><![CDATA[Tom, another excellent review.<br /><br />A writer friend of mine in the English Department of North Florida has great respect for book reviewers. (I've reviewed four of his six novels.) He believes there should be a genre for book reviews!<br /><br />Your reviews, especially this poignant remembrance of "Night," surely fits that "genre."<br /><br />Jane]]></body>
+  
+  <user>
+    <id>7545085</id>
+    <name>Janebbooks</name>
+    <display_name>Janebbooks</display_name>
+
+    <location>Jacksonville, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7545085-janebbooks]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1327673219p3/7545085.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1327673219p2/7545085.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 15 16:34:25 -0700 2016</created_at>
+  <updated_at>Fri Jul 15 16:34:25 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>154268941</id>
+  <body><![CDATA[<i>Janebbooks wrote: "Tom, another excellent review.<br /><br />A writer friend of mine in the English Department of North Florida has great respect for book reviewers. (I've reviewed four of his six novels.) He believes there sh..."</i><br /><br />Thank you Jane.]]></body>
+  
+  <user>
+    <id>22063432</id>
+    <name>Tom</name>
+    <display_name>Tom Mathews</display_name>
+
+    <location>Livermore, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22063432-tom-mathews]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1477366612p3/22063432.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1477366612p2/22063432.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 15 17:37:19 -0700 2016</created_at>
+  <updated_at>Fri Jul 15 17:37:19 -0700 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/871101154]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/871101154]]></link>
+    <owned>1</owned>
+</review>
+
+
+</GoodreadsResponse>

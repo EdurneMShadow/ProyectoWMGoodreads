@@ -1,20 +1,20 @@
 status: 200
-x-request-id: HCNYZYVP0J15KPYMEXG0
+x-request-id: 5B054QC9R5WNYPCBCPKY
 x-xss-protection: 1; mode=block
 content-location: https://www.goodreads.com/review/show.xml?id=1770975788&key=2uQMlznVEwfI4YTVFQwsA
 x-content-type-options: nosniff, nosniff
-set-cookie: csid=BAhJIhg3NTgtODc5NDc0MC0yNjg0NjU2BjoGRVQ%3D--9828edc6c5de5c780b177c4d4a33bafec1b1178d;
- path=/; expires=Tue, 31 Mar 2037 20:36:47 -0000, locale=es;
- path=/, _session_id2=cd93f0cc07b0bd82183c7f0829825ed2; path=/;
- expires=Sat, 01 Apr 2017 02:36:47 -0000; HttpOnly
+set-cookie: csid=BAhJIhg4OTUtODg4NzQwNC0wODk0NjUwBjoGRVQ%3D--14b24483306e55411ba6805d626747fdd460c8b1;
+ path=/; expires=Wed, 15 Apr 2037 15:08:36 -0000, locale=es;
+ path=/, _session_id2=7234f3917f3f94d272a857cef3b8c526; path=/;
+ expires=Sat, 15 Apr 2017 21:08:36 -0000; HttpOnly
 vary: User-Agent,Accept-Encoding
 connection: keep-alive
 content-length: 22648
 server: Server
-x-runtime: 0.465824
-etag: W/"a8648f0f514d2d5d756e28a1702e5802"
+x-runtime: 0.437643
+etag: W/"83d22f586a90731e058bd2c613a5aee0"
 cache-control: max-age=0, private, must-revalidate
-date: Fri, 31 Mar 2017 20:36:48 GMT
+date: Sat, 15 Apr 2017 15:08:36 GMT
 x-frame-options: ALLOWALL
 content-type: application/xml; charset=utf-8
 -content-encoding: gzip
@@ -50,7 +50,7 @@ content-type: application/xml; charset=utf-8
   <id type="integer">41865</id>
   <isbn>0316015849</isbn>
   <isbn13>9780316015844</isbn13>
-  <text_reviews_count type="integer">89343</text_reviews_count>
+  <text_reviews_count type="integer">89441</text_reviews_count>
   <title>Twilight (Twilight, #1)</title>
   <title_without_series>Twilight</title_without_series>
   <image_url>https://images.gr-assets.com/books/1361039443m/41865.jpg</image_url>
@@ -65,7 +65,7 @@ content-type: application/xml; charset=utf-8
   <publication_year>2006</publication_year>
   <publication_month>9</publication_month>
   <average_rating>3.57</average_rating>
-  <ratings_count>3786459</ratings_count>
+  <ratings_count>3801008</ratings_count>
   <description>&lt;b&gt;About three things I was absolutely positive.&lt;br /&gt;&lt;br /&gt;First, Edward was a vampire.&lt;br /&gt;&lt;br /&gt;Second, there was a part of him—and I didn't know how dominant that part might be—that thirsted for my blood.&lt;br /&gt;&lt;br /&gt;And third, I was unconditionally and irrevocably in love with him.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;In the first book of the Twilight Saga, internationally bestselling author Stephenie Meyer introduces Bella Swan and Edward Cullen, a pair of star-crossed lovers whose forbidden relationship ripens against the backdrop of small-town suspicion and a mysterious coven of vampires. This is a love story with bite.</description>
 <authors>
 <author>
@@ -80,8 +80,8 @@ content-type: application/xml; charset=utf-8
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/941441.Stephenie_Meyer]]></link>
 <average_rating>3.64</average_rating>
-<ratings_count>8603266</ratings_count>
-<text_reviews_count>293096</text_reviews_count>
+<ratings_count>8629078</ratings_count>
+<text_reviews_count>293608</text_reviews_count>
 </author>
 </authors>
   <published>2006</published>
@@ -217,7 +217,7 @@ content-type: application/xml; charset=utf-8
           <created_at type="datetime">Wed Jan 11 22:54:30 -0800 2017</created_at>
           <updated_at type="datetime">Wed Jan 11 22:55:17 -0800 2017</updated_at>
           <last_comment_at type="datetime"></last_comment_at>
-          <ratings_count type="integer">17</ratings_count>
+          <ratings_count type="integer">16</ratings_count>
           <percent type="integer">4</percent>
           <work_id type="integer">3212258</work_id>
           <note_uri>kca://note/amzn1.grok.note.f79e72375db254448dba90012a5dfef3</note_uri>
@@ -282,7 +282,7 @@ content-type: application/xml; charset=utf-8
         </read_status>
     </read_statuses>
   <rating>2</rating>
-  <votes>118</votes>
+  <votes>117</votes>
   <spoiler_flag>false</spoiler_flag>
   <spoilers_state>none</spoilers_state>
   
@@ -290,6 +290,8 @@ content-type: application/xml; charset=utf-8
 <shelves>
   <shelf name="read" exclusive="true" />
 
+    <shelf name="young-adult" exclusive="false" review_shelf_id="1435133572" sortable="false" />
+    <shelf name="romance" exclusive="false" review_shelf_id="1435133578" sortable="false" />
     <shelf name="urban-fantasy" exclusive="false" review_shelf_id="1435133575" sortable="false" />
     <shelf name="shouldn-t-have-re-read" exclusive="false" review_shelf_id="1535099178" sortable="false" />
     <shelf name="fantasy" exclusive="false" review_shelf_id="1435133568" sortable="false" />
@@ -297,8 +299,6 @@ content-type: application/xml; charset=utf-8
     <shelf name="2017-re-reads" exclusive="false" review_shelf_id="1534247283" sortable="false" />
     <shelf name="not-for-me" exclusive="false" review_shelf_id="1535099172" sortable="false" />
     <shelf name="literal-trash" exclusive="false" review_shelf_id="1535099175" sortable="false" />
-    <shelf name="young-adult" exclusive="false" review_shelf_id="1435133572" sortable="false" />
-    <shelf name="romance" exclusive="false" review_shelf_id="1435133578" sortable="false" />
 </shelves>
   <recommended_for></recommended_for>
   <recommended_by></recommended_by>

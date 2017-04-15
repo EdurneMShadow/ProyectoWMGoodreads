@@ -1,0 +1,607 @@
+status: 200
+x-request-id: NRQ9VBA9NN7SPNSK3SR4
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=1770368010&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhgxOTUtMzIwMDQxNS00Mzc5MDkzBjoGRVQ%3D--0cea89cef11a4743eced26ae8d95a7c0f31060b1;
+ path=/; expires=Wed, 15 Apr 2037 15:23:43 -0000, locale=es;
+ path=/, _session_id2=1287a235785f96b6499dd8d6f8cdc9a8; path=/;
+ expires=Sat, 15 Apr 2017 21:23:43 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 25322
+server: Server
+x-runtime: 0.429501
+etag: W/"c00593bcb141e45bb272414db49f0d53"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:23:43 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1770368010</id>
+    
+  <user>
+    <id>48483884</id>
+    <name>Michael</name>
+    <display_name>Michael Finocchiaro</display_name>
+
+    <location>Paris, Île-de-France, France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/48483884-michael-finocchiaro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1490703323p3/48483884.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1490703323p2/48483884.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">72193</id>
+  <isbn>0747532745</isbn>
+  <isbn13>9780747532743</isbn13>
+  <text_reviews_count type="integer">2255</text_reviews_count>
+  <title>Harry Potter and the Philosopher's Stone (Harry Potter, #1)</title>
+  <title_without_series>Harry Potter and the Philosopher's Stone</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1327190600m/72193.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1327190600s/72193.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/72193.Harry_Potter_and_the_Philosopher_s_Stone</link>
+  <num_pages>223</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Bloomsbury Publishing</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>1997</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.44</average_rating>
+  <ratings_count>4576472</ratings_count>
+  <description>Harry Potter thinks he is an ordinary boy - until he is rescued by an owl, taken to Hogwarts School of Witchcraft and Wizardry, learns to play Quidditch and does battle in a deadly duel. The Reason ... HARRY POTTER IS A WIZARD!</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1415945171p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1415945171p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.42</average_rating>
+<ratings_count>17561506</ratings_count>
+<text_reviews_count>435220</text_reviews_count>
+</author>
+</authors>
+  <published>1997</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">122644918</id>
+          <page type="integer">179</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Feb 18 13:10:51 -0800 2017</created_at>
+          <updated_at type="datetime">Sat Feb 18 13:10:51 -0800 2017</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">54</ratings_count>
+          <percent type="integer">80</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">122320046</id>
+          <page type="integer">159</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Feb 15 13:26:21 -0800 2017</created_at>
+          <updated_at type="datetime">Wed Feb 15 13:26:24 -0800 2017</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">8</ratings_count>
+          <percent type="integer">71</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.d438b03fde2b4db03a6575b9002a4958</note_uri>
+          <note_updated_at type="datetime">Wed Feb 15 13:26:24 -0800 2017</note_updated_at>
+          <body><![CDATA[Love the Invisibility Cloak idea as well as the library!]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">122212315</id>
+          <page type="integer">142</page>
+          <chapter type="integer"></chapter>
+          <comments_count>8</comments_count>
+          <created_at type="datetime">Tue Feb 14 14:08:08 -0800 2017</created_at>
+          <updated_at type="datetime">Tue Feb 14 14:08:29 -0800 2017</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">96</ratings_count>
+          <percent type="integer">63</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.0375543d6558de3b8f43340b798a3e71</note_uri>
+          <note_updated_at type="datetime">Tue Feb 14 14:08:29 -0800 2017</note_updated_at>
+          <body><![CDATA[Awesome Quiddich match. So was it Snape or that two-face guy that was messing with the Nimbus 2000?]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">121005258</id>
+          <page type="integer">98</page>
+          <chapter type="integer"></chapter>
+          <comments_count>2</comments_count>
+          <created_at type="datetime">Sat Feb 04 09:31:43 -0800 2017</created_at>
+          <updated_at type="datetime">Sat Feb 04 09:31:43 -0800 2017</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">19</ratings_count>
+          <percent type="integer">43</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">120920609</id>
+          <page type="integer">87</page>
+          <chapter type="integer"></chapter>
+          <comments_count>5</comments_count>
+          <created_at type="datetime">Fri Feb 03 12:57:04 -0800 2017</created_at>
+          <updated_at type="datetime">Fri Feb 03 12:57:04 -0800 2017</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">33</ratings_count>
+          <percent type="integer">39</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">120436401</id>
+          <page type="integer">67</page>
+          <chapter type="integer"></chapter>
+          <comments_count>5</comments_count>
+          <created_at type="datetime">Mon Jan 30 12:01:17 -0800 2017</created_at>
+          <updated_at type="datetime">Mon Jan 30 12:01:17 -0800 2017</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">18</ratings_count>
+          <percent type="integer">30</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">120306084</id>
+          <page type="integer">49</page>
+          <chapter type="integer"></chapter>
+          <comments_count>7</comments_count>
+          <created_at type="datetime">Sun Jan 29 11:33:49 -0800 2017</created_at>
+          <updated_at type="datetime">Sun Jan 29 11:34:19 -0800 2017</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">92</ratings_count>
+          <percent type="integer">21</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.fbdd31bf179b8dc275484a8f4a2752ca</note_uri>
+          <note_updated_at type="datetime">Sun Jan 29 11:34:19 -0800 2017</note_updated_at>
+          <body><![CDATA[Reading aloud to my son. Lovin' this :)]]></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">1722110246</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Mon Feb 20 12:50:22 -0800 2017</updated_at>
+          <ratings_count>32</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1688675565</id>
+          <old_status>read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Sun Jan 29 11:33:28 -0800 2017</updated_at>
+          <ratings_count>26</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1526021137</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Wed Sep 28 11:24:40 -0700 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>167</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="english-20th-c" exclusive="false" review_shelf_id="1477850083" sortable="false" />
+    <shelf name="kids" exclusive="false" review_shelf_id="1477850009" sortable="false" />
+    <shelf name="made-into-movie" exclusive="false" review_shelf_id="1487598142" sortable="false" />
+    <shelf name="fantasy" exclusive="false" review_shelf_id="1477850227" sortable="false" />
+    <shelf name="read-in-en-and-fr" exclusive="false" review_shelf_id="1487597404" sortable="false" />
+    <shelf name="novels" exclusive="false" review_shelf_id="1479989169" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Feb 09 00:00:00 -0800 2017</started_at>
+  <read_at>Mon Feb 20 15:53:58 -0800 2017</read_at>
+  <date_added>Wed Sep 28 11:24:39 -0700 2016</date_added>
+  <date_updated>Tue Mar 28 05:24:11 -0700 2017</date_updated>
+  <read_count>2</read_count>
+  <body>
+      <![CDATA[The first HP novel is already a classic. I have read it in the original English and the (slightly disappointing IMHO) French translation because my kid, just a few months after starting reading, plunged head first into this book and only resurfaced after the last one. I never made it past the 3td...]]>
+  </body>
+
+  
+
+  <comments_count>15</comments_count>
+    <comments start="1" end="15" total="15">
+        <comment>
+  <id>159728476</id>
+  <body><![CDATA[Follow your child's lead and go all the way this time. I did with no regrets. It's not a perfect Potter-Rowling world but still pretty darned entertaining.]]></body>
+  
+  <user>
+    <id>5295008</id>
+    <name>Chris</name>
+    <display_name>Chris Gager</display_name>
+
+    <location>Phippsburg, ME</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5295008-chris-gager]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1307204529p3/5295008.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1307204529p2/5295008.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Dec 01 07:30:08 -0800 2016</created_at>
+  <updated_at>Thu Dec 01 07:30:08 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>163041185</id>
+  <body><![CDATA[I read the series about 3-4 years ago for the first time while I was recovering from an illness. I loved it.]]></body>
+  
+  <user>
+    <id>38515256</id>
+    <name>Gary</name>
+    <display_name>Gary Sundell</display_name>
+
+    <location>Southfield, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/38515256-gary-sundell]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1449940957p3/38515256.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1449940957p2/38515256.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 20 13:15:50 -0800 2017</created_at>
+  <updated_at>Mon Feb 20 13:15:50 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>163041192</id>
+  <body><![CDATA[I would like to say that, what you mention as parents sending kids to the school and only seeing them on holidays such as Christmas or summer and maybe a few weekends is actually what happens when parents send kids to boarding schools here in the uk or overseas, and I ( being one such kid) had looking back on my time at boarding school a really good time yes there were times when kids can be cruel but that's true about most schools but what I would like to say is that it was never ever lonely you had people around you all the time and if you did get upset about not seeing your mum and dad well I was able to recieve a mother type love from the house mistress ( the dormitory) and the nurses so yeah I loved the Harry Potter world for that as I grew up with these books at the time of being in boarding school so it felt totally real and alive to me. Yes definitely finish the series there are some bits that can bog down a bit mainly the 6th book for me but once you get past that one it just gets better]]></body>
+  
+  <user>
+    <id>33596061</id>
+    <name>Zoe</name>
+    <display_name>Zoe Glanville</display_name>
+
+    <location>London, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/33596061-zoe-glanville]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483696391p3/33596061.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483696391p2/33596061.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 20 13:16:05 -0800 2017</created_at>
+  <updated_at>Mon Feb 20 13:16:05 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>163041442</id>
+  <body><![CDATA[Thanks Zoe! How interesting!]]></body>
+  
+  <user>
+    <id>48483884</id>
+    <name>Michael</name>
+    <display_name>Michael Finocchiaro</display_name>
+
+    <location>Paris, Île-de-France, France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/48483884-michael-finocchiaro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1490703323p3/48483884.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1490703323p2/48483884.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 20 13:21:33 -0800 2017</created_at>
+  <updated_at>Mon Feb 20 13:21:33 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>163041689</id>
+  <body><![CDATA[Also, bear in mind that these books are written for kids - not for adults (even though adults enjoy them). And I think one reason why boarding school stories are enduringly popular (from Tom Brown's Schooldays onwards) is because a boarding school is a society composed almost entirely of children. Kids can have adventures without the grown-ups interfering, and what other arrangement makes that happen? If you look at a lot of kids fiction, the author has had to get rid of interfering grown-ups somehow - and boarding school is a good alternative to having some kind of disaster that kills them all. I remember when I was a kid, I read Mallory Towers, St Clare's, The Chalet School, plus a whole lot of early 20th-century school stories. It's not about class, or money, or about hating your parents - it's pure escapism.]]></body>
+  
+  <user>
+    <id>13059826</id>
+    <name>T. K. Elliott (Tiffany)</name>
+    <display_name>T. K. Elliott (Tiffany)</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13059826-t-k-elliott-tiffany]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1459600064p3/13059826.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1459600064p2/13059826.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 20 13:27:09 -0800 2017</created_at>
+  <updated_at>Mon Feb 20 13:27:09 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>163046584</id>
+  <body><![CDATA[I didn't read past the second and I decided around Christmas to pick up the series again and go all the way this time! I'm on 4 currently and just really loving the series. My niece is reading them for the first time so it has been fun to experience it with her]]></body>
+  
+  <user>
+    <id>7856954</id>
+    <name>MsNoseinaBook</name>
+    <display_name>MsNoseinaBook</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7856954-msnoseinabook]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483813386p3/7856954.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483813386p2/7856954.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 20 15:23:41 -0800 2017</created_at>
+  <updated_at>Mon Feb 20 15:23:41 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>163052628</id>
+  <body><![CDATA[Michael, you must continue. I'm a snobby Lit teacher, and Harry Potter #6 and #7 are must-reads. I sobbed through them both. Fantastic!]]></body>
+  
+  <user>
+    <id>5211606</id>
+    <name>Julie</name>
+    <display_name>Julie</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5211606-julie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1440858556p3/5211606.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1440858556p2/5211606.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 20 17:52:27 -0800 2017</created_at>
+  <updated_at>Mon Feb 20 17:52:27 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>163061615</id>
+  <body><![CDATA[well....boarding school is scarcely a rare phenomenon! my nephew, who went to one on scholarship - without privilege: the whole school is for promising boys of poor background - says it saved his life and taught him a lot. He had caring parents but they split, with subsequent difficulties for the children. Talking to him made me see that it is about more than privilege. On the other hand, I was a staff member in a very expensive, privileged boarding school in Switzerland and some of those essentially abandoned children were heartbreaking.]]></body>
+  
+  <user>
+    <id>37849334</id>
+    <name>Deborah</name>
+    <display_name>Deborah Pickstone</display_name>
+
+    <location>Auckland, E7, New Zealand</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/37849334-deborah-pickstone]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1432503842p3/37849334.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1432503842p2/37849334.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 20 23:16:49 -0800 2017</created_at>
+  <updated_at>Mon Feb 20 23:16:49 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>163061648</id>
+  <body><![CDATA[btw....I loved this whole series and think it's for grown ups too : )]]></body>
+  
+  <user>
+    <id>37849334</id>
+    <name>Deborah</name>
+    <display_name>Deborah Pickstone</display_name>
+
+    <location>Auckland, E7, New Zealand</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/37849334-deborah-pickstone]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1432503842p3/37849334.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1432503842p2/37849334.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 20 23:18:29 -0800 2017</created_at>
+  <updated_at>Mon Feb 20 23:18:29 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>163081112</id>
+  <body><![CDATA[I also enjoyed this book which I read along with my daughter as well as the rest of the series: in general, it was great fun).<br /><br />I think being free of parents is a necessary condition for children's fantasies of adventure. Doesn't necessarily mean they want their parents dead or gone, just how do you take off into the great beyond with a parent at your side?<br /><br />I loved Jane Eyre as a child-don't think I would have actually changed places with her!]]></body>
+  
+  <user>
+    <id>2908629</id>
+    <name>Ellie</name>
+    <display_name>Ellie</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2908629-ellie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1399799985p3/2908629.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1399799985p2/2908629.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 21 10:34:15 -0800 2017</created_at>
+  <updated_at>Tue Feb 21 10:34:15 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>163081651</id>
+  <body><![CDATA[Really? Confession: never read Jane Eyre :/]]></body>
+  
+  <user>
+    <id>48483884</id>
+    <name>Michael</name>
+    <display_name>Michael Finocchiaro</display_name>
+
+    <location>Paris, Île-de-France, France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/48483884-michael-finocchiaro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1490703323p3/48483884.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1490703323p2/48483884.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 21 10:47:49 -0800 2017</created_at>
+  <updated_at>Tue Feb 21 10:47:49 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>163091597</id>
+  <body><![CDATA[<i>Fino wrote: "Really? Confession: never read Jane Eyre :/"</i><br /><br />Still one of my favorites, especially the childhood chapters.]]></body>
+  
+  <user>
+    <id>2908629</id>
+    <name>Ellie</name>
+    <display_name>Ellie</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2908629-ellie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1399799985p3/2908629.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1399799985p2/2908629.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 21 14:48:39 -0800 2017</created_at>
+  <updated_at>Tue Feb 21 14:48:39 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>163134580</id>
+  <body><![CDATA[They're great for reading aloud, but I wouldn't necessarily rush. I'm not sure how old your son is, but the final two or three are pitched at a very different level (and length).]]></body>
+  
+  <user>
+    <id>1199525</id>
+    <name>Cecily</name>
+    <display_name>Cecily</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1199525-cecily]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480285828p3/1199525.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480285828p2/1199525.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Feb 22 14:41:45 -0800 2017</created_at>
+  <updated_at>Wed Feb 22 14:41:45 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>163134638</id>
+  <body><![CDATA[Totally agree, Cecily.]]></body>
+  
+  <user>
+    <id>11869072</id>
+    <name>Jeanette</name>
+    <display_name>Jeanette</display_name>
+
+    <location>Tinley Park, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11869072-jeanette]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1372095557p3/11869072.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1372095557p2/11869072.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Feb 22 14:43:17 -0800 2017</created_at>
+  <updated_at>Wed Feb 22 14:43:17 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>163333756</id>
+  <body><![CDATA[You must finish the series and that's all there is to it.]]></body>
+  
+  <user>
+    <id>22264452</id>
+    <name>Rita</name>
+    <display_name>Rita Schuldt</display_name>
+
+    <location>Fond Du Lac, WI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22264452-rita-schuldt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1472860834p3/22264452.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1472860834p2/22264452.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 27 18:03:09 -0800 2017</created_at>
+  <updated_at>Mon Feb 27 18:03:09 -0800 2017</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1770368010]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1770368010]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

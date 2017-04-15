@@ -1,0 +1,237 @@
+status: 200
+x-request-id: 763YA2V1502MA6XCBH4F
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=1782391234&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhg3ODUtMDE0MjE4Mi02MjYwNzUyBjoGRVQ%3D--29a651e22797b8a90304d69b51b0881cff22912f;
+ path=/; expires=Wed, 15 Apr 2037 15:20:31 -0000, locale=es;
+ path=/, _session_id2=126146ba707e70941c4ee4ffdd925f04; path=/;
+ expires=Sat, 15 Apr 2017 21:20:31 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 8201
+server: Server
+x-runtime: 0.321569
+etag: W/"70b5aafef21e3375399880f82bd09414"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:20:31 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1782391234</id>
+    
+  <user>
+    <id>26706841</id>
+    <name>Steven </name>
+    <display_name>Steven  Godin </display_name>
+
+    <location>Saint-Mandé, Paris, France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/26706841-steven-godin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1491320078p3/26706841.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1491320078p2/26706841.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">5950236</id>
+  <isbn>0141038993</isbn>
+  <isbn13>9780141038995</isbn13>
+  <text_reviews_count type="integer">61</text_reviews_count>
+  <title>Night</title>
+  <title_without_series>Night</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/5950236-night</link>
+  <num_pages>120</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Penguin</publisher>
+  <publication_day>4</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.29</average_rating>
+  <ratings_count>680808</ratings_count>
+  <description>Born into a Jewish ghetto in Hungary, as a child, Elie Wiesel was sent to the Nazi concentration camps at Auschwitz and Buchenwald. This is his account of that atrocity: the ever-increasing horrors he endured, the loss of his family and his struggle to survive in a world that stripped him of humanity, dignity and faith. Describing in simple terms the tragic murder of a people from a survivor’s perspective, Night is among the most personal, intimate and poignant of all accounts of the Holocaust. A compelling consideration of the darkest side of human nature and the enduring power of hope, it remains one of the most important works of the twentieth century.</description>
+<authors>
+<author>
+<id>1049</id>
+<name>Elie Wiesel</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1255518412p5/1049.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1255518412p2/1049.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1049.Elie_Wiesel]]></link>
+<average_rating>4.27</average_rating>
+<ratings_count>716805</ratings_count>
+<text_reviews_count>24423</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1542278202</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Wed Oct 12 14:03:53 -0700 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1541706098</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Wed Oct 12 05:35:46 -0700 2016</updated_at>
+          <ratings_count>8</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>51</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="historical" exclusive="false" review_shelf_id="1446478092" sortable="false" />
+    <shelf name="war-conflict" exclusive="false" review_shelf_id="1446477966" sortable="false" />
+    <shelf name="non-fiction" exclusive="false" review_shelf_id="1446478021" sortable="false" />
+    <shelf name="other-european" exclusive="false" review_shelf_id="1446478016" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Oct 12 00:00:00 -0700 2016</started_at>
+  <read_at>Wed Oct 12 15:40:04 -0700 2016</read_at>
+  <date_added>Wed Oct 12 05:35:46 -0700 2016</date_added>
+  <date_updated>Wed Oct 12 14:32:55 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[From the first few sentences, to the final closings words, I did not move. Elie Wiesel had my complete attention, and total respect, for the immense courage it must have taken to relive the horrors he went through in writing this book. Harrowing and chilling but told with great compassion, his st...]]>
+  </body>
+
+  
+
+  <comments_count>4</comments_count>
+    <comments start="1" end="4" total="4">
+        <comment>
+  <id>157933753</id>
+  <body><![CDATA[Great review, Steven! I'm adding it to my TBR.]]></body>
+  
+  <user>
+    <id>28953843</id>
+    <name>Jennifer</name>
+    <display_name>Jennifer Masterson</display_name>
+
+    <location>Bridgeport, CT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/28953843-jennifer-masterson]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1447797924p3/28953843.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1447797924p2/28953843.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Oct 13 15:41:40 -0700 2016</created_at>
+  <updated_at>Thu Oct 13 15:41:40 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157954723</id>
+  <body><![CDATA[Great Jen, fully deserved as well.]]></body>
+  
+  <user>
+    <id>26706841</id>
+    <name>Steven </name>
+    <display_name>Steven  Godin </display_name>
+
+    <location>Saint-Mandé, Paris, France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/26706841-steven-godin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1491320078p3/26706841.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1491320078p2/26706841.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 14 07:05:13 -0700 2016</created_at>
+  <updated_at>Fri Oct 14 07:05:13 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157974499</id>
+  <body><![CDATA[Loved this review of yours, Steven! I, too read this book, years ago. I really liked it a lot.]]></body>
+  
+  <user>
+    <id>11729228</id>
+    <name>Lynn</name>
+    <display_name>Lynn</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11729228-lynn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1409655117p3/11729228.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1409655117p2/11729228.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 14 17:12:58 -0700 2016</created_at>
+  <updated_at>Fri Oct 14 17:12:58 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157993220</id>
+  <body><![CDATA[Thanks Lynn, for humanity's sake everyone will benefit from reading this.]]></body>
+  
+  <user>
+    <id>26706841</id>
+    <name>Steven </name>
+    <display_name>Steven  Godin </display_name>
+
+    <location>Saint-Mandé, Paris, France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/26706841-steven-godin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1491320078p3/26706841.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1491320078p2/26706841.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Oct 15 09:06:42 -0700 2016</created_at>
+  <updated_at>Sat Oct 15 09:06:42 -0700 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1782391234]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1782391234]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

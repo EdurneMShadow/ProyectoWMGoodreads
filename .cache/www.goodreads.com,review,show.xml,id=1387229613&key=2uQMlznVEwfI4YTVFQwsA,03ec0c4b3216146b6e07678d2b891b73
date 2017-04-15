@@ -1,0 +1,588 @@
+status: 200
+x-request-id: T0WJBPTDPA43XP9CWVZY
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=1387229613&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhgyNDMtNDI0NjY3Ny00NzI1NjY3BjoGRVQ%3D--e1c0b0e0e599076da10b58702009f5c06e3a66d4;
+ path=/; expires=Wed, 15 Apr 2037 15:20:22 -0000, locale=es;
+ path=/, _session_id2=ff993833a007f7b775d27e0dfbc8ccff; path=/;
+ expires=Sat, 15 Apr 2017 21:20:22 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 20358
+server: Server
+x-runtime: 0.467381
+etag: W/"30282cd291a1669ba27b7af0515a7322"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:20:22 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1387229613</id>
+    
+  <user>
+    <id>25545124</id>
+    <name>Vanessa</name>
+    <display_name>Vanessa</display_name>
+
+    <location>Sydney, NSW, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25545124-vanessa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1479593976p3/25545124.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1479593976p2/25545124.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">5950236</id>
+  <isbn>0141038993</isbn>
+  <isbn13>9780141038995</isbn13>
+  <text_reviews_count type="integer">61</text_reviews_count>
+  <title>Night</title>
+  <title_without_series>Night</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/5950236-night</link>
+  <num_pages>120</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Penguin</publisher>
+  <publication_day>4</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.29</average_rating>
+  <ratings_count>680808</ratings_count>
+  <description>Born into a Jewish ghetto in Hungary, as a child, Elie Wiesel was sent to the Nazi concentration camps at Auschwitz and Buchenwald. This is his account of that atrocity: the ever-increasing horrors he endured, the loss of his family and his struggle to survive in a world that stripped him of humanity, dignity and faith. Describing in simple terms the tragic murder of a people from a survivor’s perspective, Night is among the most personal, intimate and poignant of all accounts of the Holocaust. A compelling consideration of the darkest side of human nature and the enduring power of hope, it remains one of the most important works of the twentieth century.</description>
+<authors>
+<author>
+<id>1049</id>
+<name>Elie Wiesel</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1255518412p5/1049.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1255518412p2/1049.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1049.Elie_Wiesel]]></link>
+<average_rating>4.27</average_rating>
+<ratings_count>716805</ratings_count>
+<text_reviews_count>24423</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1681867180</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Tue Jan 24 12:41:53 -0800 2017</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1678284895</id>
+          <old_status>to-read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Sun Jan 22 04:41:24 -0800 2017</updated_at>
+          <ratings_count>6</ratings_count>
+          <comments_count>1</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">999972392</id>
+          <old_status></old_status>
+          <status>to-read</status>
+          <updated_at type="datetime">Wed Sep 09 00:30:14 -0700 2015</updated_at>
+          <ratings_count>2</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>58</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="favourites" exclusive="false" review_shelf_id="1548155167" sortable="false" />
+    <shelf name="on-my-bookshelf" exclusive="false" review_shelf_id="1206169968" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Jan 22 00:00:00 -0800 2017</started_at>
+  <read_at>Wed Jan 25 00:00:00 -0800 2017</read_at>
+  <date_added>Wed Sep 09 00:30:14 -0700 2015</date_added>
+  <date_updated>Tue Jan 24 12:47:08 -0800 2017</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Wow this book..can't express the feelings during my reading of this, so enthralling, captivating but oh the horrors! Unimaginable horrors. Tore my heart out into a million pieces. I regret not having read this earlier, this is a true account of Elie Wiesel as a young Jewish boy who has no foresee...]]>
+  </body>
+
+  
+
+  <comments_count>19</comments_count>
+    <comments start="1" end="19" total="19">
+        <comment>
+  <id>161928849</id>
+  <body><![CDATA[Great review Vanessa! Very powerful book!]]></body>
+  
+  <user>
+    <id>54886546</id>
+    <name>Lindsay</name>
+    <display_name>Lindsay</display_name>
+
+    <location>Niagara Falls, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/54886546-lindsay]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1472552597p3/54886546.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1472552597p2/54886546.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 24 13:06:01 -0800 2017</created_at>
+  <updated_at>Tue Jan 24 13:06:01 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161938351</id>
+  <body><![CDATA[Great review, but I'm staying away from it, I find it too distressing when I read about concentration camps.]]></body>
+  
+  <user>
+    <id>29843800</id>
+    <name>Bianca</name>
+    <display_name>Bianca</display_name>
+
+    <location><![CDATA[Perth, Western Australia, Australia]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/29843800-bianca]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487060343p3/29843800.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487060343p2/29843800.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 24 17:08:54 -0800 2017</created_at>
+  <updated_at>Tue Jan 24 17:08:54 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161939272</id>
+  <body><![CDATA[Beautiful review, Vanessa!]]></body>
+  
+  <user>
+    <id>16174645</id>
+    <name>Paula</name>
+    <display_name>Paula</display_name>
+
+    <location>Boston, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16174645-paula]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1440861246p3/16174645.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1440861246p2/16174645.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 24 17:40:18 -0800 2017</created_at>
+  <updated_at>Tue Jan 24 17:40:18 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161945542</id>
+  <body><![CDATA[Thanks Bianca. Yes it was heartbreaking but also uplifting to see how humans can go through so much and still come out the other side.]]></body>
+  
+  <user>
+    <id>25545124</id>
+    <name>Vanessa</name>
+    <display_name>Vanessa</display_name>
+
+    <location>Sydney, NSW, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25545124-vanessa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1479593976p3/25545124.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1479593976p2/25545124.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 24 21:37:54 -0800 2017</created_at>
+  <updated_at>Tue Jan 24 21:37:54 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161945546</id>
+  <body><![CDATA[Thanks Paula!]]></body>
+  
+  <user>
+    <id>25545124</id>
+    <name>Vanessa</name>
+    <display_name>Vanessa</display_name>
+
+    <location>Sydney, NSW, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25545124-vanessa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1479593976p3/25545124.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1479593976p2/25545124.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 24 21:38:06 -0800 2017</created_at>
+  <updated_at>Tue Jan 24 21:38:06 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161946130</id>
+  <body><![CDATA[Nice review, Vanessa!]]></body>
+  
+  <user>
+    <id>21432277</id>
+    <name>Supratim</name>
+    <display_name>Supratim</display_name>
+
+    <location>Bangalore, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/21432277-supratim]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488566505p3/21432277.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488566505p2/21432277.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 24 22:09:44 -0800 2017</created_at>
+  <updated_at>Tue Jan 24 22:09:44 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161949935</id>
+  <body><![CDATA[Powerful review, Vanessa. I keep hearing good things about this.]]></body>
+  
+  <user>
+    <id>56035852</id>
+    <name>Katie</name>
+    <display_name>Katie</display_name>
+
+    <location>Lewes, V2, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/56035852-katie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1469958232p3/56035852.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1469958232p2/56035852.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 25 02:08:25 -0800 2017</created_at>
+  <updated_at>Wed Jan 25 02:08:25 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161950778</id>
+  <body><![CDATA[So powerful, wonderful book and can wholeheartedly recommend it Katie]]></body>
+  
+  <user>
+    <id>25545124</id>
+    <name>Vanessa</name>
+    <display_name>Vanessa</display_name>
+
+    <location>Sydney, NSW, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25545124-vanessa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1479593976p3/25545124.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1479593976p2/25545124.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 25 03:03:47 -0800 2017</created_at>
+  <updated_at>Wed Jan 25 03:03:47 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161951308</id>
+  <body><![CDATA[I read it late too. Your review reminds me of my feelings Vanessa.]]></body>
+  
+  <user>
+    <id>11889829</id>
+    <name>Suzanne</name>
+    <display_name>Suzanne</display_name>
+
+    <location>Sydney, nsw, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11889829-suzanne]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487422641p3/11889829.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487422641p2/11889829.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 25 03:37:22 -0800 2017</created_at>
+  <updated_at>Wed Jan 25 03:37:22 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161954004</id>
+  <body><![CDATA[It really is amazing how such a small book can have such a profound impact. It truly made me grateful that my family has not had atrocities like him and his family. I hope he has everlasting peace.]]></body>
+  
+  <user>
+    <id>15484642</id>
+    <name>Maggie</name>
+    <display_name>Maggie</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15484642-maggie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1474307729p3/15484642.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1474307729p2/15484642.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 25 05:28:54 -0800 2017</created_at>
+  <updated_at>Wed Jan 25 05:28:54 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161958145</id>
+  <body><![CDATA[Like is not strong enough, I love this review.]]></body>
+  
+  <user>
+    <id>7616365</id>
+    <name>Nancy</name>
+    <display_name>Nancy Brisson</display_name>
+
+    <location>Liverpool, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7616365-nancy-brisson]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1344523269p3/7616365.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1344523269p2/7616365.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 25 07:30:21 -0800 2017</created_at>
+  <updated_at>Wed Jan 25 07:30:21 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161962337</id>
+  <body><![CDATA[Vanessa, excellent review! I'm so drawn to Holocaust books, also. I'm reading "The One Man," now. I'm sure I'll read "Night" later on.]]></body>
+  
+  <user>
+    <id>41464918</id>
+    <name>Linda</name>
+    <display_name>Linda</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/41464918-linda]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1441549595p3/41464918.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1441549595p2/41464918.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 25 09:20:37 -0800 2017</created_at>
+  <updated_at>Wed Jan 25 09:20:37 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161972713</id>
+  <body><![CDATA[Thank you Maggie, it made me appreciate that I've been lucky as well, I can't even imagine how you would feel losing your whole family that way. Heartbreaking]]></body>
+  
+  <user>
+    <id>25545124</id>
+    <name>Vanessa</name>
+    <display_name>Vanessa</display_name>
+
+    <location>Sydney, NSW, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25545124-vanessa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1479593976p3/25545124.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1479593976p2/25545124.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 25 13:41:16 -0800 2017</created_at>
+  <updated_at>Wed Jan 25 13:41:16 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161972730</id>
+  <body><![CDATA[Thank you Nancy!! :))]]></body>
+  
+  <user>
+    <id>25545124</id>
+    <name>Vanessa</name>
+    <display_name>Vanessa</display_name>
+
+    <location>Sydney, NSW, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25545124-vanessa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1479593976p3/25545124.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1479593976p2/25545124.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 25 13:41:37 -0800 2017</created_at>
+  <updated_at>Wed Jan 25 13:41:37 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161972875</id>
+  <body><![CDATA[Yes I'm also drawn to them, I think we need to read them to remind us that this actually happened it's easy to forget because it makes us uncomfortable. This one I read almost feverishly it was utterly compelling and also a quick read so it's highly recommended Linda]]></body>
+  
+  <user>
+    <id>25545124</id>
+    <name>Vanessa</name>
+    <display_name>Vanessa</display_name>
+
+    <location>Sydney, NSW, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25545124-vanessa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1479593976p3/25545124.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1479593976p2/25545124.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 25 13:44:47 -0800 2017</created_at>
+  <updated_at>Wed Jan 25 13:44:47 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>163135780</id>
+  <body><![CDATA[Vanessa --- beautiful review. I'm sorry I was so late finding your comment -and this heartfelt review --(thank you) --<br />I just get so behind --<br />With the floods here in San Jose --and being pulled in different directions -- -well, please forgive me.<br /><br />I give this book to people who haven't read it, (I've own about a dozen copies at one time or another to pass as gifts)]]></body>
+  
+  <user>
+    <id>597461</id>
+    <name>Elyse</name>
+    <display_name>Elyse</display_name>
+
+    <location>San Jose, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/597461-elyse]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1319931381p3/597461.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1319931381p2/597461.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Feb 22 15:13:35 -0800 2017</created_at>
+  <updated_at>Wed Feb 22 15:13:35 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>163149196</id>
+  <body><![CDATA[Thanks so much Elyse. They really need to fix this problem with lack of notifications. Most annoying! I hope your ok! No good when dealing with inclement weather. I was reluctant reading "another" holocaust book but this is a must read and so very deserving to be read by EVERYONE]]></body>
+  
+  <user>
+    <id>25545124</id>
+    <name>Vanessa</name>
+    <display_name>Vanessa</display_name>
+
+    <location>Sydney, NSW, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25545124-vanessa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1479593976p3/25545124.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1479593976p2/25545124.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Feb 22 23:16:48 -0800 2017</created_at>
+  <updated_at>Wed Feb 22 23:16:48 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>163149781</id>
+  <body><![CDATA[Wonderful review, Vanessa!!]]></body>
+  
+  <user>
+    <id>15662887</id>
+    <name>Deanna </name>
+    <display_name>Deanna </display_name>
+
+    <location>Winnipeg, MB, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15662887-deanna]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1437589889p3/15662887.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1437589889p2/15662887.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Feb 22 23:48:12 -0800 2017</created_at>
+  <updated_at>Wed Feb 22 23:48:12 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>163150631</id>
+  <body><![CDATA[Thank you Deanna!]]></body>
+  
+  <user>
+    <id>25545124</id>
+    <name>Vanessa</name>
+    <display_name>Vanessa</display_name>
+
+    <location>Sydney, NSW, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25545124-vanessa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1479593976p3/25545124.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1479593976p2/25545124.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Feb 23 00:29:22 -0800 2017</created_at>
+  <updated_at>Thu Feb 23 00:29:22 -0800 2017</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1387229613]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1387229613]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

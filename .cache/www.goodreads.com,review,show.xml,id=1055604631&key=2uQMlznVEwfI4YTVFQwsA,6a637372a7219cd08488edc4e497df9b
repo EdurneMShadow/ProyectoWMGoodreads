@@ -1,0 +1,463 @@
+status: 200
+x-request-id: MDHQCAW80SPMG4T8MCDX
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=1055604631&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhg2NTctODczNTA4MS00Mzg4NzE0BjoGRVQ%3D--24810543fc2fa766c878c95d7289f38166bced06;
+ path=/; expires=Wed, 15 Apr 2037 15:23:51 -0000, locale=es;
+ path=/, _session_id2=01a5976ecdfd778e96c819d1b2a6eebb; path=/;
+ expires=Sat, 15 Apr 2017 21:23:51 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 16718
+server: Server
+x-runtime: 0.394727
+etag: W/"cba0008d1d5469b7b9c8e6c6ea06c1fa"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:23:51 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1055604631</id>
+    
+  <user>
+    <id>34369915</id>
+    <name>Etnik</name>
+    <display_name>Etnik</display_name>
+
+    <location>Albania</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34369915-etnik]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1429997911p3/34369915.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1429997911p2/34369915.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">3</id>
+  <isbn>0439554934</isbn>
+  <isbn13>9780439554930</isbn13>
+  <text_reviews_count type="integer">55568</text_reviews_count>
+  <title>Harry Potter and the Sorcerer's Stone (Harry Potter, #1)</title>
+  <title_without_series>Harry Potter and the Sorcerer's Stone</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1474154022m/3.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1474154022s/3.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone</link>
+  <num_pages>320</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Arthur A. Levine Books</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>1997</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.44</average_rating>
+  <ratings_count>4576472</ratings_count>
+  <description>Harry Potter's life is miserable. His parents are dead and he's stuck with his heartless relatives, who force him to live in a tiny closet under the stairs. But his fortune changes when he receives a letter that tells him the truth about himself: he's a wizard. A mysterious visitor rescues him from his relatives and takes him to his new home, Hogwarts School of Witchcraft and Wizardry.&lt;br /&gt;&lt;br /&gt;After a lifetime of bottling up his magical powers, Harry finally feels like a normal kid. But even within the Wizarding community, he is special. He is the boy who lived: the only person to have ever survived a killing curse inflicted by the evil Lord Voldemort, who launched a brutal takeover of the Wizarding world, only to vanish after failing to kill Harry.&lt;br /&gt;&lt;br /&gt;Though Harry's first year at Hogwarts is the best of his life, not everything is perfect. There is a dangerous secret object hidden within the castle walls, and Harry believes it's his responsibility to prevent it from falling into evil hands. But doing so will bring him into contact with forces more terrifying than he ever could have imagined.&lt;br /&gt;&lt;br /&gt;Full of sympathetic characters, wildly imaginative situations, and countless exciting details, the first installment in the series assembles an unforgettable magical world and sets the stage for many high-stakes adventures to come.</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1415945171p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1415945171p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.42</average_rating>
+<ratings_count>17561506</ratings_count>
+<text_reviews_count>435220</text_reviews_count>
+</author>
+</authors>
+  <published>1997</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">572485910</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Mon Sep 15 09:44:15 -0700 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>488</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="children-fiction" exclusive="false" review_shelf_id="906595469" sortable="false" />
+    <shelf name="favorite-authors" exclusive="false" review_shelf_id="906595501" sortable="false" />
+    <shelf name="ya" exclusive="false" review_shelf_id="906595648" sortable="false" />
+    <shelf name="mystery" exclusive="false" review_shelf_id="906595567" sortable="false" />
+    <shelf name="series" exclusive="false" review_shelf_id="906595627" sortable="false" />
+    <shelf name="fantasy" exclusive="false" review_shelf_id="906595494" sortable="false" />
+    <shelf name="favorites" exclusive="false" review_shelf_id="906595509" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Sep 15 09:44:15 -0700 2014</date_added>
+  <date_updated>Fri Oct 07 06:13:32 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<img src="http://data3.whicdn.com/images/5022741/large.jpg" width="400" height="250" alt="description" class="gr-hostedUserImg" />]]>
+  </body>
+
+  
+
+  <comments_count>14</comments_count>
+    <comments start="1" end="14" total="14">
+        <comment>
+  <id>114208217</id>
+  <body><![CDATA[The movies are NOTHING compared to the books. And they are <i>really</i> different to them...]]></body>
+  
+  <user>
+    <id>19590155</id>
+    <name>Vane</name>
+    <display_name>Vane J.</display_name>
+
+    <location>San José, 08, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/19590155-vane-j]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1468102148p3/19590155.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1468102148p2/19590155.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 07 13:34:37 -0800 2015</created_at>
+  <updated_at>Sat Feb 07 13:34:37 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>114208639</id>
+  <body><![CDATA[<i>Vane wrote: "The movies are NOTHING compared to the books. And they are really different to them..."</i><br /><br />I know,I have read and re-read them all for a lot of times:)]]></body>
+  
+  <user>
+    <id>34369915</id>
+    <name>Etnik</name>
+    <display_name>Etnik</display_name>
+
+    <location>Albania</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34369915-etnik]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1429997911p3/34369915.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1429997911p2/34369915.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 07 13:43:00 -0800 2015</created_at>
+  <updated_at>Sat Feb 07 13:43:00 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>114214802</id>
+  <body><![CDATA[<i>Etnik wrote: "Vane wrote: "The movies are NOTHING compared to the books. And they are really different to them..."<br /><br />I know,I have read and re-read them all for a lot of times:)"</i><br /><br />Lol, I thought this was the first time you read them xD You wouldn't have been the first person to tell me that you haven't read HP...but I'm glad you've read them and that you loved them :)]]></body>
+  
+  <user>
+    <id>19590155</id>
+    <name>Vane</name>
+    <display_name>Vane J.</display_name>
+
+    <location>San José, 08, Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/19590155-vane-j]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1468102148p3/19590155.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1468102148p2/19590155.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 07 15:45:29 -0800 2015</created_at>
+  <updated_at>Sat Feb 07 15:45:29 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>114313403</id>
+  <body><![CDATA[These never get old!]]></body>
+  
+  <user>
+    <id>2209138</id>
+    <name>Dali</name>
+    <display_name>Dali</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2209138-dali]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1407260301p3/2209138.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1407260301p2/2209138.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 09 11:16:04 -0800 2015</created_at>
+  <updated_at>Mon Feb 09 11:16:04 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>115607464</id>
+  <body><![CDATA[Love dat pic!!!!]]></body>
+  
+  <user>
+    <id>38682006</id>
+    <name>Juwairiyah</name>
+    <display_name>Juwairiyah Sa-eed Abubakar</display_name>
+
+    <location>Milwaukee, WI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/38682006-juwairiyah-sa-eed-abubakar]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1426298132p3/38682006.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1426298132p2/38682006.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 04 11:08:36 -0800 2015</created_at>
+  <updated_at>Wed Mar 04 11:08:36 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>117355220</id>
+  <body><![CDATA[<a href="http://s655.photobucket.com/user/sickchicxx/media/sweet.jpg.html" target="_blank" rel="nofollow">
+  <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1428444320i/14424798.jpg" alt="Sweet photo sweet.jpg" class="gr-hostedUserImg"></a>]]></body>
+  
+  <user>
+    <id>9940251</id>
+    <name>Maria</name>
+    <display_name>Maria</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9940251-maria]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1458826998p3/9940251.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1458826998p2/9940251.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Apr 07 15:05:48 -0700 2015</created_at>
+  <updated_at>Tue Apr 07 15:05:48 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>117380028</id>
+  <body><![CDATA[&lt;3]]></body>
+  
+  <user>
+    <id>34369915</id>
+    <name>Etnik</name>
+    <display_name>Etnik</display_name>
+
+    <location>Albania</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34369915-etnik]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1429997911p3/34369915.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1429997911p2/34369915.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Apr 08 04:16:42 -0700 2015</created_at>
+  <updated_at>Wed Apr 08 04:16:42 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>117386902</id>
+  <body><![CDATA[I have fond memories of this book :)]]></body>
+  
+  <user>
+    <id>27196491</id>
+    <name>Tavona</name>
+    <display_name>Tavona</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27196491-tavona]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1401819647p3/27196491.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1401819647p2/27196491.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Apr 08 07:34:39 -0700 2015</created_at>
+  <updated_at>Wed Apr 08 07:34:39 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>140210149</id>
+  <body><![CDATA[No]]></body>
+  
+  <user>
+    <id>47015598</id>
+    <name>brionna</name>
+    <display_name>brionna</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/47015598-brionna]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Sep 15 15:58:26 -0700 2015</created_at>
+  <updated_at>Tue Sep 15 15:58:26 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>153724185</id>
+  <body><![CDATA[Awww ^.^]]></body>
+  
+  <user>
+    <id>35190712</id>
+    <name>Maria</name>
+    <display_name>Maria</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/35190712-maria]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1423234353p3/35190712.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1423234353p2/35190712.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jul 02 08:03:30 -0700 2016</created_at>
+  <updated_at>Sat Jul 02 08:03:30 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>154705907</id>
+  <body><![CDATA[Hello]]></body>
+  
+  <user>
+    <id>57507586</id>
+    <name>Dave Healey</name>
+    <display_name>Dave Healey</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/57507586-dave-healey]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Jul 25 08:56:00 -0700 2016</created_at>
+  <updated_at>Mon Jul 25 08:56:00 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157077846</id>
+  <body><![CDATA[The best in the series]]></body>
+  
+  <user>
+    <id>58383972</id>
+    <name>Annuroopa</name>
+    <display_name>Annuroopa</display_name>
+
+    <location>Kolkata, 28, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/58383972-annuroopa]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Sep 20 20:03:37 -0700 2016</created_at>
+  <updated_at>Tue Sep 20 20:03:37 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157161390</id>
+  <body><![CDATA[None other than J.K.Rowling]]></body>
+  
+  <user>
+    <id>59913024</id>
+    <name>Kirti</name>
+    <display_name>Kirti Thakur</display_name>
+
+    <location>Pune, 16, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/59913024-kirti-thakur]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 23 02:59:09 -0700 2016</created_at>
+  <updated_at>Fri Sep 23 02:59:09 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>162364050</id>
+  <body><![CDATA[this book is amazing.(literly!)number2-7 weren't to bad but in number 5 there was too much kissing.]]></body>
+  
+  <user>
+    <id>37218615</id>
+    <name><![CDATA[jeremiah726123432458lynch has cash(A LOT).]]></name>
+    <display_name><![CDATA[jeremiah726123432458lynch has cash(A LOT).]]></display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/37218615-jeremiah726123432458lynch-has-cash-a-lot]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 03 22:55:29 -0800 2017</created_at>
+  <updated_at>Fri Feb 03 22:55:29 -0800 2017</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1055604631]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1055604631]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

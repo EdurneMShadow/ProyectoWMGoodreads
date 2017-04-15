@@ -1,0 +1,295 @@
+status: 200
+x-request-id: 221QKQG6C3HER30QAA75
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=619092028&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhg3MzUtNDE0NzQ2Ny03MzUzNjc4BjoGRVQ%3D--2a19a7a5538051076e8c43c4961de8e8e7736d98;
+ path=/; expires=Wed, 15 Apr 2037 15:44:13 -0000, locale=es;
+ path=/, _session_id2=83a36608045a0b1b913fdd73e3afb5de; path=/;
+ expires=Sat, 15 Apr 2017 21:44:14 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 9856
+server: Server
+x-runtime: 0.355680
+etag: W/"289762e2bef3180fcd850d61e9ecb75e"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:44:14 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>619092028</id>
+    
+  <user>
+    <id>53165</id>
+    <name>Warwick</name>
+    <display_name>Warwick</display_name>
+
+    <location>Zürich, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/53165-warwick]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1469274171p3/53165.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1469274171p2/53165.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">968</id>
+  <isbn>0307277674</isbn>
+  <isbn13>9780307277671</isbn13>
+  <text_reviews_count type="integer">32769</text_reviews_count>
+  <title>The Da Vinci Code (Robert Langdon, #2)</title>
+  <title_without_series>The Da Vinci Code</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1303252999m/968.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1303252999s/968.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/968.The_Da_Vinci_Code</link>
+  <num_pages>481</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Anchor</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.78</average_rating>
+  <ratings_count>1524831</ratings_count>
+  <description>An ingenious code hidden in the works of Leonardo da Vinci. A desperate race through the cathedrals and castles of Europe. An astonishing truth concealed for centuries . . . unveiled at last.&lt;br /&gt;&lt;br /&gt;While in Paris, Harvard symbologist Robert Langdon is awakened by a phone call in the dead of the night. The elderly curator of the Louvre has been murdered inside the museum, his body covered in baffling symbols. As Langdon and gifted French cryptologist Sophie Neveu sort through the bizarre riddles, they are stunned to discover a trail of clues hidden in the works of Leonardo da Vinci—clues visible for all to see and yet ingeniously disguised by the painter.&lt;br /&gt;&lt;br /&gt;Even more startling, the late curator was involved in the Priory of Sion—a secret society whose members included Sir Isaac Newton, Victor Hugo, and Da Vinci—and he guarded a breathtaking historical secret. Unless Langdon and Neveu can decipher the labyrinthine puzzle—while avoiding the faceless adversary who shadows their every move—the explosive, ancient truth will be lost forever.</description>
+<authors>
+<author>
+<id>630</id>
+<name>Dan Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p5/630.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p2/630.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/630.Dan_Brown]]></link>
+<average_rating>3.77</average_rating>
+<ratings_count>5177586</ratings_count>
+<text_reviews_count>138137</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">25750133</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sat May 18 23:22:25 -0700 2013</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>67</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="dont-own" exclusive="false" review_shelf_id="442294711" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sat Jan 01 00:00:00 -0800 2005</read_at>
+  <date_added>Sat May 18 23:22:25 -0700 2013</date_added>
+  <date_updated>Thu May 12 04:37:23 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Exciting news for the blind and partially-sighted community, as the publishers release a Braille version:<br /><br /><img src="http://ecx.images-amazon.com/images/I/81Q6BWm1maL._SL1500_.jpg" width="300" class="gr-hostedUserImg" />]]>
+  </body>
+
+  
+
+  <comments_count>7</comments_count>
+    <comments start="1" end="7" total="7">
+        <comment>
+  <id>151519722</id>
+  <body><![CDATA[Ouch ... Lol]]></body>
+  
+  <user>
+    <id>14475342</id>
+    <name>Abubakar</name>
+    <display_name>Abubakar Mehdi</display_name>
+
+    <location>Pakistan</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14475342-abubakar-mehdi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1462476008p3/14475342.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1462476008p2/14475342.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed May 11 00:16:44 -0700 2016</created_at>
+  <updated_at>Wed May 11 00:16:44 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151520410</id>
+  <body><![CDATA[:p]]></body>
+  
+  <user>
+    <id>31520235</id>
+    <name>Sohini</name>
+    <display_name>Sohini Sarker</display_name>
+
+    <location>Kolkata, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/31520235-sohini-sarker]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1467561359p3/31520235.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1467561359p2/31520235.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed May 11 00:57:26 -0700 2016</created_at>
+  <updated_at>Wed May 11 00:57:26 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151527260</id>
+  <body><![CDATA[That's awesome.]]></body>
+  
+  <user>
+    <id>3722823</id>
+    <name>Thing Two</name>
+    <display_name>Thing Two</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3722823-thing-two]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1482287774p3/3722823.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1482287774p2/3722823.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed May 11 07:12:19 -0700 2016</created_at>
+  <updated_at>Wed May 11 07:12:19 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151553708</id>
+  <body><![CDATA[that's grate!]]></body>
+  
+  <user>
+    <id>2375838</id>
+    <name>Cheryl</name>
+    <display_name>Cheryl</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2375838-cheryl]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1315208964p3/2375838.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1315208964p2/2375838.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed May 11 18:14:19 -0700 2016</created_at>
+  <updated_at>Wed May 11 18:14:19 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151559911</id>
+  <body><![CDATA[Heh.]]></body>
+  
+  <user>
+    <id>53165</id>
+    <name>Warwick</name>
+    <display_name>Warwick</display_name>
+
+    <location>Zürich, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/53165-warwick]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1469274171p3/53165.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1469274171p2/53165.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed May 11 21:32:03 -0700 2016</created_at>
+  <updated_at>Wed May 11 21:32:03 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151566080</id>
+  <body><![CDATA[<img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1463050230i/19076338._SX540_.jpg" class="gr-hostedUserImg"><br>Also available in French translation, just the right size to grate the paperback version of the book.]]></body>
+  
+  <user>
+    <id>23385697</id>
+    <name>Glenn</name>
+    <display_name>Glenn Russell</display_name>
+
+    <location>Philadelphia, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23385697-glenn-russell]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1485712614p3/23385697.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1485712614p2/23385697.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 12 03:50:30 -0700 2016</created_at>
+  <updated_at>Thu May 12 03:50:30 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151573404</id>
+  <body><![CDATA[Lol, :p]]></body>
+  
+  <user>
+    <id>41289357</id>
+    <name>Maica</name>
+    <display_name>Maica</display_name>
+
+    <location>Angeles City, Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/41289357-maica]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1474736267p3/41289357.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1474736267p2/41289357.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 12 07:55:48 -0700 2016</created_at>
+  <updated_at>Thu May 12 07:55:48 -0700 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/619092028]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/619092028]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

@@ -1,0 +1,944 @@
+status: 200
+x-request-id: X1Z1NGDTKD6JAPXJ2Q1H
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=1426951998&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhg0NzMtNDI5MDM4Mi0zMzkxNDY1BjoGRVQ%3D--eba43c11dece1841ad5219c0132ddc573cde20ac;
+ path=/; expires=Wed, 15 Apr 2037 15:22:55 -0000, locale=es;
+ path=/, _session_id2=e29b7ee81315b8f99d2eb611c8a01319; path=/;
+ expires=Sat, 15 Apr 2017 21:22:57 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 49886
+server: Server
+x-runtime: 1.279846
+etag: W/"a0bf7b5a5a76e45134f92761fb93a258"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:22:57 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1426951998</id>
+    
+  <user>
+    <id>13592557</id>
+    <name>Mohammed</name>
+    <display_name>Mohammed Arabey</display_name>
+
+    <location>Alexandria, 06, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13592557-mohammed-arabey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1364338486p3/13592557.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1364338486p2/13592557.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">24548235</id>
+  <isbn>1408845644</isbn>
+  <isbn13>9781408845646</isbn13>
+  <text_reviews_count type="integer">803</text_reviews_count>
+  <title>Harry Potter and the Philosopher's Stone</title>
+  <title_without_series>Harry Potter and the Philosopher's Stone</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1451727490m/24548235.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1451727490s/24548235.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/24548235-harry-potter-and-the-philosopher-s-stone</link>
+  <num_pages>248</num_pages>
+  <format>Hardcover</format>
+  <edition_information>UK Illustrated Edition</edition_information>
+  <publisher>Bloomsbury</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.44</average_rating>
+  <ratings_count>4576472</ratings_count>
+  <description>&lt;i&gt;Alternate cover for this ISBN can be found &lt;a href="https://www.goodreads.com/book/show/28550610-harry-potter-and-the-sorcerer-s-stone" rel="nofollow"&gt;here&lt;/a&gt;&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Prepare to be spellbound by Jim Kay's dazzling depiction of the wizarding world and much loved characters in this full-colour illustrated hardback edition of the nation's favourite children's book – &lt;i&gt;Harry Potter and the Philosopher's Stone&lt;/i&gt;. Brimming with rich detail and humour that perfectly complements J.K. Rowling's timeless classic, Jim Kay's glorious illustrations will captivate fans and new readers alike. &lt;br /&gt;&lt;br /&gt;When a letter arrives for unhappy but ordinary Harry Potter, a decade-old secret is revealed to him that apparently he's the last to know. His parents were wizards, killed by a Dark Lord's curse when Harry was just a baby, and which he somehow survived. Leaving his unsympathetic aunt and uncle for Hogwarts School of Witchcraft and Wizardry, Harry stumbles upon a sinister mystery when he finds a three-headed dog guarding a room on the third floor. Then he hears of a missing stone with astonishing powers, which could be valuable, dangerous – or both. An incredible adventure is about to begin!</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1415945171p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1415945171p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.42</average_rating>
+<ratings_count>17561506</ratings_count>
+<text_reviews_count>435220</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">81096531</id>
+          <page type="integer">256</page>
+          <chapter type="integer">16</chapter>
+          <comments_count>4</comments_count>
+          <created_at type="datetime">Fri Nov 27 17:42:05 -0800 2015</created_at>
+          <updated_at type="datetime">Fri Nov 27 17:42:55 -0800 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">2</ratings_count>
+          <percent type="integer">100</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.d142215ff255fde9e074e1bc329e9ba6</note_uri>
+          <note_updated_at type="datetime">Fri Nov 27 17:42:55 -0800 2015</note_updated_at>
+          <body><![CDATA[Chapter 16<br><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1448674926i/17174581._SY540_.jpg" width="455" height="808" alt="" class="gr-hostedUserImg"><br> ِAnd the end of One of the Most important work of Literature...<br><br> Almost every secret is out, every plot perfectly concluded even if you read only this one..<br><br> I just LOVE Harry Potter, I adore Rowling's style of storytelling..<br><br> And the illustrated edition though we craved for more..still magical enough.<br><br> To be full covered]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">81091818</id>
+          <page type="integer">230</page>
+          <chapter type="integer">15</chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Nov 27 15:55:20 -0800 2015</created_at>
+          <updated_at type="datetime">Fri Nov 27 15:55:42 -0800 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">3</ratings_count>
+          <percent type="integer">89</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.94931560ff32ca6389ef87e6417415f9</note_uri>
+          <note_updated_at type="datetime">Fri Nov 27 15:55:42 -0800 2015</note_updated_at>
+          <body><![CDATA[Chapter 15<br><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1448652296i/17171125._SX540_.jpg" width="455" height="255" alt="" class="gr-hostedUserImg"><br> I forget that in the forest, Centaurs were really creepy, and <b>Mars was Bright that night</b>. <br> the illustrations here was nice..<br><br> &amp;Chapter 16<br><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1448652296i/17171126._SX540_.jpg" width="455" height="255" alt="" class="gr-hostedUserImg"><br> I love the summing up of the exams days at Hogwarts...<br> &amp;,NOW THE FINALE of the most amazing novel ever.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">80973367</id>
+          <page type="integer">198</page>
+          <chapter type="integer">13</chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Nov 25 14:28:48 -0800 2015</created_at>
+          <updated_at type="datetime">Wed Nov 25 14:29:06 -0800 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">77</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.19c63c428c9281baeb97d5dea43874d8</note_uri>
+          <note_updated_at type="datetime">Wed Nov 25 14:29:06 -0800 2015</note_updated_at>
+          <body><![CDATA[Chapter 13<br><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1448490528i/17149307._SX540_.jpg" width="455" height="255" alt="" class="gr-hostedUserImg"><br> TheOne when every child in our world knows about z <b>Philosopher's Stone</b><br> &amp; I love the reaction of the trio with Snape’s desire to be a Quidditch referee.<br><br> &amp;Chapter 14<br><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1448490528i/17149308._SX540_.jpg" width="455" height="255" alt="" class="gr-hostedUserImg"><br> The Dance with <b>Dragons</b><br> Full of nice illustrations of otherDragonBooks]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">80883995</id>
+          <page type="integer">174</page>
+          <chapter type="integer">12</chapter>
+          <comments_count>2</comments_count>
+          <created_at type="datetime">Tue Nov 24 07:53:09 -0800 2015</created_at>
+          <updated_at type="datetime">Tue Nov 24 07:53:53 -0800 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">2</ratings_count>
+          <percent type="integer">67</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.5c5d6d031c49106e4eaf08fb417709b8</note_uri>
+          <note_updated_at type="datetime">Tue Nov 24 07:53:53 -0800 2015</note_updated_at>
+          <body><![CDATA[Chapter 12<br><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1448380389i/17132187._SX540_.jpg" width="455" height="255" alt="" class="gr-hostedUserImg"><br> Christmas in Hogwarts.<br> The chapter really needed a lot more Xmas theme, wasn't as elegant as Rowling described in her perfect way.<br> I mean, come on, where's the Great Hall's Xmas trees or the icy cold corridors with moonlight.<br> but this page was good<br><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1448380389i/17132188.jpg" width="425" height="483" alt="" class="gr-hostedUserImg">]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">80744578</id>
+          <page type="integer">158</page>
+          <chapter type="integer">11</chapter>
+          <comments_count>2</comments_count>
+          <created_at type="datetime">Sun Nov 22 08:40:43 -0800 2015</created_at>
+          <updated_at type="datetime">Sun Nov 22 08:40:50 -0800 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">2</ratings_count>
+          <percent type="integer">61</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.252767077dd10b1627e31e2ec41a5d8a</note_uri>
+          <note_updated_at type="datetime">Sun Nov 22 08:40:50 -0800 2015</note_updated_at>
+          <body><![CDATA[Chapter 11<br><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1448210443i/17109720._SX540_.jpg" width="455" height="255" alt="" class="gr-hostedUserImg"><br> Quidditch..<br><br> I really love how how the story structured..easy going into this strange magical world.<br><br> I wanted more of the illustration by the way and I still miss the pottermore quality ones..<br><br> And something feels a bit odd with Hermione<br><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1448210443i/17109721._SX540_.jpg" width="455" height="295" alt="" class="gr-hostedUserImg">]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">80647686</id>
+          <page type="integer">148</page>
+          <chapter type="integer">9</chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Nov 20 16:01:15 -0800 2015</created_at>
+          <updated_at type="datetime">Fri Nov 20 16:01:54 -0800 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">57</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.92a8fc69cc5e463dff60e9f83e961839</note_uri>
+          <note_updated_at type="datetime">Fri Nov 20 16:01:54 -0800 2015</note_updated_at>
+          <body><![CDATA[Chapter 9<br><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1448064075i/17088540._SX540_.jpg" width="455" height="255" alt="" class="gr-hostedUserImg"><br> I love the early school life..<b><br> “And what if I wave my wand and nothing happens?”<br> “Throw it away and punch him on the nose,” Ron suggested</b><br> And Chapter 10<br><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1448064075i/17088541._SX540_.jpg" width="455" height="255" alt="" class="gr-hostedUserImg"><br><b>Levi-O-sa<br><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1448064075i/17088542._SX540_.jpg" width="455" height="255" alt="" class="gr-hostedUserImg"></b>]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">80580153</id>
+          <page type="integer">117</page>
+          <chapter type="integer">7</chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Nov 19 16:34:51 -0800 2015</created_at>
+          <updated_at type="datetime">Thu Nov 19 16:35:03 -0800 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">6</ratings_count>
+          <percent type="integer">45</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.dc76c318f6e93383b49b86f805e5c854</note_uri>
+          <note_updated_at type="datetime">Thu Nov 19 16:35:03 -0800 2015</note_updated_at>
+          <body><![CDATA[Chapter 7<br><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1447979691i/17075981._SX540_.jpg" width="455" height="255" alt="" class="gr-hostedUserImg"><br> First Day at Hogwarts<br><b>If only the hat had mentioned a House for people who<br> felt a bit queasy, that would have been the one for him."</b><br> We understand that feeling, Harry :)<br><br> AND<br> Chapter 8<br><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1447979691i/17075982._SX540_.jpg" width="455" height="255" alt="" class="gr-hostedUserImg"><br> And the AMAZING line<br><br><b>"Our New -<i>celebrity</i>"</b>]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">80488793</id>
+          <page type="integer">87</page>
+          <chapter type="integer">6</chapter>
+          <comments_count>4</comments_count>
+          <created_at type="datetime">Wed Nov 18 09:48:05 -0800 2015</created_at>
+          <updated_at type="datetime">Wed Nov 18 09:48:45 -0800 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">4</ratings_count>
+          <percent type="integer">33</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.9c7176fb32ebb4ef1db96814caf3a60f</note_uri>
+          <note_updated_at type="datetime">Wed Nov 18 09:48:45 -0800 2015</note_updated_at>
+          <body><![CDATA[Chapter 6<br><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1447868885i/17060142._SX540_.jpg" width="455" height="256" alt="" class="gr-hostedUserImg"><br> I love The Weasley's<br><b>“Oh, are you a prefect, Percy?”said one of the twins, with an air of great surprise. “You should have said something,we had no Idea"<br> “Hang on, I think I remember him saying something about it,”said the other twin.<br> “Once —”<br> “Or twice —”<br> “A minute —”<br> “All summer —”<br> “Oh, shut up,”said Percy the Prefect.</b>]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">80364194</id>
+          <page type="integer">73</page>
+          <chapter type="integer">5</chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Nov 16 15:57:24 -0800 2015</created_at>
+          <updated_at type="datetime">Mon Nov 16 15:58:10 -0800 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">6</ratings_count>
+          <percent type="integer">28</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.daa196ea3224e47d5b2e66520964d822</note_uri>
+          <note_updated_at type="datetime">Mon Nov 16 15:58:10 -0800 2015</note_updated_at>
+          <body><![CDATA[Chapter 5<br><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1447718074i/17040905._SY540_.jpg" width="455" height="635" alt="" class="gr-hostedUserImg"><br> "My Suzy sleeps today, in the biggest chapter so far, just as the Giant Hagrid in the chapter's art.<br><i>Oh, and do you remember the Troll from Chapter 4's art-the Keys chain,here it is,on top:)</i><br> And it's the Diagon Ally's Chapter ,so<br><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1447718074i/17040906.jpg" width="455" height="252" alt="" class="gr-hostedUserImg"><br> Just Love it :)]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">80256702</id>
+          <page type="integer">52</page>
+          <chapter type="integer">4</chapter>
+          <comments_count>3</comments_count>
+          <created_at type="datetime">Sun Nov 15 07:18:14 -0800 2015</created_at>
+          <updated_at type="datetime">Sun Nov 15 07:18:33 -0800 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">6</ratings_count>
+          <percent type="integer">20</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.b63a0a0059ce04bb4ae33673a11ebe17</note_uri>
+          <note_updated_at type="datetime">Sun Nov 15 07:18:33 -0800 2015</note_updated_at>
+          <body><![CDATA[Chapter 4<br><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1447600694i/17026084._SX540_.jpg" width="455" height="256" alt="" class="gr-hostedUserImg"><br> The Keeper of the Keys...<br> when it takes 20% the book for Harry to know that <b>"Yer a Wizard, Harry"</b><br><br> PS: I love the little 90s tiny Troll in the illustration of the Keys in the chain.<br> gave me nostalgia.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">80162718</id>
+          <page type="integer">37</page>
+          <chapter type="integer">2</chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Nov 13 16:43:36 -0800 2015</created_at>
+          <updated_at type="datetime">Fri Nov 13 16:44:04 -0800 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">14</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.be7ef803c91c0ab918fecccbe990b20a</note_uri>
+          <note_updated_at type="datetime">Fri Nov 13 16:44:04 -0800 2015</note_updated_at>
+          <body><![CDATA[Chapter 2 <br><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1447461816i/17008264._SX540_.jpg" width="455" height="255" alt="" class="gr-hostedUserImg"><br> ِWith the weird name of Duddly's Friend Piers Polkiss-which triggered A LOT of false theories back then specially when we know about Miss Figg true identity.<br><br> And Chapter three <br><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1447461816i/17008265._SX540_.jpg" width="455" height="255" alt="" class="gr-hostedUserImg"><br> I laugh everytime I read the fight of who gets the mail :)]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">80090062</id>
+          <page type="integer">13</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Nov 12 15:14:29 -0800 2015</created_at>
+          <updated_at type="datetime">Thu Nov 12 15:14:46 -0800 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">5</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.26f54d5e780285b94a3a30225df6ca73</note_uri>
+          <note_updated_at type="datetime">Thu Nov 12 15:14:46 -0800 2015</note_updated_at>
+          <body><![CDATA[The Sweet look of the chapter openings..<br> And today I read 1st one..<br> &gt; <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1447370069i/16994285._SX540_.jpg" width="455" height="255" alt="" class="gr-hostedUserImg"><br><br> Why I can't get bored of reading this..<br><br><b>there will be books written about Harry<br> — every child in our world will know his name!”<br></b><br> Indeed professor McGonagall :) ...He is indeed..]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">79998481</id>
+          <page type="integer">0</page>
+          <chapter type="integer"></chapter>
+          <comments_count>6</comments_count>
+          <created_at type="datetime">Wed Nov 11 10:21:10 -0800 2015</created_at>
+          <updated_at type="datetime">Wed Nov 11 10:21:31 -0800 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">3</ratings_count>
+          <percent type="integer">0</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.9b8405424a86aeb817ecaea6d778c357</note_uri>
+          <note_updated_at type="datetime">Wed Nov 11 10:21:31 -0800 2015</note_updated_at>
+          <body><![CDATA[A deserved rest after the overwhelming emotions of <a href="https://www.goodreads.com/review/show/1197590458" rel="nofollow">Career of Evil</a>.<br> Nothing serious, as I said in CoE review..I really can't start smthin new after it<br><br> Just a beloved novel I read for may be 10+time, But this time with my precious new <b>Illustrated Edition</b><br><br><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1445990314i/16729975._SX540_.jpg" width="455" height="307" alt="" class="gr-hostedUserImg"><br> with my cat]]></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">1087164599</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Fri Nov 27 17:43:19 -0800 2015</updated_at>
+          <ratings_count>1</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1069141208</id>
+          <old_status>to-read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Wed Nov 11 10:08:15 -0800 2015</updated_at>
+          <ratings_count>4</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1052205759</id>
+          <old_status></old_status>
+          <status>to-read</status>
+          <updated_at type="datetime">Tue Oct 27 17:19:57 -0700 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>139</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Nov 11 00:00:00 -0800 2015</started_at>
+  <read_at>Fri Nov 27 00:00:00 -0800 2015</read_at>
+  <date_added>Tue Oct 27 17:19:56 -0700 2015</date_added>
+  <date_updated>Fri Feb 17 11:24:36 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[<b><i>“He’ll be famous, a legend, there will be books written about Harry, every child in our world will know his name!”</i><br /><img src="http://i.imgur.com/KFGfIE8.jpg" width="450" height="367" class="gr-hostedUserImg" /><br />This line was written 1997, in the very 1st chapter of the very 1st book of a series that been rejected by many publishing houses.</b><i> <a href="https://www.goodreads.com/review/show/1053147591" rel="nofollow">But I've talked about that before.</a></i><br />So let's see here,...]]>
+  </body>
+
+  
+
+  <comments_count>26</comments_count>
+    <comments start="1" end="26" total="26">
+        <comment>
+  <id>142060191</id>
+  <body><![CDATA[You're soooo lucky :( :( .. The budget and the stores won't allow me to read it :/]]></body>
+  
+  <user>
+    <id>14485406</id>
+    <name>Raoofa</name>
+    <display_name>Raoofa Ibrahim</display_name>
+
+    <location>Amman, Jordan</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14485406-raoofa-ibrahim]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487361770p3/14485406.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487361770p2/14485406.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 27 20:06:26 -0700 2015</created_at>
+  <updated_at>Tue Oct 27 20:06:26 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>142067117</id>
+  <body><![CDATA[<i>Raoofa wrote: "You're soooo lucky :( :( .. The budget and the stores won't allow me to read it :/"</i><br /><br />Ok, Let me tell u a secret about this particular one<br />Amazon.co.uk make it in half price, + shipping from UK to Egypt would be still less than its price..<br />+ I check amazon.co.uk daily ,thrice a day or even more, I had that offer one day FOR ONLY ONE DAY to have a 10 GBP off any order over 40, so I grab this chance...and GOT my Deal :)<br /><br />Also for other books we have in Egypt a great book store that make a good discounts and points system all the time " <a target="_blank" href="http://www.cherryblossom-books.com" rel="nofollow">http://www.cherryblossom-books.com</a> "<br />which is really helpful :)]]></body>
+  
+  <user>
+    <id>13592557</id>
+    <name>Mohammed</name>
+    <display_name>Mohammed Arabey</display_name>
+
+    <location>Alexandria, 06, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13592557-mohammed-arabey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1364338486p3/13592557.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1364338486p2/13592557.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Oct 28 03:15:45 -0700 2015</created_at>
+  <updated_at>Wed Oct 28 03:15:45 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>142067683</id>
+  <body><![CDATA[I think i will order it online, because it's really cheaper and I can guarantee to read it soon :D]]></body>
+  
+  <user>
+    <id>14485406</id>
+    <name>Raoofa</name>
+    <display_name>Raoofa Ibrahim</display_name>
+
+    <location>Amman, Jordan</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14485406-raoofa-ibrahim]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487361770p3/14485406.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487361770p2/14485406.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Oct 28 03:46:52 -0700 2015</created_at>
+  <updated_at>Wed Oct 28 03:46:52 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>142093534</id>
+  <body><![CDATA[<i>Raoofa wrote: "I think i will order it online, because it's really cheaper and I can guarantee to read it soon :D"</i><br /><br />ISA, I never get bored of re-reading the Harry Potter]]></body>
+  
+  <user>
+    <id>13592557</id>
+    <name>Mohammed</name>
+    <display_name>Mohammed Arabey</display_name>
+
+    <location>Alexandria, 06, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13592557-mohammed-arabey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1364338486p3/13592557.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1364338486p2/13592557.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Oct 28 15:24:30 -0700 2015</created_at>
+  <updated_at>Wed Oct 28 15:24:30 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>143004571</id>
+  <body><![CDATA[wow god!<br />you must love harry potter to buy all of the editions!<br />good for you!!]]></body>
+  
+  <user>
+    <id>48854835</id>
+    <name>saeedeh</name>
+    <display_name>saeedeh</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/48854835-saeedeh]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1447182306p3/48854835.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1447182306p2/48854835.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 18 11:27:30 -0800 2015</created_at>
+  <updated_at>Wed Nov 18 11:27:30 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>143015225</id>
+  <body><![CDATA[<i>saeedeh wrote: "wow god!<br />you must love harry potter to buy all of the editions!<br />good for you!!"</i><br /><br />I really love this books, it's what makes me real reader, and in a way changed my life :)]]></body>
+  
+  <user>
+    <id>13592557</id>
+    <name>Mohammed</name>
+    <display_name>Mohammed Arabey</display_name>
+
+    <location>Alexandria, 06, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13592557-mohammed-arabey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1364338486p3/13592557.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1364338486p2/13592557.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 18 15:39:12 -0800 2015</created_at>
+  <updated_at>Wed Nov 18 15:39:12 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>147616902</id>
+  <body><![CDATA[دايما بتبدع في الريفيوهات ! <br /><br />اديلي حاولي ستة بحاول اخد قرار عشان ابظا كتب هاري بوتر اصل مينفعش اطول كدة و اتحمست اقراهم و عندي احساس انهم هيطلعوني من الريدينغ سلمب اللي انا فيها <br />ممكن لينك امازون اللي جبت منو الادشن الجديد هارد كفر <br />اديلي كتير بدور عليه و مش لاقياه]]></body>
+  
+  <user>
+    <id>31179827</id>
+    <name>Esraa</name>
+    <display_name>Esraa Khalid</display_name>
+
+    <location>Riyadh, Saudi Arabia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/31179827-esraa-khalid]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1459785654p3/31179827.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1459785654p2/31179827.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 15 12:04:15 -0800 2016</created_at>
+  <updated_at>Mon Feb 15 12:04:15 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>147624158</id>
+  <body><![CDATA[<i>Esraa wrote: "دايما بتبدع في الريفيوهات ! <br /><br />اديلي حاولي ستة بحاول اخد قرار عشان ابظا كتب هاري بوتر اصل مينفعش اطول كدة و اتحمست اقراهم و عندي احساس انهم هيطلعوني من الريدينغ سلمب اللي انا فيها <br />ممكن لينك امازون ..."</i><br /><br />اشكرك اتمني فعلا الريفيو يعجبك<br />بالنسبة لامازون في نوع المصور اللي فيه رسوم جديدة، اللي الريفيو ده عنها بس ده الجزء الاول بس التاني اكتوبر الجي ،كل سنة جزء<br />في البوكس سيت كامل نسخة جدبدة بس مش مصورة<br /><br />اختاري الافضل ليكي وهل تفضلي امازون امريكا ام انجلترا]]></body>
+  
+  <user>
+    <id>13592557</id>
+    <name>Mohammed</name>
+    <display_name>Mohammed Arabey</display_name>
+
+    <location>Alexandria, 06, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13592557-mohammed-arabey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1364338486p3/13592557.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1364338486p2/13592557.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 15 14:40:16 -0800 2016</created_at>
+  <updated_at>Mon Feb 15 14:40:16 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159571163</id>
+  <body><![CDATA[This review is beautiful!]]></body>
+  
+  <user>
+    <id>35147071</id>
+    <name><![CDATA[Jenn *The Crimson Dark Lord Scribe, House of Slytheread*]]></name>
+    <display_name><![CDATA[Jenn *The Crimson Dark Lord Scribe, House of Slytheread*]]></display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/35147071-jenn-the-crimson-dark-lord-scribe-house-of-slytheread]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1491306956p3/35147071.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1491306956p2/35147071.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 27 08:40:36 -0800 2016</created_at>
+  <updated_at>Sun Nov 27 08:40:36 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159571574</id>
+  <body><![CDATA[Everyone will be shy to try to write a review about it after this marvellous lovely review ..there is nothing like your reviews about harry<br />ريفيو ملىء بالحب و هذه النسخة النادرة تعطي بعد اخر للرواية..شكرا محمد كان نفسي اراها من زمان:))مبروك عليك و اتمنى ان يكون في وسعك اكمال السلسلة يوما ما بعد الغلب الجديد :(((ا]]></body>
+  
+  <user>
+    <id>44531801</id>
+    <name>Nayra.Hassan</name>
+    <display_name>Nayra.Hassan</display_name>
+
+    <location>Cairo , Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/44531801-nayra-hassan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486080329p3/44531801.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486080329p2/44531801.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 27 08:56:29 -0800 2016</created_at>
+  <updated_at>Sun Nov 27 08:56:29 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159573343</id>
+  <body><![CDATA[ريفيو جميل محمد :)<br />مراجعاتك عن سلسلة هاري بوتر بديل عن مشاهدة الأفلام اللي حاولت اشوفهم وفي كل مرة ما باقدر أكملهم وفي الآخر توقفت عن المحاولة]]></body>
+  
+  <user>
+    <id>11592808</id>
+    <name>Sawsan</name>
+    <display_name>Sawsan</display_name>
+
+    <location>Cairo, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11592808-sawsan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1373322264p3/11592808.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1373322264p2/11592808.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 27 09:50:03 -0800 2016</created_at>
+  <updated_at>Sun Nov 27 09:50:03 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159586954</id>
+  <body><![CDATA[<i>Jenn *The Dark Lord* wrote: "This review is beautiful!"</i><br /><br />Thank you sooo much, glad you loved it.]]></body>
+  
+  <user>
+    <id>13592557</id>
+    <name>Mohammed</name>
+    <display_name>Mohammed Arabey</display_name>
+
+    <location>Alexandria, 06, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13592557-mohammed-arabey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1364338486p3/13592557.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1364338486p2/13592557.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 27 16:59:38 -0800 2016</created_at>
+  <updated_at>Sun Nov 27 16:59:38 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159587040</id>
+  <body><![CDATA[<i>Nayra.Hassan wrote: "Everyone will be shy to try to write a review about it after this marvellous lovely review ..there is nothing like your reviews about harry<br />ريفيو ملىء بالحب و هذه النسخة النادرة تعطي بعد اخر للرواي..."</i><br /><br />تقريبا ده الريفيو اللي كان نفسي اكتبه ورا مقال تغيير السلسلة لمسار النشر بجد وسعيد جدا جدا انك شعرتي بمدي الشغف والجنون اللي عندي للسلسلة دي من خلاله<br />فعلا الجزء الثاني حيجري معاه كدة وللاسف سنة لغاية مانعمل الثالث ان شاء الله<br />وبختصر اللي هنا في الريفيو العربي اللي حاسس انه اصلا مش كامل فعلا عن الكتاب]]></body>
+  
+  <user>
+    <id>13592557</id>
+    <name>Mohammed</name>
+    <display_name>Mohammed Arabey</display_name>
+
+    <location>Alexandria, 06, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13592557-mohammed-arabey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1364338486p3/13592557.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1364338486p2/13592557.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 27 17:02:10 -0800 2016</created_at>
+  <updated_at>Sun Nov 27 17:02:10 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159587125</id>
+  <body><![CDATA[<i>Sawsan wrote: "ريفيو جميل محمد :)<br />مراجعاتك عن سلسلة هاري بوتر بديل عن مشاهدة الأفلام اللي حاولت اشوفهم وفي كل مرة ما باقدر أكملهم وفي الآخر توقفت عن المحاولة"</i><br /><br />اشكرك جدا وبتمني حقيقي تمنحي الكتاب الاول فرصة، انا عارف انه ليس لونك المفضل لكن بقراءة مراجعاتك عن مختلف انواع الكتب والروايات بجد ده حيكون اضافة جميلة لها<br />منتظر منك مراجعة، والفيلم الاول والثاني رغم طفوليته لكنه ساحر ، وستلاحظي نضج في الثالث<br />لكن الروايات اكثر واقعية وتمهيد للعالم الفانتازي ده]]></body>
+  
+  <user>
+    <id>13592557</id>
+    <name>Mohammed</name>
+    <display_name>Mohammed Arabey</display_name>
+
+    <location>Alexandria, 06, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13592557-mohammed-arabey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1364338486p3/13592557.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1364338486p2/13592557.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 27 17:04:41 -0800 2016</created_at>
+  <updated_at>Sun Nov 27 17:04:41 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159590818</id>
+  <body><![CDATA[Your reviews are so fun with all the pictures! I loved this one and the second Jim Kay illustrated version Chamber of Secrets which I see you are reading now. I'm excited for them to come out each October.]]></body>
+  
+  <user>
+    <id>6942006</id>
+    <name>Suzy</name>
+    <display_name>Suzy</display_name>
+
+    <location>Minneapolis, MN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6942006-suzy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1484184063p3/6942006.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1484184063p2/6942006.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 27 19:01:44 -0800 2016</created_at>
+  <updated_at>Sun Nov 27 19:01:44 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159625109</id>
+  <body><![CDATA[<i>Suzy wrote: "Your reviews are so fun with all the pictures! I loved this one and the second Jim Kay illustrated version Chamber of Secrets which I see you are reading now. I'm excited for them to come out each ..."</i><br /><br />Oh thank you so much, yes you right, Jim Kay gave it a new colour, that's why I choose it here in this "hopefully last" review for me of Philosopher's Stone.<br />And frankly, for me I can't really wait every year for one.. I wish it's every 3 or 6 months max.]]></body>
+  
+  <user>
+    <id>13592557</id>
+    <name>Mohammed</name>
+    <display_name>Mohammed Arabey</display_name>
+
+    <location>Alexandria, 06, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13592557-mohammed-arabey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1364338486p3/13592557.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1364338486p2/13592557.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 28 15:14:44 -0800 2016</created_at>
+  <updated_at>Mon Nov 28 15:14:44 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159635831</id>
+  <body><![CDATA[Your review is so good. Wish I could write a good review as you did. I love it.]]></body>
+  
+  <user>
+    <id>25582274</id>
+    <name>Debbie Sally</name>
+    <display_name>Debbie Sally</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25582274-debbie-sally]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1471348271p3/25582274.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1471348271p2/25582274.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 28 21:09:57 -0800 2016</created_at>
+  <updated_at>Mon Nov 28 21:09:57 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159646442</id>
+  <body><![CDATA[<i>Debbie Sally wrote: "Your review is so good. Wish I could write a good review as you did. I love it."</i><br /><br />thank u so much , so glad u liked it and truly u do a good work too. just keep it up]]></body>
+  
+  <user>
+    <id>13592557</id>
+    <name>Mohammed</name>
+    <display_name>Mohammed Arabey</display_name>
+
+    <location>Alexandria, 06, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13592557-mohammed-arabey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1364338486p3/13592557.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1364338486p2/13592557.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 29 06:01:38 -0800 2016</created_at>
+  <updated_at>Tue Nov 29 06:01:38 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159646533</id>
+  <body><![CDATA[Your reviews are awesome!!!!!!!!!!!]]></body>
+  
+  <user>
+    <id>55409395</id>
+    <name>Nafia</name>
+    <display_name>Nafia Zalal</display_name>
+
+    <location>Dhaka, Bangladesh</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/55409395-nafia-zalal]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488566091p3/55409395.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488566091p2/55409395.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 29 06:04:47 -0800 2016</created_at>
+  <updated_at>Tue Nov 29 06:04:47 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159666126</id>
+  <body><![CDATA[<i>Nafia wrote: "Your reviews are awesome!!!!!!!!!!!"</i><br /><br />Thank you soooo much :) I just love Books and talk too much about it :))]]></body>
+  
+  <user>
+    <id>13592557</id>
+    <name>Mohammed</name>
+    <display_name>Mohammed Arabey</display_name>
+
+    <location>Alexandria, 06, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13592557-mohammed-arabey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1364338486p3/13592557.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1364338486p2/13592557.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 29 15:54:09 -0800 2016</created_at>
+  <updated_at>Tue Nov 29 15:54:09 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>161835071</id>
+  <body><![CDATA[oh God um melting HARRY POTTER !! I WANT THIS EDITION !!]]></body>
+  
+  <user>
+    <id>32542568</id>
+    <name>shimoz</name>
+    <display_name>shimoz mohamed</display_name>
+
+    <location>luxor, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32542568-shimoz-mohamed]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1484585770p3/32542568.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1484585770p2/32542568.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 22 10:06:33 -0800 2017</created_at>
+  <updated_at>Sun Jan 22 10:06:33 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161848831</id>
+  <body><![CDATA[<i>shimoz wrote: "oh God um melting HARRY POTTER !! I WANT THIS EDITION !!"</i><br /><br />It's a pretty one, huge glossy book , you'd love to add if u like to collect HP books :)]]></body>
+  
+  <user>
+    <id>13592557</id>
+    <name>Mohammed</name>
+    <display_name>Mohammed Arabey</display_name>
+
+    <location>Alexandria, 06, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13592557-mohammed-arabey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1364338486p3/13592557.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1364338486p2/13592557.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 22 16:12:20 -0800 2017</created_at>
+  <updated_at>Sun Jan 22 16:12:20 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161877936</id>
+  <body><![CDATA[i do want]]></body>
+  
+  <user>
+    <id>32542568</id>
+    <name>shimoz</name>
+    <display_name>shimoz mohamed</display_name>
+
+    <location>luxor, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32542568-shimoz-mohamed]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1484585770p3/32542568.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1484585770p2/32542568.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 23 10:17:13 -0800 2017</created_at>
+  <updated_at>Mon Jan 23 10:17:13 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>164839603</id>
+  <body><![CDATA[I couldn't see most of the pictures you added. ]]></body>
+  
+  <user>
+    <id>63477087</id>
+    <name>Em</name>
+    <display_name>Em</display_name>
+
+    <location>Grand Blanc, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/63477087-em]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483579516p3/63477087.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483579516p2/63477087.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Apr 06 19:00:08 -0700 2017</created_at>
+  <updated_at>Thu Apr 06 19:00:08 -0700 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>164858400</id>
+  <body><![CDATA[<i>shimoz wrote: "i do want"</i><br /><br />it's the best edition ever :)]]></body>
+  
+  <user>
+    <id>13592557</id>
+    <name>Mohammed</name>
+    <display_name>Mohammed Arabey</display_name>
+
+    <location>Alexandria, 06, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13592557-mohammed-arabey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1364338486p3/13592557.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1364338486p2/13592557.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Apr 07 08:46:41 -0700 2017</created_at>
+  <updated_at>Fri Apr 07 08:46:41 -0700 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>164858426</id>
+  <body><![CDATA[<i>Em wrote: "I couldn't see most of the pictures you added. "</i><br /><br />Try to open the link in good connection :) hope u like it then :))<br /><br /><a target="_blank" href="https://www.goodreads.com/review/show/1426951998" rel="nofollow">https://www.goodreads.com/review/show...</a>]]></body>
+  
+  <user>
+    <id>13592557</id>
+    <name>Mohammed</name>
+    <display_name>Mohammed Arabey</display_name>
+
+    <location>Alexandria, 06, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13592557-mohammed-arabey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1364338486p3/13592557.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1364338486p2/13592557.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Apr 07 08:47:21 -0700 2017</created_at>
+  <updated_at>Fri Apr 07 08:47:21 -0700 2017</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1426951998]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1426951998]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

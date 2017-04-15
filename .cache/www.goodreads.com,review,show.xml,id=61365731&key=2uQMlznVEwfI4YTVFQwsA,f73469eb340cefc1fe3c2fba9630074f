@@ -1,0 +1,392 @@
+status: 200
+x-request-id: EKDJ56VH76GX779JDJBA
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=61365731&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhgzMTEtNDY1NTIxNy04MjYzNzEzBjoGRVQ%3D--8201ba1580f13cfb913de3f34caab52af0938c8e;
+ path=/; expires=Wed, 15 Apr 2037 15:09:43 -0000, locale=es;
+ path=/, _session_id2=c8427cb64afeb022dfe135702f3a9bcf; path=/;
+ expires=Sat, 15 Apr 2017 21:09:43 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 15307
+server: Server
+x-runtime: 0.308570
+etag: W/"ba80f14197d82a722780bbc444d257eb"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:09:43 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>61365731</id>
+    
+  <user>
+    <id>614778</id>
+    <name>Ahmad</name>
+    <display_name>Ahmad Sharabiani</display_name>
+
+    <location>Tehran, 28, Iran</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/614778-ahmad-sharabiani]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1194930432p3/614778.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1194930432p2/614778.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">2297303</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">23</text_reviews_count>
+  <title>کشتن مرغ مینا</title>
+  <title_without_series>کشتن مرغ مینا</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1290384242m/2297303.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1290384242s/2297303.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2297303._</link>
+  <num_pages>378</num_pages>
+  <format>Paperback</format>
+  <edition_information>‫چاپ دوم با تجدیدنظر و حروف‌چینی جدید</edition_information>
+  <publisher>توس</publisher>
+  <publication_day/>
+  <publication_year>1991</publication_year>
+  <publication_month/>
+  <average_rating>4.25</average_rating>
+  <ratings_count>3251393</ratings_count>
+  <description>The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it, To Kill A Mockingbird became both an instant bestseller and a critical success when it was first published in 1960. It went on to win the Pulitzer Prize in 1961 and was later made into an Academy Award-winning film, also a classic.&lt;br /&gt;&lt;br /&gt;Compassionate, dramatic, and deeply moving, To Kill A Mockingbird takes readers to the roots of human behavior - to innocence and experience, kindness and cruelty, love and hatred, humor and pathos. Now with over 18 million copies in print and translated into forty languages, this regional story by a young Alabama woman claims universal appeal. Harper Lee always considered her book to be a simple love story. Today it is regarded as a masterpiece of American literature.</description>
+<authors>
+<author>
+<id>1825</id>
+<name>Harper Lee</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1188820730p5/1825.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1188820730p2/1825.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1825.Harper_Lee]]></link>
+<average_rating>4.21</average_rating>
+<ratings_count>3414068</ratings_count>
+<text_reviews_count>94458</text_reviews_count>
+</author>
+</authors>
+  <published>1991</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1248064651</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Mon Feb 22 05:17:38 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>164</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="fiction" exclusive="false" review_shelf_id="32389578" sortable="false" />
+    <shelf name="classic" exclusive="false" review_shelf_id="32391845" sortable="false" />
+    <shelf name="historical" exclusive="false" review_shelf_id="1513546496" sortable="false" />
+    <shelf name="academic" exclusive="false" review_shelf_id="971799328" sortable="false" />
+    <shelf name="novel" exclusive="false" review_shelf_id="1513546663" sortable="false" />
+    <shelf name="20th-century" exclusive="false" review_shelf_id="971799275" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Apr 28 00:00:00 -0700 1994</read_at>
+  <date_added>Sun Jun 28 02:22:24 -0700 2009</date_added>
+  <date_updated>Sat Mar 04 06:46:09 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[To Kill a Mockingbird, Harper Lee<br />عنوان: کشتن مرغ مینا؛ نویسنده: هارپر لی؛ مترجم: فخرالدین میررمضانی، مشخصات نشر: تهران، توس، 1370، در 378 ص؛ چاپ دیگر: تهران، امیرکبیر، 1390، در 414 ص؛ شابک: 9789640013816؛ چاپ دیگر: تهران، علمی فرهنگی، 1393، در 378 ص؛ شابک: 978600121573؛<br />مترجم دیگر: بابک تیموریان،...]]>
+  </body>
+
+  
+
+  <comments_count>11</comments_count>
+    <comments start="1" end="11" total="11">
+        <comment>
+  <id>115154373</id>
+  <body><![CDATA[شاهکار<br />خوشبختانه کتاب دیگری هم امسال نوشتن .بی صبرانه منتظر خواندنش هستم]]></body>
+  
+  <user>
+    <id>40551888</id>
+    <name>Golab</name>
+    <display_name>Golab</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/40551888-golab]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 24 12:22:27 -0800 2015</created_at>
+  <updated_at>Tue Feb 24 12:22:27 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>115184970</id>
+  <body><![CDATA[<i>Golab wrote: "شاهکار<br />خوشبختانه کتاب دیگری هم امسال نوشتن .بی صبرانه منتظر خواندنش هستم"</i><br />سپاسگزارم که خبرم کردید]]></body>
+  
+  <user>
+    <id>614778</id>
+    <name>Ahmad</name>
+    <display_name>Ahmad Sharabiani</display_name>
+
+    <location>Tehran, 28, Iran</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/614778-ahmad-sharabiani]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1194930432p3/614778.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1194930432p2/614778.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 24 23:41:39 -0800 2015</created_at>
+  <updated_at>Tue Feb 24 23:41:39 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>118408694</id>
+  <body><![CDATA[من این فیلم رو دیدم اما خوشا به سعادت شما که کتاب رو خوندید:)]]></body>
+  
+  <user>
+    <id>14258634</id>
+    <name>SARAH</name>
+    <display_name>SARAH</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14258634-sarah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1491225773p3/14258634.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1491225773p2/14258634.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Apr 27 22:43:53 -0700 2015</created_at>
+  <updated_at>Mon Apr 27 22:43:53 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>118409286</id>
+  <body><![CDATA[<i>Martha wrote: "من این فیلم رو دیدم اما خوشا به سعادت شما که کتاب رو خوندید:)"</i><br />آرزو دارم شما هم بخوانید، اگر نسخه ای دیگر از کتاب یافتم لابد یادم میماند که تقدیم کنم]]></body>
+  
+  <user>
+    <id>614778</id>
+    <name>Ahmad</name>
+    <display_name>Ahmad Sharabiani</display_name>
+
+    <location>Tehran, 28, Iran</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/614778-ahmad-sharabiani]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1194930432p3/614778.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1194930432p2/614778.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Apr 27 23:19:31 -0700 2015</created_at>
+  <updated_at>Mon Apr 27 23:19:31 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>118412644</id>
+  <body><![CDATA[مرسی از محبتتان....من هم امیدوارم روزی کتاب رو بخونم :)]]></body>
+  
+  <user>
+    <id>14258634</id>
+    <name>SARAH</name>
+    <display_name>SARAH</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14258634-sarah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1491225773p3/14258634.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1491225773p2/14258634.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Apr 28 03:01:50 -0700 2015</created_at>
+  <updated_at>Tue Apr 28 03:01:50 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>148389336</id>
+  <body><![CDATA[نمیدونم من فقط احساس کردم نیمه اول کتاب بهتر از نیمه دومشه یا شما هم اینجوری بودین؟ نیمه اولش به نظرم شاهکار بود ولی نیمه دومش یکمی معمولی شد.]]></body>
+  
+  <user>
+    <id>42342625</id>
+    <name>Asef</name>
+    <display_name>Asef Ghabeli</display_name>
+
+    <location>Sari, Mazandaran, Iran</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/42342625-asef-ghabeli]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1458801579p3/42342625.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1458801579p2/42342625.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 02 12:08:34 -0800 2016</created_at>
+  <updated_at>Wed Mar 02 12:08:34 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>148415876</id>
+  <body><![CDATA[<i>Asef wrote: "نمیدونم من فقط احساس کردم نیمه اول کتاب بهتر از نیمه دومشه یا شما هم اینجوری بودین؟ نیمه اولش به نظرم شاهکار بود ولی نیمه دومش یکمی معمولی شد."</i><br />دوست گرامی خوشحالم که خواندید و احساس خود بنوشتید، درست است، نیمه ی نخست بسیار دلنشین تر بود، این فراموشکار ترجمه ی میررمضانی را خوانده ام، روان بانوی نویسنده شاد]]></body>
+  
+  <user>
+    <id>614778</id>
+    <name>Ahmad</name>
+    <display_name>Ahmad Sharabiani</display_name>
+
+    <location>Tehran, 28, Iran</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/614778-ahmad-sharabiani]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1194930432p3/614778.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1194930432p2/614778.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 02 23:43:47 -0800 2016</created_at>
+  <updated_at>Wed Mar 02 23:43:47 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>160758988</id>
+  <body><![CDATA[شاید علت کم توجهی به این کتاب ساخته شدن فیلمی بر اساس همین رمان باشد که بیشتر افراد تماشای فیلم را به خواندن اون ترجیح دادن.]]></body>
+  
+  <user>
+    <id>33556413</id>
+    <name>Saeed</name>
+    <display_name>Saeed</display_name>
+
+    <location>Fars, 42, Iran</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/33556413-saeed]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Dec 30 00:39:07 -0800 2016</created_at>
+  <updated_at>Fri Dec 30 00:39:07 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>160759103</id>
+  <body><![CDATA[سپاسگزار هستم که خواندید و احساس و دیدگاه خویش بنوشتید، گویا این برهان شما برای بی توجهی هموطنان خودمان است]]></body>
+  
+  <user>
+    <id>614778</id>
+    <name>Ahmad</name>
+    <display_name>Ahmad Sharabiani</display_name>
+
+    <location>Tehran, 28, Iran</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/614778-ahmad-sharabiani]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1194930432p3/614778.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1194930432p2/614778.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Dec 30 00:45:42 -0800 2016</created_at>
+  <updated_at>Fri Dec 30 00:45:42 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>163523936</id>
+  <body><![CDATA[واقعا کتاب آموزنده و مفیدیه علی الخصوص برای بزرگترها!]]></body>
+  
+  <user>
+    <id>25271221</id>
+    <name>Fatemeh</name>
+    <display_name>Fatemeh</display_name>
+
+    <location>Iran</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25271221-fatemeh]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1461314813p3/25271221.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1461314813p2/25271221.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Mar 04 08:42:48 -0800 2017</created_at>
+  <updated_at>Sat Mar 04 08:42:48 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>163547717</id>
+  <body><![CDATA[<i>Fatemeh wrote: "واقعا کتاب آموزنده و مفیدیه علی الخصوص برای بزرگترها!"</i><br /><br />سپاسگزار هستم که خوانش کتاب را به همگان پیشنهاد فرمودید]]></body>
+  
+  <user>
+    <id>614778</id>
+    <name>Ahmad</name>
+    <display_name>Ahmad Sharabiani</display_name>
+
+    <location>Tehran, 28, Iran</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/614778-ahmad-sharabiani]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1194930432p3/614778.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1194930432p2/614778.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Mar 04 22:08:07 -0800 2017</created_at>
+  <updated_at>Sat Mar 04 22:08:07 -0800 2017</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/61365731]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/61365731]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

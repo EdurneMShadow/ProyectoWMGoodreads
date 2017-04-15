@@ -1,0 +1,131 @@
+status: 200
+x-request-id: TJ3HS1WVMP3AY5XTB9MW
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=1816378226&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhgwNzMtMzEyMDAzOS0zMDk3MjMzBjoGRVQ%3D--69d9cabe181ec083471764d3e3bab4eb652760f4;
+ path=/; expires=Wed, 15 Apr 2037 15:16:59 -0000, locale=es;
+ path=/, _session_id2=ac90c4f52a65311a00ef6a67f7dd6922; path=/;
+ expires=Sat, 15 Apr 2017 21:16:59 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 4238
+server: Server
+x-runtime: 0.349491
+etag: W/"6f6be452b429048429600558cf1dffa4"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:16:59 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1816378226</id>
+    
+  <user>
+    <id>61157160</id>
+    <name>Joe</name>
+    <display_name>Joe</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/61157160-joe]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1479480394p3/61157160.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1479480394p2/61157160.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">5907</id>
+  <isbn>0618260307</isbn>
+  <isbn13>9780618260300</isbn13>
+  <text_reviews_count type="integer">27500</text_reviews_count>
+  <title>The Hobbit</title>
+  <title_without_series>The Hobbit</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1372847500m/5907.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1372847500s/5907.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/5907.The_Hobbit</link>
+  <num_pages>366</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Houghton Mifflin</publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.24</average_rating>
+  <ratings_count>2139201</ratings_count>
+  <description>&lt;i&gt;In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a hobbit-hole, and that means comfort.&lt;br /&gt;&lt;br /&gt;&lt;/i&gt;Written for J.R.R. Tolkien’s own children, &lt;i&gt;The Hobbit&lt;/i&gt; met with instant critical acclaim when it was first published in 1937. Now recognized as a timeless classic, this introduction to the hobbit Bilbo Baggins, the wizard Gandalf, Gollum, and the spectacular world of Middle-earth recounts of the adventures of a reluctant hero, a powerful and dangerous ring, and the cruel dragon Smaug the Magnificent. The text in this 372-page paperback edition is based on that first published in Great Britain by Collins Modern Classics (1998), and includes a note on the text by Douglas A. Anderson (2001). Unforgettable!&lt;br /&gt;</description>
+<authors>
+<author>
+<id>656983</id>
+<name>J.R.R. Tolkien</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1434625177p5/656983.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1434625177p2/656983.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
+<average_rating>4.30</average_rating>
+<ratings_count>6098482</ratings_count>
+<text_reviews_count>90948</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1585977564</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sat Nov 19 15:02:07 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>141</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Nov 19 15:02:07 -0800 2016</date_added>
+  <date_updated>Sat Nov 19 15:02:43 -0800 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      This book?&lt;br /&gt;Precious.
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1816378226]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1816378226]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

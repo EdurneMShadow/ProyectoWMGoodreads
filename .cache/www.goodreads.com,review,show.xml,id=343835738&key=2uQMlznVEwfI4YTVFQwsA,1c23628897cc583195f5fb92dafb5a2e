@@ -1,0 +1,1272 @@
+status: 200
+x-request-id: 2V8QV1X2JW2YG73JDP7W
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=343835738&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhgwNjQtOTMyMzYyMi0xMzIwNzA2BjoGRVQ%3D--0bbb1f966d7a94f4cdf666de60c46e046f34f89c;
+ path=/; expires=Wed, 15 Apr 2037 15:12:09 -0000, locale=es;
+ path=/, _session_id2=83d9b087a8ca1f83f274659a05ffe95a; path=/;
+ expires=Sat, 15 Apr 2017 21:12:09 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 50771
+server: Server
+x-runtime: 0.418143
+etag: W/"2dc351054dfcc6bf294eac1f644e8016"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:12:09 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>343835738</id>
+    
+  <user>
+    <id>59329</id>
+    <name>La Petite Américaine</name>
+    <display_name>La Petite Américaine</display_name>
+
+    <location>37100</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/59329-la-petite-am-ricaine]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1218985191p3/59329.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1218985191p2/59329.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">8442457</id>
+  <isbn>0297859382</isbn>
+  <isbn13>9780297859383</isbn13>
+  <text_reviews_count type="integer">69027</text_reviews_count>
+  <title>Gone Girl</title>
+  <title_without_series>Gone Girl</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1339602131m/8442457.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1339602131s/8442457.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/8442457-gone-girl</link>
+  <num_pages>399</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Weidenfeld &amp; Nicolson</publisher>
+  <publication_day>24</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.03</average_rating>
+  <ratings_count>1557910</ratings_count>
+  <description>On a warm summer morning in North Carthage, Missouri, it is Nick and Amy Dunne’s fifth wedding anniversary. Presents are being wrapped and reservations are being made when Nick’s clever and beautiful wife disappears. Husband-of-the-Year Nick isn’t doing himself any favors with cringe-worthy daydreams about the slope and shape of his wife’s head, but passages from Amy's diary reveal the alpha-girl perfectionist could have put anyone dangerously on edge. Under mounting pressure from the police and the media—as well as Amy’s fiercely doting parents—the town golden boy parades an endless series of lies, deceits, and inappropriate behavior. Nick is oddly evasive, and he’s definitely bitter—but is he really a killer?</description>
+<authors>
+<author>
+<id>2383</id>
+<name>Gillian Flynn</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1232123231p5/2383.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1232123231p2/2383.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2383.Gillian_Flynn]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>2325631</ratings_count>
+<text_reviews_count>184036</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1245387013</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sat Feb 20 07:54:22 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>223</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="i-want-my-money-back" exclusive="false" review_shelf_id="235461892" sortable="false" />
+    <shelf name="ugh" exclusive="false" review_shelf_id="235461776" sortable="false" />
+    <shelf name="sucked" exclusive="false" review_shelf_id="235461803" sortable="false" />
+    <shelf name="giving-up-for-now" exclusive="false" review_shelf_id="235461870" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Jun 06 00:00:00 -0700 2012</started_at>
+  <read_at>Tue Jun 26 00:00:00 -0700 2012</read_at>
+  <date_added>Wed Jun 06 22:49:54 -0700 2012</date_added>
+  <date_updated>Sun Feb 10 20:47:17 -0800 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[You know those books that are a complete chore to read? The ones you'll do anything -- playing Words with Friends, cleaning the house, scrubbing toilets -- to avoid reading? Then a few weeks go by and you've gotten dumber, because in doing your damnedest to avoid reading said book, menial tasks h...]]>
+  </body>
+
+  
+
+  <comments_count>51</comments_count>
+    <comments start="1" end="50" total="51">
+        <comment>
+  <id>58440382</id>
+  <body><![CDATA[You forgot dicking around on goodreads perusing the 1 star reviews to avoid finishing Gone Girl. At least that's my procrastination method of choice. It was after page 67 when "Nick got home just after four, a bulb of beer and cigarettes and fried-egg odor attached to him, a placenta of stink" when I wrote this book off as a big steaming turd.]]></body>
+  
+  <user>
+    <id>2950067</id>
+    <name>Shelley</name>
+    <display_name>Shelley</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2950067-shelley]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1386276166p3/2950067.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1386276166p2/2950067.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Sep 19 16:14:36 -0700 2012</created_at>
+  <updated_at>Wed Sep 19 16:14:36 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>58440660</id>
+  <body><![CDATA[Shelley, you're a genius. And I often only trust one star reviews, because the positive reviews on books like this one are full of English written at a 9th grade level at best.]]></body>
+  
+  <user>
+    <id>59329</id>
+    <name>La Petite Américaine</name>
+    <display_name>La Petite Américaine</display_name>
+
+    <location>37100</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/59329-la-petite-am-ricaine]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1218985191p3/59329.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1218985191p2/59329.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Sep 19 16:18:45 -0700 2012</created_at>
+  <updated_at>Wed Sep 19 16:18:45 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>58470647</id>
+  <body><![CDATA[Mensa begs to differ on my genius. The one star reviews for books as hyped as this are so spot on. If I wanted to read a book about a miserable married couple, I'd re-read Revolutionary Road or chat up my co-worker who takes separate vacations from the husband. Those characters are miserable but the writing is a billion times better. I just found an interview that Flynn did about the book where she said part of the fun was choosing sides, team Amy or team Nick! How about neither since they're both clearly sociopaths.]]></body>
+  
+  <user>
+    <id>2950067</id>
+    <name>Shelley</name>
+    <display_name>Shelley</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2950067-shelley]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1386276166p3/2950067.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1386276166p2/2950067.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Sep 20 07:06:48 -0700 2012</created_at>
+  <updated_at>Thu Sep 20 07:06:48 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>58473082</id>
+  <body><![CDATA[I couldn't take sides. I was too bored by both of them.<br />Actually, I did find the whole concept of writers actually having jobs and offices until bloggers came along and put magazines out of business to be an Interesting bit in a pile of suckiness.]]></body>
+  
+  <user>
+    <id>59329</id>
+    <name>La Petite Américaine</name>
+    <display_name>La Petite Américaine</display_name>
+
+    <location>37100</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/59329-la-petite-am-ricaine]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1218985191p3/59329.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1218985191p2/59329.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Sep 20 08:01:56 -0700 2012</created_at>
+  <updated_at>Thu Sep 20 08:01:56 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>67459394</id>
+  <body><![CDATA[Just listened to the author interviewed on Guardian books podcast and she sounded a bit insufferable. She used to write for Entertainment Weekly so I was intrigued about how she transitioned into fiction. I think she likely gets away with a lot of not great writing because one wants the characters to meet gruesome ends because they are so unlikable. One thing the author said repeatedly throughout the interview is that she way way overwrites everything she does and this novel was no exception.]]></body>
+  
+  <user>
+    <id>2895364</id>
+    <name>Jason</name>
+    <display_name>Jason</display_name>
+
+    <location>Toronto, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2895364-jason]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1273693501p3/2895364.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1273693501p2/2895364.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 09 13:19:38 -0800 2013</created_at>
+  <updated_at>Sat Feb 09 13:19:38 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>67461643</id>
+  <body><![CDATA[She probably transitioned into fiction by using her connections from Entertainment Weekly to find some sucker in the publishing industry to publish her piece of crap novels.]]></body>
+  
+  <user>
+    <id>59329</id>
+    <name>La Petite Américaine</name>
+    <display_name>La Petite Américaine</display_name>
+
+    <location>37100</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/59329-la-petite-am-ricaine]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1218985191p3/59329.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1218985191p2/59329.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 09 13:51:25 -0800 2013</created_at>
+  <updated_at>Sat Feb 09 13:51:25 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>67462206</id>
+  <body><![CDATA[This is likely true. I would do the same. What strikes me is rhat this is a person who likely is channelling all the negative emotions she had about the people she had to write about...<br /><br />She stated that she has five good friends that ahe has read different parts of the manuscript for feedback. She also stated that she created her own fake source material ( like mag articles the husband could have written) while she was writing. Wow. Intense. The writing looks really overdone from what i read of it.<br /><br />People who have read this should read Mr.Peanut and only then decide if hers is the better portrait of dysfunctionality in a marriage.]]></body>
+  
+  <user>
+    <id>2895364</id>
+    <name>Jason</name>
+    <display_name>Jason</display_name>
+
+    <location>Toronto, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2895364-jason]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1273693501p3/2895364.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1273693501p2/2895364.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 09 14:00:11 -0800 2013</created_at>
+  <updated_at>Sat Feb 09 14:00:11 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>67462466</id>
+  <body><![CDATA[This review says it best <a target="_blank" href="https://www.goodreads.com/review/show/411510218" rel="nofollow">http://www.goodreads.com/review/show/...</a>]]></body>
+  
+  <user>
+    <id>59329</id>
+    <name>La Petite Américaine</name>
+    <display_name>La Petite Américaine</display_name>
+
+    <location>37100</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/59329-la-petite-am-ricaine]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1218985191p3/59329.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1218985191p2/59329.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 09 14:03:54 -0800 2013</created_at>
+  <updated_at>Sat Feb 09 14:03:54 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>67464521</id>
+  <body><![CDATA[Nice! Well written! But as many have shown us, poor writer's craft at the sentence level is often a prerequisite for success in the bestseller world.]]></body>
+  
+  <user>
+    <id>2895364</id>
+    <name>Jason</name>
+    <display_name>Jason</display_name>
+
+    <location>Toronto, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2895364-jason]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1273693501p3/2895364.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1273693501p2/2895364.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 09 14:32:44 -0800 2013</created_at>
+  <updated_at>Sat Feb 09 14:32:44 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>67464839</id>
+  <body><![CDATA[Of course. Majority of readers are morons. That's the audience you cater to: semi-literate types who proclaim some piece of garbage novel is "good because it made me cry."]]></body>
+  
+  <user>
+    <id>59329</id>
+    <name>La Petite Américaine</name>
+    <display_name>La Petite Américaine</display_name>
+
+    <location>37100</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/59329-la-petite-am-ricaine]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1218985191p3/59329.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1218985191p2/59329.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 09 14:37:16 -0800 2013</created_at>
+  <updated_at>Sat Feb 09 14:37:16 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>67467208</id>
+  <body><![CDATA[Thing is that lurid dysfunction sells. I mean people should be shocked that Momma Kardashian's psychiatric assessment diagnosed her as histrionic and narcissistic? That is the issue I have with poorly written characters: they are cardboard portrayals of traits gleaned from the dsm-iv. But one is never tempted to reduce Madame Bovary or Anna Karenina to a set of dysfunctional traits because of the nuanced portrayal of their character by the author.]]></body>
+  
+  <user>
+    <id>2895364</id>
+    <name>Jason</name>
+    <display_name>Jason</display_name>
+
+    <location>Toronto, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2895364-jason]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1273693501p3/2895364.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1273693501p2/2895364.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 09 15:13:23 -0800 2013</created_at>
+  <updated_at>Sat Feb 09 15:13:23 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>67467319</id>
+  <body><![CDATA[The difference between the author-genius and a two bit hack. I think The Kite Runner made it pretty clear. Garbage sells in America.]]></body>
+  
+  <user>
+    <id>59329</id>
+    <name>La Petite Américaine</name>
+    <display_name>La Petite Américaine</display_name>
+
+    <location>37100</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/59329-la-petite-am-ricaine]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1218985191p3/59329.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1218985191p2/59329.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 09 15:15:12 -0800 2013</created_at>
+  <updated_at>Sat Feb 09 15:15:12 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>67471767</id>
+  <body><![CDATA[PT Barnum would agree and revel in your revelation!]]></body>
+  
+  <user>
+    <id>2895364</id>
+    <name>Jason</name>
+    <display_name>Jason</display_name>
+
+    <location>Toronto, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2895364-jason]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1273693501p3/2895364.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1273693501p2/2895364.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 09 16:24:20 -0800 2013</created_at>
+  <updated_at>Sat Feb 09 16:24:20 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>67563567</id>
+  <body><![CDATA[<i>La Petite Américaine wrote: "The difference between the author-genius and a two bit hack. I think The Kite Runner made it pretty clear. Garbage sells in America."</i><br />If this was facebook I would totally click 'like' for this comment. I LOVE your input.]]></body>
+  
+  <user>
+    <id>8109670</id>
+    <name>Aria</name>
+    <display_name>Aria</display_name>
+
+    <location>Woburn, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8109670-aria]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1331235094p3/8109670.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1331235094p2/8109670.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 10 20:37:56 -0800 2013</created_at>
+  <updated_at>Sun Feb 10 20:37:56 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>67563623</id>
+  <body><![CDATA[Lol thanks, Aria. Goodreads so needs a like option! :)]]></body>
+  
+  <user>
+    <id>59329</id>
+    <name>La Petite Américaine</name>
+    <display_name>La Petite Américaine</display_name>
+
+    <location>37100</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/59329-la-petite-am-ricaine]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1218985191p3/59329.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1218985191p2/59329.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 10 20:39:13 -0800 2013</created_at>
+  <updated_at>Sun Feb 10 20:39:13 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>67563789</id>
+  <body><![CDATA[<i>Jason wrote: "Thing is that lurid dysfunction sells. I mean people should be shocked that Momma Kardashian's psychiatric assessment diagnosed her as histrionic and narcissistic? That is the issue I have with poo..."</i><br />I think thats because Madame Bovary and Anna Karenina really were not so much about human ailments but were the author's respective reactions and comments on their societies. Emma and Anna are in a sense symbolic and not to be ascribed the sentimentality of 3-demension that we typically assign to most characters. They are merely instruments and the embodiments of what was wrong with 19the Century provincial France and Imperial Russian aristocracy respectively.]]></body>
+  
+  <user>
+    <id>8109670</id>
+    <name>Aria</name>
+    <display_name>Aria</display_name>
+
+    <location>Woburn, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8109670-aria]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1331235094p3/8109670.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1331235094p2/8109670.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 10 20:42:28 -0800 2013</created_at>
+  <updated_at>Sun Feb 10 20:42:28 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>67563874</id>
+  <body><![CDATA[<i>La Petite Américaine wrote: "She probably transitioned into fiction by using her connections from Entertainment Weekly to find some sucker in the publishing industry to publish her piece of crap novels."</i> Can we go back to trashing the anorexia lady? I miss those days :(]]></body>
+  
+  <user>
+    <id>8109670</id>
+    <name>Aria</name>
+    <display_name>Aria</display_name>
+
+    <location>Woburn, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8109670-aria]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1331235094p3/8109670.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1331235094p2/8109670.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 10 20:44:10 -0800 2013</created_at>
+  <updated_at>Sun Feb 10 20:44:10 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>67564106</id>
+  <body><![CDATA[I know, I really miss being stalked by Harriet Brown's army of eating disorder crusaders. That was ever so amusing.]]></body>
+  
+  <user>
+    <id>59329</id>
+    <name>La Petite Américaine</name>
+    <display_name>La Petite Américaine</display_name>
+
+    <location>37100</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/59329-la-petite-am-ricaine]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1218985191p3/59329.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1218985191p2/59329.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 10 20:48:44 -0800 2013</created_at>
+  <updated_at>Sun Feb 10 20:48:44 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>67564177</id>
+  <body><![CDATA[Know what separates Madame Bovary and Anna Karenina from ,well, just about every other character that has appeared in literature throughout mankind? <br /><br />Talented writers.]]></body>
+  
+  <user>
+    <id>59329</id>
+    <name>La Petite Américaine</name>
+    <display_name>La Petite Américaine</display_name>
+
+    <location>37100</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/59329-la-petite-am-ricaine]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1218985191p3/59329.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1218985191p2/59329.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 10 20:49:12 -0800 2013</created_at>
+  <updated_at>Sun Feb 10 20:49:12 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>67564305</id>
+  <body><![CDATA[<i>La Petite Américaine wrote: "<br /><br />Talented writers."</i> True.]]></body>
+  
+  <user>
+    <id>8109670</id>
+    <name>Aria</name>
+    <display_name>Aria</display_name>
+
+    <location>Woburn, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8109670-aria]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1331235094p3/8109670.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1331235094p2/8109670.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 10 20:52:45 -0800 2013</created_at>
+  <updated_at>Sun Feb 10 20:52:45 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>67888904</id>
+  <body><![CDATA[Did you complain about Americans loving crap and call Stephen King a "Master" in the same thread? Glass house.]]></body>
+  
+  <user>
+    <id>1507679</id>
+    <name>Topher</name>
+    <display_name>Topher</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1507679-topher]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1360963884p3/1507679.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1360963884p2/1507679.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 15 11:59:10 -0800 2013</created_at>
+  <updated_at>Fri Feb 15 11:59:10 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>67890936</id>
+  <body><![CDATA[Yes. I wrote "i'll drop all pretense" which would indicate that I know he's a pulp novelist. I also said I read him when I want to be scared, which would indicate that I don't read him for anything other than a cheap thrill. For a pulp, guilty pleasure horror novel, he IS the master.]]></body>
+  
+  <user>
+    <id>59329</id>
+    <name>La Petite Américaine</name>
+    <display_name>La Petite Américaine</display_name>
+
+    <location>37100</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/59329-la-petite-am-ricaine]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1218985191p3/59329.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1218985191p2/59329.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 15 12:30:30 -0800 2013</created_at>
+  <updated_at>Fri Feb 15 12:30:30 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>67894588</id>
+  <body><![CDATA[Well, you've only grasped half of my point here. The "Master" is also the most popular writer in American history, so people must agree with you...He's pretty "hyped," no? Caters to "semi literate morons, yes? <br /><br />Secondly, I'm not sure what "pretense" one needs to read or enjoy Gone Girl, which is (gasp) also a pulpy thriller (not a horror novel by any stretch, so I don't get why you'd bring up being scared). It's also a better book than anything King has written in the last 25 years at least. <br /><br />Basically, I don't mind when people dislike or hate a book that I enjoyed, but I really dislike those who would disparage the intelligence level of readers who disagree with their opinion.Especially when those opinions are sort of silly : Men notice T&amp;A, not the shape of a woman's head? Gee, you think? Think noticing the shape of a woman's head is weird? I wonder why that fact would be mentioned in a possible murder case, then... (as for the great difficulty with deciphering a sentence that starts with the name Go? Come on.)]]></body>
+  
+  <user>
+    <id>1507679</id>
+    <name>Topher</name>
+    <display_name>Topher</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1507679-topher]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1360963884p3/1507679.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1360963884p2/1507679.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 15 13:22:09 -0800 2013</created_at>
+  <updated_at>Fri Feb 15 13:22:09 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>67895020</id>
+  <body><![CDATA[That said, you love Suite Francaise, so you can't be all bad.]]></body>
+  
+  <user>
+    <id>1507679</id>
+    <name>Topher</name>
+    <display_name>Topher</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1507679-topher]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1360963884p3/1507679.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1360963884p2/1507679.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 15 13:28:55 -0800 2013</created_at>
+  <updated_at>Fri Feb 15 13:28:55 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>67903456</id>
+  <body><![CDATA[Someone bored at work on a Friday? You're thinking too much about this.]]></body>
+  
+  <user>
+    <id>59329</id>
+    <name>La Petite Américaine</name>
+    <display_name>La Petite Américaine</display_name>
+
+    <location>37100</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/59329-la-petite-am-ricaine]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1218985191p3/59329.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1218985191p2/59329.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 15 15:26:17 -0800 2013</created_at>
+  <updated_at>Fri Feb 15 15:26:17 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>68448170</id>
+  <body><![CDATA[Well ok, I just read this on a beach vacation. While it was no great work of literature, I kept wanting to turn the pages to find out what horrors awaited these truly awful people. This is unusual for me because I've never gotten into a reality show, and I don't enjoy tabloids. I felt like the story turned and twisted in ways I didn't expect, and I never really knew what was happening. I also enjoyed how my sympathies kept shifting back and forth throughout the book. I couldn't trust any of the characters, and never knew whom (who?) to believe. I think that's what kept me interested - that and the fact that I read it on a tropical beach where a trash novel is exactly what I want :)<br /><br />I do have a few gripes though. First, yes her grammar and punctuation were GOD AWFUL!!!! There were too many 3 word fragments masquerading as sentences, which made it choppy and annoying. And I hate it when authors throw in 50 cent SAT words when the rest of their structure is a mucky mess - I find it almost insulting. It was also over punctuated to high hell, barely a paragraph without parentheses, italics, and lots of other superfluous hyphens, commas and periods. Annoying.<br /><br />Second, the ending was TERRIBLE!! So lank, dissatisfying, boring, and downright wimpy after all that high drama. If you're going to write a book like a bad opera, please please end it with something befitting. I was really hoping he'd kill the bitch and make it look like a suicide - then maybe take up with the twin in a sordid incestuous relationship (I mean c'mon, she was hinting at that the whole time right??). Or even a good ol' murder suicide. Maybe Go could've killed her? Or how about simply that Nick actually publishes his damning memoir, gets her thrown in prison, and thereby gets custody of his kid?? Totally milk toast ending, sucky and dissatisfying.<br /><br />Side note - agreed my dear friend LPA on the confusing and annoying nickname "Go". Also I was bummed because I actually kind of liked her character is the book. Gillian did nothing with her, and completely dropped her towards the end. She was Nick's faithful little sidekick with absolutely no role of her own. Gillian really could've just made her a yappy Jack Russel terrier and they story wouldn't have changed much. Poor Go, Lol ...<br /><br />So all in all, I'm not a hater. Pages kept turning, and I found it light and dark all at the same time. It was a fun roller coaster ride with a limp dick ending. Still a helluva lot better than anything from Oprah's book club ;)]]></body>
+  
+  <user>
+    <id>48853</id>
+    <name>Nicole</name>
+    <display_name>Nicole</display_name>
+
+    <location>Menlo Park, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/48853-nicole]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1176673518p3/48853.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1176673518p2/48853.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 23 01:23:52 -0800 2013</created_at>
+  <updated_at>Sat Feb 23 01:23:52 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>68448371</id>
+  <body><![CDATA[Bad, bad writing.]]></body>
+  
+  <user>
+    <id>59329</id>
+    <name>La Petite Américaine</name>
+    <display_name>La Petite Américaine</display_name>
+
+    <location>37100</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/59329-la-petite-am-ricaine]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1218985191p3/59329.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1218985191p2/59329.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 23 01:36:09 -0800 2013</created_at>
+  <updated_at>Sat Feb 23 01:36:09 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69182700</id>
+  <body><![CDATA[I've got to agree with most of your review, but "Go was now pantomiming dick-slapping my wife."? Come on, that is literary gold!]]></body>
+  
+  <user>
+    <id>912850</id>
+    <name>Jon</name>
+    <display_name>Jon</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/912850-jon]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1206848767p3/912850.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1206848767p2/912850.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 05 08:53:52 -0800 2013</created_at>
+  <updated_at>Tue Mar 05 08:53:52 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69182928</id>
+  <body><![CDATA[Holy crap...you're right!]]></body>
+  
+  <user>
+    <id>59329</id>
+    <name>La Petite Américaine</name>
+    <display_name>La Petite Américaine</display_name>
+
+    <location>37100</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/59329-la-petite-am-ricaine]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1218985191p3/59329.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1218985191p2/59329.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 05 08:58:03 -0800 2013</created_at>
+  <updated_at>Tue Mar 05 08:58:03 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>71015547</id>
+  <body><![CDATA[I thought I was the only one who hated reading any sentence with Go in it. I'm glad it wasn't just me.]]></body>
+  
+  <user>
+    <id>11398042</id>
+    <name>Denise</name>
+    <display_name>Denise</display_name>
+
+    <location>Minneapolis, MN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11398042-denise]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1343612266p3/11398042.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1343612266p2/11398042.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Mar 31 07:07:11 -0700 2013</created_at>
+  <updated_at>Sun Mar 31 07:07:11 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>72868839</id>
+  <body><![CDATA[Yes Thank God I'm not alone in my disproportionate hating of the 'Go' word. Really irritating. Just finished reviewing this myself. Nearly went with a two word review - Gone Book. Trashy and loathsome in equal measure.]]></body>
+  
+  <user>
+    <id>11089210</id>
+    <name>Kevin</name>
+    <display_name>Kevin</display_name>
+
+    <location><![CDATA[Stroud, Glos., The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11089210-kevin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1490515728p3/11089210.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1490515728p2/11089210.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Apr 26 01:56:26 -0700 2013</created_at>
+  <updated_at>Fri Apr 26 01:56:26 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73180758</id>
+  <body><![CDATA[I too disliked the name Go!]]></body>
+  
+  <user>
+    <id>18563869</id>
+    <name>Joanna</name>
+    <display_name>Joanna</display_name>
+
+    <location>Bermuda, 03, Bermuda</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18563869-joanna]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1389928220p3/18563869.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1389928220p2/18563869.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Apr 30 15:58:45 -0700 2013</created_at>
+  <updated_at>Tue Apr 30 15:58:45 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73912743</id>
+  <body><![CDATA[Did anyone read Flynn's first 2 books? Cuz Gone Girl isn't cutting it for me, but I loved Dark Places &amp; Sharp Objects]]></body>
+  
+  <user>
+    <id>17458494</id>
+    <name>Xandra</name>
+    <display_name>Xandra Black</display_name>
+
+    <location>Cataumet, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17458494-xandra-black]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1361597572p3/17458494.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1361597572p2/17458494.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 11 16:26:23 -0700 2013</created_at>
+  <updated_at>Sat May 11 16:26:23 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>74159873</id>
+  <body><![CDATA[I hate to leave a book that I start unread, but I had to force myself to finish this story about two really unlikeable people in an unlikeable situation. If you would like to read about narcissism have at it. Nothing to inspire or really interest. I thought it would be much more interesting.]]></body>
+  
+  <user>
+    <id>7395589</id>
+    <name>Tissa</name>
+    <display_name>Tissa</display_name>
+
+    <location>Doha, 01, Qatar</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7395589-tissa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1326253452p3/7395589.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1326253452p2/7395589.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed May 15 11:40:52 -0700 2013</created_at>
+  <updated_at>Wed May 15 11:40:52 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78465419</id>
+  <body><![CDATA[I knew after I read this review that I shouldn't have read the book, but I'm a glutton for punishment and read it anyways. Huge mistake. I don't understand why this book is so hyped up. I'm not literary snob, I read historical fiction for crying out loud, but what was the value of this book?]]></body>
+  
+  <user>
+    <id>2700606</id>
+    <name>Heather</name>
+    <display_name>Heather Sellers</display_name>
+
+    <location>Colorado City, CO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2700606-heather-sellers]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1368635494p3/2700606.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1368635494p2/2700606.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jul 15 08:46:24 -0700 2013</created_at>
+  <updated_at>Mon Jul 15 08:46:24 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78467941</id>
+  <body><![CDATA[None whatsoever.]]></body>
+  
+  <user>
+    <id>59329</id>
+    <name>La Petite Américaine</name>
+    <display_name>La Petite Américaine</display_name>
+
+    <location>37100</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/59329-la-petite-am-ricaine]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1218985191p3/59329.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1218985191p2/59329.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jul 15 09:22:37 -0700 2013</created_at>
+  <updated_at>Mon Jul 15 09:22:37 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>97823247</id>
+  <body><![CDATA[I suspected this book wasn't my cuppa. Thanks for confirming that.]]></body>
+  
+  <created_at>Sat May 03 04:24:46 -0700 2014</created_at>
+  <updated_at>Sat May 03 04:24:46 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>106722865</id>
+  <body><![CDATA[I thought it sounded fishy. Thanks for confirming before I wasted my precious reading time.]]></body>
+  
+  <user>
+    <id>2578407</id>
+    <name>Dianne</name>
+    <display_name>Dianne</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2578407-dianne]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1377204199p3/2578407.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1377204199p2/2578407.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Sep 25 13:53:03 -0700 2014</created_at>
+  <updated_at>Thu Sep 25 13:53:03 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>106723057</id>
+  <body><![CDATA[I love costing crap authors money :)]]></body>
+  
+  <user>
+    <id>59329</id>
+    <name>La Petite Américaine</name>
+    <display_name>La Petite Américaine</display_name>
+
+    <location>37100</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/59329-la-petite-am-ricaine]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1218985191p3/59329.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1218985191p2/59329.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Sep 25 13:56:00 -0700 2014</created_at>
+  <updated_at>Thu Sep 25 13:56:00 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>106726222</id>
+  <body><![CDATA[It's over a year since I read this, yet the loathing of Gone Girl is still a powerful beating force within me. Whenever I am reminded of it, I feel like Prometheus, doomed to return each day to the same agony.]]></body>
+  
+  <user>
+    <id>11089210</id>
+    <name>Kevin</name>
+    <display_name>Kevin</display_name>
+
+    <location><![CDATA[Stroud, Glos., The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11089210-kevin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1490515728p3/11089210.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1490515728p2/11089210.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Sep 25 14:55:15 -0700 2014</created_at>
+  <updated_at>Thu Sep 25 14:55:15 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>106730167</id>
+  <body><![CDATA[That's hilarious! :)]]></body>
+  
+  <user>
+    <id>59329</id>
+    <name>La Petite Américaine</name>
+    <display_name>La Petite Américaine</display_name>
+
+    <location>37100</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/59329-la-petite-am-ricaine]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1218985191p3/59329.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1218985191p2/59329.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Sep 25 16:14:59 -0700 2014</created_at>
+  <updated_at>Thu Sep 25 16:14:59 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>106747696</id>
+  <body><![CDATA[Thanks LPA.]]></body>
+  
+  <user>
+    <id>11089210</id>
+    <name>Kevin</name>
+    <display_name>Kevin</display_name>
+
+    <location><![CDATA[Stroud, Glos., The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11089210-kevin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1490515728p3/11089210.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1490515728p2/11089210.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Sep 25 22:56:02 -0700 2014</created_at>
+  <updated_at>Thu Sep 25 22:56:02 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>107425835</id>
+  <body><![CDATA[My wife dragged me to the movie. It was pretty good, actually. By good, I mean it kept my interest; most films don't. The book is NOT on my TBR list.<br /><br />Out of curiosity, I checked out the library to see if Gone Girl was in their system. Found out they have 9 copies, and there are over a hundred people in line for these. Unreal! Maybe there is a hidden benefit to this book, after all: It gets people into librairies.]]></body>
+  
+  <user>
+    <id>3189888</id>
+    <name>Bob</name>
+    <display_name>Bob</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3189888-bob]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1419370547p3/3189888.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1419370547p2/3189888.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Oct 08 06:08:22 -0700 2014</created_at>
+  <updated_at>Wed Oct 08 06:08:22 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>107431404</id>
+  <body><![CDATA[Wow! If it supports the libraries, then it does have a redeeming quality after all. Yay! :)]]></body>
+  
+  <user>
+    <id>59329</id>
+    <name>La Petite Américaine</name>
+    <display_name>La Petite Américaine</display_name>
+
+    <location>37100</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/59329-la-petite-am-ricaine]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1218985191p3/59329.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1218985191p2/59329.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Oct 08 08:27:53 -0700 2014</created_at>
+  <updated_at>Wed Oct 08 08:27:53 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>111814979</id>
+  <body><![CDATA[Thank God! I was thinking I was the only person in the world who HATED this book.]]></body>
+  
+  <user>
+    <id>8317479</id>
+    <name>Erin</name>
+    <display_name>Erin</display_name>
+
+    <location>Leawood, KS</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8317479-erin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1332370487p3/8317479.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1332370487p2/8317479.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 30 17:17:47 -0800 2014</created_at>
+  <updated_at>Tue Dec 30 17:17:47 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>114395869</id>
+  <body><![CDATA[This is the funniest review, EVER]]></body>
+  
+  <user>
+    <id>22021994</id>
+    <name>Sara</name>
+    <display_name>Sara</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22021994-sara]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1423406912p3/22021994.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1423406912p2/22021994.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 10 17:38:27 -0800 2015</created_at>
+  <updated_at>Tue Feb 10 17:38:27 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>115732997</id>
+  <body><![CDATA[Exactly. I couldn't finish it because I just couldn't get into it. 1 star for sure. Such a sucky book.]]></body>
+  
+  <user>
+    <id>12634699</id>
+    <name>Shannon</name>
+    <display_name>Shannon Grimm</display_name>
+
+    <location>Spring Valley, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12634699-shannon-grimm]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1428903770p3/12634699.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1428903770p2/12634699.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 06 15:35:26 -0800 2015</created_at>
+  <updated_at>Fri Mar 06 15:35:26 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>134351521</id>
+  <body><![CDATA[I disagree. I enjoyed reading this book but I understand that not everyone is going yo like the same thing however, there is a way to express your feelings without being rude. Just saying.]]></body>
+  
+  <user>
+    <id>44619467</id>
+    <name>Anwen</name>
+    <display_name>Anwen</display_name>
+
+    <location><![CDATA[Merthyr Tydfil, Y3, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/44619467-anwen]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 08 10:05:39 -0700 2015</created_at>
+  <updated_at>Wed Jul 08 10:05:39 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>155929330</id>
+  <body><![CDATA[Yes, that name ... "Go" ... the stupidest nicknaming or whatever in history.]]></body>
+  
+  <user>
+    <id>32123443</id>
+    <name>Laura</name>
+    <display_name>Laura S.</display_name>
+
+    <location>Buzau, 11, Romania</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32123443-laura-s]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 24 05:59:19 -0700 2016</created_at>
+  <updated_at>Wed Aug 24 05:59:19 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155933391</id>
+  <body><![CDATA[I agree that Go is a terrible nickname. And I thought that the Amazing Amy books were really weird.]]></body>
+  
+  <user>
+    <id>34293771</id>
+    <name>Laura</name>
+    <display_name>Laura</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34293771-laura]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1484940771p3/34293771.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1484940771p2/34293771.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 24 08:06:33 -0700 2016</created_at>
+  <updated_at>Wed Aug 24 08:06:33 -0700 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/343835738]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/343835738]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

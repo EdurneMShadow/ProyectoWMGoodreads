@@ -1,0 +1,465 @@
+status: 200
+x-request-id: SEA7XT5BV5TFTVGPVGYC
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=1867794955&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhg1NDMtNTU3MTk0Ni04MjI3OTY0BjoGRVQ%3D--0282d49a73b15e7e6b0029c392a0bbe79c9245ee;
+ path=/; expires=Wed, 15 Apr 2037 15:20:33 -0000, locale=es;
+ path=/, _session_id2=811e81e3ed70544d8dd0d49e8f2cae77; path=/;
+ expires=Sat, 15 Apr 2017 21:20:33 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 16039
+server: Server
+x-runtime: 0.412830
+etag: W/"cd46fdf7d92fc124ecfa18db94d84e0b"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:20:33 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1867794955</id>
+    
+  <user>
+    <id>10915830</id>
+    <name>Sasha</name>
+    <display_name>Sasha Alsberg</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10915830-sasha-alsberg]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483667025p3/10915830.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483667025p2/10915830.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">1617</id>
+  <isbn>0374500010</isbn>
+  <isbn13>9780374500016</isbn13>
+  <text_reviews_count type="integer">19845</text_reviews_count>
+  <title>Night</title>
+  <title_without_series>Night</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1473495285m/1617.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1473495285s/1617.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1617.Night</link>
+  <num_pages>120</num_pages>
+  <format>Paperback</format>
+  <edition_information>First Printing Edition</edition_information>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.29</average_rating>
+  <ratings_count>680808</ratings_count>
+  <description>&lt;i&gt;Night&lt;/i&gt; is Elie Wiesel's masterpiece, a candid, horrific, and deeply poignant autobiographical account of his survival as a teenager in the Nazi death camps. This new translation by Marion Wiesel, Elie's wife and frequent translator, presents this seminal memoir in the language and spirit truest to the author's original intent. And in a substantive new preface, Elie reflects on the enduring importance of Night and his lifelong, passionate dedication to ensuring that the world never forgets man's capacity for inhumanity to man.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Night&lt;/i&gt; offers much more than a litany of the daily terrors, everyday perversions, and rampant sadism at Auschwitz and Buchenwald; it also eloquently addresses many of the philosophical as well as personal questions implicit in any serious consideration of what the Holocaust was, what it meant, and what its legacy is and will be.</description>
+<authors>
+<author>
+<id>1049</id>
+<name>Elie Wiesel</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1255518412p5/1049.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1255518412p2/1049.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1049.Elie_Wiesel]]></link>
+<average_rating>4.27</average_rating>
+<ratings_count>716805</ratings_count>
+<text_reviews_count>24423</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">117407482</id>
+          <page type="integer">75</page>
+          <chapter type="integer"></chapter>
+          <comments_count>11</comments_count>
+          <created_at type="datetime">Thu Jan 05 17:46:50 -0800 2017</created_at>
+          <updated_at type="datetime">Thu Jan 05 17:47:41 -0800 2017</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">329</ratings_count>
+          <percent type="integer">62</percent>
+          <work_id type="integer">265616</work_id>
+          <note_uri>kca://note/amzn1.grok.note.62d1d5d989158b4a3c44930ef44daa1f</note_uri>
+          <note_updated_at type="datetime">Thu Jan 05 17:47:41 -0800 2017</note_updated_at>
+          <body><![CDATA[This book pains me to read because of all the atrocities the victims of the Holocaust went through but I can't help but admire the strength Elie had to be able to endure this...will update you soon.]]></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">1652322327</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Thu Jan 05 22:41:32 -0800 2017</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1651934451</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Thu Jan 05 17:44:14 -0800 2017</updated_at>
+          <ratings_count>7</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>567</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Jan 05 00:00:00 -0800 2017</started_at>
+  <read_at>Fri Jan 06 15:58:00 -0800 2017</read_at>
+  <date_added>Thu Jan 05 17:44:13 -0800 2017</date_added>
+  <date_updated>Thu Jan 05 22:42:04 -0800 2017</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA["Our lives no longer belong to us alone; they belong to all those who need us desperately." - Elie Wiesel <br />]]>
+  </body>
+
+  
+
+  <comments_count>14</comments_count>
+    <comments start="1" end="14" total="14">
+        <comment>
+  <id>161124505</id>
+  <body><![CDATA[I get to read this book for school and I'm so excited!!!]]></body>
+  
+  <user>
+    <id>61121285</id>
+    <name>Emma</name>
+    <display_name>Emma Lindhe</display_name>
+
+    <location>Sydney, 02, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/61121285-emma-lindhe]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1491877132p3/61121285.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1491877132p2/61121285.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 06 03:43:37 -0800 2017</created_at>
+  <updated_at>Fri Jan 06 03:43:37 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161126297</id>
+  <body><![CDATA[This book is so amazing ❤️]]></body>
+  
+  <user>
+    <id>45884914</id>
+    <name>Ellie</name>
+    <display_name>Ellie</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/45884914-ellie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483221170p3/45884914.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483221170p2/45884914.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 06 04:57:52 -0800 2017</created_at>
+  <updated_at>Fri Jan 06 04:57:52 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161133886</id>
+  <body><![CDATA[Read that book for school last year and loved it! It read more like a novel than an autobiography which made it even more enjoyable for me. More people should read this!]]></body>
+  
+  <user>
+    <id>33947266</id>
+    <name>Katharine</name>
+    <display_name>Katharine</display_name>
+
+    <location>Lodi, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/33947266-katharine]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488730429p3/33947266.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488730429p2/33947266.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 06 08:22:36 -0800 2017</created_at>
+  <updated_at>Fri Jan 06 08:22:36 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161143499</id>
+  <body><![CDATA[This book literally changed my life. Glad to see you enjoyed it!]]></body>
+  
+  <user>
+    <id>12604789</id>
+    <name>Alixandra</name>
+    <display_name>Alixandra Johnson</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12604789-alixandra-johnson]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1425719113p3/12604789.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1425719113p2/12604789.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 06 12:01:29 -0800 2017</created_at>
+  <updated_at>Fri Jan 06 12:01:29 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161149656</id>
+  <body><![CDATA[I love this book so much, one like it is a lucky child, the author won the Elie Wiesel award a few years ago❤️]]></body>
+  
+  <user>
+    <id>44657029</id>
+    <name>Kristin</name>
+    <display_name>Kristin</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/44657029-kristin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1466981354p3/44657029.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1466981354p2/44657029.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 06 14:28:20 -0800 2017</created_at>
+  <updated_at>Fri Jan 06 14:28:20 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161150143</id>
+  <body><![CDATA[This books was so hard for me to read content wise, but it changed my life. My grandfather served in WW2 and has PTSD. Things like this give me a look into what he went through and I appreciate him so much more. I would love to see a video ok your grandfather.]]></body>
+  
+  <user>
+    <id>31797252</id>
+    <name>Grace</name>
+    <display_name>Grace</display_name>
+
+    <location>Portersville, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/31797252-grace]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1468294603p3/31797252.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1468294603p2/31797252.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 06 14:41:22 -0800 2017</created_at>
+  <updated_at>Fri Jan 06 14:41:22 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161151315</id>
+  <body><![CDATA[beautiful quote (°O°)]]></body>
+  
+  <user>
+    <id>49600991</id>
+    <name>PrincessKonsvelaBananaHamek</name>
+    <display_name>PrincessKonsvelaBananaHamek</display_name>
+
+    <location>EVERLAND, Israel</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/49600991-princesskonsvelabananahamek]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1453298209p3/49600991.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1453298209p2/49600991.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 06 15:11:00 -0800 2017</created_at>
+  <updated_at>Fri Jan 06 15:11:00 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161166442</id>
+  <body><![CDATA[One of the most moving books I've yet read. Required reading!]]></body>
+  
+  <user>
+    <id>57764064</id>
+    <name>Ethan</name>
+    <display_name>Ethan Hval</display_name>
+
+    <location>Spokane, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/57764064-ethan-hval]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1468673704p3/57764064.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1468673704p2/57764064.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 06 23:30:30 -0800 2017</created_at>
+  <updated_at>Fri Jan 06 23:30:30 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161192993</id>
+  <body><![CDATA[I think everyone should read this book]]></body>
+  
+  <user>
+    <id>24664177</id>
+    <name>Devin</name>
+    <display_name>Devin Dragan</display_name>
+
+    <location>Canonsburg, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24664177-devin-dragan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1416701264p3/24664177.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1416701264p2/24664177.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 07 13:56:32 -0800 2017</created_at>
+  <updated_at>Sat Jan 07 13:56:32 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161193778</id>
+  <body><![CDATA[I read this in class last semester and it was absolutely amazing!]]></body>
+  
+  <user>
+    <id>59202941</id>
+    <name>Lexie</name>
+    <display_name>Lexie</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/59202941-lexie]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 07 14:12:07 -0800 2017</created_at>
+  <updated_at>Sat Jan 07 14:12:07 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161201479</id>
+  <body><![CDATA[I finished this book last semester and it's just amazing!]]></body>
+  
+  <user>
+    <id>56749279</id>
+    <name>Natalie</name>
+    <display_name>Natalie (Bookcase30)</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/56749279-natalie-bookcase30]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1485052512p3/56749279.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1485052512p2/56749279.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 07 17:42:27 -0800 2017</created_at>
+  <updated_at>Sat Jan 07 17:42:27 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161239040</id>
+  <body><![CDATA[Yay! I'm glad u liked this book. I can't wait to hear ur thoughts!(:]]></body>
+  
+  <user>
+    <id>27179072</id>
+    <name>Drew</name>
+    <display_name>Drew</display_name>
+
+    <location>Henderson, NV</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27179072-drew]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1477082834p3/27179072.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1477082834p2/27179072.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 08 13:25:59 -0800 2017</created_at>
+  <updated_at>Sun Jan 08 13:25:59 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161470307</id>
+  <body><![CDATA[Just starting :)]]></body>
+  
+  <created_at>Fri Jan 13 18:04:36 -0800 2017</created_at>
+  <updated_at>Fri Jan 13 18:04:36 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161785921</id>
+  <body><![CDATA[Love this book so much! Glad you agree :)]]></body>
+  
+  <user>
+    <id>26854927</id>
+    <name>Zoe</name>
+    <display_name>Zoe</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/26854927-zoe]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1405365540p3/26854927.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1405365540p2/26854927.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 20 23:44:01 -0800 2017</created_at>
+  <updated_at>Fri Jan 20 23:44:01 -0800 2017</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1867794955]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1867794955]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

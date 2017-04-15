@@ -1,0 +1,793 @@
+status: 200
+x-request-id: WXN1G266VGG7J8K0ACBW
+x-xss-protection: 1; mode=block
+content-location: https://www.goodreads.com/review/show.xml?id=157023300&key=2uQMlznVEwfI4YTVFQwsA
+x-content-type-options: nosniff, nosniff
+set-cookie: csid=BAhJIhg2OTMtMjIwNTAyOC0yNzY2OTcxBjoGRVQ%3D--20ae273089731ca2c7c77d2e309738191bcf1b85;
+ path=/; expires=Wed, 15 Apr 2037 15:12:34 -0000, locale=es;
+ path=/, _session_id2=5837027bff9c4dd895fc83f181ba23c0; path=/;
+ expires=Sat, 15 Apr 2017 21:12:34 -0000; HttpOnly
+vary: User-Agent,Accept-Encoding
+connection: keep-alive
+content-length: 35088
+server: Server
+x-runtime: 0.403692
+etag: W/"9022f2bef2b8a07fd51ec7bda828096d"
+cache-control: max-age=0, private, must-revalidate
+date: Sat, 15 Apr 2017 15:12:34 GMT
+x-frame-options: ALLOWALL
+content-type: application/xml; charset=utf-8
+-content-encoding: gzip
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>157023300</id>
+    
+  <user>
+    <id>1416912</id>
+    <name>Trudi</name>
+    <display_name>Trudi</display_name>
+
+    <location>Regina, SK, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1416912-trudi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1446613110p3/1416912.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1446613110p2/1416912.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">12837725</id>
+  <isbn>030758836X</isbn>
+  <isbn13>9780307588364</isbn13>
+  <text_reviews_count type="integer">5048</text_reviews_count>
+  <title>Gone Girl</title>
+  <title_without_series>Gone Girl</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1327596526m/12837725.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1327596526s/12837725.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/12837725-gone-girl</link>
+  <num_pages>419</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Crown Publishers</publisher>
+  <publication_day>5</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.03</average_rating>
+  <ratings_count>1557910</ratings_count>
+  <description>On a warm summer morning in North Carthage, Missouri, it is Nick and Amy Dunne's fifth wedding anniversary. Presents are being wrapped and reservations are being made when Nick's clever and beautiful wife disappears from their rented McMansion on the Mississippi River. Husband-of-the-Year Nick isn't doing himself any favors with cringe-worthy daydreams about the slope and shape of his wife's head, but passages from Amy's diary reveal the alpha-girl perfectionist could have put anyone dangerously on edge. Under mounting pressure from the police and the media--as well as Amy's fiercely doting parents--the town golden boy parades an endless series of lies, deceits, and inappropriate behavior. Nick is oddly evasive, and he's definitely bitter--but is he really a killer? &lt;br /&gt;&lt;br /&gt; As the cops close in, every couple in town is soon wondering how well they know the one that they love. With his twin sister, Margo, at his side, Nick stands by his innocence. Trouble is, if Nick didn't do it, where is that beautiful wife? And what was in that silvery gift box hidden in the back of her bedroom closet?</description>
+<authors>
+<author>
+<id>2383</id>
+<name>Gillian Flynn</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1232123231p5/2383.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1232123231p2/2383.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2383.Gillian_Flynn]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>2325631</ratings_count>
+<text_reviews_count>184036</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">15688389</id>
+          <page type="integer">223</page>
+          <chapter type="integer"></chapter>
+          <comments_count>3</comments_count>
+          <created_at type="datetime">Tue Jul 10 18:37:56 -0700 2012</created_at>
+          <updated_at type="datetime">Sun Sep 08 04:26:57 -0700 2013</updated_at>
+          <last_comment_at type="datetime">Wed Jul 11 15:50:32 -0700 2012</last_comment_at>
+          <ratings_count type="integer">3</ratings_count>
+          <percent type="integer">52</percent>
+          <work_id type="integer">13306276</work_id>
+          <note_uri>kca://note/amzn1.grok.note.c5c5bbcb87d9f0646e3a76d124c1ea62</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Whoah, I think she just blew my mind. Awesomeness on top of awesomeness marinated in awesomeness!!]]></body>
+        </user_status>
+    </user_statuses>
+  <rating>4</rating>
+  <votes>195</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="twss" exclusive="false" review_shelf_id="241723076" sortable="false" />
+    <shelf name="favorites" exclusive="false" review_shelf_id="252270817" sortable="false" />
+    <shelf name="rusa-reads" exclusive="false" review_shelf_id="366056819" sortable="false" />
+    <shelf name="2012" exclusive="false" review_shelf_id="240781629" sortable="false" />
+    <shelf name="crime-mystery" exclusive="false" review_shelf_id="98085804" sortable="false" />
+    <shelf name="heart-of-darkness" exclusive="false" review_shelf_id="241723058" sortable="false" />
+    <shelf name="sherwood-picks" exclusive="false" review_shelf_id="378042402" sortable="false" />
+    <shelf name="gillian-flynn" exclusive="false" review_shelf_id="98085781" sortable="false" />
+    <shelf name="made-into-movie" exclusive="false" review_shelf_id="672187624" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Jul 08 00:00:00 -0700 2012</started_at>
+  <read_at>Sat Jul 14 00:00:00 -0700 2012</read_at>
+  <date_added>Sun Mar 27 10:01:57 -0700 2011</date_added>
+  <date_updated>Wed Mar 26 07:33:20 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<br />I've been completely fangirling over Gillian Flynn since her debut <a href="https://www.goodreads.com/book/show/66559.Sharp_Objects" title="Sharp Objects by Gillian Flynn" rel="nofollow">Sharp Objects</a> six years ago. It remains one of my all-time-favorites, along with Flynn's sophomore novel <a href="https://www.goodreads.com/book/show/5886881.Dark_Places" title="Dark Places by Gillian Flynn" rel="nofollow">Dark Places</a>. No one writes the inner workings of warped and damaged human psychology better than this woman. With complete co...]]>
+  </body>
+
+  
+
+  <comments_count>28</comments_count>
+    <comments start="1" end="28" total="28">
+        <comment>
+  <id>54469031</id>
+  <body><![CDATA[Great Review Trudi!]]></body>
+  
+  <user>
+    <id>5859453</id>
+    <name>Arah-Lynda</name>
+    <display_name>Arah-Lynda</display_name>
+
+    <location>Kitchener, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5859453-arah-lynda]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480595805p3/5859453.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480595805p2/5859453.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 19 12:45:09 -0700 2012</created_at>
+  <updated_at>Thu Jul 19 12:45:09 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>54478538</id>
+  <body><![CDATA[Thanks! :D]]></body>
+  
+  <user>
+    <id>1416912</id>
+    <name>Trudi</name>
+    <display_name>Trudi</display_name>
+
+    <location>Regina, SK, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1416912-trudi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1446613110p3/1416912.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1446613110p2/1416912.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 19 14:52:44 -0700 2012</created_at>
+  <updated_at>Thu Jul 19 14:52:44 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>57754412</id>
+  <body><![CDATA[Awesome review!! I couldn't turn the pages fast enough to see what was going to happen next!!!]]></body>
+  
+  <user>
+    <id>11009027</id>
+    <name>Sherri</name>
+    <display_name>Sherri Logan</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11009027-sherri-logan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1342464998p3/11009027.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1342464998p2/11009027.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 07 20:53:10 -0700 2012</created_at>
+  <updated_at>Fri Sep 07 20:53:10 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>57756936</id>
+  <body><![CDATA[Thanks Sherri! It is definitely a page-turner. Her two previous books <a href="https://www.goodreads.com/book/show/66559.Sharp_Objects" title="Sharp Objects by Gillian Flynn" rel="nofollow">Sharp Objects</a> and <a href="https://www.goodreads.com/book/show/5886881.Dark_Places" title="Dark Places by Gillian Flynn" rel="nofollow">Dark Places</a> are amazing as well. I highly recommend them!! :)]]></body>
+  
+  <user>
+    <id>1416912</id>
+    <name>Trudi</name>
+    <display_name>Trudi</display_name>
+
+    <location>Regina, SK, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1416912-trudi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1446613110p3/1416912.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1446613110p2/1416912.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 07 21:48:58 -0700 2012</created_at>
+  <updated_at>Fri Sep 07 21:48:58 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>57767445</id>
+  <body><![CDATA[I loved Gone Girl. LOVED. I didn't like Dark Places as much...good book, but a bit of a letdown after GG. So I'm debating my next purchase. Should I pick up Sharp Objects or do you have a suggestion that I might like as much as Gone Girl? <br /><br />Great review, by the way.<br /><br />mw]]></body>
+  
+  <user>
+    <id>12465687</id>
+    <name>Michael</name>
+    <display_name>Michael Winemiller</display_name>
+
+    <location>Arlington, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12465687-michael-winemiller]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat Sep 08 06:02:36 -0700 2012</created_at>
+  <updated_at>Sat Sep 08 06:02:36 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>57772396</id>
+  <body><![CDATA[Thanks Michael! <br /><br />I understand that for anyone who reads GG first, Flynn's other two books may fall a little flat by comparison. They are certainly not as in your face, pedal to the metal the way Gone Girl is. This made me love her first books even more, but I realize that the quieter, more creeping experience isn't going to wow everybody the same.<br /><br />Ah, readalikes for Gone Girl! I really should start thinking hard and fast about this now, because I'm sure my library patrons will start demanding them soon.<br /><br />Here are a few that have really stood out to me in the last year or so Michael:<br /><br /><a href="https://www.goodreads.com/book/show/10108463.The_Devil_All_the_Time" title="The Devil All the Time by Donald Ray Pollock" rel="nofollow">The Devil All the Time</a> and <a href="https://www.goodreads.com/book/show/112525.Winter_s_Bone" title="Winter's Bone by Daniel Woodrell" rel="nofollow">Winter's Bone</a>. Amazing. <br /><br /><a href="https://www.goodreads.com/book/show/7159515.Still_Missing" title="Still Missing by Chevy Stevens" rel="nofollow">Still Missing</a> and <a href="https://www.goodreads.com/book/show/9736930.Before_I_Go_To_Sleep" title="Before I Go To Sleep by S.J. Watson" rel="nofollow">Before I Go To Sleep</a> are addictive, page-turners in their own way. Very satisfying. <br /><br /><a href="https://www.goodreads.com/book/show/21727.A_Simple_Plan" title="A Simple Plan by Scott B. Smith" rel="nofollow">A Simple Plan</a> is fantastic. Has a great movie too!<br /><br />But my favorite in this sort of twisty, dark, crime-mystery category would be Westlake's <a href="https://www.goodreads.com/book/show/176811.The_Ax" title="The Ax by Donald E. Westlake" rel="nofollow">The Ax</a>. A classic! I've re-read it a few times, and even when I know what's going to happen, I'm still sitting on the edge of my seat! It's a thin volume but packs a lot of punch. <br /><br />And just for sheer, pageturning adrenaline, I'm going to throw out King's <a href="https://www.goodreads.com/book/show/9014.The_Long_Walk" title="The Long Walk by Stephen King" rel="nofollow">The Long Walk</a>. I promise you if you pick it up, you won't be able to put it back down again. I re-read this book every other year I love it so much. <br /><br />See? Never ask a librarian for reading suggestions. They'll never shut up! ;)]]></body>
+  
+  <user>
+    <id>1416912</id>
+    <name>Trudi</name>
+    <display_name>Trudi</display_name>
+
+    <location>Regina, SK, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1416912-trudi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1446613110p3/1416912.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1446613110p2/1416912.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Sep 08 07:55:41 -0700 2012</created_at>
+  <updated_at>Sat Sep 08 07:55:41 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>58192334</id>
+  <body><![CDATA[trudi.. i have all of her books on the kindle, but cant decide which to read first. Im thinking sharp objects. what do you think?]]></body>
+  
+  <user>
+    <id>9104633</id>
+    <name>Jason</name>
+    <display_name>Jason</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9104633-jason]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486518545p3/9104633.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486518545p2/9104633.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Sep 15 14:17:47 -0700 2012</created_at>
+  <updated_at>Sat Sep 15 14:17:47 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>58206599</id>
+  <body><![CDATA[<i>Jason wrote: "trudi.. i have all of her books on the kindle, but cant decide which to read first. Im thinking sharp objects. what do you think?"</i><br /><br />That's a tough question!!! It seems anyone who reads Gone Girl first, are a little let down by her earlier novels. I love them though. I'm going to vote for Sharp Objects. If you do read it, let me know what you think!]]></body>
+  
+  <user>
+    <id>1416912</id>
+    <name>Trudi</name>
+    <display_name>Trudi</display_name>
+
+    <location>Regina, SK, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1416912-trudi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1446613110p3/1416912.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1446613110p2/1416912.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Sep 15 18:41:24 -0700 2012</created_at>
+  <updated_at>Sat Sep 15 18:41:24 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>58213351</id>
+  <body><![CDATA[I have spent the last thirty minutes with Sharp Objects and a decent bottle of red wine (ok lie.... cheap red wine from trader joes...) , and i have to admit i love it; the book. I hesitated starting out with Gone Girl for the very reasons you cited. If it wasn't for the SNL premiere I would eat it up in one sitting.]]></body>
+  
+  <user>
+    <id>9104633</id>
+    <name>Jason</name>
+    <display_name>Jason</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9104633-jason]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486518545p3/9104633.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486518545p2/9104633.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Sep 15 20:40:16 -0700 2012</created_at>
+  <updated_at>Sat Sep 15 20:40:16 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>58547026</id>
+  <body><![CDATA[<i>Trudi wrote: "Jason wrote: "trudi.. i have all of her books on the kindle, but cant decide which to read first. Im thinking sharp objects. what do you think?"<br /><br />That's a tough question!!! It seems anyone who rea..."</i><br /><br /><br /><br />so i read it. I felt it was predictable and uneven... though i know it is her first attempt at a novel. As lots of people said, the gore, sex, etc was more to thrill and get a reaction out of the reader. I wonder if this is a continued motif (i dont know if that is the right word...) throughout her writing. It could be a result of not knowing that she could be a bit more subtle, rather than forced. I have a few more novels to read before i jump back into her other books, but i will begin again with dark places.]]></body>
+  
+  <user>
+    <id>9104633</id>
+    <name>Jason</name>
+    <display_name>Jason</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9104633-jason]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486518545p3/9104633.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486518545p2/9104633.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 21 14:08:08 -0700 2012</created_at>
+  <updated_at>Fri Sep 21 14:08:08 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>58562940</id>
+  <body><![CDATA[That's too bad that you didn't enjoy it more Jason. It's funny that you should think of Gone Girl as being more subtle, because I would say the exact opposite. I found it sensationalist and far-out, a suspend your disbelief salacious page-turner. Juicy and twisted with demented glee :) but heavy-handed for all that. <br /><br />For me Sharp Objects and Dark Places are the quiet novels, nuanced and careful and beautifully textured. I certainly found them to be much more literary and haunting than Gone Girl and books I look forward to re-reading. But my opinion definitely seems to be the minority!!]]></body>
+  
+  <user>
+    <id>1416912</id>
+    <name>Trudi</name>
+    <display_name>Trudi</display_name>
+
+    <location>Regina, SK, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1416912-trudi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1446613110p3/1416912.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1446613110p2/1416912.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 21 18:41:27 -0700 2012</created_at>
+  <updated_at>Fri Sep 21 18:41:27 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>58563311</id>
+  <body><![CDATA[Jason I just realized you've only read Sharp Objects and have yet to read Gone Girl. I think you are in for a treat my friend. Even though I'm ga-ga for her first two books, the whole world seems to be in love with Gone Girl's adrenaline and twisty style. Enjoy!]]></body>
+  
+  <user>
+    <id>1416912</id>
+    <name>Trudi</name>
+    <display_name>Trudi</display_name>
+
+    <location>Regina, SK, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1416912-trudi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1446613110p3/1416912.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1446613110p2/1416912.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 21 18:47:26 -0700 2012</created_at>
+  <updated_at>Fri Sep 21 18:47:26 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>58564474</id>
+  <body><![CDATA[So sorry for clarification issue. Think I'll devour her books in order, especially if gone girl is so different than her earlier stuff. Spoiler........ I just knew who it was from the start. The three blondes all cocky in front of the crime scene. I did like the majority of it but the sex and gore seemed so apart from the rest of the narrative that I was put off. I won't give up on her though. I liked it overall... Ease of reading and simple metaphors were a delight]]></body>
+  
+  <user>
+    <id>9104633</id>
+    <name>Jason</name>
+    <display_name>Jason</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9104633-jason]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486518545p3/9104633.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486518545p2/9104633.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 21 19:07:19 -0700 2012</created_at>
+  <updated_at>Fri Sep 21 19:07:19 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>59854976</id>
+  <body><![CDATA[<i>Trudi wrote: "Thanks! :D"</i><br /><br />Hi Trudi. I just wanted to let you know that I have since read Gone Girl and loved it. Thanks for bringing it to my attention. If I knew how to link your review to my own I would have as it is decidedly the best I have read on this work. Once again my thanks.]]></body>
+  
+  <user>
+    <id>5859453</id>
+    <name>Arah-Lynda</name>
+    <display_name>Arah-Lynda</display_name>
+
+    <location>Kitchener, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5859453-arah-lynda]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480595805p3/5859453.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480595805p2/5859453.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Oct 13 14:56:46 -0700 2012</created_at>
+  <updated_at>Sat Oct 13 14:56:46 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>59861020</id>
+  <body><![CDATA[<i>Arah-Lynda wrote: "I just wanted to let you know that I have since read Gone Girl and loved it. Thanks for bringing it to my attention ..."</i><br /><br />You're so very welcome! I'm so glad you loved it. It really is a burning page-turner and one of the most tightly plotted books I've ever read :)]]></body>
+  
+  <user>
+    <id>1416912</id>
+    <name>Trudi</name>
+    <display_name>Trudi</display_name>
+
+    <location>Regina, SK, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1416912-trudi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1446613110p3/1416912.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1446613110p2/1416912.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Oct 13 16:50:35 -0700 2012</created_at>
+  <updated_at>Sat Oct 13 16:50:35 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>60295875</id>
+  <body><![CDATA[This review was almost as fun to read as the book! Thanks :-)]]></body>
+  
+  <user>
+    <id>9873335</id>
+    <name>Cari</name>
+    <display_name>Cari</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9873335-cari]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1338343866p3/9873335.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1338343866p2/9873335.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Oct 21 09:23:36 -0700 2012</created_at>
+  <updated_at>Sun Oct 21 09:23:36 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>65120339</id>
+  <body><![CDATA[Much Obliged to You for such a review..I just heard of this book tonight...I will be reading this, and soon!]]></body>
+  
+  <user>
+    <id>7012964</id>
+    <name>Athena</name>
+    <display_name>Athena</display_name>
+
+    <location>Marquette, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7012964-athena]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 07 20:21:52 -0800 2013</created_at>
+  <updated_at>Mon Jan 07 20:21:52 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>65120720</id>
+  <body><![CDATA[<i>Athena wrote: "Much Obliged to You for such a review..I just heard of this book tonight...I will be reading this, and soon!"</i><br /><br />Thank you! Enjoy!]]></body>
+  
+  <user>
+    <id>1416912</id>
+    <name>Trudi</name>
+    <display_name>Trudi</display_name>
+
+    <location>Regina, SK, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1416912-trudi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1446613110p3/1416912.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1446613110p2/1416912.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 07 20:28:51 -0800 2013</created_at>
+  <updated_at>Mon Jan 07 20:28:51 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>65120787</id>
+  <body><![CDATA[<i>Cari wrote: "This review was almost as fun to read as the book! Thanks :-)"</i><br /><br />Thank you Cari! What a compliment :-)]]></body>
+  
+  <user>
+    <id>1416912</id>
+    <name>Trudi</name>
+    <display_name>Trudi</display_name>
+
+    <location>Regina, SK, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1416912-trudi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1446613110p3/1416912.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1446613110p2/1416912.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 07 20:29:44 -0800 2013</created_at>
+  <updated_at>Mon Jan 07 20:29:44 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>65159821</id>
+  <body><![CDATA[Oh, I can't believe you're putting this author in the same category as Flannery O'Connor...in what universe!?]]></body>
+  
+  <user>
+    <id>16161727</id>
+    <name>Kathleen</name>
+    <display_name>Kathleen</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16161727-kathleen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1357505403p3/16161727.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1357505403p2/16161727.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 08 13:14:07 -0800 2013</created_at>
+  <updated_at>Tue Jan 08 13:14:07 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>65163739</id>
+  <body><![CDATA[<i>Kathleen wrote: "Oh, I can't believe you're putting this author in the same category as Flannery O'Connor...in what universe!?"</i><br /><br />In mine obviously ;)]]></body>
+  
+  <user>
+    <id>1416912</id>
+    <name>Trudi</name>
+    <display_name>Trudi</display_name>
+
+    <location>Regina, SK, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1416912-trudi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1446613110p3/1416912.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1446613110p2/1416912.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 08 14:17:47 -0800 2013</created_at>
+  <updated_at>Tue Jan 08 14:17:47 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>65224620</id>
+  <body><![CDATA[Crap! I wanted to be the hundred person to like this review, but someone got there first! LOL.]]></body>
+  
+  <user>
+    <id>2969647</id>
+    <name>Maciek</name>
+    <display_name>Maciek</display_name>
+
+    <location>Warsaw, Poland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2969647-maciek]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1280839159p3/2969647.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1280839159p2/2969647.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 09 13:01:08 -0800 2013</created_at>
+  <updated_at>Wed Jan 09 13:01:08 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>65596968</id>
+  <body><![CDATA[Liked your review, although it was more glowing than I would have given the book. But your writing is great. :)]]></body>
+  
+  <user>
+    <id>1626543</id>
+    <name>Cindy</name>
+    <display_name>Cindy Brown Ash</display_name>
+
+    <location>Frederick, MD</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1626543-cindy-brown-ash]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1351115088p3/1626543.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1351115088p2/1626543.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 14 23:37:16 -0800 2013</created_at>
+  <updated_at>Mon Jan 14 23:37:16 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>65626401</id>
+  <body><![CDATA[<i>Cindy wrote: "Liked your review, although it was more glowing than I would have given the book. But your writing is great. :)"</i><br /><br />Thanks Cindy! My praise is enthusiastic, but I don't think this is Flynn's best book, by far. It's a salacious page-turner great for summer reading, but I loved <a href="https://www.goodreads.com/book/show/66559.Sharp_Objects" title="Sharp Objects by Gillian Flynn" rel="nofollow">Sharp Objects</a> and <a href="https://www.goodreads.com/book/show/5886881.Dark_Places" title="Dark Places by Gillian Flynn" rel="nofollow">Dark Places</a> much more.]]></body>
+  
+  <user>
+    <id>1416912</id>
+    <name>Trudi</name>
+    <display_name>Trudi</display_name>
+
+    <location>Regina, SK, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1416912-trudi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1446613110p3/1416912.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1446613110p2/1416912.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 15 11:55:30 -0800 2013</created_at>
+  <updated_at>Tue Jan 15 11:55:30 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>67334360</id>
+  <body><![CDATA[<i>Maciek wrote: "Crap! I wanted to be the hundred person to like this review, but someone got there first! LOL."</i><br /><br />I somehow missed this comment Maciek! Haha, thank you. It's the thought that counts my friend :-)]]></body>
+  
+  <user>
+    <id>1416912</id>
+    <name>Trudi</name>
+    <display_name>Trudi</display_name>
+
+    <location>Regina, SK, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1416912-trudi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1446613110p3/1416912.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1446613110p2/1416912.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Feb 07 17:50:51 -0800 2013</created_at>
+  <updated_at>Thu Feb 07 17:50:51 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>67353880</id>
+  <body><![CDATA[Indeed it does! :)]]></body>
+  
+  <user>
+    <id>2969647</id>
+    <name>Maciek</name>
+    <display_name>Maciek</display_name>
+
+    <location>Warsaw, Poland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2969647-maciek]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1280839159p3/2969647.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1280839159p2/2969647.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 08 02:16:24 -0800 2013</created_at>
+  <updated_at>Fri Feb 08 02:16:24 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>118579954</id>
+  <body><![CDATA[I felt so conflicted about how to write a review for this. You did an excellent job. May I ask if you've read Marrow by Tarryn Fisher? I think you'd love her books.]]></body>
+  
+  <user>
+    <id>7385451</id>
+    <name>Catherine</name>
+    <display_name>Catherine Cooper</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7385451-catherine-cooper]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1326246602p3/7385451.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1326246602p2/7385451.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri May 01 10:49:22 -0700 2015</created_at>
+  <updated_at>Fri May 01 10:49:22 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>130703435</id>
+  <body><![CDATA[I ended up being semi-spoiled for this before I had a chance to read it, so I did the lazy thing and just saw the movie when it came out. I did read Flynn's other books, I liked <i>Sharp Objects</i> with some reservations, and absolutely loved <i>Dark Places</i>. Anyway, back to this one, what did you think of the ending, Trudi?<br /><a class="jsShowSpoiler spoilerAction">(view spoiler)</a><span class="spoilerContainer" style="display: none">[In the movie, I thought the last half hour or so just went off the rails. For all its cleverness I didn't buy it, mostly that Nick would willingly stay with Amy after learning how much of a psychopath she is. Staying for the kid is a tired device, and rings a bit hollow in the 21st century. Plus, why would Amy even want him to stay, now that all their mutual illusions are stripped away? But sometimes a book can pull off something like this better than a film can, which is what I'm wondering. <a class="jsHideSpoiler spoilerAction">(hide spoiler)</a>]</span>]]></body>
+  
+  <user>
+    <id>2050288</id>
+    <name>Kirk</name>
+    <display_name>Kirk</display_name>
+
+    <location>Oakland, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2050288-kirk]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1476811824p3/2050288.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1476811824p2/2050288.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 22 10:20:02 -0700 2015</created_at>
+  <updated_at>Mon Jun 22 10:20:02 -0700 2015</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/157023300]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/157023300]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>
