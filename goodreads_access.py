@@ -34,33 +34,65 @@ def get_info_usuario (reviews, client, genero):
     return users
 
 '''Guardar los usuarios en un fichero formato igraph'''   
-def guardar_en_fichero(lista_usuarios,info):
-    if info=='nodo':
-        fichero = open('grafo.txt','a')
+def guardar_grafo_en_fichero(lista_usuarios,vacio,capa):
+    fichero = open('grafo.txt','a')
+    if vacio:
+        fichero.write('graph [ \n')
+        fichero.write('directed 1 \n')
+    for user in lista_usuarios:
+        fichero.write('node [ \n')
+        fichero.write('id '+user['id_user']+' \n')
+        if user['nombre'] == None:
+            user['nombre'] = 'J. Doe'
+            print(user['nombre'])
+        fichero.write('nombre_usuario '+str(user['nombre'].encode('utf-8'))+' \n')
+        fichero.write('] \n')
+    if capa==2:
         for user in lista_usuarios:
-            fichero.write('node [ \n')
-            fichero.write('id '+user['id_user']+' \n')
-            fichero.write('nombre_usuario '+user['nombre']+' \n')
+            fichero.write('edge [ \n')
+            fichero.write('source '+str(user['is_friend_of'])+' \n')
+            fichero.write('target '+str(user['id_user'])+' \n')
             fichero.write('] \n')
-            fichero.close()
-    if info=='info':
-        fichero = open('grafo_info_usuarios.txt','a')
+            fichero.write('edge [ \n')
+            fichero.write('source '+str(user['id_user'])+' \n')
+            fichero.write('target '+str(user['is_friend_of'])+' \n')
+            fichero.write('] \n')
+    fichero.close()
+            
+def guardar_info_usuario_fichero(lista_usuarios,vacio,capa):
+    fichero = open('info_usuarios.txt','a')
+    if vacio:
+        fichero.write('ID_usuario Nombre Enlace_usuario ID_libro Genero Review \n')
+    if capa==2:
+        for user in lista_usuarios:
+            fichero.write(str(user['id_user']))
+            fichero.write(','+user['nombre'].encode('utf-8'))
+            fichero.write(','+str(user['enlace']))
+            fichero.write(','+str(user['genero_comun']).encode('utf-8'))
+            fichero.write(','+str(user['is_friend_of']))
+    else:
         for user in lista_usuarios:
             fichero.write(str(user['id_user'])+','+str(user['nombre'])+','+str(user['enlace'])+','+str(user['id_libro'])+','+str(user['genero'])+','+ user['review'].encode('utf-8'))
-        fichero.close()
+   
+    fichero.close()
         
-'''De todos los usuarios obtenidos previamente, obtener 50 de sus amigos'''        
+'''De todos los usuarios obtenidos previamente, obtener 60 de sus amigos'''        
 def get_amigos_usuarios(lista_usuarios):
     amigos_lista = []
-    for user in lista_usuarios:
-        amigos_user = {}
-        for amigo in client.get_friends(user['id_user'], 60):
-            amigos_user['id_user'] = str(amigo[0])
-            amigos_user['nombre'] = amigo[1]
-            amigos_user['enlace'] = 'https://www.goodreads.com/user/show/'+str(amigo[0])
-            amigos_user['is_friend_of'] = str(user['id_user']) 
-            amigos_user['genero_comun'] = str(user['genero'])
-            amigos_lista.append(amigos_user)
+    for user in lista_usuarios:        
+        try:
+            amigos = client.get_friends(user['id_user'], 60)
+        except Exception:
+            amigos = []
+        for amigo in amigos:
+            amigo_data = {}
+            amigo_data['id_user'] = str(amigo[0])
+            amigo_data['nombre'] = amigo[1]
+            amigo_data['enlace'] = 'https://www.goodreads.com/user/show/'+str(amigo[0])
+            amigo_data['is_friend_of'] = str(user['id_user']) 
+            amigo_data['genero_comun'] = str(user['genero'])
+            amigos_lista.append(amigo_data)
+        t.sleep(1)
     return amigos_lista
 
 #Listas de ids de reviews
@@ -88,14 +120,17 @@ r_terror = set(get_id_reviews('./crawler_reviews/reviews_terror.json'))
 usuarios_arte = get_info_usuario(r_arte,client,'arte')
 guardar_en_fichero(usuarios_arte,'nodo')
 guardar_en_fichero(usuarios_arte,'info')
+usuarios_arte_2 = get_amigos_usuarios(usuarios_arte)
 
 usuarios_adolescente = get_info_usuario(r_adolescente,client,'adolescente')
 guardar_en_fichero(usuarios_adolescente,'nodo')
 guardar_en_fichero(usuarios_adolescente,'info')
+usuarios_adolescente_2 = get_amigos_usuarios(usuarios_adolescente)
 
 usuarios_clasicos = get_info_usuario(r_clasicos,client,'clasicos')
 guardar_en_fichero(usuarios_clasicos,'nodo')
 guardar_en_fichero(usuarios_clasicos,'info')
+usuarios_clasicos_2 = get_amigos_usuarios(usuarios_clasicos)
 
 usuarios_crimen = get_info_usuario(r_crimen,client,'crimen')
 guardar_en_fichero(usuarios_crimen,'nodo')
@@ -159,6 +194,9 @@ guardar_en_fichero(usuarios_terror,'info')
 
 usuarios_primera_capa = usuarios_arte + usuarios_adolescente + usuarios_clasicos + usuarios_crimen + usuarios_espiritualidad + usuarios_fantasia + usuarios_ficcion + usuarios_historico + usuarios_infantil + usuarios_lgtb + usuarios_manga + usuarios_misterio + usuarios_musica + usuarios_poesia + usuarios_romance + usuarios_scifi + usuarios_suspense + usuarios_terror;
 usuarios_segunda_capa = get_amigos_usuarios(usuarios_primera_capa)
+
+guardar_grafo_en_fichero(usuarios_segunda_capa,0,2)
+guardar_info_usuario_fichero(usuarios_segunda_capa,0,2)
 
 
 
