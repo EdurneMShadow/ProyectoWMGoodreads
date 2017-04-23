@@ -1,20 +1,20 @@
 status: 200
-x-request-id: NRQ9VBA9NN7SPNSK3SR4
+x-request-id: N7XDPHADZHJHWBRXZH1W
 x-xss-protection: 1; mode=block
 content-location: https://www.goodreads.com/review/show.xml?id=1770368010&key=2uQMlznVEwfI4YTVFQwsA
 x-content-type-options: nosniff, nosniff
-set-cookie: csid=BAhJIhgxOTUtMzIwMDQxNS00Mzc5MDkzBjoGRVQ%3D--0cea89cef11a4743eced26ae8d95a7c0f31060b1;
- path=/; expires=Wed, 15 Apr 2037 15:23:43 -0000, locale=es;
- path=/, _session_id2=1287a235785f96b6499dd8d6f8cdc9a8; path=/;
- expires=Sat, 15 Apr 2017 21:23:43 -0000; HttpOnly
+set-cookie: csid=BAhJIhg1ODUtNTMyNDIxOS02MzEzMjg3BjoGRVQ%3D--9041270098eb39ae7042639495d7786019d99267;
+ path=/; expires=Thu, 23 Apr 2037 08:51:07 -0000, locale=es;
+ path=/, _session_id2=e33b28e2c47e5faeeca7dcd4747e906a; path=/;
+ expires=Sun, 23 Apr 2017 14:51:08 -0000; HttpOnly
 vary: User-Agent,Accept-Encoding
 connection: keep-alive
-content-length: 25322
+content-length: 26224
 server: Server
-x-runtime: 0.429501
-etag: W/"c00593bcb141e45bb272414db49f0d53"
+x-runtime: 0.259966
+etag: W/"5b3b87d25c50ffb6675d4dd3b5890f6b"
 cache-control: max-age=0, private, must-revalidate
-date: Sat, 15 Apr 2017 15:23:43 GMT
+date: Sun, 23 Apr 2017 08:51:08 GMT
 x-frame-options: ALLOWALL
 content-type: application/xml; charset=utf-8
 -content-encoding: gzip
@@ -50,7 +50,7 @@ content-type: application/xml; charset=utf-8
   <id type="integer">72193</id>
   <isbn>0747532745</isbn>
   <isbn13>9780747532743</isbn13>
-  <text_reviews_count type="integer">2255</text_reviews_count>
+  <text_reviews_count type="integer">2262</text_reviews_count>
   <title>Harry Potter and the Philosopher's Stone (Harry Potter, #1)</title>
   <title_without_series>Harry Potter and the Philosopher's Stone</title_without_series>
   <image_url>https://images.gr-assets.com/books/1327190600m/72193.jpg</image_url>
@@ -65,7 +65,7 @@ content-type: application/xml; charset=utf-8
   <publication_year>1997</publication_year>
   <publication_month>6</publication_month>
   <average_rating>4.44</average_rating>
-  <ratings_count>4576472</ratings_count>
+  <ratings_count>4589821</ratings_count>
   <description>Harry Potter thinks he is an ordinary boy - until he is rescued by an owl, taken to Hogwarts School of Witchcraft and Wizardry, learns to play Quidditch and does battle in a deadly duel. The Reason ... HARRY POTTER IS A WIZARD!</description>
 <authors>
 <author>
@@ -80,8 +80,8 @@ content-type: application/xml; charset=utf-8
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
 <average_rating>4.42</average_rating>
-<ratings_count>17561506</ratings_count>
-<text_reviews_count>435220</text_reviews_count>
+<ratings_count>17608427</ratings_count>
+<text_reviews_count>436521</text_reviews_count>
 </author>
 </authors>
   <published>1997</published>
@@ -222,7 +222,7 @@ content-type: application/xml; charset=utf-8
         </read_status>
     </read_statuses>
   <rating>5</rating>
-  <votes>167</votes>
+  <votes>185</votes>
   <spoiler_flag>false</spoiler_flag>
   <spoilers_state>none</spoilers_state>
   
@@ -230,19 +230,19 @@ content-type: application/xml; charset=utf-8
 <shelves>
   <shelf name="read" exclusive="true" />
 
+    <shelf name="novels" exclusive="false" review_shelf_id="1479989169" sortable="false" />
     <shelf name="english-20th-c" exclusive="false" review_shelf_id="1477850083" sortable="false" />
-    <shelf name="kids" exclusive="false" review_shelf_id="1477850009" sortable="false" />
     <shelf name="made-into-movie" exclusive="false" review_shelf_id="1487598142" sortable="false" />
     <shelf name="fantasy" exclusive="false" review_shelf_id="1477850227" sortable="false" />
+    <shelf name="kids" exclusive="false" review_shelf_id="1477850009" sortable="false" />
     <shelf name="read-in-en-and-fr" exclusive="false" review_shelf_id="1487597404" sortable="false" />
-    <shelf name="novels" exclusive="false" review_shelf_id="1479989169" sortable="false" />
 </shelves>
   <recommended_for></recommended_for>
   <recommended_by></recommended_by>
   <started_at>Thu Feb 09 00:00:00 -0800 2017</started_at>
-  <read_at>Mon Feb 20 15:53:58 -0800 2017</read_at>
+  <read_at>Mon Feb 20 00:00:00 -0800 2017</read_at>
   <date_added>Wed Sep 28 11:24:39 -0700 2016</date_added>
-  <date_updated>Tue Mar 28 05:24:11 -0700 2017</date_updated>
+  <date_updated>Sun Apr 16 11:11:06 -0700 2017</date_updated>
   <read_count>2</read_count>
   <body>
       <![CDATA[The first HP novel is already a classic. I have read it in the original English and the (slightly disappointing IMHO) French translation because my kid, just a few months after starting reading, plunged head first into this book and only resurfaced after the last one. I never made it past the 3td...]]>
@@ -250,8 +250,8 @@ content-type: application/xml; charset=utf-8
 
   
 
-  <comments_count>15</comments_count>
-    <comments start="1" end="15" total="15">
+  <comments_count>16</comments_count>
+    <comments start="1" end="16" total="16">
         <comment>
   <id>159728476</id>
   <body><![CDATA[Follow your child's lead and go all the way this time. I did with no regrets. It's not a perfect Potter-Rowling world but still pretty darned entertaining.]]></body>
@@ -595,6 +595,29 @@ content-type: application/xml; charset=utf-8
 
   <created_at>Mon Feb 27 18:03:09 -0800 2017</created_at>
   <updated_at>Mon Feb 27 18:03:09 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>165237834</id>
+  <body><![CDATA[Really liked this one too. I read the whole series and they are a bit inequal although in general enjoyable but nothing beats the first taste of HP's universe. After the first one the surprise effect is a bit gone.]]></body>
+  
+  <user>
+    <id>59758051</id>
+    <name>Benoit</name>
+    <display_name>Benoit Cerrina</display_name>
+
+    <location>Watertown, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/59758051-benoit-cerrina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1474210831p3/59758051.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1474210831p2/59758051.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Apr 17 05:56:02 -0700 2017</created_at>
+  <updated_at>Mon Apr 17 05:56:02 -0700 2017</updated_at>
 </comment>
 
     </comments>

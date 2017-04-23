@@ -48,8 +48,20 @@ def guardar_en_fichero(lista_usuarios,info):
         for user in lista_usuarios:
             fichero.write(str(user['id_user'])+','+str(user['nombre'])+','+str(user['enlace'])+','+str(user['id_libro'])+','+str(user['genero'])+','+ user['review'].encode('utf-8'))
         fichero.close()
-
-    
+        
+'''De todos los usuarios obtenidos previamente, obtener 50 de sus amigos'''        
+def get_amigos_usuarios(lista_usuarios):
+    amigos_lista = []
+    for user in lista_usuarios:
+        amigos_user = {}
+        for amigo in client.get_friends(user['id_user'], 60):
+            amigos_user['id_user'] = str(amigo[0])
+            amigos_user['nombre'] = amigo[1]
+            amigos_user['enlace'] = 'https://www.goodreads.com/user/show/'+str(amigo[0])
+            amigos_user['is_friend_of'] = str(user['id_user']) 
+            amigos_user['genero_comun'] = str(user['genero'])
+            amigos_lista.append(amigos_user)
+    return amigos_lista
 
 #Listas de ids de reviews
 r_arte = set(get_id_reviews('./crawler_reviews/reviews_arte.json'))
@@ -145,9 +157,8 @@ usuarios_terror = get_info_usuario(r_terror,client,'terror')
 guardar_en_fichero(usuarios_terror,'nodo')
 guardar_en_fichero(usuarios_terror,'info')
 
-
-
-
+usuarios_primera_capa = usuarios_arte + usuarios_adolescente + usuarios_clasicos + usuarios_crimen + usuarios_espiritualidad + usuarios_fantasia + usuarios_ficcion + usuarios_historico + usuarios_infantil + usuarios_lgtb + usuarios_manga + usuarios_misterio + usuarios_musica + usuarios_poesia + usuarios_romance + usuarios_scifi + usuarios_suspense + usuarios_terror;
+usuarios_segunda_capa = get_amigos_usuarios(usuarios_primera_capa)
 
 
 

@@ -1,20 +1,20 @@
 status: 200
-x-request-id: V53B9MZY4APNCFB1Q1EK
+x-request-id: 2GK2017PDJDKN7EWDJT5
 x-xss-protection: 1; mode=block
 content-location: https://www.goodreads.com/review/show.xml?id=173429036&key=2uQMlznVEwfI4YTVFQwsA
 x-content-type-options: nosniff, nosniff
-set-cookie: csid=BAhJIhgyNTYtNDA3NTY3Mi0xMjM1NzE0BjoGRVQ%3D--7518a7283a217c3c201378e69d43a90a203e5fc9;
- path=/; expires=Wed, 15 Apr 2037 15:23:02 -0000, locale=es;
- path=/, _session_id2=ec038c830286673dc0a4bb4c7d3c6536; path=/;
- expires=Sat, 15 Apr 2017 21:23:02 -0000; HttpOnly
+set-cookie: csid=BAhJIhg4OTMtMTgzMjA1Ny0yOTI0MzMxBjoGRVQ%3D--6c5f0dc8cf1f01fce7f4148b2c8887074c3fd21d;
+ path=/; expires=Thu, 23 Apr 2037 08:50:34 -0000, locale=es;
+ path=/, _session_id2=ce505d6a1709773eafa1f6d684f7fbe6; path=/;
+ expires=Sun, 23 Apr 2017 14:50:34 -0000; HttpOnly
 vary: User-Agent,Accept-Encoding
 connection: keep-alive
-content-length: 46876
+content-length: 47059
 server: Server
-x-runtime: 0.429298
-etag: W/"f18e4c2fa5aa83eb23dc6712ddb8dc37"
+x-runtime: 0.417546
+etag: W/"46a5a1349cea1f496b6daad0a6680d16"
 cache-control: max-age=0, private, must-revalidate
-date: Sat, 15 Apr 2017 15:23:02 GMT
+date: Sun, 23 Apr 2017 08:50:34 GMT
 x-frame-options: ALLOWALL
 content-type: application/xml; charset=utf-8
 -content-encoding: gzip
@@ -50,7 +50,7 @@ content-type: application/xml; charset=utf-8
   <id type="integer">77523</id>
   <isbn>0590353403</isbn>
   <isbn13>9780590353403</isbn13>
-  <text_reviews_count type="integer">1809</text_reviews_count>
+  <text_reviews_count type="integer">1811</text_reviews_count>
   <title>Harry Potter and the Sorcerer's Stone (Harry Potter, #1)</title>
   <title_without_series>Harry Potter and the Sorcerer's Stone</title_without_series>
   <image_url>https://images.gr-assets.com/books/1474169299m/77523.jpg</image_url>
@@ -65,7 +65,7 @@ content-type: application/xml; charset=utf-8
   <publication_year>1998</publication_year>
   <publication_month>9</publication_month>
   <average_rating>4.44</average_rating>
-  <ratings_count>4576472</ratings_count>
+  <ratings_count>4589821</ratings_count>
   <description>Harry Potter's life is miserable. His parents are dead and he's stuck with his heartless relatives, who force him to live in a tiny closet under the stairs. But his fortune changes when he receives a letter that tells him the truth about himself: he's a wizard. A mysterious visitor rescues him from his relatives and takes him to his new home, Hogwarts School of Witchcraft and Wizardry.&lt;br /&gt;&lt;br /&gt;After a lifetime of bottling up his magical powers, Harry finally feels like a normal kid. But even within the Wizarding community, he is special. He is the boy who lived: the only person to have ever survived a killing curse inflicted by the evil Lord Voldemort, who launched a brutal takeover of the Wizarding world, only to vanish after failing to kill Harry.&lt;br /&gt;&lt;br /&gt;Though Harry's first year at Hogwarts is the best of his life, not everything is perfect. There is a dangerous secret object hidden within the castle walls, and Harry believes it's his responsibility to prevent it from falling into evil hands. But doing so will bring him into contact with forces more terrifying than he ever could have imagined.&lt;br /&gt;&lt;br /&gt;Full of sympathetic characters, wildly imaginative situations, and countless exciting details, the first installment in the series assembles an unforgettable magical world and sets the stage for many high-stakes adventures to come.</description>
 <authors>
 <author>
@@ -80,8 +80,8 @@ content-type: application/xml; charset=utf-8
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
 <average_rating>4.42</average_rating>
-<ratings_count>17561506</ratings_count>
-<text_reviews_count>435220</text_reviews_count>
+<ratings_count>17608427</ratings_count>
+<text_reviews_count>436521</text_reviews_count>
 </author>
 </authors>
   <published>1998</published>
@@ -89,7 +89,7 @@ content-type: application/xml; charset=utf-8
 
 
   <rating>5</rating>
-  <votes>842</votes>
+  <votes>847</votes>
   <spoiler_flag>false</spoiler_flag>
   <spoilers_state>none</spoilers_state>
   
@@ -97,11 +97,11 @@ content-type: application/xml; charset=utf-8
 <shelves>
   <shelf name="read" exclusive="true" />
 
-    <shelf name="surprised-me" exclusive="false" review_shelf_id="371485214" sortable="false" />
+    <shelf name="favorites" exclusive="false" review_shelf_id="110491488" sortable="false" />
+    <shelf name="middle-grade-lit" exclusive="false" review_shelf_id="110504511" sortable="false" />
     <shelf name="lib-read" exclusive="false" review_shelf_id="110504327" sortable="false" />
     <shelf name="book-to-movie" exclusive="false" review_shelf_id="110504342" sortable="false" />
-    <shelf name="middle-grade-lit" exclusive="false" review_shelf_id="110504511" sortable="false" />
-    <shelf name="favorites" exclusive="false" review_shelf_id="110491488" sortable="false" />
+    <shelf name="surprised-me" exclusive="false" review_shelf_id="371485214" sortable="false" />
 </shelves>
   <recommended_for><![CDATA[anyone who is still waiting to read it]]></recommended_for>
   <recommended_by><![CDATA[Tina, Morgan, my own curiosity]]></recommended_by>
@@ -116,8 +116,8 @@ content-type: application/xml; charset=utf-8
 
   
 
-  <comments_count>161</comments_count>
-    <comments start="1" end="50" total="161">
+  <comments_count>162</comments_count>
+    <comments start="1" end="50" total="162">
         <comment>
   <id>31384793</id>
   <body><![CDATA[So fun that you can read them all in a row without years between each book!<br /><br />(I did that once for a re-read when I was stuck in bed for a week. The story flows so well when you can jump straight to the next book.)<br /><br />Wishing you a brilliant literary journey. =)]]></body>
@@ -453,9 +453,9 @@ content-type: application/xml; charset=utf-8
 
     <link><![CDATA[https://www.goodreads.com/user/show/2813423-nic]]></link>
 
-    <image_url><![CDATA[https://images.gr-assets.com/users/1305802968p3/2813423.jpg]]></image_url>
-    <small_image_url><![CDATA[https://images.gr-assets.com/users/1305802968p2/2813423.jpg]]></small_image_url>
-    <has_image>true</has_image>
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
 
   </user>
 
@@ -522,9 +522,9 @@ content-type: application/xml; charset=utf-8
 
     <link><![CDATA[https://www.goodreads.com/user/show/2813423-nic]]></link>
 
-    <image_url><![CDATA[https://images.gr-assets.com/users/1305802968p3/2813423.jpg]]></image_url>
-    <small_image_url><![CDATA[https://images.gr-assets.com/users/1305802968p2/2813423.jpg]]></small_image_url>
-    <has_image>true</has_image>
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
 
   </user>
 
@@ -614,9 +614,9 @@ content-type: application/xml; charset=utf-8
 
     <link><![CDATA[https://www.goodreads.com/user/show/2813423-nic]]></link>
 
-    <image_url><![CDATA[https://images.gr-assets.com/users/1305802968p3/2813423.jpg]]></image_url>
-    <small_image_url><![CDATA[https://images.gr-assets.com/users/1305802968p2/2813423.jpg]]></small_image_url>
-    <has_image>true</has_image>
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
 
   </user>
 

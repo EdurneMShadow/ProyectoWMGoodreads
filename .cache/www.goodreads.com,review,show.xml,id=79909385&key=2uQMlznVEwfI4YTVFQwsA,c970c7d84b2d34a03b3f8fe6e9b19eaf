@@ -1,20 +1,20 @@
 status: 200
-x-request-id: NNNT50W96R6Q8KKGKVFS
+x-request-id: 65QDYT07MRFW6XZ51344
 x-xss-protection: 1; mode=block
 content-location: https://www.goodreads.com/review/show.xml?id=79909385&key=2uQMlznVEwfI4YTVFQwsA
 x-content-type-options: nosniff, nosniff
-set-cookie: csid=BAhJIhg2MjEtMTc0NTU5Ni00MjgwNjE5BjoGRVQ%3D--cf94b1078fb73ba9429f020b01e492e51877c64e;
- path=/; expires=Wed, 15 Apr 2037 16:58:23 -0000, locale=es;
- path=/, _session_id2=dc59198e8efcd2158943b062b1152edb; path=/;
- expires=Sat, 15 Apr 2017 22:58:23 -0000; HttpOnly
+set-cookie: csid=BAhJIhg0NzYtMDkyNzk4Ni0yNzIzMjI4BjoGRVQ%3D--a4462b0a27e55232810e8c6dd952339b080f4f07;
+ path=/; expires=Thu, 23 Apr 2037 09:01:08 -0000, locale=es;
+ path=/, _session_id2=483f1d18e8e7ca93dd7bafda13c47a35; path=/;
+ expires=Sun, 23 Apr 2017 15:01:09 -0000; HttpOnly
 vary: User-Agent,Accept-Encoding
 connection: keep-alive
-content-length: 52262
+content-length: 52445
 server: Server
-x-runtime: 0.448440
-etag: W/"50c48ea573da55d0337911eabdf1fc26"
+x-runtime: 0.343840
+etag: W/"e61482626390b30b5dcdb489a58b52dc"
 cache-control: max-age=0, private, must-revalidate
-date: Sat, 15 Apr 2017 16:58:23 GMT
+date: Sun, 23 Apr 2017 09:01:09 GMT
 x-frame-options: ALLOWALL
 content-type: application/xml; charset=utf-8
 -content-encoding: gzip
@@ -50,7 +50,7 @@ content-type: application/xml; charset=utf-8
   <id type="integer">7260188</id>
   <isbn>0439023513</isbn>
   <isbn13>9780439023511</isbn13>
-  <text_reviews_count type="integer">86037</text_reviews_count>
+  <text_reviews_count type="integer">86067</text_reviews_count>
   <title>Mockingjay (The Hunger Games, #3)</title>
   <title_without_series>Mockingjay</title_without_series>
   <image_url>https://images.gr-assets.com/books/1358275419m/7260188.jpg</image_url>
@@ -65,7 +65,7 @@ content-type: application/xml; charset=utf-8
   <publication_year>2010</publication_year>
   <publication_month>8</publication_month>
   <average_rating>4.03</average_rating>
-  <ratings_count>1827897</ratings_count>
+  <ratings_count>1830529</ratings_count>
   <description>&lt;b&gt;My name is Katniss Everdeen.&lt;br /&gt;Why am I not dead?&lt;br /&gt;I should be dead.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Katniss Everdeen, girl on fire, has survived, even though her home has been destroyed. Gale has escaped. Katniss's family is safe. Peeta has been captured by the Capitol. District 13 really does exist. There are rebels. There are new leaders. A revolution is unfolding.&lt;br /&gt;&lt;br /&gt;It is by design that Katniss was rescued from the arena in the cruel and haunting Quarter Quell, and it is by design that she has long been part of the revolution without knowing it. District 13 has come out of the shadows and is plotting to overthrow the Capitol. Everyone, it seems, has had a hand in the carefully laid plans--except Katniss.&lt;br /&gt;&lt;br /&gt;The success of the rebellion hinges on Katniss's willingness to be a pawn, to accept responsibility for countless lives, and to change the course of the future of Panem. To do this, she must put aside her feelings of anger and distrust. She must become the rebels' Mockingjay--no matter what the personal cost.</description>
 <authors>
 <author>
@@ -80,8 +80,8 @@ content-type: application/xml; charset=utf-8
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/153394.Suzanne_Collins]]></link>
 <average_rating>4.27</average_rating>
-<ratings_count>8905585</ratings_count>
-<text_reviews_count>355382</text_reviews_count>
+<ratings_count>8921834</ratings_count>
+<text_reviews_count>355580</text_reviews_count>
 </author>
 </authors>
   <published>2010</published>
@@ -107,11 +107,11 @@ content-type: application/xml; charset=utf-8
 <shelves>
   <shelf name="read" exclusive="true" />
 
+    <shelf name="favorites" exclusive="false" review_shelf_id="68940417" sortable="true" />
+    <shelf name="read-2010" exclusive="false" review_shelf_id="68193981" sortable="false" />
     <shelf name="dystopic" exclusive="false" review_shelf_id="68193978" sortable="false" />
     <shelf name="young-adult" exclusive="false" review_shelf_id="376546821" sortable="false" />
-    <shelf name="read-2010" exclusive="false" review_shelf_id="68193981" sortable="false" />
     <shelf name="ya-dystopic" exclusive="false" review_shelf_id="93127261" sortable="false" />
-    <shelf name="favorites" exclusive="false" review_shelf_id="68940417" sortable="true" />
 </shelves>
   <recommended_for></recommended_for>
   <recommended_by></recommended_by>
@@ -417,9 +417,9 @@ content-type: application/xml; charset=utf-8
 
     <link><![CDATA[https://www.goodreads.com/user/show/2813423-nic]]></link>
 
-    <image_url><![CDATA[https://images.gr-assets.com/users/1305802968p3/2813423.jpg]]></image_url>
-    <small_image_url><![CDATA[https://images.gr-assets.com/users/1305802968p2/2813423.jpg]]></small_image_url>
-    <has_image>true</has_image>
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
 
   </user>
 
@@ -463,9 +463,9 @@ content-type: application/xml; charset=utf-8
 
     <link><![CDATA[https://www.goodreads.com/user/show/2813423-nic]]></link>
 
-    <image_url><![CDATA[https://images.gr-assets.com/users/1305802968p3/2813423.jpg]]></image_url>
-    <small_image_url><![CDATA[https://images.gr-assets.com/users/1305802968p2/2813423.jpg]]></small_image_url>
-    <has_image>true</has_image>
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
 
   </user>
 
@@ -509,9 +509,9 @@ content-type: application/xml; charset=utf-8
 
     <link><![CDATA[https://www.goodreads.com/user/show/2813423-nic]]></link>
 
-    <image_url><![CDATA[https://images.gr-assets.com/users/1305802968p3/2813423.jpg]]></image_url>
-    <small_image_url><![CDATA[https://images.gr-assets.com/users/1305802968p2/2813423.jpg]]></small_image_url>
-    <has_image>true</has_image>
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
 
   </user>
 

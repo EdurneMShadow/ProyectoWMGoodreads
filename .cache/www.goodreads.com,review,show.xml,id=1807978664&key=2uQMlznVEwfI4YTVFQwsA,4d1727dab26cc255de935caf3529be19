@@ -1,20 +1,20 @@
 status: 200
-x-request-id: 2NVJPD21YV6YEYBJEWEF
+x-request-id: 725BFYP6ST4RR6RRZ2AQ
 x-xss-protection: 1; mode=block
 content-location: https://www.goodreads.com/review/show.xml?id=1807978664&key=2uQMlznVEwfI4YTVFQwsA
 x-content-type-options: nosniff, nosniff
-set-cookie: csid=BAhJIhg5NDQtODYwOTIyNy01OTczMTQ2BjoGRVQ%3D--aa9ee0c478523a8f284fdffb16b231934e524ee0;
- path=/; expires=Wed, 15 Apr 2037 15:17:13 -0000, locale=es;
- path=/, _session_id2=dff950d3ec19a8028a211a64d2d7219d; path=/;
- expires=Sat, 15 Apr 2017 21:17:13 -0000; HttpOnly
+set-cookie: csid=BAhJIhg5MTktNTM5MzQxNS0zODg1NTczBjoGRVQ%3D--9a4a4286e89873fd7a4d520201dfe3cf8ed3a799;
+ path=/; expires=Thu, 23 Apr 2037 08:46:59 -0000, locale=es;
+ path=/, _session_id2=2d6a7d3571397c42aa3788341db5e7f5; path=/;
+ expires=Sun, 23 Apr 2017 14:46:59 -0000; HttpOnly
 vary: User-Agent,Accept-Encoding
 connection: keep-alive
 content-length: 46662
 server: Server
-x-runtime: 0.453159
-etag: W/"8b9f05721159ebd70a8aa6bafc597839"
+x-runtime: 0.338950
+etag: W/"97b9aead4270af7c37cafd39f2669746"
 cache-control: max-age=0, private, must-revalidate
-date: Sat, 15 Apr 2017 15:17:13 GMT
+date: Sun, 23 Apr 2017 08:46:59 GMT
 x-frame-options: ALLOWALL
 content-type: application/xml; charset=utf-8
 -content-encoding: gzip
@@ -50,7 +50,7 @@ content-type: application/xml; charset=utf-8
   <id type="integer">5915</id>
   <isbn>0261103288</isbn>
   <isbn13>9780261103283</isbn13>
-  <text_reviews_count type="integer">268</text_reviews_count>
+  <text_reviews_count type="integer">270</text_reviews_count>
   <title>The Hobbit</title>
   <title_without_series>The Hobbit</title_without_series>
   <image_url>https://images.gr-assets.com/books/1294578696m/5915.jpg</image_url>
@@ -65,7 +65,7 @@ content-type: application/xml; charset=utf-8
   <publication_year></publication_year>
   <publication_month></publication_month>
   <average_rating>4.24</average_rating>
-  <ratings_count>2139201</ratings_count>
+  <ratings_count>2143199</ratings_count>
   <description>'The Hobbit' is a tale of high adventure, undertaken by a company of dwarves in search of dragon-guarded gold. A reluctant partner in this perilous quest is Bilbo Baggins, a comfort-loving, unambitious hobbit.</description>
 <authors>
 <author>
@@ -80,8 +80,8 @@ content-type: application/xml; charset=utf-8
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
 <average_rating>4.30</average_rating>
-<ratings_count>6098482</ratings_count>
-<text_reviews_count>90948</text_reviews_count>
+<ratings_count>6110916</ratings_count>
+<text_reviews_count>91119</text_reviews_count>
 </author>
 </authors>
   <published></published>
@@ -99,7 +99,7 @@ content-type: application/xml; charset=utf-8
         </read_status>
     </read_statuses>
   <rating>2</rating>
-  <votes>100</votes>
+  <votes>102</votes>
   <spoiler_flag>false</spoiler_flag>
   <spoilers_state>none</spoilers_state>
   
@@ -107,12 +107,12 @@ content-type: application/xml; charset=utf-8
 <shelves>
   <shelf name="read" exclusive="true" />
 
-    <shelf name="dnf" exclusive="false" review_shelf_id="1470662180" sortable="true" />
-    <shelf name="not-my-cup-of-tea" exclusive="false" review_shelf_id="1470662265" sortable="true" />
     <shelf name="2-star" exclusive="false" review_shelf_id="1470662192" sortable="true" />
+    <shelf name="not-my-cup-of-tea" exclusive="false" review_shelf_id="1470662265" sortable="true" />
     <shelf name="that-cover-though" exclusive="false" review_shelf_id="1476189541" sortable="true" />
     <shelf name="library" exclusive="false" review_shelf_id="1476623880" sortable="true" />
     <shelf name="mixed-feelings" exclusive="false" review_shelf_id="1476189672" sortable="true" />
+    <shelf name="dnf" exclusive="false" review_shelf_id="1470662180" sortable="true" />
 </shelves>
   <recommended_for></recommended_for>
   <recommended_by></recommended_by>
