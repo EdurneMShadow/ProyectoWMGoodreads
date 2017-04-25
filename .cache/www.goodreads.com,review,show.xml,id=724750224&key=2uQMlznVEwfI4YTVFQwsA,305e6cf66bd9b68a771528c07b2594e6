@@ -1,20 +1,20 @@
 status: 200
-x-request-id: BJ64H20T7V8H9S0SW16R
+x-request-id: 8KDDTGYDMKCQTFJ7RJWV
 x-xss-protection: 1; mode=block
 content-location: https://www.goodreads.com/review/show.xml?id=724750224&key=2uQMlznVEwfI4YTVFQwsA
 x-content-type-options: nosniff, nosniff
-set-cookie: csid=BAhJIhgxNzgtODMzNzE5NS0yODI4NTczBjoGRVQ%3D--dc3064d63cc7b79a56e4f56d975e817ebf1d8a89;
- path=/; expires=Thu, 23 Apr 2037 08:53:04 -0000, locale=es;
- path=/, _session_id2=de4046fee5d56cf2580d99efe3c9b1b6; path=/;
- expires=Sun, 23 Apr 2017 14:53:04 -0000; HttpOnly
+set-cookie: csid=BAhJIhgyNjEtNjQ4MTkzMi00OTc4MzI4BjoGRVQ%3D--af1c5368fc783d5c6a7f09e6e82e765d70813e0e;
+ path=/; expires=Sat, 25 Apr 2037 20:46:53 -0000, locale=es;
+ path=/, _session_id2=456867af5e920fc2af2b90b13f6ed04c; path=/;
+ expires=Wed, 26 Apr 2017 02:46:53 -0000; HttpOnly
 vary: User-Agent,Accept-Encoding
 connection: keep-alive
 content-length: 6942
 server: Server
-x-runtime: 0.157897
-etag: W/"96b9d8f31c3384eb99ceddba0730f229"
+x-runtime: 0.242862
+etag: W/"3673eb24c249747a1f6139ed41f8a2b9"
 cache-control: max-age=0, private, must-revalidate
-date: Sun, 23 Apr 2017 08:53:04 GMT
+date: Tue, 25 Apr 2017 20:46:53 GMT
 x-frame-options: ALLOWALL
 content-type: application/xml; charset=utf-8
 -content-encoding: gzip
@@ -50,7 +50,7 @@ content-type: application/xml; charset=utf-8
   <id type="integer">2880</id>
   <isbn>1591164419</isbn>
   <isbn13>9781591164418</isbn13>
-  <text_reviews_count type="integer">830</text_reviews_count>
+  <text_reviews_count type="integer">832</text_reviews_count>
   <title>Bleach, Volume 01</title>
   <title_without_series>Bleach, Volume 01</title_without_series>
   <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
@@ -65,7 +65,7 @@ content-type: application/xml; charset=utf-8
   <publication_year>2004</publication_year>
   <publication_month>5</publication_month>
   <average_rating>4.21</average_rating>
-  <ratings_count>116612</ratings_count>
+  <ratings_count>116687</ratings_count>
   <description>Hot-tempered 15-year-old Ichigo Kurosaki, the hero of the popular fantasy-adventure &lt;i&gt;
   &lt;b&gt;
     &lt;u&gt;Bleach&lt;/u&gt;
@@ -84,8 +84,8 @@ content-type: application/xml; charset=utf-8
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1977.Tite_Kubo]]></link>
 <average_rating>4.28</average_rating>
-<ratings_count>386927</ratings_count>
-<text_reviews_count>4538</text_reviews_count>
+<ratings_count>387072</ratings_count>
+<text_reviews_count>4545</text_reviews_count>
 </author>
 </authors>
   <published>2004</published>
@@ -111,8 +111,8 @@ content-type: application/xml; charset=utf-8
 <shelves>
   <shelf name="read" exclusive="true" />
 
-    <shelf name="favorites" exclusive="false" review_shelf_id="556276483" sortable="false" />
     <shelf name="manga" exclusive="false" review_shelf_id="552747990" sortable="false" />
+    <shelf name="favorites" exclusive="false" review_shelf_id="556276483" sortable="false" />
 </shelves>
   <recommended_for>Everyone</recommended_for>
   <recommended_by></recommended_by>
