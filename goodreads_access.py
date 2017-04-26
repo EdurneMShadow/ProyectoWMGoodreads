@@ -7,7 +7,7 @@ Created on Fri Mar 31 11:06:08 2017
 import goodreads as gr
 import json
 import time as t
-import bisect as b
+import bisect
 
 client = gr.Client(client_id="2uQMlznVEwfI4YTVFQwsA", client_secret="DWs5Gii98b9KaYZBD9B3NL6nxE9SFRCKyUsZJIEv5Sg")
 client.authenticate(access_token='2uQMlznVEwfI4YTVFQwsA',access_token_secret='"DWs5Gii98b9KaYZBD9B3NL6nxE9SFRCKyUsZJIEv5Sg')
@@ -18,7 +18,7 @@ lista_ids = []
 ''' Búsqueda binaria '''
 def binary_search(a, x, lo=0, hi=None):
     hi = hi if hi is not None else len(a) 
-    pos = b.bisect_left(a, x, lo, hi)
+    pos = bisect.bisect_left(a, x, lo, hi)
     return (pos if pos != hi and a[pos] == x else -1)
 
 ''' Importar ficheros con urls de reviews'''
@@ -64,19 +64,6 @@ def get_amigos_usuarios(lista_usuarios):
         t.sleep(1)
     return amigos_lista
 
-''' Obtiene todos los amigos de cada uno de los ids y crea las aristas correspondientes'''    
-def get_aristas_grafo():
-    for id in lista_ids:
-        amigos = client.get_friends(id)
-        fichero = open('grafo.txt','a')
-        for amigo in amigos:
-            if binary_search(lista_ids,str(amigo[0])) != -1:
-                fichero.write('edge [ \n')
-                fichero.write('source '+ id +' \n')
-                fichero.write('target '+str(amigo[0])+' \n')
-                fichero.write('] \n')
-        fichero.close()
-                     
 '''Guardar los usuarios en un fichero formato igraph'''   
 def guardar_nodos_en_fichero(lista_usuarios,vacio):
     fichero = open('grafo.txt','a')
@@ -88,11 +75,27 @@ def guardar_nodos_en_fichero(lista_usuarios,vacio):
         fichero.write('id '+user['id_user']+' \n')
         if user['nombre'] == None:
             user['nombre'] = 'J. Doe'
-            print(user['nombre'])
         fichero.write('nombre_usuario '+str(user['nombre'].encode('utf-8'))+' \n')
         fichero.write('] \n')
     fichero.close()
-            
+    
+''' Obtiene todos los amigos de cada uno de los ids y crea las aristas correspondientes'''    
+def get_aristas_grafo():
+    for id in lista_ids:
+        try:
+            amigos = client.get_friends(id)
+        except Exception:
+            amigos = []
+        fichero = open('grafo.txt','a')
+        for amigo in amigos:
+            if binary_search(lista_ids,str(amigo[0])) != -1:
+                fichero.write('edge [ \n')
+                fichero.write('source '+ id +' \n')
+                fichero.write('target '+ str(amigo[0])+' \n')
+                fichero.write('] \n')
+        fichero.close()
+                     
+''' Crea el fichero de información de los usuarios'''            
 def guardar_info_usuario_fichero(lista_usuarios,vacio,capa):
     fichero = open('info_usuarios.txt','a')
     if vacio:
@@ -102,10 +105,10 @@ def guardar_info_usuario_fichero(lista_usuarios,vacio,capa):
             fichero.write(str(user['id_user']))
             fichero.write(','+user['nombre'].encode('utf-8'))
             fichero.write(','+str(user['enlace']))
-            fichero.write(','+str(user['is_friend_of']))
+            fichero.write(','+str(user['is_friend_of'])+' \n')
     else:
         for user in lista_usuarios:
-            fichero.write(str(user['id_user'])+','+str(user['nombre'])+','+str(user['enlace'])+','+str(user['id_libro'])+','+str(user['genero'])+','+ user['review'].encode('utf-8'))
+            fichero.write(str(user['id_user'])+','+str(user['nombre'].encode('utf-8'))+','+str(user['enlace'])+','+str(user['id_libro'])+','+str(user['genero'])+','+ user['review'].encode('utf-8'))
    
     fichero.close()
         
@@ -157,6 +160,7 @@ usuarios_segunda_capa = get_amigos_usuarios(usuarios_primera_capa)
 
 guardar_nodos_en_fichero(usuarios_primera_capa,1)
 guardar_nodos_en_fichero(usuarios_segunda_capa,0)
+get_aristas_grafo()
 guardar_info_usuario_fichero(usuarios_primera_capa,1,1)
 guardar_info_usuario_fichero(usuarios_segunda_capa,0,2)
 
