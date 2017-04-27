@@ -8,12 +8,16 @@ import goodreads as gr
 import json
 import time as t
 import bisect
+import string
+
 
 client = gr.Client(client_id="2uQMlznVEwfI4YTVFQwsA", client_secret="DWs5Gii98b9KaYZBD9B3NL6nxE9SFRCKyUsZJIEv5Sg")
 client.authenticate(access_token='2uQMlznVEwfI4YTVFQwsA',access_token_secret='"DWs5Gii98b9KaYZBD9B3NL6nxE9SFRCKyUsZJIEv5Sg')
 client.authenticate()
 
+#Variables globales
 lista_ids = []
+printable = set(string.printable)
 
 ''' Búsqueda binaria '''
 def binary_search(a, x, lo=0, hi=None):
@@ -39,7 +43,7 @@ def get_info_usuario (reviews, client, genero):
         aux = client.get_review_user(i, genero)
         if binary_search(lista_ids, aux['id_user']) == -1:
             users.append(aux)
-            b.insort(lista_ids,aux['id_user'])
+            bisect.insort(lista_ids,aux['id_user'])
         t.sleep(1)
     return users
 
@@ -53,8 +57,8 @@ def get_amigos_usuarios(lista_usuarios):
         except Exception:
             amigos = []
         for amigo in amigos:
-            if binary_search(lista_ids, str(amigo[0])) == -1:
-                b.insort(lista_ids,str(amigo[0]))
+            if binary_search(lista_ids, str(amigo[0])) is -1:
+                bisect.insort(lista_ids,str(amigo[0]))
                 amigo_data = {}
                 amigo_data['id_user'] = str(amigo[0])
                 amigo_data['nombre'] = amigo[1]
@@ -75,7 +79,8 @@ def guardar_nodos_en_fichero(lista_usuarios,vacio):
         fichero.write('id '+user['id_user']+' \n')
         if user['nombre'] == None:
             user['nombre'] = 'J. Doe'
-        fichero.write('nombre_usuario '+str(user['nombre'].encode('utf-8'))+' \n')
+            
+        fichero.write('nombre_usuario '+'"'+filter(lambda x: x in printable, user['nombre'])+'"' +' \n')
         fichero.write('] \n')
     fichero.close()
     
@@ -155,7 +160,13 @@ usuarios_scifi = get_info_usuario(r_scifi,client,'ciencia ficcion')
 usuarios_suspense = get_info_usuario(r_suspense,client,'suspense')
 usuarios_terror = get_info_usuario(r_terror,client,'terror')
 
-usuarios_primera_capa = usuarios_arte + usuarios_adolescente + usuarios_clasicos + usuarios_crimen + usuarios_espiritualidad + usuarios_fantasia + usuarios_ficcion + usuarios_historico + usuarios_infantil + usuarios_lgtb + usuarios_manga + usuarios_misterio + usuarios_musica + usuarios_poesia + usuarios_romance + usuarios_scifi + usuarios_suspense + usuarios_terror
+usuarios_primera_capa = (usuarios_arte + usuarios_adolescente + usuarios_clasicos
+                         + usuarios_crimen + usuarios_espiritualidad + 
+                         usuarios_fantasia + usuarios_ficcion + usuarios_historico
+                         + usuarios_infantil + usuarios_lgtb + usuarios_manga + 
+                         usuarios_misterio + usuarios_musica + usuarios_poesia + 
+                         usuarios_romance + usuarios_scifi + usuarios_suspense + 
+                         usuarios_terror)
 usuarios_segunda_capa = get_amigos_usuarios(usuarios_primera_capa)
 
 guardar_nodos_en_fichero(usuarios_primera_capa,1)
@@ -163,6 +174,5 @@ guardar_nodos_en_fichero(usuarios_segunda_capa,0)
 get_aristas_grafo()
 guardar_info_usuario_fichero(usuarios_primera_capa,1,1)
 guardar_info_usuario_fichero(usuarios_segunda_capa,0,2)
-
 
 

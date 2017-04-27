@@ -1,20 +1,20 @@
 status: 200
-x-request-id: GHRDVNWY7ZCX2KJ7BZXM
+x-request-id: XJN1N3SR5ECE8KT1YHBA
 x-xss-protection: 1; mode=block
 content-location: https://www.goodreads.com/review/show.xml?id=308193062&key=2uQMlznVEwfI4YTVFQwsA
 x-content-type-options: nosniff, nosniff
-set-cookie: csid=BAhJIhg1NjctMTE5MDYzNi04MzkzNzIxBjoGRVQ%3D--44f0ec3a464a5bebd169acef475ff1db098bf20f;
- path=/; expires=Sat, 25 Apr 2037 20:29:41 -0000, locale=es;
- path=/, _session_id2=86815f31133a939201b8395ce80b94f9; path=/;
- expires=Wed, 26 Apr 2017 02:29:42 -0000; HttpOnly
+set-cookie: csid=BAhJIhg4ODEtNzI5Mzg3Ny0wNzMxMTI4BjoGRVQ%3D--70ccf9b8bc652aabe56bde2bdb4596f2bd696275;
+ path=/; expires=Mon, 27 Apr 2037 08:58:09 -0000, locale=es;
+ path=/, _session_id2=c231ae502e35963f77768e1b23866ca7; path=/;
+ expires=Thu, 27 Apr 2017 14:58:09 -0000; HttpOnly
 vary: User-Agent,Accept-Encoding
 connection: keep-alive
 content-length: 43315
 server: Server
-x-runtime: 0.404928
-etag: W/"182f4d9f4b4fb61389c67bffb8db909b"
+x-runtime: 0.336160
+etag: W/"e68b3714587e5e1ec28dfdaada45b7f3"
 cache-control: max-age=0, private, must-revalidate
-date: Tue, 25 Apr 2017 20:29:42 GMT
+date: Thu, 27 Apr 2017 08:58:09 GMT
 x-frame-options: ALLOWALL
 content-type: application/xml; charset=utf-8
 -content-encoding: gzip
@@ -50,7 +50,7 @@ content-type: application/xml; charset=utf-8
   <id type="integer">37449</id>
   <isbn>1439550417</isbn>
   <isbn13>9781439550410</isbn13>
-  <text_reviews_count type="integer">2652</text_reviews_count>
+  <text_reviews_count type="integer">2653</text_reviews_count>
   <title>To Kill a Mockingbird</title>
   <title_without_series>To Kill a Mockingbird</title_without_series>
   <image_url>https://images.gr-assets.com/books/1339392178m/37449.jpg</image_url>
@@ -65,7 +65,7 @@ content-type: application/xml; charset=utf-8
   <publication_year>1982</publication_year>
   <publication_month>12</publication_month>
   <average_rating>4.25</average_rating>
-  <ratings_count>3258309</ratings_count>
+  <ratings_count>3259536</ratings_count>
   <description>See alternate cover edition &lt;a href="https://www.goodreads.com/book/show/10257528-to-kill-a-mockingbird" rel="nofollow"&gt;
   &lt;b&gt;here&lt;/b&gt;
 &lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it, &lt;i&gt;To Kill A Mockingbird&lt;/i&gt; became both an instant bestseller and a critical success when it was first published in 1960. It went on to win the Pulitzer Prize in 1961 and was later made into an Academy Award-winning film, also a classic.&lt;br /&gt;&lt;br /&gt;Compassionate, dramatic, and deeply moving, &lt;i&gt;To Kill A Mockingbird&lt;/i&gt; takes readers to the roots of human behavior - to innocence and experience, kindness and cruelty, love and hatred, humor and pathos.</description>
@@ -82,8 +82,8 @@ content-type: application/xml; charset=utf-8
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1825.Harper_Lee]]></link>
 <average_rating>4.21</average_rating>
-<ratings_count>3421791</ratings_count>
-<text_reviews_count>94766</text_reviews_count>
+<ratings_count>3423162</ratings_count>
+<text_reviews_count>94803</text_reviews_count>
 </author>
 </authors>
   <published>1982</published>
@@ -101,7 +101,7 @@ content-type: application/xml; charset=utf-8
         </read_status>
     </read_statuses>
   <rating>5</rating>
-  <votes>1946</votes>
+  <votes>1947</votes>
   <spoiler_flag>false</spoiler_flag>
   <spoilers_state>none</spoilers_state>
   
@@ -109,13 +109,13 @@ content-type: application/xml; charset=utf-8
 <shelves>
   <shelf name="read" exclusive="true" />
 
-    <shelf name="coming-of-age" exclusive="false" review_shelf_id="480093998" sortable="false" />
-    <shelf name="epic" exclusive="false" review_shelf_id="298500275" sortable="false" />
-    <shelf name="school" exclusive="false" review_shelf_id="298500316" sortable="false" />
+    <shelf name="classics" exclusive="false" review_shelf_id="298500243" sortable="false" />
     <shelf name="favorites" exclusive="false" review_shelf_id="298500264" sortable="false" />
     <shelf name="thought-provoking" exclusive="false" review_shelf_id="423586921" sortable="false" />
-    <shelf name="classics" exclusive="false" review_shelf_id="298500243" sortable="false" />
+    <shelf name="epic" exclusive="false" review_shelf_id="298500275" sortable="false" />
+    <shelf name="school" exclusive="false" review_shelf_id="298500316" sortable="false" />
     <shelf name="southern-comfort" exclusive="false" review_shelf_id="480094535" sortable="false" />
+    <shelf name="coming-of-age" exclusive="false" review_shelf_id="480093998" sortable="false" />
 </shelves>
   <recommended_for></recommended_for>
   <recommended_by></recommended_by>

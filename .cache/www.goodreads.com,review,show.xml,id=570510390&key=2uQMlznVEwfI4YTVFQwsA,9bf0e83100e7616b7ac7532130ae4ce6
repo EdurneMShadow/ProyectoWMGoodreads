@@ -1,20 +1,20 @@
 status: 200
-x-request-id: MJHKBEWRQTNVSMQRPDW8
+x-request-id: 37WX30K60YHR47YGT31X
 x-xss-protection: 1; mode=block
 content-location: https://www.goodreads.com/review/show.xml?id=570510390&key=2uQMlznVEwfI4YTVFQwsA
 x-content-type-options: nosniff, nosniff
-set-cookie: csid=BAhJIhgzMjYtOTI3MTA2MS0zMDc1NTEyBjoGRVQ%3D--776ddffd153fe7aeff3036ab2c662735c75e9f39;
- path=/; expires=Sat, 25 Apr 2037 20:55:50 -0000, locale=es;
- path=/, _session_id2=9d2558db4585d5a9d83d0f3d5b78e154; path=/;
- expires=Wed, 26 Apr 2017 02:55:50 -0000; HttpOnly
+set-cookie: csid=BAhJIhg5OTEtNTU0MzMxNC02MDQyNDg0BjoGRVQ%3D--0f149e4ff9504e35d536fa98ca0f959da08af817;
+ path=/; expires=Mon, 27 Apr 2037 10:19:07 -0000, locale=es;
+ path=/, _session_id2=6ee8a0e3a31d18c81f8ab207efd3ceda; path=/;
+ expires=Thu, 27 Apr 2017 16:19:07 -0000; HttpOnly
 vary: User-Agent,Accept-Encoding
 connection: keep-alive
 content-length: 39213
 server: Server
-x-runtime: 0.369948
-etag: W/"5d46f507649859c0cc5f7990001f166d"
+x-runtime: 0.299460
+etag: W/"bb86202798fe6a20ba449e4587a7445b"
 cache-control: max-age=0, private, must-revalidate
-date: Tue, 25 Apr 2017 20:55:50 GMT
+date: Thu, 27 Apr 2017 10:19:07 GMT
 x-frame-options: ALLOWALL
 content-type: application/xml; charset=utf-8
 -content-encoding: gzip
@@ -50,7 +50,7 @@ content-type: application/xml; charset=utf-8
   <id type="integer">18490</id>
   <isbn>0141439475</isbn>
   <isbn13>9780141439471</isbn13>
-  <text_reviews_count type="integer">12996</text_reviews_count>
+  <text_reviews_count type="integer">13001</text_reviews_count>
   <title>Frankenstein</title>
   <title_without_series>Frankenstein</title_without_series>
   <image_url>https://images.gr-assets.com/books/1381512375m/18490.jpg</image_url>
@@ -65,7 +65,7 @@ content-type: application/xml; charset=utf-8
   <publication_year>2003</publication_year>
   <publication_month>1</publication_month>
   <average_rating>3.75</average_rating>
-  <ratings_count>857421</ratings_count>
+  <ratings_count>857899</ratings_count>
   <description>&lt;b&gt;Mary Shelley&lt;/b&gt; began writing &lt;i&gt;Frankenstein&lt;/i&gt; when she was only eighteen. At once a Gothic thriller, a passionate romance, and a cautionary tale about the dangers of science, &lt;i&gt;Frankenstein&lt;/i&gt; tells the story of committed science student Victor Frankenstein. Obsessed with discovering the cause of generation and life and bestowing animation upon lifeless matter, Frankenstein assembles a human being from stolen body parts but; upon bringing it to life, he recoils in horror at the creature's hideousness. Tormented by isolation and loneliness, the once-innocent creature turns to evil and unleashes a campaign of murderous revenge against his creator, Frankenstein.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Frankenstein&lt;/i&gt;, an instant bestseller and an important ancestor of both the horror and science fiction genres, not only tells a terrifying story, but also raises profound, disturbing questions about the very nature of life and the place of humankind within the cosmos: What does it mean to be human? What responsibilities do we have to each other? How far can we go in tampering with Nature? In our age, filled with news of organ donation genetic engineering, and bio-terrorism, these questions are more relevant than ever.</description>
 <authors>
 <author>
@@ -80,8 +80,8 @@ content-type: application/xml; charset=utf-8
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/11139.Mary_Wollstonecraft_Shelley]]></link>
 <average_rating>3.75</average_rating>
-<ratings_count>880151</ratings_count>
-<text_reviews_count>20842</text_reviews_count>
+<ratings_count>880639</ratings_count>
+<text_reviews_count>20852</text_reviews_count>
 </author>
 </authors>
   <published>2003</published>
@@ -123,11 +123,11 @@ content-type: application/xml; charset=utf-8
 <shelves>
   <shelf name="read" exclusive="true" />
 
-    <shelf name="horror" exclusive="false" review_shelf_id="392658443" sortable="false" />
-    <shelf name="top-one-hundred" exclusive="false" review_shelf_id="1088247182" sortable="false" />
     <shelf name="sci-fi" exclusive="false" review_shelf_id="392658454" sortable="false" />
-    <shelf name="fantasy" exclusive="false" review_shelf_id="392658439" sortable="true" />
+    <shelf name="top-one-hundred" exclusive="false" review_shelf_id="1088247182" sortable="false" />
+    <shelf name="horror" exclusive="false" review_shelf_id="392658443" sortable="false" />
     <shelf name="2016-shelf" exclusive="false" review_shelf_id="1518738442" sortable="false" />
+    <shelf name="fantasy" exclusive="false" review_shelf_id="392658439" sortable="true" />
 </shelves>
   <recommended_for></recommended_for>
   <recommended_by></recommended_by>

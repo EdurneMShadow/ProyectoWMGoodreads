@@ -1,20 +1,20 @@
 status: 200
-x-request-id: EH90E6H4DPQG30EERFTR
+x-request-id: M75H2HGYSQ2FYRHACEGD
 x-xss-protection: 1; mode=block
 content-location: https://www.goodreads.com/review/show.xml?id=23924224&key=2uQMlznVEwfI4YTVFQwsA
 x-content-type-options: nosniff, nosniff
-set-cookie: csid=BAhJIhg1MDUtNDE2MjQzNC0yNjU4NDQ1BjoGRVQ%3D--616b769903daecf0e5516a572d7786f3ea393578;
- path=/; expires=Sat, 25 Apr 2037 20:39:03 -0000, locale=es;
- path=/, _session_id2=7d286789b9634f22da39e1fb4d51b3e7; path=/;
- expires=Wed, 26 Apr 2017 02:39:04 -0000; HttpOnly
+set-cookie: csid=BAhJIhgwNzQtMjA2MzA1Ni00NTg3NzQ0BjoGRVQ%3D--7a236b565b9ccd51d91536667cb712024160e3e9;
+ path=/; expires=Mon, 27 Apr 2037 09:00:15 -0000, locale=es;
+ path=/, _session_id2=f56a7601e13715fbd91ae2dca898bab6; path=/;
+ expires=Thu, 27 Apr 2017 15:00:16 -0000; HttpOnly
 vary: User-Agent,Accept-Encoding
 connection: keep-alive
 content-length: 54010
 server: Server
-x-runtime: 0.488588
-etag: W/"bde94cf3fed3567dd3459cd61fd2f592"
+x-runtime: 0.293722
+etag: W/"c43a07a38cd87facc02bbad9783b1c7e"
 cache-control: max-age=0, private, must-revalidate
-date: Tue, 25 Apr 2017 20:39:04 GMT
+date: Thu, 27 Apr 2017 09:00:16 GMT
 x-frame-options: ALLOWALL
 content-type: application/xml; charset=utf-8
 -content-encoding: gzip
@@ -50,7 +50,7 @@ content-type: application/xml; charset=utf-8
   <id type="integer">865</id>
   <isbn>0061122416</isbn>
   <isbn13>9780061122415</isbn13>
-  <text_reviews_count type="integer">44543</text_reviews_count>
+  <text_reviews_count type="integer">44554</text_reviews_count>
   <title>The Alchemist</title>
   <title_without_series>The Alchemist</title_without_series>
   <image_url>https://images.gr-assets.com/books/1483412266m/865.jpg</image_url>
@@ -65,7 +65,7 @@ content-type: application/xml; charset=utf-8
   <publication_year>1993</publication_year>
   <publication_month>5</publication_month>
   <average_rating>3.81</average_rating>
-  <ratings_count>1339059</ratings_count>
+  <ratings_count>1339983</ratings_count>
   <description>Paulo Coelho's enchanting novel has inspired a devoted following around the world. This story, dazzling in its powerful simplicity and inspiring wisdom, is about an Andalusian shepherd boy named Santiago who travels from his homeland in Spain to the Egyptian desert in search of a treasure buried in the Pyramids. Along the way he meets a Gypsy woman, a man who calls himself king, and an alchemist, all of whom point Santiago in the direction of his quest. No one knows what the treasure is, or if Santiago will be able to surmount the obstacles along the way. But what starts out as a journey to find worldly goods turns into a discovery of the treasure found within. Lush, evocative, and deeply humane, the story of Santiago is an eternal testament to the transforming power of our dreams and the importance of listening to our hearts.</description>
 <authors>
 <author>
@@ -80,8 +80,8 @@ content-type: application/xml; charset=utf-8
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/566.Paulo_Coelho]]></link>
 <average_rating>3.72</average_rating>
-<ratings_count>2112221</ratings_count>
-<text_reviews_count>95845</text_reviews_count>
+<ratings_count>2113539</ratings_count>
+<text_reviews_count>95886</text_reviews_count>
 </author>
 </authors>
   <published>1993</published>
@@ -116,7 +116,7 @@ content-type: application/xml; charset=utf-8
         </read_status>
     </read_statuses>
   <rating>1</rating>
-  <votes>271</votes>
+  <votes>272</votes>
   <spoiler_flag>false</spoiler_flag>
   <spoilers_state>none</spoilers_state>
   
@@ -124,9 +124,9 @@ content-type: application/xml; charset=utf-8
 <shelves>
   <shelf name="read" exclusive="true" />
 
-    <shelf name="blog" exclusive="false" review_shelf_id="480018581" sortable="false" />
-    <shelf name="book-club-made-me-do-it" exclusive="false" review_shelf_id="47909406" sortable="false" />
     <shelf name="crap" exclusive="false" review_shelf_id="9992641" sortable="false" />
+    <shelf name="book-club-made-me-do-it" exclusive="false" review_shelf_id="47909406" sortable="false" />
+    <shelf name="blog" exclusive="false" review_shelf_id="480018581" sortable="false" />
 </shelves>
   <recommended_for></recommended_for>
   <recommended_by></recommended_by>
