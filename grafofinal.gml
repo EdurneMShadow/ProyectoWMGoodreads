@@ -175,7 +175,7 @@ nombre_usuario "Trin"
 node [ 
 id 4527753 
 nombre_usuario "Khanh (the meanie)" 
-] 
+]
 node [ 
 id 883725 
 nombre_usuario "Julianna" 
@@ -186,7 +186,7 @@ nombre_usuario "Joe"
 ] 
 node [ 
 id 193310 
-nombre_usuario "brian   " 
+nombre_usuario "brian" 
 ] 
 node [ 
 id 780845 
@@ -242,7 +242,7 @@ nombre_usuario "James"
 ] 
 node [ 
 id 13346584 
-nombre_usuario "Ana " 
+nombre_usuario "Ana" 
 ] 
 node [ 
 id 5365999 
@@ -346,7 +346,7 @@ nombre_usuario "Lou"
 ] 
 node [ 
 id 18974711 
-nombre_usuario "Darth J " 
+nombre_usuario "Darth J" 
 ] 
 node [ 
 id 2250020 
@@ -406,7 +406,7 @@ nombre_usuario "Allison"
 ] 
 node [ 
 id 796425 
-nombre_usuario "Jeanette  "Astute Crabbist"J.Doe" 
+nombre_usuario "Jeanette  (Astute Crabbist)" 
 ] 
 node [ 
 id 4622890 
@@ -814,7 +814,7 @@ nombre_usuario "Lindsay"
 ] 
 node [ 
 id 2683062 
-nombre_usuario "J.Doe" 
+nombre_usuario " " 
 ] 
 node [ 
 id 4430475 
@@ -919,7 +919,7 @@ nombre_usuario "Limonessa"
 node [ 
 id 4322616 
 nombre_usuario "Josu" 
-] 
+]
 node [ 
 id 7584700 
 nombre_usuario "Keertana" 
@@ -3439,7 +3439,7 @@ nombre_usuario "Jenn"
 node [ 
 id 11708867 
 nombre_usuario "Jason Parent" 
-] 
+]
 node [ 
 id 5134198 
 nombre_usuario "Jenna" 
@@ -3906,7 +3906,7 @@ nombre_usuario "Richard"
 ] 
 node [ 
 id 5022264 
-nombre_usuario "Ian "Marvin" Graye" 
+nombre_usuario "Ian Marvin Graye" 
 ] 
 node [ 
 id 7182738 
@@ -3950,7 +3950,7 @@ nombre_usuario "Stephen P"
 ] 
 node [ 
 id 7607437 
-nombre_usuario "Nathan "N.R." Gaddis" 
+nombre_usuario "Nathan N.R. Gaddis" 
 ] 
 node [ 
 id 2165551 
@@ -3966,7 +3966,7 @@ nombre_usuario "Drew"
 ] 
 node [ 
 id 10923016 
-nombre_usuario "David "proud Gleeman in Branwen's adventuring party"J.Doe" 
+nombre_usuario "David proud Gleeman in Branwen's adventuring party" 
 ] 
 node [ 
 id 369169 
@@ -9122,7 +9122,7 @@ nombre_usuario "Wealhtheow"
 ] 
 node [ 
 id 580431 
-nombre_usuario "Jenn "Awww Yeaaahhh"J.Doe" 
+nombre_usuario "Jenn Awww Yeaaahhh" 
 ] 
 node [ 
 id 2569242 
@@ -17150,7 +17150,7 @@ nombre_usuario "Yan Ying"
 ] 
 node [ 
 id 19262650 
-nombre_usuario "Olivia "Don't Blame Me I Voted for Hillary"J.Doe" 
+nombre_usuario "Olivia Don't Blame Me I Voted for Hillary" 
 ] 
 node [ 
 id 22686918 
@@ -30126,7 +30126,7 @@ nombre_usuario "Emma Chase"
 ] 
 node [ 
 id 50223677 
-nombre_usuario "Jarek "the Mistborn" Dbrowski" 
+nombre_usuario "Jarek the Mistborn Dbrowski" 
 ] 
 node [ 
 id 16807073 
@@ -47467,14 +47467,10 @@ target 135295
 edge [ 
 source 1004635 
 target 1083438 
-] 
+]
 edge [ 
 source 1004635 
 target 792081 
-] 
-edge [ 
-source 1004635 
-target 61222 
 ] 
 edge [ 
 source 1004635 
@@ -47779,10 +47775,6 @@ target 22189980
 edge [ 
 source 10049704 
 target 5484622 
-] 
-edge [ 
-source 10049704 
-target 1199525 
 ] 
 edge [ 
 source 10049704 
@@ -48107,11 +48099,7 @@ target 624463
 edge [ 
 source 1005834 
 target 24027706 
-] 
-edge [ 
-source 1005834 
-target 221050 
-] 
+]
 edge [ 
 source 1005834 
 target 25628648 
@@ -51374,10 +51362,6 @@ target 957217
 ] 
 edge [ 
 source 1010541 
-target 221050 
-] 
-edge [ 
-source 1010541 
 target 185835 
 ] 
 edge [ 
@@ -53686,10 +53670,6 @@ target 21283
 ] 
 edge [ 
 source 10165256 
-target 2941288 
-] 
-edge [ 
-source 10165256 
 target 3529578 
 ] 
 edge [ 
@@ -54791,10 +54771,6 @@ target 19885314
 edge [ 
 source 10179929 
 target 7838797 
-] 
-edge [ 
-source 10179929 
-target 1199525 
 ] 
 edge [ 
 source 10179929 
@@ -59374,10 +59350,6 @@ target 1864633
 ] 
 edge [ 
 source 102611 
-target 221050 
-] 
-edge [ 
-source 102611 
 target 1108499 
 ] 
 edge [ 
@@ -59667,10 +59639,6 @@ target 236411
 edge [ 
 source 10261330 
 target 4100763 
-] 
-edge [ 
-source 10261330 
-target 1199525 
 ] 
 edge [ 
 source 10261330 
@@ -63506,10 +63474,6 @@ target 48483884
 ] 
 edge [ 
 source 10301421 
-target 1199525 
-] 
-edge [ 
-source 10301421 
 target 2329228 
 ] 
 edge [ 
@@ -66478,10 +66442,6 @@ target 1869506
 ] 
 edge [ 
 source 10352626 
-target 221050 
-] 
-edge [ 
-source 10352626 
 target 1559892 
 ] 
 edge [ 
@@ -66590,10 +66550,6 @@ target 412217
 ] 
 edge [ 
 source 103544 
-target 2941288 
-] 
-edge [ 
-source 103544 
 target 1409426 
 ] 
 edge [ 
@@ -66663,11 +66619,7 @@ target 7346585
 edge [ 
 source 1036930 
 target 2602702 
-] 
-edge [ 
-source 1036930 
-target 1199525 
-] 
+]  
 edge [ 
 source 1036930 
 target 48483884 
@@ -74682,10 +74634,6 @@ target 3574699
 ] 
 edge [ 
 source 1050179 
-target 61222 
-] 
-edge [ 
-source 1050179 
 target 1690623 
 ] 
 edge [ 
@@ -77978,10 +77926,6 @@ target 23743588
 ] 
 edge [ 
 source 10592271 
-target 1199525 
-] 
-edge [ 
-source 10592271 
 target 17544299 
 ] 
 edge [ 
@@ -78263,10 +78207,6 @@ target 763271
 edge [ 
 source 1059653 
 target 4501923 
-] 
-edge [ 
-source 1059653 
-target 1199525 
 ] 
 edge [ 
 source 1059653 
@@ -86090,10 +86030,6 @@ target 3920693
 ] 
 edge [ 
 source 1072582 
-target 1199525 
-] 
-edge [ 
-source 1072582 
 target 1379514 
 ] 
 edge [ 
@@ -86526,10 +86462,6 @@ target 740903
 ] 
 edge [ 
 source 1072582 
-target 221050 
-] 
-edge [ 
-source 1072582 
 target 4082629 
 ] 
 edge [ 
@@ -86619,11 +86551,7 @@ target 5206717
 edge [ 
 source 1072582 
 target 1198255 
-] 
-edge [ 
-source 1072582 
-target 4224396 
-] 
+]
 edge [ 
 source 10726797 
 target 30510075 
@@ -87343,10 +87271,6 @@ target 1864633
 edge [ 
 source 107301 
 target 2349088 
-] 
-edge [ 
-source 107301 
-target 221050 
 ] 
 edge [ 
 source 107301 
@@ -92646,10 +92570,6 @@ target 4026798
 ] 
 edge [ 
 source 1080401 
-target 221050 
-] 
-edge [ 
-source 1080401 
 target 3098901 
 ] 
 edge [ 
@@ -92859,10 +92779,6 @@ target 1435166
 edge [ 
 source 1080401 
 target 2561879 
-] 
-edge [ 
-source 1080401 
-target 2941288 
 ] 
 edge [ 
 source 1080401 
@@ -93958,10 +93874,6 @@ target 740903
 ] 
 edge [ 
 source 1083438 
-target 221050 
-] 
-edge [ 
-source 1083438 
 target 1108499 
 ] 
 edge [ 
@@ -94075,11 +93987,7 @@ target 1435166
 edge [ 
 source 1083438 
 target 4632071 
-] 
-edge [ 
-source 1083438 
-target 2941288 
-] 
+]  
 edge [ 
 source 1083438 
 target 1817857 
@@ -95031,11 +94939,7 @@ target 3615639
 edge [ 
 source 1085121 
 target 29261872 
-] 
-edge [ 
-source 1085121 
-target 4224396 
-] 
+]  
 edge [ 
 source 1085121 
 target 1497350 
@@ -98771,11 +98675,7 @@ target 2098381
 edge [ 
 source 1094932 
 target 3066154 
-] 
-edge [ 
-source 1094932 
-target 4224396 
-] 
+]  
 edge [ 
 source 10956060 
 target 920440 
@@ -101051,10 +100951,6 @@ target 20063790
 edge [ 
 source 11006867 
 target 13355488 
-] 
-edge [ 
-source 11006867 
-target 2941288 
 ] 
 edge [ 
 source 11008951 
@@ -103967,11 +103863,7 @@ target 363343
 edge [ 
 source 1108499 
 target 760831 
-] 
-edge [ 
-source 11089210 
-target 1199525 
-] 
+]  
 edge [ 
 source 11089210 
 target 8104591 
@@ -104003,5 +103895,5 @@ target 59329
 edge [ 
 source 11089210 
 target 1219253 
-] 
+]
 ]
