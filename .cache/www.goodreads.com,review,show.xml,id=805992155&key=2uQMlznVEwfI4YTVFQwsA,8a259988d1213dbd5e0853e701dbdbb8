@@ -1,20 +1,20 @@
 status: 200
-x-request-id: YEFZ141JFMF1CY3WHFFQ
+x-request-id: 31MVG4BCRE87KMBSQ3NV
 x-xss-protection: 1; mode=block
 content-location: https://www.goodreads.com/review/show.xml?id=805992155&key=2uQMlznVEwfI4YTVFQwsA
 x-content-type-options: nosniff, nosniff
-set-cookie: csid=BAhJIhg5NTktNjA4NjM2Mi0yNTI5NTEzBjoGRVQ%3D--35dfd2a65de4f2dd396c6262a44dac2d552028ad;
- path=/; expires=Mon, 27 Apr 2037 09:00:01 -0000, locale=es;
- path=/, _session_id2=f9c2de3e6b6750ca802fdbffa84475cf; path=/;
- expires=Thu, 27 Apr 2017 15:00:01 -0000; HttpOnly
+set-cookie: csid=BAhJIhg1MzgtMzExOTQ4MC02MjQ1NjQ3BjoGRVQ%3D--558d1456942802833b103aee60b044d720d438f0;
+ path=/; expires=Fri, 08 May 2037 10:00:50 -0000, locale=es;
+ path=/, _session_id2=7fcd6317e8bd36d7cfb35c0a51cf210d; path=/;
+ expires=Mon, 08 May 2017 16:00:51 -0000; HttpOnly
 vary: User-Agent,Accept-Encoding
 connection: keep-alive
 content-length: 51655
 server: Server
-x-runtime: 0.325296
-etag: W/"3b04108564d68c9915976c15b4b661a2"
+x-runtime: 0.361047
+etag: W/"fbc6a86feac5787316bccc312a5805e3"
 cache-control: max-age=0, private, must-revalidate
-date: Thu, 27 Apr 2017 09:00:01 GMT
+date: Mon, 08 May 2017 10:00:51 GMT
 x-frame-options: ALLOWALL
 content-type: application/xml; charset=utf-8
 -content-encoding: gzip
@@ -50,7 +50,7 @@ content-type: application/xml; charset=utf-8
   <id type="integer">8442457</id>
   <isbn>0297859382</isbn>
   <isbn13>9780297859383</isbn13>
-  <text_reviews_count type="integer">69034</text_reviews_count>
+  <text_reviews_count type="integer">69037</text_reviews_count>
   <title>Gone Girl</title>
   <title_without_series>Gone Girl</title_without_series>
   <image_url>https://images.gr-assets.com/books/1339602131m/8442457.jpg</image_url>
@@ -65,7 +65,7 @@ content-type: application/xml; charset=utf-8
   <publication_year>2012</publication_year>
   <publication_month>5</publication_month>
   <average_rating>4.03</average_rating>
-  <ratings_count>1564297</ratings_count>
+  <ratings_count>1570032</ratings_count>
   <description>On a warm summer morning in North Carthage, Missouri, it is Nick and Amy Dunne’s fifth wedding anniversary. Presents are being wrapped and reservations are being made when Nick’s clever and beautiful wife disappears. Husband-of-the-Year Nick isn’t doing himself any favors with cringe-worthy daydreams about the slope and shape of his wife’s head, but passages from Amy's diary reveal the alpha-girl perfectionist could have put anyone dangerously on edge. Under mounting pressure from the police and the media—as well as Amy’s fiercely doting parents—the town golden boy parades an endless series of lies, deceits, and inappropriate behavior. Nick is oddly evasive, and he’s definitely bitter—but is he really a killer?</description>
 <authors>
 <author>
@@ -80,8 +80,8 @@ content-type: application/xml; charset=utf-8
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/2383.Gillian_Flynn]]></link>
 <average_rating>3.98</average_rating>
-<ratings_count>2336133</ratings_count>
-<text_reviews_count>184388</text_reviews_count>
+<ratings_count>2345714</ratings_count>
+<text_reviews_count>184713</text_reviews_count>
 </author>
 </authors>
   <published>2012</published>
@@ -179,7 +179,7 @@ content-type: application/xml; charset=utf-8
         </read_status>
     </read_statuses>
   <rating>1</rating>
-  <votes>569</votes>
+  <votes>573</votes>
   <spoiler_flag>false</spoiler_flag>
   <spoilers_state>none</spoilers_state>
   
@@ -187,8 +187,8 @@ content-type: application/xml; charset=utf-8
 <shelves>
   <shelf name="read" exclusive="true" />
 
-    <shelf name="abandoned" exclusive="false" review_shelf_id="646653911" sortable="false" />
     <shelf name="novels" exclusive="false" review_shelf_id="646653995" sortable="false" />
+    <shelf name="abandoned" exclusive="false" review_shelf_id="646653911" sortable="false" />
 </shelves>
   <recommended_for></recommended_for>
   <recommended_by></recommended_by>

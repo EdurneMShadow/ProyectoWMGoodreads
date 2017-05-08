@@ -1,20 +1,20 @@
 status: 200
-x-request-id: 01CHB6GK20B9CXBRJ0A0
+x-request-id: 5MK4XTZM2RNN9GZT6XYD
 x-xss-protection: 1; mode=block
 content-location: https://www.goodreads.com/review/show.xml?id=214471525&key=2uQMlznVEwfI4YTVFQwsA
 x-content-type-options: nosniff, nosniff
-set-cookie: csid=BAhJIhg2NjItNDk3NzYzMC02MzY4NzAyBjoGRVQ%3D--0c3f4f0f80af44360c4fe8158dabd680e4245cd7;
- path=/; expires=Mon, 27 Apr 2037 08:58:10 -0000, locale=es;
- path=/, _session_id2=f2600e2431ca70d54e00815a789a7ad5; path=/;
- expires=Thu, 27 Apr 2017 14:58:11 -0000; HttpOnly
+set-cookie: csid=BAhJIhg3ODYtMDQ5MzYxOC02OTg0NjA2BjoGRVQ%3D--5abd5f4eb0a6415bab9f4abad7b85e2093d7ce3d;
+ path=/; expires=Fri, 08 May 2037 09:59:02 -0000, locale=es;
+ path=/, _session_id2=b66eb4d292544bdb9e30d5260564454b; path=/;
+ expires=Mon, 08 May 2017 15:59:02 -0000; HttpOnly
 vary: User-Agent,Accept-Encoding
 connection: keep-alive
-content-length: 56553
+content-length: 56520
 server: Server
-x-runtime: 0.407440
-etag: W/"80dd7b5d0499f5dd5bcf3d269b38c9fa"
+x-runtime: 0.405351
+etag: W/"d3b5aa87f0b9ebef9b0bc0cf0a7ecbb4"
 cache-control: max-age=0, private, must-revalidate
-date: Thu, 27 Apr 2017 08:58:11 GMT
+date: Mon, 08 May 2017 09:59:02 GMT
 x-frame-options: ALLOWALL
 content-type: application/xml; charset=utf-8
 -content-encoding: gzip
@@ -50,7 +50,7 @@ content-type: application/xml; charset=utf-8
   <id type="integer">2657</id>
   <isbn>0061120081</isbn>
   <isbn13>9780061120084</isbn13>
-  <text_reviews_count type="integer">57483</text_reviews_count>
+  <text_reviews_count type="integer">57607</text_reviews_count>
   <title>To Kill a Mockingbird</title>
   <title_without_series>To Kill a Mockingbird</title_without_series>
   <image_url>https://images.gr-assets.com/books/1361975680m/2657.jpg</image_url>
@@ -65,7 +65,7 @@ content-type: application/xml; charset=utf-8
   <publication_year>2006</publication_year>
   <publication_month>5</publication_month>
   <average_rating>4.25</average_rating>
-  <ratings_count>3259536</ratings_count>
+  <ratings_count>3266906</ratings_count>
   <description>The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it, To Kill A Mockingbird became both an instant bestseller and a critical success when it was first published in 1960. It went on to win the Pulitzer Prize in 1961 and was later made into an Academy Award-winning film, also a classic.&lt;br /&gt;&lt;br /&gt;Compassionate, dramatic, and deeply moving, To Kill A Mockingbird takes readers to the roots of human behavior - to innocence and experience, kindness and cruelty, love and hatred, humor and pathos. Now with over 18 million copies in print and translated into forty languages, this regional story by a young Alabama woman claims universal appeal. Harper Lee always considered her book to be a simple love story. Today it is regarded as a masterpiece of American literature.</description>
 <authors>
 <author>
@@ -80,8 +80,8 @@ content-type: application/xml; charset=utf-8
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1825.Harper_Lee]]></link>
 <average_rating>4.21</average_rating>
-<ratings_count>3423162</ratings_count>
-<text_reviews_count>94803</text_reviews_count>
+<ratings_count>3431362</ratings_count>
+<text_reviews_count>95033</text_reviews_count>
 </author>
 </authors>
   <published>2006</published>
@@ -107,11 +107,11 @@ content-type: application/xml; charset=utf-8
 <shelves>
   <shelf name="read" exclusive="true" />
 
-    <shelf name="coming-of-age" exclusive="false" review_shelf_id="826714687" sortable="false" />
-    <shelf name="times-100-best" exclusive="false" review_shelf_id="162407214" sortable="false" />
     <shelf name="society" exclusive="false" review_shelf_id="826714881" sortable="false" />
-    <shelf name="americana" exclusive="false" review_shelf_id="826714740" sortable="false" />
     <shelf name="racism" exclusive="false" review_shelf_id="826714784" sortable="false" />
+    <shelf name="americana" exclusive="false" review_shelf_id="826714740" sortable="false" />
+    <shelf name="times-100-best" exclusive="false" review_shelf_id="162407214" sortable="false" />
+    <shelf name="coming-of-age" exclusive="false" review_shelf_id="826714687" sortable="false" />
 </shelves>
   <recommended_for></recommended_for>
   <recommended_by></recommended_by>
@@ -516,7 +516,7 @@ content-type: application/xml; charset=utf-8
     <name>Lawyer</name>
     <display_name>Lawyer</display_name>
 
-    <location><![CDATA[Papamoa, Bay of Plenty, New Zealand]]></location>
+    <location>Tuscaloosa, AL</location>
 
     <link><![CDATA[https://www.goodreads.com/user/show/3025547-lawyer]]></link>
 

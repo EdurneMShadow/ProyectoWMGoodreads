@@ -1,20 +1,20 @@
 status: 200
-x-request-id: DE9ADZRRY2ZR982T9CA7
+x-request-id: F8A223XYT1CCZ1BNQN4P
 x-xss-protection: 1; mode=block
 content-location: https://www.goodreads.com/review/show.xml?id=1011642871&key=2uQMlznVEwfI4YTVFQwsA
 x-content-type-options: nosniff, nosniff
-set-cookie: csid=BAhJIhg5MzItODE2NTYwMi0wMDA0MDk4BjoGRVQ%3D--27f7d91a162e7b21058aec668400e66e2bab7ae2;
- path=/; expires=Mon, 27 Apr 2037 10:19:45 -0000, locale=es;
- path=/, _session_id2=a1bc2ea49c56e663e68ba26100f9731e; path=/;
- expires=Thu, 27 Apr 2017 16:19:46 -0000; HttpOnly
+set-cookie: csid=BAhJIhgxMjAtMjEyNDg0MC0zNTQyMjUzBjoGRVQ%3D--f39d0a6592cd6d8fa3d72cd129171090ecd389b4;
+ path=/; expires=Fri, 08 May 2037 10:23:48 -0000, locale=es;
+ path=/, _session_id2=dc5dc202d9952ac5adf84848e5346c4c; path=/;
+ expires=Mon, 08 May 2017 16:23:49 -0000; HttpOnly
 vary: User-Agent,Accept-Encoding
 connection: keep-alive
 content-length: 54938
 server: Server
-x-runtime: 0.333249
-etag: W/"eaa4eb8a4b8e48899fde1ad42e01d4ec"
+x-runtime: 0.319023
+etag: W/"8f39ac9fd25782f29875fe555a432e4f"
 cache-control: max-age=0, private, must-revalidate
-date: Thu, 27 Apr 2017 10:19:46 GMT
+date: Mon, 08 May 2017 10:23:49 GMT
 x-frame-options: ALLOWALL
 content-type: application/xml; charset=utf-8
 -content-encoding: gzip
@@ -65,7 +65,7 @@ content-type: application/xml; charset=utf-8
   <publication_year>2012</publication_year>
   <publication_month>10</publication_month>
   <average_rating>3.75</average_rating>
-  <ratings_count>857899</ratings_count>
+  <ratings_count>860404</ratings_count>
   <description>The classic tale of the devastating consequences of playing God.&lt;br /&gt;&lt;br /&gt;Brilliant, driven Victor Frankenstein has at last realized his greatest ambition. The scientist has succeeded in creating intelligent life. But when his creature first stirs, Frankenstein realizes he has made a monster. And, abandoned by its maker and shunned by everyone who sees it, the Doctor's creation sets out to destroy him and all that he holds dear.&lt;br /&gt;&lt;br /&gt;Mary Shelley's FRANKENSTEIN remains one of the greatest horror stories ever written, a book that chillingly captures the unforeseen terror of playing God. And the heart-stopping fear of being pursued by a powerful, relentless killer.</description>
 <authors>
 <author>
@@ -80,8 +80,8 @@ content-type: application/xml; charset=utf-8
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/11139.Mary_Wollstonecraft_Shelley]]></link>
 <average_rating>3.75</average_rating>
-<ratings_count>880639</ratings_count>
-<text_reviews_count>20852</text_reviews_count>
+<ratings_count>883264</ratings_count>
+<text_reviews_count>20941</text_reviews_count>
 </author>
 </authors>
   <published>2012</published>
@@ -115,7 +115,7 @@ content-type: application/xml; charset=utf-8
         </read_status>
     </read_statuses>
   <rating>3</rating>
-  <votes>113</votes>
+  <votes>114</votes>
   <spoiler_flag>false</spoiler_flag>
   <spoilers_state>none</spoilers_state>
   
@@ -123,10 +123,10 @@ content-type: application/xml; charset=utf-8
 <shelves>
   <shelf name="read" exclusive="true" />
 
-    <shelf name="novel" exclusive="false" review_shelf_id="767397746" sortable="false" />
     <shelf name="science-fiction" exclusive="false" review_shelf_id="767397969" sortable="false" />
-    <shelf name="horror" exclusive="false" review_shelf_id="767397783" sortable="false" />
     <shelf name="steampunk" exclusive="false" review_shelf_id="767398038" sortable="false" />
+    <shelf name="novel" exclusive="false" review_shelf_id="767397746" sortable="false" />
+    <shelf name="horror" exclusive="false" review_shelf_id="767397783" sortable="false" />
     <shelf name="romance" exclusive="false" review_shelf_id="767397903" sortable="false" />
 </shelves>
   <recommended_for></recommended_for>

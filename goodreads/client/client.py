@@ -120,6 +120,31 @@ class Client:
             friends.extend([(user['id'], user['name']) for user in data_dict['user']])
         # Return compiled list of friends
         return friends
+        
+    def get_followers(self, user_id, num=MAX_INT):
+        """ Get pages of user's friends list. (30 per page)
+            Returns: ((id, name),) """
+        if not self.session:
+            raise GoodreadsSessionError("No authenticated session.")
+
+        # Iterate through pages
+        followers = []
+        page, end, total = 1, 0, 1
+        while end < num and end < total:
+            data_dict = self.session.get('user/'+user_id + '/followers',
+                                        {'format':'xml', 'page':str(page)})
+            data_dict = data_dict['followers']
+            # Check to see if  there is 'user' (friend) data
+            if len(data_dict) is 0:
+                break # No followers :(
+            else: # Update progress
+                end = int(data_dict['@end'])
+                total = int(data_dict['@total'])
+                page += 1
+            # Add page's list to total
+            followers.extend([(user['id'], user['name']) for user in data_dict['user']])
+        # Return compiled list of friends
+        return followers
 
     def get_auth_user(self):
         """ Get the OAuthenticated user id and name """

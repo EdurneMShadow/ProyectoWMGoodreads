@@ -1,20 +1,20 @@
 status: 200
-x-request-id: RHJHDNQCA9TSNN6QHZCA
+x-request-id: SXM5W6K0BW9VZYYN54HC
 x-xss-protection: 1; mode=block
 content-location: https://www.goodreads.com/review/show.xml?id=1770975788&key=2uQMlznVEwfI4YTVFQwsA
 x-content-type-options: nosniff, nosniff
-set-cookie: csid=BAhJIhg4NjAtNDk2Nzg5Ny00NDMyNDE2BjoGRVQ%3D--d4e5b69ece952c8b3d96bf2fc7e17e50531be5d5;
- path=/; expires=Mon, 27 Apr 2037 08:57:52 -0000, locale=es;
- path=/, _session_id2=5e50e22ade3a96a38ee4e2d30efc389b; path=/;
- expires=Thu, 27 Apr 2017 14:57:52 -0000; HttpOnly
+set-cookie: csid=BAhJIhg1ODUtMzcxNTcyNS0xNjM1MzE1BjoGRVQ%3D--1340f9ee9d647ccb5ec0f6b50480f946a3c16d9b;
+ path=/; expires=Fri, 08 May 2037 09:58:42 -0000, locale=es;
+ path=/, _session_id2=1c040afdc465cd12ceeb492528b21b3d; path=/;
+ expires=Mon, 08 May 2017 15:58:42 -0000; HttpOnly
 vary: User-Agent,Accept-Encoding
 connection: keep-alive
 content-length: 22648
 server: Server
-x-runtime: 0.381589
-etag: W/"a4087aca26d2dbb6dd54c36fa01a0ef6"
+x-runtime: 0.227041
+etag: W/"86fa4e820b7d7598a7b8719ec243c3f3"
 cache-control: max-age=0, private, must-revalidate
-date: Thu, 27 Apr 2017 08:57:52 GMT
+date: Mon, 08 May 2017 09:58:42 GMT
 x-frame-options: ALLOWALL
 content-type: application/xml; charset=utf-8
 -content-encoding: gzip
@@ -50,7 +50,7 @@ content-type: application/xml; charset=utf-8
   <id type="integer">41865</id>
   <isbn>0316015849</isbn>
   <isbn13>9780316015844</isbn13>
-  <text_reviews_count type="integer">89539</text_reviews_count>
+  <text_reviews_count type="integer">89605</text_reviews_count>
   <title>Twilight (Twilight, #1)</title>
   <title_without_series>Twilight</title_without_series>
   <image_url>https://images.gr-assets.com/books/1361039443m/41865.jpg</image_url>
@@ -65,7 +65,7 @@ content-type: application/xml; charset=utf-8
   <publication_year>2006</publication_year>
   <publication_month>9</publication_month>
   <average_rating>3.57</average_rating>
-  <ratings_count>3811966</ratings_count>
+  <ratings_count>3821714</ratings_count>
   <description>&lt;b&gt;About three things I was absolutely positive.&lt;br /&gt;&lt;br /&gt;First, Edward was a vampire.&lt;br /&gt;&lt;br /&gt;Second, there was a part of him—and I didn't know how dominant that part might be—that thirsted for my blood.&lt;br /&gt;&lt;br /&gt;And third, I was unconditionally and irrevocably in love with him.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;In the first book of the Twilight Saga, internationally bestselling author Stephenie Meyer introduces Bella Swan and Edward Cullen, a pair of star-crossed lovers whose forbidden relationship ripens against the backdrop of small-town suspicion and a mysterious coven of vampires. This is a love story with bite.</description>
 <authors>
 <author>
@@ -80,8 +80,8 @@ content-type: application/xml; charset=utf-8
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/941441.Stephenie_Meyer]]></link>
 <average_rating>3.64</average_rating>
-<ratings_count>8648897</ratings_count>
-<text_reviews_count>294055</text_reviews_count>
+<ratings_count>8666333</ratings_count>
+<text_reviews_count>294382</text_reviews_count>
 </author>
 </authors>
   <published>2006</published>
@@ -290,13 +290,13 @@ content-type: application/xml; charset=utf-8
 <shelves>
   <shelf name="read" exclusive="true" />
 
+    <shelf name="urban-fantasy" exclusive="false" review_shelf_id="1435133575" sortable="false" />
+    <shelf name="shouldn-t-have-re-read" exclusive="false" review_shelf_id="1535099178" sortable="false" />
     <shelf name="fantasy" exclusive="false" review_shelf_id="1435133568" sortable="false" />
     <shelf name="paranormal" exclusive="false" review_shelf_id="1435133573" sortable="false" />
-    <shelf name="urban-fantasy" exclusive="false" review_shelf_id="1435133575" sortable="false" />
     <shelf name="2017-re-reads" exclusive="false" review_shelf_id="1534247283" sortable="false" />
     <shelf name="not-for-me" exclusive="false" review_shelf_id="1535099172" sortable="false" />
     <shelf name="literal-trash" exclusive="false" review_shelf_id="1535099175" sortable="false" />
-    <shelf name="shouldn-t-have-re-read" exclusive="false" review_shelf_id="1535099178" sortable="false" />
     <shelf name="young-adult" exclusive="false" review_shelf_id="1435133572" sortable="false" />
     <shelf name="romance" exclusive="false" review_shelf_id="1435133578" sortable="false" />
 </shelves>

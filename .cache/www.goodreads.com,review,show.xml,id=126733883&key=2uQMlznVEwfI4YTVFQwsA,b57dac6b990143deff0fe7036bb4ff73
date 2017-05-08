@@ -1,20 +1,20 @@
 status: 200
-x-request-id: ZQ97KDNZNBWVE1GN6PJ4
+x-request-id: 5S8SRDPV05T3JNEXTQ74
 x-xss-protection: 1; mode=block
 content-location: https://www.goodreads.com/review/show.xml?id=126733883&key=2uQMlznVEwfI4YTVFQwsA
 x-content-type-options: nosniff, nosniff
-set-cookie: csid=BAhJIhgwNjUtNzQwNTgwNi0yMTM1NzE4BjoGRVQ%3D--52046af03932203621fb0f9f668108782c28f630;
- path=/; expires=Mon, 27 Apr 2037 10:04:32 -0000, locale=es;
- path=/, _session_id2=8044997280c3c739bf216f5c064bb3b5; path=/;
- expires=Thu, 27 Apr 2017 16:04:33 -0000; HttpOnly
+set-cookie: csid=BAhJIhg2NDgtMjM0Njk1Mi0zOTIyMzE1BjoGRVQ%3D--671cbdf37d05d1c79764923f00d28920750d2878;
+ path=/; expires=Fri, 08 May 2037 10:05:30 -0000, locale=es;
+ path=/, _session_id2=4482b819f936ef55cfae1cff686a2ea6; path=/;
+ expires=Mon, 08 May 2017 16:05:31 -0000; HttpOnly
 vary: User-Agent,Accept-Encoding
 connection: keep-alive
-content-length: 41299
+content-length: 43520
 server: Server
-x-runtime: 0.292431
-etag: W/"26ef3e45a3d5ecc1c894ae0864e9509e"
+x-runtime: 0.383734
+etag: W/"ae4a6b14780e586b7dacda9fec147b64"
 cache-control: max-age=0, private, must-revalidate
-date: Thu, 27 Apr 2017 10:04:33 GMT
+date: Mon, 08 May 2017 10:05:31 GMT
 x-frame-options: ALLOWALL
 content-type: application/xml; charset=utf-8
 -content-encoding: gzip
@@ -50,7 +50,7 @@ content-type: application/xml; charset=utf-8
   <id type="integer">3</id>
   <isbn>0439554934</isbn>
   <isbn13>9780439554930</isbn13>
-  <text_reviews_count type="integer">55810</text_reviews_count>
+  <text_reviews_count type="integer">55975</text_reviews_count>
   <title>Harry Potter and the Sorcerer's Stone (Harry Potter, #1)</title>
   <title_without_series>Harry Potter and the Sorcerer's Stone</title_without_series>
   <image_url>https://images.gr-assets.com/books/1474154022m/3.jpg</image_url>
@@ -65,7 +65,7 @@ content-type: application/xml; charset=utf-8
   <publication_year>1997</publication_year>
   <publication_month>6</publication_month>
   <average_rating>4.44</average_rating>
-  <ratings_count>4597026</ratings_count>
+  <ratings_count>4613797</ratings_count>
   <description>Harry Potter's life is miserable. His parents are dead and he's stuck with his heartless relatives, who force him to live in a tiny closet under the stairs. But his fortune changes when he receives a letter that tells him the truth about himself: he's a wizard. A mysterious visitor rescues him from his relatives and takes him to his new home, Hogwarts School of Witchcraft and Wizardry.&lt;br /&gt;&lt;br /&gt;After a lifetime of bottling up his magical powers, Harry finally feels like a normal kid. But even within the Wizarding community, he is special. He is the boy who lived: the only person to have ever survived a killing curse inflicted by the evil Lord Voldemort, who launched a brutal takeover of the Wizarding world, only to vanish after failing to kill Harry.&lt;br /&gt;&lt;br /&gt;Though Harry's first year at Hogwarts is the best of his life, not everything is perfect. There is a dangerous secret object hidden within the castle walls, and Harry believes it's his responsibility to prevent it from falling into evil hands. But doing so will bring him into contact with forces more terrifying than he ever could have imagined.&lt;br /&gt;&lt;br /&gt;Full of sympathetic characters, wildly imaginative situations, and countless exciting details, the first installment in the series assembles an unforgettable magical world and sets the stage for many high-stakes adventures to come.</description>
 <authors>
 <author>
@@ -80,8 +80,8 @@ content-type: application/xml; charset=utf-8
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
 <average_rating>4.42</average_rating>
-<ratings_count>17633619</ratings_count>
-<text_reviews_count>437221</text_reviews_count>
+<ratings_count>17695233</ratings_count>
+<text_reviews_count>438853</text_reviews_count>
 </author>
 </authors>
   <published>1997</published>
@@ -99,7 +99,7 @@ content-type: application/xml; charset=utf-8
         </read_status>
     </read_statuses>
   <rating>5</rating>
-  <votes>1327</votes>
+  <votes>1334</votes>
   <spoiler_flag>false</spoiler_flag>
   <spoilers_state>none</spoilers_state>
   
@@ -107,8 +107,8 @@ content-type: application/xml; charset=utf-8
 <shelves>
   <shelf name="read" exclusive="true" />
 
-    <shelf name="fantasy" exclusive="false" review_shelf_id="194565908" sortable="false" />
     <shelf name="favorites" exclusive="false" review_shelf_id="195718589" sortable="false" />
+    <shelf name="fantasy" exclusive="false" review_shelf_id="194565908" sortable="false" />
 </shelves>
   <recommended_for></recommended_for>
   <recommended_by></recommended_by>
@@ -123,8 +123,8 @@ content-type: application/xml; charset=utf-8
 
   
 
-  <comments_count>47</comments_count>
-    <comments start="1" end="48" total="48">
+  <comments_count>49</comments_count>
+    <comments start="1" end="50" total="50">
         <comment>
   <id>47987092</id>
   <body><![CDATA[<i>Adam "Archer" wrote: "Are you kidding me... I do that now lol"</i><br /><br />As do I, Adam. As do I.]]></body>
@@ -307,8 +307,8 @@ content-type: application/xml; charset=utf-8
 
     <link><![CDATA[https://www.goodreads.com/user/show/5654040-margaret-alyse]]></link>
 
-    <image_url><![CDATA[https://images.gr-assets.com/users/1486942152p3/5654040.jpg]]></image_url>
-    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486942152p2/5654040.jpg]]></small_image_url>
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493437497p3/5654040.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493437497p2/5654040.jpg]]></small_image_url>
     <has_image>true</has_image>
 
   </user>
@@ -1151,15 +1151,15 @@ content-type: application/xml; charset=utf-8
   
   <user>
     <id>63713997</id>
-    <name>Noah :)</name>
-    <display_name>Noah :)</display_name>
+    <name>Noah</name>
+    <display_name>Noah Ball :)</display_name>
 
     <location>New Zealand</location>
 
-    <link><![CDATA[https://www.goodreads.com/user/show/63713997-noah]]></link>
+    <link><![CDATA[https://www.goodreads.com/user/show/63713997-noah-ball]]></link>
 
-    <image_url><![CDATA[https://images.gr-assets.com/users/1492406259p3/63713997.jpg]]></image_url>
-    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492406259p2/63713997.jpg]]></small_image_url>
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493705910p3/63713997.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493705910p2/63713997.jpg]]></small_image_url>
     <has_image>true</has_image>
 
   </user>
@@ -1212,6 +1212,52 @@ content-type: application/xml; charset=utf-8
 
   <created_at>Thu Apr 06 18:22:38 -0700 2017</created_at>
   <updated_at>Thu Apr 06 18:22:38 -0700 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>166045682</id>
+  <body><![CDATA[If you are nicer, can you give this book a longer and better review?]]></body>
+  
+  <user>
+    <id>63808332</id>
+    <name>bae soo yeon</name>
+    <display_name>bae soo yeon</display_name>
+
+    <location>Korea, Republic of</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/63808332-bae-soo-yeon]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun May 07 02:44:32 -0700 2017</created_at>
+  <updated_at>Sun May 07 02:44:32 -0700 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>166055118</id>
+  <body><![CDATA[<i>bae soo yeon wrote: "If you are nicer, can you give this book a longer and better review?"</i><br /><br />This review is perfect and encapsulates everything. There are other reviews you can find if it really matters to you, but since you've already read and rated the book you don't really need to read someone's review to know what the book is about, do you? So how about instead of telling someone what to do with their review space you yourself be "nicer" and go write your own review, something "longer and better" than your own blank space, and then you'll have the review you want since what other people do with their review spaces isn't good enough for you.]]></body>
+  
+  <user>
+    <id>24807712</id>
+    <name>Miko (Talulla Glas&apos;Ualas)</name>
+    <display_name>Miko (Talulla Glas&apos;Ualas)</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24807712-miko-talulla-glas-ualas]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488871504p3/24807712.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488871504p2/24807712.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 07 09:27:51 -0700 2017</created_at>
+  <updated_at>Sun May 07 09:27:51 -0700 2017</updated_at>
 </comment>
 
     </comments>

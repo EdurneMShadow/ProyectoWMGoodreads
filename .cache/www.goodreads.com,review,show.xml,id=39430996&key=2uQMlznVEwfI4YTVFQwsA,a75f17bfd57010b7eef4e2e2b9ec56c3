@@ -1,20 +1,20 @@
 status: 200
-x-request-id: RHMJA3A383JSPY9S25VR
+x-request-id: 68KTZ4TTBKBQTH1MWMNQ
 x-xss-protection: 1; mode=block
 content-location: https://www.goodreads.com/review/show.xml?id=39430996&key=2uQMlznVEwfI4YTVFQwsA
 x-content-type-options: nosniff, nosniff
-set-cookie: csid=BAhJIhg1NTktODUxOTg2My0xMjYwNDU2BjoGRVQ%3D--d5e8832e74b1cc66b9961008c67011b8ebf061dc;
- path=/; expires=Mon, 27 Apr 2037 09:01:38 -0000, locale=es;
- path=/, _session_id2=23ddb4af5ab72d1ce19f14d5f5011492; path=/;
- expires=Thu, 27 Apr 2017 15:01:39 -0000; HttpOnly
+set-cookie: csid=BAhJIhgzNTgtMDg2MjAzNS0zNDAxNzA1BjoGRVQ%3D--6f4ac1d40abef02d8bf1d335a54447cdd6577488;
+ path=/; expires=Fri, 08 May 2037 10:02:23 -0000, locale=es;
+ path=/, _session_id2=8d29b38eff74d8e57f453dc529dc9dfc; path=/;
+ expires=Mon, 08 May 2017 16:02:23 -0000; HttpOnly
 vary: User-Agent,Accept-Encoding
 connection: keep-alive
-content-length: 36914
+content-length: 43861
 server: Server
-x-runtime: 0.249236
-etag: W/"be0edfda08dc94aa0ea978cc4b1c0fa8"
+x-runtime: 0.243439
+etag: W/"d1afced31ec2915448978b5a66060b07"
 cache-control: max-age=0, private, must-revalidate
-date: Thu, 27 Apr 2017 09:01:39 GMT
+date: Mon, 08 May 2017 10:02:23 GMT
 x-frame-options: ALLOWALL
 content-type: application/xml; charset=utf-8
 -content-encoding: gzip
@@ -50,7 +50,7 @@ content-type: application/xml; charset=utf-8
   <id type="integer">5907</id>
   <isbn>0618260307</isbn>
   <isbn13>9780618260300</isbn13>
-  <text_reviews_count type="integer">27582</text_reviews_count>
+  <text_reviews_count type="integer">27629</text_reviews_count>
   <title>The Hobbit</title>
   <title_without_series>The Hobbit</title_without_series>
   <image_url>https://images.gr-assets.com/books/1372847500m/5907.jpg</image_url>
@@ -65,7 +65,7 @@ content-type: application/xml; charset=utf-8
   <publication_year></publication_year>
   <publication_month></publication_month>
   <average_rating>4.24</average_rating>
-  <ratings_count>2145216</ratings_count>
+  <ratings_count>2150365</ratings_count>
   <description>&lt;i&gt;In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a hobbit-hole, and that means comfort.&lt;br /&gt;&lt;br /&gt;&lt;/i&gt;Written for J.R.R. Tolkien’s own children, &lt;i&gt;The Hobbit&lt;/i&gt; met with instant critical acclaim when it was first published in 1937. Now recognized as a timeless classic, this introduction to the hobbit Bilbo Baggins, the wizard Gandalf, Gollum, and the spectacular world of Middle-earth recounts of the adventures of a reluctant hero, a powerful and dangerous ring, and the cruel dragon Smaug the Magnificent. The text in this 372-page paperback edition is based on that first published in Great Britain by Collins Modern Classics (1998), and includes a note on the text by Douglas A. Anderson (2001). Unforgettable!&lt;br /&gt;</description>
 <authors>
 <author>
@@ -80,8 +80,8 @@ content-type: application/xml; charset=utf-8
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
 <average_rating>4.30</average_rating>
-<ratings_count>6117383</ratings_count>
-<text_reviews_count>91236</text_reviews_count>
+<ratings_count>6134461</ratings_count>
+<text_reviews_count>91551</text_reviews_count>
 </author>
 </authors>
   <published></published>
@@ -99,7 +99,7 @@ content-type: application/xml; charset=utf-8
         </read_status>
     </read_statuses>
   <rating>4</rating>
-  <votes>88</votes>
+  <votes>105</votes>
   <spoiler_flag>false</spoiler_flag>
   <spoilers_state>none</spoilers_state>
   
@@ -121,8 +121,8 @@ content-type: application/xml; charset=utf-8
 
   
 
-  <comments_count>36</comments_count>
-    <comments start="1" end="36" total="36">
+  <comments_count>43</comments_count>
+    <comments start="1" end="43" total="43">
         <comment>
   <id>5730036</id>
   <body><![CDATA[I'm fascinated by philology but not equiped to pursue it. :-(]]></body>
@@ -851,9 +851,9 @@ content-type: application/xml; charset=utf-8
 
     <link><![CDATA[https://www.goodreads.com/user/show/67106552-nate]]></link>
 
-    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
-    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
-    <has_image>false</has_image>
+    <image_url><![CDATA[https://images.gr-assets.com/users/1494202935p3/67106552.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1494202935p2/67106552.jpg]]></small_image_url>
+    <has_image>true</has_image>
 
   </user>
 
@@ -951,6 +951,167 @@ content-type: application/xml; charset=utf-8
 
   <created_at>Thu Apr 27 01:58:28 -0700 2017</created_at>
   <updated_at>Thu Apr 27 01:58:28 -0700 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>165643587</id>
+  <body><![CDATA[<i>Manny wrote: "The more I get to know about the linguistic aspects, the more impressed I become. <br /><br />Today's discovery: he even invented a basic sign language (!) for the Dwarves. I do hope that some Deaf Tolkien-g..."</i><br /><br />"You shall not pass!"]]></body>
+  
+  <user>
+    <id>1433865</id>
+    <name>Robert</name>
+    <display_name>Robert</display_name>
+
+    <location>Bath, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1433865-robert]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1254324661p3/1433865.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1254324661p2/1433865.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Apr 27 02:53:57 -0700 2017</created_at>
+  <updated_at>Thu Apr 27 02:53:57 -0700 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>165643638</id>
+  <body><![CDATA[On thinking about it, there must be a full two-handed version and a reduced one-handed version suitable for a Dwarf holding a hammer or an axe.]]></body>
+  
+  <user>
+    <id>1713956</id>
+    <name>Manny</name>
+    <display_name>Manny</display_name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1713956-manny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442491692p3/1713956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442491692p2/1713956.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Apr 27 02:56:30 -0700 2017</created_at>
+  <updated_at>Thu Apr 27 02:56:30 -0700 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>165643666</id>
+  <body><![CDATA[<i>Manny wrote: "On thinking about it, there must be a full two-handed version and a reduced one-handed version suitable for a Dwarf holding a hammer or an axe."</i><br /><br />You'd definitely want a single sign for "Balrog!" Having to spell it out would potentially cost lives.]]></body>
+  
+  <user>
+    <id>1433865</id>
+    <name>Robert</name>
+    <display_name>Robert</display_name>
+
+    <location>Bath, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1433865-robert]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1254324661p3/1433865.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1254324661p2/1433865.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Apr 27 02:58:12 -0700 2017</created_at>
+  <updated_at>Thu Apr 27 02:58:12 -0700 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>165643777</id>
+  <body><![CDATA[Yup, I think that's clear. And it would need to be a one-handed sign too.]]></body>
+  
+  <user>
+    <id>1713956</id>
+    <name>Manny</name>
+    <display_name>Manny</display_name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1713956-manny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442491692p3/1713956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442491692p2/1713956.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Apr 27 03:03:43 -0700 2017</created_at>
+  <updated_at>Thu Apr 27 03:03:43 -0700 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>165647630</id>
+  <body><![CDATA[<i>Manny wrote: "On thinking about it, there must be a full two-handed version and a reduced one-handed version suitable for a Dwarf holding a hammer or an axe."</i><br /><br />According to <a target="_blank" href="https://dwarves-of-the-lonely-mountain.obsidianportal.com/wikis/the-iglishmek-sign-language-of-the-dwarves" rel="nofollow">https://dwarves-of-the-lonely-mountai...</a> ,<br />"It is hindered if both hands are not free for use....But it is flexible enough that if a gesture normally requires two hands, a one-handed approximation is usually clear enough in context to be read correctly."<br /><br />I've actually thought about making up something like this (a sign language so subtle no one knows you're using it) before, so it's pretty cool that Tolkien already has! Do you know if he actually made up the entire language, or just the concept of it?]]></body>
+  
+  <user>
+    <id>67106552</id>
+    <name>Nate</name>
+    <display_name>Nate</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/67106552-nate]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1494202935p3/67106552.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1494202935p2/67106552.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Apr 27 05:39:31 -0700 2017</created_at>
+  <updated_at>Thu Apr 27 05:39:31 -0700 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>165648184</id>
+  <body><![CDATA[With anyone else, I'd be sure they'd just made up the concept and left it at that. With Tolkien, I'd say 50/50 that there's a series of unpublished A4 notebooks with hand diagrams, syntax wittily combining elements from Old Irish Sign Language and borrowings from Langue de Signes Française, and everything painstakingly adapted for short, stocky signers with beards and axes.]]></body>
+  
+  <user>
+    <id>1713956</id>
+    <name>Manny</name>
+    <display_name>Manny</display_name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1713956-manny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442491692p3/1713956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442491692p2/1713956.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Apr 27 05:59:16 -0700 2017</created_at>
+  <updated_at>Thu Apr 27 05:59:16 -0700 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>165656541</id>
+  <body><![CDATA[<i>Manny wrote: "With anyone else, I'd be sure they'd just made up the concept and left it at that. With Tolkien, I'd say 50/50 that there's a series of unpublished A4 notebooks with hand diagrams, syntax wittily c..."</i><br /><br />Probably scribbled on the back of a bunch of Oxford exam scripts...]]></body>
+  
+  <user>
+    <id>1433865</id>
+    <name>Robert</name>
+    <display_name>Robert</display_name>
+
+    <location>Bath, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1433865-robert]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1254324661p3/1433865.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1254324661p2/1433865.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Apr 27 09:42:48 -0700 2017</created_at>
+  <updated_at>Thu Apr 27 09:42:48 -0700 2017</updated_at>
 </comment>
 
     </comments>

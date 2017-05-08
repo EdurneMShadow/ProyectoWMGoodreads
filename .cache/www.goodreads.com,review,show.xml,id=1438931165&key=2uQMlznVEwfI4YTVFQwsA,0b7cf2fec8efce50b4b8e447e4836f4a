@@ -1,20 +1,20 @@
 status: 200
-x-request-id: HA18WYF28YV5N9SNFQCR
+x-request-id: NZVV0VZMCXWV40B0N65Y
 x-xss-protection: 1; mode=block
 content-location: https://www.goodreads.com/review/show.xml?id=1438931165&key=2uQMlznVEwfI4YTVFQwsA
 x-content-type-options: nosniff, nosniff
-set-cookie: csid=BAhJIhgyNDAtMDY1NzE3My00NTk3OTYwBjoGRVQ%3D--5108b0e3cc26912898c405f062f3ccfe84e6cca3;
- path=/; expires=Mon, 27 Apr 2037 10:04:49 -0000, locale=es;
- path=/, _session_id2=845df5a261216805c0769eef78550fed; path=/;
- expires=Thu, 27 Apr 2017 16:04:50 -0000; HttpOnly
+set-cookie: csid=BAhJIhg4MjctNzQ5OTY2Ny04OTEyMTc0BjoGRVQ%3D--7969e57540ee5ab5faeb96e52fac877c913e4209;
+ path=/; expires=Fri, 08 May 2037 10:05:52 -0000, locale=es;
+ path=/, _session_id2=7dfddfa3c5a8c3b4c325d476d8fbb466; path=/;
+ expires=Mon, 08 May 2017 16:05:52 -0000; HttpOnly
 vary: User-Agent,Accept-Encoding
 connection: keep-alive
 content-length: 49383
 server: Server
-x-runtime: 0.313942
-etag: W/"c035e4370a95c1feb28c60d64e92ecfc"
+x-runtime: 0.318627
+etag: W/"449e5f06c9a356c849c1a2e513a37003"
 cache-control: max-age=0, private, must-revalidate
-date: Thu, 27 Apr 2017 10:04:50 GMT
+date: Mon, 08 May 2017 10:05:52 GMT
 x-frame-options: ALLOWALL
 content-type: application/xml; charset=utf-8
 -content-encoding: gzip
@@ -50,7 +50,7 @@ content-type: application/xml; charset=utf-8
   <id type="integer">24490481</id>
   <isbn>0545790352</isbn>
   <isbn13>9780545790352</isbn13>
-  <text_reviews_count type="integer">1176</text_reviews_count>
+  <text_reviews_count type="integer">1182</text_reviews_count>
   <title>Harry Potter and the Sorcerer's Stone (Harry Potter, #1)</title>
   <title_without_series>Harry Potter and the Sorcerer's Stone</title_without_series>
   <image_url>https://images.gr-assets.com/books/1427663334m/24490481.jpg</image_url>
@@ -65,7 +65,7 @@ content-type: application/xml; charset=utf-8
   <publication_year>2015</publication_year>
   <publication_month>10</publication_month>
   <average_rating>4.44</average_rating>
-  <ratings_count>4597026</ratings_count>
+  <ratings_count>4613797</ratings_count>
   <description>The beloved first book of the Harry Potter series, now fully illustrated by award-winning artist Jim Kay.&lt;br /&gt;&lt;br /&gt;For the first time, J.K. Rowling's beloved Harry Potter books will be presented in lavishly illustrated full-color editions. Kate Greenaway-award winning artist Jim Kay has created over 100 stunning illustrations, making this deluxe format a perfect gift as much for a child being introduced to the series, as for the dedicated fan.&lt;br /&gt;&lt;br /&gt;Harry Potter has never been the star of a Quidditch team, scoring points while riding a broom far above the ground. He knows no spells, has never helped to hatch a dragon, and has never worn a cloak of invisibility.&lt;br /&gt;&lt;br /&gt;All he knows is a miserable life with the Dursleys, his horrible aunt and uncle, and their abominable son, Dudley--a great big swollen spoiled bully. Harry's room is a tiny closet at the foot of the stairs, and he hasn't had a birthday party in eleven years.&lt;br /&gt;&lt;br /&gt;But all that is about to change when a mysterious letter arrives by owl messenger: a letter with an invitation to an incredible place that Harry--and anyone who reads about him---will find unforgettable.</description>
 <authors>
 <author>
@@ -80,8 +80,8 @@ content-type: application/xml; charset=utf-8
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
 <average_rating>4.42</average_rating>
-<ratings_count>17633619</ratings_count>
-<text_reviews_count>437221</text_reviews_count>
+<ratings_count>17695233</ratings_count>
+<text_reviews_count>438853</text_reviews_count>
 </author>
 </authors>
   <published>2015</published>
@@ -229,7 +229,7 @@ content-type: application/xml; charset=utf-8
         </read_status>
     </read_statuses>
   <rating>5</rating>
-  <votes>154</votes>
+  <votes>155</votes>
   <spoiler_flag>false</spoiler_flag>
   <spoilers_state>none</spoilers_state>
   
@@ -237,10 +237,10 @@ content-type: application/xml; charset=utf-8
 <shelves>
   <shelf name="read" exclusive="true" />
 
-    <shelf name="fantasy-all" exclusive="false" review_shelf_id="1127867183" sortable="true" />
+    <shelf name="favorites" exclusive="false" review_shelf_id="1169594119" sortable="false" />
     <shelf name="own" exclusive="false" review_shelf_id="1127866970" sortable="false" />
     <shelf name="childrens" exclusive="false" review_shelf_id="1127867275" sortable="false" />
-    <shelf name="favorites" exclusive="false" review_shelf_id="1169594119" sortable="false" />
+    <shelf name="fantasy-all" exclusive="false" review_shelf_id="1127867183" sortable="true" />
 </shelves>
   <recommended_for></recommended_for>
   <recommended_by></recommended_by>
@@ -546,8 +546,8 @@ content-type: application/xml; charset=utf-8
 
     <link><![CDATA[https://www.goodreads.com/user/show/3461034-trish]]></link>
 
-    <image_url><![CDATA[https://images.gr-assets.com/users/1436099209p3/3461034.jpg]]></image_url>
-    <small_image_url><![CDATA[https://images.gr-assets.com/users/1436099209p2/3461034.jpg]]></small_image_url>
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493966010p3/3461034.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493966010p2/3461034.jpg]]></small_image_url>
     <has_image>true</has_image>
 
   </user>
@@ -592,8 +592,8 @@ content-type: application/xml; charset=utf-8
 
     <link><![CDATA[https://www.goodreads.com/user/show/3461034-trish]]></link>
 
-    <image_url><![CDATA[https://images.gr-assets.com/users/1436099209p3/3461034.jpg]]></image_url>
-    <small_image_url><![CDATA[https://images.gr-assets.com/users/1436099209p2/3461034.jpg]]></small_image_url>
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493966010p3/3461034.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493966010p2/3461034.jpg]]></small_image_url>
     <has_image>true</has_image>
 
   </user>
@@ -1029,8 +1029,8 @@ content-type: application/xml; charset=utf-8
 
     <link><![CDATA[https://www.goodreads.com/user/show/3461034-trish]]></link>
 
-    <image_url><![CDATA[https://images.gr-assets.com/users/1436099209p3/3461034.jpg]]></image_url>
-    <small_image_url><![CDATA[https://images.gr-assets.com/users/1436099209p2/3461034.jpg]]></small_image_url>
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493966010p3/3461034.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493966010p2/3461034.jpg]]></small_image_url>
     <has_image>true</has_image>
 
   </user>
@@ -1098,8 +1098,8 @@ content-type: application/xml; charset=utf-8
 
     <link><![CDATA[https://www.goodreads.com/user/show/3461034-trish]]></link>
 
-    <image_url><![CDATA[https://images.gr-assets.com/users/1436099209p3/3461034.jpg]]></image_url>
-    <small_image_url><![CDATA[https://images.gr-assets.com/users/1436099209p2/3461034.jpg]]></small_image_url>
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493966010p3/3461034.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493966010p2/3461034.jpg]]></small_image_url>
     <has_image>true</has_image>
 
   </user>

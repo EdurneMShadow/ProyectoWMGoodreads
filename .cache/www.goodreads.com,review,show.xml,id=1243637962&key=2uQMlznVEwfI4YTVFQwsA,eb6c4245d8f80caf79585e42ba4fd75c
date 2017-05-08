@@ -1,20 +1,20 @@
 status: 200
-x-request-id: KNPN74PYXH0N265C70S4
+x-request-id: XZDFNYAAR88KRTH7RFK4
 x-xss-protection: 1; mode=block
 content-location: https://www.goodreads.com/review/show.xml?id=1243637962&key=2uQMlznVEwfI4YTVFQwsA
 x-content-type-options: nosniff, nosniff
-set-cookie: csid=BAhJIhg1ODktMjI5NDY3MS0yMDU3NDQ2BjoGRVQ%3D--510e4c89b9d3e8de5eaff5aa608239d158088f3e;
- path=/; expires=Mon, 27 Apr 2037 10:05:05 -0000, locale=es;
- path=/, _session_id2=d0879813e7fe27027d39c9f52c64fe14; path=/;
- expires=Thu, 27 Apr 2017 16:05:05 -0000; HttpOnly
+set-cookie: csid=BAhJIhgwNDEtMDkzMTA5NC00NjA5NzU5BjoGRVQ%3D--3537968def7229b992237e561f2050a1fbde238c;
+ path=/; expires=Fri, 08 May 2037 10:06:12 -0000, locale=es;
+ path=/, _session_id2=a979226ee149cfb1a0f4ee814af9a662; path=/;
+ expires=Mon, 08 May 2017 16:06:12 -0000; HttpOnly
 vary: User-Agent,Accept-Encoding
 connection: keep-alive
 content-length: 17331
 server: Server
-x-runtime: 0.258288
-etag: W/"f1c02f65feb88a47a36eed4830a242c1"
+x-runtime: 0.224657
+etag: W/"08464ee51a54aa5062bd65c1825862ca"
 cache-control: max-age=0, private, must-revalidate
-date: Thu, 27 Apr 2017 10:05:05 GMT
+date: Mon, 08 May 2017 10:06:12 GMT
 x-frame-options: ALLOWALL
 content-type: application/xml; charset=utf-8
 -content-encoding: gzip
@@ -50,7 +50,7 @@ content-type: application/xml; charset=utf-8
   <id type="integer">72193</id>
   <isbn>0747532745</isbn>
   <isbn13>9780747532743</isbn13>
-  <text_reviews_count type="integer">2266</text_reviews_count>
+  <text_reviews_count type="integer">2276</text_reviews_count>
   <title>Harry Potter and the Philosopher's Stone (Harry Potter, #1)</title>
   <title_without_series>Harry Potter and the Philosopher's Stone</title_without_series>
   <image_url>https://images.gr-assets.com/books/1327190600m/72193.jpg</image_url>
@@ -65,7 +65,7 @@ content-type: application/xml; charset=utf-8
   <publication_year>1997</publication_year>
   <publication_month>6</publication_month>
   <average_rating>4.44</average_rating>
-  <ratings_count>4597026</ratings_count>
+  <ratings_count>4613797</ratings_count>
   <description>Harry Potter thinks he is an ordinary boy - until he is rescued by an owl, taken to Hogwarts School of Witchcraft and Wizardry, learns to play Quidditch and does battle in a deadly duel. The Reason ... HARRY POTTER IS A WIZARD!</description>
 <authors>
 <author>
@@ -80,8 +80,8 @@ content-type: application/xml; charset=utf-8
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
 <average_rating>4.42</average_rating>
-<ratings_count>17633619</ratings_count>
-<text_reviews_count>437221</text_reviews_count>
+<ratings_count>17695233</ratings_count>
+<text_reviews_count>438853</text_reviews_count>
 </author>
 </authors>
   <published>1997</published>
@@ -216,12 +216,12 @@ content-type: application/xml; charset=utf-8
 <shelves>
   <shelf name="read" exclusive="true" />
 
-    <shelf name="pottershelf" exclusive="false" review_shelf_id="1538116750" sortable="false" />
-    <shelf name="finished-series" exclusive="false" review_shelf_id="1088907216" sortable="false" />
-    <shelf name="2015" exclusive="false" review_shelf_id="1103459585" sortable="false" />
     <shelf name="favorites" exclusive="false" review_shelf_id="951479344" sortable="false" />
     <shelf name="owned" exclusive="false" review_shelf_id="1017272160" sortable="false" />
     <shelf name="2016" exclusive="false" review_shelf_id="1347132731" sortable="false" />
+    <shelf name="pottershelf" exclusive="false" review_shelf_id="1538116750" sortable="false" />
+    <shelf name="2015" exclusive="false" review_shelf_id="1103459585" sortable="false" />
+    <shelf name="finished-series" exclusive="false" review_shelf_id="1088907216" sortable="false" />
 </shelves>
   <recommended_for></recommended_for>
   <recommended_by></recommended_by>
