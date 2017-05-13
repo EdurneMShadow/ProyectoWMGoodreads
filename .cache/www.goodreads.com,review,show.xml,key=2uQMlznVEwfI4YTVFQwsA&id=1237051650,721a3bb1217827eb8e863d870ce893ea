@@ -1,0 +1,596 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:55:49 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: HZ4FY9MJVN2DC408ZWWK
+etag: W/"32b121b20c853c5311bb3787705b4d20"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.214062
+set-cookie: csid=BAhJIhg1MTktNzAzODA2NC04MTcwNjA3BjoGRVQ%3D--4e5947306bdee4438c00a8e7c6cf8bbca33e9821; path=/; expires=Tue, 12 May 2037 13:55:49 -0000, locale=es; path=/, _session_id2=8969ea55697493b4eaae46b6ce9cda4b; path=/; expires=Fri, 12 May 2017 19:55:49 -0000; HttpOnly
+content-length: 26408
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=1237051650
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1237051650</id>
+    
+  <user>
+    <id>32779601</id>
+    <name>Araz</name>
+    <display_name>Araz Goran</display_name>
+
+    <location>Iraq, Erbil, Iraq</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32779601-araz-goran]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1437128957p3/32779601.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1437128957p2/32779601.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">18514631</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">29</text_reviews_count>
+  <title>فرانكشتاين</title>
+  <title_without_series>فرانكشتاين</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1379426387m/18514631.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1379426387s/18514631.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18514631</link>
+  <num_pages>78</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>كلمات عربية للترجمة والنشر</publisher>
+  <publication_day/>
+  <publication_year>2012</publication_year>
+  <publication_month/>
+  <average_rating>3.75</average_rating>
+  <ratings_count>861298</ratings_count>
+  <description>عندما ينقلب العلم على العالم ... هي قصة الطالب الذكي فيكتور فرانكشتاين الذي توصل إلى طريقة يستطيع بمقتضاها بعث الحياة في المادة.&lt;br /&gt;يبدأ فرانكنشتاين بخلق مخلوق هائل الحجم بعد أن لملم وجمع أجزاءه من جثث الموتى، ولكنه يرتكب خطأ فيكتشف أن مخلوقه غاية في القبح. وحين دبت الحياة أخيرا في المسخ، ندم فيكتور بشدة لما صنعت يداه،فتركه وحيداً وهجره، ولهذا طغت على نفس ذلك المخلوق المنبوذ مشاعر ملؤها الكراهية والسخط والغضب من فرانكشتاين، ولم تلبث أن تحولت تلك المشاعر إلى انتقام فظيع سيودى في النهاية بحياة الاثنين</description>
+<authors>
+<author>
+<id>11139</id>
+<name>Mary Wollstonecraft Shelley</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p5/11139.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p2/11139.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/11139.Mary_Wollstonecraft_Shelley]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>884152</ratings_count>
+<text_reviews_count>20971</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">62699255</id>
+          <page type="integer">27</page>
+          <chapter type="integer"></chapter>
+          <comments_count>4</comments_count>
+          <created_at type="datetime">Wed Mar 25 14:14:31 -0700 2015</created_at>
+          <updated_at type="datetime">Wed Mar 25 14:14:31 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">5</ratings_count>
+          <percent type="integer">34</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">807398373</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sat Mar 28 14:06:27 -0700 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">804135220</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Wed Mar 25 14:13:13 -0700 2015</updated_at>
+          <ratings_count>4</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>71</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="أدب-الرعب" exclusive="false" review_shelf_id="945281615" sortable="false" />
+    <shelf name="أدب-كلاسيكي" exclusive="false" review_shelf_id="1067156863" sortable="false" />
+    <shelf name="روايات" exclusive="false" review_shelf_id="945281555" sortable="false" />
+    <shelf name="أدب" exclusive="false" review_shelf_id="1064031538" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Mar 25 00:00:00 -0700 2015</started_at>
+  <read_at>Sat Mar 28 00:00:00 -0700 2015</read_at>
+  <date_added>Wed Mar 25 14:13:11 -0700 2015</date_added>
+  <date_updated>Thu Sep 03 14:22:08 -0700 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA['' إن حياة أولئك الرجال أهم بكثير من أهدافنا الأنانية ''<br /><br />قالها أخيراً فرانكنشتاين حين أدرك خطأه وأنانيته وسعيه في الحصول على المجد على حساب من يحبهم.. أدرك فرانكنشتاين أن الحياة لم تخلق له وحده..<br /><br />ثقيل كان الثمن الذي دفعه فرانكنشتاين في سبيل تهوره وأتخاذه القرار الخاطئ في حق الذين يحبهم..<br /><br />تكمن حكمة ه...]]>
+  </body>
+
+  
+
+  <comments_count>19</comments_count>
+    <comments start="1" end="19" total="19">
+        <comment>
+  <id>116841892</id>
+  <body><![CDATA[مراجعتك مميزة يا اراز ...احسنت كعهدنا بك :)]]></body>
+  
+  <user>
+    <id>23145329</id>
+    <name>Heba</name>
+    <display_name>Heba</display_name>
+
+    <location>Alexandria, 06, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23145329-heba]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1489410212p3/23145329.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1489410212p2/23145329.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Mar 28 14:11:55 -0700 2015</created_at>
+  <updated_at>Sat Mar 28 14:11:55 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>116842045</id>
+  <body><![CDATA[شكراً يا هبة ^_^<br />الرواية رائعة ومميزة حقاً تستحق كل هذه الشهرة..]]></body>
+  
+  <user>
+    <id>32779601</id>
+    <name>Araz</name>
+    <display_name>Araz Goran</display_name>
+
+    <location>Iraq, Erbil, Iraq</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32779601-araz-goran]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1437128957p3/32779601.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1437128957p2/32779601.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Mar 28 14:14:57 -0700 2015</created_at>
+  <updated_at>Sat Mar 28 14:14:57 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>116842213</id>
+  <body><![CDATA[قرات فرانكشتاين في بغداد <br />الفائزه بجائزة البوكر <br />وعجبتني \ النسخه الاجنبيه او الحكايه الاصليه ما قراتها]]></body>
+  
+  <user>
+    <id>16244060</id>
+    <name>Maryam Same Same</name>
+    <display_name>Maryam Same Same</display_name>
+
+    <location>Saudi Arabia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16244060-maryam-same-same]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1357689912p3/16244060.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1357689912p2/16244060.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Mar 28 14:18:26 -0700 2015</created_at>
+  <updated_at>Sat Mar 28 14:18:26 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>116842389</id>
+  <body><![CDATA[تلك الرواية التي ذكرتيها لم أقرئها بعد يا مريم..<br />أحببت أن أطلع على القصة الاصلية وهي لم تخيب ظني..<br />سأفكر بقراءة رواية (فرانكنشتاين في بغداد) لعلها تكون جميلة كالقصة الاصلية]]></body>
+  
+  <user>
+    <id>32779601</id>
+    <name>Araz</name>
+    <display_name>Araz Goran</display_name>
+
+    <location>Iraq, Erbil, Iraq</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32779601-araz-goran]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1437128957p3/32779601.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1437128957p2/32779601.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Mar 28 14:22:55 -0700 2015</created_at>
+  <updated_at>Sat Mar 28 14:22:55 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>116892646</id>
+  <body><![CDATA[ريفيو جميل يا صديقي. هناك رواية أخرى تتحدث عن فرانكشتاين. أسطورة وحش فرانكشتاين للدكتور أحمد خالد توفيق.. أنصح بقراءتها إن أمكن :)]]></body>
+  
+  <user>
+    <id>14807383</id>
+    <name>عارف</name>
+    <display_name>عارف فكرى</display_name>
+
+    <location>Cairo, 11, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14807383]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1476658918p3/14807383.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1476658918p2/14807383.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Mar 29 15:14:31 -0700 2015</created_at>
+  <updated_at>Sun Mar 29 15:14:31 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>116892853</id>
+  <body><![CDATA[أجل يا صديقي فهذه أسطورة شهيرة وأقتبسوا منها روايات وأفلام عديدة،، ولا تنسى الرواية الشهيرة لأحمد سعداوي (فرانكشتاين في بغداد) الحاصلة على البوكر..]]></body>
+  
+  <user>
+    <id>32779601</id>
+    <name>Araz</name>
+    <display_name>Araz Goran</display_name>
+
+    <location>Iraq, Erbil, Iraq</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32779601-araz-goran]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1437128957p3/32779601.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1437128957p2/32779601.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Mar 29 15:18:36 -0700 2015</created_at>
+  <updated_at>Sun Mar 29 15:18:36 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>116893886</id>
+  <body><![CDATA[<i>Araz wrote: "أجل يا صديقي فهذه أسطورة شهيرة وأقتبسوا منها روايات وأفلام عديدة،، ولا تنسى الرواية الشهيرة لأحمد سعداوي (فرانكشتاين في بغداد) الحاصلة على البوكر.."</i><br />سمعت عنها الكثير. الحقيقة أن أسطورة وحش فرانكشتاين هي الوحيدة التى قرأتها بخصوص رواية ماري شيلي الشهيرة، والتى تعدّ مزيجًا من الرعب والخيال العلمي، وإن كان البعض يعتبرها رواية خيال علمي بالفعل.]]></body>
+  
+  <user>
+    <id>14807383</id>
+    <name>عارف</name>
+    <display_name>عارف فكرى</display_name>
+
+    <location>Cairo, 11, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14807383]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1476658918p3/14807383.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1476658918p2/14807383.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Mar 29 15:41:21 -0700 2015</created_at>
+  <updated_at>Sun Mar 29 15:41:21 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>117081562</id>
+  <body><![CDATA[رواية عميقة اظهرتها السينما بشكل تافه وتجاري واغفلت الكثير من رمزياتها]]></body>
+  
+  <user>
+    <id>17698097</id>
+    <name>نرمين</name>
+    <display_name>نرمين الشامي</display_name>
+
+    <location>elsharqia, 11, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17698097]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1429337876p3/17698097.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1429337876p2/17698097.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Apr 02 05:44:42 -0700 2015</created_at>
+  <updated_at>Thu Apr 02 05:44:42 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>117082406</id>
+  <body><![CDATA[بالفعل يا نرمين.. تصورت أن أجدها تافهة بفعل ما سمعته وشاهدته عن هذه الاسطورة.. لكن القصة بعيدة كل البعد عن ما صور في الاعلام والقصص المقتبسة منها،، حتى أن بعض الناس يظن أن فرانكنشتاين هو المسخ نفسه!!]]></body>
+  
+  <user>
+    <id>32779601</id>
+    <name>Araz</name>
+    <display_name>Araz Goran</display_name>
+
+    <location>Iraq, Erbil, Iraq</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32779601-araz-goran]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1437128957p3/32779601.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1437128957p2/32779601.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Apr 02 06:06:08 -0700 2015</created_at>
+  <updated_at>Thu Apr 02 06:06:08 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>117083053</id>
+  <body><![CDATA[<i>Araz wrote: "بالفعل يا نرمين.. تصورت أن أجدها تافهة بفعل ما سمعته وشاهدته عن هذه الاسطورة.. لكن القصة بعيدة كل البعد عن ما صور في الاعلام والقصص المقتبسة منها،، حتى أن بعض الناس يظن أن فرانكنشتاين هو المسخ نفسه!!"</i><br /><br />صحيح.. هذا الخلط نوّه عنه الدكتور أحمد خالد توفيق في أسطورة وحش فرانكشتين.. سأبحث عن النسخة الأصلية واقرأها إن شاء الله]]></body>
+  
+  <user>
+    <id>14807383</id>
+    <name>عارف</name>
+    <display_name>عارف فكرى</display_name>
+
+    <location>Cairo, 11, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14807383]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1476658918p3/14807383.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1476658918p2/14807383.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Apr 02 06:23:40 -0700 2015</created_at>
+  <updated_at>Thu Apr 02 06:23:40 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>117138597</id>
+  <body><![CDATA[من الروايات التي ارهقتني وأجلتها لما بعد التخرج ، مراجعة جميلة]]></body>
+  
+  <user>
+    <id>28139721</id>
+    <name>Manar</name>
+    <display_name>Manar AlHammadi</display_name>
+
+    <location><![CDATA[Abu Dhabi, 01, The United Arab Emirates]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/28139721-manar-alhammadi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1427994102p3/28139721.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1427994102p2/28139721.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Apr 03 08:09:24 -0700 2015</created_at>
+  <updated_at>Fri Apr 03 08:09:24 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>117138976</id>
+  <body><![CDATA[رواية عميقة وصعبة يا منار.. بعد التخرج يكون الذهن صافياً لمثل هذه الروايات.. شكراً لكِ]]></body>
+  
+  <user>
+    <id>32779601</id>
+    <name>Araz</name>
+    <display_name>Araz Goran</display_name>
+
+    <location>Iraq, Erbil, Iraq</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32779601-araz-goran]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1437128957p3/32779601.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1437128957p2/32779601.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Apr 03 08:17:14 -0700 2015</created_at>
+  <updated_at>Fri Apr 03 08:17:14 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>117139144</id>
+  <body><![CDATA[وصلت لما بعد المئة ولم أكملها ، سأظلمها إن فعلت ، عموما يجذبني كل مايخص العراق لذلك أخصص وقت له]]></body>
+  
+  <user>
+    <id>28139721</id>
+    <name>Manar</name>
+    <display_name>Manar AlHammadi</display_name>
+
+    <location><![CDATA[Abu Dhabi, 01, The United Arab Emirates]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/28139721-manar-alhammadi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1427994102p3/28139721.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1427994102p2/28139721.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Apr 03 08:20:40 -0700 2015</created_at>
+  <updated_at>Fri Apr 03 08:20:40 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>117139477</id>
+  <body><![CDATA[ربما تقصدين رواية (فرانكشتاين في بغداد)!! لم أقرء تلك الرواية ولكنها في الخطة قريباً.. العراق بلد المصائب]]></body>
+  
+  <user>
+    <id>32779601</id>
+    <name>Araz</name>
+    <display_name>Araz Goran</display_name>
+
+    <location>Iraq, Erbil, Iraq</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32779601-araz-goran]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1437128957p3/32779601.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1437128957p2/32779601.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Apr 03 08:27:00 -0700 2015</created_at>
+  <updated_at>Fri Apr 03 08:27:00 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>117140117</id>
+  <body><![CDATA[اووووووه برمجت مخي لا اراديا على فرانكشتاين ، آسفة ربما لأنني انتظر مراجعة تحمسني للعودة لها ، العراق بلد عريييق]]></body>
+  
+  <user>
+    <id>28139721</id>
+    <name>Manar</name>
+    <display_name>Manar AlHammadi</display_name>
+
+    <location><![CDATA[Abu Dhabi, 01, The United Arab Emirates]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/28139721-manar-alhammadi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1427994102p3/28139721.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1427994102p2/28139721.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Apr 03 08:39:41 -0700 2015</created_at>
+  <updated_at>Fri Apr 03 08:39:41 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>117142225</id>
+  <body><![CDATA[لا عليكي منار فتلك الرواية التي تتحدثين عنها مقتبسة من هذه الرواية.. أقرأي الرواية الاصلية لتكون الصورة واضحة أمامك وربما تسهل عليكِ قراءة (فرانكشتاين في بغداد)]]></body>
+  
+  <user>
+    <id>32779601</id>
+    <name>Araz</name>
+    <display_name>Araz Goran</display_name>
+
+    <location>Iraq, Erbil, Iraq</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32779601-araz-goran]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1437128957p3/32779601.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1437128957p2/32779601.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Apr 03 09:22:25 -0700 2015</created_at>
+  <updated_at>Fri Apr 03 09:22:25 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>117143089</id>
+  <body><![CDATA[شكرا لم ، سأخذ بنصيحتك بعد التخرج ان شاءالله ]]></body>
+  
+  <user>
+    <id>28139721</id>
+    <name>Manar</name>
+    <display_name>Manar AlHammadi</display_name>
+
+    <location><![CDATA[Abu Dhabi, 01, The United Arab Emirates]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/28139721-manar-alhammadi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1427994102p3/28139721.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1427994102p2/28139721.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Apr 03 09:41:22 -0700 2015</created_at>
+  <updated_at>Fri Apr 03 09:41:22 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>138883923</id>
+  <body><![CDATA[الأفلام السينمائية فعلاً قامت بتسطيح أهم أفكار الرواية بشكل أدى إلى تشويهها، وهذا ما زاد قناعتي بأن بعض صناع السينما يبحثون فقط عن الجوانب التي تزيد من دخلهم في شباك التذاكر ولو على حساب القيمة الأدبية والفكرية. في الرواية الأصلية لم تكن تصرفات الوحش ناتجة عن خطأ في اختيار الدماغ وأنه يعود أساساً لرجل مجرم ومجنون وكأن فرانكنشتاين لو اختار دماغاً لرجل صالح لسارت الأمور على خير ما يرام!! الفكرة في الراوية الأصلية مؤثرة جداً فالوحش لم يكن شريراً بفطرته وطبيعته وفي الفصل الذي يروي فيه قصته لفرانكنشتاين نتأثر كثيراً بالألم والمعاناة التي تعرض لها حين وجد نفسه وحيداً بائساً في هذا العالم ولا أحد يحبه وتلك العائلة التي أحبها وتعلم منها الكلام وسبل الحياة رفضته وهربت منه ذعراً وخوفاً من مظهره، لم يستطع أحد من الناس أن يتجاهل مظهره الشنيع ويكتشف الطيبة الكامنة في أعماق قلبه وحاجته الشديدة للحب والحنان، وما زاد في ألمه ومعاناته أن صانعه الذي بعث به إلى هذه الحياة البائسة كان أول من تخلى عنه وهرب منه وتركه لهذا المصير، كل ذلك ولد في نفسه رغبة هائلة للانتقام لم تكن موجودة لديه أساساً، يا ترى لو كان فرانكنشتاين لم يتخل عن هذا الوحش الذي سعى طويلاً لصناعته بنجاح ولو كان اهتم به كأب حقيقي وعطف عليه كيف كان مسار أحداث الرواية؟؟ الرواية تتقاطع كثيراً مع السيرة الذاتية للكاتبة التي ماتت أمها عند ولادتها وحملها أبوها ظلماً مسؤولية ما حدث وكرهها، والوحش في الرواية وجد نفسه في هذه الحياة بدون أم وأبوه وصانعه فراكنشتاين تخلى عنه فوراً ونبذه إلى حياة البؤس والشقاء.]]></body>
+  
+  <user>
+    <id>14476216</id>
+    <name>Fyodor</name>
+    <display_name>Fyodor Kafka</display_name>
+
+    <location>Syrian Arab Republic</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14476216-fyodor-kafka]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1431521644p3/14476216.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1431521644p2/14476216.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 19 02:55:20 -0700 2015</created_at>
+  <updated_at>Wed Aug 19 02:55:20 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>138907826</id>
+  <body><![CDATA[سلمت يداك على هذا التحليل للرواية وهذه الإضافات الجميلة.. حقاً أسعدني تعليقك]]></body>
+  
+  <user>
+    <id>32779601</id>
+    <name>Araz</name>
+    <display_name>Araz Goran</display_name>
+
+    <location>Iraq, Erbil, Iraq</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32779601-araz-goran]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1437128957p3/32779601.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1437128957p2/32779601.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 19 13:36:10 -0700 2015</created_at>
+  <updated_at>Wed Aug 19 13:36:10 -0700 2015</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1237051650]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1237051650]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

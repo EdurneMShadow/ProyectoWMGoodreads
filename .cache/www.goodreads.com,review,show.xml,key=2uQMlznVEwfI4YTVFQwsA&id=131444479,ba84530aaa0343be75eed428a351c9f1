@@ -1,0 +1,202 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:37:06 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: PP3SSQC9GWZ5RTC4JA4X
+etag: W/"a860a7d10198f7f860ab3f96e0df56b3"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.246005
+set-cookie: csid=BAhJIhgwMDEtOTUwOTgwMC05NTM0NzA4BjoGRVQ%3D--3e2ece3d082640e888628098f05eb8ad920cb65c; path=/; expires=Tue, 12 May 2037 13:37:06 -0000, locale=es; path=/, _session_id2=0c1889d432a85d42f08af27c4d385b7d; path=/; expires=Fri, 12 May 2017 19:37:06 -0000; HttpOnly
+content-length: 7224
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=131444479
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>131444479</id>
+    
+  <user>
+    <id>1379514</id>
+    <name><![CDATA[Magdalena aka A Bookaholic Swede]]></name>
+    <display_name><![CDATA[Magdalena aka A Bookaholic Swede]]></display_name>
+
+    <location>Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1379514-magdalena-aka-a-bookaholic-swede]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487436758p3/1379514.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487436758p2/1379514.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">2865</id>
+  <isbn>0452287022</isbn>
+  <isbn13>9780452287020</isbn13>
+  <text_reviews_count type="integer">5908</text_reviews_count>
+  <title>Girl with a Pearl Earring</title>
+  <title_without_series>Girl with a Pearl Earring</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1327197580m/2865.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1327197580s/2865.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2865.Girl_with_a_Pearl_Earring</link>
+  <num_pages>233</num_pages>
+  <format>Paperback</format>
+  <edition_information> Deluxe Edition</edition_information>
+  <publisher>Plume/Penguin</publisher>
+  <publication_day/>
+  <publication_year>2005</publication_year>
+  <publication_month/>
+  <average_rating>3.84</average_rating>
+  <ratings_count>479287</ratings_count>
+  <description>With precisely 35 canvases to his credit, the Dutch painter Johannes Vermeer represents one of the great enigmas of 17th-century art. The meager facts of his biography have been gleaned from a handful of legal documents. Yet Vermeer's extraordinary paintings of domestic life, with their subtle play of light and texture, have come to define the Dutch golden age. His portrait of the anonymous Girl with a Pearl Earring has exerted a particular fascination for centuries - and it is this magnetic painting that lies at the heart of Tracy Chevalier's second novel of the same title.&lt;br /&gt;&lt;i&gt;Girl with a Pearl Earring&lt;/i&gt; centers on Vermeer's prosperous Delft household during the 1660s. When Griet, the novel's quietly perceptive heroine, is hired as a servant, turmoil follows. First, the 16-year-old narrator becomes increasingly intimate with her master. Then Vermeer employs her as his assistant--and ultimately has Griet sit for him as a model.</description>
+<authors>
+<author>
+<id>1973</id>
+<name>Tracy Chevalier</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1439297099p5/1973.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1439297099p2/1973.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1973.Tracy_Chevalier]]></link>
+<average_rating>3.80</average_rating>
+<ratings_count>635156</ratings_count>
+<text_reviews_count>22574</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1301157593</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Fri Apr 01 23:45:48 -0700 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>16</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="classics" exclusive="false" review_shelf_id="302328122" sortable="false" />
+    <shelf name="historical-fiction" exclusive="false" review_shelf_id="302328052" sortable="false" />
+    <shelf name="romance" exclusive="false" review_shelf_id="302328149" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Nov 18 20:21:39 -0800 2010</date_added>
+  <date_updated>Sat Oct 29 12:05:56 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Girl With a Pearl Earring is such a beautifully written book with a compelling story. I find the story about young Griet working for Johannes Vermeer fascinating. How Tracy Chevalier used the painting of Girl with a Pearl Earring to weave such a fantastic story. Griet is just an ordinary girl, ne...]]>
+  </body>
+
+  
+
+  <comments_count>3</comments_count>
+    <comments start="1" end="3" total="3">
+        <comment>
+  <id>158537301</id>
+  <body><![CDATA[One of my favourite books. Great review &lt;3]]></body>
+  
+  <user>
+    <id>15939692</id>
+    <name>Trish at Between My Lines</name>
+    <display_name>Trish at Between My Lines</display_name>
+
+    <location>Ireland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15939692-trish-at-between-my-lines]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1465973934p3/15939692.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1465973934p2/15939692.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Oct 29 13:46:10 -0700 2016</created_at>
+  <updated_at>Sat Oct 29 13:46:10 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158545033</id>
+  <body><![CDATA[One of my all time favorites!]]></body>
+  
+  <user>
+    <id>16912659</id>
+    <name>Dorie</name>
+    <display_name>Dorie</display_name>
+
+    <location>Thiensville, WI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16912659-dorie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1473714011p3/16912659.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1473714011p2/16912659.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Oct 29 18:19:15 -0700 2016</created_at>
+  <updated_at>Sat Oct 29 18:19:15 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158555875</id>
+  <body><![CDATA[enjoyed it as well]]></body>
+  
+  <user>
+    <id>22954475</id>
+    <name>Gary</name>
+    <display_name>Gary Brooks</display_name>
+
+    <location>Hillcrest , 02, South Africa</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22954475-gary-brooks]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492415303p3/22954475.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492415303p2/22954475.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Oct 30 04:23:36 -0700 2016</created_at>
+  <updated_at>Sun Oct 30 04:23:36 -0700 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/131444479]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/131444479]]></link>
+    <owned>1</owned>
+</review>
+
+
+</GoodreadsResponse>

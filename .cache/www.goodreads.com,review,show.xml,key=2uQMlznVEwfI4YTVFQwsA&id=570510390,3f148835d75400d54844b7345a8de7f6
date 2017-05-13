@@ -1,0 +1,933 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:56:03 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: 60VMME2D3ZVDA5YW6TG7
+etag: W/"7f21af9ca50057d3ff726019f7e56e4f"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.387073
+set-cookie: csid=BAhJIhg0MjUtNTk5MjY1NS0wMzkzMTU2BjoGRVQ%3D--e44515f36ce3a3273bad7854331f9bf5fad6cfa8; path=/; expires=Tue, 12 May 2037 13:56:03 -0000, locale=es; path=/, _session_id2=f7af09aa9d4aba67cb7fc453e5e08acc; path=/; expires=Fri, 12 May 2017 19:56:03 -0000; HttpOnly
+content-length: 39213
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=570510390
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>570510390</id>
+    
+  <user>
+    <id>4213258</id>
+    <name>Brad</name>
+    <display_name>Brad</display_name>
+
+    <location>montreal, qc, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4213258-brad]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1445016710p3/4213258.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1445016710p2/4213258.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">18490</id>
+  <isbn>0141439475</isbn>
+  <isbn13>9780141439471</isbn13>
+  <text_reviews_count type="integer">13074</text_reviews_count>
+  <title>Frankenstein</title>
+  <title_without_series>Frankenstein</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1381512375m/18490.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1381512375s/18490.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18490.Frankenstein</link>
+  <num_pages>273</num_pages>
+  <format>Paperback</format>
+  <edition_information>Penguin Classics</edition_information>
+  <publisher>Penguin Books</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.75</average_rating>
+  <ratings_count>861298</ratings_count>
+  <description>&lt;b&gt;Mary Shelley&lt;/b&gt; began writing &lt;i&gt;Frankenstein&lt;/i&gt; when she was only eighteen. At once a Gothic thriller, a passionate romance, and a cautionary tale about the dangers of science, &lt;i&gt;Frankenstein&lt;/i&gt; tells the story of committed science student Victor Frankenstein. Obsessed with discovering the cause of generation and life and bestowing animation upon lifeless matter, Frankenstein assembles a human being from stolen body parts but; upon bringing it to life, he recoils in horror at the creature's hideousness. Tormented by isolation and loneliness, the once-innocent creature turns to evil and unleashes a campaign of murderous revenge against his creator, Frankenstein.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Frankenstein&lt;/i&gt;, an instant bestseller and an important ancestor of both the horror and science fiction genres, not only tells a terrifying story, but also raises profound, disturbing questions about the very nature of life and the place of humankind within the cosmos: What does it mean to be human? What responsibilities do we have to each other? How far can we go in tampering with Nature? In our age, filled with news of organ donation genetic engineering, and bio-terrorism, these questions are more relevant than ever.</description>
+<authors>
+<author>
+<id>11139</id>
+<name>Mary Wollstonecraft Shelley</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p5/11139.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p2/11139.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/11139.Mary_Wollstonecraft_Shelley]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>884152</ratings_count>
+<text_reviews_count>20971</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1552362368</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Fri Oct 21 11:03:08 -0700 2016</updated_at>
+          <ratings_count>5</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1551950495</id>
+          <old_status>read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Fri Oct 21 02:31:57 -0700 2016</updated_at>
+          <ratings_count>9</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1551950491</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Fri Oct 21 02:31:56 -0700 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>60</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="fantasy" exclusive="false" review_shelf_id="392658439" sortable="true" />
+    <shelf name="2016-shelf" exclusive="false" review_shelf_id="1518738442" sortable="false" />
+    <shelf name="horror" exclusive="false" review_shelf_id="392658443" sortable="false" />
+    <shelf name="sci-fi" exclusive="false" review_shelf_id="392658454" sortable="false" />
+    <shelf name="top-one-hundred" exclusive="false" review_shelf_id="1088247182" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Oct 21 00:00:00 -0700 2016</started_at>
+  <read_at>Fri Oct 21 00:00:00 -0700 2016</read_at>
+  <date_added>Mon Mar 25 08:16:55 -0700 2013</date_added>
+  <date_updated>Sat Dec 31 20:16:38 -0800 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This is my third read of this classic. :) I've been through all the surprises before, like the fundamental differences between hollywood and literature, and I'm sure by now most people know that the creation is a rather smart and passionate cookie.<br /><br />My deeper ah-ha moment was the revelation that th...]]>
+  </body>
+
+  
+
+  <comments_count>34</comments_count>
+    <comments start="1" end="34" total="34">
+        <comment>
+  <id>158227460</id>
+  <body><![CDATA[a great book, vastly underrated..]]></body>
+  
+  <user>
+    <id>36890366</id>
+    <name>Sud666</name>
+    <display_name>Sud666</display_name>
+
+    <location>Chicago, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/36890366-sud666]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1418437112p3/36890366.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1418437112p2/36890366.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 21 11:51:12 -0700 2016</created_at>
+  <updated_at>Fri Oct 21 11:51:12 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158227735</id>
+  <body><![CDATA[I wasn't in love with the book so much. I liked the story and plot and characterization, but it was the prose that made me groan from the first page.<br /><br />I agree with the notion that Victor becomes the monster; however, it is a huge key fact to note that from Mary Shelley's perspective, Victor was deserving and sympathy. Although people usually feel the same way as you as Brad, that's not Shelley's perspective. 1) Victor means Winner, 2) Victor was the pen name for Percy Shelley, her husband, so you would think that'd she be rooting for him, 3) She intended the book to be horror, or scary, so Frankenstein's monster was not meant to be the sympathetic one.<br /><br />I just wrapped up a unit in my literature class about Frankenstein so I remember those coming up during discussion.]]></body>
+  
+  <user>
+    <id>24299015</id>
+    <name>Dux</name>
+    <display_name>Dux</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24299015-dux]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1428880077p3/24299015.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1428880077p2/24299015.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 21 11:57:58 -0700 2016</created_at>
+  <updated_at>Fri Oct 21 11:57:58 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158227767</id>
+  <body><![CDATA[Can't wait to finish this but want to stay in the moment a bit longer ... my first read, needless to say. I always hated what Hollywood had supposedly done to Frankstein's "monster" which is why I liked him in Penny Dreadful.]]></body>
+  
+  <user>
+    <id>3461034</id>
+    <name>Trish</name>
+    <display_name>Trish</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3461034-trish]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493966010p3/3461034.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493966010p2/3461034.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 21 11:58:46 -0700 2016</created_at>
+  <updated_at>Fri Oct 21 11:58:46 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158228050</id>
+  <body><![CDATA[I remember some of that, too, Dux, but that's kinda the joy of a work like this. It changes for the cultures who read it. Just look at the bible. :) I was just worshiping a golden calf the other day, but it was called McDonalds. Do you think I'm in trouble?]]></body>
+  
+  <user>
+    <id>4213258</id>
+    <name>Brad</name>
+    <display_name>Brad</display_name>
+
+    <location>montreal, qc, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4213258-brad]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1445016710p3/4213258.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1445016710p2/4213258.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 21 12:06:02 -0700 2016</created_at>
+  <updated_at>Fri Oct 21 12:06:02 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158228809</id>
+  <body><![CDATA[<i>Trish wrote: "Can't wait to finish this but want to stay in the moment a bit longer ... my first read, needless to say. I always hated what Hollywood had supposedly done to Frankstein's "monster" which is why I ..."</i><br /><br />Caliban from PD was the closest to Mary Shelly's vision of what Frakenstein was supposed to be versus the lumbering hulk we see]]></body>
+  
+  <user>
+    <id>36890366</id>
+    <name>Sud666</name>
+    <display_name>Sud666</display_name>
+
+    <location>Chicago, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/36890366-sud666]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1418437112p3/36890366.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1418437112p2/36890366.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 21 12:28:31 -0700 2016</created_at>
+  <updated_at>Fri Oct 21 12:28:31 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158228952</id>
+  <body><![CDATA[It's interesting to see how many classic characters have been plucked from literature and used in comics, movies, TV shows, musicals even ... but have been profoundly altered. I mean, how many people claim to know Frankenstein yet have never read the book???]]></body>
+  
+  <user>
+    <id>3461034</id>
+    <name>Trish</name>
+    <display_name>Trish</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3461034-trish]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493966010p3/3461034.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493966010p2/3461034.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 21 12:32:26 -0700 2016</created_at>
+  <updated_at>Fri Oct 21 12:32:26 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158229564</id>
+  <body><![CDATA[I love it too, especially the 1818 version, not the 1831 one where Shelley toned down quite a lot. Victor is the true egotistical monster, and what a horrible person he is! My heart and mind was with the creature. The nested structure works very well too.<br /><br />It is amazing how Frankenstein and indeed Dracula at the other side of the 19th century became such huge figures/symbols]]></body>
+  
+  <user>
+    <id>12371602</id>
+    <name>Veronique</name>
+    <display_name>Veronique</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12371602-veronique]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493937248p3/12371602.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493937248p2/12371602.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 21 12:45:40 -0700 2016</created_at>
+  <updated_at>Fri Oct 21 12:45:40 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158229726</id>
+  <body><![CDATA[Now I'm curious which of those two versions I have!]]></body>
+  
+  <user>
+    <id>3461034</id>
+    <name>Trish</name>
+    <display_name>Trish</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3461034-trish]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493966010p3/3461034.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493966010p2/3461034.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 21 12:49:11 -0700 2016</created_at>
+  <updated_at>Fri Oct 21 12:49:11 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158229766</id>
+  <body><![CDATA[<i>Trish wrote: "It's interesting to see how many classic characters have been plucked from literature and used in comics, movies, TV shows, musicals even ... but have been profoundly altered. I mean, how many peop..."</i><br /><br />for example..did you know that in the book Dracula can be out in the sun? He is just less powerful....the movies changed it to Vampires not being able to withstand the daylight]]></body>
+  
+  <user>
+    <id>36890366</id>
+    <name>Sud666</name>
+    <display_name>Sud666</display_name>
+
+    <location>Chicago, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/36890366-sud666]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1418437112p3/36890366.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1418437112p2/36890366.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 21 12:50:09 -0700 2016</created_at>
+  <updated_at>Fri Oct 21 12:50:09 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158229778</id>
+  <body><![CDATA[In scool we had to act out a certain person in the play. Everyone dies!]]></body>
+  
+  <user>
+    <id>52028217</id>
+    <name>Kian.R *Emeraldstripe* ;)</name>
+    <display_name>Kian.R *Emeraldstripe* ;)</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52028217-kian-r-emeraldstripe]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1491225336p3/52028217.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1491225336p2/52028217.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 21 12:50:31 -0700 2016</created_at>
+  <updated_at>Fri Oct 21 12:50:31 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158230003</id>
+  <body><![CDATA[<i>Sud666 wrote: "for example..did you know that in the book Dracula can be out in the sun? He is just less powerful....the movies changed it to Vampires not being able to withstand the daylight"</i><br /><br />Yup, knew that since I've read Dracula.]]></body>
+  
+  <user>
+    <id>3461034</id>
+    <name>Trish</name>
+    <display_name>Trish</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3461034-trish]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493966010p3/3461034.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493966010p2/3461034.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 21 12:55:08 -0700 2016</created_at>
+  <updated_at>Fri Oct 21 12:55:08 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158230160</id>
+  <body><![CDATA[<i>Trish wrote: "Now I'm curious which of those two versions I have!"</i><br /><br />Definitely go for the original 1818<br /><a target="_blank" href="http://crossref-it.info/textguide/frankenstein/7/984" rel="nofollow">http://crossref-it.info/textguide/fra...</a> gives you some pointers.]]></body>
+  
+  <user>
+    <id>12371602</id>
+    <name>Veronique</name>
+    <display_name>Veronique</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12371602-veronique]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493937248p3/12371602.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493937248p2/12371602.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 21 12:58:42 -0700 2016</created_at>
+  <updated_at>Fri Oct 21 12:58:42 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158230184</id>
+  <body><![CDATA[<i>Trish wrote: "Sud666 wrote: "for example..did you know that in the book Dracula can be out in the sun? He is just less powerful....the movies changed it to Vampires not being able to withstand the daylight"<br /><br />Yup..."</i><br />*mumbles* I'm living proof sunlight doesn't do anything :)]]></body>
+  
+  <user>
+    <id>36890366</id>
+    <name>Sud666</name>
+    <display_name>Sud666</display_name>
+
+    <location>Chicago, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/36890366-sud666]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1418437112p3/36890366.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1418437112p2/36890366.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 21 12:59:22 -0700 2016</created_at>
+  <updated_at>Fri Oct 21 12:59:22 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158230326</id>
+  <body><![CDATA[<i>Veronique wrote: "Trish wrote: "Now I'm curious which of those two versions I have!"<br /><br />Definitely go for the original 1818<br /><a target="_blank" href="http://crossref-it.info/textguide/frankenstein/7/984" rel="nofollow">http://crossref-it.info/textguide/fra...</a> gives you some pointers."</i><br /><br />I'm already in the middle of it. Only thing now is to find out which one is mine.]]></body>
+  
+  <user>
+    <id>3461034</id>
+    <name>Trish</name>
+    <display_name>Trish</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3461034-trish]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493966010p3/3461034.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493966010p2/3461034.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 21 13:02:38 -0700 2016</created_at>
+  <updated_at>Fri Oct 21 13:02:38 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158230335</id>
+  <body><![CDATA[<i>Sud666 wrote: "*mumbles* I'm living proof sunlight doesn't do anything :)"</i><br /><br />:D]]></body>
+  
+  <user>
+    <id>3461034</id>
+    <name>Trish</name>
+    <display_name>Trish</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3461034-trish]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493966010p3/3461034.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493966010p2/3461034.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 21 13:02:53 -0700 2016</created_at>
+  <updated_at>Fri Oct 21 13:02:53 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158230418</id>
+  <body><![CDATA[<i>Veronique wrote: "Trish wrote: "Now I'm curious which of those two versions I have!"<br /><br />Definitely go for the original 1818<br /><a target="_blank" href="http://crossref-it.info/textguide/frankenstein/7/984" rel="nofollow">http://crossref-it.info/textguide/fra...</a> gives you some pointers."</i><br /><br />Just read what it says and am pleased to report that my edition (both audio and print) are the original from 1818. :D]]></body>
+  
+  <user>
+    <id>3461034</id>
+    <name>Trish</name>
+    <display_name>Trish</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3461034-trish]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493966010p3/3461034.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493966010p2/3461034.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 21 13:04:58 -0700 2016</created_at>
+  <updated_at>Fri Oct 21 13:04:58 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158230601</id>
+  <body><![CDATA[More so, the 4th point is very important and might be the reason for some analysis in school or university that Victor was the good guy and innocent (which I do not agree with):<br /><br />1) the 1831 text is differently structured: after Letters 1-4, the chapters are through-numbered, from 1 to 24; this to a large extent obscures the original division into three volumes and also affects the reader's awareness of how Walton, Frankenstein and the monster's narratives are bracketed one within another;<br /><br />2) the epigraph from Milton's Paradise Lost that appeared on the title page of the first edition has been removed:<br /> Did I request thee, Maker, from my clay<br /> To mould me man? Did I solicit thee<br /> From darkness to promote me?—<br /> the absence of these lines (which some modern editors of the 1831 edition restore) removes the announcement of a key theme of the novel, as seen from the point of view of Frankenstein's creation;<br /><br />3) Mary Shelley removed many of the references to new scientific ideas, thus detaching the novel from its original intellectual context and the issues that were being debated both publicly and in the Byron-Shelley circle;<br /><br />4) Frankenstein's character is very differently conceived: whereas in the 1818 version there are many points at which he could exercise free will and choose not to carry on with his experiments, in the 1831 text he is seen as being, like all human beings, entirely at the mercy of fate, helpless to counteract the forces of chance that appear to control the universe.]]></body>
+  
+  <user>
+    <id>3461034</id>
+    <name>Trish</name>
+    <display_name>Trish</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3461034-trish]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493966010p3/3461034.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493966010p2/3461034.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 21 13:09:40 -0700 2016</created_at>
+  <updated_at>Fri Oct 21 13:09:40 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158230806</id>
+  <body><![CDATA[Cool :0)<br />I studied it at uni and we all saw Victor for what he really was. Shelley at 18 still had the power of her beliefs and feelings, and hadn't succumbed yet to social pressure.]]></body>
+  
+  <user>
+    <id>12371602</id>
+    <name>Veronique</name>
+    <display_name>Veronique</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12371602-veronique]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493937248p3/12371602.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493937248p2/12371602.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 21 13:15:37 -0700 2016</created_at>
+  <updated_at>Fri Oct 21 13:15:37 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158230948</id>
+  <body><![CDATA[<i>Veronique wrote: "Cool :0)<br />I studied it at uni and we all saw Victor for what he really was. Shelley at 18 still had the power of her beliefs and feelings, and hadn't succumbed yet to social pressure."</i><br /><br />Good for her and you. Also, I'm glad that people can see through the disguise - and that some people acknowledge the beauty of classics instead of calling them laboursome or even boring!]]></body>
+  
+  <user>
+    <id>3461034</id>
+    <name>Trish</name>
+    <display_name>Trish</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3461034-trish]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493966010p3/3461034.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493966010p2/3461034.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 21 13:19:58 -0700 2016</created_at>
+  <updated_at>Fri Oct 21 13:19:58 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158231341</id>
+  <body><![CDATA[How could they ever call this boring! You're making me want to re-read it but nooo (not time tons of books).<br />I'd love to learn more about the circumstances around the creation of Frankenstein however as I find them fascinating. Can you imagine all these amazing authors together in Villa Diodati stuck inside because of the weather and deciding each to write a ghost story?!? Polidori came up with The Vampyre, which I badly want to read.]]></body>
+  
+  <user>
+    <id>12371602</id>
+    <name>Veronique</name>
+    <display_name>Veronique</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12371602-veronique]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493937248p3/12371602.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493937248p2/12371602.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 21 13:30:34 -0700 2016</created_at>
+  <updated_at>Fri Oct 21 13:30:34 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158231709</id>
+  <body><![CDATA[Well, there is the saying that if you find reading boring, you're doing it wrong. I tend to agree. But I know many people who do not understand classics, have difficulty with the prose from times past or simply prefer a brutish, shallow movie full of action. Don't get me wrong, I like (action) movies too, but I cannot understand why "boring" is used to descrobe books like this.<br /><br />I already know quite a lot about the facts surrounding the creation of Frankenstein and yes, it is utterly fascinating.]]></body>
+  
+  <user>
+    <id>3461034</id>
+    <name>Trish</name>
+    <display_name>Trish</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3461034-trish]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493966010p3/3461034.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493966010p2/3461034.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 21 13:39:38 -0700 2016</created_at>
+  <updated_at>Fri Oct 21 13:39:38 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158233713</id>
+  <body><![CDATA[Great review!]]></body>
+  
+  <user>
+    <id>50136998</id>
+    <name>Helena</name>
+    <display_name>Helena</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/50136998-helena]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492517398p3/50136998.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492517398p2/50136998.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 21 14:29:29 -0700 2016</created_at>
+  <updated_at>Fri Oct 21 14:29:29 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158235792</id>
+  <body><![CDATA[Thanks Helena, and yeah, everyone, I could never say this was a boring book. Not even that dated. She did skirt around the actual methods for bringing the creature to life, after all. :) It's on a NDA.<br /><br />:)<br /><br />And you know what? It occurs to me that this book might also be about abortion. It's a man creating life, sure, and he thinks it might be all fun and games and all, but when the stark reality comes home to him, he's all... Oh shit, I don't want this at all! :) <br /><br />Sound familiar? Well, Mary Shelley *did* have a lot of lost children in her life and her mother was a very staunch feminist thinker. And because of the times it wasn't as if they had access to anything like a free-choice movement. At all. I wonder if all of this is related? I'm just speculating here. Using a little intuition. It would fit what I know about the author and it might just fit her thinking.<br /><br />What does anyone else think? Is it too far out there?]]></body>
+  
+  <user>
+    <id>4213258</id>
+    <name>Brad</name>
+    <display_name>Brad</display_name>
+
+    <location>montreal, qc, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4213258-brad]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1445016710p3/4213258.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1445016710p2/4213258.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 21 15:34:53 -0700 2016</created_at>
+  <updated_at>Fri Oct 21 15:34:53 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158236064</id>
+  <body><![CDATA[In school my teacher made us take rolls in the poem, I was alphonse. Everyone dies!]]></body>
+  
+  <user>
+    <id>52028217</id>
+    <name>Kian.R *Emeraldstripe* ;)</name>
+    <display_name>Kian.R *Emeraldstripe* ;)</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52028217-kian-r-emeraldstripe]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1491225336p3/52028217.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1491225336p2/52028217.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 21 15:45:38 -0700 2016</created_at>
+  <updated_at>Fri Oct 21 15:45:38 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158240020</id>
+  <body><![CDATA[And Anne just gave it 1 star! Review War!]]></body>
+  
+  <user>
+    <id>40078791</id>
+    <name>Robert</name>
+    <display_name>Robert</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/40078791-robert]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486138401p3/40078791.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486138401p2/40078791.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 21 18:05:39 -0700 2016</created_at>
+  <updated_at>Fri Oct 21 18:05:39 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158240616</id>
+  <body><![CDATA[Lol probably not, I read it and it was funny. :) I don't troll funny. :) Anne good. ;)]]></body>
+  
+  <user>
+    <id>4213258</id>
+    <name>Brad</name>
+    <display_name>Brad</display_name>
+
+    <location>montreal, qc, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4213258-brad]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1445016710p3/4213258.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1445016710p2/4213258.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 21 18:29:55 -0700 2016</created_at>
+  <updated_at>Fri Oct 21 18:29:55 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158241176</id>
+  <body><![CDATA[Nice Review Brad ! I too enjoyed it for the first time ... for me it was a unique work !]]></body>
+  
+  <user>
+    <id>19760612</id>
+    <name>Praveen</name>
+    <display_name>Praveen</display_name>
+
+    <location>Delhi, 07, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/19760612-praveen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1472106287p3/19760612.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1472106287p2/19760612.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 21 18:55:38 -0700 2016</created_at>
+  <updated_at>Fri Oct 21 18:55:38 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158246415</id>
+  <body><![CDATA[Brad, it isn't too far. Your idea of abortion is a great one. Shelley had just lost a child when she wrote and she used that, playing with the giving of life, taking it back, and the religious man-god connection too (much parallel with Paradise Lost). <br /><br />I love classics in general but not all 'talk' to me, and I guess that happens to everyone, which is fine ;0)]]></body>
+  
+  <user>
+    <id>12371602</id>
+    <name>Veronique</name>
+    <display_name>Veronique</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12371602-veronique]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493937248p3/12371602.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493937248p2/12371602.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 21 23:24:44 -0700 2016</created_at>
+  <updated_at>Fri Oct 21 23:24:44 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158249672</id>
+  <body><![CDATA[I wish that everyone would deal with their personal problems in this way. :) We'd have a lot more great books out there, no? :)]]></body>
+  
+  <user>
+    <id>4213258</id>
+    <name>Brad</name>
+    <display_name>Brad</display_name>
+
+    <location>montreal, qc, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4213258-brad]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1445016710p3/4213258.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1445016710p2/4213258.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Oct 22 04:17:46 -0700 2016</created_at>
+  <updated_at>Sat Oct 22 04:17:46 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158250027</id>
+  <body><![CDATA[Great Review! :-) I'm reading it for the first time now and so far I'm really enjoying it.]]></body>
+  
+  <user>
+    <id>42116250</id>
+    <name>Tilly</name>
+    <display_name>Tilly</display_name>
+
+    <location>Ruhrgebiet, 07, Germany</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/42116250-tilly]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1449007147p3/42116250.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1449007147p2/42116250.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Oct 22 04:43:41 -0700 2016</created_at>
+  <updated_at>Sat Oct 22 04:43:41 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158250943</id>
+  <body><![CDATA[Considering all the biographical stuff about the author(s), I also don't think it's too far out. To me, it's about what life and giving life means, as well as the responsibility that comes with that. Victor is a bad parent and no matter how much he regrets (whatever it is that he actually regrets), that won't make his actions any better. Just like no amount of regret ever made Mary's actions better or absolvable.]]></body>
+  
+  <user>
+    <id>3461034</id>
+    <name>Trish</name>
+    <display_name>Trish</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3461034-trish]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493966010p3/3461034.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493966010p2/3461034.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Oct 22 05:28:23 -0700 2016</created_at>
+  <updated_at>Sat Oct 22 05:28:23 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158275386</id>
+  <body><![CDATA[I read this several years ago, and the prose was like a gentle magic spell that I didn't want to come to an end. And the author was only nineteen when she wrote it. I will read it again someday.]]></body>
+  
+  <user>
+    <id>17315128</id>
+    <name>Meredith</name>
+    <display_name>Meredith</display_name>
+
+    <location>Toronto, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17315128-meredith]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1360467135p3/17315128.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1360467135p2/17315128.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Oct 22 18:09:00 -0700 2016</created_at>
+  <updated_at>Sat Oct 22 18:09:00 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158278343</id>
+  <body><![CDATA[It's truly a great work, no matter how we look at it. :)]]></body>
+  
+  <user>
+    <id>4213258</id>
+    <name>Brad</name>
+    <display_name>Brad</display_name>
+
+    <location>montreal, qc, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4213258-brad]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1445016710p3/4213258.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1445016710p2/4213258.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Oct 22 19:56:13 -0700 2016</created_at>
+  <updated_at>Sat Oct 22 19:56:13 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158280914</id>
+  <body><![CDATA[This is hands down one of my top 5 favorite books ever!]]></body>
+  
+  <user>
+    <id>278701</id>
+    <name>Rose</name>
+    <display_name>Rose</display_name>
+
+    <location>Concord, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/278701-rose]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1476425963p3/278701.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1476425963p2/278701.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Oct 22 21:54:19 -0700 2016</created_at>
+  <updated_at>Sat Oct 22 21:54:19 -0700 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/570510390]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/570510390]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

@@ -1,0 +1,872 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:56:00 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: DNV25VW5B9TCRQHFZAW4
+etag: W/"a4a456baef8f398c8e40d269152308c3"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.267818
+set-cookie: csid=BAhJIhg2MzctNjQwODIyMC04OTQ0MTg0BjoGRVQ%3D--edb09cc9e438bead8b195abef8343e5425c9e9af; path=/; expires=Tue, 12 May 2037 13:56:00 -0000, locale=es; path=/, _session_id2=84153af8ca13eae0c899471048f9ec10; path=/; expires=Fri, 12 May 2017 19:56:00 -0000; HttpOnly
+content-length: 48745
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=76182957
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>76182957</id>
+    
+  <user>
+    <id>84023</id>
+    <name>J.G. Keely</name>
+    <display_name>J.G. Keely</display_name>
+
+    <location>Albany, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/84023-j-g-keely]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1274333636p3/84023.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1274333636p2/84023.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">18490</id>
+  <isbn>0141439475</isbn>
+  <isbn13>9780141439471</isbn13>
+  <text_reviews_count type="integer">13074</text_reviews_count>
+  <title>Frankenstein</title>
+  <title_without_series>Frankenstein</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1381512375m/18490.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1381512375s/18490.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18490.Frankenstein</link>
+  <num_pages>273</num_pages>
+  <format>Paperback</format>
+  <edition_information>Penguin Classics</edition_information>
+  <publisher>Penguin Books</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.75</average_rating>
+  <ratings_count>861298</ratings_count>
+  <description>&lt;b&gt;Mary Shelley&lt;/b&gt; began writing &lt;i&gt;Frankenstein&lt;/i&gt; when she was only eighteen. At once a Gothic thriller, a passionate romance, and a cautionary tale about the dangers of science, &lt;i&gt;Frankenstein&lt;/i&gt; tells the story of committed science student Victor Frankenstein. Obsessed with discovering the cause of generation and life and bestowing animation upon lifeless matter, Frankenstein assembles a human being from stolen body parts but; upon bringing it to life, he recoils in horror at the creature's hideousness. Tormented by isolation and loneliness, the once-innocent creature turns to evil and unleashes a campaign of murderous revenge against his creator, Frankenstein.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Frankenstein&lt;/i&gt;, an instant bestseller and an important ancestor of both the horror and science fiction genres, not only tells a terrifying story, but also raises profound, disturbing questions about the very nature of life and the place of humankind within the cosmos: What does it mean to be human? What responsibilities do we have to each other? How far can we go in tampering with Nature? In our age, filled with news of organ donation genetic engineering, and bio-terrorism, these questions are more relevant than ever.</description>
+<authors>
+<author>
+<id>11139</id>
+<name>Mary Wollstonecraft Shelley</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p5/11139.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p2/11139.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/11139.Mary_Wollstonecraft_Shelley]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>884152</ratings_count>
+<text_reviews_count>20971</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1218128871</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Mon Feb 01 09:20:24 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>4</rating>
+  <votes>91</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="gothic" exclusive="false" review_shelf_id="39874721" sortable="false" />
+    <shelf name="novel" exclusive="false" review_shelf_id="39874723" sortable="false" />
+    <shelf name="uk-and-ireland" exclusive="false" review_shelf_id="289737629" sortable="false" />
+    <shelf name="science-fiction" exclusive="false" review_shelf_id="289737873" sortable="false" />
+    <shelf name="horror" exclusive="false" review_shelf_id="39874722" sortable="false" />
+    <shelf name="reviewed" exclusive="false" review_shelf_id="289737979" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sat Oct 20 00:00:00 -0700 2012</read_at>
+  <date_added>Thu Oct 29 21:38:47 -0700 2009</date_added>
+  <date_updated>Mon Dec 30 13:04:04 -0800 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[If you have not read the book, then you do not know Frankenstein or his monster. Certainly, there is a creature in our modern mythology which bears that name, but he bears strikingly little resemblance to the original.<br /><br />It is the opposite with <i>Dracula</i>, where, if you have seen the films, you know th...]]>
+  </body>
+
+  
+
+  <comments_count>32</comments_count>
+    <comments start="1" end="32" total="32">
+        <comment>
+  <id>60272756</id>
+  <body><![CDATA[exemplary. I feel a pull to read this every October and thus far I've failed.]]></body>
+  
+  <user>
+    <id>2327886</id>
+    <name>Jonfaith</name>
+    <display_name>Jonfaith</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2327886-jonfaith]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1382920362p3/2327886.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1382920362p2/2327886.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Oct 20 20:15:16 -0700 2012</created_at>
+  <updated_at>Sat Oct 20 20:15:16 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>60279408</id>
+  <body><![CDATA[Good review, some of the ideas you discussed make me want to read this novel even more. I always knew it was considered a "horror classic," but I never knew much about it...]]></body>
+  
+  <user>
+    <id>4565644</id>
+    <name>Ryan</name>
+    <display_name>Ryan Shuman</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4565644-ryan-shuman]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1350450877p3/4565644.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1350450877p2/4565644.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Oct 20 22:57:01 -0700 2012</created_at>
+  <updated_at>Sat Oct 20 22:57:01 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>60293897</id>
+  <body><![CDATA[Excellent work, Keely!]]></body>
+  
+  <user>
+    <id>1742824</id>
+    <name>Jason</name>
+    <display_name>Jason Koivu</display_name>
+
+    <location>Lemoore, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1742824-jason-koivu]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1464843865p3/1742824.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1464843865p2/1742824.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Oct 21 08:45:10 -0700 2012</created_at>
+  <updated_at>Sun Oct 21 08:45:10 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>60303869</id>
+  <body><![CDATA[Excellent review! I've heard Frankenstein's monster discussed so much, I thought I pretty much had a working understanding of the book, but it seems I was wrong. The comparison with Prometheus is a new one on me. I'm intrigued... I may have found MY October reading!]]></body>
+  
+  <user>
+    <id>5612909</id>
+    <name>Cassandra</name>
+    <display_name>Cassandra</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5612909-cassandra]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1317582102p3/5612909.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1317582102p2/5612909.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Oct 21 11:50:31 -0700 2012</created_at>
+  <updated_at>Sun Oct 21 11:50:31 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>60340092</id>
+  <body><![CDATA[Great review Keely, I myself in studying the book for my Year 12 literature chose to reject the 'easy' Frankenstein being god and giving life part of the book. I looked at something similar to what you came up with, that Frankenstein creates a sort of distorted reflection of himself - or perhaps his psyche - in the monster. <br /><br /><i>"For almost the entire book, the only person who ever sees the monster is the doctor himself, and since the doctor is present for all of the killings, it isn't hard to interpret this story as the self-justification of a madman: the doctor, himself, could be doing all of the killings, causing all of the malice, and then explaining it away as the acts of a horrific creature that only he can see, that only he can speak to."</i><br /><br />That's an excellent point I hadn't fully considered. I do find it interesting that both Frankenstein and Dracula (since you link the two) have those highly unreliable elements whereby you can interpret everything as nearly the ravings of madmen.]]></body>
+  
+  <user>
+    <id>6313408</id>
+    <name>Jonathan</name>
+    <display_name>Jonathan</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6313408-jonathan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478230200p3/6313408.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478230200p2/6313408.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Oct 21 22:27:45 -0700 2012</created_at>
+  <updated_at>Sun Oct 21 22:27:45 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>60340818</id>
+  <body><![CDATA[I've always had a sneaking and probably irrational suspicion that Dr Jekyll and Mr Hyde are somehow related to Frankenstein...I never thought of Dracula.]]></body>
+  
+  <user>
+    <id>4402387</id>
+    <name>Scribble</name>
+    <display_name>Scribble Orca</display_name>
+
+    <location>In the clouds, Singapore</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4402387-scribble-orca]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1393239335p3/4402387.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1393239335p2/4402387.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Oct 21 23:02:11 -0700 2012</created_at>
+  <updated_at>Sun Oct 21 23:02:11 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>60355967</id>
+  <body><![CDATA[Thanks Jonfaith, Ryan, and Jason, I'm glad you liked it.<br /><br /><i>"Cassandra said: "The comparison with Prometheus is a new one on me."</i><br /><br />Shelley's original title was 'Frankenstein or, The Modern Prometheus', so she made the comparison explicit. Hope you enjoy it.<br /><br /><i>Jonathan said: "both Frankenstein and Dracula . . . you can interpret everything as nearly the ravings of madmen."</i><br /><br />Yeah, because there's definitely a huge bias there in the way the characters look at things, plus the fact that they are so isolated from the world in having these supernatural experiences.<br /><br /><i>Scribble said: "Scribble Orca I've always had a sneaking and probably irrational suspicion that Dr Jekyll and Mr Hyde are somehow related to Frankenstein"</i><br /><br />Well, in both we have a scientific hero who creates his own alter ego, a figure whose horror comes to take over the scientist's life, so that seems like a pretty strong connection.]]></body>
+  
+  <user>
+    <id>84023</id>
+    <name>J.G. Keely</name>
+    <display_name>J.G. Keely</display_name>
+
+    <location>Albany, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/84023-j-g-keely]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1274333636p3/84023.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1274333636p2/84023.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 22 09:02:58 -0700 2012</created_at>
+  <updated_at>Mon Oct 22 09:02:58 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>60392422</id>
+  <body><![CDATA[I assume the 3 stars are related to your issues with Shelley's style? I think I'd rate it higher because the themes hold a bit more traction for me, which you do a nice job of analyzing. You hit precisely on what I think makes the story so enduring.]]></body>
+  
+  <user>
+    <id>379432</id>
+    <name>A</name>
+    <display_name>A</display_name>
+
+    <location>Kansas City, MO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/379432-a]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1193070556p3/379432.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1193070556p2/379432.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 22 19:21:48 -0700 2012</created_at>
+  <updated_at>Mon Oct 22 19:21:48 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>60396262</id>
+  <body><![CDATA[Yeah, it's mostly problems with the repetitive structure and the unnecessarily long-winded style. I mean, I don't mind someone like Peake, whose text is incredibly thick so you're still getting a good return of ideas per word, but Shelley dithered too much for my taste.<br /><br />It was another one of those situations where it could have been four stars, and I went back and forth over it in my head before ending up here. Wish I could do half-stars. Nice to hear you found my analysis to be properly precise. Thanks.]]></body>
+  
+  <user>
+    <id>84023</id>
+    <name>J.G. Keely</name>
+    <display_name>J.G. Keely</display_name>
+
+    <location>Albany, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/84023-j-g-keely]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1274333636p3/84023.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1274333636p2/84023.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 22 20:35:15 -0700 2012</created_at>
+  <updated_at>Mon Oct 22 20:35:15 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>60398733</id>
+  <body><![CDATA[I understand, I often wish for half-stars myself.]]></body>
+  
+  <user>
+    <id>379432</id>
+    <name>A</name>
+    <display_name>A</display_name>
+
+    <location>Kansas City, MO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/379432-a]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1193070556p3/379432.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1193070556p2/379432.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 22 21:46:55 -0700 2012</created_at>
+  <updated_at>Mon Oct 22 21:46:55 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>60489962</id>
+  <body><![CDATA[They've debated it back and forth in the forums since the site first started. Doesn't seem likely that we'll ever get them, unfortunately.]]></body>
+  
+  <user>
+    <id>84023</id>
+    <name>J.G. Keely</name>
+    <display_name>J.G. Keely</display_name>
+
+    <location>Albany, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/84023-j-g-keely]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1274333636p3/84023.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1274333636p2/84023.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Oct 24 14:39:01 -0700 2012</created_at>
+  <updated_at>Wed Oct 24 14:39:01 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>60569220</id>
+  <body><![CDATA[<i>Keely wrote: "They've debated it back and forth in the forums since the site first started. Doesn't seem likely that we'll ever get them, unfortunately."</i><br /><br />Yes apparently half stars or ten star rating systems result in fewer ratings somehow. I don't see it personally...]]></body>
+  
+  <user>
+    <id>6313408</id>
+    <name>Jonathan</name>
+    <display_name>Jonathan</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6313408-jonathan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478230200p3/6313408.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478230200p2/6313408.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Oct 25 21:11:03 -0700 2012</created_at>
+  <updated_at>Thu Oct 25 21:11:03 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>77633622</id>
+  <body><![CDATA[I agree Keely. The prose was sooo long and drawn out. Made me yawn a bit.]]></body>
+  
+  <user>
+    <id>21465898</id>
+    <name>Geoff</name>
+    <display_name>Geoff</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/21465898-geoff]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1458073995p3/21465898.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1458073995p2/21465898.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 03 17:41:28 -0700 2013</created_at>
+  <updated_at>Wed Jul 03 17:41:28 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>80334060</id>
+  <body><![CDATA[OK, then. I guess I WILL finish reading it.]]></body>
+  
+  <user>
+    <id>15032832</id>
+    <name>Lori</name>
+    <display_name>Lori Hvizda ward</display_name>
+
+    <location>Englewood, CO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15032832-lori-hvizda-ward]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1450483214p3/15032832.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1450483214p2/15032832.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 08 22:32:33 -0700 2013</created_at>
+  <updated_at>Thu Aug 08 22:32:33 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>80365630</id>
+  <body><![CDATA[It can be a bit of a haul, I agree.]]></body>
+  
+  <user>
+    <id>84023</id>
+    <name>J.G. Keely</name>
+    <display_name>J.G. Keely</display_name>
+
+    <location>Albany, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/84023-j-g-keely]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1274333636p3/84023.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1274333636p2/84023.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 09 11:53:50 -0700 2013</created_at>
+  <updated_at>Fri Aug 09 11:53:50 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>81877090</id>
+  <body><![CDATA[I commend you on your thorough critique of this novel. It’s true that Shelley tended to pontificate a bit. But I think this can be put down largely to the additions and corrections of Mary’s husband Percy, the poet. However, you make a couple of errors in your comments. Margaret is not Captain Walton’s “lady love”. She is his sister. He states as much in the first letter so I’m surprised you missed it. Also, Victor is NOT present for any of the murders. When his brother William is killed, Victor is far away, being nursed back to health after a nervous breakdown by his friend Henry Clerval. Victor doesn’t know about this until he receives a letter from his grieving father. Henry is killed by the daemon after Victor refuses to create the mate he demanded. Victor is unaware of this until he rows to Ireland and is arrested and taken to the magistrate to answer for “the death of a gentleman” murdered on the beach.<br /><br />A case can be made that he is present for Elizabeth’s murder. But this isn’t exactly accurate. Victor leaves her alone while he roams about checking the house for his ghastly intruder. He erroneously believes that he will be the target of the monster’s murderous attack. It isn’t until he hears Elizabeth scream from her room that he realizes his mistake. Then he rushes in to see his lifeless body while the monster gloats at him, pointing to her corpse.]]></body>
+  
+  <user>
+    <id>8349963</id>
+    <name>Marsha</name>
+    <display_name>Marsha</display_name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8349963-marsha]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483036622p3/8349963.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483036622p2/8349963.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 30 10:19:47 -0700 2013</created_at>
+  <updated_at>Fri Aug 30 10:19:47 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>81882246</id>
+  <body><![CDATA[<i>"Margaret is not Captain Walton’s “lady love”. She is his sister. He states as much in the first letter so I’m surprised you missed it."</i><br /><br />Oh, you're right. Thanks for the correction.<br /><br /><i>"Victor is NOT present for any of the murders"</i><br /><br />Remember that the story is all told from Walton's perspective, as told to him by the doctor, so there are several layers of unreality there. If we did decide to read it as the doctor being the murderer, we'd have to assume that he's twisting the truth. For example, that in the case of his being lost in the boat, that's just a convenient alibi he devises to explain the lost hours he instead spent on his grisly task--perhaps he got lost while at sea trying to dump the body.<br /><br />When I say 'he's present', I mean he is near enough to the situation to have done it, if we don't take his account as entirely trustworthy. The real suggestion that this might be the case is the fact that no one else ever sees the monster, making it possible that it is the doctor's invention, or his madness.<br /><br />As I say in my review, I don't think it quite works, I find it mostly interesting in how it suggests that both characters are tied together in action. I don't remember the particulars of William's death--you're probably right that it doesn't fit. If I were intent on taking this theory to the bitter end, I suppose I'd suggest that his death was happenstance that Victor chose to blame on the monster--but again, the whole theory is slightly too stretched to be valid.]]></body>
+  
+  <user>
+    <id>84023</id>
+    <name>J.G. Keely</name>
+    <display_name>J.G. Keely</display_name>
+
+    <location>Albany, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/84023-j-g-keely]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1274333636p3/84023.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1274333636p2/84023.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 30 11:45:51 -0700 2013</created_at>
+  <updated_at>Fri Aug 30 11:45:51 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>82264980</id>
+  <body><![CDATA[<i>Keely wrote: ""Margaret is not Captain Walton’s “lady love”. She is his sister. He states as much in the first letter so I’m surprised you missed it."<br /><br />Oh, you're right. Thanks for the correction.<br /><br />"Victor is NO..."</i><br /><br />What really strains credulity is the part where the daemon just so accidentally finds a young woman passing by, incriminates her in young William's murder and that woman turns out to be...TADA!...poor Justine! <br /><br />Admittedly Justine confesses that she was out looking for William (an admission that plays against her during her trial) but it's really too much to believe that the monster somehow found her of all people and planted the evidence on her without her knowing about it. In most of the book, the monster confesses that he can't move among human beings without their seeing him and fleeing in terror or launching into an attack. The only way he manages to avoid detection is by avoiding people. (He makes a point of staying away from populated, civilized areas.) So his incrimination of Justine is just sheer bollocks, a badly written piece of exposition on Ms. Shelley's part. It's just her way of robbing Victor of yet another member of his friends and family.<br /><br />Otherwise, I can understand your assertion about Victor's "presence" during these murders. Since he seems to be seriously unhinged, I suppose it might be suggested that he's the actual murderer. But, no, Walton actually sees the monster AFTER Victor is dead. So if this is told by Walton, how is it that he sees the daemon? Has he been afflicted by folie a deux? Although he has his own share of hubris in journeying to the north, he decides not to pursue his vision and turns his ship back to England. If he is crazy, he's not so badly off as poor Victor.]]></body>
+  
+  <user>
+    <id>8349963</id>
+    <name>Marsha</name>
+    <display_name>Marsha</display_name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8349963-marsha]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483036622p3/8349963.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483036622p2/8349963.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Sep 04 17:38:17 -0700 2013</created_at>
+  <updated_at>Wed Sep 04 17:38:17 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>82275429</id>
+  <body><![CDATA[<i>"Walton actually sees the monster AFTER Victor is dead. So if this is told by Walton, how is it that he sees the daemon? Has he been afflicted by folie a deux?"</i><br /><br />Yeah, I think that would probably be the reading you'd have to go with, if you were forced to run the thesis to the bitter end--that Walton's whole disturbing experience with this dying man has set him a bit on edge, just sitting up for days and listening to this mad story, trapped in this blizzard. As I said, I don't think it quite works, but I also don't think it would take much of a rewrite to make it work.]]></body>
+  
+  <user>
+    <id>84023</id>
+    <name>J.G. Keely</name>
+    <display_name>J.G. Keely</display_name>
+
+    <location>Albany, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/84023-j-g-keely]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1274333636p3/84023.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1274333636p2/84023.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Sep 04 20:08:30 -0700 2013</created_at>
+  <updated_at>Wed Sep 04 20:08:30 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>82433357</id>
+  <body><![CDATA[<i>Keely wrote: ""Walton actually sees the monster AFTER Victor is dead. So if this is told by Walton, how is it that he sees the daemon? Has he been afflicted by folie a deux?"<br /><br />Yeah, I think that would probably b..."</i><br /><br />According to the recent version I've read, one that shows the 1818 text and the original manuscript as penned by Mary Shelley (re-written merely for clarity in a few parts), this story has already been heavily re-written. I believe the Walton letters were added by Percy Bysshe Shelley to give a framework to the main story.<br /><br />Dean Koontz is having his own go at it, re-making Victor Frankenstein into an amoral, egotistical bastard who casually kills his spouse clones when they prove disappointing to him. That would definitely accord with your theory of a mad Victor who's actually killing folks.<br /><br />Hmmmm. When I reconsider the notion that Shelley's Victor is actually responsible for these deaths, I can see a certain validity to the theory. He passes out far too often. It's possible these aren't fainting fits but genuine blackouts in which he goes off and kills people and simply can't remember it when he recovers consciousness. He then blames a mysterious "monster" that he created. If so, this would be a kind of Jekyll-and-Hyde scenario, one that predates Stevenson's own literary creation by almost 70 years.]]></body>
+  
+  <user>
+    <id>8349963</id>
+    <name>Marsha</name>
+    <display_name>Marsha</display_name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8349963-marsha]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483036622p3/8349963.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483036622p2/8349963.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Sep 07 08:17:02 -0700 2013</created_at>
+  <updated_at>Sat Sep 07 08:17:02 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>82532346</id>
+  <body><![CDATA[<i>Marsha said: "He passes out far too often. It's possible these aren't fainting fits but genuine blackouts in which he goes off and kills people and simply can't remember it when he recovers consciousness."</i><br /><br />Yeah, those are the types of inconsistencies that made it sometimes seem plausible--that he's telling a story to try to cover what's actually happening, and that, around the murders, there often seem to be these moments where he could have been present, if not for passing out or being lost in a boat or whatever he claims happened for him to lose those hours.]]></body>
+  
+  <user>
+    <id>84023</id>
+    <name>J.G. Keely</name>
+    <display_name>J.G. Keely</display_name>
+
+    <location>Albany, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/84023-j-g-keely]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1274333636p3/84023.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1274333636p2/84023.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Sep 08 13:47:00 -0700 2013</created_at>
+  <updated_at>Sun Sep 08 13:47:00 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>82686108</id>
+  <body><![CDATA[<i>Keely wrote: "Marsha said: "He passes out far too often. It's possible these aren't fainting fits but genuine blackouts in which he goes off and kills people and simply can't remember it when he recovers conscio..."</i><br /><br />But it's the killing of William that baffles and possibly lays waste to the theory of him being a murderer. Would it have been possible for Victor to murder William, plant evidence on Justine and make it back to his laboratory before Clerval comes to visit him? I don't know enough about geography to argue for or against Victor's responsibility in that scenario. <br /><br />His behavior with Clerval certainly argues against mental stability. He laughs too loudly, skips over the furniture and has a frantic gleam in his eye. Clerval at first puts down his excitement to their reunion but quickly realizes that Victor is actually very ill. It's then that Victor passes out and spends long months recuperating while Henry nurses him back to health.<br /><br />No, when I think of it, it's not possible for him to have killed William. William's body is discovered during Victor's convalescence, long after his illness starts. In Victor's weakened condition, it simply isn't likely that he could have risen from his sickbed, traveled back to his home, killed his brother and then made his way back to Clerval's attentions and all without somebody noticing. <br /><br />Is it possible that someone else murdered William and Victor in his delusion pins it on his "monster"? That murder then precipitates Victor's wild killing spree against his own loved ones. This is possible because in his fantasies he sees himself as being culpable for William's murder and Justine's execution (he does accuse himself of responsibility in their deaths, so we know that it preys on his mind).<br /><br />But there's Walton to consider. He spies a sledge being pulled by many dogs and driven by a huge figure. This happens before Victor is rescued from the ice. If the monster is a delusion, how is it that Walton and his crewmen spot him before Victor ever comes on board? I grant that Walton could have been influenced by Victor's rambling tale, the days spent icebound and the general depression produced by their perilous situation. But that doesn't explain seeing the daemon before Victor ever appears on the scene.]]></body>
+  
+  <user>
+    <id>8349963</id>
+    <name>Marsha</name>
+    <display_name>Marsha</display_name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8349963-marsha]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483036622p3/8349963.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483036622p2/8349963.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Sep 10 16:13:18 -0700 2013</created_at>
+  <updated_at>Tue Sep 10 16:13:18 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>82743236</id>
+  <body><![CDATA[<i>Marsha said: "William's body is discovered during Victor's convalescence, long after his illness starts. In Victor's weakened condition, it simply isn't likely"</i><br /><br />Unless his convalescence is more in his head than an actual physical malady--I mean, if he is wandering around in a fugue state, at night perhaps, then it would make sense that he was exhausted during the day.<br /><br /><i>"That murder then precipitates Victor's wild killing spree against his own loved ones. This is possible because in his fantasies he sees himself as being culpable for William's murder and Justine's execution"</i><br /><br />That's also a very good theory: that this death triggers him, in his already mentally weak state.<br /><br /><i>"But there's Walton to consider. He spies a sledge being pulled by many dogs and driven by a huge figure. This happens before Victor is rescued from the ice."</i><br /><br />Yeah, that's true. I suppose if one wanted to do a perspective-shift rewrite, you could have a character who believes Victor is the real killer, and who is following him, trying to get the evidence, and that this is who Walton sees chasing him--or that Walton just sees someone out there and retroactively assumes it was the monster, after talking to Victor.]]></body>
+  
+  <user>
+    <id>84023</id>
+    <name>J.G. Keely</name>
+    <display_name>J.G. Keely</display_name>
+
+    <location>Albany, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/84023-j-g-keely]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1274333636p3/84023.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1274333636p2/84023.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Sep 11 13:16:03 -0700 2013</created_at>
+  <updated_at>Wed Sep 11 13:16:03 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>82815715</id>
+  <body><![CDATA[<i>Keely wrote: "Marsha said: "William's body is discovered during Victor's convalescence, long after his illness starts. In Victor's weakened condition, it simply isn't likely"<br /><br />Unless his convalescence is more in..."</i><br /><br />How can his illness be entirely in his head? Clerval notices his unhealthy state and spends months caring for him because he's physically weak as well as mentally ill. If his ill health really is entirely in his head, it still doesn't explain how he could have moved about enough to kill his brother and make it back to his laboratory rooms without anybody noticing him.<br /><br />Assuming this is all just an "adjusted" story that he tells Walton, it still doesn't quite explain the mysterious figure on the ice. This is a truly forbidding and unforgiving environment, one that has killed some of Walton's crew, ice-bound the ship and wrecked Victor's sledge and finally killed Victor due to the rawness of the atmosphere. But now you suggest that the character that Walton sees and who Walton spies by Victor's deathbed could be actually a kind of inspector/spy/policeman who's been grimly following Victor (rather than vice versa) and is strong enough to have withstood a cruel landscape that kills ordinary men.<br /><br />It seems like just too much warping of the story and ignores realities of geography, plotline and atmosphere to make the story other than what it is: Mary Shelley's very real distaste and disgust of fooling around with nature and going against God.]]></body>
+  
+  <user>
+    <id>8349963</id>
+    <name>Marsha</name>
+    <display_name>Marsha</display_name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8349963-marsha]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483036622p3/8349963.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483036622p2/8349963.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Sep 12 15:08:44 -0700 2013</created_at>
+  <updated_at>Thu Sep 12 15:08:44 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>82871193</id>
+  <body><![CDATA[<i>Marsha said: "How can his illness be entirely in his head? Clerval notices his unhealthy state and spends months caring for him because he's physically weak as well as mentally ill. If his ill health really is entirely in his head, it still doesn't explain how he could have moved about enough to kill his brother and make it back to his laboratory rooms without anybody noticing him."</i><br /><br />Well, clearly the mental illness is very real, if he's killing people and living two lives, his own and that of the monster. Likewise, as I said, if he is living two lives, going off at night to do things, then he would be pretty exhausted and bad looking during the day.<br /><br /><i>"It seems like just too much warping of the story and ignores realities of geography, plotline and atmosphere to make the story other than what it is"</i><br /><br />Yeah, I totally agree. I don't think it works as a real explanation--it's just interesting to note that it almost works in a number of the events. I mean, the fact that victor is often the only witness to the crimes, and to the monster's own existence means that he ends up coming off as a madman to others. It reinforces the idea that the monster is his counterpart, even if they aren't actually the same person.]]></body>
+  
+  <user>
+    <id>84023</id>
+    <name>J.G. Keely</name>
+    <display_name>J.G. Keely</display_name>
+
+    <location>Albany, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/84023-j-g-keely]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1274333636p3/84023.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1274333636p2/84023.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 13 12:01:58 -0700 2013</created_at>
+  <updated_at>Fri Sep 13 12:01:58 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>82880395</id>
+  <body><![CDATA[<i>Keely wrote: "Marsha said: "How can his illness be entirely in his head? Clerval notices his unhealthy state and spends months caring for him because he's physically weak as well as mentally ill. If his ill heal..."</i><br /><br />If only there weren't the matter of the "figure on the ice" that was seen not just by Walton but by his crewmates as well this theory of Victor's mad killing sprees might hold some water. The appearance of the monster to Walton by Victor's bedside <i>might</i> be put down to a hallucination brought on by stir craziness and the suggestion of Victor's story. No one else sees the creature except Walton at this point. Afterwards the monster jumps through the window and is swiftly lost in the distance.<br /><br />But the sledge carrying the daemon is seen by too many people; it's mentioned by the lieutenant when he questions Victor. He wants to know why Victor was found in the perilous situation he was. Victor replied that he was seeking someone who fled from him. Then the lieutenant confirmed that they had seen his quarry the previous day.<br /><br />But otherwise this is a fascinating theory. I've very much enjoyed debating it with you. <br /><br />On a little side note, a manga illustrator/author I've corresponded with is creating her own manga version of the original 1818 text of <u>Frankenstein, or The Modern Prometheus</u>. She's written and illustrated the first chapters but is dragging her feet now. The second installment was due out in December 2011/January 2012 but she hasn't made it yet. I'm unhappy about her procrastination but there's nothing I can do to encourage her to hurry. <br /><br />I truly admire her work. Her illustrations are sublime and her storylines truly engaging. She is a master of expression, the human form, interiors, exteriors, scenery, animals, trees, landscape, etc. I only hope she finishes this manga in time for the 200th anniversary of this powerful work.]]></body>
+  
+  <user>
+    <id>8349963</id>
+    <name>Marsha</name>
+    <display_name>Marsha</display_name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8349963-marsha]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483036622p3/8349963.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483036622p2/8349963.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 13 14:34:07 -0700 2013</created_at>
+  <updated_at>Fri Sep 13 14:34:07 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>82887464</id>
+  <body><![CDATA[Well, that's the thing about big projects: it's easy to slip behind schedule. Hopefully she finds some time and energy for it.]]></body>
+  
+  <user>
+    <id>84023</id>
+    <name>J.G. Keely</name>
+    <display_name>J.G. Keely</display_name>
+
+    <location>Albany, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/84023-j-g-keely]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1274333636p3/84023.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1274333636p2/84023.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 13 16:42:18 -0700 2013</created_at>
+  <updated_at>Fri Sep 13 16:42:18 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>113576497</id>
+  <body><![CDATA[Very nicely done. This is the best review of yours I've read. I love your analysis of the monster and his creator. One more consideration for you: Instead of God/man, what about reading it as a novel about the ethics of science? This creates a very interesting narrative and pulls Robert into the forefront and a contrast to Victor.]]></body>
+  
+  <user>
+    <id>31795306</id>
+    <name>Tristan</name>
+    <display_name>Tristan</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/31795306-tristan]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 27 15:32:49 -0800 2015</created_at>
+  <updated_at>Tue Jan 27 15:32:49 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>163171303</id>
+  <body><![CDATA[Personally, I believe the letters were fabricated by Victor Frankenstein as a cover, and the entire book is an insane manifesto detailing the wild mind of a maniac. Victor was the true murderer, he killed Elizabeth and all the other victims, and he invented a "monster" in his mind as a coping mechanism. Victor's psychology is clearly unhinged, this seems viable. He then decided to fabricate a series of letters from an arctic adventurer to make his story seem more credible, and the entire book is just a lie, the scribblings of a madman.]]></body>
+  
+  <user>
+    <id>65067206</id>
+    <name>Aiden</name>
+    <display_name>Aiden Heavilin</display_name>
+
+    <location>Indianapolis, IN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/65067206-aiden-heavilin]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu Feb 23 12:26:50 -0800 2017</created_at>
+  <updated_at>Thu Feb 23 12:26:50 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>163201173</id>
+  <body><![CDATA[<i>J.G. Keely wrote: "Well, that's the thing about big projects: it's easy to slip behind schedule. Hopefully she finds some time and energy for it."</i><br /><br />She’s finishing volume two! She’s written about it and I’ve seen the completed cover on Facebook. So it should be available for purchase very soon. It’s been five long years but it will be worth the wait. Hurrah!]]></body>
+  
+  <user>
+    <id>8349963</id>
+    <name>Marsha</name>
+    <display_name>Marsha</display_name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8349963-marsha]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483036622p3/8349963.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483036622p2/8349963.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 24 07:38:58 -0800 2017</created_at>
+  <updated_at>Fri Feb 24 07:38:58 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>163384439</id>
+  <body><![CDATA[I would like to ask, since you've read the book, where can I find the original edition online? <br />The 1818 edition.<br />I would like to purchase it online, but cant find the right book!]]></body>
+  
+  <user>
+    <id>46979820</id>
+    <name>Maha</name>
+    <display_name>Maha Aljasser</display_name>
+
+    <location>Riyadh, Saudi Arabia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/46979820-maha-aljasser]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1494187301p3/46979820.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1494187301p2/46979820.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 28 23:56:27 -0800 2017</created_at>
+  <updated_at>Tue Feb 28 23:56:27 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>163400522</id>
+  <body><![CDATA[<i>Maha said: "where can I find the original edition online?"</i><br /><br />The <a href="https://www.amazon.com/Frankenstein-Ignatius-Critical-Mary-Shelley/dp/1586171380" rel="nofollow">Ignatius Edition</a> is supposed to be the original 1818 text.]]></body>
+  
+  <user>
+    <id>84023</id>
+    <name>J.G. Keely</name>
+    <display_name>J.G. Keely</display_name>
+
+    <location>Albany, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/84023-j-g-keely]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1274333636p3/84023.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1274333636p2/84023.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 01 09:21:29 -0800 2017</created_at>
+  <updated_at>Wed Mar 01 09:21:29 -0800 2017</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/76182957]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/76182957]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

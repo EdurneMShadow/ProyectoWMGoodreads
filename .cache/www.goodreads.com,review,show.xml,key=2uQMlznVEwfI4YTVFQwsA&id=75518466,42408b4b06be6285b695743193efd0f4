@@ -1,0 +1,721 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:56:39 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: 3FJ5NV0M5V9RK1B9HAX1
+etag: W/"f5159c0ff865c86c4c28b61cbf57f627"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.306033
+set-cookie: csid=BAhJIhgwMDktMTY4NjEyMC04NTUyNTI1BjoGRVQ%3D--2618edcca10c64f092f120f8d8678d10f170cf2f; path=/; expires=Tue, 12 May 2037 13:56:39 -0000, locale=es; path=/, _session_id2=b42eb759ccde3234b9818c1aaa4db822; path=/; expires=Fri, 12 May 2017 19:56:39 -0000; HttpOnly
+content-length: 28914
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=75518466
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>75518466</id>
+    
+  <user>
+    <id>1570669</id>
+    <name><![CDATA[ Danielle The Book Huntress (Back to the Books)]]></name>
+    <display_name><![CDATA[ Danielle The Book Huntress (Back to the Books)]]></display_name>
+
+    <location>Round Rock, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1570669-danielle-the-book-huntress-back-to-the-books]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1403239075p3/1570669.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1403239075p2/1570669.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">18488</id>
+  <isbn>0743487583</isbn>
+  <isbn13>9780743487580</isbn13>
+  <text_reviews_count type="integer">706</text_reviews_count>
+  <title>Frankenstein; Or, the Modern Prometheus</title>
+  <title_without_series>Frankenstein; Or, the Modern Prometheus</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18488.Frankenstein_Or_the_Modern_Prometheus</link>
+  <num_pages>324</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Pocket Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.75</average_rating>
+  <ratings_count>861298</ratings_count>
+  <description>Mary Shelley’s Frankenstein is the world’s most famous Gothic novel about eccentric scientist Victor Frankenstein, who creates a grotesque creature in an unorthodox scientific experiment. Shelley's work is considered to be the world's first science fiction, with Frankenstein’s monster being a symbol of science gone awry. Shelley’s masterpiece has inspired numerous films, plays and other books. This, the 1831 edition, contains the author’s final revisions.</description>
+<authors>
+<author>
+<id>11139</id>
+<name>Mary Wollstonecraft Shelley</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p5/11139.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p2/11139.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/11139.Mary_Wollstonecraft_Shelley]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>884152</ratings_count>
+<text_reviews_count>20971</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">8923788</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Oct 22 10:11:30 -0700 2011</created_at>
+          <updated_at type="datetime">Sat Sep 07 04:39:21 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">100</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.acc00d37833da340bb535843ad2f719f</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body>Finished. Review to follow.</body>
+        </user_status>
+        <user_status>
+          <id type="integer">8858684</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>8</comments_count>
+          <created_at type="datetime">Tue Oct 18 12:32:08 -0700 2011</created_at>
+          <updated_at type="datetime">Tue Oct 18 12:32:08 -0700 2011</updated_at>
+          <last_comment_at type="datetime">Wed Oct 19 12:49:42 -0700 2011</last_comment_at>
+          <ratings_count type="integer">4</ratings_count>
+          <percent type="integer">61</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">8826882</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>5</comments_count>
+          <created_at type="datetime">Sun Oct 16 18:29:25 -0700 2011</created_at>
+          <updated_at type="datetime">Sat Sep 07 14:09:13 -0700 2013</updated_at>
+          <last_comment_at type="datetime">Mon Oct 17 05:42:23 -0700 2011</last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">55</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.5207aedf02854d8d0d8d840e873aaa20</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Feeling really sorry for the 'monster.']]></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">1251440005</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Wed Feb 24 14:12:44 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>4</rating>
+  <votes>57</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="epistolary-narrative" exclusive="false" review_shelf_id="39453986" sortable="false" />
+    <shelf name="zombie" exclusive="false" review_shelf_id="39453993" sortable="false" />
+    <shelf name="antihero" exclusive="false" review_shelf_id="39454020" sortable="false" />
+    <shelf name="owned-copy" exclusive="false" review_shelf_id="39723406" sortable="false" />
+    <shelf name="october-scare-fest-2011" exclusive="false" review_shelf_id="129442342" sortable="false" />
+    <shelf name="kindle-book" exclusive="false" review_shelf_id="144301959" sortable="false" />
+    <shelf name="philosophical-meanderings" exclusive="false" review_shelf_id="146313139" sortable="false" />
+    <shelf name="angsty-read" exclusive="false" review_shelf_id="146313203" sortable="false" />
+    <shelf name="all-things-autumn-challenge" exclusive="false" review_shelf_id="146313240" sortable="false" />
+    <shelf name="winter-cold-setting" exclusive="false" review_shelf_id="146313266" sortable="false" />
+    <shelf name="2011-reading" exclusive="false" review_shelf_id="160847433" sortable="false" />
+    <shelf name="classic-horror" exclusive="false" review_shelf_id="39453967" sortable="false" />
+    <shelf name="gothic-fiction" exclusive="false" review_shelf_id="39453975" sortable="false" />
+    <shelf name="mad-scientists" exclusive="false" review_shelf_id="146313182" sortable="false" />
+    <shelf name="classic" exclusive="false" review_shelf_id="225521382" sortable="false" />
+</shelves>
+  <recommended_for>Everyone</recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Oct 14 00:00:00 -0700 2011</started_at>
+  <read_at>Sat Oct 22 00:00:00 -0700 2011</read_at>
+  <date_added>Fri Oct 23 13:42:35 -0700 2009</date_added>
+  <date_updated>Thu Dec 12 12:27:05 -0800 2013</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Mary W. Shelley explored themes that still resonate today in her proto-science fiction work, Frankenstein. Themes of the relentless drive and search for ultimate (even forbidden) knowledge; intellectual arrogance; the desire to create something enduring; the need for love and recognition; and a s...]]>
+  </body>
+
+  
+
+  <comments_count>23</comments_count>
+    <comments start="1" end="23" total="23">
+        <comment>
+  <id>38657027</id>
+  <body><![CDATA[I read this book long ago. I remember it being sad and philosophical.]]></body>
+  
+  <user>
+    <id>3566496</id>
+    <name>Jan</name>
+    <display_name>Jan</display_name>
+
+    <location>Salt Lake City, UT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3566496-jan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487185387p3/3566496.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487185387p2/3566496.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Oct 19 10:31:02 -0700 2011</created_at>
+  <updated_at>Wed Oct 19 10:31:02 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>38662386</id>
+  <body><![CDATA[That's exactly the impression I'm getting, Jan.]]></body>
+  
+  <user>
+    <id>1570669</id>
+    <name><![CDATA[ Danielle The Book Huntress (Back to the Books)]]></name>
+    <display_name><![CDATA[ Danielle The Book Huntress (Back to the Books)]]></display_name>
+
+    <location>Round Rock, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1570669-danielle-the-book-huntress-back-to-the-books]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1403239075p3/1570669.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1403239075p2/1570669.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Oct 19 12:52:47 -0700 2011</created_at>
+  <updated_at>Wed Oct 19 12:52:47 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>38781791</id>
+  <body><![CDATA[I remember being frustrated with lengthy descriptions and I liked the monster better than the Dr.]]></body>
+  
+  <user>
+    <id>2437244</id>
+    <name>Pam</name>
+    <display_name>Pam</display_name>
+
+    <location>Derry, NH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2437244-pam]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1315711810p3/2437244.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1315711810p2/2437244.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 21 18:29:48 -0700 2011</created_at>
+  <updated_at>Fri Oct 21 18:29:48 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>38789969</id>
+  <body><![CDATA[I definitely find the creature to be a much more sympathetic character, Pam. And some of the descriptions go on way too long.]]></body>
+  
+  <user>
+    <id>1570669</id>
+    <name><![CDATA[ Danielle The Book Huntress (Back to the Books)]]></name>
+    <display_name><![CDATA[ Danielle The Book Huntress (Back to the Books)]]></display_name>
+
+    <location>Round Rock, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1570669-danielle-the-book-huntress-back-to-the-books]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1403239075p3/1570669.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1403239075p2/1570669.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 21 21:18:23 -0700 2011</created_at>
+  <updated_at>Fri Oct 21 21:18:23 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>38798549</id>
+  <body><![CDATA[The description's not as bad as other books I've read. At least it's flowery and poetic.]]></body>
+  
+  <user>
+    <id>6313408</id>
+    <name>Jonathan</name>
+    <display_name>Jonathan</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6313408-jonathan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478230200p3/6313408.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478230200p2/6313408.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Oct 22 06:34:33 -0700 2011</created_at>
+  <updated_at>Sat Oct 22 06:34:33 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>38840013</id>
+  <body><![CDATA[Wonderful review and clear summary of the Romantic ideas embodied in this book. Reading your review is a great refresher for this classic.]]></body>
+  
+  <user>
+    <id>5002634</id>
+    <name>Lemon</name>
+    <display_name>Lemon</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5002634-lemon]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1436954576p3/5002634.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1436954576p2/5002634.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Oct 22 21:29:37 -0700 2011</created_at>
+  <updated_at>Sat Oct 22 21:29:37 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>38840028</id>
+  <body><![CDATA[Thanks, Lulu!]]></body>
+  
+  <user>
+    <id>1570669</id>
+    <name><![CDATA[ Danielle The Book Huntress (Back to the Books)]]></name>
+    <display_name><![CDATA[ Danielle The Book Huntress (Back to the Books)]]></display_name>
+
+    <location>Round Rock, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1570669-danielle-the-book-huntress-back-to-the-books]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1403239075p3/1570669.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1403239075p2/1570669.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Oct 22 21:30:12 -0700 2011</created_at>
+  <updated_at>Sat Oct 22 21:30:12 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>38840283</id>
+  <body><![CDATA[Very good review. When you look up Mary Shelley and learn how difficult her life had been, then read how real and tortured the monster felt when he realized how alone he would always be. There is likely a connection. And to me, the most moving and sad writing and images come in the last chapters where Shelley describes the desloate Northern Wastes while the monster tells Frankesntien of his pain might be a glimpse inside Mary Shelly. <br /><br />Anyway. Very good review, Lady D. Thank you.]]></body>
+  
+  <user>
+    <id>5555043</id>
+    <name>The Pirate Ghost</name>
+    <display_name><![CDATA[The Pirate Ghost (Formerly known as the Curmudgeon)]]></display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5555043-the-pirate-ghost-formerly-known-as-the-curmudgeon]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1448462223p3/5555043.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1448462223p2/5555043.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Oct 22 21:36:18 -0700 2011</created_at>
+  <updated_at>Sat Oct 22 21:36:18 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>38840396</id>
+  <body><![CDATA[Thanks, Hugh.<br /><br />I can definitely see a possible catharsis that Mary Shelley was exhibiting for her own pain in this novel.]]></body>
+  
+  <user>
+    <id>1570669</id>
+    <name><![CDATA[ Danielle The Book Huntress (Back to the Books)]]></name>
+    <display_name><![CDATA[ Danielle The Book Huntress (Back to the Books)]]></display_name>
+
+    <location>Round Rock, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1570669-danielle-the-book-huntress-back-to-the-books]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1403239075p3/1570669.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1403239075p2/1570669.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Oct 22 21:38:56 -0700 2011</created_at>
+  <updated_at>Sat Oct 22 21:38:56 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>38840460</id>
+  <body><![CDATA[The record suggests it wasn't enough catharsis for healing, but there is something thereputic about being able to "tell people how you really feel inside." I'm sure she felt that.]]></body>
+  
+  <user>
+    <id>5555043</id>
+    <name>The Pirate Ghost</name>
+    <display_name><![CDATA[The Pirate Ghost (Formerly known as the Curmudgeon)]]></display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5555043-the-pirate-ghost-formerly-known-as-the-curmudgeon]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1448462223p3/5555043.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1448462223p2/5555043.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Oct 22 21:40:45 -0700 2011</created_at>
+  <updated_at>Sat Oct 22 21:40:45 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>38842058</id>
+  <body><![CDATA[Very insightful review. I personally feel that Frankenstein is so powerful because of its ending. I mean it ends with the comment from the 'beast' that perhaps Frankenstein was equally a monster for creating and abandoning him. "he suffered not in the consummation of the deed -- oh! not the ten-thousandth portion of the anguish that was mine during the lingering detail of its execution."]]></body>
+  
+  <user>
+    <id>6313408</id>
+    <name>Jonathan</name>
+    <display_name>Jonathan</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6313408-jonathan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478230200p3/6313408.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478230200p2/6313408.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Oct 22 22:30:05 -0700 2011</created_at>
+  <updated_at>Sat Oct 22 22:30:05 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>38854339</id>
+  <body><![CDATA[Thanks, Jonathan. I definitely see your point.]]></body>
+  
+  <user>
+    <id>1570669</id>
+    <name><![CDATA[ Danielle The Book Huntress (Back to the Books)]]></name>
+    <display_name><![CDATA[ Danielle The Book Huntress (Back to the Books)]]></display_name>
+
+    <location>Round Rock, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1570669-danielle-the-book-huntress-back-to-the-books]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1403239075p3/1570669.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1403239075p2/1570669.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Oct 23 08:20:03 -0700 2011</created_at>
+  <updated_at>Sun Oct 23 08:20:03 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>38858417</id>
+  <body><![CDATA[<i>Jonathan wrote: "Very insightful review. I personally feel that Frankenstein is so powerful because of its ending. I mean it ends with the comment from the 'beast' that perhaps Frankenstein was equally a monster fo..."</i><br /><br />I'm with you, I remember the end more than the rest of it for the same reason. Since he lived a tormented life, he wanted so very badly to show what it was like to Victor so that Victor would understand.]]></body>
+  
+  <user>
+    <id>5555043</id>
+    <name>The Pirate Ghost</name>
+    <display_name><![CDATA[The Pirate Ghost (Formerly known as the Curmudgeon)]]></display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5555043-the-pirate-ghost-formerly-known-as-the-curmudgeon]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1448462223p3/5555043.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1448462223p2/5555043.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Oct 23 09:44:21 -0700 2011</created_at>
+  <updated_at>Sun Oct 23 09:44:21 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>38906857</id>
+  <body><![CDATA[Great review. I was also struck by the sadness of the creature, and by how everything bad that happened is because Victor refused to take responsibility for his actions, and for his creation.]]></body>
+  
+  <user>
+    <id>5172893</id>
+    <name>Sesana</name>
+    <display_name>Sesana</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5172893-sesana]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1413088169p3/5172893.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1413088169p2/5172893.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 24 07:17:14 -0700 2011</created_at>
+  <updated_at>Mon Oct 24 07:17:14 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>38907038</id>
+  <body><![CDATA[Thanks, Sesana. This book made me feel so acutely for both the creature and towards Frankenstein.]]></body>
+  
+  <user>
+    <id>1570669</id>
+    <name><![CDATA[ Danielle The Book Huntress (Back to the Books)]]></name>
+    <display_name><![CDATA[ Danielle The Book Huntress (Back to the Books)]]></display_name>
+
+    <location>Round Rock, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1570669-danielle-the-book-huntress-back-to-the-books]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1403239075p3/1570669.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1403239075p2/1570669.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 24 07:23:24 -0700 2011</created_at>
+  <updated_at>Mon Oct 24 07:23:24 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>38918515</id>
+  <body><![CDATA[Thanks, Brian. <br /><br />Yeah, you have to wonder if she could have realized how prescient the ideas in this story are.]]></body>
+  
+  <user>
+    <id>1570669</id>
+    <name><![CDATA[ Danielle The Book Huntress (Back to the Books)]]></name>
+    <display_name><![CDATA[ Danielle The Book Huntress (Back to the Books)]]></display_name>
+
+    <location>Round Rock, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1570669-danielle-the-book-huntress-back-to-the-books]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1403239075p3/1570669.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1403239075p2/1570669.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 24 12:47:57 -0700 2011</created_at>
+  <updated_at>Mon Oct 24 12:47:57 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>38942723</id>
+  <body><![CDATA[One thing I do know is that she was inspired by her dreams when she came to write her story. And sometimes in dreams ideas come to the mind that are very prescient.]]></body>
+  
+  <user>
+    <id>6313408</id>
+    <name>Jonathan</name>
+    <display_name>Jonathan</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6313408-jonathan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478230200p3/6313408.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478230200p2/6313408.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 24 19:46:41 -0700 2011</created_at>
+  <updated_at>Mon Oct 24 19:46:41 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>38954922</id>
+  <body><![CDATA[Good point, Jonathan.]]></body>
+  
+  <user>
+    <id>1570669</id>
+    <name><![CDATA[ Danielle The Book Huntress (Back to the Books)]]></name>
+    <display_name><![CDATA[ Danielle The Book Huntress (Back to the Books)]]></display_name>
+
+    <location>Round Rock, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1570669-danielle-the-book-huntress-back-to-the-books]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1403239075p3/1570669.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1403239075p2/1570669.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 25 05:28:13 -0700 2011</created_at>
+  <updated_at>Tue Oct 25 05:28:13 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>38984922</id>
+  <body><![CDATA[Great review Dr. D!]]></body>
+  
+  <user>
+    <id>2716603</id>
+    <name>AgentScully</name>
+    <display_name>AgentScully</display_name>
+
+    <location>Toronto, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2716603-agentscully]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1271980950p3/2716603.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1271980950p2/2716603.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 25 17:12:36 -0700 2011</created_at>
+  <updated_at>Tue Oct 25 17:12:36 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>39008038</id>
+  <body><![CDATA[Thanks, Scully!]]></body>
+  
+  <user>
+    <id>1570669</id>
+    <name><![CDATA[ Danielle The Book Huntress (Back to the Books)]]></name>
+    <display_name><![CDATA[ Danielle The Book Huntress (Back to the Books)]]></display_name>
+
+    <location>Round Rock, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1570669-danielle-the-book-huntress-back-to-the-books]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1403239075p3/1570669.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1403239075p2/1570669.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Oct 26 06:25:45 -0700 2011</created_at>
+  <updated_at>Wed Oct 26 06:25:45 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>43980788</id>
+  <body><![CDATA[Love this! Had I not read the book before, this would encourage me to do so.]]></body>
+  
+  <user>
+    <id>7417586</id>
+    <name>Tammy</name>
+    <display_name>Tammy</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7417586-tammy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1474560874p3/7417586.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1474560874p2/7417586.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 23 12:36:16 -0800 2012</created_at>
+  <updated_at>Mon Jan 23 12:36:16 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>43982056</id>
+  <body><![CDATA[Thanks, Tammy. I'm glad I finally got around to reading this. Have you read The Picture of Dorian Gray? I highly recommend it!]]></body>
+  
+  <user>
+    <id>1570669</id>
+    <name><![CDATA[ Danielle The Book Huntress (Back to the Books)]]></name>
+    <display_name><![CDATA[ Danielle The Book Huntress (Back to the Books)]]></display_name>
+
+    <location>Round Rock, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1570669-danielle-the-book-huntress-back-to-the-books]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1403239075p3/1570669.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1403239075p2/1570669.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 23 12:59:10 -0800 2012</created_at>
+  <updated_at>Mon Jan 23 12:59:10 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>43982282</id>
+  <body><![CDATA[<i>Lady Danielle "The Book Huntress" wrote: "Thanks, Tammy. I'm glad I finally got around to reading this. Have you read The Picture of Dorian Gray? I highly recommend it!"</i><br />Not yet, no. I will add it to my 'to read' shelf ( I love this option btw, in the past I wrote notes to myself on what I wanted to read in the future and promptly lost them).]]></body>
+  
+  <user>
+    <id>7417586</id>
+    <name>Tammy</name>
+    <display_name>Tammy</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7417586-tammy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1474560874p3/7417586.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1474560874p2/7417586.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 23 13:03:00 -0800 2012</created_at>
+  <updated_at>Mon Jan 23 13:03:00 -0800 2012</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/75518466]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/75518466]]></link>
+    <owned>1</owned>
+</review>
+
+
+</GoodreadsResponse>

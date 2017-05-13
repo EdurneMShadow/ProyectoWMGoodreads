@@ -1,0 +1,153 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:37:44 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: C441BJAW0Y51QY340TYW
+etag: W/"18b52dd918e1b227c114a4f3ca3b468a"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.207238
+set-cookie: csid=BAhJIhg5NjEtNTcwODY0NC0xMjM0ODY0BjoGRVQ%3D--7e266bd77d3d3ec5c946a052ed7d7073e9415ad0; path=/; expires=Tue, 12 May 2037 13:37:44 -0000, locale=es; path=/, _session_id2=e404653bb83f91ed56079cff7789628e; path=/; expires=Fri, 12 May 2017 19:37:44 -0000; HttpOnly
+content-length: 5546
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=12233523
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>12233523</id>
+    
+  <user>
+    <id>768313</id>
+    <name>Anna</name>
+    <display_name>Anna</display_name>
+
+    <location>Minneapolis, MN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/768313-anna]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">2865</id>
+  <isbn>0452287022</isbn>
+  <isbn13>9780452287020</isbn13>
+  <text_reviews_count type="integer">5908</text_reviews_count>
+  <title>Girl with a Pearl Earring</title>
+  <title_without_series>Girl with a Pearl Earring</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1327197580m/2865.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1327197580s/2865.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2865.Girl_with_a_Pearl_Earring</link>
+  <num_pages>233</num_pages>
+  <format>Paperback</format>
+  <edition_information> Deluxe Edition</edition_information>
+  <publisher>Plume/Penguin</publisher>
+  <publication_day/>
+  <publication_year>2005</publication_year>
+  <publication_month/>
+  <average_rating>3.84</average_rating>
+  <ratings_count>479287</ratings_count>
+  <description>With precisely 35 canvases to his credit, the Dutch painter Johannes Vermeer represents one of the great enigmas of 17th-century art. The meager facts of his biography have been gleaned from a handful of legal documents. Yet Vermeer's extraordinary paintings of domestic life, with their subtle play of light and texture, have come to define the Dutch golden age. His portrait of the anonymous Girl with a Pearl Earring has exerted a particular fascination for centuries - and it is this magnetic painting that lies at the heart of Tracy Chevalier's second novel of the same title.&lt;br /&gt;&lt;i&gt;Girl with a Pearl Earring&lt;/i&gt; centers on Vermeer's prosperous Delft household during the 1660s. When Griet, the novel's quietly perceptive heroine, is hired as a servant, turmoil follows. First, the 16-year-old narrator becomes increasingly intimate with her master. Then Vermeer employs her as his assistant--and ultimately has Griet sit for him as a model.</description>
+<authors>
+<author>
+<id>1973</id>
+<name>Tracy Chevalier</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1439297099p5/1973.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1439297099p2/1973.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1973.Tracy_Chevalier]]></link>
+<average_rating>3.80</average_rating>
+<ratings_count>635156</ratings_count>
+<text_reviews_count>22574</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1379210955</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Fri Jun 03 12:22:37 -0700 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>33</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Fri Apr 01 00:00:00 -0800 2005</read_at>
+  <date_added>Fri Jan 11 06:38:58 -0800 2008</date_added>
+  <date_updated>Fri Jan 11 07:27:24 -0800 2008</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This book features one of my favorite book heroines of all time. Griet is competent, intelligent and observant. She possesses the laudable ability to maneuver 17th century Delft in a shrewd and practical manner while still retaining her love of art; finding beauty in even mundane things.<br /><br />Griet has...]]>
+  </body>
+
+  
+
+  <comments_count>1</comments_count>
+    <comments start="1" end="1" total="1">
+        <comment>
+  <id>102061935</id>
+  <body><![CDATA[Excellent review...I respect the one who wrote this...:)]]></body>
+  
+  <user>
+    <id>32559283</id>
+    <name>Karthik</name>
+    <display_name>Karthik</display_name>
+
+    <location>Pune, 16, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32559283-karthik]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat Jul 12 03:12:41 -0700 2014</created_at>
+  <updated_at>Sat Jul 12 03:12:41 -0700 2014</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/12233523]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/12233523]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

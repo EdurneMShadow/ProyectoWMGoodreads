@@ -1,0 +1,366 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:43:18 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: EBKHK17PAK1PQC8Y0A0G
+etag: W/"b5658ca02049d733883f8ddd1a1b12cb"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.220666
+set-cookie: csid=BAhJIhg4NjMtMzU1NjYyNy0wMzAwMTczBjoGRVQ%3D--dc2533e89abc21f9201d50327f3a858d7a2f0a44; path=/; expires=Tue, 12 May 2037 13:43:18 -0000, locale=es; path=/, _session_id2=0df3920bebe70ff9467e5c24accb3291; path=/; expires=Fri, 12 May 2017 19:43:18 -0000; HttpOnly
+content-length: 13025
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=143738198
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>143738198</id>
+    
+  <user>
+    <id>4878104</id>
+    <name>Loederkoningin</name>
+    <display_name>Loederkoningin</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4878104-loederkoningin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1473787095p3/4878104.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1473787095p2/4878104.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">5907</id>
+  <isbn>0618260307</isbn>
+  <isbn13>9780618260300</isbn13>
+  <text_reviews_count type="integer">27659</text_reviews_count>
+  <title>The Hobbit</title>
+  <title_without_series>The Hobbit</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1372847500m/5907.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1372847500s/5907.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/5907.The_Hobbit</link>
+  <num_pages>366</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Houghton Mifflin</publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.24</average_rating>
+  <ratings_count>2152106</ratings_count>
+  <description>&lt;i&gt;In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a hobbit-hole, and that means comfort.&lt;br /&gt;&lt;br /&gt;&lt;/i&gt;Written for J.R.R. Tolkien’s own children, &lt;i&gt;The Hobbit&lt;/i&gt; met with instant critical acclaim when it was first published in 1937. Now recognized as a timeless classic, this introduction to the hobbit Bilbo Baggins, the wizard Gandalf, Gollum, and the spectacular world of Middle-earth recounts of the adventures of a reluctant hero, a powerful and dangerous ring, and the cruel dragon Smaug the Magnificent. The text in this 372-page paperback edition is based on that first published in Great Britain by Collins Modern Classics (1998), and includes a note on the text by Douglas A. Anderson (2001). Unforgettable!&lt;br /&gt;</description>
+<authors>
+<author>
+<id>656983</id>
+<name>J.R.R. Tolkien</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1434625177p5/656983.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1434625177p2/656983.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
+<average_rating>4.31</average_rating>
+<ratings_count>6140649</ratings_count>
+<text_reviews_count>91666</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1265034957</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sat Mar 05 04:25:21 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>4</rating>
+  <votes>60</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="childrens" exclusive="false" review_shelf_id="1105558023" sortable="false" />
+    <shelf name="classics" exclusive="false" review_shelf_id="1105558133" sortable="false" />
+    <shelf name="sweet-nostalgia" exclusive="false" review_shelf_id="88846978" sortable="false" />
+    <shelf name="high-fantasy" exclusive="false" review_shelf_id="195838919" sortable="false" />
+    <shelf name="heartwarming" exclusive="false" review_shelf_id="219859332" sortable="false" />
+    <shelf name="adventure" exclusive="false" review_shelf_id="1105558118" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jan 26 08:06:49 -0800 2011</date_added>
+  <date_updated>Mon Oct 12 03:21:26 -0700 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[The Hobbit and LOTR are so epic that even now when I go on a hike, I always pretend that my chocolate chip cookies to go are actually Lembas.]]>
+  </body>
+
+  
+
+  <comments_count>10</comments_count>
+    <comments start="1" end="10" total="10">
+        <comment>
+  <id>72187038</id>
+  <body><![CDATA[Stop being perfect.<br />Yes, they are absolutely amazing :)]]></body>
+  
+  <user>
+    <id>19475787</id>
+    <name>Holly</name>
+    <display_name>Holly Zalmstra</display_name>
+
+    <location>Perth, 08, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/19475787-holly-zalmstra]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1366111233p3/19475787.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1366111233p2/19475787.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Apr 16 06:33:34 -0700 2013</created_at>
+  <updated_at>Tue Apr 16 06:33:34 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>72682798</id>
+  <body><![CDATA[Thanks Holly.:) When you grow up with your dad reading from them at night, they definitely become a part of you.]]></body>
+  
+  <user>
+    <id>4878104</id>
+    <name>Loederkoningin</name>
+    <display_name>Loederkoningin</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4878104-loederkoningin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1473787095p3/4878104.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1473787095p2/4878104.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Apr 23 09:33:03 -0700 2013</created_at>
+  <updated_at>Tue Apr 23 09:33:03 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>72715115</id>
+  <body><![CDATA[I wish I could like them...]]></body>
+  
+  <user>
+    <id>5666413</id>
+    <name>Erika</name>
+    <display_name>Erika</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5666413-erika]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1361128945p3/5666413.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1361128945p2/5666413.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Apr 23 18:06:42 -0700 2013</created_at>
+  <updated_at>Tue Apr 23 18:06:42 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>72729659</id>
+  <body><![CDATA[Aw, I wish I'd had this read to me when I was younger.]]></body>
+  
+  <user>
+    <id>4013351</id>
+    <name>Stacia (the 2010 club)</name>
+    <display_name>Stacia (the 2010 club)</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4013351-stacia-the-2010-club]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1417661051p3/4013351.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1417661051p2/4013351.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Apr 23 23:37:25 -0700 2013</created_at>
+  <updated_at>Tue Apr 23 23:37:25 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>72737207</id>
+  <body><![CDATA[Totally agree Kat, they <b>are</b> epic!!]]></body>
+  
+  <user>
+    <id>7981483</id>
+    <name>Bev</name>
+    <display_name>Bev</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7981483-bev]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483693364p3/7981483.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483693364p2/7981483.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Apr 24 05:10:26 -0700 2013</created_at>
+  <updated_at>Wed Apr 24 05:10:26 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>72756059</id>
+  <body><![CDATA[<i>Erika wrote: "I wish I could like them..."</i><br /><br /><i>Stacia (Ace 3:16) wrote: "Aw, I wish I'd had this read to me when I was younger."</i><br /><br />I think that would've made all the difference. If I would read them for the first time, being who I am now, I don't think I'd enjoy them as much. Certain things would irk me. Nostalgia makes almost everything deliciously good.:)<br /><br />Except maybe He-Man.]]></body>
+  
+  <user>
+    <id>4878104</id>
+    <name>Loederkoningin</name>
+    <display_name>Loederkoningin</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4878104-loederkoningin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1473787095p3/4878104.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1473787095p2/4878104.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Apr 24 11:54:15 -0700 2013</created_at>
+  <updated_at>Wed Apr 24 11:54:15 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>72756083</id>
+  <body><![CDATA[<i>Bev wrote: "Totally agree Kat, they are epic!!"</i><br /><br />:D]]></body>
+  
+  <user>
+    <id>4878104</id>
+    <name>Loederkoningin</name>
+    <display_name>Loederkoningin</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4878104-loederkoningin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1473787095p3/4878104.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1473787095p2/4878104.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Apr 24 11:54:34 -0700 2013</created_at>
+  <updated_at>Wed Apr 24 11:54:34 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>81673733</id>
+  <body><![CDATA[Although, the cookies must taste better than Lembas]]></body>
+  
+  <user>
+    <id>17288380</id>
+    <name>Isabella</name>
+    <display_name>Isabella</display_name>
+
+    <location>Spokane, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17288380-isabella]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1377049515p3/17288380.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1377049515p2/17288380.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 27 14:31:17 -0700 2013</created_at>
+  <updated_at>Tue Aug 27 14:31:17 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>141326577</id>
+  <body><![CDATA[Even two years later... I must give those elves the benefit of the doubt here. Surely they're capable of cooking up something that tastes better than chocolate? Lembas is supposed to taste much better than Cram, that I know. God, I feel so dorky now.]]></body>
+  
+  <user>
+    <id>4878104</id>
+    <name>Loederkoningin</name>
+    <display_name>Loederkoningin</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4878104-loederkoningin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1473787095p3/4878104.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1473787095p2/4878104.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Oct 11 09:47:49 -0700 2015</created_at>
+  <updated_at>Sun Oct 11 09:47:49 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>160233074</id>
+  <body><![CDATA[It was my mom who read The Hobbit to me at four years old so probably a bit of nostalgia too, and the fact that Bilbo's love of food sent me craving something serious.]]></body>
+  
+  <user>
+    <id>61762569</id>
+    <name>Aaron</name>
+    <display_name>Aaron</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/61762569-aaron]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1479707621p3/61762569.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1479707621p2/61762569.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Dec 14 23:45:14 -0800 2016</created_at>
+  <updated_at>Wed Dec 14 23:45:14 -0800 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/143738198]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/143738198]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

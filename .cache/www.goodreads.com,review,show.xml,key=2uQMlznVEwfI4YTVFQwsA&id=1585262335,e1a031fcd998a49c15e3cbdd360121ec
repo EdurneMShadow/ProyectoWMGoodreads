@@ -1,0 +1,190 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:48:10 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: ZXYXEKJ4EVBHJ6R59S17
+etag: W/"3f62a7c397671552566b640f749cc18d"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.146250
+set-cookie: csid=BAhJIhgyODctODE5NjkwMi0wNDEzMDc5BjoGRVQ%3D--09e5478e124ff29b5a5aa591b35cfdb092e24b4d; path=/; expires=Tue, 12 May 2037 13:48:10 -0000, locale=es; path=/, _session_id2=6d4127e72d3918d725b77060ec442440; path=/; expires=Fri, 12 May 2017 19:48:10 -0000; HttpOnly
+content-length: 6306
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=1585262335
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1585262335</id>
+    
+  <user>
+    <id>44529586</id>
+    <name>Shahd</name>
+    <display_name>Shahd</display_name>
+
+    <location>Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/44529586-shahd]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1459180041p3/44529586.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1459180041p2/44529586.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">2880</id>
+  <isbn>1591164419</isbn>
+  <isbn13>9781591164418</isbn13>
+  <text_reviews_count type="integer">834</text_reviews_count>
+  <title>Bleach, Volume 01</title>
+  <title_without_series>Bleach, Volume 01</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2880.Bleach_Volume_01</link>
+  <num_pages>200</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>VIZ Media LLC</publisher>
+  <publication_day>19</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.21</average_rating>
+  <ratings_count>117199</ratings_count>
+  <description>Hot-tempered 15-year-old Ichigo Kurosaki, the hero of the popular fantasy-adventure &lt;i&gt;
+  &lt;b&gt;
+    &lt;u&gt;Bleach&lt;/u&gt;
+  &lt;/b&gt;
+&lt;/i&gt;, has the unsettling ability to see spirits who are unable to rest in peace. His sixth sense leads him to Rukia, a Soul Reaper who destroys &lt;i&gt;Hollows&lt;/i&gt; (soul-devouring monsters) and ensures the deceased find repose with the Soul Society. When she's injured in battle, Rukia transfers her sword and much of her power to Ichigo, whose spiritual energy makes him a formidable substitute Soul Reaper. But the orange-haired teenager isn't sure he wants the job: too many risks and moral dilemmas.</description>
+<authors>
+<author>
+<id>1977</id>
+<name>Tite Kubo</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1253238688p5/1977.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1253238688p2/1977.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1977.Tite_Kubo]]></link>
+<average_rating>4.28</average_rating>
+<ratings_count>389029</ratings_count>
+<text_reviews_count>4580</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">92186692</id>
+          <page type="integer">200</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Mar 25 13:53:34 -0700 2016</created_at>
+          <updated_at type="datetime">Fri Mar 25 13:53:34 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">100</percent>
+          <work_id type="integer">1854946</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">1291489788</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Fri Mar 25 13:53:46 -0700 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1291311558</id>
+          <old_status>to-read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Fri Mar 25 11:03:56 -0700 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1284742911</id>
+          <old_status></old_status>
+          <status>to-read</status>
+          <updated_at type="datetime">Sun Mar 20 09:44:57 -0700 2016</updated_at>
+          <ratings_count>1</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>4</rating>
+  <votes>2</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Mar 25 00:00:00 -0700 2016</started_at>
+  <read_at>Fri Mar 25 16:14:09 -0700 2016</read_at>
+  <date_added>Sun Mar 20 09:44:56 -0700 2016</date_added>
+  <date_updated>Fri Mar 25 13:53:57 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      predictable but funny
+  </body>
+
+  
+
+  <comments_count>1</comments_count>
+    <comments start="1" end="1" total="1">
+        <comment>
+  <id>149437123</id>
+  <body><![CDATA[]]></body>
+  
+  <user>
+    <id>39687133</id>
+    <name>Manar</name>
+    <display_name>Manar Aburiyana</display_name>
+
+    <location>Halifax, NS, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/39687133-manar-aburiyana]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1455316281p3/39687133.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1455316281p2/39687133.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 25 20:06:38 -0700 2016</created_at>
+  <updated_at>Fri Mar 25 20:06:38 -0700 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1585262335]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1585262335]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

@@ -1,0 +1,464 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:45:55 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: 2FJE6S1ZYSV5VT9Y0676
+etag: W/"51b63972e4aa575c36985d9e48f8f74a"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.271315
+set-cookie: csid=BAhJIhgwMjktNjg0ODcwMC02NTYwMDc2BjoGRVQ%3D--0fd9c3aca546f2d7aea5dfe0bfd78eea03eef4b5; path=/; expires=Tue, 12 May 2037 13:45:55 -0000, locale=es; path=/, _session_id2=aa3452d5af84eb803f2c66e3c7713520; path=/; expires=Fri, 12 May 2017 19:45:55 -0000; HttpOnly
+content-length: 16883
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=882178969
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>882178969</id>
+    
+  <user>
+    <id>27788046</id>
+    <name>Bookdragon Sean </name>
+    <display_name>Bookdragon Sean </display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27788046-bookdragon-sean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488703660p3/27788046.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488703660p2/27788046.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">72193</id>
+  <isbn>0747532745</isbn>
+  <isbn13>9780747532743</isbn13>
+  <text_reviews_count type="integer">2278</text_reviews_count>
+  <title>Harry Potter and the Philosopher's Stone (Harry Potter, #1)</title>
+  <title_without_series>Harry Potter and the Philosopher's Stone</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1327190600m/72193.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1327190600s/72193.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/72193.Harry_Potter_and_the_Philosopher_s_Stone</link>
+  <num_pages>223</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Bloomsbury Publishing</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>1997</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.44</average_rating>
+  <ratings_count>4620068</ratings_count>
+  <description>Harry Potter thinks he is an ordinary boy - until he is rescued by an owl, taken to Hogwarts School of Witchcraft and Wizardry, learns to play Quidditch and does battle in a deadly duel. The Reason ... HARRY POTTER IS A WIZARD!</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1415945171p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1415945171p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.42</average_rating>
+<ratings_count>17716685</ratings_count>
+<text_reviews_count>439511</text_reviews_count>
+</author>
+</authors>
+  <published>1997</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1530179638</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Oct 02 01:23:18 -0700 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1466087305</id>
+          <old_status>read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Wed Aug 10 10:28:54 -0700 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">356017333</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Mar 16 16:12:04 -0700 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">354350441</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Sat Mar 15 07:36:19 -0700 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>246</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="children-of-all-ages" exclusive="false" review_shelf_id="1224695264" sortable="false" />
+    <shelf name="fantasy" exclusive="false" review_shelf_id="1224695265" sortable="false" />
+    <shelf name="5-star-reads" exclusive="false" review_shelf_id="1224695266" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Mar 15 00:00:00 -0700 2014</started_at>
+  <read_at>Sun Mar 16 00:00:00 -0700 2014</read_at>
+  <date_added>Sat Mar 15 07:36:19 -0700 2014</date_added>
+  <date_updated>Sun Oct 02 22:14:29 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Here are three reasons why Harry Potter rocks my socks:<br /><br /><b>1.A Better World</b><br /><br />One of the main reasons <i>Harry Potter</i> is so wonderful is because Rowling shows you a boring world; it is the world of reality, dry, boring and ordinary. Then under it she reveals fantasy; she reveals everything a reader longs f...]]>
+  </body>
+
+  
+
+  <comments_count>14</comments_count>
+    <comments start="1" end="14" total="14">
+        <comment>
+  <id>151207007</id>
+  <body><![CDATA[I thought the same way as you. It surprised me how versatile it is.]]></body>
+  
+  <created_at>Tue May 03 17:02:29 -0700 2016</created_at>
+  <updated_at>Tue May 03 17:02:29 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155385661</id>
+  <body><![CDATA[Good, I'm looking forward to your review :)<br />I'm wrestling my way through tCC now and though it amuses me from time to time, it could have been so much better!]]></body>
+  
+  <user>
+    <id>39707205</id>
+    <name>Alice</name>
+    <display_name>Alice</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/39707205-alice]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1489492216p3/39707205.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1489492216p2/39707205.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 10 10:51:27 -0700 2016</created_at>
+  <updated_at>Wed Aug 10 10:51:27 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155411548</id>
+  <body><![CDATA[After watching a few in depth Booktube reviews, your reaction only cements my initial wariness towards what is basically sanctioned fanfic. I ain't touching it with a ten-foot pole! :/]]></body>
+  
+  <user>
+    <id>4846819</id>
+    <name><![CDATA[Anna (Curiosity comes before Kay)]]></name>
+    <display_name><![CDATA[Anna (Curiosity comes before Kay)]]></display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4846819-anna-curiosity-comes-before-kay]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1494531603p3/4846819.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1494531603p2/4846819.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 11 01:28:44 -0700 2016</created_at>
+  <updated_at>Thu Aug 11 01:28:44 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155412766</id>
+  <body><![CDATA[I like to pretend that the last book (#7) ended without including the epilogue. Makes it better and one can imagine by oneself what happened afterwards :)]]></body>
+  
+  <user>
+    <id>28266234</id>
+    <name>7jane</name>
+    <display_name>7jane</display_name>
+
+    <location>Turku, Finland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/28266234-7jane]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1391265302p3/28266234.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1391265302p2/28266234.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 11 02:53:51 -0700 2016</created_at>
+  <updated_at>Thu Aug 11 02:53:51 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155431058</id>
+  <body><![CDATA[<i>7jane wrote: "I like to pretend that the last book (#7) ended without including the epilogue. Makes it better and one can imagine by oneself what happened afterwards :)"</i><br /><br />I always hated the epilogue. To me (and my brother agrees) it always read like extremely bad my-first-fanfic from an eight year old...]]></body>
+  
+  <user>
+    <id>4846819</id>
+    <name><![CDATA[Anna (Curiosity comes before Kay)]]></name>
+    <display_name><![CDATA[Anna (Curiosity comes before Kay)]]></display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4846819-anna-curiosity-comes-before-kay]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1494531603p3/4846819.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1494531603p2/4846819.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 11 12:51:56 -0700 2016</created_at>
+  <updated_at>Thu Aug 11 12:51:56 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155768165</id>
+  <body><![CDATA[So true!]]></body>
+  
+  <user>
+    <id>25988362</id>
+    <name>♛ Garima ♛</name>
+    <display_name>♛ Garima ♛</display_name>
+
+    <location>Pune, MH, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25988362-garima]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1490364938p3/25988362.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1490364938p2/25988362.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 20 03:06:56 -0700 2016</created_at>
+  <updated_at>Sat Aug 20 03:06:56 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>156082678</id>
+  <body><![CDATA[I don't even view the Cursed Child as part of Harry Potter. It's horrendous and most of all its whether Potter nor Rowling. <br />I should re-read to, just to make sure that the ban Potter lay on me still exists. <br />Actually, Potterheads should start calling the Cursed Child The-Book-That-Must-Not-Be-Named.]]></body>
+  
+  <user>
+    <id>52891598</id>
+    <name>Agnes</name>
+    <display_name>Agnes S</display_name>
+
+    <location>Germany</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52891598-agnes-s]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1491423680p3/52891598.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1491423680p2/52891598.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 28 04:03:59 -0700 2016</created_at>
+  <updated_at>Sun Aug 28 04:03:59 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157161167</id>
+  <body><![CDATA[Sean, when you get invited, put a good word for me, please. :)]]></body>
+  
+  <user>
+    <id>48492241</id>
+    <name>George</name>
+    <display_name>George Jankovic</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/48492241-george-jankovic]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492530766p3/48492241.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492530766p2/48492241.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 23 02:49:12 -0700 2016</created_at>
+  <updated_at>Fri Sep 23 02:49:12 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157499311</id>
+  <body><![CDATA[I am currently reading this for the first time! loving it!]]></body>
+  
+  <user>
+    <id>46155130</id>
+    <name>Megan</name>
+    <display_name>Megan Kleynsmith</display_name>
+
+    <location>South Africa</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/46155130-megan-kleynsmith]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1484653394p3/46155130.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1484653394p2/46155130.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Oct 02 03:23:29 -0700 2016</created_at>
+  <updated_at>Sun Oct 02 03:23:29 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157512609</id>
+  <body><![CDATA[Currently rereading Harry Potter books with my son, he enjoyed reading but have never heard him so excited to talk about a book with me! We're starting Prisoner of Azkaban tonight :)]]></body>
+  
+  <user>
+    <id>4865432</id>
+    <name>Chelle</name>
+    <display_name>Chelle</display_name>
+
+    <location><![CDATA[birmingham, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4865432-chelle]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1461529781p3/4865432.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1461529781p2/4865432.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Oct 02 11:35:34 -0700 2016</created_at>
+  <updated_at>Sun Oct 02 11:35:34 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157547009</id>
+  <body><![CDATA[is this your first time reading the whole series? If so, I hope you enjoy reading it.]]></body>
+  
+  <user>
+    <id>23016460</id>
+    <name>Amber</name>
+    <display_name>Amber</display_name>
+
+    <location>Readyville, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23016460-amber]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1420736662p3/23016460.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1420736662p2/23016460.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 03 08:57:23 -0700 2016</created_at>
+  <updated_at>Mon Oct 03 08:57:23 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159775751</id>
+  <body><![CDATA[I love magic so much]]></body>
+  
+  <user>
+    <id>48426578</id>
+    <name>Littlereader</name>
+    <display_name>Littlereader</display_name>
+
+    <location><![CDATA[Sheffield, L9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/48426578-littlereader]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Dec 02 11:11:11 -0800 2016</created_at>
+  <updated_at>Fri Dec 02 11:11:11 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>163561854</id>
+  <body><![CDATA[I agree with everything you said it's nostalgic and the we all want to escape to a world like Hogwarts and feel like we belong somewhere. Probably one of the most accurate post about this book I've seen yet. I just love it!]]></body>
+  
+  <user>
+    <id>65582529</id>
+    <name>Sara</name>
+    <display_name>Sara</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/65582529-sara]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488626851p3/65582529.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488626851p2/65582529.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Mar 05 09:18:59 -0800 2017</created_at>
+  <updated_at>Sun Mar 05 09:18:59 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>163562834</id>
+  <body><![CDATA[<i>Sara wrote: "I agree with everything you said it's nostalgic and the we all want to escape to a world like Hogwarts and feel like we belong somewhere. Probably one of the most accurate post about this book I've..."</i><br /><br />thanks that's nice to hear! :)]]></body>
+  
+  <user>
+    <id>27788046</id>
+    <name>Bookdragon Sean </name>
+    <display_name>Bookdragon Sean </display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27788046-bookdragon-sean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488703660p3/27788046.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488703660p2/27788046.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Mar 05 09:47:54 -0800 2017</created_at>
+  <updated_at>Sun Mar 05 09:47:54 -0800 2017</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/882178969]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/882178969]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

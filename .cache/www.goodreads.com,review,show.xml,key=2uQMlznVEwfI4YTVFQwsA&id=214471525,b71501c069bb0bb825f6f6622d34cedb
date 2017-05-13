@@ -1,0 +1,1135 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:39:49 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: VJMEN5GSPBVM56EZMN6A
+etag: W/"357ac054e5036205d8d8a2150b428f95"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.374242
+set-cookie: csid=BAhJIhgxNTEtMzg5MzE1OS0zMDc1OTcxBjoGRVQ%3D--8520df3f18ca4f1bb115a1d634123d3a48c384ed; path=/; expires=Tue, 12 May 2037 13:39:48 -0000, locale=es; path=/, _session_id2=d2c75d28a5e64e484e303200ef1e9052; path=/; expires=Fri, 12 May 2017 19:39:49 -0000; HttpOnly
+content-length: 56520
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=214471525
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>214471525</id>
+    
+  <user>
+    <id>6431467</id>
+    <name>s.penkevich</name>
+    <display_name>s.penkevich</display_name>
+
+    <location>Holland, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6431467-s-penkevich]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487244329p3/6431467.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487244329p2/6431467.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">2657</id>
+  <isbn>0061120081</isbn>
+  <isbn13>9780061120084</isbn13>
+  <text_reviews_count type="integer">57655</text_reviews_count>
+  <title>To Kill a Mockingbird</title>
+  <title_without_series>To Kill a Mockingbird</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1361975680m/2657.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1361975680s/2657.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2657.To_Kill_a_Mockingbird</link>
+  <num_pages>324</num_pages>
+  <format>Paperback</format>
+  <edition_information>50th Anniversary</edition_information>
+  <publisher>Harper Perennial Modern Classics</publisher>
+  <publication_day>23</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.25</average_rating>
+  <ratings_count>3269503</ratings_count>
+  <description>The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it, To Kill A Mockingbird became both an instant bestseller and a critical success when it was first published in 1960. It went on to win the Pulitzer Prize in 1961 and was later made into an Academy Award-winning film, also a classic.&lt;br /&gt;&lt;br /&gt;Compassionate, dramatic, and deeply moving, To Kill A Mockingbird takes readers to the roots of human behavior - to innocence and experience, kindness and cruelty, love and hatred, humor and pathos. Now with over 18 million copies in print and translated into forty languages, this regional story by a young Alabama woman claims universal appeal. Harper Lee always considered her book to be a simple love story. Today it is regarded as a masterpiece of American literature.</description>
+<authors>
+<author>
+<id>1825</id>
+<name>Harper Lee</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1188820730p5/1825.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1188820730p2/1825.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1825.Harper_Lee]]></link>
+<average_rating>4.21</average_rating>
+<ratings_count>3434236</ratings_count>
+<text_reviews_count>95107</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1326732829</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Fri Apr 22 07:46:51 -0700 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>4</rating>
+  <votes>113</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="society" exclusive="false" review_shelf_id="826714881" sortable="false" />
+    <shelf name="americana" exclusive="false" review_shelf_id="826714740" sortable="false" />
+    <shelf name="racism" exclusive="false" review_shelf_id="826714784" sortable="false" />
+    <shelf name="times-100-best" exclusive="false" review_shelf_id="162407214" sortable="false" />
+    <shelf name="coming-of-age" exclusive="false" review_shelf_id="826714687" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Sep 24 08:39:01 -0700 2011</date_added>
+  <date_updated>Tue Nov 11 16:04:34 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[‘<i>You never really understand a person until you consider things from his point of view... Until you climb inside of his skin and walk around in it.</i>’<br /><br />Harper Lee’s <i>To Kill A Mockingbird</i> is an undisputed classic that few will avoid having read in their lifetime, and those few are to be pitied. As I h...]]>
+  </body>
+
+  
+
+  <comments_count>44</comments_count>
+    <comments start="1" end="44" total="44">
+        <comment>
+  <id>108984075</id>
+  <body><![CDATA[hahaha, Catticus Finch, love it.]]></body>
+  
+  <user>
+    <id>5859453</id>
+    <name>Arah-Lynda</name>
+    <display_name>Arah-Lynda</display_name>
+
+    <location>Kitchener, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5859453-arah-lynda]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492957789p3/5859453.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492957789p2/5859453.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Nov 06 15:12:18 -0800 2014</created_at>
+  <updated_at>Thu Nov 06 15:12:18 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>108984701</id>
+  <body><![CDATA[Catticus Finch of Meowcomb.]]></body>
+  
+  <created_at>Thu Nov 06 15:25:00 -0800 2014</created_at>
+  <updated_at>Thu Nov 06 15:25:00 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>108986247</id>
+  <body><![CDATA[Fantastic review. I'm currently re-reading TKAM for the first time in years, in order to teach it to my ninth grade English class. I'm having a similar experience to what you detailed here, and your last two paragraphs are spot-on. Living in a small town in the South, the students are connecting to it especially well - Lee really captures the small town relationships and overall feeling so well.]]></body>
+  
+  <user>
+    <id>10227281</id>
+    <name>Garrett</name>
+    <display_name>Garrett Peace</display_name>
+
+    <location>Ringgold, GA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10227281-garrett-peace]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1345855598p3/10227281.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1345855598p2/10227281.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Nov 06 15:56:55 -0800 2014</created_at>
+  <updated_at>Thu Nov 06 15:56:55 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>108986526</id>
+  <body><![CDATA[Catticus Finch and I!<br><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1415318621i/11771071._SY540_.jpg" class="gr-hostedUserImg">]]></body>
+  
+  <user>
+    <id>6431467</id>
+    <name>s.penkevich</name>
+    <display_name>s.penkevich</display_name>
+
+    <location>Holland, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6431467-s-penkevich]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487244329p3/6431467.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487244329p2/6431467.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Nov 06 16:03:41 -0800 2014</created_at>
+  <updated_at>Thu Nov 06 16:03:41 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>108986645</id>
+  <body><![CDATA[<i>Garrett wrote: "Fantastic review. I'm currently re-reading TKAM for the first time in years, in order to teach it to my ninth grade English class. I'm having a similar experience to what you detailed here, and you..."</i><br /><br />Thank you so much! I was just discussing how I wonder the reception this gets in southern states, especially as there is so much discussion on 'southern tradition', so that is cool to hear they really connect. Funny too, I have also worked with this book for a 9th grade English class as well, it seems the ideal time to teach the book.]]></body>
+  
+  <user>
+    <id>6431467</id>
+    <name>s.penkevich</name>
+    <display_name>s.penkevich</display_name>
+
+    <location>Holland, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6431467-s-penkevich]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487244329p3/6431467.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487244329p2/6431467.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Nov 06 16:06:05 -0800 2014</created_at>
+  <updated_at>Thu Nov 06 16:06:05 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>108988771</id>
+  <body><![CDATA[<i>s.penkevich wrote: "Catticus Finch and I!<br />"</i><br /><br />purrfect]]></body>
+  
+  <user>
+    <id>5859453</id>
+    <name>Arah-Lynda</name>
+    <display_name>Arah-Lynda</display_name>
+
+    <location>Kitchener, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5859453-arah-lynda]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492957789p3/5859453.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492957789p2/5859453.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Nov 06 16:47:47 -0800 2014</created_at>
+  <updated_at>Thu Nov 06 16:47:47 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>108995553</id>
+  <body><![CDATA[Terrific experience to revisit this classic as seen from your adult perspective. I read it as I child and I've always been afraid to re-read it because I was afraid that it would disappoint me. You've put that fear to rest - and offered some brilliant insights as well.]]></body>
+  
+  <user>
+    <id>7036337</id>
+    <name>Gary </name>
+    <display_name>Gary  the Bookworm</display_name>
+
+    <location>Delray Beach, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7036337-gary-the-bookworm]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1491094498p3/7036337.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1491094498p2/7036337.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Nov 06 18:59:47 -0800 2014</created_at>
+  <updated_at>Thu Nov 06 18:59:47 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>108996170</id>
+  <body><![CDATA[<i>Gary wrote: "Terrific experience to revisit this classic as seen from your adult perspective. I read it as I child and I've always been afraid to re-read it because I was afraid that it would disappoint me. You..."</i><br /><br />Thank you! Yea, there are a few books I fear revisiting would pale my impression of them (though others I know I'll only enjoy all the more), and I was pleased to see that this one holds up nicely. It doesn't seem as groundbreaking as when I was 14, but I definitely see why it is a classic and still taught in pretty much every American classroom.]]></body>
+  
+  <user>
+    <id>6431467</id>
+    <name>s.penkevich</name>
+    <display_name>s.penkevich</display_name>
+
+    <location>Holland, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6431467-s-penkevich]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487244329p3/6431467.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487244329p2/6431467.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Nov 06 19:10:45 -0800 2014</created_at>
+  <updated_at>Thu Nov 06 19:10:45 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>108996742</id>
+  <body><![CDATA["a place that is forever a part of yourself."<br /><br />great one line review about this book]]></body>
+  
+  <user>
+    <id>4728718</id>
+    <name>Algernon</name>
+    <display_name>Algernon</display_name>
+
+    <location>Ploiesti, Romania</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4728718-algernon]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483287598p3/4728718.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483287598p2/4728718.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Nov 06 19:21:48 -0800 2014</created_at>
+  <updated_at>Thu Nov 06 19:21:48 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>108998138</id>
+  <body><![CDATA[<i>Algernon wrote: ""a place that is forever a part of yourself."<br /><br />great one line review about this book"</i><br /><br />That really is all I should have written. Then the drink took hold..,]]></body>
+  
+  <user>
+    <id>6431467</id>
+    <name>s.penkevich</name>
+    <display_name>s.penkevich</display_name>
+
+    <location>Holland, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6431467-s-penkevich]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487244329p3/6431467.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487244329p2/6431467.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Nov 06 19:50:25 -0800 2014</created_at>
+  <updated_at>Thu Nov 06 19:50:25 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109002304</id>
+  <body><![CDATA[Such a pleasure to read this review, Steve. Was nice to traverse the old roads of Macomb. :)]]></body>
+  
+  <user>
+    <id>10261330</id>
+    <name>Himanshu</name>
+    <display_name>Himanshu</display_name>
+
+    <location>Mumbai, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10261330-himanshu]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1454912796p3/10261330.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1454912796p2/10261330.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Nov 06 22:12:09 -0800 2014</created_at>
+  <updated_at>Thu Nov 06 22:12:09 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109002818</id>
+  <body><![CDATA[Catticus Finch looks just as full of wisdom and integrity as his(her?) fictional counterpart. <br /><br />Excellent analysis as ever, spenk. You'll give a kickass presentation no doubt.]]></body>
+  
+  <user>
+    <id>13266158</id>
+    <name>Samadrita</name>
+    <display_name>Samadrita</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13266158-samadrita]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1461258628p3/13266158.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1461258628p2/13266158.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Nov 06 22:38:40 -0800 2014</created_at>
+  <updated_at>Thu Nov 06 22:38:40 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109009568</id>
+  <body><![CDATA[Awesome review!]]></body>
+  
+  <user>
+    <id>15738127</id>
+    <name>Anne Zappa</name>
+    <display_name>Anne Zappa</display_name>
+
+    <location>India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15738127-anne-zappa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1469268311p3/15738127.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1469268311p2/15738127.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 07 04:36:31 -0800 2014</created_at>
+  <updated_at>Fri Nov 07 04:36:31 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109011000</id>
+  <body><![CDATA[<i>Himanshu wrote: "Such a pleasure to read this review, Steve. Was nice to traverse the old roads of Macomb. :)"</i><br /><br />Thank you kindly! Macomb is definite worth the revisit and in glad of it]]></body>
+  
+  <user>
+    <id>6431467</id>
+    <name>s.penkevich</name>
+    <display_name>s.penkevich</display_name>
+
+    <location>Holland, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6431467-s-penkevich]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487244329p3/6431467.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487244329p2/6431467.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 07 05:23:36 -0800 2014</created_at>
+  <updated_at>Fri Nov 07 05:23:36 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109011090</id>
+  <body><![CDATA[<i>Samadrita wrote: "Catticus Finch looks just as full of wisdom and integrity as his(her?) fictional counterpart. <br /><br />Excellent analysis as ever, spenk. You'll give a kickass presentation no doubt."</i><br /><br />Thanks, I'm pretty nervous about it ha. It's a costume contest as well. I'm going to be dressed as Atticus and I'm hoping someone goes as 'a damn ham' ha<br />Oh, and Catticus is a girl but we went with the name anyways. The next cat will be The Great Catsby]]></body>
+  
+  <user>
+    <id>6431467</id>
+    <name>s.penkevich</name>
+    <display_name>s.penkevich</display_name>
+
+    <location>Holland, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6431467-s-penkevich]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487244329p3/6431467.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487244329p2/6431467.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 07 05:25:53 -0800 2014</created_at>
+  <updated_at>Fri Nov 07 05:25:53 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109011107</id>
+  <body><![CDATA[<i>Mohnish wrote: "Awesome review!"</i><br /><br />Thank you!]]></body>
+  
+  <user>
+    <id>6431467</id>
+    <name>s.penkevich</name>
+    <display_name>s.penkevich</display_name>
+
+    <location>Holland, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6431467-s-penkevich]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487244329p3/6431467.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487244329p2/6431467.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 07 05:26:09 -0800 2014</created_at>
+  <updated_at>Fri Nov 07 05:26:09 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109011641</id>
+  <body><![CDATA[Wonderful review,Sven!]]></body>
+  
+  <user>
+    <id>3655942</id>
+    <name>Rakhi</name>
+    <display_name>Rakhi Dalal</display_name>
+
+    <location>India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3655942-rakhi-dalal]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1418477729p3/3655942.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1418477729p2/3655942.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 07 05:40:59 -0800 2014</created_at>
+  <updated_at>Fri Nov 07 05:40:59 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109014058</id>
+  <body><![CDATA[Spenks, I read and loved your review yesterday. However, I was called away before commenting. So I begin today with morning coffee and a return to your review.<br><br>Beautiful job, first of all. Secondly--good on you for your presentation on this novel for The Big Read Program.<br><br>A tip of the hat for your connection to Faulkner's <a href="https://www.goodreads.com/book/show/72228.Intruder_in_the_Dust_" title="Intruder in the Dust  by William Faulkner" rel="nofollow">Intruder in the Dust</a>. As you know, I have a particular fondness for Lawyer Gavin Stevens. ;-) Gavin and Atticus in the court room are quite similar in their approach. Stevens certainly has his share of memorable lines. However, he never had the benefit of being portrayed on the big screen by the likes of Gregory Peck.<br><br>My favorite Stevens quote does come from "IitD."<br><br><blockquote>“Some things you must always be unable to bear. Some things you must never stop refusing to bear. Injustice and outrage and dishonor and shame. No matter how young you are or how old you have got. Not for kudos and not for cash: your picture in the paper nor money in the back either. Just refuse to bear them.”</blockquote><br><br>It certainly bears some similarity to Atticus' stirring "In the name of God, do your duty."<br><br>As Ms. Lee has often done, she has contradicted herself on the source of Atticus Finch. Soon after the novel's publication she firmly stated that Atticus was based on her father, Amasa Coleman Lee, who was a small town lawyer, who was a member of the Alabama House of representatives, and who was appointed to represent two black men, a father and son, accused of murdering a store clerk. Mr. Lee, as Atticus did, served up his best defense. However, the all white jury returned verdicts of guilty. Amasa Lee represented the last two men hung in the Monroe County Jail. He was present at their execution. That case was the source of his disdain for the practice of criminal law. Who could blame him.<br><br>It was as editor of the Monroeville, Al., newspaper that Amasa Lee covered a rape case almost identical to the facts of the "Tom Robinson" case. Lee was not appointed. However he covered the case extensively. The verdict in that case was guilty. The sentence was death. Interestingly enough, a letter writing campaign, believed to have been initiated by Amasa Lee, resulted in the Defendant's sentence being commuted to life. As Miss Maudie said in the novel, "Baby steps."<br><br>As to Ms. Lee's contradiction, she subsequently said her father was <i>not</i> the source for Atticus Finch. Personally, there are too many similarities between the lives of the real Amasa Lee and the fictional Atticus Finch, for me to accept that. Rather, I chalk it up to Ms. Lee's pursuit of privacy for which she has become renowned.<br><br><a href="http://s1151.photobucket.com/user/mmcsullivan/media/MrLeeampMrPeck_zpsd69cc752.jpg.html" target="_blank" rel="nofollow">
+  <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1415371015i/11778780.jpg" alt=" photo MrLeeampMrPeck_zpsd69cc752.jpg" class="gr-hostedUserImg"></a><br><b>
+  <i>Art imitates life,</i>
+</b><br><br>We have very little about which we disagree. One issue is Calpurnia. I have never perceived her as an Uncle Tom character. She never bows or scrapes. She is certainly not a "Step-n-fetch-it" stereotype." She is a human being with whom Atticus confidently entrusts his children. Perhaps it is because I am a Southerner who was similarly entrusted to the care of black women when I was a child, which was not an uncommon arrangement. These women were family to me. I was taught to obey them as I would my mother or grandparents. My responses were to be "Yes, Ma'am," or "No, Ma'am." This is not meant to be a denial that racism existed in the South. It certainly did. But not in my home, nor in the homes of friends. <br><br>The novel still astonishes me to this day. It is one of those rare works to which I can return time and again with the assurance I will never be disappointed. I chalk that up to Ms. Lee's epigraph from Lamb. There is no suppose to it, really. Lawyers were children once. TKAM has inspired so many children to become not only lawyers but those who have the integrity of Atticus Finch. From time to time I return to this novel to remind myself that integrity does exist though in reality, as it does in any profession, is not always found in every individual that practices. In essence it is a return to the safe haven of childhood when all lawyers <i>were</i> Atticus Finch.<br><br>Well...it's been a long time since you and I have talked. I appreciate your having written this review very much. Should you wish to borrow a line from an old retired Southern Lawyer, feel free to do so. However, you certainly have no need to--beautifully rendered review. Would love to be at your presentation. <br><br><a href="https://www.goodreads.com/book/show/7078095.Scout__Atticus__and_Boo_A_Celebration_of_Fifty_Years_of__To_Kill_a_Mockingbird_" title='Scout, Atticus, and Boo A Celebration of Fifty Years of "To Kill a Mockingbird" rel="nofollow" by Mary McDonagh Murphy'>Scout, Atticus, and Boo: A Celebration of Fifty Years of "To Kill a Mockingbird"</a> by <a href="https://www.goodreads.com/author/show/4120488.Mary_McDonagh_Murphy" title="Mary McDonagh Murphy" rel="nofollow">Mary McDonagh Murphy</a><br><br><a href="https://www.goodreads.com/book/show/337788.In_Search_of_Atticus_Finch" title="In Search of Atticus Finch by Mike Papantonio" rel="nofollow">In Search of Atticus Finch</a> by <a href="https://www.goodreads.com/author/show/109499.Mike_Papantonio" title="Mike Papantonio" rel="nofollow">Mike Papantonio</a><br><br><a href="https://www.goodreads.com/book/show/114408.Mockingbird_A_Portrait_of_Harper_Lee" title="Mockingbird A Portrait of Harper Lee by Charles J. Shields" rel="nofollow">Mockingbird: A Portrait of Harper Lee</a> by <a href="https://www.goodreads.com/author/show/9460.Charles_J__Shields" title="Charles J. Shields" rel="nofollow">Charles J. Shields</a><br><br>"Who Was Atticus Finch?", Talmadge Boston, Texas Bar Journal, June, 2010, <a target="_blank" href="http://www.texasbar.com/AM/Template.cfm?Section=Texas_Bar_Journal&amp;Template=/CM/ContentDisplay.cfm&amp;ContentID=9585" rel="nofollow">http://www.texasbar.com/AM/Template.c...</a>]]></body>
+  
+  <user>
+    <id>3025547</id>
+    <name>Lawyer</name>
+    <display_name>Lawyer</display_name>
+
+    <location>Tuscaloosa, AL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3025547-lawyer]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1462156906p3/3025547.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1462156906p2/3025547.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 07 06:40:04 -0800 2014</created_at>
+  <updated_at>Fri Nov 07 06:40:04 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109014537</id>
+  <body><![CDATA[Superior review!]]></body>
+  
+  <user>
+    <id>7262060</id>
+    <name>Diane</name>
+    <display_name>Diane Barnes</display_name>
+
+    <location>Mount Pleasant, SC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7262060-diane-barnes]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1329773692p3/7262060.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1329773692p2/7262060.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 07 06:50:39 -0800 2014</created_at>
+  <updated_at>Fri Nov 07 06:50:39 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109017131</id>
+  <body><![CDATA[This is quite simply one of the best reviews ever written! I wish I could attend your presentation, even if it turns out to be a repeat of your written words here. Every one of your points is solid and insightful. I especially liked your observation about the mockingbird being akin to innocence.<br /><br />We have a cat, too, but it may be closer to the opposite end of the moral spectrum. His name is Attackus Afinch. ;-)]]></body>
+  
+  <user>
+    <id>236411</id>
+    <name>Steve</name>
+    <display_name>Steve</display_name>
+
+    <location>Chicago, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/236411-steve]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291695844p3/236411.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291695844p2/236411.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 07 07:46:50 -0800 2014</created_at>
+  <updated_at>Fri Nov 07 07:46:50 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109023788</id>
+  <body><![CDATA[<i>Mike wrote: "Spenks, I read and loved your review yesterday. However, I was called away before commenting. So I begin today with morning coffee and a return to your review.<br /><br />Beautiful job, first of all. Seco..."</i><br /><br />Thank you so much for all your kind words and wonderfully insightful response, Mike. It has certainly made my day! I was unaware of the Lee/Atticus connection but I think you are definitely right, especially as so much of the novel came from people she knew. It was especially entertaining reading this again now with the knowledge of Dill being based on Capote! That picture is great too, such a resemblance. Peck remains one of my favorite actors, that court scene is just incredible.<br />I actually had you in mind when I wrote about the Stevens connection! And I will agree that my Calpurnia interpretation is a bit off-base. I suppose I wanted a bit more of her insight, and thy probably stems from just wanting everything to be more Faulkner-ed up ha. But not all books can have a final chapter from the household attendant like S&amp;F I suppose ha. <br /><br />The bit about lawyers and childhood is incredible too, and in definitely going to work that into my discussion. That really ties the childhood safe haven into the book all the more so, and I've always liked the idea of Atticus as the defender of innocence and good in a world beset by troubles. In a way he is almost a Catcher in the rye in some vague sense. <br /><br />Thank you again, I can't wait to read through all the links after work today as I prep for tomorrow. It has been far too long and it is good to hear from you.. And I will certainly drop you a line, nothing more important than good friends and good books!]]></body>
+  
+  <user>
+    <id>6431467</id>
+    <name>s.penkevich</name>
+    <display_name>s.penkevich</display_name>
+
+    <location>Holland, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6431467-s-penkevich]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487244329p3/6431467.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487244329p2/6431467.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 07 10:14:36 -0800 2014</created_at>
+  <updated_at>Fri Nov 07 10:14:36 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109023809</id>
+  <body><![CDATA[<i>Diane wrote: "Superior review!"</i><br /><br />Thank you! So glad you enjoyed.]]></body>
+  
+  <user>
+    <id>6431467</id>
+    <name>s.penkevich</name>
+    <display_name>s.penkevich</display_name>
+
+    <location>Holland, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6431467-s-penkevich]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487244329p3/6431467.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487244329p2/6431467.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 07 10:14:55 -0800 2014</created_at>
+  <updated_at>Fri Nov 07 10:14:55 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109023884</id>
+  <body><![CDATA[<i>Steve wrote: "This is quite simply one of the best reviews ever written! I wish I could attend your presentation, even if it turns out to be a repeat of your written words here. Every one of your points is sol..."</i><br /><br />Attackus Afinch! Hahaha yes! That fits her, especially at night though attackus Afeet might be more fitting for her ha. And thank you! I'm pretty excited/nervous about the presentation so I'm glad to hear I've got some decent material in working with!]]></body>
+  
+  <user>
+    <id>6431467</id>
+    <name>s.penkevich</name>
+    <display_name>s.penkevich</display_name>
+
+    <location>Holland, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6431467-s-penkevich]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487244329p3/6431467.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487244329p2/6431467.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 07 10:16:49 -0800 2014</created_at>
+  <updated_at>Fri Nov 07 10:16:49 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109031730</id>
+  <body><![CDATA[thanks for letting us revisit this with you Spenky -- outstanding review b-t-w.]]></body>
+  
+  <user>
+    <id>1642452</id>
+    <name>Kenny</name>
+    <display_name>Kenny</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1642452-kenny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1472073986p3/1642452.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1472073986p2/1642452.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 07 13:11:51 -0800 2014</created_at>
+  <updated_at>Fri Nov 07 13:11:51 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109040562</id>
+  <body><![CDATA[Really nice review, Spenk, thanks for the reminder of the book's qualities. Like that courage quote, reminds me of Cool Hand Luke and why he would take such abuse - not just principle, but courage too. You begin anyway and see it through.]]></body>
+  
+  <user>
+    <id>6903379</id>
+    <name>Reid</name>
+    <display_name>Reid</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6903379-reid]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1461428828p3/6903379.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1461428828p2/6903379.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 07 16:17:08 -0800 2014</created_at>
+  <updated_at>Fri Nov 07 16:17:08 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109040861</id>
+  <body><![CDATA[<i>Kenny wrote: "thanks for letting us revisit this with you Spenky -- outstanding review b-t-w."</i><br /><br />And thank you!]]></body>
+  
+  <user>
+    <id>6431467</id>
+    <name>s.penkevich</name>
+    <display_name>s.penkevich</display_name>
+
+    <location>Holland, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6431467-s-penkevich]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487244329p3/6431467.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487244329p2/6431467.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 07 16:25:53 -0800 2014</created_at>
+  <updated_at>Fri Nov 07 16:25:53 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109040989</id>
+  <body><![CDATA[<i>Reid wrote: "Really nice review, Spenk, thanks for the reminder of the book's qualities. Like that courage quote, reminds me of Cool Hand Luke and why he would take such abuse - not just principle, but courage..."</i><br /><br />You just said the magic words. I absolutely love that movie and should probably watch it again tonight ha. So true though, and I think that movie, as well as C.Eastwood westerns, were why instilled in me such a respect for characters of conviction. It's a trait I like above almost all others, nothing better than someone who is About It when they decide to do something. That goes into McCarthy novels as well, conviction seems to be what separates those who live from those who die (particularly No Country)]]></body>
+  
+  <user>
+    <id>6431467</id>
+    <name>s.penkevich</name>
+    <display_name>s.penkevich</display_name>
+
+    <location>Holland, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6431467-s-penkevich]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487244329p3/6431467.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487244329p2/6431467.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 07 16:29:13 -0800 2014</created_at>
+  <updated_at>Fri Nov 07 16:29:13 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109164361</id>
+  <body><![CDATA[Sir Penkevich, I'm sorry that I arrived late to your class. You're an excellent example of a great reader, writer and a teacher. I take the presentation already happened and it must be awesome followed by loud applause? Simply Superb analysis!]]></body>
+  
+  <user>
+    <id>7915003</id>
+    <name>Garima</name>
+    <display_name>Garima</display_name>
+
+    <location>India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7915003-garima]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1360053697p3/7915003.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1360053697p2/7915003.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 10 00:22:03 -0800 2014</created_at>
+  <updated_at>Mon Nov 10 00:22:03 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109164409</id>
+  <body><![CDATA[Thank you for this review! To Kill a mocking bird is my favorite book of all times and I very much enjoyed revisiting it through your review.]]></body>
+  
+  <user>
+    <id>4420232</id>
+    <name>Pam</name>
+    <display_name>Pam Geemul </display_name>
+
+    <location>Mauritius</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4420232-pam-geemul]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1472322761p3/4420232.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1472322761p2/4420232.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 10 00:25:19 -0800 2014</created_at>
+  <updated_at>Mon Nov 10 00:25:19 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109164481</id>
+  <body><![CDATA[<i>Garima wrote: "Sir Penkevich, I'm sorry that I arrived late to your class. You're an excellent example of a great reader, writer and a teacher. I take the presentation already happened and it must be awesome foll..."</i><br /><br />That is alright, no attendance is ever taken and I award substantial extra-credit to DFW readers anyhow! Thank you so much! The presentation went quite well actually: <a target="_blank" href="https://www.facebook.com/bigreadholland" rel="nofollow">https://www.facebook.com/bigreadholland</a>]]></body>
+  
+  <user>
+    <id>6431467</id>
+    <name>s.penkevich</name>
+    <display_name>s.penkevich</display_name>
+
+    <location>Holland, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6431467-s-penkevich]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487244329p3/6431467.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487244329p2/6431467.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 10 00:30:41 -0800 2014</created_at>
+  <updated_at>Mon Nov 10 00:30:41 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109164583</id>
+  <body><![CDATA[<i>Pam wrote: "Thank you for this review! To Kill a mocking bird is my favorite book of all times and I very much enjoyed revisiting it through your review."</i><br /><br />And a very big Thank You! Glad you enjoyed. Definitely a book worth revisiting, and I was especially glad to learn it hadn't faded with time.]]></body>
+  
+  <user>
+    <id>6431467</id>
+    <name>s.penkevich</name>
+    <display_name>s.penkevich</display_name>
+
+    <location>Holland, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6431467-s-penkevich]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487244329p3/6431467.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487244329p2/6431467.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 10 00:37:48 -0800 2014</created_at>
+  <updated_at>Mon Nov 10 00:37:48 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109177033</id>
+  <body><![CDATA[Wonderful, insightful review, as always. It's reminded me that my mother and I started reading this together when I was in school, but never finished (probably because I became a jerk teenager who was home less). Never read it in school, because I went through a lot of "alternative" schooling and missed a lot of American Classics. Will have to find this when I go back to my mom's house over the holidays and restart it.]]></body>
+  
+  <user>
+    <id>32865</id>
+    <name>Taylor</name>
+    <display_name>Taylor</display_name>
+
+    <location>Windsor, VT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32865-taylor]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483545813p3/32865.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483545813p2/32865.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 10 08:06:49 -0800 2014</created_at>
+  <updated_at>Mon Nov 10 08:06:49 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109185447</id>
+  <body><![CDATA[Thank you Taylor! I hope you get a chance to finish it, the novel gets quite great near the end and has some really memorable final scenes. The film is incredible too]]></body>
+  
+  <user>
+    <id>6431467</id>
+    <name>s.penkevich</name>
+    <display_name>s.penkevich</display_name>
+
+    <location>Holland, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6431467-s-penkevich]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487244329p3/6431467.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487244329p2/6431467.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 10 11:01:30 -0800 2014</created_at>
+  <updated_at>Mon Nov 10 11:01:30 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109228115</id>
+  <body><![CDATA[<i>s.penkevich wrote: "Thank you Taylor! I hope you get a chance to finish it, the novel gets quite great near the end and has some really memorable final scenes. The film is incredible too"</i><br /><br />I've meant to for awhile now, but got distracted by my overflowing shelves... so glad to have the reminder :)]]></body>
+  
+  <user>
+    <id>32865</id>
+    <name>Taylor</name>
+    <display_name>Taylor</display_name>
+
+    <location>Windsor, VT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32865-taylor]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483545813p3/32865.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483545813p2/32865.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 11 05:46:44 -0800 2014</created_at>
+  <updated_at>Tue Nov 11 05:46:44 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109342302</id>
+  <body><![CDATA[As always, an excellent, excellent review. I've been wanting to re-read it ever since I read Malcolm Gladwell's controversial (and admittedly flimsy) take on it (<a target="_blank" href="http://www.newyorker.com/magazine/2009/08/10/the-courthouse-ring" rel="nofollow">http://www.newyorker.com/magazine/200...</a>).<br /><br />I struggle with my memory of this book--is it the classic I thought it was or well-meaning white liberal moralism that doesn't actually say anything interesting about race? Can it be both?]]></body>
+  
+  <user>
+    <id>16735195</id>
+    <name>Adam</name>
+    <display_name>Adam</display_name>
+
+    <location>Blacksburg, VA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16735195-adam]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1385576518p3/16735195.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1385576518p2/16735195.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Nov 13 08:38:48 -0800 2014</created_at>
+  <updated_at>Thu Nov 13 08:38:48 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109342665</id>
+  <body><![CDATA[<i>Adam wrote: "As always, an excellent, excellent review. I've been wanting to re-read it ever since I read Malcolm Gladwell's controversial (and admittedly flimsy) take on it (<a target="_blank" href="http://www.newyorker.com/magazine/2" rel="nofollow">http://www.newyorker.com/magazine/2</a>...&quot;</i><br /><br />Thank you. And nice, ill read that now. I appreciate Gladwell and he makes good points, but I also struggle with my opinion of him as its mostly pop-psychology and he definitely assumes correlation as causation. <br />I was glad rereading it solidified it as a classic in my mind, and I feel she used race more as an example of a larger theme than being the pressing issue. And the race issue has been donr before by people like Faulkner in a similar context. I think the racial elements get highlighted most often as it is a good teachable moral and works well in the classroom, as well as being a more approachable book than, say, Faulkner, for modern classroom purposes, but its really just a part to a whole.]]></body>
+  
+  <user>
+    <id>6431467</id>
+    <name>s.penkevich</name>
+    <display_name>s.penkevich</display_name>
+
+    <location>Holland, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6431467-s-penkevich]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487244329p3/6431467.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487244329p2/6431467.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Nov 13 08:47:41 -0800 2014</created_at>
+  <updated_at>Thu Nov 13 08:47:41 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109451189</id>
+  <body><![CDATA[Mr. P, I feel honor in being able to read your excellent opinions on any occasion, but feel unusually blessed today as I am a rare bird, that of a man both educated and literate (at least in the eyes of some) who had not until this weekend, at the age of 38, read the book. I had not seen the movie -- nor wonder of wonders -- had any details spoilt by a jaded world. I imagine the idea that an adult had not read it was too foreign a concept to be worthy of consideration. I just wanted to thank you for the review, and to add one small tidbit about any sense of heavy-handedness. As a first time reader of the book, despite being familiar with literature before and since, they lost none of the emotional impact I suspect they had upon you and many others on their initial reads. Should those lines you cited will wear a little heavy on my eyes the next time I read the book I shouldn't be shocked, but they hit the first time reader just right, I think. Thanks again!]]></body>
+  
+  <user>
+    <id>7101513</id>
+    <name>Will</name>
+    <display_name>Will</display_name>
+
+    <location>Winfield, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7101513-will]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1323207574p3/7101513.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1323207574p2/7101513.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Nov 15 10:46:13 -0800 2014</created_at>
+  <updated_at>Sat Nov 15 10:46:13 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109501957</id>
+  <body><![CDATA[Catticus Finch looks awesome :)]]></body>
+  
+  <user>
+    <id>22457802</id>
+    <name>Anthoney</name>
+    <display_name>Anthoney</display_name>
+
+    <location>Mumbai, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22457802-anthoney]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1447065528p3/22457802.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1447065528p2/22457802.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 16 10:23:22 -0800 2014</created_at>
+  <updated_at>Sun Nov 16 10:23:22 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109505131</id>
+  <body><![CDATA[<i>Will wrote: "Mr. P, I feel honor in being able to read your excellent opinions on any occasion, but feel unusually blessed today as I am a rare bird, that of a man both educated and literate (at least in the ey..."</i><br /><br />Thank you very much, and glad you enjoyed the book. I'll admit my 'heavyhanded' comments are a bit harsh, I've been trying to write more balanced reviews other than just gushing about a book ha. Glad you finally got to this one and loved it!]]></body>
+  
+  <user>
+    <id>6431467</id>
+    <name>s.penkevich</name>
+    <display_name>s.penkevich</display_name>
+
+    <location>Holland, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6431467-s-penkevich]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487244329p3/6431467.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487244329p2/6431467.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 16 11:24:23 -0800 2014</created_at>
+  <updated_at>Sun Nov 16 11:24:23 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109505139</id>
+  <body><![CDATA[<i>Anthoney wrote: "Catticus Finch looks awesome :)"</i><br /><br />Thanks!]]></body>
+  
+  <user>
+    <id>6431467</id>
+    <name>s.penkevich</name>
+    <display_name>s.penkevich</display_name>
+
+    <location>Holland, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6431467-s-penkevich]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487244329p3/6431467.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487244329p2/6431467.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 16 11:24:32 -0800 2014</created_at>
+  <updated_at>Sun Nov 16 11:24:32 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>110165971</id>
+  <body><![CDATA[Wonderful review! It is so very hard for me to choose a book as my absolute favourite, for I always imagine weepy faces looking down at me from my bookshelves! But it has one of the most influential and adored. I consistently thrust a copy of this to any friend who say they haven't read it. And ofcourse they end up loving it! <br /><br />But its been many years since I picked up this book myself. Stumbling upon your review brought all those happy memories I've associated with reading this book back. Its so insightful and so beautifully written. I'd say great job but quod erat demonstrandum. Thus, it is.]]></body>
+  
+  <user>
+    <id>24476089</id>
+    <name>Annie </name>
+    <display_name>Annie </display_name>
+
+    <location>India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24476089-annie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1443034099p3/24476089.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1443034099p2/24476089.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Nov 29 02:42:15 -0800 2014</created_at>
+  <updated_at>Sat Nov 29 02:42:15 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>110168753</id>
+  <body><![CDATA[<i>Annie wrote: "Wonderful review! It is so very hard for me to choose a book as my absolute favourite, for I always imagine weepy faces looking down at me from my bookshelves! But it has one of the most influentia..."</i><br /><br />Thank you so much! I rarely reread books despite intending to, but I'm really glad I reread this one. It is a great selection for favorite too, there is something for everyone to love in this book and it has such a warm heart. I think I gained more of an appreciation for it the older I get. Thanks again!]]></body>
+  
+  <user>
+    <id>6431467</id>
+    <name>s.penkevich</name>
+    <display_name>s.penkevich</display_name>
+
+    <location>Holland, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6431467-s-penkevich]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487244329p3/6431467.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487244329p2/6431467.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Nov 29 05:33:57 -0800 2014</created_at>
+  <updated_at>Sat Nov 29 05:33:57 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>137131448</id>
+  <body><![CDATA[What a sheer excellence in the flow of your review. I was looking at your review since many days and today, atlast I got a chance to finish your review. Amazing, enchanting, and an emblazoned take on a review of such huge classic and drawing incidents in such a short beautiful manner, makes me think 'WOW'!! Looking forward to your another brilliant book review.]]></body>
+  
+  <user>
+    <id>44136898</id>
+    <name>Hetav</name>
+    <display_name>Hetav</display_name>
+
+    <location>Vadodara, 09, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/44136898-hetav]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Jul 20 02:02:51 -0700 2015</created_at>
+  <updated_at>Mon Jul 20 02:02:51 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>162490055</id>
+  <body><![CDATA[<a href="http://wp.me/P76wXS-e" rel="nofollow">شركة نقل عفش بمكة</a><br /><a href="http://wp.me/P8eK9o-fc" rel="nofollow">شركة نقل عفش بمكة</a><br /><a href="https://wp.me/P7e3Tk-dF" rel="nofollow">شركة نقل عفش بمكة</a><br /><a href="http://wp.me/P8aDd0-F" rel="nofollow">شركة نقل عفش بمكة</a><br /><a href="http://wp.me/P76wXS-e" rel="nofollow">شركات نقل عفش مكة</a><br /><a href="http://wp.me/p76wXS-61" rel="nofollow">شركة نقل عفش بجدة</a><br /><a href="http://wp.me/P8eK9o-uJ" rel="nofollow">شركة نقل عفش بجدة</a><br /><a href="https://wp.me/P7e3Tk-bI" rel="nofollow">شركة نقل عفش بجدة</a><br /><a href="http://wp.me/p76wXS-61" rel="nofollow">شركات نقل عفش جدة</a><br /><a href="http://wp.me/P8eK9o-hL" rel="nofollow">شركة نقل عفش بالطائف</a><br /><a href="https://wp.me/p7e3Tk-sV" rel="nofollow">شركة نقل عفش بالطائف</a><br /><a href="http://wp.me/p76wXS-6e" rel="nofollow">شركة نقل عفش بالطائف</a><br /><a href="https://wp.me/p7e3Tk-sm" rel="nofollow">شركة نقل عفش بالمدينة</a><br /><a href="http://wp.me/p8eK9o-xg" rel="nofollow">شركة نقل عفش بالباحة </a><br /><a href="http://wp.me/p8eK9o-vV" rel="nofollow">شركة نقل عفش بالمدينة</a><br /><a href="http://wp.me/p8eK9o-u1" rel="nofollow">شركة نقل عفش بالرياض </a><br /><a href="http://wp.me/P8eK9o-rK" rel="nofollow">شركة نقل عفش بالدمام </a>]]></body>
+  
+  <user>
+    <id>64710532</id>
+    <name>عبدالعزيز</name>
+    <display_name>عبدالعزيز الأميرى</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/64710532]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486464002p3/64710532.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486464002p2/64710532.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 07 03:21:15 -0800 2017</created_at>
+  <updated_at>Tue Feb 07 03:21:15 -0800 2017</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/214471525]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/214471525]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

@@ -1,0 +1,448 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:45:19 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: 8G0FDY33DH7NTFPMT1QW
+etag: W/"06a26d85c6e704e8b3051e9c1104c62b"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.203188
+set-cookie: csid=BAhJIhg2NTktNDc4NjY2Ny0wNzM2MTEzBjoGRVQ%3D--bf216dc35987f4bbe3e32dc5d808677361b91ec8; path=/; expires=Tue, 12 May 2037 13:45:18 -0000, locale=es; path=/, _session_id2=df92f355087680b15e46fc664a0a60d9; path=/; expires=Fri, 12 May 2017 19:45:19 -0000; HttpOnly
+content-length: 17294
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=1756158201
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1756158201</id>
+    
+  <user>
+    <id>2933855</id>
+    <name>Brina</name>
+    <display_name>Brina</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2933855-brina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1454067566p3/2933855.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1454067566p2/2933855.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">1617</id>
+  <isbn>0374500010</isbn>
+  <isbn13>9780374500016</isbn13>
+  <text_reviews_count type="integer">20044</text_reviews_count>
+  <title>Night</title>
+  <title_without_series>Night</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1473495285m/1617.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1473495285s/1617.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1617.Night</link>
+  <num_pages>120</num_pages>
+  <format>Paperback</format>
+  <edition_information>First Printing Edition</edition_information>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.29</average_rating>
+  <ratings_count>686554</ratings_count>
+  <description>&lt;i&gt;Night&lt;/i&gt; is Elie Wiesel's masterpiece, a candid, horrific, and deeply poignant autobiographical account of his survival as a teenager in the Nazi death camps. This new translation by Marion Wiesel, Elie's wife and frequent translator, presents this seminal memoir in the language and spirit truest to the author's original intent. And in a substantive new preface, Elie reflects on the enduring importance of Night and his lifelong, passionate dedication to ensuring that the world never forgets man's capacity for inhumanity to man.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Night&lt;/i&gt; offers much more than a litany of the daily terrors, everyday perversions, and rampant sadism at Auschwitz and Buchenwald; it also eloquently addresses many of the philosophical as well as personal questions implicit in any serious consideration of what the Holocaust was, what it meant, and what its legacy is and will be.</description>
+<authors>
+<author>
+<id>1049</id>
+<name>Elie Wiesel</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1255518412p5/1049.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1255518412p2/1049.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1049.Elie_Wiesel]]></link>
+<average_rating>4.27</average_rating>
+<ratings_count>722830</ratings_count>
+<text_reviews_count>24668</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1528673250</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Fri Sep 30 15:48:39 -0700 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1527056903</id>
+          <old_status>to-read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Thu Sep 29 08:23:46 -0700 2016</updated_at>
+          <ratings_count>31</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1507462832</id>
+          <old_status></old_status>
+          <status>to-read</status>
+          <updated_at type="datetime">Mon Sep 12 13:44:51 -0700 2016</updated_at>
+          <ratings_count>33</ratings_count>
+          <comments_count>6</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>174</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="holocaust" exclusive="false" review_shelf_id="1421027642" sortable="false" />
+    <shelf name="memoirs" exclusive="false" review_shelf_id="1421027646" sortable="false" />
+    <shelf name="rereads" exclusive="false" review_shelf_id="1421027645" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Sep 29 00:00:00 -0700 2016</started_at>
+  <read_at>Fri Sep 30 00:00:00 -0700 2016</read_at>
+  <date_added>Mon Sep 12 13:44:50 -0700 2016</date_added>
+  <date_updated>Sat Oct 01 20:30:52 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[The first time I read Night by Eli Wiesel I was in an eighth grade religious school class. At that time it had recently become a law in my state to teach the Holocaust as part of the general curriculum, and, as a result, my classmates and I were the torchbearers to tell people to never forget and...]]>
+  </body>
+
+  
+
+  <comments_count>13</comments_count>
+    <comments start="1" end="13" total="13">
+        <comment>
+  <id>157458681</id>
+  <body><![CDATA[I read this book some time ago and loved it. Very powerful read.]]></body>
+  
+  <user>
+    <id>27974009</id>
+    <name>Charlotte</name>
+    <display_name>Charlotte Guzman</display_name>
+
+    <location>Jonesboro, GA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27974009-charlotte-guzman]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1445748685p3/27974009.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1445748685p2/27974009.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 30 22:03:26 -0700 2016</created_at>
+  <updated_at>Fri Sep 30 22:03:26 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157498428</id>
+  <body><![CDATA[This is an amazing book, one I will never forget.]]></body>
+  
+  <user>
+    <id>6450088</id>
+    <name>Tania</name>
+    <display_name>Tania</display_name>
+
+    <location><![CDATA[Johannesburg, 06, South Africa]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6450088-tania]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483260041p3/6450088.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483260041p2/6450088.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Oct 02 02:26:20 -0700 2016</created_at>
+  <updated_at>Sun Oct 02 02:26:20 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157498489</id>
+  <body><![CDATA[It is definitely an unforgettable book and hopefully by people reading it, it will prevent the atrocities discussed from ever happening again.]]></body>
+  
+  <user>
+    <id>2933855</id>
+    <name>Brina</name>
+    <display_name>Brina</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2933855-brina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1454067566p3/2933855.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1454067566p2/2933855.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Oct 02 02:30:20 -0700 2016</created_at>
+  <updated_at>Sun Oct 02 02:30:20 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157500893</id>
+  <body><![CDATA[i was able to hear him speak many years ago, a cherished memory.]]></body>
+  
+  <user>
+    <id>28397995</id>
+    <name>Nancy</name>
+    <display_name>Nancy</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/28397995-nancy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1465231800p3/28397995.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1465231800p2/28397995.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Oct 02 05:04:25 -0700 2016</created_at>
+  <updated_at>Sun Oct 02 05:04:25 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157501302</id>
+  <body><![CDATA[Wow that is special. I have heard Nobel laureates speak just not him.]]></body>
+  
+  <user>
+    <id>2933855</id>
+    <name>Brina</name>
+    <display_name>Brina</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2933855-brina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1454067566p3/2933855.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1454067566p2/2933855.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Oct 02 05:25:12 -0700 2016</created_at>
+  <updated_at>Sun Oct 02 05:25:12 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157503194</id>
+  <body><![CDATA[<i>Brina wrote: "Wow that is special. I have heard Nobel laureates speak just not him."</i><br /><br />I was in such awe, and so aware of the pain behind his books, I resented the clapping of the audience when he came onstage. I thought silence and rising to our feet would have been more respectful.]]></body>
+  
+  <user>
+    <id>28397995</id>
+    <name>Nancy</name>
+    <display_name>Nancy</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/28397995-nancy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1465231800p3/28397995.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1465231800p2/28397995.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Oct 02 06:49:12 -0700 2016</created_at>
+  <updated_at>Sun Oct 02 06:49:12 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157505244</id>
+  <body><![CDATA[This book is in a realm all its own. I can totally understand why it took Wiesel ten years to write it. I taught this to high school juniors (by choice) and it never was easy. I felt that I did students a dis-service if they were not given the opportunity to see the holocaust through his eyes.]]></body>
+  
+  <user>
+    <id>4274599</id>
+    <name>Deyanne</name>
+    <display_name>Deyanne</display_name>
+
+    <location>Salt Lake City, UT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4274599-deyanne]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Oct 02 07:57:03 -0700 2016</created_at>
+  <updated_at>Sun Oct 02 07:57:03 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157505671</id>
+  <body><![CDATA[I think it would have been easier to read in 11th rather than 8th grade just for maturity level. My parents were charter members of the US Holocaust Museum. I remember going and hearing people whispering who had never heard of the Holocaust before. It is necessary to teach this no matter how difficult it is.]]></body>
+  
+  <user>
+    <id>2933855</id>
+    <name>Brina</name>
+    <display_name>Brina</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2933855-brina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1454067566p3/2933855.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1454067566p2/2933855.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Oct 02 08:11:33 -0700 2016</created_at>
+  <updated_at>Sun Oct 02 08:11:33 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157512750</id>
+  <body><![CDATA[One of the most transcendent books! Wonderful review and I especially agree with your last statement.]]></body>
+  
+  <user>
+    <id>6770267</id>
+    <name>Chris</name>
+    <display_name>Chris</display_name>
+
+    <location>Norfolk, VA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6770267-chris]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1417793778p3/6770267.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1417793778p2/6770267.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Oct 02 11:39:49 -0700 2016</created_at>
+  <updated_at>Sun Oct 02 11:39:49 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157513731</id>
+  <body><![CDATA[Thank you Chris. I felt like I had to reread when I learned about his passing and I'm glad that I did because it was over my head as an adolescent.]]></body>
+  
+  <user>
+    <id>2933855</id>
+    <name>Brina</name>
+    <display_name>Brina</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2933855-brina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1454067566p3/2933855.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1454067566p2/2933855.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Oct 02 12:09:18 -0700 2016</created_at>
+  <updated_at>Sun Oct 02 12:09:18 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157547435</id>
+  <body><![CDATA[Thanks for the wonderful review, Brina. <a href="https://www.goodreads.com/book/show/1617.Night" title="Night by Elie Wiesel" rel="nofollow">Night</a> is the strongest holocaust memoir that I read (and I read a lot of them). It is the closest to actually listen to holocaust survivors. It is a painful book, the unimaginable horrors are hard to read. Another exceptional book is <a href="https://www.goodreads.com/book/show/6181.If_This_Is_a_Man___The_Truce" title="If This Is a Man / The Truce by Primo Levi" rel="nofollow">If This Is a Man / The Truce</a> by <a href="https://www.goodreads.com/author/show/4187.Primo_Levi" title="Primo Levi" rel="nofollow">Primo Levi</a>.]]></body>
+  
+  <user>
+    <id>28266634</id>
+    <name>Liza</name>
+    <display_name>Liza Fireman</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/28266634-liza-fireman]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1391265546p3/28266634.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1391265546p2/28266634.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 03 09:06:07 -0700 2016</created_at>
+  <updated_at>Mon Oct 03 09:06:07 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>163474143</id>
+  <body><![CDATA[Brina, thanks for this revew - I don't know if you've read "if this is a man' by Primo Levi. That one is one of my favourites - I'm wondering how Weisel compares??]]></body>
+  
+  <user>
+    <id>13002277</id>
+    <name>Ann</name>
+    <display_name>Ann Girdharry</display_name>
+
+    <location>Le Cres, A9, France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13002277-ann-girdharry]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1444634224p3/13002277.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1444634224p2/13002277.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 03 01:05:38 -0800 2017</created_at>
+  <updated_at>Fri Mar 03 01:05:38 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>163795016</id>
+  <body><![CDATA[“We must take sides. Neutrality helps the oppressor, never the victim. Silence encourages the tormentor, never the tormented. Sometimes we must interfere. When human lives are endangered, when human dignity is in jeopardy, national borders and sensitivities become irrelevant. Wherever men and women are persecuted because of their race, religion, or political views, that place must - at that moment - become the center of the universe.” <br />― Elie Wiesel]]></body>
+  
+  <user>
+    <id>14167142</id>
+    <name>Asdeghik</name>
+    <display_name>Asdeghik</display_name>
+
+    <location>Montreal, QC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14167142-asdeghik]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493643612p3/14167142.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493643612p2/14167142.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Mar 11 06:52:29 -0800 2017</created_at>
+  <updated_at>Sat Mar 11 06:52:29 -0800 2017</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1756158201]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1756158201]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

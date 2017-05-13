@@ -1,0 +1,1051 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:55:41 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: KMQQ2ST1R9BCJ6P65YF3
+etag: W/"af5bae51cb38543bdcb38bef32f854a3"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.323171
+set-cookie: csid=BAhJIhg4MTMtMDU0Nzg0My0zMDIxNTg2BjoGRVQ%3D--2a686e5901ea9a1a95da3558c5f56037b188d224; path=/; expires=Tue, 12 May 2037 13:55:40 -0000, locale=es; path=/, _session_id2=c00a0b868261a3d60a3d88c1fab38489; path=/; expires=Fri, 12 May 2017 19:55:41 -0000; HttpOnly
+content-length: 49515
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=16392875
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>16392875</id>
+    
+  <user>
+    <id>175635</id>
+    <name>Trevor</name>
+    <display_name>Trevor</display_name>
+
+    <location><![CDATA[Melbourne, Victoria, Australia]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/175635-trevor]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1388976384p3/175635.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1388976384p2/175635.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">18490</id>
+  <isbn>0141439475</isbn>
+  <isbn13>9780141439471</isbn13>
+  <text_reviews_count type="integer">13074</text_reviews_count>
+  <title>Frankenstein</title>
+  <title_without_series>Frankenstein</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1381512375m/18490.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1381512375s/18490.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18490.Frankenstein</link>
+  <num_pages>273</num_pages>
+  <format>Paperback</format>
+  <edition_information>Penguin Classics</edition_information>
+  <publisher>Penguin Books</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.75</average_rating>
+  <ratings_count>861298</ratings_count>
+  <description>&lt;b&gt;Mary Shelley&lt;/b&gt; began writing &lt;i&gt;Frankenstein&lt;/i&gt; when she was only eighteen. At once a Gothic thriller, a passionate romance, and a cautionary tale about the dangers of science, &lt;i&gt;Frankenstein&lt;/i&gt; tells the story of committed science student Victor Frankenstein. Obsessed with discovering the cause of generation and life and bestowing animation upon lifeless matter, Frankenstein assembles a human being from stolen body parts but; upon bringing it to life, he recoils in horror at the creature's hideousness. Tormented by isolation and loneliness, the once-innocent creature turns to evil and unleashes a campaign of murderous revenge against his creator, Frankenstein.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Frankenstein&lt;/i&gt;, an instant bestseller and an important ancestor of both the horror and science fiction genres, not only tells a terrifying story, but also raises profound, disturbing questions about the very nature of life and the place of humankind within the cosmos: What does it mean to be human? What responsibilities do we have to each other? How far can we go in tampering with Nature? In our age, filled with news of organ donation genetic engineering, and bio-terrorism, these questions are more relevant than ever.</description>
+<authors>
+<author>
+<id>11139</id>
+<name>Mary Wollstonecraft Shelley</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p5/11139.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p2/11139.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/11139.Mary_Wollstonecraft_Shelley]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>884152</ratings_count>
+<text_reviews_count>20971</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1217106224</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Jan 31 16:47:37 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>2</rating>
+  <votes>111</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="literature" exclusive="false" review_shelf_id="61568817" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 26 03:12:18 -0800 2008</date_added>
+  <date_updated>Thu Dec 26 13:48:44 -0800 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I don’t really know what I was expecting – though ‘more’ comes to mind. Let’s start with what I liked about this book. I liked the idea that the monster is ‘made’ a monster by the treatment he receives from humanity. He is ugly and humanity does like to punish the ugly - this is a universal truth...]]>
+  </body>
+
+  
+
+  <comments_count>40</comments_count>
+    <comments start="1" end="40" total="40">
+        <comment>
+  <id>458894</id>
+  <body><![CDATA[Yes but...<br /><br />Stephen King didn't exist then, and neither did anybody else writing anything like this. <br /><br />And what she did, by some kind of bizarre fluke, was hit an idea that seems to be (to borrow a word that also wasn't in existence back then) archetypal. <br /><br />It is ages since I read it, but I was always fascinated by the relationship between the monster and his creator -- that awful moment when the monster hears his 'father' lamenting his existence -- awful pain, if I remember it correctly. And then the sequence on the ice. <br /><br />But I also love the whole thing about Mary Shelley getting the idea from a dream, when she was actually living with a bit of a monster herself and reading it aloud to another monster (Byron). And I did like what you said about the chinese whispers -- it is fascinating. <br /><br />But whether or not it is too heavy handed in modern terms -- because we've been treated since then to so much subtle, well-managed horror fiction (all of which owed something to Mary S) -- it has a habit of sticking in the mind. It's that archetypal thing.<br /><br />I like the way popular understanding has 'Frankenstein' as the name of the monster, not his creator... And don't you find yourself visualising the bolts in his neck, even though they're not there? It is a marvellous thing - don't you think -- to create a character who escapes from the novel and races through popular mythology for centuries... <br /><br />Nell]]></body>
+  
+  <user>
+    <id>175480</id>
+    <name>Helen (Helena/Nell)</name>
+    <display_name>Helen (Helena/Nell)</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/175480-helen-helena-nell]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1336838423p3/175480.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1336838423p2/175480.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Feb 27 12:15:20 -0800 2008</created_at>
+  <updated_at>Wed Feb 27 12:15:20 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>5575452</id>
+  <body><![CDATA[For once I find myself in disagreement with your opinion of a novel, Trevor, though, as usual, you've made your point very well. I continue to read Frankenstein every five years or so, and I remain a big fan. Its position as a progenitor of Sci-Fi and Horror (although I've always felt its place as a horror story is more a result of its film versions than Shelley's writing. I think she was going for the former rather than the latter) makes it a singularly important novel (which you do acknowledge), but my love of Frankenstein goes beyond that. I ache for the monster when I read that book. I think Shelley wants us to loathe Frankenstein, and I think she intentionally gives him a "woman's personality" -- the sort of personality that her Mother, Mary Wollstonecraft, was trying to dissolve with her <a href="https://www.goodreads.com/book/show/224387.A_Vindication_of_the_Rights_of_Woman__Penguin_Classics_" title="A Vindication of the Rights of Woman (Penguin Classics) by Mary Wollstonecraft" rel="nofollow">Vindication of the Rights of Woman</a> -- and this personality was both there to both increase our dislike and make comment on its also being a potential personality in men. Back to the monster: I want him to defeat Victor from beginning to end. I empathize with the monster over everyone else. And just based on the monster as a character, I love Frankenstein. The untrustworthy narrative increases my appreciation, too.<br /><br />I loved your review, though. You always get me excited. Thanks, Trevor.]]></body>
+  
+  <user>
+    <id>1022982</id>
+    <name>Brad</name>
+    <display_name>Brad</display_name>
+
+    <location>Summerside, PE, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1022982-brad]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442484575p3/1022982.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442484575p2/1022982.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 03 06:09:08 -0700 2009</created_at>
+  <updated_at>Sun May 03 06:09:08 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>5582488</id>
+  <body><![CDATA[When I have both Brad and Nell telling me I've stuffed up in a review I know I need to take heed. <br /><br />I really like the idea that Frankenstein is, in some sense, female - I hadn't thought about this while readig and I really should have noticed. I'll need to think about that a bit more. He is also taking on what is traditionally a female role, of course (this whole reproduction thing) so that is interesting too. I think that was what I disliked most about the novel, him walking around with the back of his hand plastered to his forehead all of the time and taking to his bed for months at a time. <br /><br />And yes, the monster does steal all of the empathy in the book and I suspect that is the reason why it doesn't work as a horror novel. <br /><br />I must give this a couple of years and read ir again, particularly now that I've been chastened by two people whose opinions I trust so well.]]></body>
+  
+  <user>
+    <id>175635</id>
+    <name>Trevor</name>
+    <display_name>Trevor</display_name>
+
+    <location><![CDATA[Melbourne, Victoria, Australia]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/175635-trevor]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1388976384p3/175635.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1388976384p2/175635.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 03 12:52:02 -0700 2009</created_at>
+  <updated_at>Sun May 03 12:52:02 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>5605124</id>
+  <body><![CDATA[While I think that Brad and Nell make good points about reasons that <a href="https://www.goodreads.com/book/show/18490.Frankenstein" title="Frankenstein by Mary Shelley" rel="nofollow">Frankenstein</a> is <i>important</i>, I wanted to jump in to say that I 100% agree with everything you said in your review, Trevor. Also, really funny! I have actually read this book multiple times - each time thinking, "Well, I probably just didn't get it last time." I think maybe it's just a difference of taste, though.<br /><br />I like Brad's point about Wollstonecraft and the negative personality traits associated with female characters, and I agree that it's quite possible that Shelley was consciously making those choices. What that mostly proves to me, though, is that it is equally annoying to read male or female characters who are idiots. I find myself wishing her conversation with Byron had gone something like this:<br /><br />Shelley: What about science, eh? That seems potentially dangerous.<br /><br />Byron: Yep.<br /><br />Then Shelley could go write a book with a really amazing, strong female character. It seems more relevant to Wollstonecraft's message, and to feminism in general for that matter, to write a story showing that women can be brave and inspiring, rather than that men can be whiny and shortsighted.]]></body>
+  
+  <user>
+    <id>1302775</id>
+    <name>Sparrow</name>
+    <display_name>Sparrow</display_name>
+
+    <location>Eugene, OR</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1302775-sparrow]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1470331746p3/1302775.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1470331746p2/1302775.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon May 04 12:16:24 -0700 2009</created_at>
+  <updated_at>Mon May 04 12:16:24 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>5609114</id>
+  <body><![CDATA[Thanks Meredith - like most men I'm more than happy to use the 'I was only joking' get out of jail free card when needs be. <br /><br />My daughters told me recently that the thing they have picked up from being brought up by me and their mother (and, naturally I was hoping for something along the lines of a deep moral sense and a desire to change the world) was a loathing for whining. And when they told me this I could hear myself say to them a million times while they were growing up, "Don't whine!" Oh well, if one can't inflict psychological damage on one's own kids, who can you inflict psychological damage on? This may, as you say, be part of my problem with this book.]]></body>
+  
+  <user>
+    <id>175635</id>
+    <name>Trevor</name>
+    <display_name>Trevor</display_name>
+
+    <location><![CDATA[Melbourne, Victoria, Australia]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/175635-trevor]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1388976384p3/175635.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1388976384p2/175635.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon May 04 14:57:10 -0700 2009</created_at>
+  <updated_at>Mon May 04 14:57:10 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>5611652</id>
+  <body><![CDATA[I think, maybe, if Frankenstein had said, "I was only joking" more, I might have been able to like him. Maybe that's where Igor comes in handy. <br /><br />I agree that this book inspires a very parental/lecturey mood. Other than "Don't whine!" I also wanted to say, "Well, what did you <i>think</i> was going to happen?" and "You made your bed . . . " and "It's all fun and games until somebody gets maimed." Things like that. <br /><br />I feel like the temptation is to say that we should be lenient with this story because good books hadn't been invented yet, but that doesn't hold a lot of credit with me (hopefully for obvious reasons).<br /><br />I forgot to say before that your review reminded me of last summer, when I listened to <a href="https://www.goodreads.com/book/show/6185.Wuthering_Heights" title="Wuthering Heights by Emily Brontë" rel="nofollow">Wuthering Heights</a> on audio. I love that book and, as a side note, think it has much scarier monsters. It reminded me because of the Russian Doll feel. I was very struck with how removed the narrator is from the story itself. At times, it is the tenant writing the housekeeper's story of Catherine recounting what someone else said, all of whom seem very confident in their own reliability as narrators and not in anyone else's. I thought, 'I bet this story, like everything else, would make Catherine and Heathcliff pretty mad' because of the things lost or added along the way. It also made me wonder if it would be difficult, as the reader, to invent an appropriate voice for the audiobook. ]]></body>
+  
+  <user>
+    <id>1302775</id>
+    <name>Sparrow</name>
+    <display_name>Sparrow</display_name>
+
+    <location>Eugene, OR</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1302775-sparrow]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1470331746p3/1302775.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1470331746p2/1302775.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon May 04 16:14:12 -0700 2009</created_at>
+  <updated_at>Mon May 04 16:14:12 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>5621837</id>
+  <body><![CDATA[Yes, Wuthering Heights is the best example - you couldn't trust Lockwood out of sight and as for the housekeeper, spare us.]]></body>
+  
+  <user>
+    <id>175635</id>
+    <name>Trevor</name>
+    <display_name>Trevor</display_name>
+
+    <location><![CDATA[Melbourne, Victoria, Australia]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/175635-trevor]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1388976384p3/175635.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1388976384p2/175635.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon May 04 21:34:39 -0700 2009</created_at>
+  <updated_at>Mon May 04 21:34:39 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>5625623</id>
+  <body><![CDATA[I have a song called "Old Whineyard" that we all sing to "Moon River" whenever someone is whining. I am busy inflicting psychological damage too. Yikes!<br /><br />I completely agree with y'all on <a href="https://www.goodreads.com/book/show/6185.Wuthering_Heights" title="Wuthering Heights by Emily Brontë" rel="nofollow">Wuthering Heights</a> and the narrators. And it is absolutely far, far scarier than Frankenstein.]]></body>
+  
+  <user>
+    <id>1022982</id>
+    <name>Brad</name>
+    <display_name>Brad</display_name>
+
+    <location>Summerside, PE, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1022982-brad]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442484575p3/1022982.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442484575p2/1022982.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue May 05 07:58:01 -0700 2009</created_at>
+  <updated_at>Tue May 05 07:58:01 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>5627429</id>
+  <body><![CDATA[That was also a really good point, Brad, that it fits more in the sci-fi genre. I find that I still can't separate myself from expecting it to be horror, maybe because of the movies, and maybe because Frankenstein himself is so horrified the whole time. ]]></body>
+  
+  <user>
+    <id>1302775</id>
+    <name>Sparrow</name>
+    <display_name>Sparrow</display_name>
+
+    <location>Eugene, OR</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1302775-sparrow]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1470331746p3/1302775.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1470331746p2/1302775.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue May 05 10:07:44 -0700 2009</created_at>
+  <updated_at>Tue May 05 10:07:44 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>5627562</id>
+  <body><![CDATA[I restrained myself at first, but I find myself compelled: we named our daughter Bronte due to our shared love of Wuthering Heights (so she's named after Emily rather than Anne or Charlotte).<br /><br />I've often wondered how Dracula and Frankenstein can be uttered in the same breath because the former is so clearly horror and the latter only seems to have become horror because of James Whale. ]]></body>
+  
+  <user>
+    <id>1022982</id>
+    <name>Brad</name>
+    <display_name>Brad</display_name>
+
+    <location>Summerside, PE, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1022982-brad]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442484575p3/1022982.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442484575p2/1022982.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue May 05 10:17:03 -0700 2009</created_at>
+  <updated_at>Tue May 05 10:17:03 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>30384803</id>
+  <body><![CDATA[This is not a gothic story at all. Nothing in Mary Shelley's prose is related to supernatural powers, magic or superstition. Gothic's formulas are reinvented in Frankenstein and creature and inventor are firmly linked in the secular tradition of XIX century.]]></body>
+  
+  <user>
+    <id>1187381</id>
+    <name>Ricardo</name>
+    <display_name>Ricardo</display_name>
+
+    <location>Buenos Aires, Argentina</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1187381-ricardo]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442487700p3/1187381.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442487700p2/1187381.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri May 13 09:42:43 -0700 2011</created_at>
+  <updated_at>Fri May 13 09:42:43 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>30396402</id>
+  <body><![CDATA[Frankenstein is absolutely a Gothic story. And it is widely accepted as such. Not all Gothic tales require the supernatural, thought that is certainly present in a Creature brought to life through some bizarre and unrepeatable pseudo-scientific process. Gothic is mostly a mood terror that is achieved through "supernatural trappings," and Shelley absolutely captures that.]]></body>
+  
+  <user>
+    <id>1022982</id>
+    <name>Brad</name>
+    <display_name>Brad</display_name>
+
+    <location>Summerside, PE, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1022982-brad]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442484575p3/1022982.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442484575p2/1022982.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri May 13 15:35:27 -0700 2011</created_at>
+  <updated_at>Fri May 13 15:35:27 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>30431198</id>
+  <body><![CDATA["some bizarre and unrepeatable pseudo-scientific process" ??? Creation of an artificial man as a subject was one of THE themes of the science at that time and not a bizarre fantasy. Shelley's philosophical and literary sources were the most prominent men of its age. I think that the most terrorific aspect of the novel is the inner abyss of horror that both creator and creature finds itself. This is absolutely a "modern" problem, far away from supernatural stories.]]></body>
+  
+  <user>
+    <id>1187381</id>
+    <name>Ricardo</name>
+    <display_name>Ricardo</display_name>
+
+    <location>Buenos Aires, Argentina</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1187381-ricardo]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442487700p3/1187381.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442487700p2/1187381.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 14 13:22:11 -0700 2011</created_at>
+  <updated_at>Sat May 14 13:22:11 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>30431256</id>
+  <body><![CDATA[<i>Ricardo wrote: "Shelley's philosophical and literary sources were the most prominent men of its* age."</i><br /><br />*her]]></body>
+  
+  <user>
+    <id>1302775</id>
+    <name>Sparrow</name>
+    <display_name>Sparrow</display_name>
+
+    <location>Eugene, OR</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1302775-sparrow]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1470331746p3/1302775.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1470331746p2/1302775.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 14 13:23:36 -0700 2011</created_at>
+  <updated_at>Sat May 14 13:23:36 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>30431613</id>
+  <body><![CDATA[ok, "her"<br /><br />It's very difficult to me to write and express ideas in English]]></body>
+  
+  <user>
+    <id>1187381</id>
+    <name>Ricardo</name>
+    <display_name>Ricardo</display_name>
+
+    <location>Buenos Aires, Argentina</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1187381-ricardo]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442487700p3/1187381.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442487700p2/1187381.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 14 13:32:07 -0700 2011</created_at>
+  <updated_at>Sat May 14 13:32:07 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>30431761</id>
+  <body><![CDATA[No worries.]]></body>
+  
+  <user>
+    <id>1302775</id>
+    <name>Sparrow</name>
+    <display_name>Sparrow</display_name>
+
+    <location>Eugene, OR</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1302775-sparrow]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1470331746p3/1302775.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1470331746p2/1302775.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 14 13:35:44 -0700 2011</created_at>
+  <updated_at>Sat May 14 13:35:44 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>30436551</id>
+  <body><![CDATA[Certainly it was one of THE themes, I totally agree with that, but the very fact that the process was not explored, only implied, and that the implications were connected to what we would today deem science fiction possibilities rather than "hard" science, puts Shelley's ideas squarley in the realm of the Gothic. Her work may not be an expression of the supernatural -- and therefore fantasy -- but it is certainly an expression of early science fiction, wherein the Gothic can and does often take hold. <a href="https://www.goodreads.com/book/show/17184.The_Invisible_Man__Paperback_" title="The Invisible Man (Paperback) by H.G. Wells" rel="nofollow">The Invisible Man</a>, <a href="https://www.goodreads.com/book/show/223198.The_Time_Machine_The_Island_of_Doctor_Moreau__World_s_Classics_" title="The Time Machine/The Island of Doctor Moreau (World's Classics) by H.G. Wells" rel="nofollow">Island of Doctor Moreau</a> and <a href="https://www.goodreads.com/book/show/1456644.Definitive_Doctor_Jekyll_and_Mr__Hyde_Companion__Garland_Reference_Library_of_the_Humanities_" title="Definitive Doctor Jekyll and Mr. Hyde Companion (Garland Reference Library of the Humanities) by Harry M. Geduld" rel="nofollow">Doctor Jekyll and Mr. Hyde</a> immediately come to mind.]]></body>
+  
+  <user>
+    <id>1022982</id>
+    <name>Brad</name>
+    <display_name>Brad</display_name>
+
+    <location>Summerside, PE, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1022982-brad]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442484575p3/1022982.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442484575p2/1022982.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 14 15:11:17 -0700 2011</created_at>
+  <updated_at>Sat May 14 15:11:17 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>30440787</id>
+  <body><![CDATA[It may well be true that Gothic formulas were reinvented in this novel - but it is still generally seen as Gothic. <br /><br />My point in mentioning Gothic in the first place was just to mention the untrustworthiness of the narration - that is actually the bit I found most interesting in the novel. Shelley may have been relying on the most philosophical and literary sources available, but we, her readers, don't get that. We get the reported memories of the memories perhaps of one madman, perhaps of two madmen - hard to say. It is clear Shelley is making a point by distancing the narration in this way, and surely that point is about trustworthiness - and it is pretty much the same point made by Bronte in <a href="https://www.goodreads.com/book/show/9267887.Wuthering_Heights" title="Wuthering Heights by Emily Brontë" rel="nofollow">Wuthering Heights</a> by placing the reader in a position of having to hear the story from people they simply wouldn't trust out of sight.]]></body>
+  
+  <user>
+    <id>175635</id>
+    <name>Trevor</name>
+    <display_name>Trevor</display_name>
+
+    <location><![CDATA[Melbourne, Victoria, Australia]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/175635-trevor]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1388976384p3/175635.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1388976384p2/175635.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 14 16:44:16 -0700 2011</created_at>
+  <updated_at>Sat May 14 16:44:16 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>30548331</id>
+  <body><![CDATA[This book was boring...]]></body>
+  
+  <user>
+    <id>5127391</id>
+    <name>Lola</name>
+    <display_name>Lola</display_name>
+
+    <location>Lanse, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5127391-lola]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1386491565p3/5127391.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1386491565p2/5127391.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon May 16 20:35:28 -0700 2011</created_at>
+  <updated_at>Mon May 16 20:35:28 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>62126278</id>
+  <body><![CDATA[One word ....original]]></body>
+  
+  <user>
+    <id>14743033</id>
+    <name>Jon</name>
+    <display_name>Jon Honer</display_name>
+
+    <location><![CDATA[Stevenage, F8, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14743033-jon-honer]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1353369018p3/14743033.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1353369018p2/14743033.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 21 08:03:01 -0800 2012</created_at>
+  <updated_at>Wed Nov 21 08:03:01 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>62128680</id>
+  <body><![CDATA[Isn't that three words?]]></body>
+  
+  <user>
+    <id>175635</id>
+    <name>Trevor</name>
+    <display_name>Trevor</display_name>
+
+    <location><![CDATA[Melbourne, Victoria, Australia]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/175635-trevor]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1388976384p3/175635.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1388976384p2/175635.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 21 08:55:54 -0800 2012</created_at>
+  <updated_at>Wed Nov 21 08:55:54 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>64117603</id>
+  <body><![CDATA[I thought Frankenstein was the precursor to modern Sci Fi? I remember learning that somewhere.]]></body>
+  
+  <user>
+    <id>11098577</id>
+    <name>Somerandom</name>
+    <display_name>Somerandom</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11098577-somerandom]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1362968315p3/11098577.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1362968315p2/11098577.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Dec 24 17:45:03 -0800 2012</created_at>
+  <updated_at>Mon Dec 24 17:45:03 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>64118585</id>
+  <body><![CDATA[If you can get in early enough you can be the precursor of just about anything.]]></body>
+  
+  <user>
+    <id>175635</id>
+    <name>Trevor</name>
+    <display_name>Trevor</display_name>
+
+    <location><![CDATA[Melbourne, Victoria, Australia]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/175635-trevor]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1388976384p3/175635.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1388976384p2/175635.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Dec 24 18:16:27 -0800 2012</created_at>
+  <updated_at>Mon Dec 24 18:16:27 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>64118659</id>
+  <body><![CDATA[True enough.]]></body>
+  
+  <user>
+    <id>11098577</id>
+    <name>Somerandom</name>
+    <display_name>Somerandom</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11098577-somerandom]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1362968315p3/11098577.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1362968315p2/11098577.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Dec 24 18:18:36 -0800 2012</created_at>
+  <updated_at>Mon Dec 24 18:18:36 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>89306796</id>
+  <body><![CDATA[Trevor, I absolutely agree that the book lacked the elements of an optimal horror story. However, it still renders a decent plot and imagery. Personally, I finished reading the book with sentiments of satisfaction.]]></body>
+  
+  <user>
+    <id>26955822</id>
+    <name>Fernando</name>
+    <display_name>Fernando Cuevas</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/26955822-fernando-cuevas]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1388215323p3/26955822.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1388215323p2/26955822.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Dec 26 13:37:19 -0800 2013</created_at>
+  <updated_at>Thu Dec 26 13:37:19 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>89307096</id>
+  <body><![CDATA[To be honest, I barely remember it now, Fernando. I have vague memories of people running over ice - it is probably time to read it again, except I have no time to do that.]]></body>
+  
+  <user>
+    <id>175635</id>
+    <name>Trevor</name>
+    <display_name>Trevor</display_name>
+
+    <location><![CDATA[Melbourne, Victoria, Australia]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/175635-trevor]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1388976384p3/175635.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1388976384p2/175635.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Dec 26 13:43:30 -0800 2013</created_at>
+  <updated_at>Thu Dec 26 13:43:30 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>89321810</id>
+  <body><![CDATA[I still appreciate your thoughts on the book. I barely noticed this was from 5 years ago. Hopefully you do read it again, it's a joy to go over books again. I feel blessed to have time to read right now.]]></body>
+  
+  <user>
+    <id>26955822</id>
+    <name>Fernando</name>
+    <display_name>Fernando Cuevas</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/26955822-fernando-cuevas]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1388215323p3/26955822.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1388215323p2/26955822.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Dec 26 18:17:05 -0800 2013</created_at>
+  <updated_at>Thu Dec 26 18:17:05 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>109484819</id>
+  <body><![CDATA[Upon reading the book again I am surprised about how close to Dr Faustus the story actually is.]]></body>
+  
+  <user>
+    <id>5856247</id>
+    <name>David</name>
+    <display_name>David Sarkies</display_name>
+
+    <location><![CDATA[Melbourne, Victoria, Australia]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5856247-david-sarkies]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1470027282p3/5856247.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1470027282p2/5856247.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Nov 15 23:54:42 -0800 2014</created_at>
+  <updated_at>Sat Nov 15 23:54:42 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109484871</id>
+  <body><![CDATA[I need to read Dr Faustus - I've read big bits of the poem, but never the play and I really do need to]]></body>
+  
+  <user>
+    <id>175635</id>
+    <name>Trevor</name>
+    <display_name>Trevor</display_name>
+
+    <location><![CDATA[Melbourne, Victoria, Australia]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/175635-trevor]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1388976384p3/175635.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1388976384p2/175635.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Nov 15 23:58:24 -0800 2014</created_at>
+  <updated_at>Sat Nov 15 23:58:24 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>118018064</id>
+  <body><![CDATA[I can see what you're saying and as I was reading the story of Frankenstein I too felt a little like "why is she telling me all this graphic detail about the experiences of the monster, when this book is about Frankenstein?" However as I continued to read the book it all made sense. Mary Shelley's lengthy intro and the monster's story added to my understand of the characters of both Frankenstein and the monster. For example, in the intro I was seeing Frankenstein and meeting him through the eyes of another, which considering most of the story is from his perspective, is important so I can get a rounded view of him. In terms of the monster's story it enabled me to understand the monster's motives for the heinous crimes he later commits to poor Frankenstein. <br /><br />I was blown away by how beautiful this book is and I am sorry you did not experience the same level of pleasure of what I did.]]></body>
+  
+  <user>
+    <id>35105628</id>
+    <name>Heidi</name>
+    <display_name>Heidi Whurr</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/35105628-heidi-whurr]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1411038870p3/35105628.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1411038870p2/35105628.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Apr 20 07:22:19 -0700 2015</created_at>
+  <updated_at>Mon Apr 20 07:22:19 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>118035929</id>
+  <body><![CDATA[I really should read this again - I hadn't realised it had been quite so long.]]></body>
+  
+  <user>
+    <id>175635</id>
+    <name>Trevor</name>
+    <display_name>Trevor</display_name>
+
+    <location><![CDATA[Melbourne, Victoria, Australia]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/175635-trevor]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1388976384p3/175635.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1388976384p2/175635.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Apr 20 13:39:59 -0700 2015</created_at>
+  <updated_at>Mon Apr 20 13:39:59 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>118047773</id>
+  <body><![CDATA[<i>Trevor wrote: "I really should read this again - I hadn't realised it had been quite so long."</i><br /><br />Doooo itttttt.]]></body>
+  
+  <user>
+    <id>4119460</id>
+    <name>Aubrey</name>
+    <display_name>Aubrey</display_name>
+
+    <location>Fremont, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4119460-aubrey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1472535045p3/4119460.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1472535045p2/4119460.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Apr 20 17:45:38 -0700 2015</created_at>
+  <updated_at>Mon Apr 20 17:45:38 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>118048241</id>
+  <body><![CDATA[Ah, not so much 'for want of a nail' but more 'for want of time'. You might think that physics, which has spent so much effort over centuries and centuries trying to work out what time is, might have found a way to fit a bit more of it into a day. Pathetic, really.]]></body>
+  
+  <user>
+    <id>175635</id>
+    <name>Trevor</name>
+    <display_name>Trevor</display_name>
+
+    <location><![CDATA[Melbourne, Victoria, Australia]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/175635-trevor]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1388976384p3/175635.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1388976384p2/175635.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Apr 20 17:55:28 -0700 2015</created_at>
+  <updated_at>Mon Apr 20 17:55:28 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>118382279</id>
+  <body><![CDATA[The best expression of Frankenstein as the precursor of science fiction, and the zenith of the English gothic novel as well, by the way, is in Brian Aldiss's extended review in The Trillion Year Spree. I highly recommend it. <br /><br />I'm afraid I am in the disagree camp in this thread: Frankenstein is one of my favourite novels, as a work of literature, and as a work of philosophy.]]></body>
+  
+  <user>
+    <id>40537013</id>
+    <name>Danceswithcats</name>
+    <display_name>Danceswithcats</display_name>
+
+    <location><![CDATA[East Cowes, N7, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/40537013-danceswithcats]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1425458254p3/40537013.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1425458254p2/40537013.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Apr 27 12:10:40 -0700 2015</created_at>
+  <updated_at>Mon Apr 27 12:10:40 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>118386662</id>
+  <body><![CDATA[I've no idea if or when I will get to read it Dances, but I've added it. <br /><br />I know I'm wrong about this book, but that, in part at least, is the joy of this site - getting to be wrong about books. I also know I was wrong about Crime and Punishment, and Catch 22. But the best thing is that when you say you didn't like a classic people generally shrug and note that it says more about you than the book. I wouldn't recommend trying the same thing with any currently popular work of fiction.]]></body>
+  
+  <user>
+    <id>175635</id>
+    <name>Trevor</name>
+    <display_name>Trevor</display_name>
+
+    <location><![CDATA[Melbourne, Victoria, Australia]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/175635-trevor]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1388976384p3/175635.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1388976384p2/175635.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Apr 27 13:44:47 -0700 2015</created_at>
+  <updated_at>Mon Apr 27 13:44:47 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>118409494</id>
+  <body><![CDATA[Should I keep my opinion of The Hunger Games to myself, then?]]></body>
+  
+  <user>
+    <id>40537013</id>
+    <name>Danceswithcats</name>
+    <display_name>Danceswithcats</display_name>
+
+    <location><![CDATA[East Cowes, N7, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/40537013-danceswithcats]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1425458254p3/40537013.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1425458254p2/40537013.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Apr 27 23:32:12 -0700 2015</created_at>
+  <updated_at>Mon Apr 27 23:32:12 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>118409615</id>
+  <body><![CDATA[I eventually learnt to do that with my opinion on Tuesdays with Morrie... After 200 odd (some very odd) comments.]]></body>
+  
+  <user>
+    <id>175635</id>
+    <name>Trevor</name>
+    <display_name>Trevor</display_name>
+
+    <location><![CDATA[Melbourne, Victoria, Australia]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/175635-trevor]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1388976384p3/175635.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1388976384p2/175635.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Apr 27 23:40:02 -0700 2015</created_at>
+  <updated_at>Mon Apr 27 23:40:02 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>159258117</id>
+  <body><![CDATA[Great review!]]></body>
+  
+  <user>
+    <id>25353295</id>
+    <name>Carmen</name>
+    <display_name>Carmen</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25353295-carmen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1412617445p3/25353295.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1412617445p2/25353295.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 18 09:09:39 -0800 2016</created_at>
+  <updated_at>Fri Nov 18 09:09:39 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159267301</id>
+  <body><![CDATA[Thanks Carmen]]></body>
+  
+  <user>
+    <id>175635</id>
+    <name>Trevor</name>
+    <display_name>Trevor</display_name>
+
+    <location><![CDATA[Melbourne, Victoria, Australia]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/175635-trevor]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1388976384p3/175635.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1388976384p2/175635.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 18 13:51:17 -0800 2016</created_at>
+  <updated_at>Fri Nov 18 13:51:17 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159292689</id>
+  <body><![CDATA[I know it has been such a while since I have read Mary Shelley's masterpiece about Frankenstein, but I loved it when I read it the first time at a young age when not examining it in comparison to other horror or Sci-Fi writers , and then when I read it twice more for academic analysis in High School and again in College . I loved this period of literature in English and found the fact that the story was written by a woman back in this age was wonderful . The combination of science and philosophy along with the emotional emphasis of the human compassionate side of the creature in the story is magnificently written for that era . If it seems boring in comparison to Stephen King or Anne Rice then you must realize the period in which this classic was written . I have to tell you as a young girl , I really cried for the monster . He was so sad . As a young shy girl that often did not fit in I related to him . I was very emotionally connected to the sadness of the story . Well , I have defended my view and my silly reasons . Did anyone else ever read Frankenstein and feel like this ? You know , I often wonder if Mary Shelley did not feel this way at times . Her marriage was not that content so maybe she related to her main creature .]]></body>
+  
+  <user>
+    <id>24821592</id>
+    <name>Dawn</name>
+    <display_name>Dawn</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24821592-dawn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1473533156p3/24821592.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1473533156p2/24821592.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Nov 19 09:17:04 -0800 2016</created_at>
+  <updated_at>Sat Nov 19 09:17:04 -0800 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/16392875]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/16392875]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

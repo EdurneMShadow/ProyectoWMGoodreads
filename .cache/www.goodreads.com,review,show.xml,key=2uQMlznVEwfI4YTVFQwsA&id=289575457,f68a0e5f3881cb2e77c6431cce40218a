@@ -1,0 +1,1231 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:52:37 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: DQ0BC2GV1SVNFPP675AK
+etag: W/"48b121699107748453e39bc77a23ba9f"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.494268
+set-cookie: csid=BAhJIhg1MDItOTY4MTUyNy01MDgzMDE4BjoGRVQ%3D--abd8f7ef916752f5ca2ecd5dd6834f1e3a73bc34; path=/; expires=Tue, 12 May 2037 13:52:36 -0000, locale=es; path=/, _session_id2=bfae5d556ee548e68a63a9911b78b8ce; path=/; expires=Fri, 12 May 2017 19:52:37 -0000; HttpOnly
+content-length: 72597
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=289575457
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>289575457</id>
+    
+  <user>
+    <id>6520961</id>
+    <name>Sophia.</name>
+    <display_name>Sophia.</display_name>
+
+    <location>France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6520961-sophia]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1322479535p3/6520961.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1322479535p2/6520961.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">11870085</id>
+  <isbn>0525478817</isbn>
+  <isbn13>9780525478812</isbn13>
+  <text_reviews_count type="integer">127185</text_reviews_count>
+  <title>The Fault in Our Stars</title>
+  <title_without_series>The Fault in Our Stars</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1360206420m/11870085.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1360206420s/11870085.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/11870085-the-fault-in-our-stars</link>
+  <num_pages>313</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Dutton Books</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.27</average_rating>
+  <ratings_count>2381953</ratings_count>
+  <description>&lt;i&gt;There is an alternate cover edition &lt;a href="https://www.goodreads.com/book/show/25856606-the-fault-in-our-stars" rel="nofollow"&gt;here&lt;/a&gt;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;"I fell in love the way you fall asleep: slowly, then all at once."&lt;br /&gt;&lt;br /&gt;Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a gorgeous plot twist named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten.&lt;br /&gt;&lt;br /&gt;Insightful, bold, irreverent, and raw, The Fault in Our Stars is award-winning author John Green's most ambitious and heartbreaking work yet, brilliantly exploring the funny, thrilling, and tragic business of being alive and in love.</description>
+<authors>
+<author>
+<id>1406384</id>
+<name>John Green</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>4528234</ratings_count>
+<text_reviews_count>275833</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1226630917</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Feb 07 00:35:14 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>3</rating>
+  <votes>1722</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>removed</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="heart-breaking" exclusive="false" review_shelf_id="198527425" sortable="false" />
+    <shelf name="pretentious-writing" exclusive="false" review_shelf_id="198527833" sortable="false" />
+    <shelf name="awesome-parent" exclusive="false" review_shelf_id="198527187" sortable="false" />
+    <shelf name="beautiful-ending" exclusive="false" review_shelf_id="198527233" sortable="false" />
+    <shelf name="teary" exclusive="false" review_shelf_id="328286896" sortable="false" />
+    <shelf name="eye-rolls-and-frowning" exclusive="false" review_shelf_id="328286369" sortable="false" />
+    <shelf name="unconvincing-romance" exclusive="false" review_shelf_id="328286769" sortable="false" />
+    <shelf name="depression" exclusive="false" review_shelf_id="198527318" sortable="false" />
+    <shelf name="medical-places" exclusive="false" review_shelf_id="198527475" sortable="false" />
+    <shelf name="death" exclusive="false" review_shelf_id="198527310" sortable="false" />
+    <shelf name="deja-vu" exclusive="false" review_shelf_id="198527329" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sun Mar 25 00:00:00 -0700 2012</read_at>
+  <date_added>Tue Mar 06 06:43:17 -0800 2012</date_added>
+  <date_updated>Wed Dec 04 16:27:14 -0800 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<b>EMOTIONAL BLACKMAIL.</b><br /><img src="http://www.spoilersguide.com/wp-content/uploads/2012/11/Revenge-Emily-sitting-has-gun-to-her-head.jpg" class="gr-hostedUserImg" /><br /><b>You will cry, because this is VERY sad.</b><br /><br />So a discussion occurred in my head after I rated the book. <br /><br />[spoilers removed]]]>
+  </body>
+
+  
+
+  <comments_count>341</comments_count>
+    <comments start="1" end="50" total="341">
+        <comment>
+  <id>64406529</id>
+  <body><![CDATA[Before I Die made me cry too. that's the hardest i've ever cried while reading a book lol]]></body>
+  
+  <user>
+    <id>5907530</id>
+    <name>Tracey</name>
+    <display_name>Tracey</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5907530-tracey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1438720863p3/5907530.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1438720863p2/5907530.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Dec 29 12:03:47 -0800 2012</created_at>
+  <updated_at>Sat Dec 29 12:03:47 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>64417866</id>
+  <body><![CDATA[Fun review! I never read sad books, especially books where someone has cancer. I almost stopped watching Desperate Housewives because of the cancer part. A lot of people in my had it, and every day I fear I will too. But the review was still interesting, even though it's a book I'll never read.]]></body>
+  
+  <user>
+    <id>3849547</id>
+    <name>Zelda</name>
+    <display_name>Zelda of Unapologetic Reviews</display_name>
+
+    <location>Budapest, Hungary</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3849547-zelda-of-unapologetic-reviews]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1380378983p3/3849547.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1380378983p2/3849547.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Dec 29 14:59:14 -0800 2012</created_at>
+  <updated_at>Sat Dec 29 14:59:14 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>64424792</id>
+  <body><![CDATA[Oh, my God, this review. I'm <i>dying</i>. That was amazing. And just spot on. I love the way you fully explain your feelings within the conversation.<br /><br /><i>VH: It won the GoodReads award for best YA!<br /><br />Me: So? Fifty Shades won Best Romance.</i><br /><br />Hahahaaaahahahahahahahahaaa]]></body>
+  
+  <user>
+    <id>4847205</id>
+    <name><![CDATA[Alicia (is beyond tired of your *ish)]]></name>
+    <display_name><![CDATA[Alicia (is beyond tired of your *ish)]]></display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4847205-alicia-is-beyond-tired-of-your-ish]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1380025631p3/4847205.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1380025631p2/4847205.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Dec 29 16:43:41 -0800 2012</created_at>
+  <updated_at>Sat Dec 29 16:43:41 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>64449233</id>
+  <body><![CDATA[LOL I loved this book, but your review just cracked me up. Nice one, Sophia. Very nice review - not to mention highly entertaining.]]></body>
+  
+  <created_at>Sat Dec 29 23:25:27 -0800 2012</created_at>
+  <updated_at>Sat Dec 29 23:25:27 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>64456909</id>
+  <body><![CDATA[@Tracey: Oh, I know. Before I Die is magnificent. I don't think I've ever cried this much while reading a book. <br /><br />@Zelda: Thanks :) I tend to be very cautious around cancer books, too. I think this one might annoy you, because the way they dealt with the sickness.. Sometimes I found it insulting to the people who are genuinely sick. They handle it so casually, so sarcastically. It really bothered me.<br /><br />@Alicia: Hahahhaa I was totally thinking about you when I wrote that part. Thankkks &lt;3<br /><br />@Sandy: Thank you Sandy!]]></body>
+  
+  <user>
+    <id>6520961</id>
+    <name>Sophia.</name>
+    <display_name>Sophia.</display_name>
+
+    <location>France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6520961-sophia]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1322479535p3/6520961.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1322479535p2/6520961.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Dec 30 04:59:41 -0800 2012</created_at>
+  <updated_at>Sun Dec 30 04:59:41 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>64492964</id>
+  <body><![CDATA[Perfect review is perfect. I'm so glad someone else is also tired of seeing John Green write another book about himself. It's absolutely insane the amount of fans his books have. So far I've read three, and I liked one, because it was the first (Alaska). I just can't wrap my head around how intense his fandom is, and how huge it is. Maybe his books would have spoken more to me when I was a teenager and totally fatalistic and hated everything, but now that I'm an adult and less full of myself, I just can't stomach another word of his.]]></body>
+  
+  <created_at>Sun Dec 30 15:14:09 -0800 2012</created_at>
+  <updated_at>Sun Dec 30 15:14:09 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>64503466</id>
+  <body><![CDATA[<i>Sophia. wrote: "@Alicia: Hahahhaa I was totally thinking about you when I wrote that part. Thankkks &lt;3"</i><br><br><a class="jsShowSpoiler spoilerAction">(view spoiler)</a><span class="spoilerContainer" style="display: none">[<img src="https://images.gr-assets.com/hostedimages/1380222758ra/256891.gif" class="gr-hostedUserImg"> <a class="jsHideSpoiler spoilerAction">(hide spoiler)</a>]</span></["br"]></["br"]>]]></body>
+  
+  <user>
+    <id>4847205</id>
+    <name><![CDATA[Alicia (is beyond tired of your *ish)]]></name>
+    <display_name><![CDATA[Alicia (is beyond tired of your *ish)]]></display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4847205-alicia-is-beyond-tired-of-your-ish]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1380025631p3/4847205.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1380025631p2/4847205.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Dec 30 17:40:44 -0800 2012</created_at>
+  <updated_at>Sun Dec 30 17:40:44 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>64619276</id>
+  <body><![CDATA[<i>Bekka (Pretty Deadly Reviews) wrote: "Perfect review is perfect. I'm so glad someone else is also tired of seeing John Green write another book about himself. It's absolutely insane the amount of fans his books have. So far I've rea..."</i><br /><br />Awesome comment is awesome :) (And Happy New Year, Bekka!!&lt;3) Me too, the only one I've liked was Looking for Alaska, and that was the first one, too. But I do think it's the best so far. What else have you read by him? I read Paper Towns but hated it, and I coudn't finish An abundance of Katherines. You're right, the devotion of the John Green fan community is really disconcerting. I don't get the hype, he's okay but not that good. Overrated IMO.]]></body>
+  
+  <user>
+    <id>6520961</id>
+    <name>Sophia.</name>
+    <display_name>Sophia.</display_name>
+
+    <location>France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6520961-sophia]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1322479535p3/6520961.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1322479535p2/6520961.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 01 08:38:20 -0800 2013</created_at>
+  <updated_at>Tue Jan 01 08:38:20 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>64625948</id>
+  <body><![CDATA[<i>Sophia. wrote: "Bekka (Pretty Deadly Reviews) wrote: "Perfect review is perfect. I'm so glad someone else is also tired of seeing John Green write another book about himself. It's absolutely insane the amount of..."</i><br /><br />I've read this, Alaska, and Will Grayson, Will Grayson. The last I thought was terrible (my rant will be up this week.) I thought it was a pretty gross misrepresentation of not just the LBGT community but also those with depression and other mental illness. &gt;.&lt;]]></body>
+  
+  <created_at>Tue Jan 01 10:14:58 -0800 2013</created_at>
+  <updated_at>Tue Jan 01 10:14:58 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>64626012</id>
+  <body><![CDATA[Also happy new year to you too! &lt;3]]></body>
+  
+  <created_at>Tue Jan 01 10:16:00 -0800 2013</created_at>
+  <updated_at>Tue Jan 01 10:16:00 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>64660625</id>
+  <body><![CDATA[This is my first John Green Novel and I only read it because of a quote I saw on Tumblr, so I have no comparison to his other titles but I loved your review. It was honest and very entertaining (Oh and I am totally guilty, I won your dare because I started to tear up when you mentioned a siblings/your own death)]]></body>
+  
+  <user>
+    <id>4150811</id>
+    <name>Mistie</name>
+    <display_name>Mistie</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4150811-mistie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1326421286p3/4150811.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1326421286p2/4150811.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 01 18:55:44 -0800 2013</created_at>
+  <updated_at>Tue Jan 01 18:55:44 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>64705068</id>
+  <body><![CDATA[This is not my favorite John Green book but I did enjoy it. I also really enjoyed your review but I do have some things I want to discuss with you... <br /><br />I don't really think JG was trying to write an idealized version of himself in Augustus, if anything I think the character that he would put the most of himself into is Van Houten. He has actually said that he thinks he is a mix of Patrick and Van Houten.<br /><br />Regarding Augustus, Augustus IS pretentious! That's one of his weaknesses. He is obsessed with metaphorical resonance and grand sweeping gestures, to the point where - I think there's a picnic scene where this is especially notable - the gestures can't even be enjoyed anymore because he's trying too hard.<br /><br />You also said this: "What I want to say is, not every death is glorious. Not every death is epic and not every death will glow like a star in the eternal twilight sky. Most of the time, deaths are random, plain, and the world is cold and uncaring, and that's how it is. And that's what's terrible." This is true, and I think this is reflected in the book. Other parts of it are unrealistic, yes, but I think the way it deals with death is honest. In the book, specifically, <a class="jsShowSpoiler spoilerAction">(view spoiler)</a><span class="spoilerContainer" style="display: none">[the person dying in the end isn't Hazel, who still actually has cancer and in her darkest moments feels like she is waiting to die, it's Augustus, who thought he was in remission, who thought he was scot-free. That'd be really unfair (if it was real life) and it comes out of nowhere. Yet that's exactly what makes it realistic.  <a class="jsHideSpoiler spoilerAction">(hide spoiler)</a>]</span><br /><br />Thanks for a great review! Hope to have a discussion about this as well.]]></body>
+  
+  <user>
+    <id>3222236</id>
+    <name>Reut</name>
+    <display_name>Reut</display_name>
+
+    <location>Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3222236-reut]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1408368157p3/3222236.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1408368157p2/3222236.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 02 11:23:41 -0800 2013</created_at>
+  <updated_at>Wed Jan 02 11:23:41 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>64760928</id>
+  <body><![CDATA[Hi Reut! Thanks for the kind words :)<br /><br />Sooo. About JG writing an idealized version of himself through Augustus. You're right, he probably identified more with Peter, but I do think that there are traits in Augustus that are fundamentally John Green's. The constant references to movies, for example: I'm pretty sure all those movies are among his favourites. I also read somewhere on a review that Augustus talks the way John Green talks himself. So yeah. <br />I tend to think that JG (like every author, only with JG it's taken to an extreme) always gives a bit of himself into his male characters (they're nerdy, they fall in love with the pixie girl who I am sure is the idealized carbon copy of the girl John used to love and never managed to conquer when he was a kid).<br />And with Augustus... You know when sometimes you're reading a book and you can feel that the author is suddenly preaching through the main character's voice? Like suddenly the protagonist is talking shit about how gay marriage is awesome or wrong, or how being a virgin until marriage is great, stuff like that? You know, when it has strictly nothing to do with the story but you can feel that the author couldn't resist and just had to add their two cents? Whenever I spot that, I'm totally turned off. I can't explain it as well as I wish I could, but I totally had that feeling when I read Augustus's lines. <br /><br />And about Death not being glorious..Hmm... <a class="jsShowSpoiler spoilerAction">(view spoiler)</a><span class="spoilerContainer" style="display: none">[To me the fact that Augustus died was precisely oh-so-SPECIAL. Remember when I said in the review that I felt like I was hearing John Green talking to me all the while I was reading? Well, when Augustus died... it was a bit like: "DO YOU FEEL HOW SAD THIS IS? THE WORLD WILL NEVER BE THE SAME. DO YOU SEE WHAT I DID HERE? I TOOK SOMEONE WHO WASNT SUPPOSED TO DIE, AND I MADE HIM DIE. HIS DEATH IS EPIC AND MAGNIFICENT, AND THE WORLD WILL NEVER BE THE SAME BECAUSE AUGUSTUS WATERS HAS JUST DIED."<br />All this was emphasized with the funeral, the speeches, the fact that at some point Hazel says "There was no one I wanted to hear more at Augustus Waters's funeral than Augustus Waters himself." Do you see what I mean? I felt like he was taken out of the regular, boring human kind in order to be placed ABOVE the rest of the pathetic world. See, I get where you're coming from, but I'm totally thinking the opposite. Had Hazel died, and Augustus lived, then I think it would have been less... spectacular. Because what was the only way for JB to be absolutely certain that he would break his readers' hearts? By making the invincible, the oh-so-intelligent, the beautiful, the genius, the brilliant, the supposedly cured Augustus Waters... Die. A horribly boring human thing to do. <a class="jsHideSpoiler spoilerAction">(hide spoiler)</a>]</span><br /><br />And about Augustus being pretentious... Well. There's only so much I can take as a character's "flaw". Him being pretentious doesn't even begin to cover it. He's self obsessed behind any socially acceptable limit. Besides, I kept thinking that in real life, people would slap him, not fall in love with him (that's a horrible thing to say, isn't? The voice in my head is calling me a cold hearted bitch all over again.)]]></body>
+  
+  <user>
+    <id>6520961</id>
+    <name>Sophia.</name>
+    <display_name>Sophia.</display_name>
+
+    <location>France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6520961-sophia]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1322479535p3/6520961.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1322479535p2/6520961.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 03 04:08:25 -0800 2013</created_at>
+  <updated_at>Thu Jan 03 04:08:25 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>64782744</id>
+  <body><![CDATA[<i>Sophia. wrote: "Hi Reut! Thanks for the kind words :)<br /><br />Sooo. About JG writing an idealized version of himself through Augustus. You're right, he probably identified more with Peter, but I do think that there are t..."</i><br /><br />I find it completely fascinating how two people can have completely different interpretations of the same combination of 26 letters. It's pretty crazy. <br /><br />I hear what you're saying, and the point you make about "LOOK HOW TRAGIC IT IS" is a good one. I think it was intended to be tragic, but not epic. The scene where <a class="jsShowSpoiler spoilerAction">(view spoiler)</a><span class="spoilerContainer" style="display: none">[Augustus is vomiting all over himself after trying to go get cigarettes <a class="jsHideSpoiler spoilerAction">(hide spoiler)</a>]</span> is heartbreaking, because we've seen this character at their (admittedly forced) best, and now they're at their pathetic worst.<br /><br />Also this: "I also read somewhere on a review that Augustus talks the way John Green talks himself. So yeah." Does this person know John Green personally? Or is this just from watching Vlogbrothers videos? I've been watching Vlogbrothers videos for a long time (I haven't been recently, though) and I personally don't find that he speaks that way with the constant references and things but that could be because the topics don't allow for it. In my writing, I'm a lot more pretentious than I am when I'm talking with my friends. <br /><br />Anyway, gonna have to disagree with you again there. When I first read <i>Looking for Alaska</i> I definitely thought the whole thing was self-insertion, maybe I still do. But I don't think the point of it was that the manic pixie dream girl has a tragic end and Pudge is forever changed for having known her. In fact, throughout the whole book Pudge never really knows Alaska--he definitely treats her as this untouchable MPDG--and even the title suggests that. I think there's a quote in <i>Paper Towns</i> where Q says, <br /><blockquote>What a treacherous thing to believe that a person is more than a person.</blockquote><br />Again, Q has built up this <i>idea</i> of Margo Roth Spiegelman so high up in his head that when he finds her and she is not acting as the MPDG anymore, but a real person, he doesn't know what to do with that idea anymore. <br /><br />I'm not a John Green fangirl - actually I used to be, but as I get older and smarter (well, <i>hopefully</i> smarter), I start to disagree with him more and more, and see flaws in his fanbase and things he does. I do think he means well, though, with things like Crash Course and the Project for Awesome, donating to Kiva, etc., and I do like his books.]]></body>
+  
+  <user>
+    <id>3222236</id>
+    <name>Reut</name>
+    <display_name>Reut</display_name>
+
+    <location>Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3222236-reut]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1408368157p3/3222236.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1408368157p2/3222236.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 03 10:48:23 -0800 2013</created_at>
+  <updated_at>Thu Jan 03 10:48:23 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>64816096</id>
+  <body><![CDATA[I'm just going to convo-jack here for a second and say that it's refreshing to see people who like a book compliment and start civil discussions in a not positive review (haha, hard to define this since it is three stars still). The last time I saw a negative review of TFiOS the reviewer got buried with absolutely horrible comments. (And we all know the crap Sophia takes elsewhere.)]]></body>
+  
+  <user>
+    <id>4847205</id>
+    <name><![CDATA[Alicia (is beyond tired of your *ish)]]></name>
+    <display_name><![CDATA[Alicia (is beyond tired of your *ish)]]></display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4847205-alicia-is-beyond-tired-of-your-ish]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1380025631p3/4847205.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1380025631p2/4847205.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 03 18:35:02 -0800 2013</created_at>
+  <updated_at>Thu Jan 03 18:35:02 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>64825853</id>
+  <body><![CDATA[<i>Alicia wrote: "I'm just going to convo-jack here for a second and say that it's refreshing to see people who like a book compliment and start civil discussions in a not positive review (haha, hard to define this ..."</i><br /><br />Thanks! I friended Sophia after one of these episodes or something so I was conscious of that in commenting. And I really do like her review, I just disagree with it. Besides, if I'm trying to make a point... what would be the point in acting irrational?]]></body>
+  
+  <user>
+    <id>3222236</id>
+    <name>Reut</name>
+    <display_name>Reut</display_name>
+
+    <location>Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3222236-reut]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1408368157p3/3222236.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1408368157p2/3222236.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 03 20:59:21 -0800 2013</created_at>
+  <updated_at>Thu Jan 03 20:59:21 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>64836188</id>
+  <body><![CDATA[<i>Reut (reutreads) wrote: "Besides, if I'm trying to make a point... what would be the point in acting irrational?"</i><br /><br />I wonder why people do that all of the time. But, really, they aren't trying to make a point, they're basically throwing a tantrum because someone doesn't see a book the way they do.]]></body>
+  
+  <user>
+    <id>4847205</id>
+    <name><![CDATA[Alicia (is beyond tired of your *ish)]]></name>
+    <display_name><![CDATA[Alicia (is beyond tired of your *ish)]]></display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4847205-alicia-is-beyond-tired-of-your-ish]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1380025631p3/4847205.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1380025631p2/4847205.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 04 02:23:45 -0800 2013</created_at>
+  <updated_at>Fri Jan 04 02:23:45 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>65058551</id>
+  <body><![CDATA[Sophia I love this review and it is helping me shape my own thoughts for my review that I am currently typing up. You have done it in a very entertaining way as well, reminds me of Red Letter Media's Mr Plinkett reviews haha.]]></body>
+  
+  <user>
+    <id>15730089</id>
+    <name>Myron</name>
+    <display_name>Myron</display_name>
+
+    <location>Melbourne, 07, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15730089-myron]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1356762788p3/15730089.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1356762788p2/15730089.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 07 00:42:04 -0800 2013</created_at>
+  <updated_at>Mon Jan 07 00:42:04 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>65095046</id>
+  <body><![CDATA[<i>Reut (reutreads) wrote: "Sophia. wrote: "Hi Reut! Thanks for the kind words :)<br /><br />Sooo. About JG writing an idealized version of himself through Augustus. You're right, he probably identified more with Peter, but I do think ..."</i><br /><br />Reut, I'm sorry it took me so long to answer! <s>stupid finals.</s><br /><br />I know, interpretation is funny, right? It's so weird because to a certain extent, I agree with what you're saying... But then I still disagree. A little bit :)<br /><br />So it's totally embarrassing because I can't remember that scene <a class="jsShowSpoiler spoilerAction">(view spoiler)</a><span class="spoilerContainer" style="display: none">[where Augustus vomits all over himself <a class="jsHideSpoiler spoilerAction">(hide spoiler)</a>]</span>. I've read the book months ago and I just can't remember.. That makes me wonder if I should re-read it, but I'm so not in the mood for it.<br /><br />Also, before I forget, kind of unrelated but this is an update from a friend I found from when she was reading TFIOS: "Yeah, I cried, but I felt manipulated into crying." And I just wanted to say that's exactly how I felt. Manipulated. Because of course, I cried like a bitch during the book. Of course I did. The end was horrible. But still, I didn't like to cry (whereas usually I LOVE to cry while reading.) <br /><br />About JG talking like Augustus, I don't know who said it, it was an Amazon review, that I can say for sure. The girl just said something like "Apparently this is how JG talks in real life, way to be self congratulory." Something like that, but yeah, I don't know where she got that from. I've never really watched his video. <a class="jsShowSpoiler spoilerAction">(view spoiler)</a><span class="spoilerContainer" style="display: none">[I tried once but couldn't go on.. I don't know if it was just the video I clicked on but he was kinda annoying. <a class="jsHideSpoiler spoilerAction">(hide spoiler)</a>]</span><br /><br />I don't disagree that much with you about that last part, actually. I loved Looking For Alaska. I don't know if I've already said that, but it was my first JG and I was so surprised, you know? Then the magic faded away when I realized that the "magician" (ha!) was always doing the same trick. <br />Also I think the whole pixie girl thing worked better in Alaska because, well, <a class="jsShowSpoiler spoilerAction">(view spoiler)</a><span class="spoilerContainer" style="display: none">[she dies. So she disappears before the reader actually gets to know her, I mean really know her, and the mysterious aura around Alaska gets even more intense. I was totally obsessed with her, and her mysterious and unexpected death was amazing in the sense that it emphasized her charisma, it made her even more... special. <a class="jsHideSpoiler spoilerAction">(hide spoiler)</a>]</span>. But that changes with Paper Towns, because he tried to do that again with Margo (I don't know about the publication dates, actually, so I could be wrong) but this time, Margo gets her big speech moment, at the end, where she finally reveals "who she really is" (which Alaska never did). And that's where it didn't work out for me, because it was so... Shallow. Like she kept talking and talking and I was yawning and the only thing I could think of was, "So EMO." Her running away, her thoughts about life.. Everything. She should <a class="jsShowSpoiler spoilerAction">(view spoiler)</a><span class="spoilerContainer" style="display: none">[ have died, too. I suppose that had Alaska lived and talked for real, she would have been just as ridiculous as Margo appears to be in PT. Death saved her from that. <a class="jsHideSpoiler spoilerAction">(hide spoiler)</a>]</span><br />Do I make sense? I hope so. Also, I love that quote from Paper Towns. So accurate.]]></body>
+  
+  <user>
+    <id>6520961</id>
+    <name>Sophia.</name>
+    <display_name>Sophia.</display_name>
+
+    <location>France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6520961-sophia]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1322479535p3/6520961.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1322479535p2/6520961.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 07 14:17:34 -0800 2013</created_at>
+  <updated_at>Mon Jan 07 14:17:34 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>65117388</id>
+  <body><![CDATA[Hi! I have a few comments on your review, I hope that's okay and that I come off as confrontational or like trying to pick a fight. You don't even have to read them if you don't feel like it (especially since there seem to be a lot of comments already and you may have heard this before).<br /><br />I think it's interesting that so many of you cried while reading this book, because though I was very sad I did not shed a tear. So I guess I won your dare? I don't know if that makes me a robot?<br /><br />I have to respectfully disagree with your statement that "NO ONE" talks like that, because as a teenager who has spent time with her peers I have met some remarkably articulate teens. (I do think this is a weakness of Green's writing, however. It was one of the things I noticed while reading the book. But it was mostly the long monologues that irritated me, not the witty banter or metaphors.)<br /><br />Also, as someone who has watched a lot of the vlogbrothers for a while now it did not even occur to me to compare Augustus to John Green. I tried to imagine John acting like that and I can't see it! I could imagine him saying some of those things about oblivion, though. I don't know, maybe he was more like Augustus as a teenager. <br /><br />I agree with you that Green has a formula for his books. But I think he broke WAY out of his mold in this book. The characters are still "nerdy" but there is no element of onesidedness to their relationship, which was a really common theme in his other books. I felt like I knew both of them pretty well and neither of them was ~mysterious~ like Alaska. I also don't see his repetition necessarily as a problem because I think he does it at least decently each time around, and it's not like they're in a series and he keeps repeating the same arc. I think he likes writing a certain type of character. If I get tired of that character I'll read books by someone else. (Also, I would not consider them the same characters anyway, because Colin and Augustus are very different, and Hazel, Lindsey, and Alaska are definitely not the same either. I know I identified so much more with Colin than with Q, for example. I can't comment on Margo because I'm not finished with Paper Towns.) This may be just a matter of taste.<br /><br />Lastly, I would encourage you not to fear nerdfighters! As someone who has encountered some truly ridiculous fans, nerdfighteria is firmly among the chiller and more respectful YA fandoms! :) (I don't think I'd seen true wrath until I'd spent three months in a Tumblr fandom. Which perhaps you have as well? Bonus points if you've critiqued someone's OTP)]]></body>
+  
+  <user>
+    <id>16154253</id>
+    <name>Hannah</name>
+    <display_name>Hannah</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16154253-hannah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1396061230p3/16154253.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1396061230p2/16154253.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 07 19:31:59 -0800 2013</created_at>
+  <updated_at>Mon Jan 07 19:31:59 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>65149030</id>
+  <body><![CDATA[They should have awards for best review. I'd nominate this. This is the best, most unpretentious, witty (and I don't generally use that as a serious word, it just works better with sarcasm) review I have read in a while. Wow.]]></body>
+  
+  <user>
+    <id>6090813</id>
+    <name>Aamrah</name>
+    <display_name>Aamrah</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6090813-aamrah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1348971097p3/6090813.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1348971097p2/6090813.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 08 09:58:39 -0800 2013</created_at>
+  <updated_at>Tue Jan 08 09:58:39 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>65152602</id>
+  <body><![CDATA[<i>Hannah wrote: "Hi! I have a few comments on your review, I hope that's okay and that I come off as confrontational or like trying to pick a fight. You don't even have to read them if you don't feel like it (espec..."</i><br /><br />Hi Hannah! It's cool, I don't mind. The comment is kinda super long so I'll just put it as a spoiler.<br /><a class="jsShowSpoiler spoilerAction">(view spoiler)</a><span class="spoilerContainer" style="display: none">[So about the crying, I suppose that it's down to the reader, ultimately. I cry easily, but I know that it's not the case for everyone. I have a friend who never cries, she shuts herself down and goes into some sort of "mental zone" that's just full of silent pain, but she doesn't cry. Tears aren't the only way to hurt, I guess. So yeah, you win my dare, but you're no robot :)<br /><br />What's more problematic for me is the thing about how Augustus talks. I have seen some people saying that they themselves talk, or have friends who talk like that, and I'm sorry, but this kinda leaves me unconvinced and in total disbelief. I've met a few people, like teens, who have huge IQs, and/or who are really eloquent and articulate. But it never reached Augustus/Hazel's level. Never, ever. Because it's too perfect. It's normal, after all, TFIOS is a book. But the monologues are way too well written, for me that's a fact. I wish I could give you more examples, but I don't have the book around right now, so I'll just stick with this: <br /><blockquote>“There will come a time,” I said, “when all of us are dead. All of us. There will come a time when there are no human beings remaining to remember that anyone ever existed or that our species ever did anything. <br />There will be no one left to remember Aristote or Cleopatra, let alone you. Everything that we did and built and wrote and thought and discovered will be forgotten and all of this”—I gestured encompassingly—“will have been for naught. Maybe that time is coming soon and maybe it is millions of years away, but even if we survive the collapse of our sun, we will not survive forever. There was time before organisms experienced consciousness, and there will be time after.<br />And if the inevitability of human oblivion worries you, I encourage you to ignore it. God knows that’s what everyone else does.”</blockquote><br />Now come on. YES, it's beautiful. Everyone's going "OMG so true so awsome!!!" but seriously, who can improvize that? IMO, no one. Certainly not a teen. Nor a teen who has always had cancer and who's been in the hospital for the last 10 years or so. And even if someone did talk like that, the probability that they'd find their "speech twin" is SO thin. <s>Plus, in real life, he wouldn't be hot, he'd be geeky as fuck</s>. I suppose you could say I have a problem with realism. I'm pretty sure that if I ever read it again, I'll have tons and tons of new examples and I'd be more relevant because right now I don't have a single memory of the trip in Amsterdam <s>other that it kinda bored me to death</s>. And I'm sure I'd have plenty of things to say about Peter Van--, the author.<br /><br />About the relationship between JG and Augustus... I don't think that JG wants to "be" Augustus as much as I think that he ADORES Augustus. I wouldn't be surprised if I learned that Augustus is JG's favourite character so far, you know? Because it's wit and intelligence and smart-ass attitude taken to an extreme. Also, if I allowed myself to go farther with this, I'd say that JG loves Augustus, because Augustus is everything JG wished he had been when he was a teen. Does that make sense? But it's a slippery slope so I'll just stick with this: I couldn't shake off John Green's image when reading about Augustus. I don't now why.<br /><br />About JG's formula.. Well. It's true that there's no onesideness in this one but I could still totally say that it was written by JG. I recognize the humor, the plot, the characterization, <i>everything</i> is Johngreenish, and that's not necessarily a good thing sometimes. <br />And about those nerdfighters, well, I've been trolled by a weird fan like "omg u stupid b*tch why did u read the book if u didnt like it John Green's the best 4eva".. but I accept to believe that this was just an exception. And are you kidding me? I would never dare approach a tumblr fandom! :)<br /> <a class="jsHideSpoiler spoilerAction">(hide spoiler)</a>]</span>]]></body>
+  
+  <user>
+    <id>6520961</id>
+    <name>Sophia.</name>
+    <display_name>Sophia.</display_name>
+
+    <location>France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6520961-sophia]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1322479535p3/6520961.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1322479535p2/6520961.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 08 11:09:06 -0800 2013</created_at>
+  <updated_at>Tue Jan 08 11:09:06 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>65152673</id>
+  <body><![CDATA[<i>Aamrah wrote: "They should have awards for best review. I'd nominate this. This is the best, most unpretentious, witty (and I don't generally use that as a serious word, it just works better with sarcasm) review ..."</i><br /><br />Oh Aamrah, thank you SO much! Best comment ever.]]></body>
+  
+  <user>
+    <id>6520961</id>
+    <name>Sophia.</name>
+    <display_name>Sophia.</display_name>
+
+    <location>France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6520961-sophia]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1322479535p3/6520961.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1322479535p2/6520961.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 08 11:10:53 -0800 2013</created_at>
+  <updated_at>Tue Jan 08 11:10:53 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>65169960</id>
+  <body><![CDATA[I LOVED this review, it was great and I could relate to bits of it, I did at times think it was all a bit... TOO much (I did cry though... Of course I cried.) BUT I am a 17 year old, a hopeless romantic and it pains me to say it but... I could really see myself saying some of the things that they say. I mean, I don't, because my boyfriend would smack me round the head BUT I could, and I could mean them too. So maybe it's not so unrealistic that they seemed to love each other so very much? Teenagers, we are a very melodramatic bunch! I've never read another John Green book but I'm definitely going to now and see if he really is a little over-doing it on the 'nerd narrator' thing ;) BUT great review!]]></body>
+  
+  <user>
+    <id>15940720</id>
+    <name>Chloé</name>
+    <display_name>Chloé Blencowe</display_name>
+
+    <location>Coventry, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15940720-chlo-blencowe]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1458740977p3/15940720.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1458740977p2/15940720.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 08 15:55:34 -0800 2013</created_at>
+  <updated_at>Tue Jan 08 15:55:34 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>65178901</id>
+  <body><![CDATA[(someday I will put this together into my own review instead of spewing it in random places...)<br /><br />I can see how Augustus might be a Gary Stu. I'll probably have more thoughts on it when I reread, because the first time I read it I pretty much devoured it and admittedly wasn't thinking very critically!<br /><br />The more I think about it, the more I realize that I didn't love this book for the characters, because you're right-- they're not that great. I liked them and as far as YA fiction goes, I thought they were well-written; but I think what really made me like the book was the fact that it's kind of a philosophical gold mine and in my experience you don't get that very often with YA. For example, I can't tell you how much I loved the idea of finding an infinity between endpoints-- Hazel and Augustus weren't together for very long, but even after <a class="jsShowSpoiler spoilerAction">(view spoiler)</a><span class="spoilerContainer" style="display: none">[ Augustus dies nothing can take away the time they spent together. <a class="jsHideSpoiler spoilerAction">(hide spoiler)</a>]</span> I think there's a lot a teenager reading this could take away about permanence and what "always" actually means. I know I don't think about permanence the same way anymore-- and that's a good thing. Plus, it's in a completely accessible format; not tough for young people to understand at all. <br /><br />As a result, though, Augustus and Hazel never felt 100% developed. They were too busy being the backbone of various themes. You pointed out Green's obsession with metaphor and I think a lot of the book itself is a metaphor, or at least a sort of thought experiment. <br /><br />So I'd say that intellectually this book is delicious, but as a "Cancer Book" it's average, maybe a little better than... In other words, 3 stars (as you rated it). It's good in that it sensitively discusses many ASPECTS of cancer, like pain, weakness and dying young; but not so good in that the actual kids with cancer aren't that well developed. I doubt he intended it to be that way-- he does have experience working with sick kids, after all, and he dedicated it to a nerdfighter who died of cancer-- but alas, that's how it turned out.<br /><br />(Maybe John Green should write some stuff purely on philosophy. I wouldn't mind seeing some of the things Hazel and Augustus say in a different setting. That's partly why I like his vlog so much.)<br /><br />(About Hazel being in the hospital for 10 years-- it's actually more like 3. I remember that because I was imagining how horrible it would be to turn 13 and find out you had cancer and have to basically give up a chunk of your life. Come to think of it, that issue should have been given some more time; it would have added depth to Hazel. I almost wonder if there was stuff he cut out to make the book shorter.)<br /><br />(I object to the idea that geeky people can't be hot! :) ha)<br /><br />(I agree with Chloé on teenagers being melodramatic. I've seen a number of people complain about a this or that teenage character because they're annoying-- and really all I have to say to that is... unfortunately, teenagers are annoying! :P Also Chloé-- he usually doesn't overdo it like this; I didn't pick up on it as much in Looking for Alaska or An Abundance of Katherines.)<br /><br />--P.S. I'd be lying if I said I didn't enjoy Tumblr but I always feel a bit like a drug dealer when I recommend it to friends]]></body>
+  
+  <user>
+    <id>16154253</id>
+    <name>Hannah</name>
+    <display_name>Hannah</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16154253-hannah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1396061230p3/16154253.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1396061230p2/16154253.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 08 18:09:36 -0800 2013</created_at>
+  <updated_at>Tue Jan 08 18:09:36 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>65816284</id>
+  <body><![CDATA[Thank you so much for writing this review. You said everything about this book that bothered me. I've nearly got into proverbial fist fights with John Green fans when I say I really disliked this book and that Hazel &amp; Augustus (what teenagers have names like that) were completely unbelieveable. <br /><br />I didn't cry while reading this because I refused to be manipulated in that way.<br /><br />Thanks again.]]></body>
+  
+  <user>
+    <id>4201595</id>
+    <name>A M</name>
+    <display_name>A M</display_name>
+
+    <location>Sydney, 02, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4201595-a-m]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1450134948p3/4201595.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1450134948p2/4201595.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 18 02:02:54 -0800 2013</created_at>
+  <updated_at>Fri Jan 18 02:02:54 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>65816767</id>
+  <body><![CDATA[Oh, you're welcome Annette! It was my pleasure:)]]></body>
+  
+  <user>
+    <id>6520961</id>
+    <name>Sophia.</name>
+    <display_name>Sophia.</display_name>
+
+    <location>France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6520961-sophia]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1322479535p3/6520961.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1322479535p2/6520961.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 18 02:27:46 -0800 2013</created_at>
+  <updated_at>Fri Jan 18 02:27:46 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>65975002</id>
+  <body><![CDATA[I really, really like John Green, but I don't buy his characters. Agree with almost everything you wrote in your review. Have you read the Jessica Darling books by Megan McCafferty? Hands down the best books I've ever read (ignore the horrible covers) with such a smart, witty protagonist, who is more authentic than real people. A MUST READ!]]></body>
+  
+  <user>
+    <id>1732732</id>
+    <name>notsobooks</name>
+    <display_name>notsobooks</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1732732-notsobooks]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1464697561p3/1732732.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1464697561p2/1732732.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 20 08:41:41 -0800 2013</created_at>
+  <updated_at>Sun Jan 20 08:41:41 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>66236990</id>
+  <body><![CDATA[lol tbh i didnt cry at all reading the book]]></body>
+  
+  <user>
+    <id>15306265</id>
+    <name>Afroze</name>
+    <display_name>Afroze</display_name>
+
+    <location>Montreal, QC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15306265-afroze]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 23 14:59:35 -0800 2013</created_at>
+  <updated_at>Wed Jan 23 14:59:35 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>66289754</id>
+  <body><![CDATA[I haven't read this book, but I have read Looking for Alaska and...that other one...the one that's exactly like Looking for Alaska...you know the one. Anyway, I didn't love either one, found the characters entirely annoying. So I get what you're saying here. Cracked me up. :)]]></body>
+  
+  <user>
+    <id>282057</id>
+    <name>babyhippoface</name>
+    <display_name>babyhippoface</display_name>
+
+    <location>Oklahoma City, OK</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/282057-babyhippoface]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1203700819p3/282057.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1203700819p2/282057.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 24 09:42:18 -0800 2013</created_at>
+  <updated_at>Thu Jan 24 09:42:18 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>66601519</id>
+  <body><![CDATA[This review describes exactly how i felt about this book. And another thing, it's like the John Green story just with different names +cancer which just seemed wrong to me. <br />Smoking unlit cigarettes as a metaphor has to be the most annoying thing I've ever read about.]]></body>
+  
+  <user>
+    <id>6903033</id>
+    <name>Elena</name>
+    <display_name>Elena</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6903033-elena]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1420840668p3/6903033.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1420840668p2/6903033.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 28 11:23:49 -0800 2013</created_at>
+  <updated_at>Mon Jan 28 11:23:49 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>66680865</id>
+  <body><![CDATA[I kind of love you...in a non-creepy stalker way, girly! I kind of just...*hugs*]]></body>
+  
+  <user>
+    <id>5342034</id>
+    <name>Megan (The Book Babe)</name>
+    <display_name>Megan (The Book Babe)</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5342034-megan-the-book-babe]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1356104878p3/5342034.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1356104878p2/5342034.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 29 12:35:48 -0800 2013</created_at>
+  <updated_at>Tue Jan 29 12:35:48 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>66686910</id>
+  <body><![CDATA[<i>Megan (The Book Babe) wrote: "I kind of love you...in a non-creepy stalker way, girly! I kind of just...*hugs*"</i><br /><br />Ohh cutest comment ever! *HUGS*]]></body>
+  
+  <user>
+    <id>6520961</id>
+    <name>Sophia.</name>
+    <display_name>Sophia.</display_name>
+
+    <location>France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6520961-sophia]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1322479535p3/6520961.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1322479535p2/6520961.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 29 13:57:18 -0800 2013</created_at>
+  <updated_at>Tue Jan 29 13:57:18 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>66689421</id>
+  <body><![CDATA[<i>Sophia. wrote: "Reut (reutreads) wrote: "Sophia. wrote: "Hi Reut! Thanks for the kind words :)<br /><br />Sooo. About JG writing an idealized version of himself through Augustus. You're right, he probably identified more wi..."</i><br /><br />This took me RIDICULOUSLY LONG to get back to so I am very sorry about that. <br /><br />Basically: we have said all there is to say, I think? I'm not completely sold on your viewpoint although I do like some of the points you brought up that definitely influenced my recent rereading of TFiOS, and I hope I did the same for you. <br /><br />Lovely discussion :)]]></body>
+  
+  <user>
+    <id>3222236</id>
+    <name>Reut</name>
+    <display_name>Reut</display_name>
+
+    <location>Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3222236-reut]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1408368157p3/3222236.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1408368157p2/3222236.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 29 14:33:10 -0800 2013</created_at>
+  <updated_at>Tue Jan 29 14:33:10 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>66762210</id>
+  <body><![CDATA[Highly entertaining review! This was my first JG book and gave it 5 stars. And the ONLY JG book I've read. It will probably remain that way because of similar comments I've read that all his books follow the same formula.]]></body>
+  
+  <user>
+    <id>9897162</id>
+    <name>cEe beE</name>
+    <display_name>cEe beE</display_name>
+
+    <location>Seattle, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9897162-cee-bee]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1428533712p3/9897162.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1428533712p2/9897162.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 30 14:53:41 -0800 2013</created_at>
+  <updated_at>Wed Jan 30 14:53:41 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>66805409</id>
+  <body><![CDATA[Great review. I wish I'd read the book so I could participate in the discussion.]]></body>
+  
+  <user>
+    <id>4884555</id>
+    <name>rameau</name>
+    <display_name>rameau</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4884555-rameau]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1341336616p3/4884555.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1341336616p2/4884555.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 31 07:15:53 -0800 2013</created_at>
+  <updated_at>Thu Jan 31 07:15:53 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>66805685</id>
+  <body><![CDATA[@CeeBee: Thanks :) You should try to read something else by him, though. I highly recommend Looking for Alaska, I think it's his best work. <br /><br />@rameau: Thank you! Let me know if you ever read it. Chances are you'll like it. The vast majority is so positive towards the book.]]></body>
+  
+  <user>
+    <id>6520961</id>
+    <name>Sophia.</name>
+    <display_name>Sophia.</display_name>
+
+    <location>France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6520961-sophia]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1322479535p3/6520961.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1322479535p2/6520961.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 31 07:21:54 -0800 2013</created_at>
+  <updated_at>Thu Jan 31 07:21:54 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>66805686</id>
+  <body><![CDATA[@CeeBee: Thanks :) You should try to read something else by him, though. I highly recommend Looking for Alaska, I think it's his best work. <br /><br />@rameau: Thank you! Let me know if you ever read it. Chances are you'll like it. The vast majority is so positive towards the book.]]></body>
+  
+  <user>
+    <id>6520961</id>
+    <name>Sophia.</name>
+    <display_name>Sophia.</display_name>
+
+    <location>France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6520961-sophia]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1322479535p3/6520961.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1322479535p2/6520961.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 31 07:21:55 -0800 2013</created_at>
+  <updated_at>Thu Jan 31 07:21:55 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>66873578</id>
+  <body><![CDATA[I frikkin' love your reviews! They are F.U.N <br />Okay, so many of my friends have been badgering me to read this book but somehow I couldn't bring myself to feel interested even. <br />And Boy! Ain't I glad I didn't read? Cause NOTHING *using echo effect* turns me off faster than crappy dialogues. <br />*randomly giggling over bits of the above review* <br />At the risk of being repetitive *giggles annoyingly some more* I wanna say I frikkin' love your review. ;-)]]></body>
+  
+  <user>
+    <id>7368034</id>
+    <name>Pallavi</name>
+    <display_name>Pallavi</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7368034-pallavi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1428942021p3/7368034.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1428942021p2/7368034.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 01 06:35:05 -0800 2013</created_at>
+  <updated_at>Fri Feb 01 06:35:05 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>66873832</id>
+  <body><![CDATA[<i>Lhethal wrote: "I frikkin' love your reviews! They are F.U.N <br />Okay, so many of my friends have been badgering me to read this book but somehow I couldn't bring myself to feel interested even. <br />And Boy! Ain't I gla..."</i><br /><br />Hahaha thanks Lethal! It's so good to read a comment like yours. *giggles nervously* thanks again &lt;3]]></body>
+  
+  <user>
+    <id>6520961</id>
+    <name>Sophia.</name>
+    <display_name>Sophia.</display_name>
+
+    <location>France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6520961-sophia]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1322479535p3/6520961.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1322479535p2/6520961.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 01 06:40:02 -0800 2013</created_at>
+  <updated_at>Fri Feb 01 06:40:02 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>67353272</id>
+  <body><![CDATA[THIS IS EXACTLY RIGHT THANK YOU.]]></body>
+  
+  <user>
+    <id>4380124</id>
+    <name>Georgia</name>
+    <display_name>Georgia Smith</display_name>
+
+    <location>Wellington, E7, New Zealand</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4380124-georgia-smith]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 08 01:50:22 -0800 2013</created_at>
+  <updated_at>Fri Feb 08 01:50:22 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>67403143</id>
+  <body><![CDATA[This is actually why I rated it one star. I am a sick teenager; not with your run of the mill sickness like cancer, but I have type one diabetes. A little mistake can kill me, which I think is pretty terrifying, like Hazel's situation. It almost felt like John Green was mocking this situation, and of course I couldn't stand the way that they spoke. NOBODY talks like that.]]></body>
+  
+  <user>
+    <id>3637657</id>
+    <name>Maddie</name>
+    <display_name>Maddie</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3637657-maddie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1462401668p3/3637657.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1462401668p2/3637657.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 08 16:52:18 -0800 2013</created_at>
+  <updated_at>Fri Feb 08 16:52:18 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>67796344</id>
+  <body><![CDATA[Brilliant.]]></body>
+  
+  <user>
+    <id>2352900</id>
+    <name>Elaine</name>
+    <display_name>Elaine</display_name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2352900-elaine]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1470942460p3/2352900.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1470942460p2/2352900.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Feb 14 05:27:41 -0800 2013</created_at>
+  <updated_at>Thu Feb 14 05:27:41 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>68078814</id>
+  <body><![CDATA[This review is perfect!]]></body>
+  
+  <user>
+    <id>4787213</id>
+    <name>Michaela</name>
+    <display_name>Michaela</display_name>
+
+    <location>London, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4787213-michaela]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1403475392p3/4787213.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1403475392p2/4787213.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 18 03:48:29 -0800 2013</created_at>
+  <updated_at>Mon Feb 18 03:48:29 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>68301505</id>
+  <body><![CDATA[OMG!!<br /><br />And here I thought I was the only one who clearly wasn't as blown away by the book as the rest of the world was. While I liked some parts of it, I have to admit the rest of it was a drag. <br />I loved your review of it as I had very similar thoughts about the characters and the way they spoke...]]></body>
+  
+  <user>
+    <id>6181817</id>
+    <name>Sheetal</name>
+    <display_name>Sheetal</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6181817-sheetal]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1314881762p3/6181817.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1314881762p2/6181817.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Feb 20 22:55:00 -0800 2013</created_at>
+  <updated_at>Wed Feb 20 22:55:00 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>68723349</id>
+  <body><![CDATA[THANK YOU AND HALLELUJAH THAT OTHER PEOPLE FEEL THE SAME WAY AS I DO ABOUT THIS BOOK.]]></body>
+  
+  <user>
+    <id>16449136</id>
+    <name>Gabrielle</name>
+    <display_name>Gabrielle</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16449136-gabrielle]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1361934767p3/16449136.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1361934767p2/16449136.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 26 19:03:41 -0800 2013</created_at>
+  <updated_at>Tue Feb 26 19:03:41 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>68838598</id>
+  <body><![CDATA[This is one of my favorite books. I gave t 5 stars, and yet this review was still the greatest thing ever. Bravo XD]]></body>
+  
+  <user>
+    <id>7799828</id>
+    <name>Hailey Ann</name>
+    <display_name>Hailey Ann</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7799828-hailey-ann]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1396643025p3/7799828.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1396643025p2/7799828.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Feb 28 11:37:08 -0800 2013</created_at>
+  <updated_at>Thu Feb 28 11:37:08 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69288975</id>
+  <body><![CDATA[Well...great review in the sense that it made me outright laugh several times. That being said, would you like to also stomp on my heart, now that you've helped John Green rip it out of my chest?<br />Yes, I was one of the 5-star reviewers. This review made me sad because I wanted everyone else to love this book as much as I did. I know that's not how it works because there are plenty of books that I hated that so many others loved, and vice versa, but I can't help it. It's how I am, as a reader. I want everyone to love the books I love because it's such a wonderful feeling to love these books. But I digress. Bravo, on a wonderful review. I enjoyed it. Sort of. You know what I mean.<br />-Emily]]></body>
+  
+  <user>
+    <id>5245993</id>
+    <name>Emily</name>
+    <display_name>Emily Simmerock</display_name>
+
+    <location>Colquitt, GA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5245993-emily-simmerock]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1469166400p3/5245993.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1469166400p2/5245993.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 06 17:01:03 -0800 2013</created_at>
+  <updated_at>Wed Mar 06 17:01:03 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69657182</id>
+  <body><![CDATA[*crying because I will never be able to write reviews like this*]]></body>
+  
+  <user>
+    <id>6415618</id>
+    <name>Zehra</name>
+    <display_name>Zehra</display_name>
+
+    <location>Pakistan</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6415618-zehra]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1446662529p3/6415618.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1446662529p2/6415618.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 12 07:52:40 -0700 2013</created_at>
+  <updated_at>Tue Mar 12 07:52:40 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69712045</id>
+  <body><![CDATA[Please do not judge John Green. You don't even know what he looks like. He does not talk like Augustus. Also making people cry was not his main goal. If you noticed the dedication it was to Esther Earl who is a nerdfighter who died of cancer. John was trying to represent death in a realistic way and I think that's exactly what he did.]]></body>
+  
+  <user>
+    <id>10640703</id>
+    <name>Jenny</name>
+    <display_name>Jenny Schoenbauer</display_name>
+
+    <location>New Prague, MN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10640703-jenny-schoenbauer]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1389121318p3/10640703.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1389121318p2/10640703.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 12 20:27:21 -0700 2013</created_at>
+  <updated_at>Tue Mar 12 20:27:21 -0700 2013</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/289575457]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/289575457]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

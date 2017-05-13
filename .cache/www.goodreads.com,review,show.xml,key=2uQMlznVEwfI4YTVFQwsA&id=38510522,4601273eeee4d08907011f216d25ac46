@@ -1,0 +1,1338 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:38:27 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: 0HTC76A1WPNTZPK7A92E
+etag: W/"4f22e3036ff4b19abd93ac640e81f895"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.344994
+set-cookie: csid=BAhJIhgxNjAtNDMzNDc0OC03MjAyMzM3BjoGRVQ%3D--30ccf16f247bc659f1eaa89d9af33b7a5850a3af; path=/; expires=Tue, 12 May 2037 13:38:26 -0000, locale=es; path=/, _session_id2=46dc4e8690607e1eaf4fa9e1526ac069; path=/; expires=Fri, 12 May 2017 19:38:27 -0000; HttpOnly
+content-length: 62535
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=38510522
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>38510522</id>
+    
+  <user>
+    <id>1713956</id>
+    <name>Manny</name>
+    <display_name>Manny</display_name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1713956-manny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442491692p3/1713956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442491692p2/1713956.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">41865</id>
+  <isbn>0316015849</isbn>
+  <isbn13>9780316015844</isbn13>
+  <text_reviews_count type="integer">89642</text_reviews_count>
+  <title>Twilight (Twilight, #1)</title>
+  <title_without_series>Twilight</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1361039443m/41865.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1361039443s/41865.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/41865.Twilight</link>
+  <num_pages>498</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Little, Brown and Company</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.57</average_rating>
+  <ratings_count>3825323</ratings_count>
+  <description>&lt;b&gt;About three things I was absolutely positive.&lt;br /&gt;&lt;br /&gt;First, Edward was a vampire.&lt;br /&gt;&lt;br /&gt;Second, there was a part of him—and I didn't know how dominant that part might be—that thirsted for my blood.&lt;br /&gt;&lt;br /&gt;And third, I was unconditionally and irrevocably in love with him.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;In the first book of the Twilight Saga, internationally bestselling author Stephenie Meyer introduces Bella Swan and Edward Cullen, a pair of star-crossed lovers whose forbidden relationship ripens against the backdrop of small-town suspicion and a mysterious coven of vampires. This is a love story with bite.</description>
+<authors>
+<author>
+<id>941441</id>
+<name>Stephenie Meyer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1477924095p5/941441.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1477924095p2/941441.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/941441.Stephenie_Meyer]]></link>
+<average_rating>3.64</average_rating>
+<ratings_count>8672804</ratings_count>
+<text_reviews_count>294546</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">152396</id>
+          <page type="integer">320</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Dec 05 14:21:04 -0800 2008</created_at>
+          <updated_at type="datetime">Fri Dec 05 14:21:04 -0800 2008</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer"></percent>
+          <work_id type="integer"></work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">151049</id>
+          <page type="integer">250</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Dec 05 05:19:19 -0800 2008</created_at>
+          <updated_at type="datetime">Fri Dec 05 05:19:19 -0800 2008</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer"></percent>
+          <work_id type="integer"></work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">148366</id>
+          <page type="integer">170</page>
+          <chapter type="integer"></chapter>
+          <comments_count>2</comments_count>
+          <created_at type="datetime">Thu Dec 04 06:57:50 -0800 2008</created_at>
+          <updated_at type="datetime">Thu Dec 04 06:57:50 -0800 2008</updated_at>
+          <last_comment_at type="datetime">Thu Dec 04 12:27:27 -0800 2008</last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer"></percent>
+          <work_id type="integer"></work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">125457</id>
+          <page type="integer">100</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Nov 25 04:00:00 -0800 2008</created_at>
+          <updated_at type="datetime">Tue Nov 25 04:00:00 -0800 2008</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer"></percent>
+          <work_id type="integer"></work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">122350</id>
+          <page type="integer">40</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Nov 24 00:33:07 -0800 2008</created_at>
+          <updated_at type="datetime">Mon Nov 24 00:33:07 -0800 2008</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer"></percent>
+          <work_id type="integer"></work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">1229038808</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Mon Feb 08 15:29:51 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>2</rating>
+  <votes>195</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="children" exclusive="false" review_shelf_id="18258909" sortable="false" />
+    <shelf name="mentions-twilight" exclusive="false" review_shelf_id="44931847" sortable="false" />
+    <shelf name="older-men-younger-women" exclusive="false" review_shelf_id="73015182" sortable="false" />
+    <shelf name="trash" exclusive="false" review_shelf_id="18312186" sortable="true" />
+    <shelf name="science-fiction" exclusive="false" review_shelf_id="18312189" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sat Dec 06 00:00:00 -0800 2008</read_at>
+  <date_added>Mon Nov 24 00:32:51 -0800 2008</date_added>
+  <date_updated>Fri Jan 10 12:22:41 -0800 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[I got so tired of receiving Twilight questions on the Never-Ending Quiz that I went out and bought a copy. It's about as good as I had expected, but I have already managed to answer a few questions correctly.<br /><br />An anecdote which I at least found amusing. Shortly after buying it, I was invited to an...]]>
+  </body>
+
+  
+
+  <comments_count>98</comments_count>
+    <comments start="1" end="50" total="98">
+        <comment>
+  <id>3082929</id>
+  <body><![CDATA[I'm only very mildly intrigued by the <i>Twilight</i> phenomenon, and am glad someone else is doing the field research for me.<br /><br />I'm pretty sure I would've slurped up this junk if it'd come out during the early nineties. Of course I was <i>totally</i> into vampires, as only girls crashing bloodily into puberty can be.... Anne Rice, Poppy Z. Brite.... Oh man. My friend Lindsey and I were even working on a teen-vampire novel of our own. Good thing no copies of that survived!<br /><br />Ah, thirteen-year-old girls, vampires.... a timeless pairing that will never die!]]></body>
+  
+  <user>
+    <id>419287</id>
+    <name>Jessica</name>
+    <display_name>Jessica</display_name>
+
+    <location>Miami, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/419287-jessica]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1289534648p3/419287.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1289534648p2/419287.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Dec 24 16:18:06 -0800 2008</created_at>
+  <updated_at>Wed Dec 24 16:18:06 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3088531</id>
+  <body><![CDATA[I can't quite work out how I came to be involved in running this project. Believe it or not, Twilight is the first vampire novel I have ever read, and better-informed friends tell me it's very atypical. I will probably have to read another one for balance... could this be a slippery slope? Though so far, I am relieved to say that it doesn't feel slippery at all :)<br /><br />Happy Christmas!<br />]]></body>
+  
+  <user>
+    <id>1713956</id>
+    <name>Manny</name>
+    <display_name>Manny</display_name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1713956-manny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442491692p3/1713956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442491692p2/1713956.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Dec 25 09:22:16 -0800 2008</created_at>
+  <updated_at>Thu Dec 25 09:22:16 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3089454</id>
+  <body><![CDATA[My daughter Emilie, 14, mentioned Twilight and looked rather shocked when I did not know what she was talking about.<br />I'll poll]]></body>
+  
+  <user>
+    <id>1802502</id>
+    <name>Kevan</name>
+    <display_name>Kevan</display_name>
+
+    <location>New Zealand</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1802502-kevan]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu Dec 25 11:13:01 -0800 2008</created_at>
+  <updated_at>Thu Dec 25 11:13:01 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3091079</id>
+  <body><![CDATA[It's really NOT a vampire book. None of the usual vampire lore/mythology rules apply. They don't sleep in coffins, aren't affected by garlic or crucifixes, don't drink human blood, and only avoid sunlight because it makes them <i>sparkle</i>.]]></body>
+  
+  <user>
+    <id>193255</id>
+    <name>Sarah</name>
+    <display_name>Sarah</display_name>
+
+    <location>Roseville, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/193255-sarah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1453355697p3/193255.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1453355697p2/193255.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Dec 25 14:45:30 -0800 2008</created_at>
+  <updated_at>Thu Dec 25 14:45:30 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3153931</id>
+  <body><![CDATA[Dude, everey time I get a 'Twilight' question right on the never-ending book quiz I feel a little soiled inside.]]></body>
+  
+  <user>
+    <id>1630617</id>
+    <name>Moira</name>
+    <display_name>Moira Russell</display_name>
+
+    <location>Seattle, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1630617-moira-russell]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1256449807p3/1630617.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1256449807p2/1630617.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Dec 29 20:08:21 -0800 2008</created_at>
+  <updated_at>Mon Dec 29 20:08:21 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3157249</id>
+  <body><![CDATA[You're right. But it's a kind of Infinite Jest-style metaphor for life, isn't it? I was just reading the toenail-clipping episode...]]></body>
+  
+  <user>
+    <id>1713956</id>
+    <name>Manny</name>
+    <display_name>Manny</display_name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1713956-manny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442491692p3/1713956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442491692p2/1713956.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 30 01:03:51 -0800 2008</created_at>
+  <updated_at>Tue Dec 30 01:03:51 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3231912</id>
+  <body><![CDATA[I apologise for any generalisations, but speaking as someone who was once a teenage girl, I think it is the idea of forbidden and absolute love that appeals. Also the storyline of a girl who is described as ordinary at first sight however is found to be so unique and captivating that she wins the heart of the best looking boy at school. Teen (and general) romance is full of ugly duckling storylines. I think most people like to fantasise that they will plucked from the ordinary and recognised as special. <br /><br />The book is really a romance it is just in this case the vampires are the perfect vehicle for this romance. As with many romances it is very important that this “boy” is dangerous. Women are interested in the potential and foreplay. Once the deed is done the romance is gone and anticipation is lost. Because Edward is a vampire the relationship cannot be consummated and the book is about the unknown ecstasy – will the ravishingly be pleasurable or painful – will Edward actually kill her? Western society instructs young girls to fear sex and see it as something that should protected and given as a gift (only to the worthy) however, how do teens reconcile these morals with their emerging base feelings and contradictory popular culture that depict sex as something fashionable and exciting? <br /><br />These kinds of stories allow young women to explore adulthood and sexual feelings. Compare the storyline to Jane Eyre – plain, orphaned, school marm drawn to rich, masculine and powerful (older) man. Most importantly, a mysterious and possibly dangerous man, will she be saved and live happily ever after or end up locked in a room... ? I’m sure if GoodReads’ trivia existed in Victorian times there would have been an abundance of questions on what type of horse Rochester was riding and what colour eyes he had. <br /><br /><br />]]></body>
+  
+  <user>
+    <id>1488595</id>
+    <name>Bria</name>
+    <display_name>Bria</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1488595-bria]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1251721179p3/1488595.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1251721179p2/1488595.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 03 01:30:17 -0800 2009</created_at>
+  <updated_at>Sat Jan 03 01:30:17 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3231971</id>
+  <body><![CDATA[Bria, I thought those were insightful comments. Definitely agree on the ugly duckling part. Perhaps the incredible success of the books derives from the author's shamelessness in constantly deciding to both have her cake and eat it. So as you say, Bella is dull and klutzy, yet somehow every boy in the school is madly in love with her. Why??? This is NEVER explained, and clearly can't be. The whole point is that the reader should feel that oh, if only she could read their minds, she would discover to her surprise that she too was universally desired.<br /><br />On the same theme, as you say, Edward is dangerous enough to give a satisfying adrenaline rush - I understand this theme is explored in more detail in a later volume of the series. Yet, at the same time, it is quite safe to go off alone with him and indulge in innocent kissing and cuddling. Perfect! if you are at the stage when you are simultaneously fascinated by sex but scared of actually trying it. It's cheap but it works. <br /><br />By the way, having answered more trivia questions than was good for me, there ARE, even now, rather a lot of questions about Rochester's horse :)<br />]]></body>
+  
+  <user>
+    <id>1713956</id>
+    <name>Manny</name>
+    <display_name>Manny</display_name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1713956-manny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442491692p3/1713956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442491692p2/1713956.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 03 01:57:43 -0800 2009</created_at>
+  <updated_at>Sat Jan 03 01:57:43 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3232004</id>
+  <body><![CDATA[No way! That’s hilarious. Wait.....does that mean there are going to be questions about Edward’s Volvo 100 years from now?<br />I realise that I have just revealed that know about Edward’s car. I’ll admit the 13 year old in me loved the story, the 35 year old thought it was very badly written. (The movie, on the hand, was fantastic.)<br /><br /><br />]]></body>
+  
+  <user>
+    <id>1488595</id>
+    <name>Bria</name>
+    <display_name>Bria</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1488595-bria]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1251721179p3/1488595.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1251721179p2/1488595.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 03 02:11:41 -0800 2009</created_at>
+  <updated_at>Sat Jan 03 02:11:41 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3234499</id>
+  <body><![CDATA[Hi Manny - my 12 year old daughter read Twilight then we had to see the movie. I went thinking it would be a complete yawn and lo! it was pretty good, apart from Bella's constant glowering and the bizarre idea that the Pacific northwest is ideal for vampires because it's never sunny. Also, Edward is very thin and never eats and is therefore beautiful, so i think there is some kind of anorexia theme going on too. Georgia tells me the vampires in Twilight are more cool than other versions.]]></body>
+  
+  <user>
+    <id>416390</id>
+    <name>Paul</name>
+    <display_name>Paul Bryant</display_name>
+
+    <location><![CDATA[Nottingham, England, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/416390-paul-bryant]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1224113172p3/416390.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1224113172p2/416390.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 03 09:22:34 -0800 2009</created_at>
+  <updated_at>Sat Jan 03 09:22:34 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3239893</id>
+  <body><![CDATA[Thanks for the update Paul! I feel we are starting to build a reasonable map of the territory... 12-14 appears to be the magic age to appreciate this book. We have my wife's brother's family visiting just now from Sweden. Nike, a sophisticated 15-going-on-23, clearly thought Twilight was rather silly, and when I passed around the Twilight Movie Companion that I had been given as an ironic Christmas present she barely glanced at it. Her younger sister Sasha, a cute and shy 12, looked at every page.<br /><br />Life's so unfair... the Swedish Board of Film Censors, in its infinite wisdom, gave the movie a 15 certificate, so Nike got to see it and Sasha hasn't. Sasha is taking it pretty well, all things considered.]]></body>
+  
+  <user>
+    <id>1713956</id>
+    <name>Manny</name>
+    <display_name>Manny</display_name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1713956-manny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442491692p3/1713956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442491692p2/1713956.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 03 14:20:52 -0800 2009</created_at>
+  <updated_at>Sat Jan 03 14:20:52 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3247852</id>
+  <body><![CDATA[Darn it Manny, I'm 19 and know a ton of people who are into these books, though not nearly so obsessively as my sister and her friends, who are 15. Personally I can't stand them (Twilight series). Harry Potter at least had three vaguely-good books and slightly fewer cliches.]]></body>
+  
+  <user>
+    <id>1425694</id>
+    <name>C.</name>
+    <display_name>C.</display_name>
+
+    <location>Melbourne, VIC, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1425694-c]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1245484320p3/1425694.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1245484320p2/1425694.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 03 20:47:25 -0800 2009</created_at>
+  <updated_at>Sat Jan 03 20:47:25 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3249436</id>
+  <body><![CDATA[Sigh. OK, scratch that theory. To adapt a phrase from Oliver Sacks, I feel like an anthropologist on Venus...]]></body>
+  
+  <user>
+    <id>1713956</id>
+    <name>Manny</name>
+    <display_name>Manny</display_name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1713956-manny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442491692p3/1713956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442491692p2/1713956.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 03 23:14:16 -0800 2009</created_at>
+  <updated_at>Sat Jan 03 23:14:16 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3249531</id>
+  <body><![CDATA[Maybe your theory would work in a weaker form, with more hedges and stuff. ]]></body>
+  
+  <user>
+    <id>1425694</id>
+    <name>C.</name>
+    <display_name>C.</display_name>
+
+    <location>Melbourne, VIC, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1425694-c]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1245484320p3/1425694.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1245484320p2/1425694.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 03 23:35:16 -0800 2009</created_at>
+  <updated_at>Sat Jan 03 23:35:16 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3249617</id>
+  <body><![CDATA[That's a good suggestion. Perhaps we shouldn't be using straight calendar age, though I don't think reading age or emotional age quite fits either. Dating age? Is there such a thing?<br />]]></body>
+  
+  <user>
+    <id>1713956</id>
+    <name>Manny</name>
+    <display_name>Manny</display_name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1713956-manny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442491692p3/1713956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442491692p2/1713956.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 03 23:55:52 -0800 2009</created_at>
+  <updated_at>Sat Jan 03 23:55:52 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3250079</id>
+  <body><![CDATA[I think we need to devise an algorithm that combines emotional and intellectual maturity with the amount of decent literature read and possibly the number of halfway-decent English teachers had. Also life experience and natural credulousness vs. cynicism. ]]></body>
+  
+  <user>
+    <id>1425694</id>
+    <name>C.</name>
+    <display_name>C.</display_name>
+
+    <location>Melbourne, VIC, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1425694-c]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1245484320p3/1425694.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1245484320p2/1425694.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 04 03:05:39 -0800 2009</created_at>
+  <updated_at>Sun Jan 04 03:05:39 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3250148</id>
+  <body><![CDATA[In a book title, I think the short version will be "Literary Intelligence". Unless you have a better suggestion? The guy who wrote the Emotional Intelligence book did very well out of it... ]]></body>
+  
+  <user>
+    <id>1713956</id>
+    <name>Manny</name>
+    <display_name>Manny</display_name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1713956-manny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442491692p3/1713956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442491692p2/1713956.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 04 03:39:11 -0800 2009</created_at>
+  <updated_at>Sun Jan 04 03:39:11 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3255975</id>
+  <body><![CDATA[No, no, I think we're onto something here Manny. That article from <i>The Atlantic</i> posted in Kirk's review does an excellent job at explaining why adolescent girls like Twilight for its themes, but it's up to us to explain how they can stand its execrable prose and heavy-handed approach to, um, everything.]]></body>
+  
+  <user>
+    <id>1425694</id>
+    <name>C.</name>
+    <display_name>C.</display_name>
+
+    <location>Melbourne, VIC, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1425694-c]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1245484320p3/1425694.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1245484320p2/1425694.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 04 12:26:46 -0800 2009</created_at>
+  <updated_at>Sun Jan 04 12:26:46 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3262385</id>
+  <body><![CDATA[I know, it's surprisingly poorly written... but I remember there was a stage when I just didn't care whether stuff was well-written. A computer scientist friend of mine, whose habit of just speaking her mind openly at all times is very endearing, told me once that she actually couldn't tell whether stuff was well-written or not. (She must have been around 24 at the time). She said she figured she'd develop this ability in due course. As far as I know, she has, but I should ask her!<br />]]></body>
+  
+  <user>
+    <id>1713956</id>
+    <name>Manny</name>
+    <display_name>Manny</display_name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1713956-manny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442491692p3/1713956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442491692p2/1713956.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 04 16:56:14 -0800 2009</created_at>
+  <updated_at>Sun Jan 04 16:56:14 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3267941</id>
+  <body><![CDATA[I think I always cared, but even now there are times when other aspects of a book will make it worth my while to put up with it. When I was younger, I tended to be more willing to put up with more for less, respectively, simply because I didn't know any better. Now I've read more widely, though, it's so hard to go back. <br /><br />I'd love to know if your friend has worked it out yet! I think it'd be fascinating to look at the process people go through as they develop their understanding of what constitutes 'good writing' - exactly what features of the writing it is that they look for, and so on.]]></body>
+  
+  <user>
+    <id>1425694</id>
+    <name>C.</name>
+    <display_name>C.</display_name>
+
+    <location>Melbourne, VIC, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1425694-c]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1245484320p3/1425694.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1245484320p2/1425694.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 04 23:32:28 -0800 2009</created_at>
+  <updated_at>Sun Jan 04 23:32:28 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3268202</id>
+  <body><![CDATA[Well, I can recall really liking E.E. Doc Smith, so there must have been a time when I didn't care. (See my review of "Galactic Patrol"). I will ask my friend! Haven't talked with her in too long anyway.<br /><br />Yes, I think the developmental process is exactly the thing we need to look at. But someone must already have done this. First step would be to search for relevant research...]]></body>
+  
+  <user>
+    <id>1713956</id>
+    <name>Manny</name>
+    <display_name>Manny</display_name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1713956-manny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442491692p3/1713956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442491692p2/1713956.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 05 01:07:17 -0800 2009</created_at>
+  <updated_at>Mon Jan 05 01:07:17 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3347841</id>
+  <body><![CDATA[Thanks so much for this review!<br />You hit the nail on the head. As regards the never-ending book quiz: This is getting more and more usurped by Twilight readers.<br /><br />I haven't read any of the twilight books and don't intend to, as I was able to get an idea of the basic plot through the questions in the quiz. My verdict: Thanks, but no thanks.<br /><br />Here is my appeal: The concerted offensive against Twilight questions on the never-ending book-quiz!<br /><br />Can we all just unite and post as many non-Twilight related questions as possible? ... or is there anywhere on goodreads, where people have already started getting organised?<br /><br /><br />]]></body>
+  
+  <user>
+    <id>1401171</id>
+    <name>Xena</name>
+    <display_name>Xena</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1401171-xena]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1218281955p3/1401171.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1218281955p2/1401171.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 10 01:54:07 -0800 2009</created_at>
+  <updated_at>Sat Jan 10 01:54:07 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3347865</id>
+  <body><![CDATA[Hi Christine, glad you liked the review! But I have given up on the book quiz. I posted over 150 questions in exactly the type of attempt you suggest, but it's a drop in the ocean of vampire and Potter trivia. Alas.<br /><br />Given your comments, you might find this one amusing: <a target="_blank" href="https://www.goodreads.com/trivia/details/29672" rel="nofollow">http://www.goodreads.com/trivia/detai...</a>]]></body>
+  
+  <user>
+    <id>1713956</id>
+    <name>Manny</name>
+    <display_name>Manny</display_name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1713956-manny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442491692p3/1713956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442491692p2/1713956.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 10 02:08:52 -0800 2009</created_at>
+  <updated_at>Sat Jan 10 02:08:52 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3364811</id>
+  <body><![CDATA[<i>Manny wrote: "Hi Christine, glad you liked the review! But I have given up on the book quiz. I posted over 150 questions in exactly the type of attempt you suggest, but it's a drop in the ocean of vampire and Po..."</i><br /><br />Hi Manny, your question was a fantastic start into the day. It made me laugh sooooo much. Thank you! (I will have to browse through all of yours.)<br /><br />Well, I suppose, all of those hooked on the quiz will either have to give in or try to play it differently (i.e. find questions that are linked to a particular book/author, or answer questions that originate from non-Twilight / non - Harry Potter fans. By doing that, it is possible to still have some fun.<br /><br />Have a good Sunday!<br /><br />]]></body>
+  
+  <user>
+    <id>1401171</id>
+    <name>Xena</name>
+    <display_name>Xena</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1401171-xena]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1218281955p3/1401171.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1218281955p2/1401171.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 11 00:25:38 -0800 2009</created_at>
+  <updated_at>Sun Jan 11 00:25:38 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3364905</id>
+  <body><![CDATA[Thank you again! In that case, you might also like my review of "Le Petit Prince", <a target="_blank" href="https://www.goodreads.com/review/show/40520032" rel="nofollow">http://www.goodreads.com/review/show/...</a> And you have a good Sunday too :)<br />]]></body>
+  
+  <user>
+    <id>1713956</id>
+    <name>Manny</name>
+    <display_name>Manny</display_name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1713956-manny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442491692p3/1713956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442491692p2/1713956.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 11 01:08:09 -0800 2009</created_at>
+  <updated_at>Sun Jan 11 01:08:09 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>6527664</id>
+  <body><![CDATA[Manny, <br /><br />I have one young female cousin (15) and one niece (14), one in Oklahoma and one in Virginia. Both love love love Twilight (complete with T-shirts, etc). I think the literary exploration of budding sexuality is good, despite the bad writing (and how!), and is a large part to what is going on with the appeal of this book...kind of like children dealing with their fears at Halloween by trying on outfits and becoming what they fear for one night...<br /><br />I did get the chance to talk with my niece about Twilight and encouraged her to find a vampire story with the "real deal" in it...she looked at me with what I would definitely call a "glassy eyed expression." Twilight, to her, IS the real deal. For now. I hope.]]></body>
+  
+  <user>
+    <id>1719442</id>
+    <name>Jen</name>
+    <display_name>Jen</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1719442-jen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1451874923p3/1719442.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1451874923p2/1719442.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jun 13 19:57:08 -0700 2009</created_at>
+  <updated_at>Sat Jun 13 19:57:08 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>6533896</id>
+  <body><![CDATA[I'm thinking of doing an experiment wherein I read Twilight in tandem with Cormac McCarthy's <i>The Road</i>. I'm afraid of both of them, for almost opposite reasons: The Road doesn't have any punctuation, for manly, literary reasons; Twilight is a series of exclamation points, although I assume they're generally not explicit, like the sex. Both books make their readers either crazy-in-love, or crazy-in-hate. <br /><br />I'm not sure what the purpose of this experiment would be, or what my goals are. Maybe I can get their flaws to cancel each other out, and and up with a hydra book of beautiful vampires in the wasteland? <br /><br />Ah, anyway, lovely experiment Manny. ]]></body>
+  
+  <created_at>Sun Jun 14 08:18:37 -0700 2009</created_at>
+  <updated_at>Sun Jun 14 08:18:37 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>6556017</id>
+  <body><![CDATA[I absolutely loved your rewiew.<br /><br />I'll try to help your field study suppling my opinion of twiligth, I know I share it whit a lot of my girl friends (but then again we are not teens anymore) for me twiligth has the train wreck effect - I dont know how good this expressions translates to english - I mean its so awfull you cant take your eyes out of it. I hated twiligth but I couldnt stop reading it and all the other books. Also I couldnt stop raging about how much I hated it. <br /><br />ok I´ll shut up now]]></body>
+  
+  <user>
+    <id>1140952</id>
+    <name>silvia </name>
+    <display_name>silvia </display_name>
+
+    <location>lisboa, Oeiras, Portugal</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1140952-silvia]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1430391832p3/1140952.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1430391832p2/1140952.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 15 06:18:32 -0700 2009</created_at>
+  <updated_at>Mon Jun 15 06:18:32 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>6557356</id>
+  <body><![CDATA[You know, I really DO like vampire books, cheesy romances, AND YA novels, and I still can't say I love this series. I read them all. I kind of like the story, even, especially since I'm such a sucker for the paranormal. But I hate Bella, and they are NOT well written.<br /><br />And re: your godchild, oh dear. The movie is painful, and I do mean <i>painful</i>, to watch. I think it's pretty awful on its own, and as someone who read the books, I think it's especially painful as an adaptation (especially Robert Pattinson, who seems to have confused Edward Cullins with Edward Scissorhands). ...Egads, the crouching and hissing on the baseball field....<br /><br />I try to remind myself that it's much more exciting for 11- and 12-year-old girls.]]></body>
+  
+  <user>
+    <id>387026</id>
+    <name>Beck</name>
+    <display_name>Beck</display_name>
+
+    <location>Charlotte, NC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/387026-beck]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1261258935p3/387026.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1261258935p2/387026.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 15 07:47:16 -0700 2009</created_at>
+  <updated_at>Mon Jun 15 07:47:16 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>6572150</id>
+  <body><![CDATA[Hi, Manny. It's a good thing that girl was 18 or you might have been arrested for contributing to the deliteracy of a minor.]]></body>
+  
+  <user>
+    <id>1711431</id>
+    <name>Eric_W</name>
+    <display_name>Eric_W</display_name>
+
+    <location>Freeport, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1711431-eric-w]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1429386336p3/1711431.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1429386336p2/1711431.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 15 17:21:48 -0700 2009</created_at>
+  <updated_at>Mon Jun 15 17:21:48 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>7160746</id>
+  <body><![CDATA[LOL! This is the most entertaining review of Twilight I have ever read! (And believe me, I read a lot. Like you, I am still bemused by the ultra-success of this series)]]></body>
+  
+  <user>
+    <id>936045</id>
+    <name>Zen</name>
+    <display_name>Zen</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/936045-zen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1453065621p3/936045.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1453065621p2/936045.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jul 05 10:16:17 -0700 2009</created_at>
+  <updated_at>Sun Jul 05 10:16:17 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>7534443</id>
+  <body><![CDATA[WOW..<br />you know what, I'm a Twilight fans, but your review was just made my day!!<br />hahaha...<br /><br />I never thought about the 'Paedophilia' thing before (and now when i think about that, well yes, that makes sense.. hahaha)<br /><br />It's very nice to read your review, Manny. hilarious. absolutely loved it.]]></body>
+  
+  <user>
+    <id>2112750</id>
+    <name>Farah</name>
+    <display_name>Farah</display_name>
+
+    <location><![CDATA[Pondok Gede, Bekasi, Indonesia]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2112750-farah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1411393917p3/2112750.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1411393917p2/2112750.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 17 05:47:47 -0700 2009</created_at>
+  <updated_at>Fri Jul 17 05:47:47 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>14241518</id>
+  <body><![CDATA[Ha ha! It never even occurred to me as I was reading it that it's ultimately the story of a 100-year-old man who falls in love with a piece of jailbait. (Also, wouldn't a hundred-year-old man be awfully sick of attending high school by now?) A hilarious observation that I wish I had made.]]></body>
+  
+  <user>
+    <id>147289</id>
+    <name>Jason</name>
+    <display_name>Jason Pettus</display_name>
+
+    <location>Chicago, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/147289-jason-pettus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488229083p3/147289.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488229083p2/147289.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 03 14:20:37 -0800 2010</created_at>
+  <updated_at>Wed Mar 03 14:20:37 -0800 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>15519865</id>
+  <body><![CDATA[Thanks for such a hilarious review! It really made me smile. :)<br />Sorry Cate-across-the-road didn't have quite the reaction you were hoping for. Well, everyone needs some kind of book to obsess over, right? My opinion is that you haven't <i>lived</i> until you've stayed up past midnight reading and raved about a book to all your friends. If that book happens to be an overrated vampire series, well, whatever builds your barricade!<br />(In explanation of the barricade comment--Les Miserables is the book that I obsess over. Haha!)]]></body>
+  
+  <created_at>Sun Apr 11 12:29:32 -0700 2010</created_at>
+  <updated_at>Sun Apr 11 12:29:32 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>15520567</id>
+  <body><![CDATA[Thank you, Lida and Jamie! In case you haven't already noticed, the story of Twilight and Cate-across-the-road continues in my reviews of the later books.<br /><br />I stay up late reading and then rave about the book to anyone who will listen far more often than is good for me. (Well, why do you think I'm on Goodreads?) Some recent casualties: <a href="https://www.goodreads.com/review/show/87425296" rel="nofollow">
+  <i>Les Trois Mousquetaires</i>
+</a>, <a href="https://www.goodreads.com/review/show/86692663" rel="nofollow">
+  <i>Our Magnificent Bastard Tongue: The Untold Story of English</i>
+</a> and <a href="https://www.goodreads.com/review/show/93216866" rel="nofollow">
+  <i>Whoops!: Why Everyone Owes Everyone and No One Can Pay</i>
+</a>. They're all, you know, amazing! awe-inspiring! life-changing! etc...]]></body>
+  
+  <user>
+    <id>1713956</id>
+    <name>Manny</name>
+    <display_name>Manny</display_name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1713956-manny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442491692p3/1713956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442491692p2/1713956.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Apr 11 12:47:39 -0700 2010</created_at>
+  <updated_at>Sun Apr 11 12:47:39 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>32452408</id>
+  <body><![CDATA[<i>Another update. Oh dear. Cate finally gave back the copy that she'd borrowed several months ago. I'm afraid to say that she's not merely read it, she loved it. Now she's going to read the whole series. What have I done? <br /><br />Not only that, Sophie saw the movie and thought it was "great". I was doing my best not to succumb to hysteria before I'd had a chance to evaluate the facts for myself, but now I'm starting to feel seriously concerned. Maybe the Meyer mind-virus really does exist. </i><br /><br />..this is all your fault. :(]]></body>
+  
+  <user>
+    <id>4574713</id>
+    <name>Zenyatta </name>
+    <display_name>Zenyatta </display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4574713-zenyatta]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488240633p3/4574713.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488240633p2/4574713.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 24 08:06:40 -0700 2011</created_at>
+  <updated_at>Fri Jun 24 08:06:40 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>32453067</id>
+  <body><![CDATA[<i>..this is all your fault. :(</i><br /><br />First <a href="https://www.goodreads.com/review/show/40092365" rel="nofollow">Mr Nosnehpets</a> and now you. I'm starting to develop a complex.]]></body>
+  
+  <user>
+    <id>1713956</id>
+    <name>Manny</name>
+    <display_name>Manny</display_name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1713956-manny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442491692p3/1713956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442491692p2/1713956.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 24 08:22:14 -0700 2011</created_at>
+  <updated_at>Fri Jun 24 08:22:14 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>47426791</id>
+  <body><![CDATA[I read some reviews about this thing, several were funny this one I found hilarious.<br /><br />So somehow I've ended up supplying Stephenie Meyer to 18 year old girls...]]></body>
+  
+  <user>
+    <id>6139949</id>
+    <name>David</name>
+    <display_name>David</display_name>
+
+    <location>Valencia, Venezuela</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6139949-david]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1349920099p3/6139949.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1349920099p2/6139949.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Mar 22 08:10:43 -0700 2012</created_at>
+  <updated_at>Thu Mar 22 08:10:43 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47426855</id>
+  <body><![CDATA[I never meant to do it! It was an accident!<br /><br />And I completely got what I deserved, if you look at my reviews of the later books in the series...]]></body>
+  
+  <user>
+    <id>1713956</id>
+    <name>Manny</name>
+    <display_name>Manny</display_name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1713956-manny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442491692p3/1713956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442491692p2/1713956.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Mar 22 08:12:21 -0700 2012</created_at>
+  <updated_at>Thu Mar 22 08:12:21 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>49799621</id>
+  <body><![CDATA[LOVE LOVE LOVE your review.<br />Fortunately I'm 20 not affected by the "deadly Meyer mind-virus"(Hilarious!!). Can you believe it in the GR "Best book ever" list Twilight is #1?? That's the worst thing I've ever come across today.]]></body>
+  
+  <user>
+    <id>5486168</id>
+    <name>Dyuti</name>
+    <display_name>Dyuti</display_name>
+
+    <location>Mumbai/Calcutta, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5486168-dyuti]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1351864861p3/5486168.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1351864861p2/5486168.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue May 01 14:37:59 -0700 2012</created_at>
+  <updated_at>Tue May 01 14:37:59 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>49824206</id>
+  <body><![CDATA[Thank you Dyuti, and I am so relieved to hear you're immune! <br /><br /><i>Can you believe it in the GR "Best book ever" list Twilight is #1?? That's the worst thing I've ever come across today. </i><br /><br />Unfortunately, the book most likely to knock it off its perch is <i>Fifty Shades of Grey</i>...]]></body>
+  
+  <user>
+    <id>1713956</id>
+    <name>Manny</name>
+    <display_name>Manny</display_name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1713956-manny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442491692p3/1713956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442491692p2/1713956.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue May 01 23:22:26 -0700 2012</created_at>
+  <updated_at>Tue May 01 23:22:26 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>56061937</id>
+  <body><![CDATA[Rida, my conscience torments me every waking moment of the day.<br /><br />I must admit that I agree with you about Bella's apparent bookishness. But Stephenie Meyer assures us that she is bookish, and I cannot bring myself to doubt the word of a lady.]]></body>
+  
+  <user>
+    <id>1713956</id>
+    <name>Manny</name>
+    <display_name>Manny</display_name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1713956-manny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442491692p3/1713956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442491692p2/1713956.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 12 09:35:38 -0700 2012</created_at>
+  <updated_at>Sun Aug 12 09:35:38 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>56079584</id>
+  <body><![CDATA[Hm. Now that you mention it, Stephenie Meyer has never assured me in so many words that she is a lady, whereas you have. Hence I am free to doubt her word. You, I know, are utterly trustworthy.]]></body>
+  
+  <user>
+    <id>1713956</id>
+    <name>Manny</name>
+    <display_name>Manny</display_name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1713956-manny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442491692p3/1713956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442491692p2/1713956.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 12 14:43:16 -0700 2012</created_at>
+  <updated_at>Sun Aug 12 14:43:16 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>62951947</id>
+  <body><![CDATA[I have an answer for you--loved it at first. Why? Hadn't read romance novels. Really liked the chase of a hot, sensitive, strong, etc etc man. Bella is so one-dimensional you can put yourself in it and envision getting said hot man. Like you wanted to. In highschool. But really, I just liked the almost sex scenes and the story moved in some places, so taht was good.<br />Read it again looking for the creep factor. Totally skimmed over that the first time. Laughed so hard my husband looked at me funny. Yeah, take the romance with a grain of salt, or a 14 year old that doesn't yet know to look past looks, and the book is a hit.]]></body>
+  
+  <user>
+    <id>1750274</id>
+    <name>K.F.</name>
+    <display_name>K.F. Breene</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1750274-k-f-breene]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1403030467p3/1750274.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1403030467p2/1750274.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 04 20:48:55 -0800 2012</created_at>
+  <updated_at>Tue Dec 04 20:48:55 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>73585575</id>
+  <body><![CDATA[Do you know how girls dream about the perfect guy; the guy that is untouchable, sexy, mystic, dangerous - The bad boy. Young girls, old ladies we've all had a crush on that bad boy. The book drives woman kind mad because of that. The everlasting lust for danger. To be swept away when they are home alone. My sister watched 15 min of the movie and couldn't last longer. She had read my whole library but not the twilight trilogy. But she is not a hopeless romantic as I am.]]></body>
+  
+  <user>
+    <id>12943914</id>
+    <name>Irena</name>
+    <display_name>Irena Atanasoska</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12943914-irena-atanasoska]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1348266294p3/12943914.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1348266294p2/12943914.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon May 06 18:20:13 -0700 2013</created_at>
+  <updated_at>Mon May 06 18:20:13 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73600660</id>
+  <body><![CDATA[But Edward is rather odd version of the Bad Boy. To start with, he refuses to have sex with Bella until they're married.]]></body>
+  
+  <user>
+    <id>1713956</id>
+    <name>Manny</name>
+    <display_name>Manny</display_name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1713956-manny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442491692p3/1713956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442491692p2/1713956.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon May 06 23:39:08 -0700 2013</created_at>
+  <updated_at>Mon May 06 23:39:08 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73620526</id>
+  <body><![CDATA[<i>Manny wrote: "But Edward is rather odd version of the Bad Boy. To start with, he refuses to have sex with Bella until they're married."</i><br /><br />yes, indeed. Maybe he's a new version of bad boy. When I was teen the bad boys were listening to rock, metal, trash or punk. We admired their freedom and independence and other nonsense yet new generations find bad boys more like depressed , tortured souls.]]></body>
+  
+  <user>
+    <id>12943914</id>
+    <name>Irena</name>
+    <display_name>Irena Atanasoska</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12943914-irena-atanasoska]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1348266294p3/12943914.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1348266294p2/12943914.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue May 07 09:12:18 -0700 2013</created_at>
+  <updated_at>Tue May 07 09:12:18 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73633977</id>
+  <body><![CDATA[One of the many problems I have with Twilight is that Stephenie Meyer can't seem to decide if Edward is a Bad Boy or a Good Boy. This is perhaps most obvious in the third volume, supposedly modeled on <i>Wuthering Heights</i>, where people find it equally easy to see resemblances to Heathcliff and to Linton.<br /><br />In some authors, it would be easy to go from here to acclaiming their genius, but somehow it's hard to do that with Meyer. She is just such a terrible writer.]]></body>
+  
+  <user>
+    <id>1713956</id>
+    <name>Manny</name>
+    <display_name>Manny</display_name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1713956-manny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442491692p3/1713956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442491692p2/1713956.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue May 07 12:56:38 -0700 2013</created_at>
+  <updated_at>Tue May 07 12:56:38 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78016809</id>
+  <body><![CDATA[He is a bad boy in the beginning because of the danger. That's all you need really. Not agreeing to sex (beside the reasoning of the author's religious beliefs) adds the thrill of the chase for the olds broads and a safety blanket for the young ones. He's also seen as sensitive- he really cares about her, yaty yata. In the later books I started to feel weird about the 'devoted love' of Edward. Over the top, creepy- learning my lesson all ready from chasing bad boys, it set off warning bells. Then the mood shifts to 'good boy' - maybe a certain fictional character is losing his mind... I got caught up in the thrill of it in the first book, and liked the super hero type aspect of the last, but in between things went pear-shaped. Young girls don't have that frame of reference, though. This is the Big Love romance model- crack for woman, but toned down for girls. The mania, I think, is because girls love an event. I, being a giant nerd, went gaga over LOTR. Boys buy Star Trek suits. It's all tr same weird, you are just used to Trekkies maybe? Haha!]]></body>
+  
+  <user>
+    <id>1750274</id>
+    <name>K.F.</name>
+    <display_name>K.F. Breene</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1750274-k-f-breene]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1403030467p3/1750274.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1403030467p2/1750274.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 09 07:44:44 -0700 2013</created_at>
+  <updated_at>Tue Jul 09 07:44:44 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>95806912</id>
+  <body><![CDATA[Why should anyone be annoyed? It's completely reasonable.]]></body>
+  
+  <user>
+    <id>29582381</id>
+    <name>Conor</name>
+    <display_name>Conor</display_name>
+
+    <location>Dundalk, 19, Ireland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/29582381-conor]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Apr 01 11:43:26 -0700 2014</created_at>
+  <updated_at>Tue Apr 01 11:43:26 -0700 2014</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/38510522]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/38510522]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

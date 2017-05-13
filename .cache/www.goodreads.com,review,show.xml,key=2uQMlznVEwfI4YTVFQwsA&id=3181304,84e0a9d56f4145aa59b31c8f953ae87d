@@ -1,0 +1,682 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:50:10 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: 46B8PXJ9ACTWQSBKMEFK
+etag: W/"13a824ba911e48675ddd86876937128d"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.610648
+set-cookie: csid=BAhJIhg3MzYtNDAyMDIxNS04MzA1NjgwBjoGRVQ%3D--8536d7b9ad7179cc7df6b23b503e758aa0c71edf; path=/; expires=Tue, 12 May 2037 13:50:10 -0000, locale=es; path=/, _session_id2=7e8866a046030de51fe515357fbf4509; path=/; expires=Fri, 12 May 2017 19:50:10 -0000; HttpOnly
+content-length: 31512
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=3181304
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>3181304</id>
+    
+  <user>
+    <id>198340</id>
+    <name>Jim</name>
+    <display_name>Jim</display_name>
+
+    <location>Rutherford, NJ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/198340-jim]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1366461973p3/198340.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1366461973p2/198340.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">968</id>
+  <isbn>0307277674</isbn>
+  <isbn13>9780307277671</isbn13>
+  <text_reviews_count type="integer">32869</text_reviews_count>
+  <title>The Da Vinci Code (Robert Langdon, #2)</title>
+  <title_without_series>The Da Vinci Code</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1303252999m/968.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1303252999s/968.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/968.The_Da_Vinci_Code</link>
+  <num_pages>481</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Anchor</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.78</average_rating>
+  <ratings_count>1531664</ratings_count>
+  <description>An ingenious code hidden in the works of Leonardo da Vinci. A desperate race through the cathedrals and castles of Europe. An astonishing truth concealed for centuries . . . unveiled at last.&lt;br /&gt;&lt;br /&gt;While in Paris, Harvard symbologist Robert Langdon is awakened by a phone call in the dead of the night. The elderly curator of the Louvre has been murdered inside the museum, his body covered in baffling symbols. As Langdon and gifted French cryptologist Sophie Neveu sort through the bizarre riddles, they are stunned to discover a trail of clues hidden in the works of Leonardo da Vinci—clues visible for all to see and yet ingeniously disguised by the painter.&lt;br /&gt;&lt;br /&gt;Even more startling, the late curator was involved in the Priory of Sion—a secret society whose members included Sir Isaac Newton, Victor Hugo, and Da Vinci—and he guarded a breathtaking historical secret. Unless Langdon and Neveu can decipher the labyrinthine puzzle—while avoiding the faceless adversary who shadows their every move—the explosive, ancient truth will be lost forever.</description>
+<authors>
+<author>
+<id>630</id>
+<name>Dan Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p5/630.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p2/630.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/630.Dan_Brown]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>5211301</ratings_count>
+<text_reviews_count>138647</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1228381560</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Mon Feb 08 06:50:59 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>241</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Jul 17 13:37:51 -0700 2007</date_added>
+  <date_updated>Thu Jan 09 22:55:35 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This is a pretty formulaic page turner, a fun quick read. Written at about the level of the average Nancy Drew mystery, it is best appreciated at that level. As far as the content, there are howlers on virtually every page (starting with the hero who looks like "Harrison Ford in Harris tweed" and...]]>
+  </body>
+
+  
+
+  <comments_count>24</comments_count>
+    <comments start="1" end="24" total="24">
+        <comment>
+  <id>265280</id>
+  <body><![CDATA[Finally, someone with good taste. Amen.]]></body>
+  
+  <user>
+    <id>65207</id>
+    <name>Shannon</name>
+    <display_name>Shannon</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/65207-shannon]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1465962504p3/65207.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1465962504p2/65207.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 11 19:49:37 -0800 2007</created_at>
+  <updated_at>Tue Dec 11 19:49:37 -0800 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>471327</id>
+  <body><![CDATA["has been retarding the progress of science and knowledge for 2 millennia."<br /><br /><br />Religion has retarded the progress of science. Other then that everything else you say is basically spot on and it's definitely a good review!]]></body>
+  
+  <user>
+    <id>959243</id>
+    <name>Ruffles</name>
+    <display_name>Ruffles</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/959243-ruffles]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Mar 02 04:28:49 -0800 2008</created_at>
+  <updated_at>Sun Mar 02 04:28:49 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>488662</id>
+  <body><![CDATA[I enjoyed reading your comments on The Da Vinci Code. I think you hit upon almost all of my own criticisms of this book. The only other thing I could say I found specifically irritating was Brown's overused method of skipping around between two or three plots advancing in different locales every few pages in order that there be a cliff!hanger! every other page. I think it was this device more than anything in the story that made people feel this book was so exciting, but I found I was too aware of the manipulation for it to do anything but annoy me. Besides being rather ham-handed, it made me feel that the author expects his readers to only have the attention span of MTV addicts.]]></body>
+  
+  <user>
+    <id>742074</id>
+    <name>Megan</name>
+    <display_name>Megan</display_name>
+
+    <location>Chicago, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/742074-megan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1243974577p3/742074.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1243974577p2/742074.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 07 07:11:52 -0800 2008</created_at>
+  <updated_at>Fri Mar 07 07:11:52 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>492634</id>
+  <body><![CDATA[The effect of, say, Christianity on the development and progress is extremely debatable. One could argue that the preservation of classical learning by monastics after the collapse of the Roman Empire in the West was vital to the scientific enterprise. Certainly, the Christian belief in the goodness and intelligibility of visible and tangible creation may be seen as motivating scientific enterprise in the West, in contrast to non-Christian belief systems where the material world was seen as inherently illusory and somewhat evil.]]></body>
+  
+  <user>
+    <id>198340</id>
+    <name>Jim</name>
+    <display_name>Jim</display_name>
+
+    <location>Rutherford, NJ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/198340-jim]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1366461973p3/198340.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1366461973p2/198340.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Mar 08 13:19:43 -0800 2008</created_at>
+  <updated_at>Sat Mar 08 13:19:43 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>705172</id>
+  <body><![CDATA[Excellent review, Jim. I hate how Brown gets away with poor research, and even worse prose, by claiming literary license while simultaneously espousing that he is revealing long-hidden truths.<br /><br /><br />"Religion has retarded the progress of science."<br /><br />May I chime in?<br /><br />This statement is simply not supported by the historical record. The first universities were founded by the Church and religious orders have responsible for the education of millions all with the purpose of the discovery of Truth including the workings of the natural world. Just citing these two facts demonstrate that religion not only does not impede scientific progress but has actually been the catalyst for much of it.]]></body>
+  
+  <user>
+    <id>995908</id>
+    <name>Kim</name>
+    <display_name>Kim</display_name>
+
+    <location>Twin Falls, ID</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/995908-kim]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1205637781p3/995908.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1205637781p2/995908.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Apr 29 13:34:03 -0700 2008</created_at>
+  <updated_at>Tue Apr 29 13:34:03 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1552292</id>
+  <body><![CDATA[I don't believe this book was meant to be a truistic view of what the religious beliefs are. I think it was Dan Brown's view of the Holy Grail. I personally have not been associated with religion and I enjoyed the book. Anyone who questions any standardized conformist group is great in my book. He made others consider the what if it did happen this way. I am sorry but why do religious sects always make themselves out to be so angel like. I bet we can all dig up some dirt on any religion...simply I liked the book for what it was...fiction. ]]></body>
+  
+  <user>
+    <id>1440789</id>
+    <name>Zuska</name>
+    <display_name>Zuska</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1440789-zuska]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 19 12:04:07 -0700 2008</created_at>
+  <updated_at>Tue Aug 19 12:04:07 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>14878645</id>
+  <body><![CDATA[Awesome review, and I second the rec of Eco instead.]]></body>
+  
+  <user>
+    <id>3483240</id>
+    <name>Vivien</name>
+    <display_name>Vivien Jackson</display_name>
+
+    <location>Austin, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3483240-vivien-jackson]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1343069701p3/3483240.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1343069701p2/3483240.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 23 11:41:51 -0700 2010</created_at>
+  <updated_at>Tue Mar 23 11:41:51 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>17148775</id>
+  <body><![CDATA[I wish when I had read it I had read your review already. It was recommended to me by friends who raved about it as having new ideas...if I'd read it with the approach you encourage, I might have enjoyed it a lot more.]]></body>
+  
+  <user>
+    <id>3793785</id>
+    <name>Jessica</name>
+    <display_name>Jessica</display_name>
+
+    <location>Palo Alto, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3793785-jessica]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat May 29 22:04:14 -0700 2010</created_at>
+  <updated_at>Sat May 29 22:04:14 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>17607409</id>
+  <body><![CDATA[You nailed it ... with one exception. Please do not use this clunker of a mystery to dishonor my childhood enjoyment of Nancy Drew, girl detective.]]></body>
+  
+  <user>
+    <id>1094533</id>
+    <name>Mary</name>
+    <display_name>Mary Overton</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1094533-mary-overton]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1208507198p3/1094533.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1208507198p2/1094533.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jun 12 12:36:47 -0700 2010</created_at>
+  <updated_at>Sat Jun 12 12:36:47 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>19948676</id>
+  <body><![CDATA[Yeah, agreed. This book is the stuff of hype, and beach reading.]]></body>
+  
+  <user>
+    <id>2534471</id>
+    <name>Franky</name>
+    <display_name>Franky</display_name>
+
+    <location>Bakersfield, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2534471-franky]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1312356219p3/2534471.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1312356219p2/2534471.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 15 23:54:27 -0700 2010</created_at>
+  <updated_at>Sun Aug 15 23:54:27 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>22769484</id>
+  <body><![CDATA[Having read "Holy Blood, Holy Grail," none of these ideas were new to me. Non-original plot plus bad writing equals inexcusable waste of time. I filed this on my "life-is-too-short-for-this-shit" shelf. Also agree that "Name of the Rose" is a book worth reading (and re-reading.)]]></body>
+  
+  <user>
+    <id>4334654</id>
+    <name>jobiwan6</name>
+    <display_name>jobiwan6</display_name>
+
+    <location>Santa Barbara, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4334654-jobiwan6]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1297021160p3/4334654.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1297021160p2/4334654.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 12 08:02:02 -0800 2010</created_at>
+  <updated_at>Fri Nov 12 08:02:02 -0800 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>46992475</id>
+  <body><![CDATA[How is "Harrison Ford in Harris tweed" a "howler"??<br />This sentence was written in a mmagazine that mentioned the hero, and the hero says it's a "ridiculous line". <br /><br />So it makes no sense to mention it in your review as if to say the author had some ridiculous writing.<br /><br />Also, this book is fiction, and I've read far more crazier stuff about the origins of christianity in non-fiction books. So, I don't see the point of mentioning that Opus Dei has no assassin monks. Of course not.<br /><br />You mention the page stated as "FACTS" in the beginning of the book.<br />There are 3 facts listed. One of them says that the Opus Dei exists and is a Vatican prelature. Not that they have assassins.<br /><br />Brown is however mistaken on his first fact, and funnily enough you don't even mention it.<br /><br />"while introducing the novel with claims that the historical record contained within is "fact"."<br /><br />Not at all. He claims before the prologue that "all descriptions of artwork, architecture, documents and secret rituals are accurate." Which means something else than what you wrote.<br /><br />Last thing, I particularly dislike it when people write stuff like "something you take to the beach and casually finish in a weekend". It's incredibly SMUG and condescending. <br /><br />The book is more than that, and I can see all the work that it demanded the author (research then plot then writing).<br />Because it's not your style doesn't mean ist's "just" something to read in a day.]]></body>
+  
+  <user>
+    <id>7924170</id>
+    <name>Tatiana</name>
+    <display_name>Tatiana</display_name>
+
+    <location>France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7924170-tatiana]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1393981685p3/7924170.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1393981685p2/7924170.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 14 20:17:47 -0700 2012</created_at>
+  <updated_at>Wed Mar 14 20:17:47 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>49667721</id>
+  <body><![CDATA[<i>Tatiana wrote: "How is "Harrison Ford in Harris tweed" a "howler"??<br />This sentence was written in a mmagazine that mentioned the hero, and the hero says it's a "ridiculous line". <br /><br />So it makes no sense to mention i..."</i><br /><br />Sorry you didn't like my review. As someone once said, everyone is entitled to his own opinion, but not to his own facts. When Brown says his descriptions of artwork are accurate, and they're immediately falsified by simple Google searches, his credibility drops precipitously.<br /><br />An honest comparison of his description of the <em>Virgin of the Rocks</em> with <a href="http://en.wikipedia.org/wiki/Virgin_of_the_Rocks" rel="nofollow">the actual</a> should suffice to demonstrate his carelessness with the truth. His description doesn't match the work at all, including the title, which he gives as <em>The Madonna of the Rocks</em> so that he can work in an awkward anagram, "so dark the con of man." Consider the most basic question: who is who in this painting? He gets that completely wrong -- Jesus is on the right, sitting, not the left, kneeling. His whole analysis falls apart after this. Anyone remotely familiar with "religious symbology" would know this. What's more, his description of the tone of the painting is just bewildering. No one looking at this painting would describe any adult in the painting as threatening any child. I would encourage you to actually look at the "artwork, architecture, documents, and secret rituals" in question. Brown's ignorance literally begins on the cover and continues through the book. He and his "expert" characters call Leonardo "da Vinci," as if "da Vinci" were a surname. If his characters were truly experts in their fields, none of them would have these elementary confusions.<br /><br />Dan Brown is just lousy with facts. One example: he begins <em>Digital Fortress</em> with a description of the NSA that describes its headquarters as "hidden dicreetly in the wooded hills of Fort Meade, Maryland," which is great, except for the inconvenient facts that there are no woods near the headquarters, there are no hills, and there are signs on the Baltimore Washington Parkway indicating the location of the NSA headquarters, whose buildings are clearly visible. It's not just that this is wrong. It's that it is easily checked. Anyone living in the area knows this, and a casual drive to the location demonstrates it. And the NSA is central to that novel.<br /><br />If, apart from all the factual errors, you find something good in the novel, by all means, enjoy. As to prose style, I guess it's a matter of taste. I found it to be wrong on facts, weak in prose, and dishonest in its approach. From my point of view, it does have the veneer of a casual beach read, which I find to be the most honest thing about it.<br /><br />If what I've written above makes me smug and condescending, at least I come by it honestly, having read it and thought about it and tried to find whatever virtues I could in it.]]></body>
+  
+  <user>
+    <id>198340</id>
+    <name>Jim</name>
+    <display_name>Jim</display_name>
+
+    <location>Rutherford, NJ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/198340-jim]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1366461973p3/198340.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1366461973p2/198340.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Apr 29 07:44:54 -0700 2012</created_at>
+  <updated_at>Sun Apr 29 07:44:54 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>49957067</id>
+  <body><![CDATA[<i>As someone once said, everyone is entitled to his own opinion, but not to his own facts</i><br /><br />I like that sentence.<br /><br />I understand that people may not like the book. I for one don't find it flawless and it's not my favourite book.<br />However, I just think that it is somehow disrespectful for the author to say it's dumbed down or nothing more than a one-day beach read. <br />Of course, this type of book exists, but it's, to me anyway, obvious that The Da Vinci Code demanded a lot more research (even if Brown distorted the interpretations of artworks and such to fit his plot)...]]></body>
+  
+  <user>
+    <id>7924170</id>
+    <name>Tatiana</name>
+    <display_name>Tatiana</display_name>
+
+    <location>France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7924170-tatiana]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1393981685p3/7924170.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1393981685p2/7924170.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri May 04 13:46:38 -0700 2012</created_at>
+  <updated_at>Fri May 04 13:46:38 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>62525997</id>
+  <body><![CDATA[I literally laughed out loud at ""Professor of Religious Symbology at Harvard" -- good work if you can find it"; well put, good sir!]]></body>
+  
+  <user>
+    <id>2679456</id>
+    <name>Sunsprout</name>
+    <display_name>Sunsprout</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2679456-sunsprout]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 27 17:49:38 -0800 2012</created_at>
+  <updated_at>Tue Nov 27 17:49:38 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>74666909</id>
+  <body><![CDATA[HAHA!!!! great review! I couldn't bring myself to write more in mine, and you said it all here]]></body>
+  
+  <user>
+    <id>17023825</id>
+    <name>Cindy</name>
+    <display_name>Cindy Choi</display_name>
+
+    <location>Wadsworth, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17023825-cindy-choi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1359757483p3/17023825.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1359757483p2/17023825.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed May 22 18:54:56 -0700 2013</created_at>
+  <updated_at>Wed May 22 18:54:56 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>80000048</id>
+  <body><![CDATA[Spot on!]]></body>
+  
+  <user>
+    <id>15713661</id>
+    <name>Mariam</name>
+    <display_name>Mariam</display_name>
+
+    <location>Kuwait</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15713661-mariam]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1374114496p3/15713661.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1374114496p2/15713661.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 04 16:17:35 -0700 2013</created_at>
+  <updated_at>Sun Aug 04 16:17:35 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>80000123</id>
+  <body><![CDATA[Spot on!]]></body>
+  
+  <user>
+    <id>15713661</id>
+    <name>Mariam</name>
+    <display_name>Mariam</display_name>
+
+    <location>Kuwait</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15713661-mariam]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1374114496p3/15713661.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1374114496p2/15713661.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 04 16:18:45 -0700 2013</created_at>
+  <updated_at>Sun Aug 04 16:18:45 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>89659014</id>
+  <body><![CDATA[:D :D :D here ya go! :D <br /><br /><a target="_blank" href="http://youtu.be/2oi5hdM6W8o" rel="nofollow">http://youtu.be/2oi5hdM6W8o</a>]]></body>
+  
+  <user>
+    <id>27183690</id>
+    <name>Tom</name>
+    <display_name>Tom Tyler</display_name>
+
+    <location>League City, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27183690-tom-tyler]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 31 13:53:55 -0800 2013</created_at>
+  <updated_at>Tue Dec 31 13:53:55 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>132347618</id>
+  <body><![CDATA[Thank you]]></body>
+  
+  <user>
+    <id>44597594</id>
+    <name>mykayla</name>
+    <display_name>mykayla</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/44597594-mykayla]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 07 14:04:36 -0700 2015</created_at>
+  <updated_at>Tue Jul 07 14:04:36 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>146670237</id>
+  <body><![CDATA["I've read dinner menus that were more demanding on the reader." OUCH!! XD But very true!]]></body>
+  
+  <user>
+    <id>35008235</id>
+    <name>Dido</name>
+    <display_name>Dido AuLeFer</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/35008235-dido-aulefer]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1453729765p3/35008235.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1453729765p2/35008235.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 27 01:35:41 -0800 2016</created_at>
+  <updated_at>Wed Jan 27 01:35:41 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159993871</id>
+  <body><![CDATA[Well stated, Jim (and kudos to Megan, who accurately described my biggest beef: Brown's writing formula, evident in his every book). <br /><br />If you (and anyone else reading) liked Eco's <i>The Name of the Rose</i>, I would recommend to you his book <a href="https://www.goodreads.com/book/show/17841.Foucault_s_Pendulum" title="Foucault's Pendulum by Umberto Eco" rel="nofollow">Foucault's Pendulum</a>, which is actually directly related to this whole Holy Grail take. (Be forewarned, it's very long, and very challenging.) I would be surprised if Brown did not read / borrow from it as well as <i>Holy Blood, Holy Grail</i>.]]></body>
+  
+  <user>
+    <id>8292453</id>
+    <name>Shelli</name>
+    <display_name>Shelli</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8292453-shelli]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1365313986p3/8292453.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1365313986p2/8292453.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Dec 08 08:14:55 -0800 2016</created_at>
+  <updated_at>Thu Dec 08 08:14:55 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>160034107</id>
+  <body><![CDATA[Totally agree with you and Jims review. Hit the right point. I was rather surpeised and disspointer about all the excitement and thrill around this book, while people didnt feel how poorely it has been written. I felt that auther took up for a 6 year old kids that are easy to keep tense, without extra work. Very predictable plot, every time the author is trying to make it very intesnse, life or death situation, you know already nothing will happen to the characters, something will save them in the very last second. <br />I would not recommend it to a friend))))]]></body>
+  
+  <user>
+    <id>29765729</id>
+    <name>Alexandra</name>
+    <display_name>Alexandra</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/29765729-alexandra]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1395169627p3/29765729.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1395169627p2/29765729.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Dec 09 09:18:31 -0800 2016</created_at>
+  <updated_at>Fri Dec 09 09:18:31 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>161141348</id>
+  <body><![CDATA[Spot on.]]></body>
+  
+  <user>
+    <id>41842171</id>
+    <name>Abdullah</name>
+    <display_name>Abdullah Moneim</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/41842171-abdullah-moneim]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1428127603p3/41842171.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1428127603p2/41842171.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 06 11:11:09 -0800 2017</created_at>
+  <updated_at>Fri Jan 06 11:11:09 -0800 2017</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/3181304]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3181304]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

@@ -1,0 +1,416 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:40:37 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: K8710M87FV3JX5D2HFRA
+etag: W/"42affdd7ce66a26d9cf7feb0b3d3743e"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.269181
+set-cookie: csid=BAhJIhgxOTEtNzQ3NDE4MS0zMzk0MjcwBjoGRVQ%3D--5a5b309656e40d2527ba6dc50837ed1fee432c96; path=/; expires=Tue, 12 May 2037 13:40:36 -0000, locale=es; path=/, _session_id2=e795cc0814c29f095859271561e8ddb6; path=/; expires=Fri, 12 May 2017 19:40:37 -0000; HttpOnly
+content-length: 14122
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=1105513063
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1105513063</id>
+    
+  <user>
+    <id>14457130</id>
+    <name>Whitney</name>
+    <display_name>Whitney Atkinson</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14457130-whitney-atkinson]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493269691p3/14457130.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493269691p2/14457130.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">19288043</id>
+  <isbn>0307588378</isbn>
+  <isbn13>9780307588371</isbn13>
+  <text_reviews_count type="integer">19601</text_reviews_count>
+  <title>Gone Girl</title>
+  <title_without_series>Gone Girl</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1397056917m/19288043.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1397056917s/19288043.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/19288043-gone-girl</link>
+  <num_pages>422</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Broadway Books</publisher>
+  <publication_day>22</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.03</average_rating>
+  <ratings_count>1572069</ratings_count>
+  <description>On a warm summer morning in North Carthage, Missouri, it is Nick and Amy Dunne’s fifth wedding anniversary. Presents are being wrapped and reservations are being made when Nick’s clever and beautiful wife disappears. Husband-of-the-Year Nick isn’t doing himself any favors with cringe-worthy daydreams about the slope and shape of his wife’s head, but passages from Amy's diary reveal the alpha-girl perfectionist could have put anyone dangerously on edge&lt;b&gt;.&lt;/b&gt; Under mounting pressure from the police and the media—as well as Amy’s fiercely doting parents—the town golden boy parades an endless series of lies, deceits, and inappropriate behavior. Nick is oddly evasive, and he’s definitely bitter—but is he really a killer? </description>
+<authors>
+<author>
+<id>2383</id>
+<name>Gillian Flynn</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1232123231p5/2383.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1232123231p2/2383.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2383.Gillian_Flynn]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>2349137</ratings_count>
+<text_reviews_count>184832</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">81851272</id>
+          <page type="integer">65</page>
+          <chapter type="integer"></chapter>
+          <comments_count>6</comments_count>
+          <created_at type="datetime">Tue Dec 08 23:16:14 -0800 2015</created_at>
+          <updated_at type="datetime">Tue Dec 08 23:16:23 -0800 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">86</ratings_count>
+          <percent type="integer">15</percent>
+          <work_id type="integer">13306276</work_id>
+          <note_uri>kca://note/amzn1.grok.note.2b9eaf74f44db61553dcb6865cbc1b1a</note_uri>
+          <note_updated_at type="datetime">Tue Dec 08 23:16:23 -0800 2015</note_updated_at>
+          <body><![CDATA[the audiobook for this is 19 hours long.... i am hollering]]></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">1109976514</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Tue Dec 15 20:12:33 -0800 2015</updated_at>
+          <ratings_count>1</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1094880007</id>
+          <old_status>to-read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Thu Dec 03 19:25:45 -0800 2015</updated_at>
+          <ratings_count>57</ratings_count>
+          <comments_count>3</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">636464861</id>
+          <old_status></old_status>
+          <status>to-read</status>
+          <updated_at type="datetime">Thu Nov 13 14:22:35 -0800 2014</updated_at>
+          <ratings_count>22</ratings_count>
+          <comments_count>6</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>4</rating>
+  <votes>356</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Dec 03 00:00:00 -0800 2015</started_at>
+  <read_at>Tue Dec 15 00:00:00 -0800 2015</read_at>
+  <date_added>Thu Nov 13 14:22:34 -0800 2014</date_added>
+  <date_updated>Tue Dec 15 20:14:11 -0800 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[4.5<br /><br />I'm never getting married- I can't risk this]]>
+  </body>
+
+  
+
+  <comments_count>11</comments_count>
+    <comments start="1" end="11" total="11">
+        <comment>
+  <id>144421057</id>
+  <body><![CDATA[*laughs wickedly*]]></body>
+  
+  <user>
+    <id>38658830</id>
+    <name>Alice</name>
+    <display_name>Alice Rachel</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/38658830-alice-rachel]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1446202281p3/38658830.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1446202281p2/38658830.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 15 20:33:28 -0800 2015</created_at>
+  <updated_at>Tue Dec 15 20:33:28 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>144422960</id>
+  <body><![CDATA[I was having the worst damn day and I literally guffawed when I saw this review omg]]></body>
+  
+  <user>
+    <id>48087215</id>
+    <name>Joce</name>
+    <display_name>Joce (squibblesreads)</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/48087215-joce-squibblesreads]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1445310967p3/48087215.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1445310967p2/48087215.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 15 21:32:21 -0800 2015</created_at>
+  <updated_at>Tue Dec 15 21:32:21 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>144423471</id>
+  <body><![CDATA[I tried to think of the perfect review for this book, but this one will top anything I ever try to come up with.]]></body>
+  
+  <user>
+    <id>5114433</id>
+    <name>Liz Janet</name>
+    <display_name>Liz Janet</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5114433-liz-janet]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1479698711p3/5114433.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1479698711p2/5114433.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 15 21:50:14 -0800 2015</created_at>
+  <updated_at>Tue Dec 15 21:50:14 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>144425175</id>
+  <body><![CDATA[This book me checking all the windows and doors of my house and then I kept thinking OMG do I know anyone like that and if I do I want them to stay as far way as possible,]]></body>
+  
+  <user>
+    <id>14882361</id>
+    <name>Elizabeth</name>
+    <display_name>Elizabeth</display_name>
+
+    <location>Charleston, WV</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14882361-elizabeth]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1421012425p3/14882361.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1421012425p2/14882361.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 15 23:15:18 -0800 2015</created_at>
+  <updated_at>Tue Dec 15 23:15:18 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>144430550</id>
+  <body><![CDATA[Lmao hahahaha]]></body>
+  
+  <user>
+    <id>8773841</id>
+    <name>Anis</name>
+    <display_name>Anis Athirah</display_name>
+
+    <location>Shah Alam, Malaysia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8773841-anis-athirah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493721444p3/8773841.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493721444p2/8773841.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Dec 16 04:17:25 -0800 2015</created_at>
+  <updated_at>Wed Dec 16 04:17:25 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>144436248</id>
+  <body><![CDATA[hahahahahaha]]></body>
+  
+  <user>
+    <id>5990291</id>
+    <name>♔Ƹ̵̡Ӝ̵̨̄Ʒ Veronica Ƹ̵̡Ӝ̵̨̄Ʒ ♔</name>
+    <display_name>♔Ƹ̵̡Ӝ̵̨̄Ʒ Veronica Ƹ̵̡Ӝ̵̨̄Ʒ ♔</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5990291-veronica]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1336579156p3/5990291.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1336579156p2/5990291.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Dec 16 07:12:27 -0800 2015</created_at>
+  <updated_at>Wed Dec 16 07:12:27 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>146681548</id>
+  <body><![CDATA[Best review of Gone Girl ever haha]]></body>
+  
+  <user>
+    <id>43188399</id>
+    <name>Maryssa</name>
+    <display_name>Maryssa Mc</display_name>
+
+    <location>Perth, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/43188399-maryssa-mc]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1485906130p3/43188399.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1485906130p2/43188399.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 27 07:59:14 -0800 2016</created_at>
+  <updated_at>Wed Jan 27 07:59:14 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>146733280</id>
+  <body><![CDATA[My favorite review of Gone Girl :D]]></body>
+  
+  <user>
+    <id>10655203</id>
+    <name>Chikki</name>
+    <display_name>Chikki</display_name>
+
+    <location>India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10655203-chikki]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1355304572p3/10655203.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1355304572p2/10655203.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 28 07:01:09 -0800 2016</created_at>
+  <updated_at>Thu Jan 28 07:01:09 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>147722659</id>
+  <body><![CDATA[omg XD I didn't really like the book but that description is perfect.]]></body>
+  
+  <user>
+    <id>52123243</id>
+    <name>Alejandra</name>
+    <display_name>Alejandra</display_name>
+
+    <location>Costa Rica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52123243-alejandra]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483421328p3/52123243.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483421328p2/52123243.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Feb 17 12:51:32 -0800 2016</created_at>
+  <updated_at>Wed Feb 17 12:51:32 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>153462989</id>
+  <body><![CDATA[While reading the book, after every fucking I was think along these lines!]]></body>
+  
+  <user>
+    <id>24815130</id>
+    <name>Anjali</name>
+    <display_name>Anjali Jangra</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24815130-anjali-jangra]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1449864450p3/24815130.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1449864450p2/24815130.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jun 26 13:03:41 -0700 2016</created_at>
+  <updated_at>Sun Jun 26 13:03:41 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155929306</id>
+  <body><![CDATA[I hope you're joking. You are, right?]]></body>
+  
+  <user>
+    <id>32123443</id>
+    <name>Laura</name>
+    <display_name>Laura S.</display_name>
+
+    <location>Buzau, 11, Romania</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32123443-laura-s]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 24 05:58:22 -0700 2016</created_at>
+  <updated_at>Wed Aug 24 05:58:22 -0700 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1105513063]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1105513063]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

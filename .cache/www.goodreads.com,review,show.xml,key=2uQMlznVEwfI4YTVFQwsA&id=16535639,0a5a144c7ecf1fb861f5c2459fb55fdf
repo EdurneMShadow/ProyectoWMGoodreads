@@ -1,0 +1,1134 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:38:59 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: Z3JWZVWNGV7XHJG4CTB3
+etag: W/"98222aa4ef37a7e728e70362ae65bc1b"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.399878
+set-cookie: csid=BAhJIhg2NjctMTcxOTM2OC0zMTQwMzcxBjoGRVQ%3D--a37c9c439931f156a3dbaf337d115c596aa06c39; path=/; expires=Tue, 12 May 2037 13:38:59 -0000, locale=es; path=/, _session_id2=15e309817dc0bbb95143dd7891a6cebf; path=/; expires=Fri, 12 May 2017 19:38:59 -0000; HttpOnly
+content-length: 66942
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=16535639
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>16535639</id>
+    
+  <user>
+    <id>949071</id>
+    <name>Sarah</name>
+    <display_name>Sarah</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/949071-sarah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1357016589p3/949071.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1357016589p2/949071.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">41865</id>
+  <isbn>0316015849</isbn>
+  <isbn13>9780316015844</isbn13>
+  <text_reviews_count type="integer">89642</text_reviews_count>
+  <title>Twilight (Twilight, #1)</title>
+  <title_without_series>Twilight</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1361039443m/41865.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1361039443s/41865.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/41865.Twilight</link>
+  <num_pages>498</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Little, Brown and Company</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.57</average_rating>
+  <ratings_count>3825323</ratings_count>
+  <description>&lt;b&gt;About three things I was absolutely positive.&lt;br /&gt;&lt;br /&gt;First, Edward was a vampire.&lt;br /&gt;&lt;br /&gt;Second, there was a part of him—and I didn't know how dominant that part might be—that thirsted for my blood.&lt;br /&gt;&lt;br /&gt;And third, I was unconditionally and irrevocably in love with him.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;In the first book of the Twilight Saga, internationally bestselling author Stephenie Meyer introduces Bella Swan and Edward Cullen, a pair of star-crossed lovers whose forbidden relationship ripens against the backdrop of small-town suspicion and a mysterious coven of vampires. This is a love story with bite.</description>
+<authors>
+<author>
+<id>941441</id>
+<name>Stephenie Meyer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1477924095p5/941441.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1477924095p2/941441.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/941441.Stephenie_Meyer]]></link>
+<average_rating>3.64</average_rating>
+<ratings_count>8672804</ratings_count>
+<text_reviews_count>294546</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1213613272</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Fri Jan 29 12:34:08 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>2</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>2509</votes>
+  <spoiler_flag>true</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="2008" exclusive="false" review_shelf_id="19723769" sortable="false" />
+    <shelf name="vampire-supernatural" exclusive="false" review_shelf_id="8857918" sortable="false" />
+    <shelf name="romance" exclusive="false" review_shelf_id="8858624" sortable="false" />
+    <shelf name="teen-young-adult" exclusive="false" review_shelf_id="8918815" sortable="false" />
+</shelves>
+  <recommended_for><![CDATA[no one, not even my worst enemy]]></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sun May 04 00:00:00 -0700 2008</read_at>
+  <date_added>Wed Feb 27 13:08:15 -0800 2008</date_added>
+  <date_updated>Wed Dec 04 11:47:28 -0800 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Okay, I have to say that I picked this book up partly due to all the hype (and partly because it's involved two of my favorite genres)... I mean, so many people had recommended it to me and I finally got sick of hearing about it, so I picked it up and read it... or as least <b>tried</b> to.<br /><br />Let me first...]]>
+  </body>
+
+  
+
+  <comments_count>1047</comments_count>
+    <comments start="1" end="50" total="1047">
+        <comment>
+  <id>761115</id>
+  <body><![CDATA[I couldn't agree with you more.<br /><br />This book was AWFUL, for all of the reasons you said. ]]></body>
+  
+  <user>
+    <id>1067726</id>
+    <name>Jennifer</name>
+    <display_name>Jennifer</display_name>
+
+    <location>Middletown, CT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1067726-jennifer]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1207698728p3/1067726.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1207698728p2/1067726.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 10 16:48:12 -0700 2008</created_at>
+  <updated_at>Sat May 10 16:48:12 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>767572</id>
+  <body><![CDATA[That was the best review I have ever read of Twilight. ]]></body>
+  
+  <user>
+    <id>611251</id>
+    <name>Emma </name>
+    <display_name>Emma  Blue</display_name>
+
+    <location>Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/611251-emma-blue]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1477253196p3/611251.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1477253196p2/611251.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon May 12 12:51:15 -0700 2008</created_at>
+  <updated_at>Mon May 12 12:51:15 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>787565</id>
+  <body><![CDATA[I was so glad to read this. Although many of my reviewers RAVE over TWILIGHT (the entire series, really), I couldn't even make it through the first book. I hated it; totally, completely, and absolutely. And there's not a whole lot that I hate. :)]]></body>
+  
+  <user>
+    <id>1125613</id>
+    <name>Jennifer</name>
+    <display_name>Jennifer Wardrip</display_name>
+
+    <location>Bloomington, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1125613-jennifer-wardrip]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442657515p3/1125613.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442657515p2/1125613.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 15 20:18:12 -0700 2008</created_at>
+  <updated_at>Thu May 15 20:18:12 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>801062</id>
+  <body><![CDATA[I absolutely agree with you. Still, because the books were getting so much hype, and because I need to be solid in my position in an argument, I continued reading the other two books in the series. All those things you mentioned up there get so much more worse. Like, it's sickening. In fact, when I was done reading the third book, I felt extremely exhausted by the ton of angst that this series vomits at you. It's infuriating, the kind of message Meyer sends out about how a girl should be if a total hottie happens to take notice in her is disgusting. Not to mention her messages on love are extremely unrealistic. Throughout the series she repeats the idea that love is a matter of forced fate, not a matter of meeting, getting to know each other gradually and then eventually falling in love. And it gets a million times worse when the werewolves come in. Not that they're even really werewolves, since like the vampires they have all the good traits and none of the bad. They don't feed on human flesh when they're in wolf form, and they can turn to wolves when they please and aren't forced to turn when the moon is full. It goes on with a bunch of other Mary Sue nonsense. <br /><br />And the Edward description? I actually managed to get an idea of him in my head, and it really creeped me out, so I sort of blur it when I imagine him. Meyer must not actually use her brain when she writes, otherwise she'd see how horrible this stuff is. ]]></body>
+  
+  <user>
+    <id>950735</id>
+    <name>Roxana</name>
+    <display_name>Roxana</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/950735-roxana]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun May 18 21:22:05 -0700 2008</created_at>
+  <updated_at>Sun May 18 21:22:05 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>803886</id>
+  <body><![CDATA[I applaud you for attempting to be educated about your viewpoint!]]></body>
+  
+  <user>
+    <id>611251</id>
+    <name>Emma </name>
+    <display_name>Emma  Blue</display_name>
+
+    <location>Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/611251-emma-blue]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1477253196p3/611251.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1477253196p2/611251.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon May 19 13:25:04 -0700 2008</created_at>
+  <updated_at>Mon May 19 13:25:04 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>812936</id>
+  <body><![CDATA[Thank you, :D I never like to discuss things if I've no idea what the hell I'm talking about. On top of that I work at a bookstore so I'm often better off reading some of the popular books since people often ask for my opinion. I've no idea what I'll say the next time I get asked about these. ]]></body>
+  
+  <user>
+    <id>950735</id>
+    <name>Roxana</name>
+    <display_name>Roxana</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/950735-roxana]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed May 21 01:02:47 -0700 2008</created_at>
+  <updated_at>Wed May 21 01:02:47 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>814749</id>
+  <body><![CDATA[ahhh I see. Well rock on!!]]></body>
+  
+  <user>
+    <id>611251</id>
+    <name>Emma </name>
+    <display_name>Emma  Blue</display_name>
+
+    <location>Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/611251-emma-blue]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1477253196p3/611251.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1477253196p2/611251.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed May 21 11:11:22 -0700 2008</created_at>
+  <updated_at>Wed May 21 11:11:22 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>837011</id>
+  <body><![CDATA[Though I am quite obsessed with this series, I have to say I agree with some of your points. Awesome review!! ]]></body>
+  
+  <user>
+    <id>1171337</id>
+    <name>Mounica</name>
+    <display_name>Mounica</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1171337-mounica]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1275073458p3/1171337.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1275073458p2/1171337.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 25 18:03:45 -0700 2008</created_at>
+  <updated_at>Sun May 25 18:03:45 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>844079</id>
+  <body><![CDATA[It is refreshing to find someone else who was as disturbed by the Bella/Edward romance as I was. Thank you for your review.]]></body>
+  
+  <created_at>Tue May 27 03:01:04 -0700 2008</created_at>
+  <updated_at>Tue May 27 03:01:04 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>868681</id>
+  <body><![CDATA[1st. I'm not looking to start a fight. I read your review because I wanted to see what those who hated the book ad to say.<br /><br />2nd. I'll admit it. I can be the type who decides to cry at I dunno the movie Happy Feet. - So this book would probably be good for a person who was somewhat LOOKING for some sappy ass story. Honestly I wasn't. I read it because my best friend was and I wanted to encourage her to read more.<br /><br />3rd. About no one every questioning their age. I wondered the same thing too. In fact I wanted to hear a bit more about what EXACTLY caused them to leave Alaska. Something obviously happened there to bring them to Forks.<br /><br />4th. The term vegetarian was supposed to be the family joke. I don't read tons of vampire lit however I must say I have an increasing interest to find out what else is out there - and I don't doubt that once I have more under my literary belt my feelings towards this book may change. But I wasn't sure why you called that out - from what I've seen the concept of vampires avoiding drinking human blood is not a new one.<br /><br />5th. Educational aspirations. Edward tells Bella how Carlisle spent a lot of time educating himself. I felt that may have been worth a mention.<br /><br />6th. Liking someone based on physical appearance (and Edward liking Bella's scent). Bella does mention that there is more to know than what he looks like. But yes there are an infinite amount of references to his "Adonis"-like looks. Yes, Edward was intoxicated by Bella's scent but I had the impression his secondary attraction was more one of arrogance. He couldn't read her mind - so he was fascinated.<br /><br />Overall though I thought your review was put together well.]]></body>
+  
+  <user>
+    <id>1186572</id>
+    <name>Rat de bibliothèque</name>
+    <display_name>Rat de bibliothèque</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1186572-rat-de-biblioth-que]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1266502866p3/1186572.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1266502866p2/1186572.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri May 30 20:55:08 -0700 2008</created_at>
+  <updated_at>Fri May 30 20:55:08 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>868795</id>
+  <body><![CDATA[To Ver De Levre:<br /><br />First, I want to thank you for presenting yourself and your opinions in a nice, respectable way. It's refreshing to come across a Twilight fan who can actually respect the fact that I don't worship the series.<br /><br />Now, I'm don't want to argue either, I just want to clarify a few things.<br /><br />First, the vampires in the series, are too human like for my tastes. I mean, the only vampire qualities they have are they drink blood, they're immortal and they all seem to have a special power. Along with that, they have none of the bad things that come along with being a vampire... they can go out during the day, their powers really aren't that bad, I mean, that their powers have no consequences or bad things with them.<br /><br />Like I said above, I felt that Meyer only added the "sparkling" to give a reason for the vampires to be out in the daylight to begin with. To me, I think she could have been much more creative in coming up with a reason as to why they could come out during the day. I'm sorry, but I thought the whole sparkling thing made them even more pathetic than they all ready were. At least, in my opinion it did.<br /><br />The whole education aspirations thing, I was talking about Bella... since she seems to not care about her education, as long as she has Edward, she's all set. At least, that is what I got from it. And that is a REALLY bad message to send to the young girls who are reading this series.<br /><br />And, I didn't remember reading anything about Bella and her love for Edward that went deeper than just looks. They seem to have nothing in common. If they do, it was not made clear enough for me to be able to see it.<br />]]></body>
+  
+  <user>
+    <id>949071</id>
+    <name>Sarah</name>
+    <display_name>Sarah</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/949071-sarah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1357016589p3/949071.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1357016589p2/949071.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri May 30 21:31:29 -0700 2008</created_at>
+  <updated_at>Fri May 30 21:31:29 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>869643</id>
+  <body><![CDATA[Hey no problem. The internet is far too full of people who are all too quick to start net arguments. This is a site that should be treated as above that sort of thing.<br /><br />I'll agree. They were incredibly human. Which was a bit .... odd. And the special powers. Totally new to me. I'm not sure if I liked that or not. I'm leaning a little towards not. I think it may stray a bit too far from what keeps it in the realm of vampire fiction.<br /><br />The going out during the day. I looked at it this way. It's like how Douglas Adams and other sci fi writers would come up with reasoning for why certain things worked certain ways. It was her infinite improbability drive by saying it was a myth. However, I feel that that's somewhat of a vampire staple and perhaps would have been best off left unchanged.<br /><br />As for Bella ans her education. I'm not sure I've made up my mind on that. I just began the second book and they are at least making a concentrated effort to show the Cullens family pushing to insure she goes to college. I saw no reason to really mention that in my last comment since we were discussing the first book - this tidbit I considered a bit off topic.<br /><br />Now - if we are looking as this as a vampire novel. And that is what you wanted and expected when picking it up. Yeah - I could see how people would see this as a piece of shit.<br /><br />If you had no expectations and like myself can just be a retarded 6th grader and go all to pieces over gooshy unnecessary romance - then yes. It's just fabby.]]></body>
+  
+  <user>
+    <id>1186572</id>
+    <name>Rat de bibliothèque</name>
+    <display_name>Rat de bibliothèque</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1186572-rat-de-biblioth-que]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1266502866p3/1186572.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1266502866p2/1186572.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 31 07:01:34 -0700 2008</created_at>
+  <updated_at>Sat May 31 07:01:34 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>920701</id>
+  <body><![CDATA[well, i kinda disagree. i'm not really into romance books, and i typically don't like books that everyone else likes (ex: i HATE harry potter, the inheritance series, inkheart/inkspell, stuff like that) and i when i picked up twilight i didn't expect much from it. but i personally loved it; it kinda surprised me. sure, bella is a little annoying and whiney sometimes, but i don't think it takes away much from the actual story. ]]></body>
+  
+  <user>
+    <id>886144</id>
+    <name>Brigid *Flying Kick-a-pow!*</name>
+    <display_name>Brigid *Flying Kick-a-pow!*</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/886144-brigid-flying-kick-a-pow]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1490108546p3/886144.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1490108546p2/886144.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jun 07 13:32:47 -0700 2008</created_at>
+  <updated_at>Sat Jun 07 13:32:47 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>924975</id>
+  <body><![CDATA[Brigid-<br />You're right. I'm most of the way through Eclipse and after three books I am seeing how Bella can indeed be very whiney.]]></body>
+  
+  <user>
+    <id>1186572</id>
+    <name>Rat de bibliothèque</name>
+    <display_name>Rat de bibliothèque</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1186572-rat-de-biblioth-que]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1266502866p3/1186572.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1266502866p2/1186572.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jun 08 10:34:49 -0700 2008</created_at>
+  <updated_at>Sun Jun 08 10:34:49 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>925237</id>
+  <body><![CDATA[i haven't even read eclipse yet, but i'm going to... and i'm gonna read the fourth one too once it comes out]]></body>
+  
+  <user>
+    <id>886144</id>
+    <name>Brigid *Flying Kick-a-pow!*</name>
+    <display_name>Brigid *Flying Kick-a-pow!*</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/886144-brigid-flying-kick-a-pow]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1490108546p3/886144.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1490108546p2/886144.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jun 08 11:15:35 -0700 2008</created_at>
+  <updated_at>Sun Jun 08 11:15:35 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>943710</id>
+  <body><![CDATA[That's not how Bella is meant to be at all. She is more of an awkward teenager who has never found love before, and now her first love is a dangerous but deeply seductive vampire. Quite beautiful really. And SELFISH!??! You've got to be kidding me. She moved all the way out to Forks for her MOTHER'S SAKE, and she almost got herself killed so that her mother could live. As for being a damsel in distress, what would you do if a car came flying at you or some crazed vampire dude wanted to kill you?<br /><br />I agree that the writing wasn't the best I've ever written, but it was still pretty good, and your description of bella is completley wackadoo!]]></body>
+  
+  <created_at>Wed Jun 11 06:31:33 -0700 2008</created_at>
+  <updated_at>Wed Jun 11 06:31:33 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>944104</id>
+  <body><![CDATA[To Emily:<br /><br />So, is that the only thing in my review that you don't agree with? And... yes, she IS a selfish, stupid damsel in distress, at least I think she is. Yea, she moved to Forks for her mother, but she didn't WANT to and that is made very clear at the beginning of the novel. <br /><br />She is "brave" for going after this vampire all by herself just to save her mother, but, it wasn't the BEST idea in the world. Especially since when she gets there she acts like a stupid damsel in distress... she barely even tried to fight back. I know that he's a vampire and she probably couldn't fight back THAT much, but COME ON... she could have at least TRIED. I know she had a broken leg or whatever, but come on! I would have fought for my life even if I knew it wouldn't do anything because if I was going to be killed I sure as hell wasn't going to make it EASY for him... even if it didn't do any good.<br /><br />That is my opinion, I'm sorry if you disagree with it, but you are not going to be able to change my opinion and I am not going to be able to change yours. I am not going to argue about this... I don't really care if you read the book and you liked it, I even respect your opinion... even though you could have presented it in a better way.]]></body>
+  
+  <user>
+    <id>949071</id>
+    <name>Sarah</name>
+    <display_name>Sarah</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/949071-sarah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1357016589p3/949071.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1357016589p2/949071.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jun 11 07:43:34 -0700 2008</created_at>
+  <updated_at>Wed Jun 11 07:43:34 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>944211</id>
+  <body><![CDATA[To Emily -<br /><br />You may see I responded to this review some time ago. I have been watching it ever since.<br /><br />From someone who liked the book:<br />I'd have to say after reading the review I started to look at it from the reviewers perspective. I believe she offers a bit of a feminist perspective. If you look at the book independent of your own rationale and approach it with her eyes you can see where she is coming from.<br /><br />Yes, Bella IS awkward like many teenagers - however in her case it's more awkward than most. Yes, she does act a lot like a teenage girl. I remember those days in high school where you have something on your mind and the rest of the days events are a blur. But this CAN also be seen as this girl spending the majority of her days worrying about as well as "mooning over" Edward Cullen.<br /><br />The damsel in distress was a blanket statement. Bella's attack by James was only one portion to take away. Bella can be seen as a girl who is waiting for some sort of event to whisk her away from her unhappiness and discontentment.<br /><br />In closing. I also support your right to hold your own opinion. But - a book review should never contain the word "wackadoo." If nothing else it detracts from reasons to see you as serious.]]></body>
+  
+  <user>
+    <id>1186572</id>
+    <name>Rat de bibliothèque</name>
+    <display_name>Rat de bibliothèque</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1186572-rat-de-biblioth-que]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1266502866p3/1186572.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1266502866p2/1186572.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jun 11 07:57:41 -0700 2008</created_at>
+  <updated_at>Wed Jun 11 07:57:41 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>946050</id>
+  <body><![CDATA[I know, I'm not trying to change anybodys opinion, but the point of goodreads is saying what you think about books. The book was just supposed to be romantic, and if Bella had been all tough and independent and a crazy feminist nazi the book wouldn't have the same appeal. It's a gushy romance book about an awkward teenage girl who falls in love for the first time with a mysterious, handsome and seductive vampire. That's what the book is. Period. It's not the type of book you anaylze over.]]></body>
+  
+  <created_at>Wed Jun 11 12:22:34 -0700 2008</created_at>
+  <updated_at>Wed Jun 11 12:22:34 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>946156</id>
+  <body><![CDATA[Emily:<br /><br />You said that the point of goodreads is to say what you think about books, but then you also say that "Twilight" is not the type of book you analyze. You've contradicted yourself.<br /><br />Sarah read the book, and wrote an insightful and thorough review of what she thought of it. She had to analyze the book in order to determine what she thought of it. I think that the hundreds of other people who have written reviews (positive and negative) about the Stephanie Meyer's series would disagree with you that this book shouldn't be analyzed. There isn't a book in the world that can't be analyzed and thought about from many perspectives. <br /><br />If Bella was a "tough and independent and a crazy feminist nazi" then perhaps the book wouldn't have appealed to YOU, but it might have appealed more to other people. I know it would have definitely appealed more to me if Bella had been a bit more independent and not so lovesick.<br /><br />Sarah - I think that your "wackadoo" description of Bella is right on the money!<br /><br />]]></body>
+  
+  <user>
+    <id>1067726</id>
+    <name>Jennifer</name>
+    <display_name>Jennifer</display_name>
+
+    <location>Middletown, CT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1067726-jennifer]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1207698728p3/1067726.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1207698728p2/1067726.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jun 11 12:38:09 -0700 2008</created_at>
+  <updated_at>Wed Jun 11 12:38:09 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>946254</id>
+  <body><![CDATA[When I said that I meant that on goodreads you can express your opinions about books, but some books are simple and you don't need to go into great detail about them. Twilight is what it is, and people overanaylze the book too much. If these books are so terrible, how do you explain over 5.3 million copies have been sold?]]></body>
+  
+  <created_at>Wed Jun 11 12:51:16 -0700 2008</created_at>
+  <updated_at>Wed Jun 11 12:51:16 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>946329</id>
+  <body><![CDATA[She's not talking about overall perspective of the books, shes talking about HER persspective of the books. And who says a feminist has to be a nazi? Who says a feminist can't fall in love? ]]></body>
+  
+  <user>
+    <id>611251</id>
+    <name>Emma </name>
+    <display_name>Emma  Blue</display_name>
+
+    <location>Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/611251-emma-blue]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1477253196p3/611251.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1477253196p2/611251.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jun 11 12:59:44 -0700 2008</created_at>
+  <updated_at>Wed Jun 11 12:59:44 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>946485</id>
+  <body><![CDATA[It wouldn't be as appealing if Lois Lane was Superman's sidekick, would it? And this is the last thing I'll say--she's a teenager! A teenager in love, can you blame her for the way she acts? What I loved about the book was the sort of tragic romance element to it. The way that Edward was torn between loving her and thirsting for her blood. How she fell so hard for him even though she knew he was dangerous. We can all relate, we've all fallen deep in love with someone we shouldn't fall for. It's a nicely crafted love story, and I believe it's meant for girls ages 12-16, so if you're 30 and you're complaining about how you didn't like the book, go figure.]]></body>
+  
+  <created_at>Wed Jun 11 13:15:51 -0700 2008</created_at>
+  <updated_at>Wed Jun 11 13:15:51 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>946566</id>
+  <body><![CDATA[Maybe it wouldn't be as appealing, but Lois doesn't have to always be the damsel in distress to make it interesting. In fact, the ones where the women are strong and stubborn happen to be the best ones. ]]></body>
+  
+  <user>
+    <id>611251</id>
+    <name>Emma </name>
+    <display_name>Emma  Blue</display_name>
+
+    <location>Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/611251-emma-blue]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1477253196p3/611251.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1477253196p2/611251.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jun 11 13:25:17 -0700 2008</created_at>
+  <updated_at>Wed Jun 11 13:25:17 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>946649</id>
+  <body><![CDATA[Here here I personally love literary characters like Elizabeth Bennett.<br /><br />As for who this book is meant for - aren't you 19? This does not fall between the ages of 12 - 16.<br /><br />Also - your profile is correct. If you'd like to become a writer - you should consider reading a tad more. But you should also grab better hold of your "emotions" during literary discussion.]]></body>
+  
+  <user>
+    <id>1186572</id>
+    <name>Rat de bibliothèque</name>
+    <display_name>Rat de bibliothèque</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1186572-rat-de-biblioth-que]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1266502866p3/1186572.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1266502866p2/1186572.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jun 11 13:33:15 -0700 2008</created_at>
+  <updated_at>Wed Jun 11 13:33:15 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>946670</id>
+  <body><![CDATA[no im not 19. as a matter of fact i am an excellent writer though, im not just saying that. as for holding onto emotions, i dont see how ive gone over the top, besides calling her description wackadoo which everyone seems to find so absurd.]]></body>
+  
+  <created_at>Wed Jun 11 13:35:35 -0700 2008</created_at>
+  <updated_at>Wed Jun 11 13:35:35 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>946723</id>
+  <body><![CDATA[Wow... I'm gone for an hour, and look what I come back to.<br /><br />Seriously... I'm sorry you don't agree with me and my opinion, but I'm not "over analyzing" anything... just because I actually rip the book apart doesn't mean that I am. There are a lot of things wrong with the book in my eyes and I thought it was only fair to mention them all.<br /><br />And, I'm was a teenager once and still can be considered one... I didn't act like her with my first boyfriend, nor did any girl I know. I'm not saying girls don't act like Bella, but I have never seen a girl act like her when it comes to a boy liking her... so, to me, her actions are completely unrealistic.<br /><br />And, the love between them was pretty much based on physical characteristics... which is not "love", it's "lust"... and it's something that should not be portrayed in a young adult novel.<br /><br />And it's a young adult novel, that is the shelf it can be found on. I am a young adult... therefore, I'm in the proper audience for the book. Please don't say stuff like that, really... it doesn't do anything for your argument. Just because it's a book for young adults doesn't mean an adult can't read it because it was recommended to them by several people. If they don't like it, then they have the right to write a review about it... whether it was recommended to them or not, doesn't matter.<br /><br />Oh, and popularity does not equal quality... just ask all the people who don't like Harry Potter, they would probably agree with me.]]></body>
+  
+  <user>
+    <id>949071</id>
+    <name>Sarah</name>
+    <display_name>Sarah</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/949071-sarah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1357016589p3/949071.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1357016589p2/949071.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jun 11 13:41:50 -0700 2008</created_at>
+  <updated_at>Wed Jun 11 13:41:50 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>946812</id>
+  <body><![CDATA[Not everything I said was directed at you. Popularity may not equal quality, but generally if more people like something it means its better. Ever see those weird indie films that never made it to the big screen? Yeah, they're shit. If this book was shit, it never would have made it this big. Let's agree to disagree, I hate people who get in heated fights over the internet.]]></body>
+  
+  <created_at>Wed Jun 11 13:53:29 -0700 2008</created_at>
+  <updated_at>Wed Jun 11 13:53:29 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>947014</id>
+  <body><![CDATA[I'm not trying to argue with you, but you're the one that seems to think it's appropriate to call some of my ideas names simply because you don't agree with them. I'm sorry, but I don't appreciate you doing that... it doesn't make you look that mature...<br /><br />Ver de Livre left comments disagreeing with my review, but she was able present it in a much more mature way... so instead of feeling offended or threatened, I just felt compelled to clarify a few things that she mentioned. That's called a discussion... when two people sit down and discuss something without calling the other's ideas names or just the person themselves a name.<br /><br />I don't mean to be rude, but you did present yourself in an somewhat immature way. ]]></body>
+  
+  <user>
+    <id>949071</id>
+    <name>Sarah</name>
+    <display_name>Sarah</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/949071-sarah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1357016589p3/949071.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1357016589p2/949071.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jun 11 14:18:04 -0700 2008</created_at>
+  <updated_at>Wed Jun 11 14:18:04 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>948131</id>
+  <body><![CDATA[I'm 30 and I didn't like "Twilight". I must have disliked it simply because I'm 30. No doubt if I was in the "target audience" of 12-16, I would have loved it. I'm sure that the poor writing style, endless descriptions of things that didn't pertain to the plot and poorly developed characters didn't contribute to my dislike of this book.<br /><br />You want to be a writer, so surely you've read books that were not targeted to your specific age group. Did you like them? According to your reasoning, you shouldn't have. <br /><br />Not everything I read fits into my "target age" group. This book was my book clubs monthly selection, which is why I read it. ]]></body>
+  
+  <user>
+    <id>1067726</id>
+    <name>Jennifer</name>
+    <display_name>Jennifer</display_name>
+
+    <location>Middletown, CT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1067726-jennifer]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1207698728p3/1067726.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1207698728p2/1067726.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jun 11 16:24:07 -0700 2008</created_at>
+  <updated_at>Wed Jun 11 16:24:07 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>948301</id>
+  <body><![CDATA[Who on earth mentioned your writing. I haven't read it. Nor did I say you were the worst writer on earth.<br /><br />And if you aren't 19 then be warned that your profile says you were. I made the leap to that conclusion from reading the information you put out there about yourself.]]></body>
+  
+  <user>
+    <id>1186572</id>
+    <name>Rat de bibliothèque</name>
+    <display_name>Rat de bibliothèque</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1186572-rat-de-biblioth-que]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1266502866p3/1186572.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1266502866p2/1186572.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jun 11 16:52:58 -0700 2008</created_at>
+  <updated_at>Wed Jun 11 16:52:58 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>948389</id>
+  <body><![CDATA[I still think you are all being too hard on this book. Yes, the writing was less than the best I've ever read and there were lots of unnecessary details. Edward's character was unrealistic. I don't really care that this book was completley antifeminist, but I mean what do you expect, Meyer's a morman and a housewife. Overall though, it really wasn't THAT bad...and the plotline was intruiging. Like I said, this book is just a fun-read...not the type that you read for English and write a twenty page thesis on it...]]></body>
+  
+  <created_at>Wed Jun 11 17:09:04 -0700 2008</created_at>
+  <updated_at>Wed Jun 11 17:09:04 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>948425</id>
+  <body><![CDATA[P.S. just FYI the reason that nobody noticed that the cullens never aged was because they had just moved to forks two years before...and not everybody's looks change in two years.]]></body>
+  
+  <created_at>Wed Jun 11 17:14:47 -0700 2008</created_at>
+  <updated_at>Wed Jun 11 17:14:47 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>948436</id>
+  <body><![CDATA[P.P.S. haha i just read your whole review for the first time now...that made me laugh.]]></body>
+  
+  <created_at>Wed Jun 11 17:17:18 -0700 2008</created_at>
+  <updated_at>Wed Jun 11 17:17:18 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>948664</id>
+  <body><![CDATA[You know, it seems to me that you are just saying that because you actually liked the book, and you don't like reading reviews by people who didn't like it.<br /><br />I've already said this in my review, but I will repeat myself... there was NO plot line, at least none that I could see. It was nothing but Edward and Bella proclaiming their love for each other. Nothing actually happened, until around page 400... and even then it went by way too fast and it was not explained well which gave me the impression that Meyer just added because she realized that she needed something to happen to give the book some sort of a plot besides the whole gag worthy romance between Bella and Edward.<br /><br />Well, isn't Edward apparently the youngest looking? If I remember right he was either a sophomore or a junior, as was Bella... so, aren't some of his "siblings" older than him (or they look older then him)? So... wouldn't they be in a higher grade than Edward? If that's the case then wouldn't it be weird if one of them was a junior two years before, but was still there two years later? That's NOT realistic at all... and it's a HUGE plot hole.<br /><br />And, you didn't even read my entire review before you decided to comment?!?]]></body>
+  
+  <user>
+    <id>949071</id>
+    <name>Sarah</name>
+    <display_name>Sarah</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/949071-sarah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1357016589p3/949071.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1357016589p2/949071.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jun 11 17:49:13 -0700 2008</created_at>
+  <updated_at>Wed Jun 11 17:49:13 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>948974</id>
+  <body><![CDATA[Okay, first off, just because something isn't popular doesn't mean it's crap. They're so many wonderful books out there that are unknown. And there's popular stuff thats crap. And again, I agree with Sarah when I say this "What plotline???" And how can you possibly over-analyze a book? People who love it are, they're just over-analyzing every single amazing moment. And you hate people who get into heated fights over the internet? Uh, your one of them right now. ]]></body>
+  
+  <user>
+    <id>611251</id>
+    <name>Emma </name>
+    <display_name>Emma  Blue</display_name>
+
+    <location>Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/611251-emma-blue]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1477253196p3/611251.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1477253196p2/611251.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jun 11 18:40:57 -0700 2008</created_at>
+  <updated_at>Wed Jun 11 18:40:57 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>950873</id>
+  <body><![CDATA[Emily:<br /><br />I'd suggest that next time you decide to criticize someone's review of a book that you actually read the entire review. <br /><br />Why do you care if we are "being too hard on this book"? I'm glad you enjoyed the book. The rest of us didn't. <br /><br />Good for you that you didn't mind that the book was anti-feminist. It bothered some of us. <br /><br />I'm glad you think "the plotline was intruiging". The rest of us didn't. <br /><br />If you really want to be a writer, I think you might want to get used to opinions that differ from your own. When you get into college and start writing, it's going to be ripped apart. That's what will help make you an even better writer. <br /><br />I have to disagree with your comment about "Twilight" not being the type of book that you would "read for English and write a twenty page thesis on it". Have you seen how many reviews of "Twilight" there are just on this site? Would it be read in a high school English class? Probably not. Colleges are totally different. My college had a "Popular Literature" class every semester, and it wouldn't surprise me if this book made it onto the reading list. ]]></body>
+  
+  <user>
+    <id>1067726</id>
+    <name>Jennifer</name>
+    <display_name>Jennifer</display_name>
+
+    <location>Middletown, CT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1067726-jennifer]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1207698728p3/1067726.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1207698728p2/1067726.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 12 05:32:32 -0700 2008</created_at>
+  <updated_at>Thu Jun 12 05:32:32 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>990844</id>
+  <body><![CDATA[I LOVE this review. Thank you. Thank you. &lt;3<br /><br />I have a lot to say about it, but Twilight was basically horrible. D: The characterizations were so stereotypical you could PREDICT what cheey line was going to come out next, and Stephenie murdered vampires by making them 100 year old stalkers going after 17 year olds [plus they SPARKLE in the freaking sun and have, pretty much, no weaknesses.] I'm sorry, but the writing in the book also made me want to chuck it. "marble tribute to some forgotten pagan god of beauty"? Please.<br /><br />By the way, I'm 15. And I'm still intelligent enough to see how much Twilight sucks.]]></body>
+  
+  <user>
+    <id>1065046</id>
+    <name>Rachel</name>
+    <display_name>Rachel</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1065046-rachel]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Jun 17 17:50:29 -0700 2008</created_at>
+  <updated_at>Tue Jun 17 17:50:29 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>994706</id>
+  <body><![CDATA[LOL! I actually really like this series and found your review to be pretty damn dead-on about it. Bella annoyed the hell out of me. She was such an empty character who had no aspirations except to fit in and blend. Edward was the most emo vampire ever who can seem to tell the different between desire for sustenance and desire for attention/love.<br /><br />I enjoyed the books because they were cute and because I'm obsessed with vampires, but they really were the weakest vampires ever. I'd be interested in hearing more about the Alaskan family though... ]]></body>
+  
+  <user>
+    <id>670354</id>
+    <name>Olivia</name>
+    <display_name>Olivia</display_name>
+
+    <location>Union City, NJ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/670354-olivia]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1253199625p3/670354.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1253199625p2/670354.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jun 18 10:17:10 -0700 2008</created_at>
+  <updated_at>Wed Jun 18 10:17:10 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1014362</id>
+  <body><![CDATA[I really enjoyed these books for what they are: escapism at it's best. I've recommended them to several of my girlfriends and we all agree... they're like dessert: you can't live off of it, but you can certainly enjoy it. <br />A note about the comment. What do you care how well Meyers "researched" vampires? It's a fictional novel and I hate to break it to you: vampires are a fictional character. As far as I'm concerned, fantasy writers have every liberty to create a... fantasy. Meyers can write about whatever kind of vampire she wants. That's the beauty of being a writer. <br />(Also, they had only lived in Forks for 2 years before Twilight took place) It's explained briefly that people avoid interacting with them or questioning them because they are uncomfortable around the Cullens. <br />I think the books are a blast and I would recommend them to any girl (not woman) that I know who has any interest in fantasy.]]></body>
+  
+  <user>
+    <id>1089679</id>
+    <name>Autumn</name>
+    <display_name>Autumn Doughton</display_name>
+
+    <location>Gainesville, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1089679-autumn-doughton]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1446204298p3/1089679.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1446204298p2/1089679.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jun 21 07:58:21 -0700 2008</created_at>
+  <updated_at>Sat Jun 21 07:58:21 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1014640</id>
+  <body><![CDATA[I agree with you that every author should be able to create their own world. Completely agree, what fun would it be to read fantasy without it?]]></body>
+  
+  <user>
+    <id>611251</id>
+    <name>Emma </name>
+    <display_name>Emma  Blue</display_name>
+
+    <location>Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/611251-emma-blue]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1477253196p3/611251.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1477253196p2/611251.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jun 21 08:45:44 -0700 2008</created_at>
+  <updated_at>Sat Jun 21 08:45:44 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1014838</id>
+  <body><![CDATA[To Autumn:<br /><br />It's my personal opinion that I think Meyer should have at least watched some vampire movies (or even Buffy for that matter) or read some vampire novels. I personally, don't like the way she created the vampires, but I would have been able to at least respect them, if she had at least done her research prior to writing. Yes, vampires are fictional, but at the same time, they're very popular in literature at the moment (at least in the young adult section)... when that is the case, I think it's important that she at least go out and at least see what other people are doing and then go from there. <br /><br />I'm a writer currently working on a vampire romance and I actually did go out and look at what the popular myth of vampires really was and made them my own... but, not only did Meyer not do that, but she pretty much threw every vampire myth out the window. I wouldn't have minded if she had done that as long as the vampires actually HAD at least one flaw, but she didn't... she made them out to be perfect.<br /><br />I mean, I thought her vampires were not only very pathetic, but also sickenly flawless (not talking about their looks, I don't care if they are very good looking since that would attract their prey to them)... they had absolutely NO flaws... they could go out during the day, they all had "powers" of some sort that didn't have many bad things come with them, garlic didn't bother them, they could control their blood lust around a bunch of humans on a day to day basis (Dr. Cullen especially since he worked at a hospital, but then again he had such good control didn't he... so, what about the "children", I mean... human girls DO get their period, from my understanding they can't control themselves as well as their father, wouldn't that pose a problem?) etc... what I'm getting at is the fact that they had NO weakness whatsoever... they were perfect, and it was disgusting. <br /><br />I am a writer... so, I can't look past the poor writing, bad characterization and horrible plotline (among other things) to see how this book is one of "escapism"... I really can't. Though, my opinion about the vampires is a very small problem I had with the book.<br /><br />That's my opinion and I'm very sorry if you don't agree with it. I do respect your opinion though, I just don't agree with it.]]></body>
+  
+  <user>
+    <id>949071</id>
+    <name>Sarah</name>
+    <display_name>Sarah</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/949071-sarah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1357016589p3/949071.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1357016589p2/949071.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jun 21 09:25:17 -0700 2008</created_at>
+  <updated_at>Sat Jun 21 09:25:17 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1022347</id>
+  <body><![CDATA[It's true that their perfection was sickening, but the worst of that is that it allowed for weak conflict as opposed to seriously entertaining ones. Even in the later books, when there's Victoria looking for Bella, the vampires are all confident that nothing will really go wrong. They're all skilled, they've even conveniently have Jasper who happens to have trained newborns years ago and therefore knows all of their workings. The drama of that comes from Bella's perceptions. Other than that real drama in these books is from the love triangle. Even the werewolves are made perfect. They don't crave human flesh, they don't fall victim to the changes of the moon. They become strong and lean and handsome in days, like they've hit super puberty or something. It's not fun to have that perfection, not fun at all. And I'd hate to go and compare HP to this series, but I can recall reading about werewolves in HP and wondering whether any minute now someone's going to get eaten alive. That's entertainment for me, that and so many other books where life isn't so pretty, and perfect, and sparkly. ]]></body>
+  
+  <user>
+    <id>950735</id>
+    <name>Roxana</name>
+    <display_name>Roxana</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/950735-roxana]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Jun 22 12:01:48 -0700 2008</created_at>
+  <updated_at>Sun Jun 22 12:01:48 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1022396</id>
+  <body><![CDATA[Like you I picked up the book because of the hype, and had to finish it.... well, because I started it.<br /><br />The one plot problem that was never addressed was how Bella ran away to Phoenix (as far as Charlie knew breaking up from Edward at the same time) and then suddenly Edward's father just happened to be in Phoenix when she "fell down the stairs" to save her life? Why would Edward's father have followed Bella to Phoenix? How could Charlie not be incredulous/suspicious about that strange turn of events - and simply be grateful to him? <br /><br />Did I miss something?]]></body>
+  
+  <user>
+    <id>1241853</id>
+    <name>Erin</name>
+    <display_name>Erin</display_name>
+
+    <location>Phoenix, AZ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1241853-erin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1461731188p3/1241853.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1461731188p2/1241853.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jun 22 12:12:27 -0700 2008</created_at>
+  <updated_at>Sun Jun 22 12:12:27 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1027073</id>
+  <body><![CDATA[Edward's story was that he went to Phoenix to convince Bella to come back with him and Carlisle was his "parental supervison."<br />I enjoy that in life people have different opinions--that's why there are so many flavors of ice cream--and I still have to say that I really enjoyed these books. They're fun :)]]></body>
+  
+  <user>
+    <id>1089679</id>
+    <name>Autumn</name>
+    <display_name>Autumn Doughton</display_name>
+
+    <location>Gainesville, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1089679-autumn-doughton]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1446204298p3/1089679.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1446204298p2/1089679.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 23 05:21:05 -0700 2008</created_at>
+  <updated_at>Mon Jun 23 05:21:05 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1036138</id>
+  <body><![CDATA[Ah, I guess I did miss something. Thanks Autumn! That makes sense!]]></body>
+  
+  <user>
+    <id>1241853</id>
+    <name>Erin</name>
+    <display_name>Erin</display_name>
+
+    <location>Phoenix, AZ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1241853-erin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1461731188p3/1241853.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1461731188p2/1241853.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 23 19:45:48 -0700 2008</created_at>
+  <updated_at>Mon Jun 23 19:45:48 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1043500</id>
+  <body><![CDATA[So I am commenting on behalf of myself as well as my sister (she hates posting anything online). I read the book first and thought it was okay. I think Meyer actually did a good job of grabbing her reader but there are still MAJOR problems with the story. But I daren't criticize the book for all my friends love it and would therefore crucify me. My sister just finished it and also fears discussing it with her friends for similar reasons. I assured her she had at least me to complain to about it (though I will admit that I have read New Moon, am currently reading Eclipse and she just started <a href="https://www.goodreads.com/book/show/49041.New_Moon__The_Twilight_Saga__Book_2_" title="New Moon (The Twilight Saga, Book 2) by Stephenie Meyer" rel="nofollow">New Moon</a> but really just so we can continue to defend our dislike of the series). <br />So we were discussing the book and she decided to try to find some negative reviews of the book to see if there is anyone else on the planet that agreed with us. It took some searching but then we find all of (well, some of) you. We would like to thank so many of you for pinpointing so many of the book's flaws and putting into words what we could not. Especially that Edward is a CREEP for watching her sleep, unbeknownst to her for TWO MONTHS! Before he takes her out to the woods to "test" himself to see if it's safe for him to be around her.]]></body>
+  
+  <user>
+    <id>1131173</id>
+    <name>Kendra</name>
+    <display_name>Kendra</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1131173-kendra]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1407705692p3/1131173.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1407705692p2/1131173.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jun 24 15:01:42 -0700 2008</created_at>
+  <updated_at>Tue Jun 24 15:01:42 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1047116</id>
+  <body><![CDATA[Haha, no problem. I thought there were too few of us before, but now I'm being corrected. If you go to livejournal.com (and this if for anyone reading this looking for a safe haven) you'll find quite a few Anti-Twilight communities. I made i_hate_twilight, then there's stfu_twilight, roast_lamb, twilight_sucks, and the_venom_apple. All are great sites and full of people that make great discussions about this whole monstrosity of a series. ]]></body>
+  
+  <user>
+    <id>950735</id>
+    <name>Roxana</name>
+    <display_name>Roxana</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/950735-roxana]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Jun 24 22:23:41 -0700 2008</created_at>
+  <updated_at>Tue Jun 24 22:23:41 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1048472</id>
+  <body><![CDATA[I didn't realize when I posted a comment on here that I would get an email when anyone else commented, so I guess I'm learning something...<br />Anyway, I really did like reading Sarah's review even if I don't agree with all her points. But, Roxana: joining and chatting with anti-Twilight groups? That seems like a such strange waste of your energy. I understand that you don't like the series but I can't imagine that the books are hurting you in any way. Try being positive and joining communities to discuss things that you actually like, that seems like a healthier focus. It just makes me sad that anyone would get so involved in being negative about anything that doesn't really matter... it seems so futile. <br /><br />By the way--good luck and much success with your book Sarah!]]></body>
+  
+  <user>
+    <id>1089679</id>
+    <name>Autumn</name>
+    <display_name>Autumn Doughton</display_name>
+
+    <location>Gainesville, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1089679-autumn-doughton]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1446204298p3/1089679.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1446204298p2/1089679.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jun 25 06:56:11 -0700 2008</created_at>
+  <updated_at>Wed Jun 25 06:56:11 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1056538</id>
+  <body><![CDATA[You would think so, at first glance, Autumn, but the thing is, people are actually greatly irritated by these books and there are many, like on this article, who want to discuss it with other people. We don't all just sit there and mutter about how much we hate them. We make jokes and turn it into something laughable in a place where we don't have to hear about how Edward and Bella are the epitome of true love. And you seemto be assuming that it's the central focus of my life, and it isn't. I do join communities that focus on what I love, in fact Twilight is the one thing that makes me join a community that focuses on my dislike of it. Everything else is something positive. And I do think this is healthy for me, and many others, because it's easily another place to vent. Besides, if one can have a place they go to in order to love something, then why not a place to hate it? If it's not unhealthy, but rather relieving, then why not? Having a community against it isn't really a big deal, the internet is full of stuff like that. And it's not futile, no more than it is for me to sign into my personal livejournal and tell people how mad I am that my sister ate the last slice of pizza. Again, it serves as a haven for many, because it may not be important, this whole Twilight business, but you might be saying that as someone who's never had a fangirl verbally attack them for just saying, "Meh, I didn't really like the books" because trust me, I have. ]]></body>
+  
+  <user>
+    <id>950735</id>
+    <name>Roxana</name>
+    <display_name>Roxana</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/950735-roxana]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Jun 25 18:11:15 -0700 2008</created_at>
+  <updated_at>Wed Jun 25 18:11:15 -0700 2008</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/16535639]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/16535639]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

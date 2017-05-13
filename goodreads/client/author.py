@@ -1,4 +1,4 @@
-import book
+from .book import Book
 
 class Author:
     def __init__(self, author_dict):

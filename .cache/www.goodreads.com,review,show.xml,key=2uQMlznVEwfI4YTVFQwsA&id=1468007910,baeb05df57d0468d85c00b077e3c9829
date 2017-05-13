@@ -1,0 +1,201 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:37:31 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: 6XPC9MRGGTRC494X7HGG
+etag: W/"0b107294c290c72dcc173505d3cb1dc2"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.173028
+set-cookie: csid=BAhJIhg1MzEtNDIzODI3OC0zNzkwMTYxBjoGRVQ%3D--1b7890c9dd6ddd8481a50c863fb7de6bc335d060; path=/; expires=Tue, 12 May 2037 13:37:31 -0000, locale=es; path=/, _session_id2=19165bc22f775c4e0eb493b1be21a8fb; path=/; expires=Fri, 12 May 2017 19:37:31 -0000; HttpOnly
+content-length: 7405
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=1468007910
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1468007910</id>
+    
+  <user>
+    <id>48234354</id>
+    <name>Fatima</name>
+    <display_name>Fatima</display_name>
+
+    <location>Iran, Iran</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/48234354-fatima]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492194093p3/48234354.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492194093p2/48234354.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">1865355</id>
+  <isbn nil="true"/>
+  <isbn13>9789645757401</isbn13>
+  <text_reviews_count type="integer">23</text_reviews_count>
+  <title>دختری با گوشواره مروارید</title>
+  <title_without_series>دختری با گوشواره مروارید</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1453710434m/1865355.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1453710434s/1865355.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1865355._</link>
+  <num_pages>272</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>کتابسرای تندیس</publisher>
+  <publication_day/>
+  <publication_year>2000</publication_year>
+  <publication_month/>
+  <average_rating>3.84</average_rating>
+  <ratings_count>479287</ratings_count>
+  <description>تریسی شوالیه در کتاب ((دختری با گوشواره مروارید)) تاریخ و فلسفه را از نظر هنری و احساسی، در هم می‌آمیزد.</description>
+<authors>
+<author>
+<id>1973</id>
+<name>Tracy Chevalier</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1439297099p5/1973.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1439297099p2/1973.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1973.Tracy_Chevalier]]></link>
+<average_rating>3.80</average_rating>
+<ratings_count>635156</ratings_count>
+<text_reviews_count>22574</text_reviews_count>
+</author>
+</authors>
+  <published>2000</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">82194322</id>
+          <page type="integer">200</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Dec 14 06:19:19 -0800 2015</created_at>
+          <updated_at type="datetime">Mon Dec 14 06:19:19 -0800 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">73</percent>
+          <work_id type="integer">3358875</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">82190580</id>
+          <page type="integer">50</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Dec 14 04:53:11 -0800 2015</created_at>
+          <updated_at type="datetime">Mon Dec 14 04:53:11 -0800 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">18</percent>
+          <work_id type="integer">3358875</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">1107862019</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Mon Dec 14 06:38:22 -0800 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1107836787</id>
+          <old_status>read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Mon Dec 14 06:14:56 -0800 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1107827632</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Mon Dec 14 06:05:37 -0800 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1107068498</id>
+          <old_status>to-read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Sun Dec 13 16:14:42 -0800 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1107066260</id>
+          <old_status>read</old_status>
+          <status>to-read</status>
+          <updated_at type="datetime">Sun Dec 13 16:12:40 -0800 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1107066252</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Dec 13 16:12:40 -0800 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>14</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="favorites" exclusive="false" review_shelf_id="1155005698" sortable="true" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Dec 13 00:00:00 -0800 2015</started_at>
+  <read_at>Mon Dec 14 12:10:24 -0800 2015</read_at>
+  <date_added>Sun Dec 13 16:12:39 -0800 2015</date_added>
+  <date_updated>Mon Dec 14 07:49:45 -0800 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[یکی از زیبا ترین کتاب هایی بود که خوندم و کتاب رو زمین نگذاشتم تا تموم بشه , حس نوشته ها جوری بود که انگار در جریان داستان هستی و نظاره میکنی و هارمونی ها و توصیف های جالبی رو هم میخونی و از همه جذاب تر برای من گریت بود که درک هنریش کاری کرده بود دست های ورمر رو سر ذوق بیاره و تابلوی دختری با گوش...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1468007910]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1468007910]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

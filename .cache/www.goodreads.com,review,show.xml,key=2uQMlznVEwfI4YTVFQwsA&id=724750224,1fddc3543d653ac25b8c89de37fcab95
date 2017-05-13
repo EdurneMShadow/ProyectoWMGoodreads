@@ -1,0 +1,205 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:48:53 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: XY35WZ9WFCNKQ1BTE1R4
+etag: W/"987332f8713d344f661655b0e14e253a"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.181732
+set-cookie: csid=BAhJIhgzODEtMTg1MjI3NC04NzA4MTg0BjoGRVQ%3D--a3e054ac167fe161bc9e67115d6d20c5983b61ac; path=/; expires=Tue, 12 May 2037 13:48:53 -0000, locale=es; path=/, _session_id2=e31d21b976f4e2c209cc5f49dc99acf7; path=/; expires=Fri, 12 May 2017 19:48:53 -0000; HttpOnly
+content-length: 6942
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=724750224
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>724750224</id>
+    
+  <user>
+    <id>7910868</id>
+    <name>Megan</name>
+    <display_name>Megan</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7910868-megan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1475351559p3/7910868.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1475351559p2/7910868.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">2880</id>
+  <isbn>1591164419</isbn>
+  <isbn13>9781591164418</isbn13>
+  <text_reviews_count type="integer">834</text_reviews_count>
+  <title>Bleach, Volume 01</title>
+  <title_without_series>Bleach, Volume 01</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2880.Bleach_Volume_01</link>
+  <num_pages>200</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>VIZ Media LLC</publisher>
+  <publication_day>19</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.21</average_rating>
+  <ratings_count>117199</ratings_count>
+  <description>Hot-tempered 15-year-old Ichigo Kurosaki, the hero of the popular fantasy-adventure &lt;i&gt;
+  &lt;b&gt;
+    &lt;u&gt;Bleach&lt;/u&gt;
+  &lt;/b&gt;
+&lt;/i&gt;, has the unsettling ability to see spirits who are unable to rest in peace. His sixth sense leads him to Rukia, a Soul Reaper who destroys &lt;i&gt;Hollows&lt;/i&gt; (soul-devouring monsters) and ensures the deceased find repose with the Soul Society. When she's injured in battle, Rukia transfers her sword and much of her power to Ichigo, whose spiritual energy makes him a formidable substitute Soul Reaper. But the orange-haired teenager isn't sure he wants the job: too many risks and moral dilemmas.</description>
+<authors>
+<author>
+<id>1977</id>
+<name>Tite Kubo</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1253238688p5/1977.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1253238688p2/1977.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1977.Tite_Kubo]]></link>
+<average_rating>4.28</average_rating>
+<ratings_count>389029</ratings_count>
+<text_reviews_count>4580</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">159572177</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sat Sep 21 06:28:12 -0700 2013</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>9</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="favorites" exclusive="false" review_shelf_id="556276483" sortable="false" />
+    <shelf name="manga" exclusive="false" review_shelf_id="552747990" sortable="false" />
+</shelves>
+  <recommended_for>Everyone</recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Sep 21 06:28:12 -0700 2013</date_added>
+  <date_updated>Wed Jan 01 12:17:40 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Fifteen year old Ichigo Kurosaki has the ability to see, touch, and talk to spirits. Ichigo has been able to communicate with them since he was a little kid. Ichigo lives with his two sisters and his father. The important part in this book is when he meets Rukia Kuchiki. Rukia is a Soul Reaper th...]]>
+  </body>
+
+  
+
+  <comments_count>3</comments_count>
+    <comments start="1" end="3" total="3">
+        <comment>
+  <id>102834062</id>
+  <body><![CDATA[You should expand your reading some, Megan. There's better action manga than Bleach. (Though Bleach was the first anime I got into)]]></body>
+  
+  <user>
+    <id>33272381</id>
+    <name>Alex</name>
+    <display_name>Alex Gonzalez</display_name>
+
+    <location>Guthrie, OK</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/33272381-alex-gonzalez]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1411597242p3/33272381.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1411597242p2/33272381.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 23 12:52:29 -0700 2014</created_at>
+  <updated_at>Wed Jul 23 12:52:29 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103687479</id>
+  <body><![CDATA[This wasn't a review, it was a vague fangasm]]></body>
+  
+  <user>
+    <id>6984857</id>
+    <name>Petros</name>
+    <display_name>Petros</display_name>
+
+    <location>Greece</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6984857-petros]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1321523871p3/6984857.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1321523871p2/6984857.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 05 02:29:05 -0700 2014</created_at>
+  <updated_at>Tue Aug 05 02:29:05 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103693117</id>
+  <body><![CDATA[<i>Πέτρος wrote: "This wasn't a review, it was a vague fangasm"</i><br /><br />Right you are. I completely forgot about this review until you commented on it.]]></body>
+  
+  <user>
+    <id>33272381</id>
+    <name>Alex</name>
+    <display_name>Alex Gonzalez</display_name>
+
+    <location>Guthrie, OK</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/33272381-alex-gonzalez]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1411597242p3/33272381.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1411597242p2/33272381.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 05 05:51:50 -0700 2014</created_at>
+  <updated_at>Tue Aug 05 05:51:50 -0700 2014</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/724750224]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/724750224]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

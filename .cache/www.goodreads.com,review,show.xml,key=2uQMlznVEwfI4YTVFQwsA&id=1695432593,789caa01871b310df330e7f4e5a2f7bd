@@ -1,0 +1,307 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:45:17 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: 2C2QXHCY098YJS0JGAPS
+etag: W/"86d94eea43c67fcd2fc0121e41bbafd2"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.262864
+set-cookie: csid=BAhJIhgwMTgtNzQ1MjI4MS01NDMzMjU2BjoGRVQ%3D--18fcbd566dad6c07f201239f71344c7774ce6cb4; path=/; expires=Tue, 12 May 2037 13:45:17 -0000, locale=es; path=/, _session_id2=9d0e984d49686c37836288ef1a215306; path=/; expires=Fri, 12 May 2017 19:45:17 -0000; HttpOnly
+content-length: 11263
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=1695432593
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1695432593</id>
+    
+  <user>
+    <id>7262060</id>
+    <name>Diane</name>
+    <display_name>Diane Barnes</display_name>
+
+    <location>Mount Pleasant, SC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7262060-diane-barnes]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1329773692p3/7262060.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1329773692p2/7262060.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">1617</id>
+  <isbn>0374500010</isbn>
+  <isbn13>9780374500016</isbn13>
+  <text_reviews_count type="integer">20044</text_reviews_count>
+  <title>Night</title>
+  <title_without_series>Night</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1473495285m/1617.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1473495285s/1617.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1617.Night</link>
+  <num_pages>120</num_pages>
+  <format>Paperback</format>
+  <edition_information>First Printing Edition</edition_information>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.29</average_rating>
+  <ratings_count>686554</ratings_count>
+  <description>&lt;i&gt;Night&lt;/i&gt; is Elie Wiesel's masterpiece, a candid, horrific, and deeply poignant autobiographical account of his survival as a teenager in the Nazi death camps. This new translation by Marion Wiesel, Elie's wife and frequent translator, presents this seminal memoir in the language and spirit truest to the author's original intent. And in a substantive new preface, Elie reflects on the enduring importance of Night and his lifelong, passionate dedication to ensuring that the world never forgets man's capacity for inhumanity to man.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Night&lt;/i&gt; offers much more than a litany of the daily terrors, everyday perversions, and rampant sadism at Auschwitz and Buchenwald; it also eloquently addresses many of the philosophical as well as personal questions implicit in any serious consideration of what the Holocaust was, what it meant, and what its legacy is and will be.</description>
+<authors>
+<author>
+<id>1049</id>
+<name>Elie Wiesel</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1255518412p5/1049.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1255518412p2/1049.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1049.Elie_Wiesel]]></link>
+<average_rating>4.27</average_rating>
+<ratings_count>722830</ratings_count>
+<text_reviews_count>24668</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1430422646</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Wed Jul 13 13:59:17 -0700 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1428070541</id>
+          <old_status>to-read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Mon Jul 11 20:27:57 -0700 2016</updated_at>
+          <ratings_count>3</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1428070338</id>
+          <old_status></old_status>
+          <status>to-read</status>
+          <updated_at type="datetime">Mon Jul 11 20:27:47 -0700 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>39</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Jul 11 00:00:00 -0700 2016</started_at>
+  <read_at>Wed Jul 13 16:50:40 -0700 2016</read_at>
+  <date_added>Mon Jul 11 20:27:46 -0700 2016</date_added>
+  <date_updated>Wed Jul 13 14:02:33 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[What can I say about this book that hasn't been said better by Wiesel himself? Powerful and moving. My copy has his 1986 Nobel Acceptance Speech at the end, and there is so much there that applies to this moment in our history that it's eerie.]]>
+  </body>
+
+  
+
+  <comments_count>7</comments_count>
+    <comments start="1" end="7" total="7">
+        <comment>
+  <id>154189253</id>
+  <body><![CDATA[As the years pass since the Holocaust we are losing our survivors. Eli Wiesel was a phenomenonaly great man. "I swore never to be silent whenever and wherever human beings endure suffering and humiliation. We must always take sides. Neutrality helps the oppressor, never the victim. Silence encourages the tormentor, never the tormented."]]></body>
+  
+  <user>
+    <id>18312911</id>
+    <name>Loren</name>
+    <display_name>Loren Elliot</display_name>
+
+    <location>Lake Zurich, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18312911-loren-elliot]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1407631728p3/18312911.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1407631728p2/18312911.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 13 16:46:39 -0700 2016</created_at>
+  <updated_at>Wed Jul 13 16:46:39 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>154198343</id>
+  <body><![CDATA[I read this book when I was in high school... It's a powerful book about his experience he had to go through. Sad he just passed away this past week.]]></body>
+  
+  <user>
+    <id>44438517</id>
+    <name>Leslie</name>
+    <display_name>Leslie Olson</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/44438517-leslie-olson]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1468735617p3/44438517.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1468735617p2/44438517.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 13 21:59:08 -0700 2016</created_at>
+  <updated_at>Wed Jul 13 21:59:08 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>154207597</id>
+  <body><![CDATA[I took a moment and read his acceptance speech. It foments tears and highlights how far we still have to go to achieve anything like the world we should be striving for. So many are still in the Night.]]></body>
+  
+  <user>
+    <id>5512657</id>
+    <name>Sara</name>
+    <display_name>Sara</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5512657-sara]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1490295912p3/5512657.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1490295912p2/5512657.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 14 06:17:38 -0700 2016</created_at>
+  <updated_at>Thu Jul 14 06:17:38 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>154222463</id>
+  <body><![CDATA[I liked his comment about being responsible to the boy he was.]]></body>
+  
+  <user>
+    <id>7262060</id>
+    <name>Diane</name>
+    <display_name>Diane Barnes</display_name>
+
+    <location>Mount Pleasant, SC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7262060-diane-barnes]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1329773692p3/7262060.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1329773692p2/7262060.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 14 13:30:25 -0700 2016</created_at>
+  <updated_at>Thu Jul 14 13:30:25 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>154259365</id>
+  <body><![CDATA[I've just started this one today!]]></body>
+  
+  <user>
+    <id>23743588</id>
+    <name>Erika</name>
+    <display_name>Erika</display_name>
+
+    <location>Dallas, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23743588-erika]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1439597923p3/23743588.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1439597923p2/23743588.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 15 12:36:59 -0700 2016</created_at>
+  <updated_at>Fri Jul 15 12:36:59 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>154266163</id>
+  <body><![CDATA[Great review! I have this book on my shelf and I still have yet to read it. I don't know if you heard but Elie Wiesel passed away a couple weeks ago, I think he was about 85. About a year ago I watched Schindler's List for the first time, very powerful movie, and very sad. And the saddest thing is it still goes on today. I have to read Night at some point, and also the Diary of Anne Frank.]]></body>
+  
+  <user>
+    <id>12949855</id>
+    <name>Corey</name>
+    <display_name>Corey</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12949855-corey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486830292p3/12949855.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486830292p2/12949855.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 15 15:51:35 -0700 2016</created_at>
+  <updated_at>Fri Jul 15 15:51:35 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>154267509</id>
+  <body><![CDATA[Corey, I decided to read this after I learned of his death. It was my first reading, and it blew me away.]]></body>
+  
+  <user>
+    <id>7262060</id>
+    <name>Diane</name>
+    <display_name>Diane Barnes</display_name>
+
+    <location>Mount Pleasant, SC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7262060-diane-barnes]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1329773692p3/7262060.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1329773692p2/7262060.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 15 16:38:55 -0700 2016</created_at>
+  <updated_at>Fri Jul 15 16:38:55 -0700 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1695432593]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1695432593]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

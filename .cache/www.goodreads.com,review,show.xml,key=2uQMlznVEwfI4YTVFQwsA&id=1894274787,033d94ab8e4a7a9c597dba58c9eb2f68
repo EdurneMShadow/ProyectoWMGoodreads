@@ -1,0 +1,352 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:42:35 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: Z2E73AK7AFMS05PFP1WZ
+etag: W/"5e3f266fab6af14cb784ddcf72bad1ad"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.237249
+set-cookie: csid=BAhJIhg0MTAtNjM1MjM3Ni0xOTczMjM2BjoGRVQ%3D--de52b114b68d595244785ebc39d536c77bb15959; path=/; expires=Tue, 12 May 2037 13:42:35 -0000, locale=es; path=/, _session_id2=a27b97228b0e51d5b8301b3725b68aac; path=/; expires=Fri, 12 May 2017 19:42:35 -0000; HttpOnly
+content-length: 14819
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=1894274787
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1894274787</id>
+    
+  <user>
+    <id>42383176</id>
+    <name>Chantal</name>
+    <display_name>Chantal</display_name>
+
+    <location>Italy</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/42383176-chantal]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1472808874p3/42383176.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1472808874p2/42383176.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">20321889</id>
+  <isbn>8845274403</isbn>
+  <isbn13>9788845274404</isbn13>
+  <text_reviews_count type="integer">7</text_reviews_count>
+  <title>Lo Hobbit: Un viaggio inaspettato</title>
+  <title_without_series>Lo Hobbit: Un viaggio inaspettato</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1395238972m/20321889.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1395238972s/20321889.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/20321889-lo-hobbit</link>
+  <num_pages>374</num_pages>
+  <format>Hardcover</format>
+  <edition_information>Illustrated, Narratori stranieri Bompiani</edition_information>
+  <publisher>Bompiani</publisher>
+  <publication_day>16</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.24</average_rating>
+  <ratings_count>2152106</ratings_count>
+  <description>Una nuova edizione dello Hobbit di J.R.R. Tolkien, illustrata da Jemima Catlin. Il volume contiene il testo integrale del romanzo e centinaia di immagini a colori. Bilbo Baggins conduce una vita tranquilla e confortevole, viaggia di rado e non si allontana mai troppo dalla dispensa del suo buco-hobbit. La sua pace viene presto interrotta quando Gandalf lo stregone e una compagnia di tredici nani bussano alla sua porta e lo coinvolgono in un'avventura alla ricerca del tesoro custodito da Smaug il Terribile, un enorme, pericoloso drago...</description>
+<authors>
+<author>
+<id>656983</id>
+<name>J.R.R. Tolkien</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1434625177p5/656983.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1434625177p2/656983.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
+<average_rating>4.31</average_rating>
+<ratings_count>6140649</ratings_count>
+<text_reviews_count>91666</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">120524382</id>
+          <page type="integer">361</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Jan 31 05:30:11 -0800 2017</created_at>
+          <updated_at type="datetime">Tue Jan 31 05:30:20 -0800 2017</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">8</ratings_count>
+          <percent type="integer">96</percent>
+          <work_id type="integer">1540236</work_id>
+          <note_uri>kca://note/amzn1.grok.note.11181c312b41536f00a7ebee94f58a3c</note_uri>
+          <note_updated_at type="datetime">Tue Jan 31 05:30:20 -0800 2017</note_updated_at>
+          <body><![CDATA["Così dopo il fuoco viene la neve, e perfino i draghi trovano la loro fine!"]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">120518630</id>
+          <page type="integer">344</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Jan 31 04:11:13 -0800 2017</created_at>
+          <updated_at type="datetime">Tue Jan 31 04:11:13 -0800 2017</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">2</ratings_count>
+          <percent type="integer">91</percent>
+          <work_id type="integer">1540236</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">120459497</id>
+          <page type="integer">295</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Jan 30 15:17:17 -0800 2017</created_at>
+          <updated_at type="datetime">Mon Jan 30 15:17:17 -0800 2017</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">5</ratings_count>
+          <percent type="integer">78</percent>
+          <work_id type="integer">1540236</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">120428137</id>
+          <page type="integer">235</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Jan 30 10:43:08 -0800 2017</created_at>
+          <updated_at type="datetime">Mon Jan 30 10:43:08 -0800 2017</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">7</ratings_count>
+          <percent type="integer">62</percent>
+          <work_id type="integer">1540236</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">120328754</id>
+          <page type="integer">192</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sun Jan 29 14:44:21 -0800 2017</created_at>
+          <updated_at type="datetime">Sun Jan 29 14:44:21 -0800 2017</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">13</ratings_count>
+          <percent type="integer">51</percent>
+          <work_id type="integer">1540236</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">120266089</id>
+          <page type="integer">160</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sun Jan 29 03:09:51 -0800 2017</created_at>
+          <updated_at type="datetime">Sun Jan 29 03:09:51 -0800 2017</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">12</ratings_count>
+          <percent type="integer">42</percent>
+          <work_id type="integer">1540236</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">120219441</id>
+          <page type="integer">101</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Jan 28 15:21:33 -0800 2017</created_at>
+          <updated_at type="datetime">Sat Jan 28 15:21:33 -0800 2017</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">9</ratings_count>
+          <percent type="integer">27</percent>
+          <work_id type="integer">1540236</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">120181799</id>
+          <page type="integer">72</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Jan 28 08:32:12 -0800 2017</created_at>
+          <updated_at type="datetime">Sat Jan 28 08:32:19 -0800 2017</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">20</ratings_count>
+          <percent type="integer">19</percent>
+          <work_id type="integer">1540236</work_id>
+          <note_uri>kca://note/amzn1.grok.note.8b75fe9489551e4d54c24b3d91efae75</note_uri>
+          <note_updated_at type="datetime">Sat Jan 28 08:32:19 -0800 2017</note_updated_at>
+          <body><![CDATA[[...] dato che, come ognuno poteva vedere, era perfettamente inutile mandare Bilbo.<br />Io rido troppo, povero Bilbo!]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">120124703</id>
+          <page type="integer">33</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Jan 27 16:54:07 -0800 2017</created_at>
+          <updated_at type="datetime">Fri Jan 27 16:54:15 -0800 2017</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">34</ratings_count>
+          <percent type="integer">8</percent>
+          <work_id type="integer">1540236</work_id>
+          <note_uri>kca://note/amzn1.grok.note.2f2a7dcb902fb91c1a7ae6c5bda93d03</note_uri>
+          <note_updated_at type="datetime">Fri Jan 27 16:54:15 -0800 2017</note_updated_at>
+          <body><![CDATA[Lontan sui monti fumidi e gelati<br />In antri fondi, oscuri e desolati<br />Prima che sorga il sol dobbiamo andare<br />Il nostro gran tesoro a reclamare]]></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">1691206729</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Tue Jan 31 05:41:04 -0800 2017</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1686306031</id>
+          <old_status>tbr</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Fri Jan 27 16:52:14 -0800 2017</updated_at>
+          <ratings_count>9</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1686305293</id>
+          <old_status></old_status>
+          <status>tbr</status>
+          <updated_at type="datetime">Fri Jan 27 16:51:31 -0800 2017</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>64</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Jan 27 00:00:00 -0800 2017</started_at>
+  <read_at>Tue Jan 31 00:00:00 -0800 2017</read_at>
+  <date_added>Fri Jan 27 16:51:31 -0800 2017</date_added>
+  <date_updated>Tue Jan 31 05:49:25 -0800 2017</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Sono così contenta di aver finalmente letto qualcosa di Tolkien! Lo Hobbit é stato un ottimo inizio e l'ho trovato meraviglioso. L'avventura che ha vissuto Bilbo mi ha talmente rapita che sembrava stessi vivendo tutte le loro spiacevoli e, a volte, piacevoli vicende. Inoltre Bilbo l'ho decisament...]]>
+  </body>
+
+  
+
+  <comments_count>3</comments_count>
+    <comments start="1" end="3" total="3">
+        <comment>
+  <id>162281266</id>
+  <body><![CDATA[Hai iniziato un fantastico viaggio all'interno della Terra di Mezzo! Con la Compagnia dell'Anello entrerai in un vortice di emozioni che ti arricchirà come lettrice e anche come persona! Adoro Tolkien e la sua "mitologia"! Buon viaggio, Chanty! &lt;3]]></body>
+  
+  <user>
+    <id>57371990</id>
+    <name>Giuseppe</name>
+    <display_name>Giuseppe</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/57371990-giuseppe]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1467645609p3/57371990.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1467645609p2/57371990.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Feb 02 02:55:00 -0800 2017</created_at>
+  <updated_at>Thu Feb 02 02:55:00 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>162310970</id>
+  <body><![CDATA[E io non vedo l'ora di intraprendere questo viaggio, Tolkien è un genio e già solo con Lo Hobbit mi sono sentita "diversa" quindi figuriamoci &lt;3]]></body>
+  
+  <user>
+    <id>42383176</id>
+    <name>Chantal</name>
+    <display_name>Chantal</display_name>
+
+    <location>Italy</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/42383176-chantal]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1472808874p3/42383176.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1472808874p2/42383176.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Feb 02 16:29:29 -0800 2017</created_at>
+  <updated_at>Thu Feb 02 16:29:29 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>162328145</id>
+  <body><![CDATA[Ti invidio un po', perchè leggere il Signore degli Anelli per la prima volta è davvero L'Esperienza!! Non vedo l'ora di vedere il tuo entusiasmo sul canale! ;)]]></body>
+  
+  <user>
+    <id>57371990</id>
+    <name>Giuseppe</name>
+    <display_name>Giuseppe</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/57371990-giuseppe]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1467645609p3/57371990.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1467645609p2/57371990.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 03 04:27:54 -0800 2017</created_at>
+  <updated_at>Fri Feb 03 04:27:54 -0800 2017</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1894274787]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1894274787]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

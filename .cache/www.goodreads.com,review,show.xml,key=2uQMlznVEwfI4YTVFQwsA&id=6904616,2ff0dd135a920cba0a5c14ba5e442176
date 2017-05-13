@@ -1,0 +1,1259 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:39:10 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: QJDM33BQMC45RQ511763
+etag: W/"259f1c30cb02c76dbc15309ec835b7fc"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.303177
+set-cookie: csid=BAhJIhgzMTgtNTU5OTI1OC02MDI4MDE5BjoGRVQ%3D--0cd7e56cbf9aeb18aeb0fbedf2d6d79546b966de; path=/; expires=Tue, 12 May 2037 13:39:10 -0000, locale=es; path=/, _session_id2=a619094abda0f2f31952514e0dea2a47; path=/; expires=Fri, 12 May 2017 19:39:10 -0000; HttpOnly
+content-length: 56494
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=6904616
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>6904616</id>
+    
+  <user>
+    <id>395599</id>
+    <name>Shannon (Giraffe Days)</name>
+    <display_name>Shannon (Giraffe Days)</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/395599-shannon-giraffe-days]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1420332941p3/395599.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1420332941p2/395599.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">41865</id>
+  <isbn>0316015849</isbn>
+  <isbn13>9780316015844</isbn13>
+  <text_reviews_count type="integer">89642</text_reviews_count>
+  <title>Twilight (Twilight, #1)</title>
+  <title_without_series>Twilight</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1361039443m/41865.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1361039443s/41865.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/41865.Twilight</link>
+  <num_pages>498</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Little, Brown and Company</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.57</average_rating>
+  <ratings_count>3825323</ratings_count>
+  <description>&lt;b&gt;About three things I was absolutely positive.&lt;br /&gt;&lt;br /&gt;First, Edward was a vampire.&lt;br /&gt;&lt;br /&gt;Second, there was a part of him—and I didn't know how dominant that part might be—that thirsted for my blood.&lt;br /&gt;&lt;br /&gt;And third, I was unconditionally and irrevocably in love with him.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;In the first book of the Twilight Saga, internationally bestselling author Stephenie Meyer introduces Bella Swan and Edward Cullen, a pair of star-crossed lovers whose forbidden relationship ripens against the backdrop of small-town suspicion and a mysterious coven of vampires. This is a love story with bite.</description>
+<authors>
+<author>
+<id>941441</id>
+<name>Stephenie Meyer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1477924095p5/941441.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1477924095p2/941441.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/941441.Stephenie_Meyer]]></link>
+<average_rating>3.64</average_rating>
+<ratings_count>8672804</ratings_count>
+<text_reviews_count>294546</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1237417804</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Feb 14 15:22:06 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>510</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="paranormal" exclusive="false" review_shelf_id="2951041" sortable="false" />
+    <shelf name="ya" exclusive="false" review_shelf_id="2951043" sortable="false" />
+    <shelf name="favourite" exclusive="false" review_shelf_id="3170909" sortable="false" />
+    <shelf name="vampires" exclusive="false" review_shelf_id="3041514" sortable="false" />
+    <shelf name="2007" exclusive="false" review_shelf_id="4394816" sortable="false" />
+    <shelf name="romance" exclusive="false" review_shelf_id="22979443" sortable="false" />
+    <shelf name="shape-shifters" exclusive="false" review_shelf_id="6320755" sortable="false" />
+    <shelf name="urban-fantasy" exclusive="false" review_shelf_id="20812650" sortable="false" />
+    <shelf name="cover-love" exclusive="false" review_shelf_id="430371632" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by>Kiwiria</recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Sep 12 00:00:00 -0700 2007</read_at>
+  <date_added>Thu Sep 27 13:35:14 -0700 2007</date_added>
+  <date_updated>Sun Jan 05 16:57:46 -0800 2014</date_updated>
+  <read_count>5</read_count>
+  <body>
+      <![CDATA[Oh my. This book, to me, is like chocolate: a delicious, sinful, addictive indulgence which you convince yourself has beneficial qualities (zinc, calcium, keeps me quiet at that time of the month...) in order to justify your addiction.<br /><br />By "beneficial qualities", I mean that it's reading, and since...]]>
+  </body>
+
+  
+
+  <comments_count>115</comments_count>
+    <comments start="1" end="50" total="115">
+        <comment>
+  <id>851096</id>
+  <body><![CDATA[I agree that this is an entirely addictive series, and one of my very favorites as well. I'm sad that there will only be 4 books in the series! I hope very much that Stephenie Meyers eventually writes some of the companion novels she's planned for this series. (From her website: Twilight from Edward's perspective, a short story about one of the baby vampires killed in a later book, and the adult adventures of Edward and Bella as vampires are the ones I remember her mentioning.) The movie comes out in December, so that's not terribly far away. My mom when to the Host book signing for me that was held in Kansas City and got me an autographed copy - I can't wait to read it! (Apparently, Meyers book signings are capped at 500 to 600 giggling teenage girls - my mom said it was deafening. Tickets sold out well in advance.) I'm crossing my fingers that Host is as good as Twilight. ]]></body>
+  
+  <user>
+    <id>940248</id>
+    <name>Anita</name>
+    <display_name>Anita</display_name>
+
+    <location>Silver Spring, MD</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/940248-anita]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1435144527p3/940248.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1435144527p2/940248.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed May 28 08:35:47 -0700 2008</created_at>
+  <updated_at>Wed May 28 08:35:47 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>851286</id>
+  <body><![CDATA[I enjoyed The Host - review of it here somewhere - it's a very different story but there are a few similarities, and her style and themes are really getting cemented.<br /><br />I know I can't wait for the movie! I read the first chapter of Edward's version and really liked it - it's not necessary but neither is a chocolate fudge sundae!<br /><br />Ugh I wouldn't want to go to a signing and put up with that. As it is I'm going to wait till all the teenagers have been to see the movie before going, I don't want to sit in the same audience as them! though that also means avoiding reviews and discussions for a few weeks damn!<br /><br />(I'm currently updated my Goodreads library with reviews from my blog of books I read in 2007, before I joined here - it's interesting re-visiting them.)]]></body>
+  
+  <user>
+    <id>395599</id>
+    <name>Shannon (Giraffe Days)</name>
+    <display_name>Shannon (Giraffe Days)</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/395599-shannon-giraffe-days]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1420332941p3/395599.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1420332941p2/395599.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed May 28 09:13:34 -0700 2008</created_at>
+  <updated_at>Wed May 28 09:13:34 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1301301</id>
+  <body><![CDATA[I didn't like the book as much as you did. But I am so glad that someone else agrees with me that throwing out all of the old vampire legends was a good idea. <br /><br />It makes me laugh every time I read a review that says something like "This book wasn't true to vampires at all, they don't sparkle, doesn't Meyer know what real vampires are like?"<br /><br />Nope, she doesn't.]]></body>
+  
+  <user>
+    <id>767519</id>
+    <name>Chanel</name>
+    <display_name>Chanel Earl</display_name>
+
+    <location>Bloomington, IN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/767519-chanel-earl]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442605048p3/767519.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442605048p2/767519.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 23 18:16:52 -0700 2008</created_at>
+  <updated_at>Wed Jul 23 18:16:52 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1304385</id>
+  <body><![CDATA[I've noticed that too Chanel, and it's hilarious. Now that <i>Twilight</i> has led me onto paranormal romance, sucker that I am, I've come across a whole range of different takes on what "real" vampires are like; there're a lot of imaginative people out there. Shame about some of the readers though ;)]]></body>
+  
+  <user>
+    <id>395599</id>
+    <name>Shannon (Giraffe Days)</name>
+    <display_name>Shannon (Giraffe Days)</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/395599-shannon-giraffe-days]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1420332941p3/395599.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1420332941p2/395599.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 24 06:35:00 -0700 2008</created_at>
+  <updated_at>Thu Jul 24 06:35:00 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1552019</id>
+  <body><![CDATA[This book is great except for the part with the sparkling vampires. I HATE the fact that she's changing the classic vampire mythology. These vampires aren't harmed by sunlight but instead, they sparkle like a million diamonds because that's how perfect they are. GODAMMIT!!! Where are their weakness besides the fucking bloodlust??? What about holy water, stakes at the heart and garlic? Nope, these don't harm a Twilight vampire neither because they are beautiful and absolutley indestructible. BLEEEECH!!! I know some of you may say, "Oh, be more creative, be more imaginative." Well, SM should have at least stuck to some of the classics. The classic legends is how vampires originated into this world. Without them, this world would have existed without ever knowing what vampires were. And SM is messing everything up!!! EUGH!!!]]></body>
+  
+  <created_at>Tue Aug 19 11:47:28 -0700 2008</created_at>
+  <updated_at>Tue Aug 19 11:47:28 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>2830638</id>
+  <body><![CDATA[<i>CAROLINE :) wrote: "This book is great except for the part with the sparkling vampires. I HATE the fact that she's changing the classic vampire mythology." <br />I completely agree. It's kind of pathetic. "Twilight: A book about a girl who falls in love with a pms-ing sparkling vampire." Ooooookkkkaaaaayyyyy.... <br /><br /></i>]]></body>
+  
+  <user>
+    <id>1218536</id>
+    <name>Karlee</name>
+    <display_name>Karlee</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1218536-karlee]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1213803184p3/1218536.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1213803184p2/1218536.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Dec 06 11:51:25 -0800 2008</created_at>
+  <updated_at>Sat Dec 06 11:51:25 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>2855822</id>
+  <body><![CDATA[I dunno Caroline, I've read so many of these now that I've come across all sorts of adaptations on vampires, it's interesting. But I always thought the stake-through-the-heart-holy-water-and-garlic thing pretty laughable. If you like that then I would definitely avoid the romantic-vampire genres and stick to horror.]]></body>
+  
+  <user>
+    <id>395599</id>
+    <name>Shannon (Giraffe Days)</name>
+    <display_name>Shannon (Giraffe Days)</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/395599-shannon-giraffe-days]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1420332941p3/395599.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1420332941p2/395599.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Dec 08 06:24:40 -0800 2008</created_at>
+  <updated_at>Mon Dec 08 06:24:40 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3504484</id>
+  <body><![CDATA[Thank you, thank you, thank you. I love how you said that there are a few flaws in Stephanie's writing... so it was no Pride and Prejudice right? But who cares? exactly! I loved it so much it had it's own kind of charm. and very much addictive, I found myself up till 4 in the morning reading and then waking up at six for school, I didn't bother doing hair or make-up just put my hair in a ponytail and picked up the book again, now if it's that addicting... who cares about whatever "flaws" it might have had.]]></body>
+  
+  <user>
+    <id>1885481</id>
+    <name>Kaeli</name>
+    <display_name>Kaeli</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1885481-kaeli]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1332483238p3/1885481.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1332483238p2/1885481.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 18 17:57:10 -0800 2009</created_at>
+  <updated_at>Sun Jan 18 17:57:10 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3513884</id>
+  <body><![CDATA[Oh I know Kaeli - and it just isn't growing old on me either! I splurged on the audiobook so I can listen to the story while doing other stuff, and I'm still just as addicted! If it comes down to it, the prose of lots of classics can be a bit iffy, but it's the stories that they became classics for - and it's the story that we love with <i>Twilight</i>!]]></body>
+  
+  <user>
+    <id>395599</id>
+    <name>Shannon (Giraffe Days)</name>
+    <display_name>Shannon (Giraffe Days)</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/395599-shannon-giraffe-days]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1420332941p3/395599.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1420332941p2/395599.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 19 08:22:10 -0800 2009</created_at>
+  <updated_at>Mon Jan 19 08:22:10 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3516858</id>
+  <body><![CDATA[yep]]></body>
+  
+  <user>
+    <id>1885481</id>
+    <name>Kaeli</name>
+    <display_name>Kaeli</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1885481-kaeli]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1332483238p3/1885481.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1332483238p2/1885481.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 19 10:32:16 -0800 2009</created_at>
+  <updated_at>Mon Jan 19 10:32:16 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>6271226</id>
+  <body><![CDATA[Okay...how to put this, I am just going to re-word almost everything you said:<br /><br />"<i> Let me say quite clearly that I'm a sucker for romance, especially the intense, passionate, tragic kind. I don't read romance novels, though</i>" so i have no idea WTH I'm talking about. (Okay, sorry about that but if you don't read romance novels, than how do you really know that this is a GOOD romance book? If you want a romantic tragidy, read <i>Romeo&amp;Juliet</i>. Just in case you didnt know, that was written by Shaksphere.)((BTW this is <b>NOT</b> romance, it is a young girl and her stalker, who just happens to be a vampire, and is 90 years old...umm yeah not creepy at all...))<br /><br />"<i>...Meyer gets away with it as well as she does is because Twilight doesn't try to be anything it's not</i>" excpet being a good book and realistic.(Come on! An averege girl gets into Harvard and is asked to prom <b>BY EVERY BOY IN THE SCHOOL!</b> It's sad really, that such a good english career that Meyer could've had was wasted on this!) <br /><br />"<i>Granted there is some repetition in Twilight, but to me it's necessary repetition.</i>" (Yes because we all want to read what Edward looks like over and over and over and over and over and over and over again...Granted some of the best books of all time dont even describe the main characters apperance, but then again this is NO WHERE near the level of those books.)<br /><br />"<i>Another thing I loved was all the vampire myths Meyer scrapped</i>" cause now vampires aren't even cool anymore and are pretty much humans who are immortal, drink blood and have super powers!!!(Enough said)<br /><br />I mean really Meyer has a FLIPING ENGLISH DEGREE! She spent year studying and analyzing books, but can't even write her own GOOD one? This book makes me feel like i am in grade 5 again. BTW that was my worst school year ev-er. <br /><br /><br /><br /><br /><br />]]></body>
+  
+  <user>
+    <id>2170359</id>
+    <name>Rachel (=</name>
+    <display_name>Rachel (=</display_name>
+
+    <location>Brampton, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2170359-rachel]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1279241065p3/2170359.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1279241065p2/2170359.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jun 03 14:39:06 -0700 2009</created_at>
+  <updated_at>Wed Jun 03 14:39:06 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>6292251</id>
+  <body><![CDATA[<i>Kaeli wrote: "Wow! Tay, you must know a lot about what it takes to be a writer and an English Major. You even invented your own spelling for a few words. I can see that you're writing is the epitome of perfectio..."</i><br /><br />Ok, firstly, i didn't write that comment, my friend did, Ok? I told her that she could go on and put <i>reviews</i>! I went to go help my mom with some stuff, and when i got back i found that she wrote all these comments on here! It wasn't me, and Shannon I am really sorry. My friend said she would only put reviews and made sure she said it was from her, and didn't. I wouldn't write stuff like this to a)someone i dont even know or b) an author who has just started writing her own books. So, yeah i agree with some of the stuff my firend wrote here, but that doesn't mean I would go around saying stuff like this...and you're right i have no fricken idea what it takes to be a writer or an English major! <br />]]></body>
+  
+  <user>
+    <id>2170359</id>
+    <name>Rachel (=</name>
+    <display_name>Rachel (=</display_name>
+
+    <location>Brampton, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2170359-rachel]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1279241065p3/2170359.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1279241065p2/2170359.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 04 12:53:12 -0700 2009</created_at>
+  <updated_at>Thu Jun 04 12:53:12 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>6294015</id>
+  <body><![CDATA[I am feeling pretty confused at the moment, to be honest Tay. Did you friend also leave a very bewildering comment on my review of <i>Evermore</i>? Because it honestly made no more sense than the one above did, and seemed to contradict everything she says here. <br /><br />It doesn't sound like your friend is all that reliable. Or articulate. I welcome other people's opinions but, as Kaeli pointed out, there's no need to be insulting.<br /><br />I have read romance books before <i>Twilight</i>, I should point out; I just don't think of them as part of the romance genre. Since <i>Twilight</i>, I've read a lot more, but for sheer chemistry I'd still put this book near the top.<br /><br /><br />]]></body>
+  
+  <user>
+    <id>395599</id>
+    <name>Shannon (Giraffe Days)</name>
+    <display_name>Shannon (Giraffe Days)</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/395599-shannon-giraffe-days]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1420332941p3/395599.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1420332941p2/395599.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 04 14:01:54 -0700 2009</created_at>
+  <updated_at>Thu Jun 04 14:01:54 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>6297992</id>
+  <body><![CDATA[She may have, I am not sure...:S We were never that great of friends and I have never really trusted her. But if she did, sorry! ]]></body>
+  
+  <user>
+    <id>2170359</id>
+    <name>Rachel (=</name>
+    <display_name>Rachel (=</display_name>
+
+    <location>Brampton, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2170359-rachel]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1279241065p3/2170359.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1279241065p2/2170359.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 04 16:15:55 -0700 2009</created_at>
+  <updated_at>Thu Jun 04 16:15:55 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>6298638</id>
+  <body><![CDATA[Okay, I'm sorry for what I said too then, although it might be a good thing for your friend to hear haha.]]></body>
+  
+  <user>
+    <id>1885481</id>
+    <name>Kaeli</name>
+    <display_name>Kaeli</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1885481-kaeli]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1332483238p3/1885481.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1332483238p2/1885481.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 04 16:38:27 -0700 2009</created_at>
+  <updated_at>Thu Jun 04 16:38:27 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>6311693</id>
+  <body><![CDATA[yeah i showed her, she didnt care but...yea thats just the way she is... we go to different highschools so i am kinda hoping we slowly drift apart :P]]></body>
+  
+  <user>
+    <id>2170359</id>
+    <name>Rachel (=</name>
+    <display_name>Rachel (=</display_name>
+
+    <location>Brampton, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2170359-rachel]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1279241065p3/2170359.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1279241065p2/2170359.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 05 05:34:01 -0700 2009</created_at>
+  <updated_at>Fri Jun 05 05:34:01 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>6385733</id>
+  <body><![CDATA[haha hope that works out for you.]]></body>
+  
+  <user>
+    <id>1885481</id>
+    <name>Kaeli</name>
+    <display_name>Kaeli</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1885481-kaeli]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1332483238p3/1885481.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1332483238p2/1885481.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 08 12:32:44 -0700 2009</created_at>
+  <updated_at>Mon Jun 08 12:32:44 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>6390076</id>
+  <body><![CDATA[me too :P:P]]></body>
+  
+  <user>
+    <id>2170359</id>
+    <name>Rachel (=</name>
+    <display_name>Rachel (=</display_name>
+
+    <location>Brampton, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2170359-rachel]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1279241065p3/2170359.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1279241065p2/2170359.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 08 14:54:01 -0700 2009</created_at>
+  <updated_at>Mon Jun 08 14:54:01 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>7081975</id>
+  <body><![CDATA[How the hell is reading a book "sinful"? Besides the fact that you are probably spoiling your brain...]]></body>
+  
+  <created_at>Thu Jul 02 10:51:13 -0700 2009</created_at>
+  <updated_at>Thu Jul 02 10:51:13 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>7084288</id>
+  <body><![CDATA[haha]]></body>
+  
+  <user>
+    <id>1885481</id>
+    <name>Kaeli</name>
+    <display_name>Kaeli</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1885481-kaeli]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1332483238p3/1885481.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1332483238p2/1885481.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 02 11:56:20 -0700 2009</created_at>
+  <updated_at>Thu Jul 02 11:56:20 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>7085105</id>
+  <body><![CDATA[It's an expression, Mayrose. It means it's decadent, delicious. I was using the metaphor of chocolate, as you might have noticed. I would have thought that self-explanatory. And it's not the act of <i>reading</i> that I would describe as sinful - it's very far from a sin - but the book itself. ]]></body>
+  
+  <user>
+    <id>395599</id>
+    <name>Shannon (Giraffe Days)</name>
+    <display_name>Shannon (Giraffe Days)</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/395599-shannon-giraffe-days]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1420332941p3/395599.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1420332941p2/395599.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 02 12:15:27 -0700 2009</created_at>
+  <updated_at>Thu Jul 02 12:15:27 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>7088717</id>
+  <body><![CDATA[Hear hear Shannon. That is exactly how I feel about this book too; perfect metaphor. ]]></body>
+  
+  <user>
+    <id>1253478</id>
+    <name>The Book Whisperer (aka Boof)</name>
+    <display_name>The Book Whisperer (aka Boof)</display_name>
+
+    <location><![CDATA[Yorkshire, UK, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1253478-the-book-whisperer-aka-boof]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1268256340p3/1253478.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1268256340p2/1253478.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 02 13:38:05 -0700 2009</created_at>
+  <updated_at>Thu Jul 02 13:38:05 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>7094585</id>
+  <body><![CDATA[shannon, as always, you are one of my favorite reviewers here at goodreads!!haha, :D<br />great review, by the way, do you know some good book series that I would love again the same way as twilight? You suggested me <i> Evermore</i> but it's sequel wont come out till August? ]]></body>
+  
+  <user>
+    <id>2072975</id>
+    <name>Jenny</name>
+    <display_name>Jenny</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2072975-jenny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1376232073p3/2072975.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1376232073p2/2072975.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 02 16:24:04 -0700 2009</created_at>
+  <updated_at>Thu Jul 02 16:24:04 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>7094861</id>
+  <body><![CDATA[actually Blue Moon comes out next tuesday Jenny...or it does in Canada at least...]]></body>
+  
+  <user>
+    <id>2170359</id>
+    <name>Rachel (=</name>
+    <display_name>Rachel (=</display_name>
+
+    <location>Brampton, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2170359-rachel]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1279241065p3/2170359.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1279241065p2/2170359.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 02 16:32:44 -0700 2009</created_at>
+  <updated_at>Thu Jul 02 16:32:44 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>7096064</id>
+  <body><![CDATA[oh really..I'm sure it doesn't come out here in the Philippines that fast..hehe, they would be imported here..anyway, good to chat with you again! You still love Damen better than Edward?hehe]]></body>
+  
+  <user>
+    <id>2072975</id>
+    <name>Jenny</name>
+    <display_name>Jenny</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2072975-jenny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1376232073p3/2072975.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1376232073p2/2072975.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 02 17:09:47 -0700 2009</created_at>
+  <updated_at>Thu Jul 02 17:09:47 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>7096996</id>
+  <body><![CDATA[Yup, I dont know, Edward just seems...<i>to</i> fictional to me...like i understand he's a vamp in all but still....I dunno Damen just seems more realistic to me, actually he reminds me of my best guy friend...:P]]></body>
+  
+  <user>
+    <id>2170359</id>
+    <name>Rachel (=</name>
+    <display_name>Rachel (=</display_name>
+
+    <location>Brampton, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2170359-rachel]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1279241065p3/2170359.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1279241065p2/2170359.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 02 17:36:46 -0700 2009</created_at>
+  <updated_at>Thu Jul 02 17:36:46 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>7097097</id>
+  <body><![CDATA[oh..well, tastes of peoples varies..:p what's your favorite book series now?]]></body>
+  
+  <user>
+    <id>2072975</id>
+    <name>Jenny</name>
+    <display_name>Jenny</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2072975-jenny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1376232073p3/2072975.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1376232073p2/2072975.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 02 17:39:23 -0700 2009</created_at>
+  <updated_at>Thu Jul 02 17:39:23 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>7097223</id>
+  <body><![CDATA[hmm..not really sure, I never really have favourites, just books i really like. Umm, if i had to pick one to tell you....i think it would be House of Night at the moment, but in an hour that may change :P I also really love anyting written by L. J. Smith.<br /> What about you?]]></body>
+  
+  <user>
+    <id>2170359</id>
+    <name>Rachel (=</name>
+    <display_name>Rachel (=</display_name>
+
+    <location>Brampton, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2170359-rachel]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1279241065p3/2170359.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1279241065p2/2170359.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 02 17:42:49 -0700 2009</created_at>
+  <updated_at>Thu Jul 02 17:42:49 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>7097342</id>
+  <body><![CDATA[well, after twilight series, I loved cassandra clare's Mortal Instrument's series..awesome..haha]]></body>
+  
+  <user>
+    <id>2072975</id>
+    <name>Jenny</name>
+    <display_name>Jenny</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2072975-jenny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1376232073p3/2072975.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1376232073p2/2072975.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 02 17:46:08 -0700 2009</created_at>
+  <updated_at>Thu Jul 02 17:46:08 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>7097420</id>
+  <body><![CDATA[OH! I've been waiting to read those! I'm glad to hear that they're good. I have so many books i have to read this summer, and for some reason i am reading a lot slower than usual :(]]></body>
+  
+  <user>
+    <id>2170359</id>
+    <name>Rachel (=</name>
+    <display_name>Rachel (=</display_name>
+
+    <location>Brampton, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2170359-rachel]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1279241065p3/2170359.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1279241065p2/2170359.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 02 17:48:04 -0700 2009</created_at>
+  <updated_at>Thu Jul 02 17:48:04 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>7097595</id>
+  <body><![CDATA[oh, well, I'm also like that before, I didn't know why, then I read the Twilight saga I was totally hooked! I was like, can't get enough of it. Maybe if you met the book that will make you can't help but turn to the next page, your reading time would accelerate..hehe I sent a friend request to you..<br />read mortal instruments first! then tell me what can you say..:p<br />*sorry Shannon if were chatting on you review comments!:p]]></body>
+  
+  <user>
+    <id>2072975</id>
+    <name>Jenny</name>
+    <display_name>Jenny</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2072975-jenny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1376232073p3/2072975.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1376232073p2/2072975.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 02 17:52:36 -0700 2009</created_at>
+  <updated_at>Thu Jul 02 17:52:36 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>7097717</id>
+  <body><![CDATA[oh haha! I'm not sure when I'll be able to read mortal instruments, I have so many sequels i have to rad before the third or forth books com eout for other series xD When i first rad Twilight i was hooked too! but after reading other really great *must turn page* books i just lost intrest in it]]></body>
+  
+  <user>
+    <id>2170359</id>
+    <name>Rachel (=</name>
+    <display_name>Rachel (=</display_name>
+
+    <location>Brampton, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2170359-rachel]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1279241065p3/2170359.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1279241065p2/2170359.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 02 17:55:35 -0700 2009</created_at>
+  <updated_at>Thu Jul 02 17:55:35 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>7098075</id>
+  <body><![CDATA[well, I read twilight so many times before, as in every night, even though I know what will happen next, but now, not anymore, because I got so much used to it. I tried to read it again this morning but then I closed the book, realizing that I don't want to read it anymore. Not because I got so much of it already and didn't like it anymore but because, when I know what will happen next, , I will truly notice Meyer's flaws and mistakes and I don't like to ruin my good feelings toward the book. I like it to remain the same way--I love it, can't help but turn to next page, totally hooked, fell in love with Edward Cullen. Not hated it because of Meyer's constant repetition that Edward was handsome, Bella's imperfectness etc. It's good to look back at those nights that supposedly, I was studying for my exam instead of reading twilight, squealing...but I passed!haha]]></body>
+  
+  <user>
+    <id>2072975</id>
+    <name>Jenny</name>
+    <display_name>Jenny</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2072975-jenny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1376232073p3/2072975.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1376232073p2/2072975.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 02 18:04:39 -0700 2009</created_at>
+  <updated_at>Thu Jul 02 18:04:39 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>7098198</id>
+  <body><![CDATA[Haha yeah thats what happened to me too! I read them only twice though haha! the first time threw, your so hooked you fon't even notice the flaws and mistakes, but i think my biggest mistake with reading twilight was re-reading it for sure, i mean, it was just, i knew what was going to happen, and then you do start noticing flaws and mistakes, anf its just not as enjoyable. LOL its a good thing you passed ;)]]></body>
+  
+  <user>
+    <id>2170359</id>
+    <name>Rachel (=</name>
+    <display_name>Rachel (=</display_name>
+
+    <location>Brampton, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2170359-rachel]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1279241065p3/2170359.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1279241065p2/2170359.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 02 18:08:25 -0700 2009</created_at>
+  <updated_at>Thu Jul 02 18:08:25 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>7098987</id>
+  <body><![CDATA[hehe, just like discussing books I like with other people..hehe, your just 14? I would just leave my comments on your page! :)]]></body>
+  
+  <user>
+    <id>2072975</id>
+    <name>Jenny</name>
+    <display_name>Jenny</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2072975-jenny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1376232073p3/2072975.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1376232073p2/2072975.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 02 18:29:55 -0700 2009</created_at>
+  <updated_at>Thu Jul 02 18:29:55 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>7099161</id>
+  <body><![CDATA[haha yeah. Yupp only 14. ]]></body>
+  
+  <user>
+    <id>2170359</id>
+    <name>Rachel (=</name>
+    <display_name>Rachel (=</display_name>
+
+    <location>Brampton, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2170359-rachel]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1279241065p3/2170359.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1279241065p2/2170359.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 02 18:34:40 -0700 2009</created_at>
+  <updated_at>Thu Jul 02 18:34:40 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>7118089</id>
+  <body><![CDATA[Jenny, these aren't all YA paranormal romances but they're all YA: I'd recommend <i>Going Too Far</i>, <i>Perfect Chemistry</i>, <i>Alyzon Whitestarr</i> (which has finally come out in North America yay!), <i>Evernight</i> though I didn't care for it so much, um... can't think of anything else right now. <br /><br />The first two aren't paranormal but they're intense romance and real-life kind of stories and I loved them. I've only read the first Mortal Instruments book but I quite enjoyed it. <i>Luxe</i> was a pleasant surprise too - it's YA historical fiction and very good too.]]></body>
+  
+  <user>
+    <id>395599</id>
+    <name>Shannon (Giraffe Days)</name>
+    <display_name>Shannon (Giraffe Days)</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/395599-shannon-giraffe-days]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1420332941p3/395599.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1420332941p2/395599.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 03 13:06:10 -0700 2009</created_at>
+  <updated_at>Fri Jul 03 13:06:10 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>7134636</id>
+  <body><![CDATA[hi shannon! Thanks for your suggestions! I'm currently reading Ella enchanted and uglies so after I finished that series, i'm going to scan back your suggestions to me..thanks a lot! :D]]></body>
+  
+  <user>
+    <id>2072975</id>
+    <name>Jenny</name>
+    <display_name>Jenny</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2072975-jenny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1376232073p3/2072975.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1376232073p2/2072975.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jul 04 04:20:30 -0700 2009</created_at>
+  <updated_at>Sat Jul 04 04:20:30 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>7137027</id>
+  <body><![CDATA[Ooh they're good! I loved both of those :)]]></body>
+  
+  <user>
+    <id>395599</id>
+    <name>Shannon (Giraffe Days)</name>
+    <display_name>Shannon (Giraffe Days)</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/395599-shannon-giraffe-days]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1420332941p3/395599.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1420332941p2/395599.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jul 04 08:09:22 -0700 2009</created_at>
+  <updated_at>Sat Jul 04 08:09:22 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>7145966</id>
+  <body><![CDATA[Ella Enchanted was awesome! the movie not so awesome... it was good and really cute but completely different than the book.]]></body>
+  
+  <user>
+    <id>1885481</id>
+    <name>Kaeli</name>
+    <display_name>Kaeli</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1885481-kaeli]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1332483238p3/1885481.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1332483238p2/1885481.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jul 04 14:55:12 -0700 2009</created_at>
+  <updated_at>Sat Jul 04 14:55:12 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>7149647</id>
+  <body><![CDATA[Kaeli, you bet! haha...the book was super cute..<br />I have always loved fairy tales and this one had a twist! I watched the movie first, and I thought it was cute..I told you I like fairy tales..then later I found out that there was a book, so I read it. You know, I even hated my self for watching the movie first! So then as I turned the page, I was thinking, <i> oh, this was going to happen </i> and then it wont because the movie was so different from the book..well I'm glad I read the book. I just wished I read it earlier..haha ]]></body>
+  
+  <user>
+    <id>2072975</id>
+    <name>Jenny</name>
+    <display_name>Jenny</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2072975-jenny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1376232073p3/2072975.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1376232073p2/2072975.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jul 04 18:16:45 -0700 2009</created_at>
+  <updated_at>Sat Jul 04 18:16:45 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>7161404</id>
+  <body><![CDATA[I read the book first and thought the movie was pretty corny, to be honest. Fun, but corny. I haven't read any of the other Ella books though. The first one seemed so self-contained :)]]></body>
+  
+  <user>
+    <id>395599</id>
+    <name>Shannon (Giraffe Days)</name>
+    <display_name>Shannon (Giraffe Days)</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/395599-shannon-giraffe-days]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1420332941p3/395599.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1420332941p2/395599.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jul 05 10:49:26 -0700 2009</created_at>
+  <updated_at>Sun Jul 05 10:49:26 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>7173380</id>
+  <body><![CDATA[yeah..well, I just like Anne Hathaway, so I find the movie cute..hehe<br />Other ella book?What is that? ]]></body>
+  
+  <user>
+    <id>2072975</id>
+    <name>Jenny</name>
+    <display_name>Jenny</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2072975-jenny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1376232073p3/2072975.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1376232073p2/2072975.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jul 05 18:00:20 -0700 2009</created_at>
+  <updated_at>Sun Jul 05 18:00:20 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>7367386</id>
+  <body><![CDATA[Yes. An indulgence. The very reason I have "New Moon" on my bookshelf right now, un-read. I'm saving it for a time I can hunker down and read it in one sitting. <br /><br />Great, positive, insightful review. I love comparing impressions of books almost as much as I enjoy reading them.<br /><br /><a target="_blank" href="http://meganjust.wordpress.com/2009/07/11/bella-and-sookie/" rel="nofollow">http://meganjust.wordpress.com/2009/0...</a>]]></body>
+  
+  <user>
+    <id>2512761</id>
+    <name>Megan</name>
+    <display_name>Megan Westfield</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2512761-megan-westfield]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1474407815p3/2512761.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1474407815p2/2512761.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jul 11 18:14:00 -0700 2009</created_at>
+  <updated_at>Sat Jul 11 18:14:00 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>9151666</id>
+  <body><![CDATA[NO! this book is a rape story with vampire theme to change it up. i cant believe this book is the way that it is with fan clubs and a cult following. but it seems real crap always gathers flies. i mean really... how in the world can people not see the sexual over tones to this and its neo Christan values and alienation of sex in women books like this? it destroys womens rights and tries to prove the stereotype that women want rape. this shows the flaws in our culture and ways that feminism has failed. thanks for funding the alienation of 51% of the human population. if you want to learn something and not sink in to he bubbling cesspool of conformity to a misogynist society try reading Transforming a Rape Culture or The Purity Myth. ]]></body>
+  
+  <user>
+    <id>1543556</id>
+    <name>BATMAN </name>
+    <display_name>BATMAN </display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1543556-batman]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Sep 08 15:46:32 -0700 2009</created_at>
+  <updated_at>Tue Sep 08 15:46:32 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>11009011</id>
+  <body><![CDATA[I couldn't agree more. Twilight is an amazing story that makes you crave for more. Twilight is indeed a guilty pleasure (especially since I'm a guy). But its amazing how this story gets you so into the characters. Now I'm not gay, but while reading Bella's growing interest in Edward, mine grew as well. Basically, i thought to myself all these questions about Edward. Stuff like "Who the hell is he?" and "Why do girls love him?" Either way I still love Twilight. I used to hate it. I used to make fun of vampires and Twilight and Edward (i still hate him). But now i converged to the dark side so to speak. I totally agree with Shannon! ]]></body>
+  
+  <user>
+    <id>2664877</id>
+    <name>Jonathan</name>
+    <display_name>Jonathan</display_name>
+
+    <location>Saigon homie!!!, CO, Viet Nam</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2664877-jonathan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1256933045p3/2664877.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1256933045p2/2664877.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 18 13:08:30 -0800 2009</created_at>
+  <updated_at>Wed Nov 18 13:08:30 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>11017864</id>
+  <body><![CDATA[It's great to hear your thoughts Jonathan - and you're right about the unveiling mystery of it, even though we <i>know</i>! <br /><br />It's funny, but I often wonder about men-who-like-Twilight, I see so many reading it. I saw a very smartly dressed, handsome 30-something businessman reading it on the subway not long ago. I wanted to ask him what he thought! ]]></body>
+  
+  <user>
+    <id>395599</id>
+    <name>Shannon (Giraffe Days)</name>
+    <display_name>Shannon (Giraffe Days)</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/395599-shannon-giraffe-days]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1420332941p3/395599.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1420332941p2/395599.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 18 18:34:06 -0800 2009</created_at>
+  <updated_at>Wed Nov 18 18:34:06 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>14155588</id>
+  <body><![CDATA[Nice review. I don't really agree with it as I'm not a fan of the series, but it's nice to know that there are fans of the books out there who are... intelligent, for lack of a better word. I know it's stereotypical, but that's all I've seen, and I don't exactly go looking for them, so perhaps that's why...? Anyway, I clicked on this just because I was wondering if there would even be any good reviews on here, considering the fact that it seems like just as many people hate the book as like it, and I was suprised at finding this. It was nice, even if I don't like the book :).<br /><br />Also, while I didn't like Twilight, I do admire the fact that Meyer actually got teenagers who had never read a book before to actually read somehting of it's length, or at all.<br /><br />If you want to hear my opinion of the book or anything, feel free to send me a message. I think it would be an interesting discussion, and I actually have read the book first book, at least, so you don't have to worry about that.<br /><br />Thanks,<br />Cammi]]></body>
+  
+  <user>
+    <id>57079</id>
+    <name>Cammi</name>
+    <display_name>Cammi</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/57079-cammi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1323886046p3/57079.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1323886046p2/57079.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 28 19:36:27 -0800 2010</created_at>
+  <updated_at>Sun Feb 28 19:36:27 -0800 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>14198732</id>
+  <body><![CDATA[Thanks Cammi. I still get flak from some people for liking this series, but I refuse to be bullied into denying my real response. I just try to understand it. I can completely see why someone wouldn't like it, and I can see the problems, but it helps not being a hormonal thirteen year old and I don't take the books seriously as I've heard some kids do. I'm interested to hear your thoughts on the book, what you didn't like about it.]]></body>
+  
+  <user>
+    <id>395599</id>
+    <name>Shannon (Giraffe Days)</name>
+    <display_name>Shannon (Giraffe Days)</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/395599-shannon-giraffe-days]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1420332941p3/395599.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1420332941p2/395599.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 02 06:19:48 -0800 2010</created_at>
+  <updated_at>Tue Mar 02 06:19:48 -0800 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>18071953</id>
+  <body><![CDATA[hey, even i like Twilight tooo much. I just loved this book. its realy good.]]></body>
+  
+  <user>
+    <id>3899471</id>
+    <name>Shwetika</name>
+    <display_name>Shwetika</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3899471-shwetika]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1293552748p3/3899471.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1293552748p2/3899471.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 25 08:47:53 -0700 2010</created_at>
+  <updated_at>Fri Jun 25 08:47:53 -0700 2010</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/6904616]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/6904616]]></link>
+    <owned>1</owned>
+</review>
+
+
+</GoodreadsResponse>

@@ -1,0 +1,1285 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:54:34 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: 56PZMXP2R5YX2FSX78WY
+etag: W/"928d8e9afcbb193b8808ce04ee378211"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.339425
+set-cookie: csid=BAhJIhg4NjItMDc3NDU2My04NzM0MzgxBjoGRVQ%3D--2add571829f967c7aaea8dc0dc5d436ccee97a34; path=/; expires=Tue, 12 May 2037 13:54:34 -0000, locale=es; path=/, _session_id2=1e7fa00cb9b0343b5f08545a741d2671; path=/; expires=Fri, 12 May 2017 19:54:34 -0000; HttpOnly
+content-length: 52445
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=79909385
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>79909385</id>
+    
+  <user>
+    <id>1746727</id>
+    <name>Arlene</name>
+    <display_name>Arlene</display_name>
+
+    <location>Los Angeles, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1746727-arlene]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1347048609p3/1746727.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1347048609p2/1746727.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">7260188</id>
+  <isbn>0439023513</isbn>
+  <isbn13>9780439023511</isbn13>
+  <text_reviews_count type="integer">86152</text_reviews_count>
+  <title>Mockingjay (The Hunger Games, #3)</title>
+  <title_without_series>Mockingjay</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1358275419m/7260188.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1358275419s/7260188.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7260188-mockingjay</link>
+  <num_pages>392</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First Edition</edition_information>
+  <publisher>Scholastic Press</publisher>
+  <publication_day>24</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.03</average_rating>
+  <ratings_count>1836765</ratings_count>
+  <description>&lt;b&gt;My name is Katniss Everdeen.&lt;br /&gt;Why am I not dead?&lt;br /&gt;I should be dead.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Katniss Everdeen, girl on fire, has survived, even though her home has been destroyed. Gale has escaped. Katniss's family is safe. Peeta has been captured by the Capitol. District 13 really does exist. There are rebels. There are new leaders. A revolution is unfolding.&lt;br /&gt;&lt;br /&gt;It is by design that Katniss was rescued from the arena in the cruel and haunting Quarter Quell, and it is by design that she has long been part of the revolution without knowing it. District 13 has come out of the shadows and is plotting to overthrow the Capitol. Everyone, it seems, has had a hand in the carefully laid plans--except Katniss.&lt;br /&gt;&lt;br /&gt;The success of the rebellion hinges on Katniss's willingness to be a pawn, to accept responsibility for countless lives, and to change the course of the future of Panem. To do this, she must put aside her feelings of anger and distrust. She must become the rebels' Mockingjay--no matter what the personal cost.</description>
+<authors>
+<author>
+<id>153394</id>
+<name>Suzanne Collins</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1394819770p5/153394.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1394819770p2/153394.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/153394.Suzanne_Collins]]></link>
+<average_rating>4.27</average_rating>
+<ratings_count>8961004</ratings_count>
+<text_reviews_count>356107</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1520658025</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Fri Sep 23 18:16:26 -0700 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>127</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="ya-dystopic" exclusive="false" review_shelf_id="93127261" sortable="false" />
+    <shelf name="dystopic" exclusive="false" review_shelf_id="68193978" sortable="false" />
+    <shelf name="young-adult" exclusive="false" review_shelf_id="376546821" sortable="false" />
+    <shelf name="read-2010" exclusive="false" review_shelf_id="68193981" sortable="false" />
+    <shelf name="favorites" exclusive="false" review_shelf_id="68940417" sortable="true" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Aug 24 00:00:00 -0700 2010</started_at>
+  <read_at>Tue Aug 24 00:00:00 -0700 2010</read_at>
+  <date_added>Fri Dec 04 15:24:50 -0800 2009</date_added>
+  <date_updated>Fri Jan 03 18:03:13 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[There is so much I love and despise about this book and my brain is still in a mindfog trying to sort out some of the <a href="http://www.urbandictionary.com/define.php?term=catastrofuck" rel="nofollow">catastrofuck</a> that just occurred. But first and foremost I must say… <i>hats off to Suzanne Collins for penning an epic finale of courageous and daring proportions!! </i> Wow she really s...]]>
+  </body>
+
+  
+
+  <comments_count>52</comments_count>
+    <comments start="1" end="50" total="52">
+        <comment>
+  <id>11453623</id>
+  <body><![CDATA[I thought it was being called "The Victors"?<br />Although that french article you posted did say something about it being not confirmed didn't it...]]></body>
+  
+  <user>
+    <id>2260324</id>
+    <name>Albie46</name>
+    <display_name>Albie46</display_name>
+
+    <location>Ojai, G1, New Zealand</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2260324-albie46]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1259459511p3/2260324.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1259459511p2/2260324.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Dec 04 16:00:26 -0800 2009</created_at>
+  <updated_at>Fri Dec 04 16:00:26 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>11470620</id>
+  <body><![CDATA[I don't think this is the right title. I'd be surprised if it's just called "The Hunger Games Book Three."<br /><br />If they go with "The Victors" that's such a clever name, because we can't assume we know who the victors will be.<br /><br />Is it August yet? :)]]></body>
+  
+  <user>
+    <id>1746727</id>
+    <name>Arlene</name>
+    <display_name>Arlene</display_name>
+
+    <location>Los Angeles, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1746727-arlene]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1347048609p3/1746727.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1347048609p2/1746727.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Dec 05 08:25:40 -0800 2009</created_at>
+  <updated_at>Sat Dec 05 08:25:40 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>11528950</id>
+  <body><![CDATA[<i>Arlene wrote: "Is it August yet? :)..."</i><br /><br />Ditto! I'm so excited for this to come out. The finale better be good.<br /><br />]]></body>
+  
+  <user>
+    <id>2411388</id>
+    <name>Hannah</name>
+    <display_name>Hannah</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2411388-hannah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1272561978p3/2411388.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1272561978p2/2411388.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Dec 07 07:58:12 -0800 2009</created_at>
+  <updated_at>Mon Dec 07 07:58:12 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>13590592</id>
+  <body><![CDATA[Oooohhh - pretty cover (I like the title).<br /><br />I'm pumped for this one!]]></body>
+  
+  <user>
+    <id>2411388</id>
+    <name>Hannah</name>
+    <display_name>Hannah</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2411388-hannah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1272561978p3/2411388.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1272561978p2/2411388.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Feb 11 11:08:00 -0800 2010</created_at>
+  <updated_at>Thu Feb 11 11:08:00 -0800 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>13592853</id>
+  <body><![CDATA[<i>Hannahr wrote: "Oooohhh - pretty cover (I like the title).<br /><br />I'm pumped for this one!"</i><br /><br />I'm so excited for this book too!! I want it NOW! LOL<br /><br />]]></body>
+  
+  <user>
+    <id>1746727</id>
+    <name>Arlene</name>
+    <display_name>Arlene</display_name>
+
+    <location>Los Angeles, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1746727-arlene]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1347048609p3/1746727.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1347048609p2/1746727.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Feb 11 12:53:53 -0800 2010</created_at>
+  <updated_at>Thu Feb 11 12:53:53 -0800 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>13594335</id>
+  <body><![CDATA[<i>Arlene wrote: "I'm so excited for this book too!! I want it NOW! LOL"</i><br /><br />Well, as long as *now* equals 5+ months away, you're good!<br /><br />She better not pull a Meyer and give us an Epic Fail.<br />I can see it now, she's going to shorten names and give us Pee and Gay!<br /><br /><br /><br />]]></body>
+  
+  <user>
+    <id>2411388</id>
+    <name>Hannah</name>
+    <display_name>Hannah</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2411388-hannah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1272561978p3/2411388.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1272561978p2/2411388.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Feb 11 13:48:19 -0800 2010</created_at>
+  <updated_at>Thu Feb 11 13:48:19 -0800 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>13594952</id>
+  <body><![CDATA[<i>Hannahr wrote: "Well, as long as *now* equals 5+ months away, you're good! <br /><br />She better not pull a Meyer and give us an Epic Fail. <br />I can see it now, she's going to shorten names and give us Pee and Gay! "</i><br /><br />Gah! Must we go there? My brain still hurts over that Epic Fail. Now I have Jazz Hands in my head. Get out! Get outta my head!<br /><br />Collins wouldn't do that to us. I just know it. :)<br /><br />]]></body>
+  
+  <user>
+    <id>1746727</id>
+    <name>Arlene</name>
+    <display_name>Arlene</display_name>
+
+    <location>Los Angeles, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1746727-arlene]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1347048609p3/1746727.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1347048609p2/1746727.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Feb 11 14:06:38 -0800 2010</created_at>
+  <updated_at>Thu Feb 11 14:06:38 -0800 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>13595516</id>
+  <body><![CDATA[<i>Arlene wrote: "Now I have Jazz Hands in my head. Get out! Get outta my head! <br /><br />Collins wouldn't do that to us. I just know it. :)..."</i><br /><br />Jazz Hands never gets old to me...never!!!<br />&lt;<br /><br />And you really are an optimist where writers of series books are concerned. I'm going to automatically declare them guilty until they prove me wrong - makes for less dented dry-wall when I hurl the book :)<br /><br /><br />]]></body>
+  
+  <user>
+    <id>2411388</id>
+    <name>Hannah</name>
+    <display_name>Hannah</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2411388-hannah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1272561978p3/2411388.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1272561978p2/2411388.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Feb 11 14:21:43 -0800 2010</created_at>
+  <updated_at>Thu Feb 11 14:21:43 -0800 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>13598784</id>
+  <body><![CDATA[Eye hurt from the Jazz hands. Thanks a lot! LOL<br /><br />I think SM is my only disappointment so far in terms of an Epic Fail. No one can mess it up as bad as she did... Nope, don't think it's possible. I have hope. I do! :)]]></body>
+  
+  <user>
+    <id>1746727</id>
+    <name>Arlene</name>
+    <display_name>Arlene</display_name>
+
+    <location>Los Angeles, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1746727-arlene]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1347048609p3/1746727.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1347048609p2/1746727.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Feb 11 15:42:18 -0800 2010</created_at>
+  <updated_at>Thu Feb 11 15:42:18 -0800 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20246522</id>
+  <body><![CDATA[Right behind you Arlene! I have to work later so I know I can't finish this, but GAWD I need to start it now!!<br />Happy Reading!!]]></body>
+  
+  <user>
+    <id>2594672</id>
+    <name>~Tina~</name>
+    <display_name>~Tina~</display_name>
+
+    <location>Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2594672-tina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1411474324p3/2594672.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1411474324p2/2594672.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 24 07:21:31 -0700 2010</created_at>
+  <updated_at>Tue Aug 24 07:21:31 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20247056</id>
+  <body><![CDATA[WOOOHOOOOO!!]]></body>
+  
+  <user>
+    <id>1594906</id>
+    <name>Kim</name>
+    <display_name>Kim</display_name>
+
+    <location>Belgium</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1594906-kim]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1252264728p3/1594906.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1252264728p2/1594906.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 24 07:50:59 -0700 2010</created_at>
+  <updated_at>Tue Aug 24 07:50:59 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20247800</id>
+  <body><![CDATA[**jealous!!** I'm going with a friend tonight after dinner to pick it up!]]></body>
+  
+  <user>
+    <id>912332</id>
+    <name>Wendy</name>
+    <display_name>Wendy</display_name>
+
+    <location>Vancouver, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/912332-wendy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1446483995p3/912332.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1446483995p2/912332.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 24 08:26:58 -0700 2010</created_at>
+  <updated_at>Tue Aug 24 08:26:58 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20256856</id>
+  <body><![CDATA[Happy reading! Still waiting for my copy to arrive in store :( Can't wait to read your spoiler free review!]]></body>
+  
+  <user>
+    <id>2813423</id>
+    <name>Nic</name>
+    <display_name>Nic</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2813423-nic]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 24 13:55:45 -0700 2010</created_at>
+  <updated_at>Tue Aug 24 13:55:45 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20275034</id>
+  <body><![CDATA[I know exactly how you're feeling! The book gave me a bitter feeling in the end. I cried, raged, and then, at the ending... just hollow and slightly bitter. Can't say I'll have the energy to re-read it anytime soon! Such an emotional ride!]]></body>
+  
+  <user>
+    <id>3559277</id>
+    <name>Fabiane</name>
+    <display_name>Fabiane Abreu</display_name>
+
+    <location>Manaus, Brazil</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3559277-fabiane-abreu]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1438125352p3/3559277.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1438125352p2/3559277.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 24 23:54:53 -0700 2010</created_at>
+  <updated_at>Tue Aug 24 23:54:53 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20275067</id>
+  <body><![CDATA[Great review. Makes me wish my copy would hurry up and arrive. I dying to know did Katniss choose Peeta?]]></body>
+  
+  <user>
+    <id>2813423</id>
+    <name>Nic</name>
+    <display_name>Nic</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2813423-nic]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 25 00:01:34 -0700 2010</created_at>
+  <updated_at>Wed Aug 25 00:01:34 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20275080</id>
+  <body><![CDATA[Fabiane, I really thought I'd re-read this right away, but I just can't. I'm really exhausted. I feel like a tribute that just went through the games. AG!<br /><br />Nic, I can tell you a choice was made. There were gains, there were losses. Katniss earned an HEA without a doubt, but I'm still wondering if she really got it.<br /><br />Great book!!]]></body>
+  
+  <user>
+    <id>1746727</id>
+    <name>Arlene</name>
+    <display_name>Arlene</display_name>
+
+    <location>Los Angeles, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1746727-arlene]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1347048609p3/1746727.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1347048609p2/1746727.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 25 00:04:10 -0700 2010</created_at>
+  <updated_at>Wed Aug 25 00:04:10 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20275093</id>
+  <body><![CDATA[Argh! I need this book right now!]]></body>
+  
+  <user>
+    <id>2813423</id>
+    <name>Nic</name>
+    <display_name>Nic</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2813423-nic]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 25 00:05:54 -0700 2010</created_at>
+  <updated_at>Wed Aug 25 00:05:54 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20275127</id>
+  <body><![CDATA[I can overnight you my book. I need some emotional distance from this one. *whimpers a weak LOL*<br /><br />:)<br /><br />I hope your's arrives soon.]]></body>
+  
+  <user>
+    <id>1746727</id>
+    <name>Arlene</name>
+    <display_name>Arlene</display_name>
+
+    <location>Los Angeles, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1746727-arlene]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1347048609p3/1746727.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1347048609p2/1746727.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 25 00:12:15 -0700 2010</created_at>
+  <updated_at>Wed Aug 25 00:12:15 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20275592</id>
+  <body><![CDATA[Okay, i got to your catastrof%&amp;k word, and realised you hadn't actually used the *^&amp; symbols, so you really must have meant it, and seriosl my heart just stopped for a moment!<br /><br />Our copies, apparently are only coming from the supplier today, so will be out sometime later this week. :(<br /><br /><br />ANd now I am really really scared... <br />Way more than when you said the ending to Gone was 'appropriate'! Lol! And i loved that book in the end.<br /><br />That's a wicked first line of your review there Arlene... and I haven't even read any further and now I"m too scared to!<br /><br />I hope the dissappointment and loathing don't last too long!<br /><br />As a Gale fan, will I perhaps like this book a little more than you???<br /><br />Oh, I"m so going to read the last page!]]></body>
+  
+  <user>
+    <id>2260324</id>
+    <name>Albie46</name>
+    <display_name>Albie46</display_name>
+
+    <location>Ojai, G1, New Zealand</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2260324-albie46]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1259459511p3/2260324.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1259459511p2/2260324.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 25 01:59:41 -0700 2010</created_at>
+  <updated_at>Wed Aug 25 01:59:41 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20276007</id>
+  <body><![CDATA[Beautiful review hun! I get what you mean by emotional, it's really hard not getting chocked up. I'm surprised that I even took to these books really, they are tortuous and cruel and not the escape I usually go for, but God I love it!<br />I'm off today, going to read till I'm done:)]]></body>
+  
+  <user>
+    <id>2594672</id>
+    <name>~Tina~</name>
+    <display_name>~Tina~</display_name>
+
+    <location>Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2594672-tina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1411474324p3/2594672.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1411474324p2/2594672.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 25 03:31:41 -0700 2010</created_at>
+  <updated_at>Wed Aug 25 03:31:41 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20276906</id>
+  <body><![CDATA[Awesome review, Arlene! It was crazy, wasn't it? But I guess Collins wanted it to be real because really, war changes people &amp; doesn't bring happiness, especially to the people closely involved.<br /><br /><br />@Albie: I hope this isn't revealing too much, but... I think if you're a fan of either Gale, Katniss, or Peeta you...will be upset. :(]]></body>
+  
+  <user>
+    <id>1894085</id>
+    <name>Alexa</name>
+    <display_name>Alexa</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1894085-alexa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1393730599p3/1894085.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1393730599p2/1894085.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 25 05:25:18 -0700 2010</created_at>
+  <updated_at>Wed Aug 25 05:25:18 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20277099</id>
+  <body><![CDATA[Amazing review. I feel the exact same way you do. I stayed up for a good hour after I finished at 3am, still trying to absorb what I had just read. Not to mention bawling my eyes out. THAT is how you end a series. I felt so exhausted after finishing...and I've NEVER cried over a book that much. So glad you enjoyed it.]]></body>
+  
+  <user>
+    <id>3471319</id>
+    <name>Jen</name>
+    <display_name>Jen</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3471319-jen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1334937366p3/3471319.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1334937366p2/3471319.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 25 05:39:32 -0700 2010</created_at>
+  <updated_at>Wed Aug 25 05:39:32 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20277439</id>
+  <body><![CDATA[I am like, <i>shaking</i>, in anticipation!]]></body>
+  
+  <user>
+    <id>2941288</id>
+    <name>Morgan</name>
+    <display_name>Morgan F</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2941288-morgan-f]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1262298598p3/2941288.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1262298598p2/2941288.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 25 06:05:08 -0700 2010</created_at>
+  <updated_at>Wed Aug 25 06:05:08 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20278876</id>
+  <body><![CDATA[Thanks ladies! <br /><br />Albie, I toned down my review. I was in a cussing mood last night, but after 3 hours of restless slept and intermittent contemplation, I've settled my thoughts and feelings just a little bit. I feel my review is spoiler free and I'm definitey not disappointed in this book or the choices that were made. I loved Katniss, Peeta and to a smaller degree Gale and I hope others feel they got the ending they deserved. The jury is still out as far as I'm concerned. <br /><br />Tina, I hope you enjoy it. Collins spared no expense at reminding us this is her story to tell. She's amazing! <br /><br />Alexa, you hit it right on about the war. I kept thinking about that as the story progressed. The footage, sending literally what is "kids" off to battle, the emotional and physical damage for those who fight in these wars. Soo much was running through my brain. <br /><br />Jen, without a doubt, that was an ending worthy of applause!!! <br /><br />Morgan, shaking would be appropriate IMO. <br /><br />Last observation that I wanted to add to my review.... one of the final scenes when Katniss is sitting by the fireplace (and those who already read it will rememder the state she's in) the song <a href="http://www.lyrics007.com/Blue%20October%20Lyrics/Come%20In%20Closer%20Lyrics.html" rel="nofollow">Come In Closer</a> by Blue October played in my head. Seriously, I felt like a POW being tortured as I read her final pages... TORTURED!! <br /><br />I think that's it.... for now. :)]]></body>
+  
+  <user>
+    <id>1746727</id>
+    <name>Arlene</name>
+    <display_name>Arlene</display_name>
+
+    <location>Los Angeles, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1746727-arlene]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1347048609p3/1746727.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1347048609p2/1746727.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 25 07:24:48 -0700 2010</created_at>
+  <updated_at>Wed Aug 25 07:24:48 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20279181</id>
+  <body><![CDATA[I could barely finish the last part of your most recent comment because I got teary-eyed again.]]></body>
+  
+  <user>
+    <id>3471319</id>
+    <name>Jen</name>
+    <display_name>Jen</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3471319-jen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1334937366p3/3471319.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1334937366p2/3471319.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 25 07:42:04 -0700 2010</created_at>
+  <updated_at>Wed Aug 25 07:42:04 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20279364</id>
+  <body><![CDATA[Oh no!! Sorry Jen! I love Katniss, and she's by far my most favorite female fictional character. I can't think of any other character that deserved a HEA more than her. I just wish I could say she truly got one because she lost so much along the way.]]></body>
+  
+  <user>
+    <id>1746727</id>
+    <name>Arlene</name>
+    <display_name>Arlene</display_name>
+
+    <location>Los Angeles, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1746727-arlene]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1347048609p3/1746727.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1347048609p2/1746727.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 25 07:52:15 -0700 2010</created_at>
+  <updated_at>Wed Aug 25 07:52:15 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20279853</id>
+  <body><![CDATA[Hahah, don't apologize! A great book is supposed to make us feel, and I can't think of any book in recent memory that has inflicted the amount of intense happiness and tragic heartache that this one did. <br /><br />And I wish she could've gotten a happier ending, too. She did deserve it! But I think that the book wouldn't have been as epic as it was if she had gotten everything a la Bella Swan. Breaking Dawn RUINED the Twilight Saga, whereas Mockingjay brought THG full circle. Even though rage and mourning were running high after the last page, that's the way it had to end, I think.]]></body>
+  
+  <user>
+    <id>3471319</id>
+    <name>Jen</name>
+    <display_name>Jen</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3471319-jen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1334937366p3/3471319.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1334937366p2/3471319.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 25 08:15:59 -0700 2010</created_at>
+  <updated_at>Wed Aug 25 08:15:59 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20280165</id>
+  <body><![CDATA[I have one recent book that tore me apart just as equally... <a href="https://www.goodreads.com/book/show/7600924.Forbidden_" title="Forbidden  by Tabitha Suzuma" rel="nofollow">Forbidden</a>, but Mockingjay is an epic finale BY FAR!<br /><br />I can't agree with you more!! SM claims she told Breaking Dawn the way she always imagined it, but she sacraficed nothing or no one. Bella got the HEA I feel she never really earned.<br /><br />Collins screams her rights over this last book. The whole time I felt, wow she really owns this book and we're just along for the ride, so hang on. Some of my fave characters were sparred, but that was just a constant reminder that sacrafices and losses happen during a war. This is truly an amazing finale!!]]></body>
+  
+  <user>
+    <id>1746727</id>
+    <name>Arlene</name>
+    <display_name>Arlene</display_name>
+
+    <location>Los Angeles, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1746727-arlene]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1347048609p3/1746727.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1347048609p2/1746727.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 25 08:32:33 -0700 2010</created_at>
+  <updated_at>Wed Aug 25 08:32:33 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20281061</id>
+  <body><![CDATA[Breaking Dawn was the worst finale I ever read. It made me hate Twilight.]]></body>
+  
+  <user>
+    <id>2941288</id>
+    <name>Morgan</name>
+    <display_name>Morgan F</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2941288-morgan-f]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1262298598p3/2941288.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1262298598p2/2941288.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 25 09:16:28 -0700 2010</created_at>
+  <updated_at>Wed Aug 25 09:16:28 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20281248</id>
+  <body><![CDATA[Me too Morgan... me too.. It was tragic to see me go from complete lurves of a series to absolutely loathing it. It was sorta criminal... but I guess my obsession over Twi wasn't healthy to begin with so it's probably good that happened. LOL]]></body>
+  
+  <user>
+    <id>1746727</id>
+    <name>Arlene</name>
+    <display_name>Arlene</display_name>
+
+    <location>Los Angeles, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1746727-arlene]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1347048609p3/1746727.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1347048609p2/1746727.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 25 09:24:32 -0700 2010</created_at>
+  <updated_at>Wed Aug 25 09:24:32 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20282591</id>
+  <body><![CDATA[I agree. I owe Breaking Dawn for me no longer being a Twitard.]]></body>
+  
+  <user>
+    <id>2941288</id>
+    <name>Morgan</name>
+    <display_name>Morgan F</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2941288-morgan-f]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1262298598p3/2941288.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1262298598p2/2941288.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 25 10:06:33 -0700 2010</created_at>
+  <updated_at>Wed Aug 25 10:06:33 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20283615</id>
+  <body><![CDATA[Oh I still love Twilight. I just consider it a trilogy. And Jacob dies fighting for Bella's honor. Thats my ending. (and I love Jacob. I just think Bella should have to lose something big.)]]></body>
+  
+  <user>
+    <id>3471319</id>
+    <name>Jen</name>
+    <display_name>Jen</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3471319-jen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1334937366p3/3471319.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1334937366p2/3471319.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 25 10:48:03 -0700 2010</created_at>
+  <updated_at>Wed Aug 25 10:48:03 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20285156</id>
+  <body><![CDATA[Well, I just read the rest of your review since you said it was spoiler free and nope, i'm not feeling any more reassured!<br /><br />My book hasn't even arrived yet and already I feel like I"m going into a gauntlet.<br />YOu know I think I was thinking i was going to have to put my life on hold (leave work early, not go away this weeknd) to read this book, but now I think I may have to do the life on hold thing after this book!<br /><br />What ever happend to HEA??]]></body>
+  
+  <user>
+    <id>2260324</id>
+    <name>Albie46</name>
+    <display_name>Albie46</display_name>
+
+    <location>Ojai, G1, New Zealand</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2260324-albie46]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1259459511p3/2260324.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1259459511p2/2260324.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 25 11:41:46 -0700 2010</created_at>
+  <updated_at>Wed Aug 25 11:41:46 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20285862</id>
+  <body><![CDATA[I hope I didn't ruin anything for you. Albie, all I can say is that there are all sorts of HEA's and those happen in different ways for different people. Katniss deserved one in her own right, but her HEA would not be something I would ever dream for myself. Good things happen to her and so do bad things, but in the end, she's the strong, courageous, determined herione I came to care for since book one. This book will blow your mind... life on hold is probably the way to go. :)]]></body>
+  
+  <user>
+    <id>1746727</id>
+    <name>Arlene</name>
+    <display_name>Arlene</display_name>
+
+    <location>Los Angeles, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1746727-arlene]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1347048609p3/1746727.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1347048609p2/1746727.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 25 12:12:30 -0700 2010</created_at>
+  <updated_at>Wed Aug 25 12:12:30 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20307110</id>
+  <body><![CDATA[I still don't know what to say. So I'll stick with 'great review' ^^]]></body>
+  
+  <user>
+    <id>1594906</id>
+    <name>Kim</name>
+    <display_name>Kim</display_name>
+
+    <location>Belgium</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1594906-kim]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1252264728p3/1594906.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1252264728p2/1594906.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 25 23:47:41 -0700 2010</created_at>
+  <updated_at>Wed Aug 25 23:47:41 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20308903</id>
+  <body><![CDATA[I agree with you Arlene and felt I had to distance myself a bit to read this, I just knew Suzanne Collins was going to go hardcore on us poor little readers. After the emotional ride of the series, I'm satisfied with the ending, it was more than I was expecting after bracing myself for the worst.]]></body>
+  
+  <user>
+    <id>4022926</id>
+    <name>Nicole</name>
+    <display_name>Nicole</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4022926-nicole]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291930850p3/4022926.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291930850p2/4022926.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 26 04:43:41 -0700 2010</created_at>
+  <updated_at>Thu Aug 26 04:43:41 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20311263</id>
+  <body><![CDATA[Thanks Kim. I think we're all still in a bit of shock.<br /><br />Nicole, it was so insane that I almost became fearful of what Collins would put Katniss through next. I'm still in awe at how she drove this final installment home with such bold and daring twists and turns. Collins owned this story and she proved it over and over again with her approach. Hats off to her!]]></body>
+  
+  <user>
+    <id>1746727</id>
+    <name>Arlene</name>
+    <display_name>Arlene</display_name>
+
+    <location>Los Angeles, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1746727-arlene]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1347048609p3/1746727.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1347048609p2/1746727.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 26 07:29:21 -0700 2010</created_at>
+  <updated_at>Thu Aug 26 07:29:21 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20317817</id>
+  <body><![CDATA[Perfect review!]]></body>
+  
+  <user>
+    <id>1582332</id>
+    <name>Mindy</name>
+    <display_name>Mindy</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1582332-mindy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1335916484p3/1582332.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1335916484p2/1582332.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 26 12:06:10 -0700 2010</created_at>
+  <updated_at>Thu Aug 26 12:06:10 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20321089</id>
+  <body><![CDATA[Thank you Mindy!]]></body>
+  
+  <user>
+    <id>1746727</id>
+    <name>Arlene</name>
+    <display_name>Arlene</display_name>
+
+    <location>Los Angeles, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1746727-arlene]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1347048609p3/1746727.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1347048609p2/1746727.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 26 13:47:15 -0700 2010</created_at>
+  <updated_at>Thu Aug 26 13:47:15 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20374550</id>
+  <body><![CDATA[Great review. My mind was too boggled to come up with more than a few "great book"s and such, so hats off to you for having the wherewithal ;-) to write such a thorough review. Spot on. :-D]]></body>
+  
+  <user>
+    <id>2243581</id>
+    <name>Jenn</name>
+    <display_name>Jenn</display_name>
+
+    <location>Lehi, UT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2243581-jenn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1403016696p3/2243581.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1403016696p2/2243581.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 27 22:22:03 -0700 2010</created_at>
+  <updated_at>Fri Aug 27 22:22:03 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20379408</id>
+  <body><![CDATA[Awwww, thank you Jenn. :) Oh I know how you feel. I was in shock after I finished the book and it took a few revisions to write that one and I still feel it's all over the place, but I loved that book and the series so much, I just had to write my feelings down. What a great book!]]></body>
+  
+  <user>
+    <id>1746727</id>
+    <name>Arlene</name>
+    <display_name>Arlene</display_name>
+
+    <location>Los Angeles, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1746727-arlene]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1347048609p3/1746727.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1347048609p2/1746727.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 28 07:36:47 -0700 2010</created_at>
+  <updated_at>Sat Aug 28 07:36:47 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20602372</id>
+  <body><![CDATA[Great review!! She is definitely fearless! I cried at the end!]]></body>
+  
+  <user>
+    <id>2250501</id>
+    <name>Crystal</name>
+    <display_name>Crystal</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2250501-crystal]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1378941415p3/2250501.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1378941415p2/2250501.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 03 20:18:17 -0700 2010</created_at>
+  <updated_at>Fri Sep 03 20:18:17 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>33996668</id>
+  <body><![CDATA[Literally every word you said in this review is completely perfect. You took every tangled thought from my mind and perfectly placed them here. Thank you for writing this, and thank you for understanding!!]]></body>
+  
+  <user>
+    <id>4642253</id>
+    <name>Cassidy</name>
+    <display_name>Cassidy</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4642253-cassidy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1401370212p3/4642253.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1401370212p2/4642253.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 22 18:51:07 -0700 2011</created_at>
+  <updated_at>Fri Jul 22 18:51:07 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>33997028</id>
+  <body><![CDATA[Wow Cassidy! Thank you so much! Yeah this book was a complete head spin. Glad you enjoyed it. :)]]></body>
+  
+  <user>
+    <id>1746727</id>
+    <name>Arlene</name>
+    <display_name>Arlene</display_name>
+
+    <location>Los Angeles, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1746727-arlene]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1347048609p3/1746727.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1347048609p2/1746727.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 22 18:57:28 -0700 2011</created_at>
+  <updated_at>Fri Jul 22 18:57:28 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>34030204</id>
+  <body><![CDATA[<i>Cassidy wrote: "Literally every word you said in this review is completely perfect. You took every tangled thought from my mind and perfectly placed them here. Thank you for writing this, and thank you for underst..."</i><br /><br />I agree completely. I was such an emotional wreck after reading Mockingjay, it took me a while to start reading again. This book left me a little unhinged &amp; it might take years before I re-read this again. This is a great review &amp; I couldn't have said it better myself. ^_^]]></body>
+  
+  <user>
+    <id>4538004</id>
+    <name>Gracie</name>
+    <display_name>Gracie</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4538004-gracie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1361927233p3/4538004.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1361927233p2/4538004.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jul 23 14:37:26 -0700 2011</created_at>
+  <updated_at>Sat Jul 23 14:37:26 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>34049026</id>
+  <body><![CDATA[Thank you Gracie! I was emotionally spent after finishing this book too. I really want to read it again and it's been almost a year, but I'm still a bit hesitant. Still an amazing series IMHO. :)]]></body>
+  
+  <user>
+    <id>1746727</id>
+    <name>Arlene</name>
+    <display_name>Arlene</display_name>
+
+    <location>Los Angeles, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1746727-arlene]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1347048609p3/1746727.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1347048609p2/1746727.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jul 23 21:45:37 -0700 2011</created_at>
+  <updated_at>Sat Jul 23 21:45:37 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>35065433</id>
+  <body><![CDATA[Beautiful review. You perfectly described how I felt while reading, and how I feel right now having just finished reading Mockingjay. Every moment you pointed out was among my favorites as well.<br /><br /><i>''There were so many endearing moments in this book, such as Katniss’s Crazy Cat game, the moment she realized she needed Haymitch emotionally and he wrapped his arms around her, her revealing moment that Prim was no longer the little sister with the ducktail she need to tuck and protect, and her real or not real response to Peeta’s final question.'' </i><br /><br /> I'm exhausted emotionally...and like you I'm unsure if Katniss got the ending she deserved. I'm just glad she got the boy she deserved back...]]></body>
+  
+  <user>
+    <id>4845030</id>
+    <name>Micheline</name>
+    <display_name>Micheline</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4845030-micheline]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1434381852p3/4845030.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1434381852p2/4845030.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 11 20:50:07 -0700 2011</created_at>
+  <updated_at>Thu Aug 11 20:50:07 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>35068926</id>
+  <body><![CDATA[Thank you Micheline! I felt exactly the same way after I finished. I'm definitely happy with who she ended up with but what a ton of sacrifices she had to make. Emotional!! :)]]></body>
+  
+  <user>
+    <id>1746727</id>
+    <name>Arlene</name>
+    <display_name>Arlene</display_name>
+
+    <location>Los Angeles, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1746727-arlene]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1347048609p3/1746727.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1347048609p2/1746727.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 11 22:19:37 -0700 2011</created_at>
+  <updated_at>Thu Aug 11 22:19:37 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>35105681</id>
+  <body><![CDATA[My pleasure. The sacrifices were many and almost too painful to bear. I'm done reading and I still find myself thinking about the story, and mourning for all off Katniss' loss...like you said: emotional!]]></body>
+  
+  <user>
+    <id>4845030</id>
+    <name>Micheline</name>
+    <display_name>Micheline</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4845030-micheline]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1434381852p3/4845030.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1434381852p2/4845030.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 12 16:42:25 -0700 2011</created_at>
+  <updated_at>Fri Aug 12 16:42:25 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>35225980</id>
+  <body><![CDATA[Yes, I couldn't stop thinking about the book for a long time. I still to this day want to re-read it again, but the emotions were so intense that I just can't yet, but I still loved it to pieces. :)]]></body>
+  
+  <user>
+    <id>1746727</id>
+    <name>Arlene</name>
+    <display_name>Arlene</display_name>
+
+    <location>Los Angeles, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1746727-arlene]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1347048609p3/1746727.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1347048609p2/1746727.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 14 22:47:01 -0700 2011</created_at>
+  <updated_at>Sun Aug 14 22:47:01 -0700 2011</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/79909385]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/79909385]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

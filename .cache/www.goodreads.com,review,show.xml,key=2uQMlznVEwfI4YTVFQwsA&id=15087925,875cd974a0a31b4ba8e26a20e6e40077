@@ -1,0 +1,199 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:51:27 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: 1JP7VPXGTRQMTNSW5ETT
+etag: W/"cd40762933fee6b972a9b9fac415cfa1"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.193889
+set-cookie: csid=BAhJIhg2MjEtNjEzODA0My05Nzg3ODAyBjoGRVQ%3D--0b432340d1e34ceca0d851d77093f7b01d40c07a; path=/; expires=Tue, 12 May 2037 13:51:26 -0000, locale=es; path=/, _session_id2=5d2e8b9950982e6a741aee2377fd84c7; path=/; expires=Fri, 12 May 2017 19:51:27 -0000; HttpOnly
+content-length: 8104
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=15087925
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>15087925</id>
+    
+  <user>
+    <id>894544</id>
+    <name>Austin</name>
+    <display_name>Austin</display_name>
+
+    <location>Portland, OR</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/894544-austin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1202689683p3/894544.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1202689683p2/894544.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">30119</id>
+  <isbn>0060513039</isbn>
+  <isbn13>9780060513030</isbn13>
+  <text_reviews_count type="integer">8698</text_reviews_count>
+  <title>Where the Sidewalk Ends</title>
+  <title_without_series>Where the Sidewalk Ends</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1168052448m/30119.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1168052448s/30119.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/30119.Where_the_Sidewalk_Ends</link>
+  <num_pages>176</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Harpercollins Childrens Books</publisher>
+  <publication_day/>
+  <publication_year>2002</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4.28</average_rating>
+  <ratings_count>1010776</ratings_count>
+  <description>Where the Sidewalk Ends turns forty! Celebrate with this anniversary edition that features an eye-catching commemorative red sticker. This classic poetry collection, which is both outrageously funny and profound, has been the most beloved of Shel Silverstein's poetry books for generations.&lt;br /&gt;&lt;br /&gt;Where the sidewalk ends, Shel Silverstein's world begins. There you'll meet a boy who turns into a TV set and a girl who eats a whale. The Unicorn and the Bloath live there, and so does Sarah Cynthia Sylvia Stout who will not take the garbage out. It is a place where you wash your shadow and plant diamond gardens, a place where shoes fly, sisters are auctioned off, and crocodiles go to the dentist.&lt;br /&gt;&lt;br /&gt;Shel Silverstein's masterful collection of poems and drawings is one of Parent &amp;amp; Child magazine's 100 Greatest Books for Kids. School Library Journal said, "Silverstein has an excellent sense of rhythm and rhyme and a good ear for alliteration and assonance that make these poems a pleasure to read aloud."&lt;br /&gt;&lt;br /&gt;Shel Silverstein's incomparable career as a children's book author and illustrator began with Lafcadio, the Lion Who Shot Back. In 1964, Shel's creativity continued to flourish as four more books were published in the same year—Don't Bump the Glump!, A Giraffe and a Half, Who Wants a Cheap Rhinoceros?, and the beloved classic The Giving Tree. Later he continued to build his remarkable body of work with Where the Sidewalk Ends, A Light in the Attic, Falling Up, Every Thing On It, The Missing Piece, The Missing Piece Meets the Big O, and Runny Babbit.</description>
+<authors>
+<author>
+<id>435477</id>
+<name>Shel Silverstein</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201029128p5/435477.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201029128p2/435477.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/435477.Shel_Silverstein]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>2185897</ratings_count>
+<text_reviews_count>30409</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1410003389</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Tue Jun 28 00:44:48 -0700 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>47</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for>Everyone</recommended_for>
+  <recommended_by>Almost Everyone</recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Feb 10 16:31:37 -0800 2008</date_added>
+  <date_updated>Sat Dec 14 20:01:07 -0800 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Every child eventually discovers the perverted old man who wrote songs for Johnny Cash, did illustrations for Playboy, appeared on the <i>Dr. Demento</i> show numerous times, and managed to get a few books published along the way. <br /><br />For some reason, parents never seem to think this creepy old guy who was...]]>
+  </body>
+
+  
+
+  <comments_count>3</comments_count>
+    <comments start="1" end="3" total="3">
+        <comment>
+  <id>492895</id>
+  <body><![CDATA[More to the point, you should read his Adult-Oriented stuff (<i>Uncle Shelby's ABZ Book</i> comes to mind). I suspect that he was never really "for kids," but that some of his stuff got marketed that way. <br /><br />Just take a look as some of the stuff in any of these books. This isn't something that can be pigeonholed into either kids or adult reading. It is what it is, and I love it.<br /><br />]]></body>
+  
+  <user>
+    <id>894544</id>
+    <name>Austin</name>
+    <display_name>Austin</display_name>
+
+    <location>Portland, OR</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/894544-austin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1202689683p3/894544.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1202689683p2/894544.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Mar 08 15:41:12 -0800 2008</created_at>
+  <updated_at>Sat Mar 08 15:41:12 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>16520684</id>
+  <body><![CDATA[I agree with Austin; I read this book back so long ago when I was a kid, and while I loved it, I was freaked out by it at the same time.]]></body>
+  
+  <user>
+    <id>3677358</id>
+    <name>Ann</name>
+    <display_name>Ann Guess</display_name>
+
+    <location>Westmont, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3677358-ann-guess]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon May 10 20:44:48 -0700 2010</created_at>
+  <updated_at>Mon May 10 20:44:48 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>154693500</id>
+  <body><![CDATA[i need followers pas on to Patrick and you think about it]]></body>
+  
+  <user>
+    <id>58015088</id>
+    <name>Mrs C J Heron</name>
+    <display_name>Mrs C J Heron</display_name>
+
+    <location>Portugal</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/58015088-mrs-c-j-heron]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Jul 24 23:37:35 -0700 2016</created_at>
+  <updated_at>Sun Jul 24 23:37:35 -0700 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/15087925]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/15087925]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

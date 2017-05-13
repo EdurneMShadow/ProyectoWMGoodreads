@@ -1,0 +1,496 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:39:31 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: SG34QG6D7ZFA2J4YXSRW
+etag: W/"b20b873fc53f7ede5d6cda0d4c0bc22e"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.294695
+set-cookie: csid=BAhJIhg1NTMtMjY2Mjk5NS0xNzAxMDU3BjoGRVQ%3D--a143458b486c344488093f71ca515191e96a4ba1; path=/; expires=Tue, 12 May 2037 13:39:30 -0000, locale=es; path=/, _session_id2=e257eef091b310650edea41706d9d677; path=/; expires=Fri, 12 May 2017 19:39:31 -0000; HttpOnly
+content-length: 17935
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=101057673
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>101057673</id>
+    
+  <user>
+    <id>3672777</id>
+    <name>Nataliya</name>
+    <display_name>Nataliya</display_name>
+
+    <location>Sacramento, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3672777-nataliya]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1395089173p3/3672777.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1395089173p2/3672777.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">2660</id>
+  <isbn>044508376X</isbn>
+  <isbn13>9780445083769</isbn13>
+  <text_reviews_count type="integer">737</text_reviews_count>
+  <title>To Kill a Mockingbird (To Kill A Mockingbird #1)</title>
+  <title_without_series>To Kill a Mockingbird</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1333256514m/2660.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1333256514s/2660.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2660.To_Kill_a_Mockingbird</link>
+  <num_pages>281</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information>First Popular Library printing.</edition_information>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.25</average_rating>
+  <ratings_count>3269503</ratings_count>
+  <description>Harper Lee's classic novel of a lawyer in the Deep South defending a black man charged with the rape of a white girl.&lt;br /&gt;One of the best-loved stories of all time, To Kill a Mockingbird has earned many distinctions since its original publication in 1960. It won the Pulitzer Prize, has been translated into more than forty languages, sold more than thirty million copies worldwide, and been made into an enormously popular movie. Most recently, librarians across the country gave the book the highest of honors by voting it the best novel of the twentieth century.</description>
+<authors>
+<author>
+<id>1825</id>
+<name>Harper Lee</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1188820730p5/1825.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1188820730p2/1825.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1825.Harper_Lee]]></link>
+<average_rating>4.21</average_rating>
+<ratings_count>3434236</ratings_count>
+<text_reviews_count>95107</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>149</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="awesome-kickass-heroines" exclusive="false" review_shelf_id="98323014" sortable="false" />
+    <shelf name="pulitzer" exclusive="false" review_shelf_id="191609712" sortable="false" />
+    <shelf name="for-my-future-hypothetical-daughter" exclusive="false" review_shelf_id="197242150" sortable="false" />
+    <shelf name="favorites" exclusive="false" review_shelf_id="98322538" sortable="false" />
+    <shelf name="2015-reads" exclusive="false" review_shelf_id="900507019" sortable="false" />
+    <shelf name="i-also-saw-the-film" exclusive="false" review_shelf_id="196972559" sortable="false" />
+    <shelf name="my-childhood-bookshelves" exclusive="false" review_shelf_id="101995188" sortable="false" />
+    <shelf name="excellent-reads" exclusive="false" review_shelf_id="153983383" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Jan 31 00:00:00 -0800 2015</started_at>
+  <read_at>Mon Feb 23 00:00:00 -0800 2015</read_at>
+  <date_added>Sun May 02 19:39:11 -0700 2010</date_added>
+  <date_updated>Sat Aug 22 13:15:49 -0700 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Life gives you a few things that you can count on. Death (for all), taxes (for most), and the unwavering moral character of Atticus Finch (for me). "What would Atticus do?" is not just a meme; for eleven-year-old me it became a real consideration after I feigned an illness to cut school and stay...]]>
+  </body>
+
+  
+
+  <comments_count>16</comments_count>
+    <comments start="1" end="16" total="16">
+        <comment>
+  <id>114059621</id>
+  <body><![CDATA[Ooh! I can't wait to hear your opinions on this book!]]></body>
+  
+  <user>
+    <id>1169488</id>
+    <name>Ronyell</name>
+    <display_name>Ronyell</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1169488-ronyell]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1423803024p3/1169488.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1423803024p2/1169488.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Feb 04 18:45:01 -0800 2015</created_at>
+  <updated_at>Wed Feb 04 18:45:01 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>138886276</id>
+  <body><![CDATA[oh good dear]]></body>
+  
+  <user>
+    <id>46110354</id>
+    <name>Rajabalikapri</name>
+    <display_name>Rajabalikapri Raaz Kapri</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/46110354-rajabalikapri-raaz-kapri]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1439984383p3/46110354.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1439984383p2/46110354.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 19 04:48:18 -0700 2015</created_at>
+  <updated_at>Wed Aug 19 04:48:18 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>138947427</id>
+  <body><![CDATA[Fantastic review. Atticus Finch is an unforgettable character, a man to admire wholeheartedly. He was kind of the perfect father figure for me, when I was growing up, and it's nice to know he's influenced so many other people, too.]]></body>
+  
+  <user>
+    <id>5963260</id>
+    <name>KK</name>
+    <display_name>KK</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5963260-kk]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1494404454p3/5963260.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1494404454p2/5963260.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 20 10:15:36 -0700 2015</created_at>
+  <updated_at>Thu Aug 20 10:15:36 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>138947545</id>
+  <body><![CDATA[Thanks, KK.]]></body>
+  
+  <user>
+    <id>3672777</id>
+    <name>Nataliya</name>
+    <display_name>Nataliya</display_name>
+
+    <location>Sacramento, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3672777-nataliya]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1395089173p3/3672777.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1395089173p2/3672777.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 20 10:17:53 -0700 2015</created_at>
+  <updated_at>Thu Aug 20 10:17:53 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>138984795</id>
+  <body><![CDATA[Great review. I recently re-read, having not enjoyed it since I was young. Now, as a parent, my love for Atticus skyrocketed to whole new levels.]]></body>
+  
+  <user>
+    <id>1740304</id>
+    <name>Linda</name>
+    <display_name>Linda</display_name>
+
+    <location>Hayward, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1740304-linda]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1344432666p3/1740304.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1344432666p2/1740304.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 21 06:36:46 -0700 2015</created_at>
+  <updated_at>Fri Aug 21 06:36:46 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>138997084</id>
+  <body><![CDATA[Loved your review, Nataliya. I also love TKAM-I don't think I'll read the "sequel" because I don't want my relationship with Atticus tainted (yes, I feel as though Atticus and I have some kind of relationship after all the times I've read this book!).]]></body>
+  
+  <user>
+    <id>2908629</id>
+    <name>Ellie</name>
+    <display_name>Ellie</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2908629-ellie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1399799985p3/2908629.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1399799985p2/2908629.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 21 11:37:00 -0700 2015</created_at>
+  <updated_at>Fri Aug 21 11:37:00 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>139051868</id>
+  <body><![CDATA[Perfect review. You summed up my own feelings about the book wonderfully.]]></body>
+  
+  <user>
+    <id>6869471</id>
+    <name>Jenan</name>
+    <display_name>Jenan</display_name>
+
+    <location>Kuwait, 02, Kuwait</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6869471-jenan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1325531833p3/6869471.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1325531833p2/6869471.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 22 18:02:25 -0700 2015</created_at>
+  <updated_at>Sat Aug 22 18:02:25 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>139060812</id>
+  <body><![CDATA[Nataliya, Well this is a perfect review of a perfect book. I've had this book sitting on my book shelves for quite a few years now and must get around to reading it!]]></body>
+  
+  <user>
+    <id>15736557</id>
+    <name>Lynne</name>
+    <display_name>Lynne King</display_name>
+
+    <location>France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15736557-lynne-king]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1357126217p3/15736557.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1357126217p2/15736557.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 22 22:53:10 -0700 2015</created_at>
+  <updated_at>Sat Aug 22 22:53:10 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>139075460</id>
+  <body><![CDATA[Loved loved the angle you took with the review, Nataliya. It's the precocious child's way of taking stock of a prejudiced town and the moral failings of its residents that seals this work's status as a classic with enduring appeal. Marvelous review. <br /><br />I wish I had read this as a child.]]></body>
+  
+  <user>
+    <id>13266158</id>
+    <name>Samadrita</name>
+    <display_name>Samadrita</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13266158-samadrita]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1461258628p3/13266158.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1461258628p2/13266158.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 23 09:27:55 -0700 2015</created_at>
+  <updated_at>Sun Aug 23 09:27:55 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>139117716</id>
+  <body><![CDATA[I like this review a whole lot! The context and contrast you provide vis a vis <i>Watchman</i> is excellent. I liked your point about it being a great piece of writing beyond the simple message of respect, too. You've reminded me that a reread may be in order, and I say that about very few books.]]></body>
+  
+  <user>
+    <id>236411</id>
+    <name>Steve</name>
+    <display_name>Steve</display_name>
+
+    <location>Chicago, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/236411-steve]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291695844p3/236411.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291695844p2/236411.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 24 08:20:15 -0700 2015</created_at>
+  <updated_at>Mon Aug 24 08:20:15 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>144813408</id>
+  <body><![CDATA[Nice review!]]></body>
+  
+  <user>
+    <id>40305179</id>
+    <name>Fajer</name>
+    <display_name>Fajer</display_name>
+
+    <location>State College, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/40305179-fajer]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1446120059p3/40305179.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1446120059p2/40305179.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Dec 24 20:30:50 -0800 2015</created_at>
+  <updated_at>Thu Dec 24 20:30:50 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>144828454</id>
+  <body><![CDATA[<i>Fajer wrote: "Nice review!"</i><br /><br />Thanks!]]></body>
+  
+  <user>
+    <id>3672777</id>
+    <name>Nataliya</name>
+    <display_name>Nataliya</display_name>
+
+    <location>Sacramento, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3672777-nataliya]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1395089173p3/3672777.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1395089173p2/3672777.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Dec 25 11:26:26 -0800 2015</created_at>
+  <updated_at>Fri Dec 25 11:26:26 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>154336812</id>
+  <body><![CDATA[I've only just started this book and your review has really encouraged and me to see this book in a different light!]]></body>
+  
+  <user>
+    <id>51930809</id>
+    <name>Lucy</name>
+    <display_name>Lucy Allan</display_name>
+
+    <location>Brisbane, 04, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/51930809-lucy-allan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1476534276p3/51930809.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1476534276p2/51930809.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jul 17 14:08:38 -0700 2016</created_at>
+  <updated_at>Sun Jul 17 14:08:38 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>154639886</id>
+  <body><![CDATA[I loved the book. Scout is the little girl I wish to have and Atticus the perfect dad.]]></body>
+  
+  <user>
+    <id>18742603</id>
+    <name>Mihaela</name>
+    <display_name>Mihaela Baciu</display_name>
+
+    <location>Romania</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18742603-mihaela-baciu]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1364307527p3/18742603.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1364307527p2/18742603.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jul 23 12:04:45 -0700 2016</created_at>
+  <updated_at>Sat Jul 23 12:04:45 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159430327</id>
+  <body><![CDATA[<a target="_blank" href="https://www.indiegogo.com/projects/the-meanest-man-in-texas-film-love#/" rel="nofollow">https://www.indiegogo.com/projects/th...</a>]]></body>
+  
+  <user>
+    <id>61829768</id>
+    <name>Laura</name>
+    <display_name>Laura</display_name>
+
+    <location>Calabasas, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/61829768-laura]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 22 22:45:21 -0800 2016</created_at>
+  <updated_at>Tue Nov 22 22:45:21 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>164085471</id>
+  <body><![CDATA[Amazing and spot on review. I also bought go set a watchman but I can't bring myself to read it because I love the characters too much and it is supposed to shine an entirely different light on them. Not sure I could live with that.]]></body>
+  
+  <user>
+    <id>43042019</id>
+    <name>Sarah</name>
+    <display_name>Sarah</display_name>
+
+    <location>White Plains, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/43042019-sarah]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat Mar 18 18:10:34 -0700 2017</created_at>
+  <updated_at>Sat Mar 18 18:10:34 -0700 2017</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/101057673]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/101057673]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

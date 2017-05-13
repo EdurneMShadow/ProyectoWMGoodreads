@@ -1,0 +1,768 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:55:45 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: FM07Y0D9JY6PE2CM683V
+etag: W/"897f082cd3c05fab4bac15791a71b024"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.371704
+set-cookie: csid=BAhJIhgwMDYtODgwMzE2OC02NDI2NTA5BjoGRVQ%3D--a7d79e8b19e6967552c5cc08a11905a67861f24b; path=/; expires=Tue, 12 May 2037 13:55:45 -0000, locale=es; path=/, _session_id2=25dc96aec0ca4cb320cb66c3a08336f8; path=/; expires=Fri, 12 May 2017 19:55:45 -0000; HttpOnly
+content-length: 26761
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=1547520563
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1547520563</id>
+    
+  <user>
+    <id>29931457</id>
+    <name>Franco </name>
+    <display_name>Franco  Santos</display_name>
+
+    <location>Buenos Aires, Argentina</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/29931457-franco-santos]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1482108653p3/29931457.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1482108653p2/29931457.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">26083373</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <title>Frankenstein</title>
+  <title_without_series>Frankenstein</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1439328173m/26083373.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1439328173s/26083373.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/26083373-frankenstein</link>
+  <num_pages>329</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Penguin Clasicos</publisher>
+  <publication_day/>
+  <publication_year>2015</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.75</average_rating>
+  <ratings_count>861298</ratings_count>
+  <description>En 1816, Mary Shelley dio vida al que sería su personaje más famoso, el doctor Victor Frankenstein. La historia es bien conocida: un científico consigue crear una criatura a la que luego rechaza. Metáfora sobre la vida, la libertad y el amor, Frankenstein o el moderno Prometeo es una maravillosa fábula con todos los ingredientes de los grandes mitos.&lt;br /&gt;&lt;br /&gt;La presente edición se abre con una lúcida introducción de Alberto Manguel, titulada «La novia de Frankenstein», en la que el afamado escritor y crítico analiza el mito del monstruo y su influencia en la cultura contemporánea.</description>
+<authors>
+<author>
+<id>11139</id>
+<name>Mary Wollstonecraft Shelley</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p5/11139.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p2/11139.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/11139.Mary_Wollstonecraft_Shelley]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>884152</ratings_count>
+<text_reviews_count>20971</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1237227988</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Feb 14 12:53:48 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1236078740</id>
+          <old_status>read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Sat Feb 13 16:19:01 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1236078712</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sat Feb 13 16:18:59 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>143</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="libros-en-digital" exclusive="false" review_shelf_id="1225330974" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Feb 13 00:00:00 -0800 2016</started_at>
+  <read_at>Sun Feb 14 00:00:00 -0800 2016</read_at>
+  <date_added>Sat Feb 13 16:18:59 -0800 2016</date_added>
+  <date_updated>Mon Feb 15 22:22:25 -0800 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Mucho se ha hablado de <i>Frankenstein</i>. Se interpreta como una crítica al desarrollo científico, cuando este sobrepasa el curso natural de las cosas; se interpreta como una crítica a la religión y nuestra relación con Dios; hasta se ha dicho que es una alegoría a los miedos que surgen durante un emb...]]>
+  </body>
+
+  
+
+  <comments_count>27</comments_count>
+    <comments start="1" end="27" total="27">
+        <comment>
+  <id>147538621</id>
+  <body><![CDATA[Espero que lo disfrutes. Es mi libro favorito :)]]></body>
+  
+  <user>
+    <id>27906354</id>
+    <name>Versos Incoherentes </name>
+    <display_name>Versos Incoherentes </display_name>
+
+    <location>Bogotá, 34, Colombia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27906354-versos-incoherentes]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1481091829p3/27906354.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1481091829p2/27906354.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 13 16:45:28 -0800 2016</created_at>
+  <updated_at>Sat Feb 13 16:45:28 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>147539619</id>
+  <body><![CDATA[Este libro lo había leído de chico, y recuerdo que me gustó mucho. Ahora lo voy a releer porque no me acuerdo casi nada de la historia, jajaja]]></body>
+  
+  <user>
+    <id>29931457</id>
+    <name>Franco </name>
+    <display_name>Franco  Santos</display_name>
+
+    <location>Buenos Aires, Argentina</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/29931457-franco-santos]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1482108653p3/29931457.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1482108653p2/29931457.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 13 17:14:00 -0800 2016</created_at>
+  <updated_at>Sat Feb 13 17:14:00 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>147545711</id>
+  <body><![CDATA[bravo, buenísima re-elección!!]]></body>
+  
+  <user>
+    <id>21590911</id>
+    <name>Milly</name>
+    <display_name>Milly Cohen</display_name>
+
+    <location>Mexico, 09, Mexico</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/21590911-milly-cohen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442806007p3/21590911.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442806007p2/21590911.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 13 20:02:09 -0800 2016</created_at>
+  <updated_at>Sat Feb 13 20:02:09 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>147546003</id>
+  <body><![CDATA[Leí tu reseña y sé que te encantó!]]></body>
+  
+  <user>
+    <id>29931457</id>
+    <name>Franco </name>
+    <display_name>Franco  Santos</display_name>
+
+    <location>Buenos Aires, Argentina</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/29931457-franco-santos]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1482108653p3/29931457.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1482108653p2/29931457.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 13 20:12:11 -0800 2016</created_at>
+  <updated_at>Sat Feb 13 20:12:11 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>147577262</id>
+  <body><![CDATA[OYE Y DRACULA YA? ES OTRO QUE AMO!<br />MUY BUENA RESEÑA.]]></body>
+  
+  <user>
+    <id>21590911</id>
+    <name>Milly</name>
+    <display_name>Milly Cohen</display_name>
+
+    <location>Mexico, 09, Mexico</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/21590911-milly-cohen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442806007p3/21590911.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442806007p2/21590911.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 14 15:06:22 -0800 2016</created_at>
+  <updated_at>Sun Feb 14 15:06:22 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>147579207</id>
+  <body><![CDATA[Sí! He leído Drácula, y me encantó, también! Aunque Frankenstein me gustó más porque trata temas que me interesan :P]]></body>
+  
+  <user>
+    <id>29931457</id>
+    <name>Franco </name>
+    <display_name>Franco  Santos</display_name>
+
+    <location>Buenos Aires, Argentina</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/29931457-franco-santos]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1482108653p3/29931457.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1482108653p2/29931457.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 14 15:58:31 -0800 2016</created_at>
+  <updated_at>Sun Feb 14 15:58:31 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>147579230</id>
+  <body><![CDATA[ah, quizá yo sea más romántica entonces, jaja]]></body>
+  
+  <user>
+    <id>21590911</id>
+    <name>Milly</name>
+    <display_name>Milly Cohen</display_name>
+
+    <location>Mexico, 09, Mexico</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/21590911-milly-cohen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442806007p3/21590911.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442806007p2/21590911.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 14 15:59:10 -0800 2016</created_at>
+  <updated_at>Sun Feb 14 15:59:10 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>147580360</id>
+  <body><![CDATA[Drácula lo amé más que a Frankenstein, lo leí hace bastante y por más que me interesara la historia de Prometeo, un poco se me hizo pesado, pero tengo un buen recuerdo de Mary Shelley y Lord Byron, lástima que lo presté y nunca me lo regresaron :'(]]></body>
+  
+  <user>
+    <id>10301587</id>
+    <name><![CDATA[T h e  Q u e e n  O f  Y o u r  D r e a m s ]]></name>
+    <display_name><![CDATA[T h e  Q u e e n  O f  Y o u r  D r e a m s ]]></display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10301587-t-h-e-q-u-e-e-n-o-f-y-o-u-r-d-r-e-a-m-s]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1485133606p3/10301587.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1485133606p2/10301587.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 14 16:28:16 -0800 2016</created_at>
+  <updated_at>Sun Feb 14 16:28:16 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>147582380</id>
+  <body><![CDATA[Espero que puedas releerlo algún día. Estoy seguro de que la vas a disfrutar más! Generalmente las obras que te resultan pesadas en una primera lectura, en la segunda se te hacen mucho más ligeras. :P]]></body>
+  
+  <user>
+    <id>29931457</id>
+    <name>Franco </name>
+    <display_name>Franco  Santos</display_name>
+
+    <location>Buenos Aires, Argentina</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/29931457-franco-santos]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1482108653p3/29931457.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1482108653p2/29931457.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 14 17:23:30 -0800 2016</created_at>
+  <updated_at>Sun Feb 14 17:23:30 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>147584859</id>
+  <body><![CDATA[Seguramente!! ahora de grande quizás lo disfrute más. También aclaro que fue una lectura obligatoria, ojalá me lo hubiesen devuelto..Nunca más lo vi u.u]]></body>
+  
+  <user>
+    <id>10301587</id>
+    <name><![CDATA[T h e  Q u e e n  O f  Y o u r  D r e a m s ]]></name>
+    <display_name><![CDATA[T h e  Q u e e n  O f  Y o u r  D r e a m s ]]></display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10301587-t-h-e-q-u-e-e-n-o-f-y-o-u-r-d-r-e-a-m-s]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1485133606p3/10301587.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1485133606p2/10301587.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 14 18:32:21 -0800 2016</created_at>
+  <updated_at>Sun Feb 14 18:32:21 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>147585611</id>
+  <body><![CDATA[Uhh... Las lecturas obligatorias te matan el libro, es ley, jajaja]]></body>
+  
+  <user>
+    <id>29931457</id>
+    <name>Franco </name>
+    <display_name>Franco  Santos</display_name>
+
+    <location>Buenos Aires, Argentina</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/29931457-franco-santos]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1482108653p3/29931457.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1482108653p2/29931457.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 14 18:52:42 -0800 2016</created_at>
+  <updated_at>Sun Feb 14 18:52:42 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>147587429</id>
+  <body><![CDATA[Jajaja, tal cual!! y tengo unos cuantos a los que les di con un caño porque me los enchufaron de prepo en el colegio xD, como Ceremonia Secreta de Denevi.]]></body>
+  
+  <user>
+    <id>10301587</id>
+    <name><![CDATA[T h e  Q u e e n  O f  Y o u r  D r e a m s ]]></name>
+    <display_name><![CDATA[T h e  Q u e e n  O f  Y o u r  D r e a m s ]]></display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10301587-t-h-e-q-u-e-e-n-o-f-y-o-u-r-d-r-e-a-m-s]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1485133606p3/10301587.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1485133606p2/10301587.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 14 19:41:25 -0800 2016</created_at>
+  <updated_at>Sun Feb 14 19:41:25 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>147587568</id>
+  <body><![CDATA[Genial reseña. Un saludo!]]></body>
+  
+  <user>
+    <id>18070164</id>
+    <name>Gala</name>
+    <display_name>Gala</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18070164-gala]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1469983745p3/18070164.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1469983745p2/18070164.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 14 19:45:51 -0800 2016</created_at>
+  <updated_at>Sun Feb 14 19:45:51 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>147591879</id>
+  <body><![CDATA[Muchas gracias, Gala! :-) Un saludo.]]></body>
+  
+  <user>
+    <id>29931457</id>
+    <name>Franco </name>
+    <display_name>Franco  Santos</display_name>
+
+    <location>Buenos Aires, Argentina</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/29931457-franco-santos]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1482108653p3/29931457.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1482108653p2/29931457.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 14 22:23:53 -0800 2016</created_at>
+  <updated_at>Sun Feb 14 22:23:53 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>147594314</id>
+  <body><![CDATA[Excelente reseña :)]]></body>
+  
+  <user>
+    <id>45487389</id>
+    <name>Layla ✷ Praise the sun ✷</name>
+    <display_name>Layla ✷ Praise the sun ✷</display_name>
+
+    <location>Germany</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/45487389-layla-praise-the-sun]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1481226162p3/45487389.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1481226162p2/45487389.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 15 00:41:32 -0800 2016</created_at>
+  <updated_at>Mon Feb 15 00:41:32 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>147596504</id>
+  <body><![CDATA[Jo, qué reseña, ¡qué ganas de leerlo!]]></body>
+  
+  <user>
+    <id>29796820</id>
+    <name>Truncarlos</name>
+    <display_name>Truncarlos</display_name>
+
+    <location>Madrid, 29, Spain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/29796820-truncarlos]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1395254827p3/29796820.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1395254827p2/29796820.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 15 03:00:30 -0800 2016</created_at>
+  <updated_at>Mon Feb 15 03:00:30 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>147606395</id>
+  <body><![CDATA[<i>LaylaNoir wrote: "Excelente reseña :)"</i><br /><br />Muchas gracias :)]]></body>
+  
+  <user>
+    <id>29931457</id>
+    <name>Franco </name>
+    <display_name>Franco  Santos</display_name>
+
+    <location>Buenos Aires, Argentina</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/29931457-franco-santos]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1482108653p3/29931457.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1482108653p2/29931457.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 15 08:19:22 -0800 2016</created_at>
+  <updated_at>Mon Feb 15 08:19:22 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>147606430</id>
+  <body><![CDATA[<i>Truncarlos wrote: "Jo, qué reseña, ¡qué ganas de leerlo!"</i><br /><br />Estoy seguro de que te va a encantar. No tiene nada que ver con sus "adaptaciones"]]></body>
+  
+  <user>
+    <id>29931457</id>
+    <name>Franco </name>
+    <display_name>Franco  Santos</display_name>
+
+    <location>Buenos Aires, Argentina</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/29931457-franco-santos]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1482108653p3/29931457.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1482108653p2/29931457.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 15 08:20:00 -0800 2016</created_at>
+  <updated_at>Mon Feb 15 08:20:00 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>147613542</id>
+  <body><![CDATA[Ojalá te guste tanto como a mí, Nico! Espero tu reseña. :P Saludos!]]></body>
+  
+  <user>
+    <id>29931457</id>
+    <name>Franco </name>
+    <display_name>Franco  Santos</display_name>
+
+    <location>Buenos Aires, Argentina</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/29931457-franco-santos]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1482108653p3/29931457.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1482108653p2/29931457.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 15 10:53:13 -0800 2016</created_at>
+  <updated_at>Mon Feb 15 10:53:13 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>147676753</id>
+  <body><![CDATA[me encanto tu reseña, ya quiero leerlo]]></body>
+  
+  <user>
+    <id>43857119</id>
+    <name>Libicni</name>
+    <display_name>Libicni</display_name>
+
+    <location>Maracaibo, Zulia, Venezuela</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/43857119-libicni]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483015454p3/43857119.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483015454p2/43857119.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 16 14:39:39 -0800 2016</created_at>
+  <updated_at>Tue Feb 16 14:39:39 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>147677574</id>
+  <body><![CDATA[<i>Libicni wrote: "me encanto tu reseña, ya quiero leerlo"</i><br /><br />Espero que te guste tanto como a mí :-)]]></body>
+  
+  <user>
+    <id>29931457</id>
+    <name>Franco </name>
+    <display_name>Franco  Santos</display_name>
+
+    <location>Buenos Aires, Argentina</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/29931457-franco-santos]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1482108653p3/29931457.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1482108653p2/29931457.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 16 14:56:27 -0800 2016</created_at>
+  <updated_at>Tue Feb 16 14:56:27 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>147800667</id>
+  <body><![CDATA[Me ha encantado tu reseña. A mí también me gustó mucho.<br />Saludos :)]]></body>
+  
+  <user>
+    <id>47047013</id>
+    <name>Andrea</name>
+    <display_name>Andrea</display_name>
+
+    <location>Valencia, 60, Spain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/47047013-andrea]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 19 05:54:20 -0800 2016</created_at>
+  <updated_at>Fri Feb 19 05:54:20 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>147831765</id>
+  <body><![CDATA[<i>Andrea wrote: "Me ha encantado tu reseña. A mí también me gustó mucho.<br />Saludos :)"</i><br /><br />Me alegra que te haya gustado. :) Saludos!]]></body>
+  
+  <user>
+    <id>29931457</id>
+    <name>Franco </name>
+    <display_name>Franco  Santos</display_name>
+
+    <location>Buenos Aires, Argentina</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/29931457-franco-santos]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1482108653p3/29931457.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1482108653p2/29931457.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 19 19:08:55 -0800 2016</created_at>
+  <updated_at>Fri Feb 19 19:08:55 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159257992</id>
+  <body><![CDATA[Excelente reseña]]></body>
+  
+  <user>
+    <id>25353295</id>
+    <name>Carmen</name>
+    <display_name>Carmen</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25353295-carmen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1412617445p3/25353295.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1412617445p2/25353295.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 18 09:06:17 -0800 2016</created_at>
+  <updated_at>Fri Nov 18 09:06:17 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159487625</id>
+  <body><![CDATA[<i>Carmen wrote: "Excelente reseña"</i><br /><br />Muchas gracias, Carmen! :)]]></body>
+  
+  <user>
+    <id>29931457</id>
+    <name>Franco </name>
+    <display_name>Franco  Santos</display_name>
+
+    <location>Buenos Aires, Argentina</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/29931457-franco-santos]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1482108653p3/29931457.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1482108653p2/29931457.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Nov 24 14:19:38 -0800 2016</created_at>
+  <updated_at>Thu Nov 24 14:19:38 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159532968</id>
+  <body><![CDATA[]]></body>
+  
+  <user>
+    <id>46432812</id>
+    <name>Rusia666</name>
+    <display_name>Rusia666</display_name>
+
+    <location>Madrid, Spain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/46432812-rusia666]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1440862360p3/46432812.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1440862360p2/46432812.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Nov 26 03:16:31 -0800 2016</created_at>
+  <updated_at>Sat Nov 26 03:16:31 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>162245625</id>
+  <body><![CDATA[los dos puntos que tus destacas son lo que mas me llego de este libro esa desesperación que en cierta forma tiene el ser humano por SER AMADO y a la vez el egoísmo que implica el querer tan enardecida-mente este sentimiento por parte de otra persona.]]></body>
+  
+  <user>
+    <id>34210903</id>
+    <name>- Fey -</name>
+    <display_name>- Fey - Es</display_name>
+
+    <location><![CDATA[San Juan de los Morros, Venezuela]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34210903---fey---es]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1466289460p3/34210903.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1466289460p2/34210903.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Feb 01 08:28:14 -0800 2017</created_at>
+  <updated_at>Wed Feb 01 08:28:14 -0800 2017</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1547520563]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1547520563]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

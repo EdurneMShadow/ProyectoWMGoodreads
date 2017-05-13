@@ -1,0 +1,783 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:51:15 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: RCZ27WWPCDBBRD1BVFBZ
+etag: W/"df3dea154f5816a0a3f249bc4ae2edb0"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.322296
+set-cookie: csid=BAhJIhg5NDMtODExMTcxNi0zODIxOTQ5BjoGRVQ%3D--d5c80999ba232db01c1d7176dbe3d0819e53b815; path=/; expires=Tue, 12 May 2037 13:51:15 -0000, locale=es; path=/, _session_id2=496498c4746b59a1a9f3106c3f1135c0; path=/; expires=Fri, 12 May 2017 19:51:15 -0000; HttpOnly
+content-length: 28147
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=161525997
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>161525997</id>
+    
+  <user>
+    <id>4800103</id>
+    <name>Giselle</name>
+    <display_name>Giselle</display_name>
+
+    <location> NB, Canada, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4800103-giselle]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1310159877p3/4800103.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1310159877p2/4800103.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">6990472</id>
+  <isbn>014241543X</isbn>
+  <isbn13>9780142415436</isbn13>
+  <text_reviews_count type="integer">3750</text_reviews_count>
+  <title>If I Stay (If I Stay, #1)</title>
+  <title_without_series>If I Stay</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1311702290m/6990472.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1311702290s/6990472.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6990472-if-i-stay</link>
+  <num_pages>261</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Speak</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.96</average_rating>
+  <ratings_count>549628</ratings_count>
+  <description>The critically acclaimed, bestselling novel from Gayle Forman, author of Where She Went, Just One Day, and Just One Year. &lt;br /&gt;Soon to be a major motion picture, starring Chloe Moretz!&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;In the blink of an eye everything changes. Seventeen year-old Mia has no memory of the accident; she can only recall what happened afterwards, watching her own damaged body being taken from the wreck. Little by little she struggles to put together the pieces- to figure out what she has lost, what she has left, and the very difficult choice she must make. Heartwrenchingly beautiful, this will change the way you look at life, love, and family. Now a major motion picture starring Chloe Grace Moretz, Mia's story will stay with you for a long, long time. &lt;br /&gt;" &lt;br /&gt;</description>
+<authors>
+<author>
+<id>295178</id>
+<name>Gayle Forman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1472502468p5/295178.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1472502468p2/295178.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/295178.Gayle_Forman]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>966486</ratings_count>
+<text_reviews_count>78890</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">6922270</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Tue Apr 30 15:03:14 -0700 2013</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">6922260</id>
+          <old_status>read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Tue Apr 30 15:03:11 -0700 2013</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>4</rating>
+  <votes>47</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="audiobook" exclusive="false" review_shelf_id="404524826" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Apr 12 00:00:00 -0700 2013</started_at>
+  <read_at>Mon Apr 15 00:00:00 -0700 2013</read_at>
+  <date_added>Sat Apr 16 16:17:34 -0700 2011</date_added>
+  <date_updated>Tue Apr 07 07:55:17 -0700 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[A powerfully emotional novel, If I Stay is a journey through life and death, in the eyes of a young girl who has lost just about everything. <br /><br />After a disastrous car accident, Mia finds herself looking down at her own battered body, barely alive. This is one case where, immediately, you get a feel...]]>
+  </body>
+
+  
+
+  <comments_count>28</comments_count>
+    <comments start="1" end="28" total="28">
+        <comment>
+  <id>72152348</id>
+  <body><![CDATA[I love this book, and loved the narrator. Fantastic! The sequel (Where She Went) is really great on audio too.]]></body>
+  
+  <user>
+    <id>2338442</id>
+    <name>Katie</name>
+    <display_name>Katie</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2338442-katie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1357059787p3/2338442.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1357059787p2/2338442.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Apr 15 16:23:12 -0700 2013</created_at>
+  <updated_at>Mon Apr 15 16:23:12 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>72152764</id>
+  <body><![CDATA[I can't wait to read this! It looks so good! Glad you enjoyed it! :D]]></body>
+  
+  <user>
+    <id>7087374</id>
+    <name><![CDATA[Stellar (Books, a Coffee, and a Sleepy Kitty)]]></name>
+    <display_name><![CDATA[Stellar (Books, a Coffee, and a Sleepy Kitty)]]></display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7087374-stellar-books-a-coffee-and-a-sleepy-kitty]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1360619588p3/7087374.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1360619588p2/7087374.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Apr 15 16:29:14 -0700 2013</created_at>
+  <updated_at>Mon Apr 15 16:29:14 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>72153164</id>
+  <body><![CDATA[Great review! Liked the second one even better!!!]]></body>
+  
+  <user>
+    <id>11284813</id>
+    <name>Christy</name>
+    <display_name>Christy</display_name>
+
+    <location>Fairfield, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11284813-christy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1415390359p3/11284813.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1415390359p2/11284813.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Apr 15 16:35:18 -0700 2013</created_at>
+  <updated_at>Mon Apr 15 16:35:18 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>72155276</id>
+  <body><![CDATA[I keep hearing the 2nd one is better! I just put it on hold at my library! :D]]></body>
+  
+  <user>
+    <id>4800103</id>
+    <name>Giselle</name>
+    <display_name>Giselle</display_name>
+
+    <location> NB, Canada, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4800103-giselle]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1310159877p3/4800103.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1310159877p2/4800103.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Apr 15 17:05:14 -0700 2013</created_at>
+  <updated_at>Mon Apr 15 17:05:14 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>72169092</id>
+  <body><![CDATA[Beautiful review, Giselle! I'm a little scared about the movie adaptation though. I hope you love Where She Went. It's stunning.:)]]></body>
+  
+  <user>
+    <id>6515737</id>
+    <name>Sarah Marie</name>
+    <display_name>Sarah Marie</display_name>
+
+    <location>Youngsville, LA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6515737-sarah-marie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1489954164p3/6515737.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1489954164p2/6515737.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Apr 15 20:11:42 -0700 2013</created_at>
+  <updated_at>Mon Apr 15 20:11:42 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>72208985</id>
+  <body><![CDATA[The movie could be a hit or miss but... with such a monologue heavy story and lots of emotion I'm not going to expect much on screen.]]></body>
+  
+  <user>
+    <id>4800103</id>
+    <name>Giselle</name>
+    <display_name>Giselle</display_name>
+
+    <location> NB, Canada, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4800103-giselle]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1310159877p3/4800103.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1310159877p2/4800103.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Apr 16 13:01:48 -0700 2013</created_at>
+  <updated_at>Tue Apr 16 13:01:48 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>72214781</id>
+  <body><![CDATA[I'm not too excited for it. It seems like one of those books that just shouldn't be a movie because it's far too good to be made into one. I agree the monologue makes up so much of the story. Although maybe it'll be good. I was worried about The Perks of Being a Wallflower, but the movie was amazing. *fingers crossed*]]></body>
+  
+  <user>
+    <id>6515737</id>
+    <name>Sarah Marie</name>
+    <display_name>Sarah Marie</display_name>
+
+    <location>Youngsville, LA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6515737-sarah-marie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1489954164p3/6515737.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1489954164p2/6515737.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Apr 16 14:31:46 -0700 2013</created_at>
+  <updated_at>Tue Apr 16 14:31:46 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>72257212</id>
+  <body><![CDATA[Fantastic review. I agree with the others in that while I loved this one and how original it was, the second one was even better and somehow more emotional. <br /><br />Hey, if you 'read' a lot of audiobooks, I'd love any recs you could toss my way. I have a hard time finding good narrators along with good stories.]]></body>
+  
+  <user>
+    <id>2204947</id>
+    <name>Duchess Nicole</name>
+    <display_name>Duchess Nicole</display_name>
+
+    <location>Fort Worth, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2204947-duchess-nicole]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487190669p3/2204947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487190669p2/2204947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Apr 17 06:31:35 -0700 2013</created_at>
+  <updated_at>Wed Apr 17 06:31:35 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73216903</id>
+  <body><![CDATA[@Sarah Mari: I heard that The Perks of Being a Wallflower was actually better than the book! So rare! I hope they get good actors for this one it will be needed!<br /><br />@Duchess Nicole: Thanks, Nicole! I just started the 2nd one yesterday and so far I really like it! As for audiobooks, Before I Fall by Lauren Oliver was fantastic, same as White Cat (narrated by Jesse Eisenberg!), Cracked up to Be by Courtney Summers. I also really liked Gone Girl on audio if you listen to adult novels too! Oh and Ready Player One!]]></body>
+  
+  <user>
+    <id>4800103</id>
+    <name>Giselle</name>
+    <display_name>Giselle</display_name>
+
+    <location> NB, Canada, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4800103-giselle]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1310159877p3/4800103.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1310159877p2/4800103.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed May 01 06:35:11 -0700 2013</created_at>
+  <updated_at>Wed May 01 06:35:11 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73217109</id>
+  <body><![CDATA[Awesome, thanks for the recs! I put in a request for a couple of them from the library, yay!! I've heard Ready Player One was great.]]></body>
+  
+  <user>
+    <id>2204947</id>
+    <name>Duchess Nicole</name>
+    <display_name>Duchess Nicole</display_name>
+
+    <location>Fort Worth, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2204947-duchess-nicole]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487190669p3/2204947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487190669p2/2204947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed May 01 06:39:27 -0700 2013</created_at>
+  <updated_at>Wed May 01 06:39:27 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73217237</id>
+  <body><![CDATA[Yay! RPO is one of the most unique stories I've read! It's a dystopian/futuristic book but so unlike any others out there--if, like me, you're tired of the genre ;) Hope you like it! :)]]></body>
+  
+  <user>
+    <id>4800103</id>
+    <name>Giselle</name>
+    <display_name>Giselle</display_name>
+
+    <location> NB, Canada, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4800103-giselle]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1310159877p3/4800103.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1310159877p2/4800103.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed May 01 06:42:05 -0700 2013</created_at>
+  <updated_at>Wed May 01 06:42:05 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73217447</id>
+  <body><![CDATA[I can guarantee you that The Perks of Being a Wallflower was indeed better than the book. AND I hope If I Stay will have amazing actors to do it justice as well:-)]]></body>
+  
+  <user>
+    <id>7399193</id>
+    <name><![CDATA[Siiri (Little Pieces of Imagination)]]></name>
+    <display_name><![CDATA[Siiri (Little Pieces of Imagination)]]></display_name>
+
+    <location>Estonia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7399193-siiri-little-pieces-of-imagination]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1326300005p3/7399193.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1326300005p2/7399193.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed May 01 06:46:39 -0700 2013</created_at>
+  <updated_at>Wed May 01 06:46:39 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73217971</id>
+  <body><![CDATA[I know Jenni read the book and she wasn't impressed at all but then she really enjoyed the movie. I can only think of 1 other movie that was better than the book--The Notebook.]]></body>
+  
+  <user>
+    <id>4800103</id>
+    <name>Giselle</name>
+    <display_name>Giselle</display_name>
+
+    <location> NB, Canada, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4800103-giselle]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1310159877p3/4800103.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1310159877p2/4800103.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed May 01 06:57:16 -0700 2013</created_at>
+  <updated_at>Wed May 01 06:57:16 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73261932</id>
+  <body><![CDATA[Yet again, your review makes me really want to read this book!]]></body>
+  
+  <user>
+    <id>7878810</id>
+    <name>Heather</name>
+    <display_name>Heather</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7878810-heather]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1394629175p3/7878810.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1394629175p2/7878810.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed May 01 18:57:26 -0700 2013</created_at>
+  <updated_at>Wed May 01 18:57:26 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73262582</id>
+  <body><![CDATA[<i>Heather wrote: "Yet again, your review makes me really want to read this book!"</i><br /><br />It's such a good book and it's really short too. I'm reading the sequel now and it's even better!]]></body>
+  
+  <user>
+    <id>4800103</id>
+    <name>Giselle</name>
+    <display_name>Giselle</display_name>
+
+    <location> NB, Canada, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4800103-giselle]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1310159877p3/4800103.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1310159877p2/4800103.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed May 01 19:07:38 -0700 2013</created_at>
+  <updated_at>Wed May 01 19:07:38 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73270583</id>
+  <body><![CDATA[I loved this series. The second book is just as good.]]></body>
+  
+  <user>
+    <id>7484900</id>
+    <name>Rebecca</name>
+    <display_name>Rebecca</display_name>
+
+    <location>Burlington, WI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7484900-rebecca]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1327099000p3/7484900.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1327099000p2/7484900.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed May 01 22:08:12 -0700 2013</created_at>
+  <updated_at>Wed May 01 22:08:12 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73328459</id>
+  <body><![CDATA[Chloe Moretz (I'm not sure how to spell it) is up for Mia right now. <br><span>[image error]</span><br>I personally don't see her as Mia, but we can't have everything when it comes to movies.]]></body>
+  
+  <user>
+    <id>6515737</id>
+    <name>Sarah Marie</name>
+    <display_name>Sarah Marie</display_name>
+
+    <location>Youngsville, LA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6515737-sarah-marie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1489954164p3/6515737.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1489954164p2/6515737.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 02 19:21:26 -0700 2013</created_at>
+  <updated_at>Thu May 02 19:21:26 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73329367</id>
+  <body><![CDATA[Hmmm. I guess it could be worse. Is she a good actress?]]></body>
+  
+  <user>
+    <id>4800103</id>
+    <name>Giselle</name>
+    <display_name>Giselle</display_name>
+
+    <location> NB, Canada, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4800103-giselle]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1310159877p3/4800103.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1310159877p2/4800103.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 02 19:35:26 -0700 2013</created_at>
+  <updated_at>Thu May 02 19:35:26 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73329610</id>
+  <body><![CDATA[YES.]]></body>
+  
+  <user>
+    <id>5206717</id>
+    <name>Blythe</name>
+    <display_name>Blythe</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5206717-blythe]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1353100687p3/5206717.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1353100687p2/5206717.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 02 19:39:15 -0700 2013</created_at>
+  <updated_at>Thu May 02 19:39:15 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73329658</id>
+  <body><![CDATA[I've seen a few movies with her in it, but she's just starting to get leading roles. She's playing in Carrie (the most recent remake) as Carrie. I think I'll judge her acting abilities once I see it.]]></body>
+  
+  <user>
+    <id>6515737</id>
+    <name>Sarah Marie</name>
+    <display_name>Sarah Marie</display_name>
+
+    <location>Youngsville, LA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6515737-sarah-marie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1489954164p3/6515737.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1489954164p2/6515737.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 02 19:40:05 -0700 2013</created_at>
+  <updated_at>Thu May 02 19:40:05 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73329712</id>
+  <body><![CDATA[I loved her in Kick-Ass, and she looks like she'll be amazing as Carrie.]]></body>
+  
+  <user>
+    <id>5206717</id>
+    <name>Blythe</name>
+    <display_name>Blythe</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5206717-blythe]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1353100687p3/5206717.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1353100687p2/5206717.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 02 19:40:58 -0700 2013</created_at>
+  <updated_at>Thu May 02 19:40:58 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73330906</id>
+  <body><![CDATA[Ooh Carrie! I so can't wait for that movie that was one of my fav horrors!]]></body>
+  
+  <user>
+    <id>4800103</id>
+    <name>Giselle</name>
+    <display_name>Giselle</display_name>
+
+    <location> NB, Canada, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4800103-giselle]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1310159877p3/4800103.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1310159877p2/4800103.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 02 20:03:16 -0700 2013</created_at>
+  <updated_at>Thu May 02 20:03:16 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73331574</id>
+  <body><![CDATA[@ Blythe: I can't remember her at all from Kick-Ass, but then again I saw the movie forever ago so that's probably why. <br /><br />I love Carrie and I'm hoping that this one is actually better than the original movie because as a movie the original is great, but compared to the book it's horrible.]]></body>
+  
+  <user>
+    <id>6515737</id>
+    <name>Sarah Marie</name>
+    <display_name>Sarah Marie</display_name>
+
+    <location>Youngsville, LA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6515737-sarah-marie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1489954164p3/6515737.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1489954164p2/6515737.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 02 20:14:26 -0700 2013</created_at>
+  <updated_at>Thu May 02 20:14:26 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73331717</id>
+  <body><![CDATA[Is it? I've never actually read the book!]]></body>
+  
+  <user>
+    <id>4800103</id>
+    <name>Giselle</name>
+    <display_name>Giselle</display_name>
+
+    <location> NB, Canada, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4800103-giselle]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1310159877p3/4800103.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1310159877p2/4800103.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 02 20:17:43 -0700 2013</created_at>
+  <updated_at>Thu May 02 20:17:43 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73336940</id>
+  <body><![CDATA[I love this book!!! :)]]></body>
+  
+  <user>
+    <id>10758396</id>
+    <name>Mady</name>
+    <display_name>Mady</display_name>
+
+    <location>Bangkok, Thailand</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10758396-mady]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1433229272p3/10758396.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1433229272p2/10758396.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 02 22:49:19 -0700 2013</created_at>
+  <updated_at>Thu May 02 22:49:19 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73447627</id>
+  <body><![CDATA[The book is so good. I read the book when I was in the sixth grade. It was my second King book, but IMO I think it was the best even though it was his first.]]></body>
+  
+  <user>
+    <id>6515737</id>
+    <name>Sarah Marie</name>
+    <display_name>Sarah Marie</display_name>
+
+    <location>Youngsville, LA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6515737-sarah-marie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1489954164p3/6515737.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1489954164p2/6515737.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 04 17:57:21 -0700 2013</created_at>
+  <updated_at>Sat May 04 17:57:21 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>77371929</id>
+  <body><![CDATA[Where can i download audioboks.?]]></body>
+  
+  <user>
+    <id>21493222</id>
+    <name>Kassie</name>
+    <display_name>Kassie Segovia</display_name>
+
+    <location>Bagumbayan, 05, Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/21493222-kassie-segovia]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1371741163p3/21493222.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1371741163p2/21493222.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jun 30 11:24:13 -0700 2013</created_at>
+  <updated_at>Sun Jun 30 11:24:13 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>77400597</id>
+  <body><![CDATA[You can find them at your online library if you have one (and I think all states and provinces do), or you can go through audible.]]></body>
+  
+  <user>
+    <id>4800103</id>
+    <name>Giselle</name>
+    <display_name>Giselle</display_name>
+
+    <location> NB, Canada, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4800103-giselle]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1310159877p3/4800103.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1310159877p2/4800103.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jun 30 18:38:59 -0700 2013</created_at>
+  <updated_at>Sun Jun 30 18:38:59 -0700 2013</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/161525997]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/161525997]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

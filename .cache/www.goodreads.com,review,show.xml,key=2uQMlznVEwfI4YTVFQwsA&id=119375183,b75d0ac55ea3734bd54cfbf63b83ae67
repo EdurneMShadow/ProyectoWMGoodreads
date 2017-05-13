@@ -1,0 +1,715 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:44:39 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: 9V3KTXPGHHWSFK4RJ3GJ
+etag: W/"e8059c58be96d4b331dc72f9b884a78d"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.289622
+set-cookie: csid=BAhJIhg1MTEtNjE4NjgxNS0xNTY1Njg0BjoGRVQ%3D--e0d102fc3ed76922cce8a050c5a335c8bb895005; path=/; expires=Tue, 12 May 2037 13:44:39 -0000, locale=es; path=/, _session_id2=1d43b5c31265ac24c8d8e43099df71b5; path=/; expires=Fri, 12 May 2017 19:44:39 -0000; HttpOnly
+content-length: 28669
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=119375183
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>119375183</id>
+    
+  <user>
+    <id>1882788</id>
+    <name>Tessa</name>
+    <display_name>Tessa</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1882788-tessa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1331773723p3/1882788.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1331773723p2/1882788.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">2767052</id>
+  <isbn>0439023483</isbn>
+  <isbn13>9780439023481</isbn13>
+  <text_reviews_count type="integer">140650</text_reviews_count>
+  <title>The Hunger Games (The Hunger Games, #1)</title>
+  <title_without_series>The Hunger Games</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1447303603m/2767052.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1447303603s/2767052.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2767052-the-hunger-games</link>
+  <num_pages>374</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First Edition</edition_information>
+  <publisher>Scholastic Press</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.35</average_rating>
+  <ratings_count>4802886</ratings_count>
+  <description>&lt;b&gt;Winning will make you famous. &lt;br /&gt;Losing means certain death.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;The nation of Panem, formed from a post-apocalyptic North America, is a country that consists of a wealthy Capitol region surrounded by 12 poorer districts. Early in its history, a rebellion led by a 13th district against the Capitol resulted in its destruction and the creation of an annual televised event known as the Hunger Games. In punishment, and as a reminder of the power and grace of the Capitol, each district must yield one boy and one girl between the ages of 12 and 18 through a lottery system to participate in the games. The 'tributes' are chosen during the annual Reaping and are forced to fight to the death, leaving only one survivor to claim victory.&lt;br /&gt;&lt;br /&gt;When 16-year-old Katniss's young sister, Prim, is selected as District 12's female representative, Katniss volunteers to take her place. She and her male counterpart Peeta, are pitted against bigger, stronger representatives, some of whom have trained for this their whole lives. , she sees it as a death sentence. But Katniss has been close to death before. For her, survival is second nature.</description>
+<authors>
+<author>
+<id>153394</id>
+<name>Suzanne Collins</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1394819770p5/153394.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1394819770p2/153394.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/153394.Suzanne_Collins]]></link>
+<average_rating>4.27</average_rating>
+<ratings_count>8960954</ratings_count>
+<text_reviews_count>356106</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1241795611</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Wed Feb 17 15:30:38 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>3</rating>
+  <votes>181</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="fiction" exclusive="false" review_shelf_id="69231232" sortable="false" />
+    <shelf name="dystopian" exclusive="false" review_shelf_id="69231231" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by>Jameson Marriott</recommended_by>
+  <started_at>Mon Aug 30 00:00:00 -0700 2010</started_at>
+  <read_at>Wed Sep 01 00:00:00 -0700 2010</read_at>
+  <date_added>Mon Aug 30 21:52:05 -0700 2010</date_added>
+  <date_updated>Tue Jan 07 17:40:48 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I sat down to this book prepared to be captivated in its pages. But I was disappointed. I was always expecting that finally the author would show her genius and knock me off my feet. But it never happened. Yes, it was exciting and entertaining. But it wasn't a truly great book. <br /><br />I could not stop c...]]>
+  </body>
+
+  
+
+  <comments_count>26</comments_count>
+    <comments start="1" end="26" total="26">
+        <comment>
+  <id>20716202</id>
+  <body><![CDATA[I'm impressed with your thoughtful review. You have a good mind!]]></body>
+  
+  <user>
+    <id>2013504</id>
+    <name>Marjean</name>
+    <display_name>Marjean</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2013504-marjean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1302664309p3/2013504.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1302664309p2/2013504.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Sep 07 07:17:04 -0700 2010</created_at>
+  <updated_at>Tue Sep 07 07:17:04 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>39197588</id>
+  <body><![CDATA[Very thoughtful review! I'm afraid the things you didn't like show themselves even more clearly in the two books to come.]]></body>
+  
+  <user>
+    <id>1473709</id>
+    <name>Amy</name>
+    <display_name>Amy</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1473709-amy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1220154796p3/1473709.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1220154796p2/1473709.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Oct 30 02:06:21 -0700 2011</created_at>
+  <updated_at>Sun Oct 30 02:06:21 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>41628936</id>
+  <body><![CDATA[I so agree with you. Brave New World and Lord of the Flies also come to mind. The story's value is entertainment only. I feel a wonderful opportunity to give more than that to tweens and young adults has been wasted. Such a shame.]]></body>
+  
+  <user>
+    <id>7085932</id>
+    <name>Jo</name>
+    <display_name>Jo Marshall</display_name>
+
+    <location>Snohomish, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7085932-jo-marshall]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442475647p3/7085932.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442475647p2/7085932.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Dec 15 10:18:47 -0800 2011</created_at>
+  <updated_at>Thu Dec 15 10:18:47 -0800 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>45698372</id>
+  <body><![CDATA[I loved 451 and was glad I read the 50th anniversary issue. Apparently, over the 38 or so previous printings, it had been severely edited/censored without his knowledge. Yes, the seminal work on censorship was made to be more PC. A group of high school students found the variations and wrote him about it.<br /><br />They put it back the way it was supposed to be, for the 50th anniversary edition.<br /><br />Loved your review.]]></body>
+  
+  <user>
+    <id>4476782</id>
+    <name>Brian</name>
+    <display_name>Brian Meeks</display_name>
+
+    <location>Martelle, IA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4476782-brian-meeks]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442604470p3/4476782.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442604470p2/4476782.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 21 22:26:22 -0800 2012</created_at>
+  <updated_at>Tue Feb 21 22:26:22 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47928019</id>
+  <body><![CDATA[Completely agree!]]></body>
+  
+  <user>
+    <id>6259200</id>
+    <name>Morgan</name>
+    <display_name>Morgan</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6259200-morgan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1326847934p3/6259200.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1326847934p2/6259200.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 30 11:21:00 -0700 2012</created_at>
+  <updated_at>Fri Mar 30 11:21:00 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47928031</id>
+  <body><![CDATA[I kept waiting, and it never happened.]]></body>
+  
+  <user>
+    <id>6259200</id>
+    <name>Morgan</name>
+    <display_name>Morgan</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6259200-morgan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1326847934p3/6259200.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1326847934p2/6259200.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 30 11:21:13 -0700 2012</created_at>
+  <updated_at>Fri Mar 30 11:21:13 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>48115520</id>
+  <body><![CDATA[<i>Brian wrote: "I loved 451 and was glad I read the 50th anniversary issue. Apparently, over the 38 or so previous printings, it had been severely edited/censored without his knowledge. Yes, the seminal work on c..."</i> I read the 50th Anniversary edition of Fahrenheit 451 also. I loved his afterward and coda. <br /><br />Here's a quotation from the Coda: "Some five years back, the editors of yet another anthology for school readers put together a volume with some 400 short stories in it. How do you cram 400 short stories by Twain, Irving, Poe, Maupassant and Bierce into one book?<br />"Simplicity itself. Skin, debone, demarrow, scarify, melt, render down and destroy. Every adjective that counted, every verb that moved, every metaphor that weighed more than a mosquito--out! Every simile that would have made a sub-moron's mouth twitch--gone! Any aside that explained the two-bit philosophy of a first-rate writer--lost!<br />"Every story, slenderized, starved, bluepenciled, leached and bled white..." <br /><br />Why is it that mediocrity seems to be the highest standard allowed? Apparently, anything higher than the medium or average needs to be boiled down to conform to modern (PC) standards. Such an absolute shame!]]></body>
+  
+  <user>
+    <id>1882788</id>
+    <name>Tessa</name>
+    <display_name>Tessa</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1882788-tessa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1331773723p3/1882788.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1331773723p2/1882788.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Apr 02 11:40:16 -0700 2012</created_at>
+  <updated_at>Mon Apr 02 11:40:16 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>48380279</id>
+  <body><![CDATA[Read Battle Royale by Koushun Takami. This is the book that Hunger Games was stolen from. It is much better than this American ripoff.]]></body>
+  
+  <user>
+    <id>5904027</id>
+    <name>Trevor</name>
+    <display_name>Trevor</display_name>
+
+    <location>Winter Springs, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5904027-trevor]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1312399653p3/5904027.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1312399653p2/5904027.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Apr 06 10:35:32 -0700 2012</created_at>
+  <updated_at>Fri Apr 06 10:35:32 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>48781150</id>
+  <body><![CDATA[I'm so glad that some one else feels this way.]]></body>
+  
+  <user>
+    <id>4238675</id>
+    <name>Emma</name>
+    <display_name>Emma</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4238675-emma]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1333200037p3/4238675.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1333200037p2/4238675.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Apr 12 17:51:34 -0700 2012</created_at>
+  <updated_at>Thu Apr 12 17:51:34 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>48931261</id>
+  <body><![CDATA[Sometimes I can't put into words exactly what I didn't like about a book, but you said it perfectly! I agree and have been meaning to read Fahrenheit 451 for a while. Now I'm very excited!]]></body>
+  
+  <user>
+    <id>7688178</id>
+    <name>Sophia</name>
+    <display_name>Sophia Welsh</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7688178-sophia-welsh]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1454296499p3/7688178.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1454296499p2/7688178.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Apr 15 13:59:09 -0700 2012</created_at>
+  <updated_at>Sun Apr 15 13:59:09 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>48995718</id>
+  <body><![CDATA[I'm so glad! Fahrenheit 451 is a pretty heavy read, but Bradbury was frighteningly prophetic! I really had no idea what to think of it at first. I also wrote a review of it, too, if you would like more of my thoughts on it, although it's definitely not my best review...In any case, I hope you end up liking Fahrenheit!]]></body>
+  
+  <user>
+    <id>1882788</id>
+    <name>Tessa</name>
+    <display_name>Tessa</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1882788-tessa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1331773723p3/1882788.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1331773723p2/1882788.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Apr 16 16:34:39 -0700 2012</created_at>
+  <updated_at>Mon Apr 16 16:34:39 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>49065353</id>
+  <body><![CDATA[As much as I liked the books, I have to agree with you. I know it's a book written for young adults and all, but I guess that's what blocked Collins's vision, did not work to write something that go pass the "young adult fiction" and into something more sophisticated. There's truly a lot of potential in this book if only the author explored deeper. When I reach the end of book three, I understand what Collins's trying to tell people, but it did not make me want to things (like you said), it only lingered for a bit in my mind and drifted away slowly.]]></body>
+  
+  <user>
+    <id>6247322</id>
+    <name>Anne</name>
+    <display_name>Anne L</display_name>
+
+    <location>Calgary, AB, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6247322-anne-l]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1401516460p3/6247322.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1401516460p2/6247322.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Apr 17 22:34:37 -0700 2012</created_at>
+  <updated_at>Tue Apr 17 22:34:37 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>49259718</id>
+  <body><![CDATA[I totally agree.]]></body>
+  
+  <user>
+    <id>3985398</id>
+    <name>Sara</name>
+    <display_name>Sara Cat</display_name>
+
+    <location>Jerusalem, Israel</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3985398-sara-cat]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1327286105p3/3985398.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1327286105p2/3985398.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Apr 21 14:57:50 -0700 2012</created_at>
+  <updated_at>Sat Apr 21 14:57:50 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>50157105</id>
+  <body><![CDATA[this is geared for a much younger age group...I doubt a 13 yr old would be captivated by the symbolism in Farenheit 451]]></body>
+  
+  <user>
+    <id>9367971</id>
+    <name>Brittany</name>
+    <display_name>Brittany Canon</display_name>
+
+    <location>Baltimore, MD</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9367971-brittany-canon]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue May 08 08:57:26 -0700 2012</created_at>
+  <updated_at>Tue May 08 08:57:26 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>50880236</id>
+  <body><![CDATA[Exactly! (and Brittany, I loved Farenheit 451 when I was 13. I loved crappy books too, but I knew the difference.)]]></body>
+  
+  <user>
+    <id>51864</id>
+    <name>Danielle</name>
+    <display_name>Danielle</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/51864-danielle]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon May 21 21:54:31 -0700 2012</created_at>
+  <updated_at>Mon May 21 21:54:31 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>64128302</id>
+  <body><![CDATA[Tessa, I have to say I had a very similar feelings about the book, I have read your review after I did mine. Your first and last two paragraphs nailed it for me. What did you think about Katniss as a heroine? Did you like her? .]]></body>
+  
+  <user>
+    <id>13781706</id>
+    <name>Pacyfa</name>
+    <display_name>Pacyfa</display_name>
+
+    <location>Sydney, 02, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13781706-pacyfa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1363953790p3/13781706.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1363953790p2/13781706.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 25 00:06:56 -0800 2012</created_at>
+  <updated_at>Tue Dec 25 00:06:56 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>66402844</id>
+  <body><![CDATA[The review is really good. It is very concise and, per my opinions, accurate.]]></body>
+  
+  <user>
+    <id>16807904</id>
+    <name>Joel</name>
+    <display_name>Joel Christophel</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16807904-joel-christophel]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1467433311p3/16807904.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1467433311p2/16807904.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 25 19:21:08 -0800 2013</created_at>
+  <updated_at>Fri Jan 25 19:21:08 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>72894658</id>
+  <body><![CDATA[I guess I will be the only one to say that it is a bad idea to compare an average novel for young adults to a classic. It was clearly not the author's intent to scare the reader constantly with the idea that our world could become like theirs. Personally, I think it's acceptable to read a book where things are just the way things are in that setting. Granted, I have not read Fahrenheit 451, nor do I intend to. I rather like not crapping my pants every page. I'm glad that Collins didn't go that route. This is normal for the Hunger Games characters. They don't know any different. It could be filled with symbolism and some sort of doomsday message, but I think it's fine for us to see this as another world, not a mirror image of what ours could be. The Time Machine was no less a classic and yet it portrayed a world where there are mutants hunting people and something should be done by the only one who can. Yet it didn't send the message that somehow we have to stop that from happening to us. It was a story that just was, without trying to inspire anything in particular. That is my take on it. Again, saying this had so much potential but didn't hit the mark because it was not as good as 451 is a bit too critical.]]></body>
+  
+  <user>
+    <id>5481920</id>
+    <name>Amanda</name>
+    <display_name>Amanda</display_name>
+
+    <location>Fort Wayne, IN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5481920-amanda]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1306005674p3/5481920.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1306005674p2/5481920.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Apr 26 11:36:02 -0700 2013</created_at>
+  <updated_at>Fri Apr 26 11:36:02 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>77872656</id>
+  <body><![CDATA[Here are books to read over HG: Farenheit 451, 1984, Brave New World, The Sheep Look Up, Neuromancer, A Clockwork Orange, Feed.<br /><br />I coulnt finish the games just because of the POV, and tense.]]></body>
+  
+  <user>
+    <id>16870939</id>
+    <name>LWFlouisa</name>
+    <display_name>LWFlouisa</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16870939-lwflouisa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1417569684p3/16870939.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1417569684p2/16870939.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jul 07 10:17:09 -0700 2013</created_at>
+  <updated_at>Sun Jul 07 10:17:09 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>90488479</id>
+  <body><![CDATA[I think this book didn't affect you the way F451 did because this book was written primarily for the entertainment of others. F451, 1984, and other similar books were written to inform and warn us about what we might become. This is just a book that's popular right now due to its entertaining value (for some people).]]></body>
+  
+  <user>
+    <id>24414094</id>
+    <name>Yang</name>
+    <display_name>Yang Yang</display_name>
+
+    <location>Rensselaer, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24414094-yang-yang]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 11 12:19:47 -0800 2014</created_at>
+  <updated_at>Sat Jan 11 12:19:47 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90658030</id>
+  <body><![CDATA[i disagree. sort of]]></body>
+  
+  <created_at>Mon Jan 13 22:12:11 -0800 2014</created_at>
+  <updated_at>Mon Jan 13 22:12:11 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>127510907</id>
+  <body><![CDATA[Tessa I love ur name!!!!!!! Have u read the infernal devices series by Cassandra Claire by any chance???]]></body>
+  
+  <user>
+    <id>29646377</id>
+    <name>Shiny</name>
+    <display_name>Shiny</display_name>
+
+    <location><![CDATA[Manchester , H9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/29646377-shiny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1434053078p3/29646377.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1434053078p2/29646377.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 17 10:05:07 -0700 2015</created_at>
+  <updated_at>Sun May 17 10:05:07 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>127511047</id>
+  <body><![CDATA[Tessa I love ur name!!!!!!! Have u read the infernal devices series by Cassandra Claire by any chance???]]></body>
+  
+  <user>
+    <id>29646377</id>
+    <name>Shiny</name>
+    <display_name>Shiny</display_name>
+
+    <location><![CDATA[Manchester , H9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/29646377-shiny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1434053078p3/29646377.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1434053078p2/29646377.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 17 10:05:08 -0700 2015</created_at>
+  <updated_at>Sun May 17 10:05:08 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>130444832</id>
+  <body><![CDATA[Hahaha^]]></body>
+  
+  <user>
+    <id>44023485</id>
+    <name>Daniela</name>
+    <display_name>Daniela</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/44023485-daniela]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Jun 16 17:49:38 -0700 2015</created_at>
+  <updated_at>Tue Jun 16 17:49:38 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>130477097</id>
+  <body><![CDATA[Thanks!!!]]></body>
+  
+  <user>
+    <id>29646377</id>
+    <name>Shiny</name>
+    <display_name>Shiny</display_name>
+
+    <location><![CDATA[Manchester , H9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/29646377-shiny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1434053078p3/29646377.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1434053078p2/29646377.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jun 17 10:46:06 -0700 2015</created_at>
+  <updated_at>Wed Jun 17 10:46:06 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>144875888</id>
+  <body><![CDATA[Well you should not have wrote this comment because im reading it and so far i like it thank you very much]]></body>
+  
+  <user>
+    <id>50539829</id>
+    <name>Haylee Scaggs</name>
+    <display_name>Haylee Scaggs</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/50539829-haylee-scaggs]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat Dec 26 18:43:51 -0800 2015</created_at>
+  <updated_at>Sat Dec 26 18:43:51 -0800 2015</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/119375183]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/119375183]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

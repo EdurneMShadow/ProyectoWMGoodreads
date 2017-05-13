@@ -1,0 +1,227 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:51:07 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: W408VTD90J552ME6Y8QM
+etag: W/"ebcdb806aa6b8fb263415e47c746b891"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.203288
+set-cookie: csid=BAhJIhgzODQtMDE3MjA2MC0zNTQwOTM1BjoGRVQ%3D--ff4dd037b75d90039e657310ff4af80b5b89af0a; path=/; expires=Tue, 12 May 2037 13:51:07 -0000, locale=es; path=/, _session_id2=70d476841daccb401b16b64e1e5babc4; path=/; expires=Fri, 12 May 2017 19:51:07 -0000; HttpOnly
+content-length: 9769
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=764688540
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>764688540</id>
+    
+  <user>
+    <id>8359556</id>
+    <name>Ayesha</name>
+    <display_name>Ayesha</display_name>
+
+    <location>Manama, Bahrain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8359556-ayesha]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">4374400</id>
+  <isbn>0525421033</isbn>
+  <isbn13>9780525421030</isbn13>
+  <text_reviews_count type="integer">26207</text_reviews_count>
+  <title>If I Stay (If I Stay, #1)</title>
+  <title_without_series>If I Stay</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1347462970m/4374400.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1347462970s/4374400.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/4374400-if-i-stay</link>
+  <num_pages>201</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.96</average_rating>
+  <ratings_count>549628</ratings_count>
+  <description>&lt;i&gt;Librarian note: an alternate cover for this edition can be found &lt;a href="https://www.goodreads.com/book/show/21570677-if-i-stay" rel="nofollow"&gt;here&lt;/a&gt;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Just listen, Adam says with a voice that sounds like shrapnel.&lt;br /&gt;&lt;br /&gt;I open my eyes wide now.&lt;br /&gt;I sit up as much as I can.&lt;br /&gt;And I listen.&lt;br /&gt;&lt;br /&gt;Stay, he says.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Choices. Seventeen-year-old Mia is faced with some tough ones: Stay true to her first love—music—even if it means losing her boyfriend and leaving her family and friends behind?&lt;br /&gt;&lt;br /&gt;Then one February morning Mia goes for a drive with her family, and in an instant, everything changes. Suddenly, all the choices are gone, except one. And it's the only one that matters.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;If I Stay&lt;/i&gt; is a heartachingly beautiful book about the power of love, the true meaning of family, and the choices we all make.</description>
+<authors>
+<author>
+<id>295178</id>
+<name>Gayle Forman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1472502468p5/295178.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1472502468p2/295178.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/295178.Gayle_Forman]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>966486</ratings_count>
+<text_reviews_count>78890</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">500428329</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Thu Jul 17 03:50:15 -0700 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">495319111</id>
+          <old_status>to-read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Sun Jul 13 02:43:47 -0700 2014</updated_at>
+          <ratings_count>5</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">210004904</id>
+          <old_status></old_status>
+          <status>to-read</status>
+          <updated_at type="datetime">Thu Nov 14 07:52:48 -0800 2013</updated_at>
+          <ratings_count>1</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>2</rating>
+  <votes>68</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="annoying-characters" exclusive="false" review_shelf_id="742286127" sortable="false" />
+    <shelf name="undeserved-hype" exclusive="false" review_shelf_id="742286251" sortable="false" />
+    <shelf name="wasted-my-precious-time" exclusive="false" review_shelf_id="749543421" sortable="false" />
+    <shelf name="disappointing-books" exclusive="false" review_shelf_id="742286194" sortable="false" />
+    <shelf name="hello-mary-sue" exclusive="false" review_shelf_id="749543262" sortable="false" />
+    <shelf name="stinking-cowshit" exclusive="false" review_shelf_id="749543387" sortable="false" />
+    <shelf name="turned-my-neurons-to-jelly" exclusive="false" review_shelf_id="749543395" sortable="false" />
+    <shelf name="awfully-boring-plot" exclusive="false" review_shelf_id="742286156" sortable="false" />
+    <shelf name="contemporary" exclusive="false" review_shelf_id="551399235" sortable="false" />
+    <shelf name="i-m-gonna-let-you-burn-burn-burn" exclusive="false" review_shelf_id="749543304" sortable="false" />
+    <shelf name="donno-what-is-so-appealing" exclusive="false" review_shelf_id="742286190" sortable="false" />
+    <shelf name="cringe-worthy" exclusive="false" review_shelf_id="749543231" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Jul 13 00:00:00 -0700 2014</started_at>
+  <read_at>Tue Jul 15 00:00:00 -0700 2014</read_at>
+  <date_added>Thu Nov 14 07:52:48 -0800 2013</date_added>
+  <date_updated>Sat Jul 26 12:59:46 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<i>More reviews @ <a href="http://thebeautifulworldofbooks.blogspot.co.uk/" rel="nofollow">The Beautiful World of Books</a> </i><br /><br /><b>Initial reaction upon finishing-</b><br /><br /><img src="http://media3.giphy.com/media/GUhiBgU0DbWsU/200_s.gif" class="gr-hostedUserImg" /><br /><br />When I heard <i>Seventeen</i> call <i>If I Stay</i> "new TFIOS" I should have turned tail and run in the opposite direction as fast as I could.<br /><br /><img src="https://kmpunksays.files.wordpress.com/2012/11/n6u82.gif?w=830" class="gr-hostedUserImg" /><br /><br />But like always my curiosity won.<br /><br /><i>If I Stay</i> is a boring story that can be told in few sentenc...]]>
+  </body>
+
+  
+
+  <comments_count>3</comments_count>
+    <comments start="1" end="3" total="3">
+        <comment>
+  <id>105484281</id>
+  <body><![CDATA[I feel like her grandfather helped save the story. I loved his character. <br />The ending made me upset about how abrupt it is. Yes, good stories leave us asking questions, however WTF?! shouldn't be one of them.]]></body>
+  
+  <user>
+    <id>11253425</id>
+    <name>Lisa-Anne</name>
+    <display_name>Lisa-Anne</display_name>
+
+    <location>Toronto, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11253425-lisa-anne]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1357929024p3/11253425.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1357929024p2/11253425.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Sep 03 08:13:27 -0700 2014</created_at>
+  <updated_at>Wed Sep 03 08:13:27 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>107142527</id>
+  <body><![CDATA[True. I read this book a long time ago and I remember liking it but right now I would probably rip it into pieces. <br /><br />Great and a honest review!]]></body>
+  
+  <user>
+    <id>19468761</id>
+    <name>Hershey </name>
+    <display_name>Hershey </display_name>
+
+    <location>India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/19468761-hershey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1461938770p3/19468761.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1461938770p2/19468761.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 03 00:14:39 -0700 2014</created_at>
+  <updated_at>Fri Oct 03 00:14:39 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>116563276</id>
+  <body><![CDATA[Regarding the beginning of your review - <i>Curiosity killed the cat.</i> <br />Great review, really! :) I read this book when I was in a particularly nice mood judging from my overly nice review, but honestly by now I think it can burn like 85% of YA/NA books *shrugs* :D]]></body>
+  
+  <user>
+    <id>14811808</id>
+    <name>Liz</name>
+    <display_name>Liz</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14811808-liz]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1467667798p3/14811808.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1467667798p2/14811808.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Mar 23 04:22:45 -0700 2015</created_at>
+  <updated_at>Mon Mar 23 04:22:45 -0700 2015</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/764688540]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/764688540]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

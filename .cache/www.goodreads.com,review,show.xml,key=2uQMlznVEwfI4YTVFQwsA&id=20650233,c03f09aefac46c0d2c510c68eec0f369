@@ -1,0 +1,1253 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:38:48 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: J1SN6187GN49T8X29AF3
+etag: W/"62de747debaa7d02b3247638a9636fe1"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.347079
+set-cookie: csid=BAhJIhg3MTMtMTU5MTcyNy0xMTUxOTI3BjoGRVQ%3D--052bb2c2c565eb2cb591637f173dc6c51bdbfaec; path=/; expires=Tue, 12 May 2037 13:38:48 -0000, locale=es; path=/, _session_id2=8b76b3af133e7362778e59ec3ea1f911; path=/; expires=Fri, 12 May 2017 19:38:48 -0000; HttpOnly
+content-length: 69085
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=20650233
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>20650233</id>
+    
+  <user>
+    <id>929750</id>
+    <name>Annette</name>
+    <display_name>Annette</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/929750-annette]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1221841714p3/929750.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1221841714p2/929750.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">41865</id>
+  <isbn>0316015849</isbn>
+  <isbn13>9780316015844</isbn13>
+  <text_reviews_count type="integer">89642</text_reviews_count>
+  <title>Twilight (Twilight, #1)</title>
+  <title_without_series>Twilight</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1361039443m/41865.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1361039443s/41865.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/41865.Twilight</link>
+  <num_pages>498</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Little, Brown and Company</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.57</average_rating>
+  <ratings_count>3825323</ratings_count>
+  <description>&lt;b&gt;About three things I was absolutely positive.&lt;br /&gt;&lt;br /&gt;First, Edward was a vampire.&lt;br /&gt;&lt;br /&gt;Second, there was a part of him—and I didn't know how dominant that part might be—that thirsted for my blood.&lt;br /&gt;&lt;br /&gt;And third, I was unconditionally and irrevocably in love with him.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;In the first book of the Twilight Saga, internationally bestselling author Stephenie Meyer introduces Bella Swan and Edward Cullen, a pair of star-crossed lovers whose forbidden relationship ripens against the backdrop of small-town suspicion and a mysterious coven of vampires. This is a love story with bite.</description>
+<authors>
+<author>
+<id>941441</id>
+<name>Stephenie Meyer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1477924095p5/941441.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1477924095p2/941441.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/941441.Stephenie_Meyer]]></link>
+<average_rating>3.64</average_rating>
+<ratings_count>8672804</ratings_count>
+<text_reviews_count>294546</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1220887376</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Wed Feb 03 03:53:12 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>241</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="ya" exclusive="false" review_shelf_id="12324381" sortable="false" />
+    <shelf name="to-avoid" exclusive="false" review_shelf_id="12554730" sortable="false" />
+    <shelf name="scifi-fantasy" exclusive="false" review_shelf_id="45413900" sortable="false" />
+</shelves>
+  <recommended_for>no one</recommended_for>
+  <recommended_by>too many people to list</recommended_by>
+  <started_at></started_at>
+  <read_at>Fri Aug 01 00:00:00 -0700 2008</read_at>
+  <date_added>Mon Apr 21 11:15:51 -0700 2008</date_added>
+  <date_updated>Mon Jan 13 11:45:47 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Ok... I know that I'm going to offend a lot of people with this review, but I feel that I have to be honest about this. There are quite a few things that bother me about this book, I will only list the top 5 here:<br /><br />1) Bella - She is the exact character that I do NOT want my daughters to have as a r...]]>
+  </body>
+
+  
+
+  <comments_count>73</comments_count>
+    <comments start="1" end="50" total="74">
+        <comment>
+  <id>664653</id>
+  <body><![CDATA[My cousin was reading that book last fall. She is 13. She seemed to like it. Tell me what you think and maybe I'll read it as well.]]></body>
+  
+  <user>
+    <id>1083965</id>
+    <name>Kristine</name>
+    <display_name>Kristine Coumbe</display_name>
+
+    <location>Appleton, WI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1083965-kristine-coumbe]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1208435990p3/1083965.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1208435990p2/1083965.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Apr 22 12:09:59 -0700 2008</created_at>
+  <updated_at>Tue Apr 22 12:09:59 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>665446</id>
+  <body><![CDATA[This is an extremely popular series right now, they say it has the potential to be even bigger than Harry Potter. Apparently, they are in the process of making the movie. My friend Brandy read it and really liked it a lot, you can look at her review and the comments after it if you'd like to get a better idea. I'm planning on reading it sometime this summer, I'll let you know what I think when I'm done.]]></body>
+  
+  <user>
+    <id>929750</id>
+    <name>Annette</name>
+    <display_name>Annette</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/929750-annette]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1221841714p3/929750.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1221841714p2/929750.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Apr 22 14:11:56 -0700 2008</created_at>
+  <updated_at>Tue Apr 22 14:11:56 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1365490</id>
+  <body><![CDATA[I initially didn't want to read this either, although I do love vampire stories. My best friend actually bought me the first 2 and demanded I read them, which I did in about 3 days. Then I bought the 3rd and had to wait for 6 weeks until the 4th. There is a big group of us, my mom included, that love Edward! We are going to Barnes &amp; Noble Friday night for the midnight release of <a href="https://www.goodreads.com/book/show/1162543.Breaking_Dawn__The_Twilight_Saga__Book_4_" title="Breaking Dawn (The Twilight Saga, Book 4) by Stephenie Meyer" rel="nofollow">Breaking Dawn</a>!!!!<br /><br />You will love these books and if you don't, you better not tell me! Charity also loves them and my sister Kate who doesn't really like to read, loves them too!!!<br /><br />Enjoy!<br /><br />Karina]]></body>
+  
+  <user>
+    <id>377357</id>
+    <name>Karina</name>
+    <display_name>Karina Stanchik</display_name>
+
+    <location>Waupaca, WI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/377357-karina-stanchik]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 30 15:28:04 -0700 2008</created_at>
+  <updated_at>Wed Jul 30 15:28:04 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1369095</id>
+  <body><![CDATA[I would never read a "vampire book," but I did read these. :) I liked the first one best. Randy is reading it right now, too. He thought it was just a "girlie book," but he is absolutely hooked by the suspense and action! He says Meyer get a lot of things right from a male perspective. I'm interested in his opinion once he finishes, and yours, too. ]]></body>
+  
+  <user>
+    <id>369741</id>
+    <name>Dawn</name>
+    <display_name>Dawn</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/369741-dawn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1219718301p3/369741.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1219718301p2/369741.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 30 22:48:20 -0700 2008</created_at>
+  <updated_at>Wed Jul 30 22:48:20 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1389638</id>
+  <body><![CDATA[Annette,<br /><br />You didn't offend me with your review. In fact, I agree with alot of what you said. That is exactly why I don't think this book should be read by young girls and I recommended it for girls over the age of 16. <br /><br />I do however, like it for me. I feel I am a mature person that is not going to get carried away with all the ga ga hype and divorce my husband because I am looking for Edward. To me, it was just a fun read. I am also glad that I read it so I can caution young girls away from reading it or give good advice on relationships if I do see them read it.<br /><br />Will my daughter read it? Only if she is old enough and mature enough. She won't read it just because everyone else is.<br /><br />Good review Annette!]]></body>
+  
+  <user>
+    <id>936713</id>
+    <name>Brandy</name>
+    <display_name>Brandy</display_name>
+
+    <location>Las Vegas, NV</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/936713-brandy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1211596676p3/936713.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1211596676p2/936713.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 02 07:47:22 -0700 2008</created_at>
+  <updated_at>Sat Aug 02 07:47:22 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1389758</id>
+  <body><![CDATA[Thanks Brandy! It's a relief to know that there is one person that I haven't offended. I'm fully expecting to get hate mail because of this. I know that I'm in the minority with this and that because the series is so popular this review may ruffle a few feathers, but I had to be honest.]]></body>
+  
+  <user>
+    <id>929750</id>
+    <name>Annette</name>
+    <display_name>Annette</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/929750-annette]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1221841714p3/929750.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1221841714p2/929750.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 02 08:05:22 -0700 2008</created_at>
+  <updated_at>Sat Aug 02 08:05:22 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1391572</id>
+  <body><![CDATA[I've been thinking about this all day and I'm wondering what others think of this. I'm going to ask a question and hope that I get at least a few comments in response to this. <br /><br />Why is the target audience for this book YA? Even though it doesn't have "sex" in it, it does have a lot of heat and passion. Like Brandy said, it does arrouse romantic (sexual?) feelings and desires. So, with that in mind, is it really appropriate for teenagers of any age?<br /><br />To me it's like a wolf in sheep's clothing. On the surface it appears to be harmless "fluff", but underneath this clever disguise there's something much more dangerous lurking in the shadows.<br /><br />Here's an example of what I mean, at one point in the book Edward and Bella spend a lot of time together (24 hours at least)he spends the night in her bedroom. I can already hear the objection "but nothing happened!" True, but realistically speaking can any of you name even one person (boy or girl) who would not get sexually arroused by spending the night in the same bedroom with a member of the opposite sex? Would any loving parent allow their child to do this? To me the book makes it appear as if this is perfectly ok. Most parents, no matter what religion they are, object to this behavior. So, why is it ok to have this material in a book that is geared especially for YA?]]></body>
+  
+  <user>
+    <id>929750</id>
+    <name>Annette</name>
+    <display_name>Annette</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/929750-annette]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1221841714p3/929750.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1221841714p2/929750.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 02 13:43:19 -0700 2008</created_at>
+  <updated_at>Sat Aug 02 13:43:19 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1394436</id>
+  <body><![CDATA[I found this out with my foster-daughter . . . just because it's a YA book doesn't mean it's "clean" or "edited". I have seen many YA books with much more graphic sexual behavior than you would ever think possible. Most parents think it's age appropriate because this is much tamer than what most of them see in the halls. But the big hormonal drive thing is what gives me issues with anyone &lt;15 reading the book.<br /><br />I think your issue may be with the fact that a Mormon wrote such a book. Which, yes, I have issues with as well -- not so much with the author but with the lack of (Mormon) parental oversight. Even parents that read the book first are still letting 10-12 year olds read it.<br /><br />and p.s. I agree with your original post. (1) I have major feminist issues with Bella. She's pathetic. (2) Edward is a flat character that is too controlling for me. (3) I don't believe their "love story". To me Edward is just fascinated with her and she is just obsessed with him. Classic codependency. (4) Her obsession with looks. Bugs me to death. (5) The comparison begins and ends with the fanaticism of the fans. The writing or storytelling is not on par. JKR is an artist in her writing. SM is just good at telling a compelling story. <br /><br />I love to analyze and argue/discuss about these books; which is why I started a bookclub with my friends. I think they are most appropriate for 18+ crowd. ]]></body>
+  
+  <user>
+    <id>582776</id>
+    <name>Kristine</name>
+    <display_name>Kristine</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/582776-kristine]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1344487046p3/582776.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1344487046p2/582776.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 02 20:31:14 -0700 2008</created_at>
+  <updated_at>Sat Aug 02 20:31:14 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1394591</id>
+  <body><![CDATA[You're right Kristine, it does bother me that the book was written by an LDS woman. Especially since I know that there are many LDS people who pick up the book and read it just because it is written by a LDS. There are many who will support her and buy every one of her books because she is LDS not because she has any talent. To me, her writing is an embarressment to the LDS communtiy as a whole because she doesn't hold true to LDS standards and her series is very popular and everyone knows that she is LDS. I think it makes us look bad. I really wonder what her professors from BYU think about all of this. ]]></body>
+  
+  <user>
+    <id>929750</id>
+    <name>Annette</name>
+    <display_name>Annette</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/929750-annette]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1221841714p3/929750.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1221841714p2/929750.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 02 21:13:18 -0700 2008</created_at>
+  <updated_at>Sat Aug 02 21:13:18 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1397042</id>
+  <body><![CDATA[I so agree with your thoughts on this Meyer's series. I am amazed at how many people are thinking that this is the best book- or story ever. I have this thing about medeocre writing, and this exemplifies it! The story has suspense which keeps one reading, but when you're done, after realizing what all they do, I am appalled. In the third book Bella, is trying her best to get him to 'actually 'sleep with her, to which, and to his credit, he refuses. But I argue as well, what kind of message is this to our girls, that one is ok to have these kind of desires. I can't believe that most of our YW are thinking these kind of thoughts, at least not without this kind of promting! I suppose I'm not as 'in to' the story because I am repelled by the character of Bella. Her male characters are a bit more believable, still, I think it is just amazing that so many are raving about it. It does present a story that would get the youth to read, I just wish it were more ful of inspiration or characters worth emulation.]]></body>
+  
+  <user>
+    <id>929340</id>
+    <name>Louise</name>
+    <display_name>Louise</display_name>
+
+    <location>Cedar Rapids, IA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/929340-louise]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1218715611p3/929340.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1218715611p2/929340.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 03 11:38:12 -0700 2008</created_at>
+  <updated_at>Sun Aug 03 11:38:12 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1398875</id>
+  <body><![CDATA[If you think about it we need to give Stephanie Meyer a break. I think (from her point of view) she tried very hard to make very good points in her books. For example the part about the vampires "choosing to be good" even though their very natures screamed against it. She tried to make this series alot about free agency and consequences and living with our choices. <br /><br />Although . . . I just think she failed miserably at it. The faults of the book overshadow her intended message. Probably less than 1% of girls who have read her book would be able to identify that as a theme, let alone the main theme.<br /><br />That is why I liked The Host better -- she was MUCH better at communicating her intended message.]]></body>
+  
+  <user>
+    <id>582776</id>
+    <name>Kristine</name>
+    <display_name>Kristine</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/582776-kristine]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1344487046p3/582776.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1344487046p2/582776.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 03 15:32:36 -0700 2008</created_at>
+  <updated_at>Sun Aug 03 15:32:36 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1400507</id>
+  <body><![CDATA[I get the impression that most people consider this series nothing more than "harmless fluff". I disagree. Fluff - yes! Harmless - no! It's not harmless because SM is LDS and everyone knows it! As members of the church we have been commanded to "stand as witnesses of God at all times and in all things and in all places." She fails at this because her standards are not in sinc with the For Strength of Youth pamphlet. If the series wasn't so popular I would be more willing to give her a break, but the entire world knows about it! I just know that there are going to be people who judge the church based on this series.<br /><br />I know that this book is mild in comparison to a lot of the other YA lit that's out there, but those other authors are not LDS and cannot be expected to uphold the same standards.<br /><br />Quite honestly I'm so disgusted with SM I have absolutely no interest in reading any more of her books. I have just become a huge fan of Shannon Hale.]]></body>
+  
+  <user>
+    <id>929750</id>
+    <name>Annette</name>
+    <display_name>Annette</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/929750-annette]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1221841714p3/929750.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1221841714p2/929750.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 03 18:23:08 -0700 2008</created_at>
+  <updated_at>Sun Aug 03 18:23:08 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1402491</id>
+  <body><![CDATA[the sad part is that most of the magazine articles from Time, Newsweek, USA today, etc. interview parents who are so impressed by how clean it is -- and they argue that's why it's so popular, because it's so much cleaner than everything else out there. It's just a matter of perspective, I suppose. So I actually think the world sees a squeaky clean mormon book, but it make me nervous when I see beehives &amp; mia maids reading it at church christmas parties . . . ]]></body>
+  
+  <user>
+    <id>582776</id>
+    <name>Kristine</name>
+    <display_name>Kristine</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/582776-kristine]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1344487046p3/582776.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1344487046p2/582776.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 03 22:15:05 -0700 2008</created_at>
+  <updated_at>Sun Aug 03 22:15:05 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1403656</id>
+  <body><![CDATA[Yeah, that's kind of what my mom said too. She said that she doesn't worry about the effect that this series has on the world nearly as much as she worries about the effect that it has on LDS YW. I talked with a friend of mine from another ward who said that one of the YW in her ward left church early yesterday so that she could go home and read <a href="https://www.goodreads.com/book/show/1162543.Breaking_Dawn__The_Twilight_Saga__Book_4_" title="Breaking Dawn (The Twilight Saga, Book 4) by Stephenie Meyer" rel="nofollow">Breaking Dawn</a>. I wonder how many other yw across the nation did that.]]></body>
+  
+  <user>
+    <id>929750</id>
+    <name>Annette</name>
+    <display_name>Annette</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/929750-annette]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1221841714p3/929750.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1221841714p2/929750.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 04 06:39:33 -0700 2008</created_at>
+  <updated_at>Mon Aug 04 06:39:33 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1404121</id>
+  <body><![CDATA[I agree with your mom -- except for the fact that this shows that B&amp;E's relationship is "true love". Ech. True love is all about the concern and welfare for the other person's well being (not about wanting to commit suicide without the other person) also true love is where the other person makes you want to BE a BETTER PERSON and lifts you up. In this relationship I think they are actually worse people -- they are much more selfish than they were before. ]]></body>
+  
+  <user>
+    <id>582776</id>
+    <name>Kristine</name>
+    <display_name>Kristine</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/582776-kristine]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1344487046p3/582776.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1344487046p2/582776.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 04 07:49:54 -0700 2008</created_at>
+  <updated_at>Mon Aug 04 07:49:54 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1404268</id>
+  <body><![CDATA[It really distorts what love is really all about, doesn't it? I hate the thought that there are girls being sucked into the idea that there is one and only one person that they will be so attracted to that they will lose all reason and whither up and die without. Not that I don't believe in true love, but this is a truly unhealthy relationship. I see too many dissatisfied girls in marriage, and personally I think it stems from misrepresentations of the real world. This is a portrayal of lust, rather than true love. Although Jacob seems to have more of a handle on doing the right thing for true love. All in all, the book, though fun for them to read, fills their minds with unhealthy expectations, at a time when this is usually all they think about. Relationships and appearances are claiming their goals more than they should.]]></body>
+  
+  <user>
+    <id>929340</id>
+    <name>Louise</name>
+    <display_name>Louise</display_name>
+
+    <location>Cedar Rapids, IA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/929340-louise]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1218715611p3/929340.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1218715611p2/929340.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 04 08:11:06 -0700 2008</created_at>
+  <updated_at>Mon Aug 04 08:11:06 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1404857</id>
+  <body><![CDATA[I love this discussion. I agree with all of your comments everyone. I am so glad that not only did I read this book to find out for myself what it is all about, but I also discussed it with intelligent ladies whom I respect their opinion because I have realized so much more to this book than when I first read it.<br /><br />One thing I want to mention, I understand how you feel about SM representing the mormons in a bad light and that it makes you angry. But really, there are lots of mormons out there who make choices that aren't how we would choose. I love a popular TV series called "So You Think You Can Dance" it is like an America Idol for dancers. Lots of mormons have been contestants. At first I was so excited. In fact one of the winners was a mormon and they even mentioned on the show how he had taken time off from his dancing career to go on a mission. After watching for awhile I noticed the type of costumes the mormon dancers were wearing and the dance moves they were willing to do. It really put me off and made me mad at them for representing our church that way. <br /><br />I came to realize that we all are imperfect and I am pretty sure that I do things that other mormons would feel put off by. So now, I don't base any media (or anything for that matter) on who the person is but by what they produce. Mormon or not, if the book has offensive things in it, I don't read it. I only judge the book, not the author, which is why even non mormon authors get as equal of a critical review from me on if their book is up to my standards.<br /><br />So ya, it bugs me that SM isn't perfect and didn't write a book with better values. But I guess it bugs me that I am not perfect either. I do have to say that I think that some positive effects can come from her being a mormon with lots of emphasis on her religion... if it gets people to look into our church just out of curiosity then they can see what the doctrine is and make their own judgements.<br /><br />And yes, I know that not me or most of us non-perfect mormons aren't famous, but everyone who is, has done something or other that I felt could put a bad light on mormons... including Gladdys Knight and Mitt Romney. I think that is just the way it is with imperfect people in an imperfect world. ]]></body>
+  
+  <user>
+    <id>936713</id>
+    <name>Brandy</name>
+    <display_name>Brandy</display_name>
+
+    <location>Las Vegas, NV</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/936713-brandy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1211596676p3/936713.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1211596676p2/936713.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 04 09:06:52 -0700 2008</created_at>
+  <updated_at>Mon Aug 04 09:06:52 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1404906</id>
+  <body><![CDATA[All I have to say is that the book sounds like a waste of time and a load of crap. So I'm not going to read it. I wish people would stop trying to convince me to read it too.]]></body>
+  
+  <created_at>Mon Aug 04 09:11:21 -0700 2008</created_at>
+  <updated_at>Mon Aug 04 09:11:21 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1410068</id>
+  <body><![CDATA[Tambre you're a riot! Obviously she get's her elequence from me, you'd never hear Randy use the words "load of crap."]]></body>
+  
+  <user>
+    <id>929750</id>
+    <name>Annette</name>
+    <display_name>Annette</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/929750-annette]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1221841714p3/929750.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1221841714p2/929750.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 04 17:08:46 -0700 2008</created_at>
+  <updated_at>Mon Aug 04 17:08:46 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1411248</id>
+  <body><![CDATA[I've been thinking about what Louise said about Twilight giving a distorted view of love and marriage. Obviously, Twilight isn't the only place a girl can get the wrong impression about love and marriage, movies and TV shows of course, but I think that we do this within the church, too (unintentionally of course). I think that we have a tendancy to give young people the impression that once they fall in love and get married all of their problems will be over. I know that when I was a youth I thought that as long as I remained worthy to marry in the temple, once I was sealed to my spouse for all time and eternity the rest of my life would be complete and utter bliss. Reality came as quite a shock to me, luckly I have a very patient and understanding husband. I wonder how many marrital problems are caused by unrealistic expectations.<br /><br />Like Brandy, I also want to thank all of you for participating in this discussion with me. This has turned out to be a much more positive experience than I thought it was going to be. I too enjoy hearing from all of you and I'm so glad that you all are willing to take the time to think about the the discussion and add a comment here and there. I really learn a lot from each of you. Each one of us brings a slightly different perspective to the "table" which makes the discussion much more stimulating and thought provoking. I consider myself very blessed indeed to be a part of this circle of friends. It truly brightens my day when I check on goodreads and see that someone has made a comment or has sent me a message. I guess that really shows what a dull life I live doesn't it? ;)]]></body>
+  
+  <user>
+    <id>929750</id>
+    <name>Annette</name>
+    <display_name>Annette</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/929750-annette]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1221841714p3/929750.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1221841714p2/929750.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 04 19:39:04 -0700 2008</created_at>
+  <updated_at>Mon Aug 04 19:39:04 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1413434</id>
+  <body><![CDATA[Good point Annette. I know that I have had my fair share of unrealistic expectations. I struggle to find the right balance of letting my kids know how real life is with all the heartaches and to let them see the hope and happiness too... don't want to create unrealistic expectations but don't want to scare them away from trying also. I think it is one of those obscure parenting difficulties that nobody really knows the perfect answer to and thus requires a lot of prayer and guideance and is based on each individual personality.]]></body>
+  
+  <user>
+    <id>936713</id>
+    <name>Brandy</name>
+    <display_name>Brandy</display_name>
+
+    <location>Las Vegas, NV</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/936713-brandy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1211596676p3/936713.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1211596676p2/936713.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 05 07:43:57 -0700 2008</created_at>
+  <updated_at>Tue Aug 05 07:43:57 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1414390</id>
+  <body><![CDATA[I agree. Its really hard not to give that impression about marriage in the temple because its so important. Another thing we, in the church, tend to hint at is that if you follow the commandments and do whats right you'll be happy. Well that's not true either. Thankfully, the older I get the less my teachers distort reality. They're very blunt and I like it that way. As long as I'm in the world I have to know exactly what its like, even if its painful to tell. I feel sorry for the beehives though who get the impression that life can be bliss. <br />(BTW, I realize that some of my beehive teachers might read this, so don't worry. I know you didn't distort reality on purpose and I still like you guys.)<br />Yeah, I guess this has nothing to do with Twilight.]]></body>
+  
+  <created_at>Tue Aug 05 09:41:58 -0700 2008</created_at>
+  <updated_at>Tue Aug 05 09:41:58 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1416673</id>
+  <body><![CDATA[Actually Tambre I think at the age of a Beehive you just don't understand as fully as you do at an older age. I specifically remember lessons that both Kristine and I taught that were very realistic but I think at that age it is more abstract so your brain just doesn't grasp the "reality" of it. That is ok though, we all learn line upon line and precept upon precept. I am glad you have great teachers now too. And I know you still like us :)]]></body>
+  
+  <user>
+    <id>936713</id>
+    <name>Brandy</name>
+    <display_name>Brandy</display_name>
+
+    <location>Las Vegas, NV</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/936713-brandy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1211596676p3/936713.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1211596676p2/936713.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 05 12:58:52 -0700 2008</created_at>
+  <updated_at>Tue Aug 05 12:58:52 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1417160</id>
+  <body><![CDATA[I was just going to say the same thing Brandy said -- that the gospel is based on line-upon-line, precept-on-precept. We don't teach investigators chastity and tithing in the first lesson. And we don't teach eternal increase in primary. So the gospel is designed to teach the meat and not the milk as you get older. But you always have to have the milk first to prepare for the meat. I think it has little to do with "distorting reality". :-)<br /><br />p.s. your comment about "you follow the commandments and do whats right you'll be happy" we don't teach in the church enough that happiness is a choice. I think that's the problem. ]]></body>
+  
+  <user>
+    <id>582776</id>
+    <name>Kristine</name>
+    <display_name>Kristine</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/582776-kristine]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1344487046p3/582776.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1344487046p2/582776.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 05 13:54:49 -0700 2008</created_at>
+  <updated_at>Tue Aug 05 13:54:49 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1422756</id>
+  <body><![CDATA[That reminds me of a plaque that I have on my wall, it goes: "Happiness is not doing what you like, but liking what you do." I suppose this has nothing to do with the book, but I enjoy the uplift of 'talking' to friends over hundreds of miles. Thanks! And on that same note, that Tambre was speaking, it doesn't matter so much what happens to us in this world, but how we respond to it. That applies to both a life of good things, or one full of trials. It depends on what one wants to see. I was telling my son today, that you have to walk the path anyway, even if you're tired, so it sure is easier if you lay down the baggage: burden of attitudes and just enjoy the walk.]]></body>
+  
+  <user>
+    <id>929340</id>
+    <name>Louise</name>
+    <display_name>Louise</display_name>
+
+    <location>Cedar Rapids, IA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/929340-louise]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1218715611p3/929340.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1218715611p2/929340.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 06 06:32:07 -0700 2008</created_at>
+  <updated_at>Wed Aug 06 06:32:07 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1422964</id>
+  <body><![CDATA[Louise, you are a very wise mother, your children are lucky to have you. I think that it is really important to know the true definition of happiness. As a teenager I thought that the only way to be happy was to have fun. But as I mature and grow older I realize more and more that I can choose to be happy no matter what else is going on around me and that I'm happiest when I'm serving others. ]]></body>
+  
+  <user>
+    <id>929750</id>
+    <name>Annette</name>
+    <display_name>Annette</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/929750-annette]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1221841714p3/929750.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1221841714p2/929750.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 06 07:12:16 -0700 2008</created_at>
+  <updated_at>Wed Aug 06 07:12:16 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1457356</id>
+  <body><![CDATA[Ok, this is not going to be a hate mail because I do still like you even though I haven't seen you in probably 15 years!<br /><br />I do think you started reading Twilight with some preconceived notions and pulled things from the book from reading it to support those ideas. If you read the entire series you would understand Bella's character more, and there is more, and she does become strong and confident in her own abilities.<br /><br />As far as being compared to a trashy Harlequin romance novel, I do not think so. So many novels,especially geared to young adults are very explicit in language and details and this one was not in any way explicit. <br /><br />I think Bella is someone a lot of girls can relate to because she doesn't have much self-esteem or realize her own talents right away. Yes, she is drawn toward Edward, but there were other boys interested in her and she was not boy-crazy. You can't always choose who you fall in love with and if you were in close proximity to a vampire, you just might fall for him! <br /><br />This is fiction- a romantic story, kind of like Romeo and Juliet. You probably don't appreciate that story either. I don't necessarily think that everything you read has to be analyzed to death. Haven't you ever read a book/watched a movie for pure entertainment?<br /><br />My daughter is 11 and I wouldn't recommend her reading it,but I agree with some others that if she were 15 or 16 I wouldn't object to it.<br /><br />You didn't have to love the book, but to give it one star and say you would recommend it to no one is a little bit much. And that's my honest opinion.<br /><br />Go see Mamma Mia- the story wouldn't win an Academy award but it makes you smile.<br /><br />Karina]]></body>
+  
+  <user>
+    <id>377357</id>
+    <name>Karina</name>
+    <display_name>Karina Stanchik</display_name>
+
+    <location>Waupaca, WI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/377357-karina-stanchik]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 09 19:28:16 -0700 2008</created_at>
+  <updated_at>Sat Aug 09 19:28:16 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1457423</id>
+  <body><![CDATA[Ok, give me a break. So Stephenie Meyer is LDS and wrote a vampire book. You didn't like it, fine. I personally was not a fan of Harry Potter, but my son read the books and liked them.<br />I think your main problem with Twilight is because she is a Mormon. If she wasn't you probably wouldn't have read it either. And you were disappointed the missionaries didn't come to make Edward repent and be baptized. I think a lot of people are going overboard about this. Her books are not like that Big Love series about poligamy on cable. That, fine, object to.<br /><br />My mom,sisters, and two of my best friends who are very active Mormons loved Twilight for what it was, a love story with a different twist on the whole vampire tale. And that's good enough for me. <br /><br />Karina<br /><br />I promise this is the last comment I will make about this as long as people stop sending me comments regarding this.]]></body>
+  
+  <user>
+    <id>377357</id>
+    <name>Karina</name>
+    <display_name>Karina Stanchik</display_name>
+
+    <location>Waupaca, WI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/377357-karina-stanchik]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 09 19:36:40 -0700 2008</created_at>
+  <updated_at>Sat Aug 09 19:36:40 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1462727</id>
+  <body><![CDATA[I'm sorry if I offended you Karina, that was truly not my intention.<br /><br />"Analyze it to death"? Who me? Yeah your right, I do have a tendancy to get carried away. And it's true, I can't watch a movie or read a book for pure entertainment. I'm a book/movie-analyzing-junkie. That's why this web-site is so perfect for me. I love it!]]></body>
+  
+  <user>
+    <id>929750</id>
+    <name>Annette</name>
+    <display_name>Annette</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/929750-annette]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1221841714p3/929750.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1221841714p2/929750.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 10 16:41:32 -0700 2008</created_at>
+  <updated_at>Sun Aug 10 16:41:32 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1464996</id>
+  <body><![CDATA[If you obey the commandments and do what's right you won't always be happy, but you will sure be happier than if you ruin your life through drugs, promiscuity, etc! I consider myself to have a good and happy life. I also have chronic pain and fatigue, temptations, faults and weaknesses, and my marriage has had some stresses and strains. But my blessings such as a loving and supportive family, a loving, righteous husband, bright and beautiful children (who drive me crazy at times), a good mind and good opportunities, and the Atonement of Jesus Christ and his Gospel, outweigh the trials. "Happy" doesn't mean problem free and perfect. I like the concept of "joy" because you can't appreciate the sweet if you haven't known the contrast of the bitter. I have bad days of course, but overall I choose to count my blessings. I also consider modern medicine to be a great blessing since it provides medication to ease many things including serious depression! And I have needed that.<br /><br />I agree with many of your complaints about Twilight. But I also enjoyed it as a fun, romantic adult read. I am old enough to understand the difference between fantasy and reality. I agree that it should not be for younger teenagers, but sadly, it was marketed to them in the same way the PG13 movies are. Most PG13 movies are not ones I want to watch as an adult either. <br /><br />I agree that Rowling's writing is better than Meyer's. But Meyer does know how to tell a riveting tale. I think the comparison being made is in the popularity of the books, not the writing of the two authors. I also appreciate Meyer's themes of agency and accountability, choosing to overcome the natural man (vampire) and choosing to govern our passions (Edward, not Bella). My biggest problem with Bella is that after the first book I cease to be able to relate to her. Her reactions to things become so melodramatic and over-the-top and she relates to Edward like he is a drug and she is the addict.<br /><br />Thanks for letting me jump into your discussion, Friends!<br /><br />]]></body>
+  
+  <user>
+    <id>369741</id>
+    <name>Dawn</name>
+    <display_name>Dawn</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/369741-dawn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1219718301p3/369741.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1219718301p2/369741.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 10 21:34:25 -0700 2008</created_at>
+  <updated_at>Sun Aug 10 21:34:25 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1465042</id>
+  <body><![CDATA[Oops, I posted my comment after reading the first 25, not realizing that there was a second page which included Karina's comments. Sorry! I do think Karina had some reasonable points, too. But read my comments as post #26 and they will make more sense! Thanks!]]></body>
+  
+  <user>
+    <id>369741</id>
+    <name>Dawn</name>
+    <display_name>Dawn</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/369741-dawn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1219718301p3/369741.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1219718301p2/369741.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 10 21:42:36 -0700 2008</created_at>
+  <updated_at>Sun Aug 10 21:42:36 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>2893839</id>
+  <body><![CDATA[I think your evalutation of this book is dead on.I completly agree with you on everything you wrote. I still can't help loving this book. <br />What is wrong with me??? ;o)]]></body>
+  
+  <user>
+    <id>1430980</id>
+    <name>Michelle</name>
+    <display_name>Michelle</display_name>
+
+    <location>Orchard Park, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1430980-michelle]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1218939380p3/1430980.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1218939380p2/1430980.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Dec 10 17:30:17 -0800 2008</created_at>
+  <updated_at>Wed Dec 10 17:30:17 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>2933219</id>
+  <body><![CDATA[While I also loathed this book, and agree with 99% of your review, I do disagree with your equating Bella to a girl from a 19th century; there are some contemporary novels from that time period that show women with much stronger minds and better abilities than Bella could ever dream of having. Check out North and South, or even A Long, Fatal Love Chase, Jane Eyre; even the women who may not be physically strong are stronger of mind and sense than Bella could be with actually functioning brain cells.]]></body>
+  
+  <user>
+    <id>1346502</id>
+    <name>Rachel</name>
+    <display_name>Rachel</display_name>
+
+    <location>West Jordan, UT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1346502-rachel]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1339096024p3/1346502.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1339096024p2/1346502.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Dec 13 16:15:03 -0800 2008</created_at>
+  <updated_at>Sat Dec 13 16:15:03 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>2935155</id>
+  <body><![CDATA[Rachel, thank you for your comment, you are absolutely right, there are plenty of strong, capable, intelligent women from the 19th century. I guess, I was thinking of the stereotypical swooning, fainting, melodramatic type of woman who is left tied to the railroad tracks with a train fast approaching and needs a man to rescue her. You know, from the old black and white movies? ]]></body>
+  
+  <user>
+    <id>929750</id>
+    <name>Annette</name>
+    <display_name>Annette</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/929750-annette]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1221841714p3/929750.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1221841714p2/929750.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Dec 13 19:14:56 -0800 2008</created_at>
+  <updated_at>Sat Dec 13 19:14:56 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3887341</id>
+  <body><![CDATA["5) The comparison between this series and the Harry Potter series - If I were J.K. Rowling I would be offended that people are comparing the Twilight series with the Harry Potter series. Stephenie Meyer's writing is NOT up to par with J.K. Rowling - not even close. "<br /><br />I definitely agree with that ^^. Comparing Twi to HP is just wrong(But FYI I seriously love Twilight, but I'm glad that there's someone out there who hates Twilight for valid reasons."]]></body>
+  
+  <user>
+    <id>1512832</id>
+    <name>Courtney </name>
+    <display_name>Courtney </display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1512832-courtney]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1432527576p3/1512832.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1432527576p2/1512832.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 08 13:08:48 -0800 2009</created_at>
+  <updated_at>Sun Feb 08 13:08:48 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>4594351</id>
+  <body><![CDATA[Am I the only person out there that takes exception to the "vampire" aspect of the book? Vampirism is, in my opinion, only one step above caniballism and vampires exhibit many of the same tendancies as serial killers. The drinking of animal blood (not to mention human) is condemend in the Book of Mormon and the New Testament. Is it a good thing to bring vampirism into the mainstream through such a popular book as Twilight and it's sequels? ]]></body>
+  
+  <user>
+    <id>2136415</id>
+    <name>Marci</name>
+    <display_name>Marci</display_name>
+
+    <location>Spanish Fork, UT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2136415-marci]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 17 07:36:10 -0700 2009</created_at>
+  <updated_at>Tue Mar 17 07:36:10 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>4595315</id>
+  <body><![CDATA[<i>Marci wrote: "Am I the only person out there that takes exception to the "vampire" aspect of the book? Vampirism is, in my opinion, only one step above caniballism and vampires exhibit many of the same tendanci..."</i><br /><br /><br />Actually, that was one of my objections: a vampire is just a serial killer, and I wouldn't be comforted by the idea of him getting his ya-yas off by killing animals in the woods. <br /><br />Vampirism has been mainstream since Dracula. It's the sexy part that I am weary of. And since there is an apparent movement towards sexy vampires, the genre is dead to me.<br />]]></body>
+  
+  <user>
+    <id>1346502</id>
+    <name>Rachel</name>
+    <display_name>Rachel</display_name>
+
+    <location>West Jordan, UT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1346502-rachel]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1339096024p3/1346502.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1339096024p2/1346502.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 17 08:51:45 -0700 2009</created_at>
+  <updated_at>Tue Mar 17 08:51:45 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>5201637</id>
+  <body><![CDATA[Apparently this book is not about vampires. I agree with Annette's review on this book and its themes. People that get hooked on the action and suspense of this book clearly don't read books that have action and suspense in them or at least not any good ones. <br /><br />I think Stephan King said it best about this author. Here read it for yourself.<br /><br /><a target="_blank" href="http://www.msnbc.msn.com/id/29001524" rel="nofollow">http://www.msnbc.msn.com/id/29001524</a>]]></body>
+  
+  <user>
+    <id>2214070</id>
+    <name>Max</name>
+    <display_name>Max</display_name>
+
+    <location>Philadelphia, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2214070-max]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1240339952p3/2214070.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1240339952p2/2214070.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Apr 16 04:26:02 -0700 2009</created_at>
+  <updated_at>Thu Apr 16 04:26:02 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>5204900</id>
+  <body><![CDATA[Thank you Max, for your comments and link to Stephen King's comments and yes, I agree with both you and Stephen King. I especially like what he said about J.k. Rowling. ]]></body>
+  
+  <user>
+    <id>929750</id>
+    <name>Annette</name>
+    <display_name>Annette</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/929750-annette]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1221841714p3/929750.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1221841714p2/929750.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Apr 16 08:43:15 -0700 2009</created_at>
+  <updated_at>Thu Apr 16 08:43:15 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>5205727</id>
+  <body><![CDATA[I think stephen King hit it square on the head with regard to "safe" sexuality.]]></body>
+  
+  <user>
+    <id>1346502</id>
+    <name>Rachel</name>
+    <display_name>Rachel</display_name>
+
+    <location>West Jordan, UT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1346502-rachel]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1339096024p3/1346502.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1339096024p2/1346502.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Apr 16 09:39:45 -0700 2009</created_at>
+  <updated_at>Thu Apr 16 09:39:45 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>5575282</id>
+  <body><![CDATA[Wow, such angst. It's fiction, you can pick it up and read it or not read it. It's a free country and we have the "freedom" to read what we choose. So, if you don't think it's right for YOU or YOUR child, don't read it. Simple as that. Case closed. ]]></body>
+  
+  <user>
+    <id>2010441</id>
+    <name>Dee</name>
+    <display_name>Dee Halbert</display_name>
+
+    <location>Temperance, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2010441-dee-halbert]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1394397655p3/2010441.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1394397655p2/2010441.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 03 05:43:01 -0700 2009</created_at>
+  <updated_at>Sun May 03 05:43:01 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>5575650</id>
+  <body><![CDATA[angst: a gloomy, often neurotic feeling of generalized anxiety and depression.<br /><br />We did read it. We did or didn't like it. Our kids will or won't read it. The point of this forum is to review and discuss. Not liking a book, and giving our reasons for not liking it (whether others agree with those reasons or not) does not constitute angst. Just a book review.]]></body>
+  
+  <user>
+    <id>1346502</id>
+    <name>Rachel</name>
+    <display_name>Rachel</display_name>
+
+    <location>West Jordan, UT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1346502-rachel]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1339096024p3/1346502.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1339096024p2/1346502.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 03 06:29:49 -0700 2009</created_at>
+  <updated_at>Sun May 03 06:29:49 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>7340771</id>
+  <body><![CDATA[I agree bella and edward are both idiots i mean who does bella like edward or jacob. AND j.k. rowling is a way better author i've read her books three times and i have no intention of reading stephanie meyers books again (well maybe to see if their worth making fun of but that's about it.)and this is isn't hana talking it's her friend who forgot to log her out :0.]]></body>
+  
+  <user>
+    <id>335942</id>
+    <name>Hana</name>
+    <display_name>Hana</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/335942-hana]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1188766921p3/335942.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1188766921p2/335942.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 10 17:49:15 -0700 2009</created_at>
+  <updated_at>Fri Jul 10 17:49:15 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>9606555</id>
+  <body><![CDATA[Bella, Edward AND Jacob are all idiots.<br />Bella is a sissy with no sense of humor and can't go five steps without needing to say, "ohh safe me Edward!!!" I do not,without a freaking doubt,like damsels in distress--unless, its like classic Disney. If i'm supposed to want to be a klutzy 'do the dishes and make dinner' kind of girl, please, SHOOT ME NOW. <br />Edward? jeez, all I need to say is that he's a stupid, sparkling, overprotective, stalking, loser vampire. I would rather fall in love with a guy who doesn't constantly insult me or think I can't do things all on my lonesome.<br />Jacob? oh boy. lets get started on werewolves, shall we? We all know how great J.K. Rowlings is, right? Good, because shee is the best authoress in history. she's simply the BEST. I've read and re-read her series about a hundred thousand times. and in the third book, she has werewolves down to the freaking 't'! she's got the full moon, she has the loss of memory, she has the real live ANGRY, NOT CONTAIN werewolf!! Meyers? She has a group of teen aged boys with serius anger issues and a need to put on a shirt.]]></body>
+  
+  <user>
+    <id>1653673</id>
+    <name>Lizabeth</name>
+    <display_name>Lizabeth</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1653673-lizabeth]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1413174903p3/1653673.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1413174903p2/1653673.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Sep 26 10:55:55 -0700 2009</created_at>
+  <updated_at>Sat Sep 26 10:55:55 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10312300</id>
+  <body><![CDATA[well i like the book i think ppl my age can really relate to the characters <br /><br />because every girl wants a edward - a guy who loves her who loves her for who she is - and sweeps her of her feet <br /><br />jacod is the poor guy who is the best friend that is never noticed <br /><br /><br />i personally think that ppl over the age of 14 should read it and maybe if they are mature enough they will read the story and they will see the real life behind the story <br />]]></body>
+  
+  <user>
+    <id>2400493</id>
+    <name>Emmza</name>
+    <display_name>Emmza</display_name>
+
+    <location><![CDATA[London, H9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2400493-emmza]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu Oct 22 17:51:37 -0700 2009</created_at>
+  <updated_at>Thu Oct 22 17:51:37 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10465634</id>
+  <body><![CDATA[<i>call me crazy and be done with it. wrote: "Bella, Edward AND Jacob are all idiots.<br />Bella is a sissy with no sense of humor and can't go five steps without needing to say, "ohh safe me Edward!!!" I do not,without a freaking doubt,like damse..."</i><br /><br />First off, I enjoyed the book. Most people seem to hate Twilight because of the movie. And Jacob is NOT an idiot. ]]></body>
+  
+  <user>
+    <id>2883902</id>
+    <name>Jasmine</name>
+    <display_name>Jasmine</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2883902-jasmine]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Oct 28 18:17:20 -0700 2009</created_at>
+  <updated_at>Wed Oct 28 18:17:20 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>14720768</id>
+  <body><![CDATA[Awesome review! :] Well said. I admit that reading it at first it seemed pretty interesting, but after finishing the series and reflecting on it... <i>God. How could I read all that..?!</i>]]></body>
+  
+  <user>
+    <id>3358418</id>
+    <name>Ashriel</name>
+    <display_name>Ashriel</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3358418-ashriel]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1377730375p3/3358418.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1377730375p2/3358418.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Mar 18 15:59:15 -0700 2010</created_at>
+  <updated_at>Thu Mar 18 15:59:15 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>16016999</id>
+  <body><![CDATA[Does anyone else get upset that the author's undertated and often ignored vampire powers is not ever considered as the reason why Bella is so darned attracted to Eddie? He says something in the restaurant when he takes her out to dinner, doesn't he? Explaining why the waitress can't take her eyes off him an flirts unabashedly? Then in the plot, no one thinks that maybe Bella too is sucked into his vampire magnetism that they all possess to bring in their victims? It isn't love, it is this "vampire power" thing that she can't resist. At least that is what I'm promoting to my daughters and nieces who are sinking $$$ into this series. I mean honestly, why would she experience nightmares and physical pain in withdrawal from his presence...he is a drug and HELLO that is also a pretty poor message for girls. Well, any kind of 'SURRENDER' message is a poor one.<br /><br />After seeing the New Moon movie, I can say Eddie is not doing it for me with the lipstick and eyebrow pencil to make him look extra vampish.]]></body>
+  
+  <user>
+    <id>2904650</id>
+    <name>Berni</name>
+    <display_name>Berni</display_name>
+
+    <location>Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2904650-berni]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1343094287p3/2904650.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1343094287p2/2904650.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Apr 26 10:53:11 -0700 2010</created_at>
+  <updated_at>Mon Apr 26 10:53:11 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>19803470</id>
+  <body><![CDATA[Agree COMPLETELY.]]></body>
+  
+  <user>
+    <id>65647</id>
+    <name>Julie</name>
+    <display_name>Julie</display_name>
+
+    <location>Charlotte, NC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/65647-julie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1199461959p3/65647.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1199461959p2/65647.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 11 22:17:40 -0700 2010</created_at>
+  <updated_at>Wed Aug 11 22:17:40 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>19845130</id>
+  <body><![CDATA[I agree COMPLETELY. You Go Girl!]]></body>
+  
+  <user>
+    <id>3931113</id>
+    <name>Alicia</name>
+    <display_name>Alicia</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3931113-alicia]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1277710616p3/3931113.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1277710616p2/3931113.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 13 02:42:37 -0700 2010</created_at>
+  <updated_at>Fri Aug 13 02:42:37 -0700 2010</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/20650233]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/20650233]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

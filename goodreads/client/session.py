@@ -39,7 +39,7 @@ class GoodreadsSession:
             goodreads_service.get_request_token(header_auth=True)
 
         authorize_url = goodreads_service.get_authorize_url(self.request_token)
-        print 'To authorize access visit: ' + authorize_url
+        print ('To authorize access visit: ' + authorize_url)
 
         # Store service for finishing
         self.goodreads_service = goodreads_service

@@ -1,0 +1,505 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:50:35 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: PREMJF05QHDX8PNVHJQ4
+etag: W/"3b1685e5f238bdd6df51e5f6bfef9369"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.219483
+set-cookie: csid=BAhJIhgwMTctODY4OTQwOS02OTkzMTc0BjoGRVQ%3D--242623a7cef6e80389b54977d0558f306a2f5e04; path=/; expires=Tue, 12 May 2037 13:50:35 -0000, locale=es; path=/, _session_id2=c41bc3aaf0d32989ab86b5fff5c491f5; path=/; expires=Fri, 12 May 2017 19:50:35 -0000; HttpOnly
+content-length: 19412
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=578304548
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>578304548</id>
+    
+  <user>
+    <id>16384209</id>
+    <name>Candace</name>
+    <display_name>Candace</display_name>
+
+    <location>Edgewood, NM</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16384209-candace]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1459720769p3/16384209.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1459720769p2/16384209.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">4374400</id>
+  <isbn>0525421033</isbn>
+  <isbn13>9780525421030</isbn13>
+  <text_reviews_count type="integer">26207</text_reviews_count>
+  <title>If I Stay (If I Stay, #1)</title>
+  <title_without_series>If I Stay</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1347462970m/4374400.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1347462970s/4374400.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/4374400-if-i-stay</link>
+  <num_pages>201</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.96</average_rating>
+  <ratings_count>549628</ratings_count>
+  <description>&lt;i&gt;Librarian note: an alternate cover for this edition can be found &lt;a href="https://www.goodreads.com/book/show/21570677-if-i-stay" rel="nofollow"&gt;here&lt;/a&gt;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Just listen, Adam says with a voice that sounds like shrapnel.&lt;br /&gt;&lt;br /&gt;I open my eyes wide now.&lt;br /&gt;I sit up as much as I can.&lt;br /&gt;And I listen.&lt;br /&gt;&lt;br /&gt;Stay, he says.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Choices. Seventeen-year-old Mia is faced with some tough ones: Stay true to her first love—music—even if it means losing her boyfriend and leaving her family and friends behind?&lt;br /&gt;&lt;br /&gt;Then one February morning Mia goes for a drive with her family, and in an instant, everything changes. Suddenly, all the choices are gone, except one. And it's the only one that matters.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;If I Stay&lt;/i&gt; is a heartachingly beautiful book about the power of love, the true meaning of family, and the choices we all make.</description>
+<authors>
+<author>
+<id>295178</id>
+<name>Gayle Forman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1472502468p5/295178.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1472502468p2/295178.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/295178.Gayle_Forman]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>966486</ratings_count>
+<text_reviews_count>78890</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">606478954</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Thu Oct 16 19:09:06 -0700 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">605656616</id>
+          <old_status>to-read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Thu Oct 16 01:09:25 -0700 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>4</rating>
+  <votes>57</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="childhood-loves" exclusive="false" review_shelf_id="830317201" sortable="false" />
+    <shelf name="sweet-heart-warming-stories" exclusive="false" review_shelf_id="887249465" sortable="false" />
+    <shelf name="rock-stars" exclusive="false" review_shelf_id="830317148" sortable="false" />
+    <shelf name="paranormal" exclusive="false" review_shelf_id="871109063" sortable="false" />
+    <shelf name="listened-to-audio-version" exclusive="false" review_shelf_id="853602656" sortable="false" />
+    <shelf name="tearjerkers" exclusive="false" review_shelf_id="830317122" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Oct 16 00:00:00 -0700 2014</started_at>
+  <read_at>Thu Oct 16 00:00:00 -0700 2014</read_at>
+  <date_added>Mon Apr 01 20:23:34 -0700 2013</date_added>
+  <date_updated>Wed Sep 23 19:30:03 -0700 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Prepare to bawl your eyes out. This one is a tearjerker. If you are in the mood for an ugly-cry, look no farther.<br /><br />While I expected this book to be sad and beautifully tragic, which it most definitely was, I wasn't prepared for the emotional blows to start so early-on and then continue for the enti...]]>
+  </body>
+
+  
+
+  <comments_count>17</comments_count>
+    <comments start="1" end="17" total="17">
+        <comment>
+  <id>140569031</id>
+  <body><![CDATA[Awesome review I watch the move and cried my eyes out xx]]></body>
+  
+  <created_at>Wed Sep 23 08:21:33 -0700 2015</created_at>
+  <updated_at>Wed Sep 23 08:21:33 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>140576372</id>
+  <body><![CDATA[Book 2 is even better!]]></body>
+  
+  <user>
+    <id>8016095</id>
+    <name>Sadie </name>
+    <display_name>Sadie </display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8016095-sadie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1391811168p3/8016095.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1391811168p2/8016095.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Sep 23 11:26:02 -0700 2015</created_at>
+  <updated_at>Wed Sep 23 11:26:02 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>140591831</id>
+  <body><![CDATA[<i>Madeleine wrote: "Awesome review I watch the move and cried my eyes out xx"</i><br /><br />Thanks, Madeleine! I loved this one and have to say that they did a really awesome job on the movie also. I'm always nervous about watching the movies for my favorite books because they usually cut so much that I'm disappointed. Luckily, they did a great job with this one. I thought the casting was superb also. :)]]></body>
+  
+  <user>
+    <id>16384209</id>
+    <name>Candace</name>
+    <display_name>Candace</display_name>
+
+    <location>Edgewood, NM</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16384209-candace]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1459720769p3/16384209.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1459720769p2/16384209.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Sep 23 18:14:53 -0700 2015</created_at>
+  <updated_at>Wed Sep 23 18:14:53 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>140591918</id>
+  <body><![CDATA[<i>Sadie wrote: "Book 2 is even better!"</i><br /><br />I loved it also. It's a close call for me, but I did enjoy seeing how they grew up and how things played out. The first one was so heartbreaking that I needed the second one to piece me back together again. :)]]></body>
+  
+  <user>
+    <id>16384209</id>
+    <name>Candace</name>
+    <display_name>Candace</display_name>
+
+    <location>Edgewood, NM</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16384209-candace]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1459720769p3/16384209.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1459720769p2/16384209.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Sep 23 18:17:25 -0700 2015</created_at>
+  <updated_at>Wed Sep 23 18:17:25 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>140601398</id>
+  <body><![CDATA[<i>Candace wrote: "Madeleine wrote: "Awesome review I watch the move and cried my eyes out xx"<br /><br />Thanks, Madeleine! I loved this one and have to say that they did a really awesome job on the movie also. I'm always ner..."</i><br /><br />I agree with you 100%, I wanted to read the book and was scared to be disappointed, I think I still need to read it, book 2 also sounds good but I am scared because, me and a book 2's are not friends!!! :D]]></body>
+  
+  <created_at>Thu Sep 24 01:16:10 -0700 2015</created_at>
+  <updated_at>Thu Sep 24 01:16:10 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>140605270</id>
+  <body><![CDATA[Fab review,gorgeous,xx]]></body>
+  
+  <user>
+    <id>29540292</id>
+    <name>Judith</name>
+    <display_name>Judith</display_name>
+
+    <location><![CDATA[Newcastle Upon Tyne, England, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/29540292-judith]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1421966041p3/29540292.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1421966041p2/29540292.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Sep 24 05:18:51 -0700 2015</created_at>
+  <updated_at>Thu Sep 24 05:18:51 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>140608021</id>
+  <body><![CDATA[<i>Judith wrote: "Fab review,gorgeous,xx"</i><br /><br />Thanks, sweetie! xoxo]]></body>
+  
+  <user>
+    <id>16384209</id>
+    <name>Candace</name>
+    <display_name>Candace</display_name>
+
+    <location>Edgewood, NM</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16384209-candace]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1459720769p3/16384209.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1459720769p2/16384209.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Sep 24 06:35:25 -0700 2015</created_at>
+  <updated_at>Thu Sep 24 06:35:25 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>147377759</id>
+  <body><![CDATA[I also cried. It was a great book! But i can't wait to read the second one!]]></body>
+  
+  <user>
+    <id>50430084</id>
+    <name>Angel Martin</name>
+    <display_name>Angel Martin</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/50430084-angel-martin]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Feb 10 07:39:16 -0800 2016</created_at>
+  <updated_at>Wed Feb 10 07:39:16 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>162896385</id>
+  <body><![CDATA[Starting the book tonight after reading a suspense and horror book earlier today. Want to read this one before I see the movie. As always, I enjoyed your review!]]></body>
+  
+  <user>
+    <id>7365405</id>
+    <name>James</name>
+    <display_name>James</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7365405-james]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492727450p3/7365405.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492727450p2/7365405.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Feb 16 19:10:21 -0800 2017</created_at>
+  <updated_at>Thu Feb 16 19:10:21 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>162905443</id>
+  <body><![CDATA[<i>Angel Martin wrote: "I also cried. It was a great book! But i can't wait to read the second one!"</i><br /><br />Glad you enjoyed it also, Angel! The second book is great too. Enjoy! :) xoxo]]></body>
+  
+  <user>
+    <id>16384209</id>
+    <name>Candace</name>
+    <display_name>Candace</display_name>
+
+    <location>Edgewood, NM</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16384209-candace]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1459720769p3/16384209.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1459720769p2/16384209.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 17 03:09:54 -0800 2017</created_at>
+  <updated_at>Fri Feb 17 03:09:54 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>162905458</id>
+  <body><![CDATA[<i>James wrote: "Starting the book tonight after reading a suspense and horror book earlier today. Want to read this one before I see the movie. As always, I enjoyed your review!"</i><br /><br />Thanks, James! I hope you love it. Enjoy! :) xoxo]]></body>
+  
+  <user>
+    <id>16384209</id>
+    <name>Candace</name>
+    <display_name>Candace</display_name>
+
+    <location>Edgewood, NM</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16384209-candace]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1459720769p3/16384209.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1459720769p2/16384209.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 17 03:10:33 -0800 2017</created_at>
+  <updated_at>Fri Feb 17 03:10:33 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>162914829</id>
+  <body><![CDATA[Thank you. I did... just finished it and posted a review. I may even watch the movie this weekend to compare the two!]]></body>
+  
+  <user>
+    <id>7365405</id>
+    <name>James</name>
+    <display_name>James</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7365405-james]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492727450p3/7365405.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492727450p2/7365405.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 17 08:27:39 -0800 2017</created_at>
+  <updated_at>Fri Feb 17 08:27:39 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>162931607</id>
+  <body><![CDATA[<i>James wrote: "Thank you. I did... just finished it and posted a review. I may even watch the movie this weekend to compare the two!"</i><br /><br />So glad you enjoyed it, James! I hope you like the movie as well. I think the movie was exceptionally well-cast. Usually, I am disappointed in the movies made of books that I enjoyed. This one was great in my opinion. :)]]></body>
+  
+  <user>
+    <id>16384209</id>
+    <name>Candace</name>
+    <display_name>Candace</display_name>
+
+    <location>Edgewood, NM</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16384209-candace]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1459720769p3/16384209.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1459720769p2/16384209.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 17 16:44:13 -0800 2017</created_at>
+  <updated_at>Fri Feb 17 16:44:13 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>162932735</id>
+  <body><![CDATA[Nice review. I really liked this one too.]]></body>
+  
+  <user>
+    <id>11856352</id>
+    <name>Mo</name>
+    <display_name>Mo</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11856352-mo]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1371247812p3/11856352.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1371247812p2/11856352.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 17 17:24:36 -0800 2017</created_at>
+  <updated_at>Fri Feb 17 17:24:36 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>162934593</id>
+  <body><![CDATA[Great Review, it was a tear jerker for sure!]]></body>
+  
+  <user>
+    <id>15402332</id>
+    <name>Pam</name>
+    <display_name>Pam Nelson</display_name>
+
+    <location>Winnipeg, MB, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15402332-pam-nelson]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478927717p3/15402332.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478927717p2/15402332.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 17 18:31:41 -0800 2017</created_at>
+  <updated_at>Fri Feb 17 18:31:41 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>162941898</id>
+  <body><![CDATA[I loved this book and the movie was great too. The second one is a great one too! Fabulous review, hun! xxoo]]></body>
+  
+  <user>
+    <id>24676543</id>
+    <name>Steffi</name>
+    <display_name>Steffi De Ceuster  ♥</display_name>
+
+    <location>Antwerp, 2220, Belgium</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24676543-steffi-de-ceuster]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1494155558p3/24676543.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1494155558p2/24676543.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 18 00:57:29 -0800 2017</created_at>
+  <updated_at>Sat Feb 18 00:57:29 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>162954254</id>
+  <body><![CDATA[<i>Steffi wrote: "I loved this book and the movie was great too. The second one is a great one too! Fabulous review, hun! xxoo"</i><br /><br /><i>Pam wrote: "Great Review, it was a tear jerker for sure!"</i><br /><br /><i>Mo wrote: "Nice review. I really liked this one too."</i><br /><br />Thanks so much, ladies! I agree about the movie being great also. I thought it was exceptionally well-cast. I loved it! :) xoxo]]></body>
+  
+  <user>
+    <id>16384209</id>
+    <name>Candace</name>
+    <display_name>Candace</display_name>
+
+    <location>Edgewood, NM</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16384209-candace]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1459720769p3/16384209.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1459720769p2/16384209.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 18 09:43:46 -0800 2017</created_at>
+  <updated_at>Sat Feb 18 09:43:46 -0800 2017</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/578304548]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/578304548]]></link>
+    <owned>1</owned>
+</review>
+
+
+</GoodreadsResponse>

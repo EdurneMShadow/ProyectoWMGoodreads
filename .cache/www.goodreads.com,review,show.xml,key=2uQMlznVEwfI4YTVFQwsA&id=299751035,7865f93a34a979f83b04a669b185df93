@@ -1,0 +1,730 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:54:08 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: 7ADG99PXVP9G4WV9PYSH
+etag: W/"934075dabba63cfad998e8a72683b304"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.374834
+set-cookie: csid=BAhJIhg4OTgtMDQ3NTczMC0yMTEyMDQ1BjoGRVQ%3D--d696d803b0ccd728bca9ec939aa90e8bbde7456f; path=/; expires=Tue, 12 May 2037 13:54:08 -0000, locale=es; path=/, _session_id2=32e8da4c44f531a1f37e78aef5d4f7a5; path=/; expires=Fri, 12 May 2017 19:54:08 -0000; HttpOnly
+content-length: 29892
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=299751035
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>299751035</id>
+    
+  <user>
+    <id>131922</id>
+    <name>mark</name>
+    <display_name>mark monday</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/131922-mark-monday]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478025730p3/131922.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478025730p2/131922.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">7260188</id>
+  <isbn>0439023513</isbn>
+  <isbn13>9780439023511</isbn13>
+  <text_reviews_count type="integer">86152</text_reviews_count>
+  <title>Mockingjay (The Hunger Games, #3)</title>
+  <title_without_series>Mockingjay</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1358275419m/7260188.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1358275419s/7260188.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7260188-mockingjay</link>
+  <num_pages>392</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First Edition</edition_information>
+  <publisher>Scholastic Press</publisher>
+  <publication_day>24</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.03</average_rating>
+  <ratings_count>1836765</ratings_count>
+  <description>&lt;b&gt;My name is Katniss Everdeen.&lt;br /&gt;Why am I not dead?&lt;br /&gt;I should be dead.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Katniss Everdeen, girl on fire, has survived, even though her home has been destroyed. Gale has escaped. Katniss's family is safe. Peeta has been captured by the Capitol. District 13 really does exist. There are rebels. There are new leaders. A revolution is unfolding.&lt;br /&gt;&lt;br /&gt;It is by design that Katniss was rescued from the arena in the cruel and haunting Quarter Quell, and it is by design that she has long been part of the revolution without knowing it. District 13 has come out of the shadows and is plotting to overthrow the Capitol. Everyone, it seems, has had a hand in the carefully laid plans--except Katniss.&lt;br /&gt;&lt;br /&gt;The success of the rebellion hinges on Katniss's willingness to be a pawn, to accept responsibility for countless lives, and to change the course of the future of Panem. To do this, she must put aside her feelings of anger and distrust. She must become the rebels' Mockingjay--no matter what the personal cost.</description>
+<authors>
+<author>
+<id>153394</id>
+<name>Suzanne Collins</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1394819770p5/153394.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1394819770p2/153394.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/153394.Suzanne_Collins]]></link>
+<average_rating>4.27</average_rating>
+<ratings_count>8961004</ratings_count>
+<text_reviews_count>356107</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1254775741</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sat Feb 27 00:24:57 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>4</rating>
+  <votes>87</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="after-the-fall" exclusive="false" review_shelf_id="222980268" sortable="false" />
+    <shelf name="teenworld" exclusive="false" review_shelf_id="197998652" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Mar 24 00:00:00 -0700 2012</started_at>
+  <read_at></read_at>
+  <date_added>Sat Mar 24 03:09:01 -0700 2012</date_added>
+  <date_updated>Sun Dec 08 07:27:50 -0800 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[ALL SPOILERS<br /><br /><i>Chapter 1</i><br />A memorial of sorts. Some final books in trilogies spend time carefully recounting what happened in prior books. Some jump right into the action. Mockingjay has ash and despair and the end of a life our heroine once had. It does not feel like a stirring call to arms; it does...]]>
+  </body>
+
+  
+
+  <comments_count>26</comments_count>
+    <comments start="1" end="26" total="26">
+        <comment>
+  <id>47775978</id>
+  <body><![CDATA[I know! I teared up in the same places. The movie was excellent.]]></body>
+  
+  <user>
+    <id>1085121</id>
+    <name>Stephanie</name>
+    <display_name>Stephanie</display_name>
+
+    <location>Sandusky, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1085121-stephanie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1491625999p3/1085121.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1491625999p2/1085121.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 27 20:35:12 -0700 2012</created_at>
+  <updated_at>Tue Mar 27 20:35:12 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47776887</id>
+  <body><![CDATA[Man I wish I could review books like <i>some</i> people ...]]></body>
+  
+  <user>
+    <id>2465351</id>
+    <name>Ian</name>
+    <display_name>Ian</display_name>
+
+    <location>Vista, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2465351-ian]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1324174664p3/2465351.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1324174664p2/2465351.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 27 20:53:32 -0700 2012</created_at>
+  <updated_at>Tue Mar 27 20:53:32 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47777351</id>
+  <body><![CDATA[ha! well thank you Ian. but your review was quite excellent. i just reread it!]]></body>
+  
+  <user>
+    <id>131922</id>
+    <name>mark</name>
+    <display_name>mark monday</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/131922-mark-monday]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478025730p3/131922.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478025730p2/131922.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 27 21:02:59 -0700 2012</created_at>
+  <updated_at>Tue Mar 27 21:02:59 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47805301</id>
+  <body><![CDATA[Oh, Mark, such a fabulous review. And thank you for reminding me in such detail about the book. I hope everyone reads your review, after they've read the book/the trilogy.]]></body>
+  
+  <user>
+    <id>83445</id>
+    <name>Lisa</name>
+    <display_name>Lisa Vegan</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/83445-lisa-vegan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1243394822p3/83445.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1243394822p2/83445.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 28 12:19:17 -0700 2012</created_at>
+  <updated_at>Wed Mar 28 12:19:17 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47805715</id>
+  <body><![CDATA[thank you very much Lisa! i just read yours and also enjoyed it.<br /><br />it's strange, i'm not exactly sad that the series is over. i have a very <i>satisfied</i> feeling because it seems like Collins' really accomplished her goals. i haven't been as moved by a YA series since His Dark Materials.]]></body>
+  
+  <user>
+    <id>131922</id>
+    <name>mark</name>
+    <display_name>mark monday</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/131922-mark-monday]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478025730p3/131922.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478025730p2/131922.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 28 12:27:48 -0700 2012</created_at>
+  <updated_at>Wed Mar 28 12:27:48 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47805993</id>
+  <body><![CDATA[Mark, Oh I loved <a href="https://www.goodreads.com/book/show/45486.His_Dark_Materials" title="His Dark Materials by Philip Pullman" rel="nofollow">His Dark Materials</a> too.<br /><br />And, I agree, <a href="https://www.goodreads.com/author/show/153394.Suzanne_Collins" title="Suzanne Collins" rel="nofollow">Suzanne Collins</a> did a masterful job with her story. the three books do feel complete.<br /><br />And, I plan to see the movie within the week.]]></body>
+  
+  <user>
+    <id>83445</id>
+    <name>Lisa</name>
+    <display_name>Lisa Vegan</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/83445-lisa-vegan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1243394822p3/83445.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1243394822p2/83445.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 28 12:32:27 -0700 2012</created_at>
+  <updated_at>Wed Mar 28 12:32:27 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47806445</id>
+  <body><![CDATA[tell me your thoughts on it when you do!]]></body>
+  
+  <user>
+    <id>131922</id>
+    <name>mark</name>
+    <display_name>mark monday</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/131922-mark-monday]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478025730p3/131922.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478025730p2/131922.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 28 12:40:16 -0700 2012</created_at>
+  <updated_at>Wed Mar 28 12:40:16 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47809663</id>
+  <body><![CDATA[<i>mark wrote: "tell me your thoughts on it when you do!"</i><br /><br />I will. <br /><br />I have some major problems already. Cato is supposed to be huge and strong, like a football player. The actor who plays him has an average physique. I could go on. But it sounds as though, overall, a good job was done, and I'm too curious not to see it. At least they didn't make any of the actors lose weight so they'd look underfed. Some of them are too young for that.]]></body>
+  
+  <user>
+    <id>83445</id>
+    <name>Lisa</name>
+    <display_name>Lisa Vegan</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/83445-lisa-vegan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1243394822p3/83445.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1243394822p2/83445.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 28 13:31:38 -0700 2012</created_at>
+  <updated_at>Wed Mar 28 13:31:38 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47812887</id>
+  <body><![CDATA[Excellent review Mark. I saw the movie over the weekend and I teared up at the same points as you did. As a rugged heterosexual male I know I'm not supposed to do that, but I'm getting more emotional as I get older. I thought Jennifer Lawrence was wonderful. I appreciate that they stayed true to the book.]]></body>
+  
+  <user>
+    <id>3427339</id>
+    <name>Jeffrey</name>
+    <display_name>Jeffrey Keeten</display_name>
+
+    <location>Dodge City, KS</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3427339-jeffrey-keeten]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1301087352p3/3427339.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1301087352p2/3427339.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 28 14:16:49 -0700 2012</created_at>
+  <updated_at>Wed Mar 28 14:16:49 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47817614</id>
+  <body><![CDATA[Amazing review! You summed up my thoughts on the novel way better than I ever could. Re-read is on the cards.]]></body>
+  
+  <user>
+    <id>986405</id>
+    <name>Tim</name>
+    <display_name>Tim</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/986405-tim]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1313726105p3/986405.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1313726105p2/986405.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 28 15:24:15 -0700 2012</created_at>
+  <updated_at>Wed Mar 28 15:24:15 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47818795</id>
+  <body><![CDATA[<i>As a rugged heterosexual male I know I'm not supposed to do that, but I'm getting more emotional as I get older.</i><br /><br />very good! i am also getting increasing weepy as i get older. and the same goes for my most rugged heterosexual friend. since having a kid a few years ago, he tears up when we talk about things like kids &amp; marriage. and certain commercials! and this is a former football player and all around macho guy who owns his own construction company. so you are not alone in your hearfelt rugged heterosexuality - there are others out there like you!<br /><br /><i>I thought Jennifer Lawrence was wonderful.</i><br /><br />me too. she is an unknown to me so i wasn't sure what to expect. she was perfect.]]></body>
+  
+  <user>
+    <id>131922</id>
+    <name>mark</name>
+    <display_name>mark monday</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/131922-mark-monday]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478025730p3/131922.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478025730p2/131922.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 28 15:40:25 -0700 2012</created_at>
+  <updated_at>Wed Mar 28 15:40:25 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47818812</id>
+  <body><![CDATA[<i>Tim wrote: "Amazing review! You summed up my thoughts on the novel way better than I ever could. Re-read is on the cards."</i><br /><br />thank you Tim!]]></body>
+  
+  <user>
+    <id>131922</id>
+    <name>mark</name>
+    <display_name>mark monday</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/131922-mark-monday]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478025730p3/131922.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478025730p2/131922.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 28 15:40:44 -0700 2012</created_at>
+  <updated_at>Wed Mar 28 15:40:44 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>48045571</id>
+  <body><![CDATA[And I thought I was long winded! Do you write these in Starbucks?]]></body>
+  
+  <user>
+    <id>4684009</id>
+    <name>William1</name>
+    <display_name>William1</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4684009-william1]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480550163p3/4684009.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480550163p2/4684009.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Apr 01 10:28:27 -0700 2012</created_at>
+  <updated_at>Sun Apr 01 10:28:27 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>48052696</id>
+  <body><![CDATA[ha! in the race to see who is more long-winded, you got nuthin on me, William. i leave you in the dust!<br /><br />a coffeeshop - yeah, sometimes. or my back patio or backyard. or my living room. but never Starbucks. Starbucks coffee tastes like brown water to me and the whole Starbucks atmosphere just makes me prickly and anxious.]]></body>
+  
+  <user>
+    <id>131922</id>
+    <name>mark</name>
+    <display_name>mark monday</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/131922-mark-monday]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478025730p3/131922.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478025730p2/131922.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Apr 01 12:18:32 -0700 2012</created_at>
+  <updated_at>Sun Apr 01 12:18:32 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>48201789</id>
+  <body><![CDATA[Mark, I saw The Hunger Games movie. I really liked it. But I have objections to some of what they left out. I think Madge and the mayor should have been left in, but if their characters had to go, I say my main problem was the meaning of the mockingjay was never addressed at all. There was a good opportunity when Rue taught Katniss about the mockingjay's mimicking of song/whistling. That was just silly. Most of the rest I think they did a good job.]]></body>
+  
+  <user>
+    <id>83445</id>
+    <name>Lisa</name>
+    <display_name>Lisa Vegan</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/83445-lisa-vegan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1243394822p3/83445.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1243394822p2/83445.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Apr 03 16:41:51 -0700 2012</created_at>
+  <updated_at>Tue Apr 03 16:41:51 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>48208248</id>
+  <body><![CDATA[good to hear Lisa!<br /><br />i agree about Madge &amp; the mockingjay. hadn't considered that, but now i feel the lack.<br /><br />another thing that has recently occurred to me after reading an article on the topic... Collins clearly indicts the viewing audience (and by extension, the reader) in being part of a culture of violence - by forming an audience to the atrocities of the Hunger Games. similar to messages in films like Starship Troopers. that is a tough message, and the film doesn't include it. as the article mentions, in the book, <u>everyone</u> besides Katniss' specific allies &amp; District 12 are her enemy... in the movie, President Snow appears to be the real enemy.]]></body>
+  
+  <user>
+    <id>131922</id>
+    <name>mark</name>
+    <display_name>mark monday</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/131922-mark-monday]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478025730p3/131922.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478025730p2/131922.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Apr 03 18:13:21 -0700 2012</created_at>
+  <updated_at>Tue Apr 03 18:13:21 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>48208931</id>
+  <body><![CDATA[Spoiler for the 2nd book: <a class="jsShowSpoiler spoilerAction">(view spoiler)</a><span class="spoilerContainer" style="display: none">[ Except in <a href="https://www.goodreads.com/book/show/6148028.Catching_Fire__The_Hunger_Games___2_" title="Catching Fire (The Hunger Games, #2) by Suzanne Collins" rel="nofollow">Catching Fire</a> remember, there is that part when Katniss realized the capitol and the system and the hunger games are the enemy, not her fellow tributes.  <a class="jsHideSpoiler spoilerAction">(hide spoiler)</a>]</span><br /><br />I think in the movie Snow does come across as the main bad guy but I do think the capitol audience is definitely indicated to be horrible.]]></body>
+  
+  <user>
+    <id>83445</id>
+    <name>Lisa</name>
+    <display_name>Lisa Vegan</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/83445-lisa-vegan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1243394822p3/83445.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1243394822p2/83445.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Apr 03 18:23:05 -0700 2012</created_at>
+  <updated_at>Tue Apr 03 18:23:05 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>48209427</id>
+  <body><![CDATA[good point. now i am also remembering that amazing little part in book 2 <a class="jsShowSpoiler spoilerAction">(view spoiler)</a><span class="spoilerContainer" style="display: none">[as we follow Katniss' thought proces, considering that revolution could put Prim's life in danger, then slowly realizing that Prim's life is already in danger with the existing system. <a class="jsHideSpoiler spoilerAction">(hide spoiler)</a>]</span>]]></body>
+  
+  <user>
+    <id>131922</id>
+    <name>mark</name>
+    <display_name>mark monday</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/131922-mark-monday]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478025730p3/131922.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478025730p2/131922.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Apr 03 18:29:53 -0700 2012</created_at>
+  <updated_at>Tue Apr 03 18:29:53 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>48210813</id>
+  <body><![CDATA[Yep.<br /><br />And in this movie it would have been REALLY easy for district 11 to send the bread. I missed that too.]]></body>
+  
+  <user>
+    <id>83445</id>
+    <name>Lisa</name>
+    <display_name>Lisa Vegan</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/83445-lisa-vegan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1243394822p3/83445.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1243394822p2/83445.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Apr 03 18:46:25 -0700 2012</created_at>
+  <updated_at>Tue Apr 03 18:46:25 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>49464081</id>
+  <body><![CDATA[loved the review. Thanks]]></body>
+  
+  <user>
+    <id>2569035</id>
+    <name>Mark</name>
+    <display_name>Mark</display_name>
+
+    <location><![CDATA[Teignmouth, P8, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2569035-mark]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1455213348p3/2569035.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1455213348p2/2569035.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Apr 25 09:58:25 -0700 2012</created_at>
+  <updated_at>Wed Apr 25 09:58:25 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>49473787</id>
+  <body><![CDATA[thanks Mark! and now i'm going to go read your review.]]></body>
+  
+  <user>
+    <id>131922</id>
+    <name>mark</name>
+    <display_name>mark monday</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/131922-mark-monday]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478025730p3/131922.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478025730p2/131922.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Apr 25 13:42:24 -0700 2012</created_at>
+  <updated_at>Wed Apr 25 13:42:24 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>49474198</id>
+  <body><![CDATA[I agree leaving out Madge and the mockingjay pin connection was a mistake. But I didn't get the sense from the movie that Snow was the only enemy. I thought it portrayed the audience, even Ceaser and the gamemakers, as enemies. But that could have been my bias from knowing the whole story already.]]></body>
+  
+  <user>
+    <id>2465351</id>
+    <name>Ian</name>
+    <display_name>Ian</display_name>
+
+    <location>Vista, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2465351-ian]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1324174664p3/2465351.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1324174664p2/2465351.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Apr 25 13:49:33 -0700 2012</created_at>
+  <updated_at>Wed Apr 25 13:49:33 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>49474658</id>
+  <body><![CDATA[when i watch it for the third time, i plan on looking out for that! second viewing was not a diminished experience and, happily, i enjoyed it just as much.]]></body>
+  
+  <user>
+    <id>131922</id>
+    <name>mark</name>
+    <display_name>mark monday</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/131922-mark-monday]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478025730p3/131922.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478025730p2/131922.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Apr 25 13:57:17 -0700 2012</created_at>
+  <updated_at>Wed Apr 25 13:57:17 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>144643410</id>
+  <body><![CDATA[Great train-ride through the Mockingjay-pages mark, I really like what you've done here! I see where you're coming from and understand why you wanted me to explain my admittedly different feelings on this book. It just goes to show there are no absolutes when it comes to reading, right? Even though I found your review captivating and convincing, I still remain where I stand. It boils down to the kind of readers we are: also not absolutes. It depends on when we read it, the circumstances in which we do, etc. I think you've done a very generous reading of this book and your interpretations, your engagement all have added something to it, as is evident from your entertaining review. My reading was far less generous and more skeptical, I added very little and when I did it was rarely something warm, but I don't really feel bad about it either. It is what it is and it can be enjoyable to be critical as well :-)]]></body>
+  
+  <user>
+    <id>9889835</id>
+    <name>Matthias</name>
+    <display_name>Matthias</display_name>
+
+    <location>Brussels, Belgium</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9889835-matthias]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1448737319p3/9889835.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1448737319p2/9889835.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Dec 21 01:43:30 -0800 2015</created_at>
+  <updated_at>Mon Dec 21 01:43:30 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>145523379</id>
+  <body><![CDATA[Mark, you write the reviews I wish I could write. Thank you! :)]]></body>
+  
+  <user>
+    <id>8898695</id>
+    <name>Sonia</name>
+    <display_name>Sonia Almeida Dias</display_name>
+
+    <location>Lisbon, Portugal</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8898695-sonia-almeida-dias]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486313831p3/8898695.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486313831p2/8898695.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 06 03:23:20 -0800 2016</created_at>
+  <updated_at>Wed Jan 06 03:23:20 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>145541550</id>
+  <body><![CDATA[no, thank you for the very kind words! very nice to read in the morning.]]></body>
+  
+  <user>
+    <id>131922</id>
+    <name>mark</name>
+    <display_name>mark monday</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/131922-mark-monday]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478025730p3/131922.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478025730p2/131922.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 06 10:42:27 -0800 2016</created_at>
+  <updated_at>Wed Jan 06 10:42:27 -0800 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/299751035]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/299751035]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

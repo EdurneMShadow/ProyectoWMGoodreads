@@ -1,0 +1,1362 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:41:03 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: 1VH79Z3JF4V2R9SS8G5J
+etag: W/"c94bb4c511d965f37ce0b0d8c7ba8140"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.307160
+set-cookie: csid=BAhJIhgwMTQtMTIyMDk1Mi01NDgwNDk4BjoGRVQ%3D--70e875f38110dcf7a054c91e71b86b8bdfea2562; path=/; expires=Tue, 12 May 2037 13:41:02 -0000, locale=es; path=/, _session_id2=f4391e03625829581f42558982227b0a; path=/; expires=Fri, 12 May 2017 19:41:03 -0000; HttpOnly
+content-length: 51655
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=805992155
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>805992155</id>
+    
+  <user>
+    <id>416390</id>
+    <name>Paul</name>
+    <display_name>Paul Bryant</display_name>
+
+    <location><![CDATA[Nottingham, England, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/416390-paul-bryant]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1224113172p3/416390.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1224113172p2/416390.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">8442457</id>
+  <isbn>0297859382</isbn>
+  <isbn13>9780297859383</isbn13>
+  <text_reviews_count type="integer">69038</text_reviews_count>
+  <title>Gone Girl</title>
+  <title_without_series>Gone Girl</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1339602131m/8442457.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1339602131s/8442457.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/8442457-gone-girl</link>
+  <num_pages>399</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Weidenfeld &amp; Nicolson</publisher>
+  <publication_day>24</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.03</average_rating>
+  <ratings_count>1572069</ratings_count>
+  <description>On a warm summer morning in North Carthage, Missouri, it is Nick and Amy Dunne’s fifth wedding anniversary. Presents are being wrapped and reservations are being made when Nick’s clever and beautiful wife disappears. Husband-of-the-Year Nick isn’t doing himself any favors with cringe-worthy daydreams about the slope and shape of his wife’s head, but passages from Amy's diary reveal the alpha-girl perfectionist could have put anyone dangerously on edge. Under mounting pressure from the police and the media—as well as Amy’s fiercely doting parents—the town golden boy parades an endless series of lies, deceits, and inappropriate behavior. Nick is oddly evasive, and he’s definitely bitter—but is he really a killer?</description>
+<authors>
+<author>
+<id>2383</id>
+<name>Gillian Flynn</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1232123231p5/2383.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1232123231p2/2383.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2383.Gillian_Flynn]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>2349137</ratings_count>
+<text_reviews_count>184832</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">40754516</id>
+          <page type="integer">167</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sun Mar 16 07:02:58 -0700 2014</created_at>
+          <updated_at type="datetime">Sun Mar 16 07:02:58 -0700 2014</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">42</percent>
+          <work_id type="integer">13306276</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">40621934</id>
+          <page type="integer">101</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Mar 13 08:09:10 -0700 2014</created_at>
+          <updated_at type="datetime">Thu Mar 13 08:09:10 -0700 2014</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">2</ratings_count>
+          <percent type="integer">25</percent>
+          <work_id type="integer">13306276</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">453300113</id>
+          <old_status>abandoned</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Jun 08 03:37:53 -0700 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">452201099</id>
+          <old_status>i-bet-i-never-finish-these</old_status>
+          <status>abandoned</status>
+          <updated_at type="datetime">Sat Jun 07 03:54:22 -0700 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">355448481</id>
+          <old_status>read</old_status>
+          <status>i-bet-i-never-finish-these</status>
+          <updated_at type="datetime">Sun Mar 16 07:19:25 -0700 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">355448383</id>
+          <old_status>i-bet-i-never-finish-these</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Mar 16 07:19:22 -0700 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">355448291</id>
+          <old_status>currently-reading</old_status>
+          <status>i-bet-i-never-finish-these</status>
+          <updated_at type="datetime">Sun Mar 16 07:19:14 -0700 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">344761080</id>
+          <old_status>to-read-novels</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Fri Mar 07 02:51:00 -0800 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>2</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">260612009</id>
+          <old_status></old_status>
+          <status>to-read-novels</status>
+          <updated_at type="datetime">Tue Dec 31 03:55:40 -0800 2013</updated_at>
+          <ratings_count>3</ratings_count>
+          <comments_count>2</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>573</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="abandoned" exclusive="false" review_shelf_id="646653911" sortable="false" />
+    <shelf name="novels" exclusive="false" review_shelf_id="646653995" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Mar 07 00:00:00 -0800 2014</started_at>
+  <read_at>Sun Mar 16 00:00:00 -0700 2014</read_at>
+  <date_added>Tue Dec 31 03:55:40 -0800 2013</date_added>
+  <date_updated>Sun Jun 08 03:37:51 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<br /><b>AMY DUNNE</b><br /><br />I am Amy. I’m so perfect you may want to puke. It’s okay, I have that effect on everyone, even my parents. They noticed I was so perfect when I was a little girl and so they wrote some vastly popular children’s books called <i>The Adventures of Amazing Amy</i>. You may have been given them to r...]]>
+  </body>
+
+  
+
+  <comments_count>141</comments_count>
+    <comments start="1" end="50" total="141">
+        <comment>
+  <id>94719063</id>
+  <body><![CDATA[In a weird way it satisfies me that you rated this book 1-star.]]></body>
+  
+  <user>
+    <id>3381634</id>
+    <name>Praj</name>
+    <display_name>Praj</display_name>
+
+    <location>Bombay, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3381634-praj]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1468052327p3/3381634.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1468052327p2/3381634.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Mar 16 07:51:58 -0700 2014</created_at>
+  <updated_at>Sun Mar 16 07:51:58 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>94719338</id>
+  <body><![CDATA[Have not read this book, but I bet the review is better!]]></body>
+  
+  <user>
+    <id>5837456</id>
+    <name>Susan</name>
+    <display_name>Susan</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5837456-susan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1372225128p3/5837456.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1372225128p2/5837456.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Mar 16 07:57:44 -0700 2014</created_at>
+  <updated_at>Sun Mar 16 07:57:44 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>94720536</id>
+  <body><![CDATA[Bless you, Mr. B.]]></body>
+  
+  <user>
+    <id>321764</id>
+    <name>Koeeoaddi</name>
+    <display_name>Koeeoaddi</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/321764-koeeoaddi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1335658047p3/321764.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1335658047p2/321764.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Mar 16 08:24:16 -0700 2014</created_at>
+  <updated_at>Sun Mar 16 08:24:16 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>94725607</id>
+  <body><![CDATA[Thank you. I'm not alone anymore!]]></body>
+  
+  <user>
+    <id>6573089</id>
+    <name>Elizabeth</name>
+    <display_name>Elizabeth</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6573089-elizabeth]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1346272392p3/6573089.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1346272392p2/6573089.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Mar 16 09:55:47 -0700 2014</created_at>
+  <updated_at>Sun Mar 16 09:55:47 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>94744241</id>
+  <body><![CDATA[You did the right thing.]]></body>
+  
+  <user>
+    <id>118030</id>
+    <name>Stephanie</name>
+    <display_name>Stephanie Sun</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/118030-stephanie-sun]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1419183672p3/118030.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1419183672p2/118030.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Mar 16 14:55:33 -0700 2014</created_at>
+  <updated_at>Sun Mar 16 14:55:33 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>94757831</id>
+  <body><![CDATA[Absolute tripe]]></body>
+  
+  <user>
+    <id>8414248</id>
+    <name>Beata</name>
+    <display_name>Beata R</display_name>
+
+    <location>Toronto, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8414248-beata-r]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1373404606p3/8414248.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1373404606p2/8414248.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Mar 16 18:10:25 -0700 2014</created_at>
+  <updated_at>Sun Mar 16 18:10:25 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>94762493</id>
+  <body><![CDATA[Glad someone else hated that book as much as I did.]]></body>
+  
+  <user>
+    <id>2362141</id>
+    <name>JK</name>
+    <display_name>JK</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2362141-jk]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1358610502p3/2362141.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1358610502p2/2362141.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Mar 16 19:13:12 -0700 2014</created_at>
+  <updated_at>Sun Mar 16 19:13:12 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>94776860</id>
+  <body><![CDATA[I am glad this book was written. Because if it wasn't, there wouldn't have been this highly enjoyable, laugh-aloud review.]]></body>
+  
+  <user>
+    <id>19470614</id>
+    <name>Lilo</name>
+    <display_name>Lilo</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/19470614-lilo]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1366528768p3/19470614.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1366528768p2/19470614.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Mar 17 01:43:17 -0700 2014</created_at>
+  <updated_at>Mon Mar 17 01:43:17 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>94801346</id>
+  <body><![CDATA[Wasn't planning to read this, but I sure enjoyed the review! Laughed out loud at the end of a Monday - thanks!!!]]></body>
+  
+  <user>
+    <id>22803003</id>
+    <name>Judith</name>
+    <display_name>Judith Johnson</display_name>
+
+    <location><![CDATA[Tunbridge Wells, H9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22803003-judith-johnson]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1390137969p3/22803003.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1390137969p2/22803003.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Mar 17 11:56:11 -0700 2014</created_at>
+  <updated_at>Mon Mar 17 11:56:11 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>94805442</id>
+  <body><![CDATA[thank you too Judith, and everyone else. <i>Gone Girl</i> will be gone to Oxfam shortly.]]></body>
+  
+  <user>
+    <id>416390</id>
+    <name>Paul</name>
+    <display_name>Paul Bryant</display_name>
+
+    <location><![CDATA[Nottingham, England, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/416390-paul-bryant]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1224113172p3/416390.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1224113172p2/416390.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Mar 17 12:59:24 -0700 2014</created_at>
+  <updated_at>Mon Mar 17 12:59:24 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>94807454</id>
+  <body><![CDATA[I can't quite put my finger on why, but I sort of pick up this subtly disappointed vibe, like you're too polite to say so but you didn't enjoy it as much as all these people who were raving about the book a couple of years ago and comparing it with Jan Kjærstad and stuff. Am I, you know, way off target here?]]></body>
+  
+  <user>
+    <id>1713956</id>
+    <name>Manny</name>
+    <display_name>Manny</display_name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1713956-manny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442491692p3/1713956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442491692p2/1713956.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Mar 17 13:29:56 -0700 2014</created_at>
+  <updated_at>Mon Mar 17 13:29:56 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>94811884</id>
+  <body><![CDATA[Well, I was enjoying it pretty much, but I thought it petered out a bit after page three. So that was quite disappointing.]]></body>
+  
+  <user>
+    <id>416390</id>
+    <name>Paul</name>
+    <display_name>Paul Bryant</display_name>
+
+    <location><![CDATA[Nottingham, England, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/416390-paul-bryant]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1224113172p3/416390.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1224113172p2/416390.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Mar 17 14:29:22 -0700 2014</created_at>
+  <updated_at>Mon Mar 17 14:29:22 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>94812290</id>
+  <body><![CDATA[I knew it! Plug the book all you want, Paul, you won't fool me.]]></body>
+  
+  <user>
+    <id>1713956</id>
+    <name>Manny</name>
+    <display_name>Manny</display_name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1713956-manny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442491692p3/1713956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442491692p2/1713956.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Mar 17 14:34:59 -0700 2014</created_at>
+  <updated_at>Mon Mar 17 14:34:59 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>94825527</id>
+  <body><![CDATA[I have three coworkers who all had wildly different reactions to this one (roughly: loved it; hated it; ok but hated the ending). Still might read it, I keep wavering on that. But I can recommend Ms. Flynn's Dark Places wholeheartedly, in a fivestarsbrilliantlovedit way.]]></body>
+  
+  <user>
+    <id>2050288</id>
+    <name>Kirk</name>
+    <display_name>Kirk</display_name>
+
+    <location>Oakland, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2050288-kirk]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1476811824p3/2050288.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1476811824p2/2050288.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Mar 17 17:33:33 -0700 2014</created_at>
+  <updated_at>Mon Mar 17 17:33:33 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>94847945</id>
+  <body><![CDATA[::applause:: Sounds like my reaction to The Time Traveller's Wife.]]></body>
+  
+  <user>
+    <id>1411655</id>
+    <name>Maya</name>
+    <display_name>Maya Panika</display_name>
+
+    <location><![CDATA[Living in rural Lancashire, UK, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1411655-maya-panika]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442633540p3/1411655.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442633540p2/1411655.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 18 03:05:47 -0700 2014</created_at>
+  <updated_at>Tue Mar 18 03:05:47 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>94848931</id>
+  <body><![CDATA[Oh, I hated Time Traveller's Wife. The ending had me in tears... of laughter. Plus, that tosh about the woman who woke up each day with no memory.]]></body>
+  
+  <user>
+    <id>5837456</id>
+    <name>Susan</name>
+    <display_name>Susan</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5837456-susan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1372225128p3/5837456.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1372225128p2/5837456.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 18 03:43:03 -0700 2014</created_at>
+  <updated_at>Tue Mar 18 03:43:03 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>94849995</id>
+  <body><![CDATA[Lol! I couldn't finish this book]]></body>
+  
+  <user>
+    <id>5032407</id>
+    <name>Laima</name>
+    <display_name>Laima</display_name>
+
+    <location>Hamilton, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5032407-laima]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1415199138p3/5032407.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1415199138p2/5032407.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 18 04:24:58 -0700 2014</created_at>
+  <updated_at>Tue Mar 18 04:24:58 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>94850629</id>
+  <body><![CDATA[Hey, go Susan! I hated the Time Travellers Wife too(and, come to that, AN's 2nd book about the twins), hated Gone Girl but most of all I hated Watson's - what was it called? Something like Before I go to Sleep? - utter rubbish. Oo, that was fun. Lots of evaporating steam and hatred!]]></body>
+  
+  <user>
+    <id>7359968</id>
+    <name>Helen</name>
+    <display_name>Helen</display_name>
+
+    <location><![CDATA[Sully, Penarth, Vale of Glamorgan, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7359968-helen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1385902444p3/7359968.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1385902444p2/7359968.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 18 04:47:41 -0700 2014</created_at>
+  <updated_at>Tue Mar 18 04:47:41 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>94851548</id>
+  <body><![CDATA[Yes, Before I Go To Sleep. Well, go to sleep then and don't wake up again! I had to finish it for a book group read and then I hated it so much that I actually had Amazon remove it from my kindle - a sort of detached "ripping it up!"]]></body>
+  
+  <user>
+    <id>5837456</id>
+    <name>Susan</name>
+    <display_name>Susan</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5837456-susan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1372225128p3/5837456.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1372225128p2/5837456.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 18 05:16:57 -0700 2014</created_at>
+  <updated_at>Tue Mar 18 05:16:57 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>94852835</id>
+  <body><![CDATA[<i>Susan wrote: "Have not read this book, but I bet the review is better!"</i><br /><br />Ha ha. I was thinking the same.<br /><br />Good one, Paul.]]></body>
+  
+  <user>
+    <id>1199525</id>
+    <name>Cecily</name>
+    <display_name>Cecily</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1199525-cecily]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480285828p3/1199525.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480285828p2/1199525.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 18 05:55:02 -0700 2014</created_at>
+  <updated_at>Tue Mar 18 05:55:02 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>94865875</id>
+  <body><![CDATA[Susan wrote: ::applause:: Sounds like my reaction to The Time Traveller's Wife. <br /><br />I disliked that one as well... never did figure out what the hype was. Glad to have company!]]></body>
+  
+  <user>
+    <id>2362141</id>
+    <name>JK</name>
+    <display_name>JK</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2362141-jk]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1358610502p3/2362141.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1358610502p2/2362141.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 18 10:19:49 -0700 2014</created_at>
+  <updated_at>Tue Mar 18 10:19:49 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>94874736</id>
+  <body><![CDATA[That's why I love Goodreads! So glad to know I'm not only one who thought BIGTS was load of rubbish. One of most tedious books ever! Read it as thought good to see what was selling so well - but reinforced truth that some really huge bestsellers aren't necessarily good books!]]></body>
+  
+  <user>
+    <id>22803003</id>
+    <name>Judith</name>
+    <display_name>Judith Johnson</display_name>
+
+    <location><![CDATA[Tunbridge Wells, H9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22803003-judith-johnson]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1390137969p3/22803003.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1390137969p2/22803003.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 18 13:00:02 -0700 2014</created_at>
+  <updated_at>Tue Mar 18 13:00:02 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>98097839</id>
+  <body><![CDATA[Uhoh! I just ordered it from the<br />local library. Maybe I better<br />rethink it, doesn't sound at all<br />like my type of book. I hate<br />perfect people!!]]></body>
+  
+  <user>
+    <id>6180218</id>
+    <name>Diane</name>
+    <display_name>Diane</display_name>
+
+    <location>Petrie, 07, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6180218-diane]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1373177864p3/6180218.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1373177864p2/6180218.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed May 07 14:11:45 -0700 2014</created_at>
+  <updated_at>Wed May 07 14:11:45 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>98131449</id>
+  <body><![CDATA[I guess what happens in the part of the book I didn't read is that the perfect people get all tore down and made to regret their perfectitude; but it was asking too much for me to stick around and get my kicks like that.]]></body>
+  
+  <user>
+    <id>416390</id>
+    <name>Paul</name>
+    <display_name>Paul Bryant</display_name>
+
+    <location><![CDATA[Nottingham, England, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/416390-paul-bryant]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1224113172p3/416390.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1224113172p2/416390.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 08 04:35:09 -0700 2014</created_at>
+  <updated_at>Thu May 08 04:35:09 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>100824119</id>
+  <body><![CDATA[Your review was so awesome and hilarious I laughed out loud!]]></body>
+  
+  <user>
+    <id>8645320</id>
+    <name>Bria</name>
+    <display_name>Bria</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8645320-bria]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1420387273p3/8645320.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1420387273p2/8645320.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jun 22 20:53:37 -0700 2014</created_at>
+  <updated_at>Sun Jun 22 20:53:37 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>100832788</id>
+  <body><![CDATA[thanks Bria ! I hope I saved you some time as well.]]></body>
+  
+  <user>
+    <id>416390</id>
+    <name>Paul</name>
+    <display_name>Paul Bryant</display_name>
+
+    <location><![CDATA[Nottingham, England, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/416390-paul-bryant]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1224113172p3/416390.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1224113172p2/416390.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 23 01:58:55 -0700 2014</created_at>
+  <updated_at>Mon Jun 23 01:58:55 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>100839485</id>
+  <body><![CDATA[I tried reading it a while ago but couldn't finish it lol]]></body>
+  
+  <user>
+    <id>8645320</id>
+    <name>Bria</name>
+    <display_name>Bria</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8645320-bria]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1420387273p3/8645320.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1420387273p2/8645320.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 23 06:13:41 -0700 2014</created_at>
+  <updated_at>Mon Jun 23 06:13:41 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>101550331</id>
+  <body><![CDATA[I like your review but I like the book too even though they more than deserved each other and I would have preferred if she remained kidnapped by her crazy ex boyfriend.]]></body>
+  
+  <user>
+    <id>12106174</id>
+    <name>Terri</name>
+    <display_name>Terri</display_name>
+
+    <location>Ireland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12106174-terri]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1345629158p3/12106174.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1345629158p2/12106174.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 04 03:09:02 -0700 2014</created_at>
+  <updated_at>Fri Jul 04 03:09:02 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>101551150</id>
+  <body><![CDATA[aw, now you spoiled it for me!]]></body>
+  
+  <user>
+    <id>416390</id>
+    <name>Paul</name>
+    <display_name>Paul Bryant</display_name>
+
+    <location><![CDATA[Nottingham, England, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/416390-paul-bryant]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1224113172p3/416390.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1224113172p2/416390.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 04 03:47:31 -0700 2014</created_at>
+  <updated_at>Fri Jul 04 03:47:31 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>102461557</id>
+  <body><![CDATA[I don't rate books that I haven't finished...]]></body>
+  
+  <user>
+    <id>4862540</id>
+    <name>David</name>
+    <display_name>David</display_name>
+
+    <location>Milwaukee, WI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4862540-david]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1443941103p3/4862540.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1443941103p2/4862540.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 17 21:08:20 -0700 2014</created_at>
+  <updated_at>Thu Jul 17 21:08:20 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>102468029</id>
+  <body><![CDATA[many people do]]></body>
+  
+  <user>
+    <id>416390</id>
+    <name>Paul</name>
+    <display_name>Paul Bryant</display_name>
+
+    <location><![CDATA[Nottingham, England, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/416390-paul-bryant]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1224113172p3/416390.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1224113172p2/416390.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 18 00:04:16 -0700 2014</created_at>
+  <updated_at>Fri Jul 18 00:04:16 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>102497094</id>
+  <body><![CDATA[<i>Paul wrote: "many people do"</i><br /><br />I am one of them. -- My standard argument for doing so is: If someone poops onto your plate, you don't have to finish your plate to know it is shit. A small taste will do.]]></body>
+  
+  <user>
+    <id>19470614</id>
+    <name>Lilo</name>
+    <display_name>Lilo</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/19470614-lilo]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1366528768p3/19470614.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1366528768p2/19470614.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 18 11:24:10 -0700 2014</created_at>
+  <updated_at>Fri Jul 18 11:24:10 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>102503409</id>
+  <body><![CDATA[God forbid someone poops on someone's plate.....<br /><br />Another writer with creepy characters in his books is Koch who wrote The Dinner and his latest which is Summer House with Swimming Pool.......]]></body>
+  
+  <user>
+    <id>1403261</id>
+    <name>Kathy</name>
+    <display_name>Kathy</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1403261-kathy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1331928402p3/1403261.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1331928402p2/1403261.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 18 13:01:59 -0700 2014</created_at>
+  <updated_at>Fri Jul 18 13:01:59 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>102513392</id>
+  <body><![CDATA[<i>Kathy wrote: "God forbid someone poops on someone's plate.....<br /><br />Another writer with creepy characters in his books is Koch who wrote The Dinner and his latest which is Summer House with Swimming Pool......."</i><br /><br />:-)]]></body>
+  
+  <user>
+    <id>19470614</id>
+    <name>Lilo</name>
+    <display_name>Lilo</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/19470614-lilo]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1366528768p3/19470614.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1366528768p2/19470614.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 18 15:32:57 -0700 2014</created_at>
+  <updated_at>Fri Jul 18 15:32:57 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>102550864</id>
+  <body><![CDATA[I too don't rate books I haven't finished. As the wife of an author who works incredibly hard I feel it would be unfair of me to condemn something I haven't completed. If I don't like a book I'm free to put it down!]]></body>
+  
+  <user>
+    <id>22803003</id>
+    <name>Judith</name>
+    <display_name>Judith Johnson</display_name>
+
+    <location><![CDATA[Tunbridge Wells, H9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22803003-judith-johnson]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1390137969p3/22803003.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1390137969p2/22803003.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jul 19 08:48:00 -0700 2014</created_at>
+  <updated_at>Sat Jul 19 08:48:00 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>102553555</id>
+  <body><![CDATA[<i>Judith wrote: "I too don't rate books I haven't finished. As the wife of an author who works incredibly hard I feel it would be unfair of me to condemn something I haven't completed. If I don't like a book I'm fr..."</i><br /><br />I am an author, myself. Yet I grant every reader the right to write an unfavorable review if he/she is annoyed with any of my books, after reading only a part of it.<br /><br />Time is valuable. Readers' time is also valuable. I think it is absolutely justified to warn other readers to waste valuable time on a book that I, as a reader, find bad enough to toss. It is up to other readers how much they will value or heed such warning. Nobody is going to stop them to go out and buy and read the book if they wish to do so.<br /><br />I think it is fair enough when the reviewer mentions that he/she hasn't finished reading the book. <br /><br />Readers of review can also inform themselves about the reviewer. I, for my part, know Paul well enough (after reading many of this reviews) that I know I can trust his judgement. If, on the other hand, a religious fundamentalist condemned a book that was critical on religion, I would not be discouraged to read the book (regardless whether or not the reviewer had finished the book). I would react likewise if a fervent atheist condemned a book because its author assumed that a higher entity exists. <br /><br />I expect reviewers to state WHY they like or dislike a book, and most of them do. It is really not necessary to suffer through the whole length of a book when you can already tell by reading parts of the book that and why you don't like it.<br /><br />Would I have to read the whole of "Mein Kampf" if I already felt nauseated after reading 5 pages? Do I have the right to condemn "Mein Kampf" after reading only 5 pages? Yes, I do! Because reading the first 5 pages was all I needed to judge the book and its author.<br /><br />I could give many other examples that one can form a solid opinion on something (doesn't necessarily have to be a book) upon sampling. At auditions, bad singers, dancers, or actors will hear a "Thank you! That's enough." before they have finished their performance. A restaurant reviewer will not eat through the whole menu (most likely, won't even finish a single dish) before rating the restaurant when the first few bites are disappointing. And an applicant for a job as a secretary won't get the chance to complete the full test when the first 5 minutes show that she is unable to type with 10 fingers, has no manners, and/or hasn't got a clue about spelling or grammar.]]></body>
+  
+  <user>
+    <id>19470614</id>
+    <name>Lilo</name>
+    <display_name>Lilo</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/19470614-lilo]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1366528768p3/19470614.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1366528768p2/19470614.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jul 19 09:47:47 -0700 2014</created_at>
+  <updated_at>Sat Jul 19 09:47:47 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>102751742</id>
+  <body><![CDATA[Fair comment! I stand corrected!]]></body>
+  
+  <user>
+    <id>22803003</id>
+    <name>Judith</name>
+    <display_name>Judith Johnson</display_name>
+
+    <location><![CDATA[Tunbridge Wells, H9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22803003-judith-johnson]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1390137969p3/22803003.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1390137969p2/22803003.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 22 09:40:21 -0700 2014</created_at>
+  <updated_at>Tue Jul 22 09:40:21 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>102769553</id>
+  <body><![CDATA[<i>Judith wrote: "Fair comment! I stand corrected!"</i><br /><br />Thank you, Judith.]]></body>
+  
+  <user>
+    <id>19470614</id>
+    <name>Lilo</name>
+    <display_name>Lilo</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/19470614-lilo]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1366528768p3/19470614.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1366528768p2/19470614.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 22 14:07:10 -0700 2014</created_at>
+  <updated_at>Tue Jul 22 14:07:10 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103196970</id>
+  <body><![CDATA[Brilliant!]]></body>
+  
+  <user>
+    <id>17962787</id>
+    <name>Stephanie</name>
+    <display_name>Stephanie Johnson</display_name>
+
+    <location>Lansdale, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17962787-stephanie-johnson]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1362285744p3/17962787.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1362285744p2/17962787.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jul 28 22:07:10 -0700 2014</created_at>
+  <updated_at>Mon Jul 28 22:07:10 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103204749</id>
+  <body><![CDATA[Your review just made my day, thanks for the antidote. Had read 5 pages of this book, couldn't take it any further.]]></body>
+  
+  <user>
+    <id>12325541</id>
+    <name>Gautam</name>
+    <display_name>Gautam Prabhu</display_name>
+
+    <location>Mumbai, 07, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12325541-gautam-prabhu]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1466925693p3/12325541.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1466925693p2/12325541.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 29 02:37:07 -0700 2014</created_at>
+  <updated_at>Tue Jul 29 02:37:07 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103205071</id>
+  <body><![CDATA[Thanks! I got further than 5 pages but it didn't make me a better person.]]></body>
+  
+  <user>
+    <id>416390</id>
+    <name>Paul</name>
+    <display_name>Paul Bryant</display_name>
+
+    <location><![CDATA[Nottingham, England, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/416390-paul-bryant]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1224113172p3/416390.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1224113172p2/416390.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 29 02:52:12 -0700 2014</created_at>
+  <updated_at>Tue Jul 29 02:52:12 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103308392</id>
+  <body><![CDATA[Sorry, but if you had continued, you would have had a VERY different opinion of this book...next time try to give it more of a chance before rushing to a (WRONG) opinion of what is going on with the book]]></body>
+  
+  <user>
+    <id>5863873</id>
+    <name>Carole</name>
+    <display_name>Carole</display_name>
+
+    <location>Las Vegas, NV</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5863873-carole]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 30 12:59:01 -0700 2014</created_at>
+  <updated_at>Wed Jul 30 12:59:01 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103311243</id>
+  <body><![CDATA[I'm sure there is room for different opinions here, after all, it's a really popular book, but I was just thinking life was too short for Amy and Nick to take any more of it up. Older I get more impatient I am. Soon I'll just be reading haiku. And giving most of them up after the first line.]]></body>
+  
+  <user>
+    <id>416390</id>
+    <name>Paul</name>
+    <display_name>Paul Bryant</display_name>
+
+    <location><![CDATA[Nottingham, England, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/416390-paul-bryant]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1224113172p3/416390.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1224113172p2/416390.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 30 13:40:25 -0700 2014</created_at>
+  <updated_at>Wed Jul 30 13:40:25 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103314809</id>
+  <body><![CDATA[<i>Paul wrote: "Soon I'll just be reading haiku. And giving most of them up after the first line."</i><br /><br /><br /><b>Gone Girl (a haiku)</b><br /><br />Amy was perfect<br />...]]></body>
+  
+  <user>
+    <id>321764</id>
+    <name>Koeeoaddi</name>
+    <display_name>Koeeoaddi</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/321764-koeeoaddi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1335658047p3/321764.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1335658047p2/321764.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 30 14:31:39 -0700 2014</created_at>
+  <updated_at>Wed Jul 30 14:31:39 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103318220</id>
+  <body><![CDATA[As usual,Paul, you gave a great review - I liked the book more than you did. I kept reading trying to figure out how seemingly intelligent people can keep making such dumb mistakes (although I am related to a smart person who does dumb things - maybe I was trying to understand him!). But, Paul, you always entertain me. I have it more stars than you did and understood more after my book club discussed it. Keep up the fine work!]]></body>
+  
+  <user>
+    <id>13430457</id>
+    <name>Peacejanz</name>
+    <display_name>Peacejanz</display_name>
+
+    <location>Fort Pierce, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13430457-peacejanz]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 30 15:21:37 -0700 2014</created_at>
+  <updated_at>Wed Jul 30 15:21:37 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103319863</id>
+  <body><![CDATA[If I stayed awake Mrs K it might have concluded<br /><br />Amy was perfect<br />Whether she remained so is<br />Another matter<br /><br />or<br /><br />Amy was perfect<br />But then, so is cheese on toast<br />So it's not that hard<br /><br />Thanks Peacejanz... I will try...]]></body>
+  
+  <user>
+    <id>416390</id>
+    <name>Paul</name>
+    <display_name>Paul Bryant</display_name>
+
+    <location><![CDATA[Nottingham, England, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/416390-paul-bryant]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1224113172p3/416390.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1224113172p2/416390.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 30 15:45:14 -0700 2014</created_at>
+  <updated_at>Wed Jul 30 15:45:14 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103323879</id>
+  <body><![CDATA[Ha! ...and PB, I'll take that as tacit consent to finish a whole haiku. <br /><br /><br />Amy good, Nick bad,<br />or the other way around?<br /><s>I don't fucking care!</s><br /><s>I hated this book.</s><br /><s>Why not slug them both?</s><br />Let God sort them out.]]></body>
+  
+  <user>
+    <id>321764</id>
+    <name>Koeeoaddi</name>
+    <display_name>Koeeoaddi</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/321764-koeeoaddi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1335658047p3/321764.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1335658047p2/321764.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 30 16:51:01 -0700 2014</created_at>
+  <updated_at>Wed Jul 30 16:51:01 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>105764130</id>
+  <body><![CDATA[She's a psychopath<br />But he is an idiot<br />Both dispicable]]></body>
+  
+  <user>
+    <id>6948752</id>
+    <name>Barbara</name>
+    <display_name>Barbara</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6948752-barbara]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1401319183p3/6948752.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1401319183p2/6948752.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Sep 08 07:15:55 -0700 2014</created_at>
+  <updated_at>Mon Sep 08 07:15:55 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>107248994</id>
+  <body><![CDATA[This review made me incredibly happy. I cannot stop laughing and I don't think I ever will.]]></body>
+  
+  <user>
+    <id>13090124</id>
+    <name>Ryan</name>
+    <display_name>Ryan Halie</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13090124-ryan-halie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480385160p3/13090124.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480385160p2/13090124.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Oct 04 23:42:53 -0700 2014</created_at>
+  <updated_at>Sat Oct 04 23:42:53 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>107251520</id>
+  <body><![CDATA[Thanks Ryan - I hope your immediate family will forgive me.]]></body>
+  
+  <user>
+    <id>416390</id>
+    <name>Paul</name>
+    <display_name>Paul Bryant</display_name>
+
+    <location><![CDATA[Nottingham, England, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/416390-paul-bryant]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1224113172p3/416390.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1224113172p2/416390.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Oct 05 02:14:32 -0700 2014</created_at>
+  <updated_at>Sun Oct 05 02:14:32 -0700 2014</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/805992155]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/805992155]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

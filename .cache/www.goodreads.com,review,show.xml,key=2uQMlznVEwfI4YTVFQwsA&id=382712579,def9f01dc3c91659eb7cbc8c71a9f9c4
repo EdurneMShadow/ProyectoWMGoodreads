@@ -1,0 +1,771 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:49:47 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: TX5S3G7GCTS7Q6RXHXJY
+etag: W/"459ce507f8eda64ee5cb625779932ded"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.274159
+set-cookie: csid=BAhJIhg5MjktMTY2OTMwMi03OTc5MDQ0BjoGRVQ%3D--e105cea97e5e096616523d196c57478f2c8682b9; path=/; expires=Tue, 12 May 2037 13:49:46 -0000, locale=es; path=/, _session_id2=00f569f9d1ffa9a85fa842f46a5b33d2; path=/; expires=Fri, 12 May 2017 19:49:47 -0000; HttpOnly
+content-length: 33827
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=382712579
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>382712579</id>
+    
+  <user>
+    <id>11511116</id>
+    <name>Marwa</name>
+    <display_name>Marwa</display_name>
+
+    <location>Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11511116-marwa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483413329p3/11511116.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483413329p2/11511116.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">968</id>
+  <isbn>0307277674</isbn>
+  <isbn13>9780307277671</isbn13>
+  <text_reviews_count type="integer">32869</text_reviews_count>
+  <title>The Da Vinci Code (Robert Langdon, #2)</title>
+  <title_without_series>The Da Vinci Code</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1303252999m/968.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1303252999s/968.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/968.The_Da_Vinci_Code</link>
+  <num_pages>481</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Anchor</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.78</average_rating>
+  <ratings_count>1531664</ratings_count>
+  <description>An ingenious code hidden in the works of Leonardo da Vinci. A desperate race through the cathedrals and castles of Europe. An astonishing truth concealed for centuries . . . unveiled at last.&lt;br /&gt;&lt;br /&gt;While in Paris, Harvard symbologist Robert Langdon is awakened by a phone call in the dead of the night. The elderly curator of the Louvre has been murdered inside the museum, his body covered in baffling symbols. As Langdon and gifted French cryptologist Sophie Neveu sort through the bizarre riddles, they are stunned to discover a trail of clues hidden in the works of Leonardo da Vinci—clues visible for all to see and yet ingeniously disguised by the painter.&lt;br /&gt;&lt;br /&gt;Even more startling, the late curator was involved in the Priory of Sion—a secret society whose members included Sir Isaac Newton, Victor Hugo, and Da Vinci—and he guarded a breathtaking historical secret. Unless Langdon and Neveu can decipher the labyrinthine puzzle—while avoiding the faceless adversary who shadows their every move—the explosive, ancient truth will be lost forever.</description>
+<authors>
+<author>
+<id>630</id>
+<name>Dan Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p5/630.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p2/630.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/630.Dan_Brown]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>5211301</ratings_count>
+<text_reviews_count>138647</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">18339930</id>
+          <page type="integer">375</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Sep 27 05:11:19 -0700 2012</created_at>
+          <updated_at type="datetime">Thu Sep 27 05:11:19 -0700 2012</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">62</percent>
+          <work_id type="integer">2982101</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">18286113</id>
+          <page type="integer">328</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Sep 25 13:31:27 -0700 2012</created_at>
+          <updated_at type="datetime">Tue Sep 25 13:31:27 -0700 2012</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">3</ratings_count>
+          <percent type="integer">54</percent>
+          <work_id type="integer">2982101</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">18206116</id>
+          <page type="integer">223</page>
+          <chapter type="integer"></chapter>
+          <comments_count>3</comments_count>
+          <created_at type="datetime">Sun Sep 23 06:47:17 -0700 2012</created_at>
+          <updated_at type="datetime">Sun Sep 08 05:12:17 -0700 2013</updated_at>
+          <last_comment_at type="datetime">Mon Sep 24 10:16:34 -0700 2012</last_comment_at>
+          <ratings_count type="integer">2</ratings_count>
+          <percent type="integer">37</percent>
+          <work_id type="integer">2982101</work_id>
+          <note_uri>kca://note/amzn1.grok.note.1e1113c57ed26700eb41308b3c51bccb</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[الكتاب دة بدأت اشعر انة مش هيخلص.. <br /> انا فضيت نفسي من كل الكتب علشان اخلصة وبرضو! <br /> كان لازم يعني الدراسة تبدأ وتشغلني.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">18173358</id>
+          <page type="integer">216</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Sep 22 02:23:51 -0700 2012</created_at>
+          <updated_at type="datetime">Sat Sep 22 02:23:51 -0700 2012</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">36</percent>
+          <work_id type="integer">2982101</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">18109650</id>
+          <page type="integer">178</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Sep 20 01:12:45 -0700 2012</created_at>
+          <updated_at type="datetime">Thu Sep 20 01:12:45 -0700 2012</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">29</percent>
+          <work_id type="integer">2982101</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">17759397</id>
+          <page type="integer">122</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sun Sep 09 13:42:01 -0700 2012</created_at>
+          <updated_at type="datetime">Sun Sep 09 13:42:01 -0700 2012</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">2</ratings_count>
+          <percent type="integer">20</percent>
+          <work_id type="integer">2982101</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">17483142</id>
+          <page type="integer">107</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Sep 01 02:13:11 -0700 2012</created_at>
+          <updated_at type="datetime">Sat Sep 01 02:13:11 -0700 2012</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">18</percent>
+          <work_id type="integer">2982101</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">17477425</id>
+          <page type="integer">87</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Aug 31 20:12:14 -0700 2012</created_at>
+          <updated_at type="datetime">Sun Sep 08 09:21:27 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">15</percent>
+          <work_id type="integer">2982101</work_id>
+          <note_uri>kca://note/amzn1.grok.note.e925d2cd8b7819ce950696b9639431cb</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[I'm back to reading! Dan Brown, you are brilliant.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">16587314</id>
+          <page type="integer">44</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Aug 06 00:37:58 -0700 2012</created_at>
+          <updated_at type="datetime">Mon Aug 06 00:37:58 -0700 2012</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">7</percent>
+          <work_id type="integer">2982101</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">16565970</id>
+          <page type="integer">30</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sun Aug 05 11:54:38 -0700 2012</created_at>
+          <updated_at type="datetime">Sun Aug 05 11:54:38 -0700 2012</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">5</percent>
+          <work_id type="integer">2982101</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">1218805010</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Mon Feb 01 17:41:11 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>42</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="thriller-mystery-suspense" exclusive="false" review_shelf_id="324939284" sortable="false" />
+    <shelf name="goodreads-hype" exclusive="false" review_shelf_id="721258960" sortable="false" />
+    <shelf name="religion" exclusive="false" review_shelf_id="333061300" sortable="false" />
+    <shelf name="baby-i-am-addicted" exclusive="false" review_shelf_id="510332316" sortable="false" />
+    <shelf name="favorite" exclusive="false" review_shelf_id="279974561" sortable="false" />
+    <shelf name="turned-into-a-movie-or-a-tv-show" exclusive="false" review_shelf_id="699440621" sortable="false" />
+</shelves>
+  <recommended_for>Open-minded people</recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Aug 28 00:00:00 -0700 2012</started_at>
+  <read_at>Sun Sep 30 00:00:00 -0700 2012</read_at>
+  <date_added>Thu Aug 02 13:57:42 -0700 2012</date_added>
+  <date_updated>Wed Sep 11 16:41:53 -0700 2013</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[<b> <i>“Life is filled with secrets. You can't learn them all at once.”</i> </b><br /><br />This is one of the best and most amazing novels I've ever read!<br />When I finished it at almost 3 am, I couldn't sleep.<br />From the instant the book starts, Dan Brown immediately grabs the readers attention, grabbing them by the throat and...]]>
+  </body>
+
+  
+
+  <comments_count>21</comments_count>
+    <comments start="1" end="21" total="21">
+        <comment>
+  <id>57202052</id>
+  <body><![CDATA[كما هي كل روايات دان براون .. فهذه الرواية ليست استثناءاً...رواية مذهلة ..<br />وابداع يفوق الوصف ..]]></body>
+  
+  <user>
+    <id>9446828</id>
+    <name>Sarah ~</name>
+    <display_name>Sarah ~</display_name>
+
+    <location>Riyadh, Saudi Arabia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9446828-sarah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1340100127p3/9446828.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1340100127p2/9446828.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 29 22:41:38 -0700 2012</created_at>
+  <updated_at>Wed Aug 29 22:41:38 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>57202646</id>
+  <body><![CDATA[<i>paris wrote: "كما هي كل روايات دان براون .. فهذه الرواية ليست استثناءاً...رواية مذهلة ..<br />وابداع يفوق الوصف .."</i><br /><br />انا قريت لدان برواون اخر رواياتة الرمز المفقود وعجبتني جداا! ♥ <br />وبقيت متحمسة جدا اني اقرا بقية رواياتة وبالفعل انا حاليا بقرا دي وبعدين هاقرا ملائكة وشياطين..<br />انتي قريتيهم كلهم؟ :)]]></body>
+  
+  <user>
+    <id>11511116</id>
+    <name>Marwa</name>
+    <display_name>Marwa</display_name>
+
+    <location>Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11511116-marwa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483413329p3/11511116.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483413329p2/11511116.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 29 23:03:26 -0700 2012</created_at>
+  <updated_at>Wed Aug 29 23:03:26 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>57202886</id>
+  <body><![CDATA[قرأتهم كلهم ..<br />إنت عارفة إنك بتقرأيها بالترتيب العكسي .. ..<br />أول رواية ألفها دان من السلسلةالتي بطلها روبرت لانغدون .. هي ملائكة وشياطين ..<br />رواية مدهشة حبيتها كثير ..<br />وبعدها شفرة دافنشي .. وأخرها الرمز المفقود ..]]></body>
+  
+  <user>
+    <id>9446828</id>
+    <name>Sarah ~</name>
+    <display_name>Sarah ~</display_name>
+
+    <location>Riyadh, Saudi Arabia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9446828-sarah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1340100127p3/9446828.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1340100127p2/9446828.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 29 23:13:38 -0700 2012</created_at>
+  <updated_at>Wed Aug 29 23:13:38 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>57204027</id>
+  <body><![CDATA[اة مانا عارفة, بس انا مكنتش اعرف لما قريت الرمز المفقود.<br />وبعدين كنت بفكر اقرا ملائكة وشياطين لكن شفرة دافنشي شدتني اكتر وخصوصا ان في ناس قالتلي انها افضل اعمالة.<br /> يلا مش مشكلة هاقراة ملائكة وشياطين قريب.. وبعدين اول روايتين لة, دول بطلهم مش روبرت لانغدون تقريبا, صح؟<br />كمان انا سمعت انة بيألف رواية جديدة حاليا بطلها برضو روبرت لانغدون, تعبنا الراجل دة معانا والله ههههه]]></body>
+  
+  <user>
+    <id>11511116</id>
+    <name>Marwa</name>
+    <display_name>Marwa</display_name>
+
+    <location>Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11511116-marwa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483413329p3/11511116.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483413329p2/11511116.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 30 00:01:37 -0700 2012</created_at>
+  <updated_at>Thu Aug 30 00:01:37 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>57259439</id>
+  <body><![CDATA[اه رواية الحصن الرقمي ورواية حقيقة الخديعة روايتين ليستا من بطولة روبرت لانغدون ..<br />واااو ..<br />لم اسمع هذا الخبر ..<br />وسعيدة لأنك أخبرتني به ..<br />اعشق كل ما يكتبه دان<br />.. ومر زمن طويل منذ أن نزلت رواية الرمز المفقود..<br /><br />انتظر الرواية الجديدة بكل شغف ..]]></body>
+  
+  <user>
+    <id>9446828</id>
+    <name>Sarah ~</name>
+    <display_name>Sarah ~</display_name>
+
+    <location>Riyadh, Saudi Arabia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9446828-sarah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1340100127p3/9446828.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1340100127p2/9446828.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 30 21:04:23 -0700 2012</created_at>
+  <updated_at>Thu Aug 30 21:04:23 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>57261226</id>
+  <body><![CDATA[وانا ايضا, لكن دان مش عايز حتي يقول اسمها اية.<br />كل اللي قالوا انة بطلها روبرت وان احداثها سوف تكون في انجلترا تقريبا..<br /> بعد كدة محدش سمع اي خبر عن الرواية من فترة, بيقولوا انة مشغول جدا بكتابتها.<br />انا متشوقة اكتر اني اعرف الرواية هتكون بتتكلم علي اية..<br />دان دائما يختار مواضيع شيقة ومثيرة للجدل ليكتب عنها]]></body>
+  
+  <user>
+    <id>11511116</id>
+    <name>Marwa</name>
+    <display_name>Marwa</display_name>
+
+    <location>Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11511116-marwa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483413329p3/11511116.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483413329p2/11511116.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 30 21:54:12 -0700 2012</created_at>
+  <updated_at>Thu Aug 30 21:54:12 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>57261479</id>
+  <body><![CDATA[انجلترا ..<br />واو متشوقة كثيرا لها ..<br />وبدون اي تفكير فأي عمل يقدمه لنا دان ومن بطولة روبرت فأكيد راح يكون مذهل ..]]></body>
+  
+  <user>
+    <id>9446828</id>
+    <name>Sarah ~</name>
+    <display_name>Sarah ~</display_name>
+
+    <location>Riyadh, Saudi Arabia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9446828-sarah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1340100127p3/9446828.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1340100127p2/9446828.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 30 22:02:05 -0700 2012</created_at>
+  <updated_at>Thu Aug 30 22:02:05 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>57262310</id>
+  <body><![CDATA[طبعا.. اية افضل رواية لدان بالنسبة لك؟]]></body>
+  
+  <user>
+    <id>11511116</id>
+    <name>Marwa</name>
+    <display_name>Marwa</display_name>
+
+    <location>Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11511116-marwa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483413329p3/11511116.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483413329p2/11511116.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 30 22:35:23 -0700 2012</created_at>
+  <updated_at>Thu Aug 30 22:35:23 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>57262496</id>
+  <body><![CDATA[حبيت شيفرة دافنشي وانبهرت بها ..<br />لدرجة أني قرأتها في يوم واحد وكانت أول رواية أقرأها له ...<br />وبعدها قرأت الحصن الرقمي وحقيقة الخديعة ..<br />وبعد فترة اكتشفت المغامرة الأولى لروبرت لانغدون ..<br />احببتها والمواضيع التي ناقشها فيها ..<br />العلم والدين ..<br />مدهش جدا ..<br />أحب كثيرا شيفرة دافنشي والرمز المفقود ..<br />والروايات الأخرى ..<br />أحب حقيقة الخديعة ..<br /><br />وأنت ؟ من الروايا التي قرأتها له حتى الآن ما هي المفضلة لك؟]]></body>
+  
+  <user>
+    <id>9446828</id>
+    <name>Sarah ~</name>
+    <display_name>Sarah ~</display_name>
+
+    <location>Riyadh, Saudi Arabia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9446828-sarah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1340100127p3/9446828.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1340100127p2/9446828.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 30 22:43:49 -0700 2012</created_at>
+  <updated_at>Thu Aug 30 22:43:49 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>57262859</id>
+  <body><![CDATA[انا قريت الرمز المفقود بس فلا استطيع ان احدد<br />بس لما اخلص شفرة دافنشي ممكن اقول مين الافضل :)]]></body>
+  
+  <user>
+    <id>11511116</id>
+    <name>Marwa</name>
+    <display_name>Marwa</display_name>
+
+    <location>Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11511116-marwa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483413329p3/11511116.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483413329p2/11511116.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 30 23:02:57 -0700 2012</created_at>
+  <updated_at>Thu Aug 30 23:02:57 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>57263019</id>
+  <body><![CDATA[أوك سأكون بانتظارك ..]]></body>
+  
+  <user>
+    <id>9446828</id>
+    <name>Sarah ~</name>
+    <display_name>Sarah ~</display_name>
+
+    <location>Riyadh, Saudi Arabia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9446828-sarah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1340100127p3/9446828.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1340100127p2/9446828.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 30 23:11:59 -0700 2012</created_at>
+  <updated_at>Thu Aug 30 23:11:59 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>59051959</id>
+  <body><![CDATA[باريس, قريتها كلها اخيرا<br />مذهلة جدا جدا جدا جدا جدا جدا جدا <br />(انا ممكن افضل كدة لغايت لما الحروف تخلص كلها هههههههه)<br />بجد رواية ممتعة لابعد الحدود وافضل من الرمز المفقود<br />بقالي فترة طويلة ماقرتش رواية اعطيتها 5 نجوم.<br />متشوقة اقرا بقية روايات دان براون.]]></body>
+  
+  <user>
+    <id>11511116</id>
+    <name>Marwa</name>
+    <display_name>Marwa</display_name>
+
+    <location>Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11511116-marwa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483413329p3/11511116.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483413329p2/11511116.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Sep 30 01:21:55 -0700 2012</created_at>
+  <updated_at>Sun Sep 30 01:21:55 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>59104788</id>
+  <body><![CDATA[<i>Marwa wrote: "باريس, قريتها كلها اخيرا<br />مذهلة جدا جدا جدا جدا جدا جدا جدا <br />(انا ممكن افضل كدة لغايت لما الحروف تخلص كلها هههههههه)<br />بجد رواية ممتعة لابعد الحدود وافضل من الرمز المفقود<br />بقالي فترة طويلة ماقرتش رواي..."</i><br /><br />هههههه واضح إنك سعيدة .. كنت متأكدة إنها راح تعجبك .. هي واحدة من أجمل رواياته ..<br />يلا اقرأي باقي رواياته حتى تبدأي تنتظري الرواية الجديدة معي ..]]></body>
+  
+  <user>
+    <id>9446828</id>
+    <name>Sarah ~</name>
+    <display_name>Sarah ~</display_name>
+
+    <location>Riyadh, Saudi Arabia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9446828-sarah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1340100127p3/9446828.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1340100127p2/9446828.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Sep 30 19:41:05 -0700 2012</created_at>
+  <updated_at>Sun Sep 30 19:41:05 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>59113438</id>
+  <body><![CDATA[ان شاء الله هاقراهم كلهم قريب :)<br />وربنا يصبرنا علي روايتة الجديدة]]></body>
+  
+  <user>
+    <id>11511116</id>
+    <name>Marwa</name>
+    <display_name>Marwa</display_name>
+
+    <location>Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11511116-marwa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483413329p3/11511116.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483413329p2/11511116.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Sep 30 23:45:26 -0700 2012</created_at>
+  <updated_at>Sun Sep 30 23:45:26 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>60643359</id>
+  <body><![CDATA[Like your review pretty much!]]></body>
+  
+  <user>
+    <id>11745055</id>
+    <name>Nadin</name>
+    <display_name>Nadin Adel</display_name>
+
+    <location>Alexandria ✈ Jeddah, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11745055-nadin-adel]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478103601p3/11745055.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478103601p2/11745055.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Oct 27 09:36:59 -0700 2012</created_at>
+  <updated_at>Sat Oct 27 09:36:59 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>63857352</id>
+  <body><![CDATA[<i>Nadin wrote: "Like your review pretty much!"</i><br /><br />Thank you Nadin! :)]]></body>
+  
+  <user>
+    <id>11511116</id>
+    <name>Marwa</name>
+    <display_name>Marwa</display_name>
+
+    <location>Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11511116-marwa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483413329p3/11511116.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483413329p2/11511116.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Dec 20 03:14:56 -0800 2012</created_at>
+  <updated_at>Thu Dec 20 03:14:56 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>104245759</id>
+  <body><![CDATA[love the review plus the comments <br /><br />and now we know that Marwa reads past her bedtime and reads the series books in reverse :)]]></body>
+  
+  <user>
+    <id>8756340</id>
+    <name>Aseel</name>
+    <display_name>Aseel</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8756340-aseel]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1490509750p3/8756340.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1490509750p2/8756340.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 13 13:43:54 -0700 2014</created_at>
+  <updated_at>Wed Aug 13 13:43:54 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104245766</id>
+  <body><![CDATA[love the review plus the comments <br /><br />and now we know that Marwa reads past her bedtime and reads the series books in reverse :)]]></body>
+  
+  <user>
+    <id>8756340</id>
+    <name>Aseel</name>
+    <display_name>Aseel</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8756340-aseel]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1490509750p3/8756340.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1490509750p2/8756340.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 13 13:44:04 -0700 2014</created_at>
+  <updated_at>Wed Aug 13 13:44:04 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>105287761</id>
+  <body><![CDATA[<i>Aseel wrote: "love the review plus the comments <br /><br />and now we know that Marwa reads past her bedtime and reads the series books in reverse :)"</i><br /><br />:D What bedtime?I never heard of such thing :P<br />I wasn't aware it was a series until after I started book 3 x)<br />Sorry for the late reply, GR didn't see it fit to notify me. I found this comment by luck.]]></body>
+  
+  <user>
+    <id>11511116</id>
+    <name>Marwa</name>
+    <display_name>Marwa</display_name>
+
+    <location>Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11511116-marwa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483413329p3/11511116.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483413329p2/11511116.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 31 00:37:57 -0700 2014</created_at>
+  <updated_at>Sun Aug 31 00:37:57 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>142681819</id>
+  <body><![CDATA[Great, great review Marwa!]]></body>
+  
+  <user>
+    <id>34207574</id>
+    <name>Miquel</name>
+    <display_name>Miquel Reina</display_name>
+
+    <location>Barcelona, Spain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34207574-miquel-reina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1472878884p3/34207574.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1472878884p2/34207574.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 11 09:58:44 -0800 2015</created_at>
+  <updated_at>Wed Nov 11 09:58:44 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>143133283</id>
+  <body><![CDATA[Kitap çok sürükleyici,heyecanı bitmeyen gerilim dolu ve insanın kendini sürekli şifreler çözmeye çalışırken bulmasını sağlıyor.Hayatta bir çok sır var ve bence sır güç ile eş değerdir.Sır sadece kişisel değil bir ülke bir ordu bir ırk gibi büyük kitlelide olabilir ve asli olan güç benzetmem aslında burdandır.Büyük güç büyük sırdır ve sırlar doğru kişilerde bulunmalıdır yoksa kötü sonuçlar doğurabilir ben kitabı çok beğendim ve okuması için herkeze tavsiye ederim...]]></body>
+  
+  <user>
+    <id>48856196</id>
+    <name>Gülay</name>
+    <display_name>Gülay Karakaya</display_name>
+
+    <location>Istanbul, 34, Turkey</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/48856196-g-lay-karakaya]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1447184010p3/48856196.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1447184010p2/48856196.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Nov 21 03:31:54 -0800 2015</created_at>
+  <updated_at>Sat Nov 21 03:31:54 -0800 2015</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/382712579]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/382712579]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

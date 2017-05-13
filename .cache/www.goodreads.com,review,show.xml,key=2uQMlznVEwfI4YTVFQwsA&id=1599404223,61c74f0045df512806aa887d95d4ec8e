@@ -1,0 +1,1377 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:39:45 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: H24JKGT4YE62AQPBRE78
+etag: W/"297971a9045000ebbb094615f730e3e4"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.336448
+set-cookie: csid=BAhJIhg2NTMtMzYyMDA0NS00NjM0MTEyBjoGRVQ%3D--01ec46a97d939769b98c4aff3ccab08ce294b243; path=/; expires=Tue, 12 May 2037 13:39:45 -0000, locale=es; path=/, _session_id2=1a44d57ac7af5976ce0eb7d83ef1ba5f; path=/; expires=Fri, 12 May 2017 19:39:45 -0000; HttpOnly
+content-length: 49876
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=1599404223
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1599404223</id>
+    
+  <user>
+    <id>2933855</id>
+    <name>Brina</name>
+    <display_name>Brina</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2933855-brina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1454067566p3/2933855.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1454067566p2/2933855.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">2657</id>
+  <isbn>0061120081</isbn>
+  <isbn13>9780061120084</isbn13>
+  <text_reviews_count type="integer">57655</text_reviews_count>
+  <title>To Kill a Mockingbird</title>
+  <title_without_series>To Kill a Mockingbird</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1361975680m/2657.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1361975680s/2657.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2657.To_Kill_a_Mockingbird</link>
+  <num_pages>324</num_pages>
+  <format>Paperback</format>
+  <edition_information>50th Anniversary</edition_information>
+  <publisher>Harper Perennial Modern Classics</publisher>
+  <publication_day>23</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.25</average_rating>
+  <ratings_count>3269503</ratings_count>
+  <description>The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it, To Kill A Mockingbird became both an instant bestseller and a critical success when it was first published in 1960. It went on to win the Pulitzer Prize in 1961 and was later made into an Academy Award-winning film, also a classic.&lt;br /&gt;&lt;br /&gt;Compassionate, dramatic, and deeply moving, To Kill A Mockingbird takes readers to the roots of human behavior - to innocence and experience, kindness and cruelty, love and hatred, humor and pathos. Now with over 18 million copies in print and translated into forty languages, this regional story by a young Alabama woman claims universal appeal. Harper Lee always considered her book to be a simple love story. Today it is regarded as a masterpiece of American literature.</description>
+<authors>
+<author>
+<id>1825</id>
+<name>Harper Lee</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1188820730p5/1825.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1188820730p2/1825.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1825.Harper_Lee]]></link>
+<average_rating>4.21</average_rating>
+<ratings_count>3434236</ratings_count>
+<text_reviews_count>95107</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">95920043</id>
+          <page type="integer">222</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu May 05 11:12:48 -0700 2016</created_at>
+          <updated_at type="datetime">Thu May 05 11:12:48 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">45</ratings_count>
+          <percent type="integer">68</percent>
+          <work_id type="integer">3275794</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">95860873</id>
+          <page type="integer">153</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed May 04 18:29:09 -0700 2016</created_at>
+          <updated_at type="datetime">Wed May 04 18:29:51 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">28</ratings_count>
+          <percent type="integer">47</percent>
+          <work_id type="integer">3275794</work_id>
+          <note_uri>kca://note/amzn1.grok.note.372693f0e9e43cd90a9b9363e42768fb</note_uri>
+          <note_updated_at type="datetime">Wed May 04 18:29:51 -0700 2016</note_updated_at>
+          <body>Part II</body>
+        </user_status>
+        <user_status>
+          <id type="integer">95796995</id>
+          <page type="integer">76</page>
+          <chapter type="integer"></chapter>
+          <comments_count>8</comments_count>
+          <created_at type="datetime">Wed May 04 03:38:22 -0700 2016</created_at>
+          <updated_at type="datetime">Wed May 04 03:38:22 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">50</ratings_count>
+          <percent type="integer">23</percent>
+          <work_id type="integer">3275794</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">95503006</id>
+          <page type="integer">50</page>
+          <chapter type="integer"></chapter>
+          <comments_count>2</comments_count>
+          <created_at type="datetime">Sat Apr 30 22:15:26 -0700 2016</created_at>
+          <updated_at type="datetime">Sat Apr 30 22:15:26 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">21</ratings_count>
+          <percent type="integer">15</percent>
+          <work_id type="integer">3275794</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">94961110</id>
+          <page type="integer">19</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sun Apr 24 18:24:05 -0700 2016</created_at>
+          <updated_at type="datetime">Sun Apr 24 18:24:05 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">7</ratings_count>
+          <percent type="integer">5</percent>
+          <work_id type="integer">3275794</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">1345455598</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sat May 07 18:36:39 -0700 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1329673071</id>
+          <old_status>to-read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Sun Apr 24 18:23:58 -0700 2016</updated_at>
+          <ratings_count>28</ratings_count>
+          <comments_count>1</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1303068573</id>
+          <old_status></old_status>
+          <status>to-read</status>
+          <updated_at type="datetime">Sun Apr 03 11:51:00 -0700 2016</updated_at>
+          <ratings_count>28</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>313</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="classics" exclusive="false" review_shelf_id="1273433371" sortable="false" />
+    <shelf name="pulitzer-winner" exclusive="false" review_shelf_id="1300496644" sortable="false" />
+    <shelf name="500-great-books-women" exclusive="false" review_shelf_id="1646685655" sortable="false" />
+    <shelf name="southern-lit" exclusive="false" review_shelf_id="1308014431" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon May 02 00:00:00 -0700 2016</started_at>
+  <read_at>Sat May 07 00:00:00 -0700 2016</read_at>
+  <date_added>Sun Apr 03 11:51:00 -0700 2016</date_added>
+  <date_updated>Fri May 05 12:38:52 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[As I finished the timeless classic To Kill a Mockingbird, I thought to myself what can I add to a review that the 2 million or so good reads reviewers have not already pointed out. I continued to think to myself about what has made the novel so beloved and decided to focus on a character trait: c...]]>
+  </body>
+
+  
+
+  <comments_count>80</comments_count>
+    <comments start="1" end="50" total="80">
+        <comment>
+  <id>151381414</id>
+  <body><![CDATA[Is this the first time you've read it? I am dying to read your review!!]]></body>
+  
+  <user>
+    <id>13286533</id>
+    <name>Paula W</name>
+    <display_name>Paula W</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13286533-paula-w]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1462682907p3/13286533.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1462682907p2/13286533.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 07 18:41:47 -0700 2016</created_at>
+  <updated_at>Sat May 07 18:41:47 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151381995</id>
+  <body><![CDATA[What a classic!]]></body>
+  
+  <user>
+    <id>3803671</id>
+    <name>Ivonne</name>
+    <display_name>Ivonne Rovira</display_name>
+
+    <location>Louisville, KY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3803671-ivonne-rovira]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1339470651p3/3803671.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1339470651p2/3803671.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 07 18:59:20 -0700 2016</created_at>
+  <updated_at>Sat May 07 18:59:20 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151382930</id>
+  <body><![CDATA[Paula, I read it when I was 14 so it's been awhile. Yes, Ivonne what a classic. I have a clearer head so much easier for me to write review in morning.]]></body>
+  
+  <user>
+    <id>2933855</id>
+    <name>Brina</name>
+    <display_name>Brina</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2933855-brina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1454067566p3/2933855.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1454067566p2/2933855.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 07 19:25:59 -0700 2016</created_at>
+  <updated_at>Sat May 07 19:25:59 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151394663</id>
+  <body><![CDATA[Great review!]]></body>
+  
+  <user>
+    <id>12371602</id>
+    <name>Veronique</name>
+    <display_name>Veronique</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12371602-veronique]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493937248p3/12371602.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493937248p2/12371602.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 08 04:56:08 -0700 2016</created_at>
+  <updated_at>Sun May 08 04:56:08 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151395008</id>
+  <body><![CDATA[Nice review, Brina! I like how you selected a focus for this much loved classic! :D]]></body>
+  
+  <user>
+    <id>35084560</id>
+    <name>Stephanie</name>
+    <display_name>Stephanie</display_name>
+
+    <location>Palatine, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/35084560-stephanie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1432698556p3/35084560.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1432698556p2/35084560.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 08 05:12:06 -0700 2016</created_at>
+  <updated_at>Sun May 08 05:12:06 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151395099</id>
+  <body><![CDATA[Thanks Veronique. Stephanie I needed a focus. I did not find it necessary to reiterate the plot when more than half my friends have read this. So I decided to focus on a character trait that came up in book discussion and tie all the people together. Gives me a template by which to review other classics.]]></body>
+  
+  <user>
+    <id>2933855</id>
+    <name>Brina</name>
+    <display_name>Brina</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2933855-brina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1454067566p3/2933855.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1454067566p2/2933855.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 08 05:16:33 -0700 2016</created_at>
+  <updated_at>Sun May 08 05:16:33 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151396479</id>
+  <body><![CDATA[Fantastic review, Brina! One of my all time favorites!]]></body>
+  
+  <user>
+    <id>8170584</id>
+    <name>Marilyn</name>
+    <display_name>Marilyn C.</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8170584-marilyn-c]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1466640465p3/8170584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1466640465p2/8170584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 08 06:09:11 -0700 2016</created_at>
+  <updated_at>Sun May 08 06:09:11 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151396541</id>
+  <body><![CDATA[Great Review Brina!]]></body>
+  
+  <user>
+    <id>40554949</id>
+    <name>Shelby</name>
+    <display_name>Shelby</display_name>
+
+    <location>Waterloo, IA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/40554949-shelby]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1491160399p3/40554949.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1491160399p2/40554949.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 08 06:11:10 -0700 2016</created_at>
+  <updated_at>Sun May 08 06:11:10 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151396827</id>
+  <body><![CDATA[Thanks, Marilyn and Shelby :)]]></body>
+  
+  <user>
+    <id>2933855</id>
+    <name>Brina</name>
+    <display_name>Brina</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2933855-brina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1454067566p3/2933855.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1454067566p2/2933855.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 08 06:21:42 -0700 2016</created_at>
+  <updated_at>Sun May 08 06:21:42 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151397165</id>
+  <body><![CDATA[Beautiful review Brina of this timeless classic from a personal perspective that we can all relate to.]]></body>
+  
+  <user>
+    <id>6700518</id>
+    <name>Lorna</name>
+    <display_name>Lorna</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6700518-lorna]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1489947219p3/6700518.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1489947219p2/6700518.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 08 06:33:30 -0700 2016</created_at>
+  <updated_at>Sun May 08 06:33:30 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151397233</id>
+  <body><![CDATA[A timeless legacy for generations to come.....]]></body>
+  
+  <user>
+    <id>15602796</id>
+    <name>Linda</name>
+    <display_name>Linda</display_name>
+
+    <location>Manhattan, NV</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15602796-linda]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1465324669p3/15602796.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1465324669p2/15602796.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 08 06:36:14 -0700 2016</created_at>
+  <updated_at>Sun May 08 06:36:14 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151397534</id>
+  <body><![CDATA[Thanks Lorna and Linda. I wanted to focus on one perspective rather than a plot that most people know already.]]></body>
+  
+  <user>
+    <id>2933855</id>
+    <name>Brina</name>
+    <display_name>Brina</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2933855-brina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1454067566p3/2933855.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1454067566p2/2933855.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 08 06:47:46 -0700 2016</created_at>
+  <updated_at>Sun May 08 06:47:46 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151397826</id>
+  <body><![CDATA[Nice review Brina! Such a classic book.]]></body>
+  
+  <user>
+    <id>5464046</id>
+    <name>PorshaJo</name>
+    <display_name>PorshaJo</display_name>
+
+    <location>Pittsburgh, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5464046-porshajo]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1451425289p3/5464046.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1451425289p2/5464046.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 08 06:57:36 -0700 2016</created_at>
+  <updated_at>Sun May 08 06:57:36 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151397838</id>
+  <body><![CDATA[Wonderful Brina. <br />Just proves there are never enough great things to say about this book. :)]]></body>
+  
+  <user>
+    <id>22600410</id>
+    <name>Cathrine ☯ </name>
+    <display_name>Cathrine ☯ </display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22600410-cathrine]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1494361929p3/22600410.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1494361929p2/22600410.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 08 06:57:55 -0700 2016</created_at>
+  <updated_at>Sun May 08 06:57:55 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151398190</id>
+  <body><![CDATA[I enjoyed your review, Brina. I read this one when I was at school - under,some duress, I must add - I really must get around re-reading it.]]></body>
+  
+  <user>
+    <id>5885760</id>
+    <name>Andrew</name>
+    <display_name>Andrew Smith</display_name>
+
+    <location><![CDATA[Newton Abbot, Devon, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5885760-andrew-smith]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1445019627p3/5885760.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1445019627p2/5885760.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 08 07:11:16 -0700 2016</created_at>
+  <updated_at>Sun May 08 07:11:16 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151398581</id>
+  <body><![CDATA[Andrew I also read in school under a teacher who didn't particularly like me so I ignored the books I read. You must reread it.]]></body>
+  
+  <user>
+    <id>2933855</id>
+    <name>Brina</name>
+    <display_name>Brina</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2933855-brina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1454067566p3/2933855.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1454067566p2/2933855.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 08 07:26:56 -0700 2016</created_at>
+  <updated_at>Sun May 08 07:26:56 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151398601</id>
+  <body><![CDATA[Cathrine and PorshaJo thanks. I'm sure the next person will think of new things to say as well.]]></body>
+  
+  <user>
+    <id>2933855</id>
+    <name>Brina</name>
+    <display_name>Brina</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2933855-brina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1454067566p3/2933855.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1454067566p2/2933855.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 08 07:27:41 -0700 2016</created_at>
+  <updated_at>Sun May 08 07:27:41 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151399595</id>
+  <body><![CDATA[Wonderful Brina, did you see the movie too? Gregory Peck was an idol of mine like Harper Lee. Cheers]]></body>
+  
+  <user>
+    <id>47868173</id>
+    <name>Murf the Surf</name>
+    <display_name>Murf the Surf</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/47868173-murf-the-surf]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1445226640p3/47868173.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1445226640p2/47868173.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 08 08:01:47 -0700 2016</created_at>
+  <updated_at>Sun May 08 08:01:47 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151400063</id>
+  <body><![CDATA[Murf I saw the movie in school after we read the book. I will have to watch it again.]]></body>
+  
+  <user>
+    <id>2933855</id>
+    <name>Brina</name>
+    <display_name>Brina</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2933855-brina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1454067566p3/2933855.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1454067566p2/2933855.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 08 08:18:39 -0700 2016</created_at>
+  <updated_at>Sun May 08 08:18:39 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151400340</id>
+  <body><![CDATA[<i>Brina wrote: "Andrew I also read in school under a teacher who didn't particularly like me so I ignored the books I read. You must reread it."</i><br /><br />I think it's one of those books lots of kids are 'forced' to read at school. I'm going to undertake to read it again in the next twelve months.]]></body>
+  
+  <user>
+    <id>5885760</id>
+    <name>Andrew</name>
+    <display_name>Andrew Smith</display_name>
+
+    <location><![CDATA[Newton Abbot, Devon, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5885760-andrew-smith]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1445019627p3/5885760.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1445019627p2/5885760.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 08 08:27:53 -0700 2016</created_at>
+  <updated_at>Sun May 08 08:27:53 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151401795</id>
+  <body><![CDATA[Andrew I'm going to read Gatsby next for the same reason.]]></body>
+  
+  <user>
+    <id>2933855</id>
+    <name>Brina</name>
+    <display_name>Brina</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2933855-brina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1454067566p3/2933855.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1454067566p2/2933855.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 08 09:17:49 -0700 2016</created_at>
+  <updated_at>Sun May 08 09:17:49 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151403543</id>
+  <body><![CDATA[Nice review Brina.]]></body>
+  
+  <user>
+    <id>13427823</id>
+    <name>Maureen</name>
+    <display_name>Maureen</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13427823-maureen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1447766454p3/13427823.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1447766454p2/13427823.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 08 10:19:05 -0700 2016</created_at>
+  <updated_at>Sun May 08 10:19:05 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151403677</id>
+  <body><![CDATA[Thanks Maureen.]]></body>
+  
+  <user>
+    <id>2933855</id>
+    <name>Brina</name>
+    <display_name>Brina</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2933855-brina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1454067566p3/2933855.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1454067566p2/2933855.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 08 10:23:26 -0700 2016</created_at>
+  <updated_at>Sun May 08 10:23:26 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151407320</id>
+  <body><![CDATA[<i>Brina wrote: "Andrew I'm going to read Gatsby next for the same reason."</i><br /><br />I'll be interested in your view of that one, Brina. I hadn't read it until quite recently and found that it didn't really work for me - though I know it's thought by many to be one of the great American novels. <br />One book I read a couple of years ago, because my son was studying it at school, is Of Mice and Men, which I did quite like. <br />It's good to read these books at a time of your own choosing, I think. I'm a big fan of American literature and I've got quite a few books to work through.]]></body>
+  
+  <user>
+    <id>5885760</id>
+    <name>Andrew</name>
+    <display_name>Andrew Smith</display_name>
+
+    <location><![CDATA[Newton Abbot, Devon, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5885760-andrew-smith]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1445019627p3/5885760.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1445019627p2/5885760.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 08 12:19:50 -0700 2016</created_at>
+  <updated_at>Sun May 08 12:19:50 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151410929</id>
+  <body><![CDATA[Andrew your first comment made me think about the books I read in school because I had to and got nothing out of them. So I am going back and reading them one at a time. For sure I read Gatsby, Huckleberry Finn, and Mockingbird. Then in British literature I read Shakespeare- not my taste still today personal preference-, Jane Eyre, and Frankenstein. World lit- Things Fall Apart and Cry, The Beloved Country. I have a lot of catching up to do.]]></body>
+  
+  <user>
+    <id>2933855</id>
+    <name>Brina</name>
+    <display_name>Brina</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2933855-brina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1454067566p3/2933855.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1454067566p2/2933855.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 08 14:07:45 -0700 2016</created_at>
+  <updated_at>Sun May 08 14:07:45 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151411012</id>
+  <body><![CDATA[Well said Brina. So glad you enjoyed this classic.]]></body>
+  
+  <user>
+    <id>5859453</id>
+    <name>Arah-Lynda</name>
+    <display_name>Arah-Lynda</display_name>
+
+    <location>Kitchener, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5859453-arah-lynda]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492957789p3/5859453.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492957789p2/5859453.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 08 14:09:52 -0700 2016</created_at>
+  <updated_at>Sun May 08 14:09:52 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151411081</id>
+  <body><![CDATA[Thanks, Arah-Lynda, appreciate it.]]></body>
+  
+  <user>
+    <id>2933855</id>
+    <name>Brina</name>
+    <display_name>Brina</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2933855-brina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1454067566p3/2933855.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1454067566p2/2933855.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 08 14:11:31 -0700 2016</created_at>
+  <updated_at>Sun May 08 14:11:31 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151411653</id>
+  <body><![CDATA[My favorite audiobook...just listened to it within the past year.]]></body>
+  
+  <user>
+    <id>4146551</id>
+    <name>Kelli</name>
+    <display_name>Kelli</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4146551-kelli]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1413330332p3/4146551.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1413330332p2/4146551.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 08 14:26:24 -0700 2016</created_at>
+  <updated_at>Sun May 08 14:26:24 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151414119</id>
+  <body><![CDATA[<i>Brina wrote: "Andrew your first comment made me think about the books I read in school because I had to and got nothing out of them. So I am going back and reading them one at a time. For sure I read Gatsby, Huc..."</i><br /><br />That's an interesting point, Brina. Books I read at school and didn't enjoy included Amimal Farm and Lord of the Flies. Some Shakespeare too (not my taste either). There's so much I haven't read and yet there's exciting new books being released all the time. It's a challenge - but in a good way.]]></body>
+  
+  <user>
+    <id>5885760</id>
+    <name>Andrew</name>
+    <display_name>Andrew Smith</display_name>
+
+    <location><![CDATA[Newton Abbot, Devon, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5885760-andrew-smith]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1445019627p3/5885760.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1445019627p2/5885760.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 08 15:41:12 -0700 2016</created_at>
+  <updated_at>Sun May 08 15:41:12 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151414485</id>
+  <body><![CDATA[I must have read animal farm also because then we had to write our own satires. I agree. That's why I'm determined to read 10 classics this year. Might as well start with the school books.]]></body>
+  
+  <user>
+    <id>2933855</id>
+    <name>Brina</name>
+    <display_name>Brina</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2933855-brina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1454067566p3/2933855.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1454067566p2/2933855.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 08 15:52:03 -0700 2016</created_at>
+  <updated_at>Sun May 08 15:52:03 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151414486</id>
+  <body><![CDATA[These books hit you differently as an adult.]]></body>
+  
+  <user>
+    <id>4146551</id>
+    <name>Kelli</name>
+    <display_name>Kelli</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4146551-kelli]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1413330332p3/4146551.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1413330332p2/4146551.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 08 15:52:04 -0700 2016</created_at>
+  <updated_at>Sun May 08 15:52:04 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151414507</id>
+  <body><![CDATA[Ps. I love this review!]]></body>
+  
+  <user>
+    <id>4146551</id>
+    <name>Kelli</name>
+    <display_name>Kelli</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4146551-kelli]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1413330332p3/4146551.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1413330332p2/4146551.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 08 15:52:39 -0700 2016</created_at>
+  <updated_at>Sun May 08 15:52:39 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151414579</id>
+  <body><![CDATA[Yes,I can see that they would, Kelli. I should probably give them another chance.]]></body>
+  
+  <user>
+    <id>5885760</id>
+    <name>Andrew</name>
+    <display_name>Andrew Smith</display_name>
+
+    <location><![CDATA[Newton Abbot, Devon, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5885760-andrew-smith]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1445019627p3/5885760.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1445019627p2/5885760.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 08 15:54:39 -0700 2016</created_at>
+  <updated_at>Sun May 08 15:54:39 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151415127</id>
+  <body><![CDATA[Kelli, hence my list of books from school that I'd like to reread.]]></body>
+  
+  <user>
+    <id>2933855</id>
+    <name>Brina</name>
+    <display_name>Brina</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2933855-brina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1454067566p3/2933855.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1454067566p2/2933855.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 08 16:13:03 -0700 2016</created_at>
+  <updated_at>Sun May 08 16:13:03 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151434753</id>
+  <body><![CDATA[What a refreshing review- great job!]]></body>
+  
+  <user>
+    <id>38087894</id>
+    <name>Dosha (Bluestocking7)</name>
+    <display_name>Dosha (Bluestocking7) Beard</display_name>
+
+    <location>Jamaica Plain, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/38087894-dosha-bluestocking7-beard]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1419007933p3/38087894.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1419007933p2/38087894.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon May 09 06:11:39 -0700 2016</created_at>
+  <updated_at>Mon May 09 06:11:39 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151434842</id>
+  <body><![CDATA[Thanks Dosha. I figured to explain plot was redundant at this point, so I decided to focus on the characters themselves.]]></body>
+  
+  <user>
+    <id>2933855</id>
+    <name>Brina</name>
+    <display_name>Brina</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2933855-brina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1454067566p3/2933855.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1454067566p2/2933855.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon May 09 06:14:02 -0700 2016</created_at>
+  <updated_at>Mon May 09 06:14:02 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151436670</id>
+  <body><![CDATA[Great way to review such a classic!]]></body>
+  
+  <user>
+    <id>5009669</id>
+    <name>Tina</name>
+    <display_name>Tina</display_name>
+
+    <location>Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5009669-tina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492696914p3/5009669.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492696914p2/5009669.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon May 09 07:10:11 -0700 2016</created_at>
+  <updated_at>Mon May 09 07:10:11 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151437928</id>
+  <body><![CDATA[Thank you Tina. I'm excited to see classic film now :)]]></body>
+  
+  <user>
+    <id>2933855</id>
+    <name>Brina</name>
+    <display_name>Brina</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2933855-brina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1454067566p3/2933855.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1454067566p2/2933855.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon May 09 07:43:10 -0700 2016</created_at>
+  <updated_at>Mon May 09 07:43:10 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151439057</id>
+  <body><![CDATA[Fabulous review, Brina. You have hit at the heart of the matter.]]></body>
+  
+  <user>
+    <id>5512657</id>
+    <name>Sara</name>
+    <display_name>Sara</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5512657-sara]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1490295912p3/5512657.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1490295912p2/5512657.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon May 09 08:13:48 -0700 2016</created_at>
+  <updated_at>Mon May 09 08:13:48 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151439149</id>
+  <body><![CDATA[I appreciate it Sara coming from you.]]></body>
+  
+  <user>
+    <id>2933855</id>
+    <name>Brina</name>
+    <display_name>Brina</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2933855-brina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1454067566p3/2933855.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1454067566p2/2933855.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon May 09 08:16:19 -0700 2016</created_at>
+  <updated_at>Mon May 09 08:16:19 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151451323</id>
+  <body><![CDATA[Great thoughts on this one!! We're reading 'Go Set a Watchman' in my book club this month so am currently rereading this - I read it years ago and couldn't remember too much of it!!]]></body>
+  
+  <user>
+    <id>6116714</id>
+    <name>Trisha</name>
+    <display_name>Trisha Smith</display_name>
+
+    <location>Waukesha, WI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6116714-trisha-smith]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1459394591p3/6116714.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1459394591p2/6116714.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon May 09 12:55:31 -0700 2016</created_at>
+  <updated_at>Mon May 09 12:55:31 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151452102</id>
+  <body><![CDATA[<i>Trisha wrote: "Great thoughts on this one!! We're reading 'Go Set a Watchman' in my book club this month so am currently rereading this - I read it years ago and couldn't remember too much of it!!"</i><br /><br />another group I'm in did a group read of TKAM right before Watchman came out and then, obviously we read Watchman as it was hot off the press. I'm looking forward to your review on Watchman.]]></body>
+  
+  <user>
+    <id>38087894</id>
+    <name>Dosha (Bluestocking7)</name>
+    <display_name>Dosha (Bluestocking7) Beard</display_name>
+
+    <location>Jamaica Plain, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/38087894-dosha-bluestocking7-beard]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1419007933p3/38087894.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1419007933p2/38087894.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon May 09 13:11:17 -0700 2016</created_at>
+  <updated_at>Mon May 09 13:11:17 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151452275</id>
+  <body><![CDATA[I'm also looking forward. Some people loved it whereas others say they wished it didn't exist.]]></body>
+  
+  <user>
+    <id>2933855</id>
+    <name>Brina</name>
+    <display_name>Brina</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2933855-brina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1454067566p3/2933855.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1454067566p2/2933855.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon May 09 13:14:30 -0700 2016</created_at>
+  <updated_at>Mon May 09 13:14:30 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151456034</id>
+  <body><![CDATA[Are you going to read Go Set a Watchman also? I'm passing on that because I love Mockingbird so much. I don't need a "before" or "after" story, but I'm always interested in what other people think of these kinds of books.]]></body>
+  
+  <user>
+    <id>4626387</id>
+    <name>Linda</name>
+    <display_name>Linda</display_name>
+
+    <location>Duvall, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4626387-linda]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1418713075p3/4626387.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1418713075p2/4626387.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon May 09 14:38:02 -0700 2016</created_at>
+  <updated_at>Mon May 09 14:38:02 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151456596</id>
+  <body><![CDATA[Linda I don't need the before story. Why tarnish a good story. Maybe one day I might read it if I'm between books.]]></body>
+  
+  <user>
+    <id>2933855</id>
+    <name>Brina</name>
+    <display_name>Brina</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2933855-brina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1454067566p3/2933855.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1454067566p2/2933855.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon May 09 14:51:55 -0700 2016</created_at>
+  <updated_at>Mon May 09 14:51:55 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151457025</id>
+  <body><![CDATA[Good for you! I agree that this is a perfect book as-is.]]></body>
+  
+  <user>
+    <id>4626387</id>
+    <name>Linda</name>
+    <display_name>Linda</display_name>
+
+    <location>Duvall, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4626387-linda]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1418713075p3/4626387.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1418713075p2/4626387.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon May 09 15:01:11 -0700 2016</created_at>
+  <updated_at>Mon May 09 15:01:11 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151461367</id>
+  <body><![CDATA[Linda it really is a perfect book. When I see sequels or prequels after the fact I am skeptical, leave the original be.]]></body>
+  
+  <user>
+    <id>2933855</id>
+    <name>Brina</name>
+    <display_name>Brina</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2933855-brina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1454067566p3/2933855.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1454067566p2/2933855.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon May 09 16:50:02 -0700 2016</created_at>
+  <updated_at>Mon May 09 16:50:02 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151461524</id>
+  <body><![CDATA[The objection I have to Go Set a Watchman is that it is known that Harper Lee did not want it published. It was a draft from which this book grew and this book is the perfect edit. I don't think it is fair to sell it or think of it as if it were a separate book. If you want to read it for history or background on this book, fine, but it isn't marketed that way because they want to make a lot of money off it.]]></body>
+  
+  <user>
+    <id>5512657</id>
+    <name>Sara</name>
+    <display_name>Sara</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5512657-sara]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1490295912p3/5512657.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1490295912p2/5512657.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon May 09 16:55:07 -0700 2016</created_at>
+  <updated_at>Mon May 09 16:55:07 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151461818</id>
+  <body><![CDATA[So in a nutshell it was published shortly before her death so the publishers could get her "consent" despite the fact that she never wanted it published. Amazing. What ceases to amaze me is that after TKAM Harper Lee never published another book; she stood pat with the beautiful debut she wrote. I always wonder why she didn't subsequently pen more novels.]]></body>
+  
+  <user>
+    <id>2933855</id>
+    <name>Brina</name>
+    <display_name>Brina</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2933855-brina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1454067566p3/2933855.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1454067566p2/2933855.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon May 09 17:04:26 -0700 2016</created_at>
+  <updated_at>Mon May 09 17:04:26 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151462436</id>
+  <body><![CDATA[Great review. I look forward to reading it with that in mind!]]></body>
+  
+  <user>
+    <id>50404233</id>
+    <name>Navidad</name>
+    <display_name>Navidad Thelamour</display_name>
+
+    <location>Atlanta, GA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/50404233-navidad-thelamour]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1455035956p3/50404233.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1455035956p2/50404233.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon May 09 17:22:54 -0700 2016</created_at>
+  <updated_at>Mon May 09 17:22:54 -0700 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1599404223]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1599404223]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

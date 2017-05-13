@@ -1,0 +1,662 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:42:39 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: 7BK4MEW9S1YSP9VCMNQT
+etag: W/"edda7ceefaee0442da129178f0eca3f8"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.311056
+set-cookie: csid=BAhJIhgyODQtMjc0NDA4MC0wNTU0NDg2BjoGRVQ%3D--fec89ae75bac659ffe92bd8e1d4cefb3e8033b77; path=/; expires=Tue, 12 May 2037 13:42:38 -0000, locale=es; path=/, _session_id2=a2f19f8df3977220f5db5f9a91061c4e; path=/; expires=Fri, 12 May 2017 19:42:39 -0000; HttpOnly
+content-length: 23620
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=1845733632
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1845733632</id>
+    
+  <user>
+    <id>13346584</id>
+    <name>Ana </name>
+    <display_name>Ana </display_name>
+
+    <location>Croatia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13346584-ana]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1494080822p3/13346584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1494080822p2/13346584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">5907</id>
+  <isbn>0618260307</isbn>
+  <isbn13>9780618260300</isbn13>
+  <text_reviews_count type="integer">27659</text_reviews_count>
+  <title>The Hobbit</title>
+  <title_without_series>The Hobbit</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1372847500m/5907.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1372847500s/5907.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/5907.The_Hobbit</link>
+  <num_pages>366</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Houghton Mifflin</publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.24</average_rating>
+  <ratings_count>2152106</ratings_count>
+  <description>&lt;i&gt;In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a hobbit-hole, and that means comfort.&lt;br /&gt;&lt;br /&gt;&lt;/i&gt;Written for J.R.R. Tolkien’s own children, &lt;i&gt;The Hobbit&lt;/i&gt; met with instant critical acclaim when it was first published in 1937. Now recognized as a timeless classic, this introduction to the hobbit Bilbo Baggins, the wizard Gandalf, Gollum, and the spectacular world of Middle-earth recounts of the adventures of a reluctant hero, a powerful and dangerous ring, and the cruel dragon Smaug the Magnificent. The text in this 372-page paperback edition is based on that first published in Great Britain by Collins Modern Classics (1998), and includes a note on the text by Douglas A. Anderson (2001). Unforgettable!&lt;br /&gt;</description>
+<authors>
+<author>
+<id>656983</id>
+<name>J.R.R. Tolkien</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1434625177p5/656983.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1434625177p2/656983.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
+<average_rating>4.31</average_rating>
+<ratings_count>6140649</ratings_count>
+<text_reviews_count>91666</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1623985746</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Wed Dec 21 08:41:12 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>140</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="fantasy" exclusive="false" review_shelf_id="1562508638" sortable="false" />
+    <shelf name="classics" exclusive="false" review_shelf_id="1506752641" sortable="false" />
+    <shelf name="tolkien" exclusive="false" review_shelf_id="1531045129" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Nov 01 00:00:00 -0700 2016</started_at>
+  <read_at>Tue Nov 01 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Dec 21 08:41:12 -0800 2016</date_added>
+  <date_updated>Tue Feb 07 06:36:08 -0800 2017</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[The book is almost always better than the movie, and The Hobbit is the prime example of this sentiment. <br /><br />I have spoken. ]]>
+  </body>
+
+  
+
+  <comments_count>23</comments_count>
+    <comments start="1" end="23" total="23">
+        <comment>
+  <id>161037005</id>
+  <body><![CDATA[I agree, well said! :)]]></body>
+  
+  <user>
+    <id>10919114</id>
+    <name>Karla</name>
+    <display_name>Karla</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10919114-karla]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493619060p3/10919114.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493619060p2/10919114.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 04 09:15:21 -0800 2017</created_at>
+  <updated_at>Wed Jan 04 09:15:21 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161039607</id>
+  <body><![CDATA[Great you liked it :) Fab book ;)]]></body>
+  
+  <user>
+    <id>43587353</id>
+    <name>Orient</name>
+    <display_name>Orient</display_name>
+
+    <location>Ukmergė, Lithuania</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/43587353-orient]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493807744p3/43587353.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493807744p2/43587353.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 04 10:11:18 -0800 2017</created_at>
+  <updated_at>Wed Jan 04 10:11:18 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161042894</id>
+  <body><![CDATA[I agree! I preferred the books to the movies anyway :)]]></body>
+  
+  <user>
+    <id>39243185</id>
+    <name>Natalie</name>
+    <display_name>Natalie The Biblioholic</display_name>
+
+    <location>Toronto, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/39243185-natalie-the-biblioholic]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1481507688p3/39243185.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1481507688p2/39243185.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 04 11:19:53 -0800 2017</created_at>
+  <updated_at>Wed Jan 04 11:19:53 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161053949</id>
+  <body><![CDATA[Well, considering how bad the movies were, that was not difficult. ;)]]></body>
+  
+  <user>
+    <id>3461034</id>
+    <name>Trish</name>
+    <display_name>Trish</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3461034-trish]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493966010p3/3461034.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493966010p2/3461034.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 04 15:14:54 -0800 2017</created_at>
+  <updated_at>Wed Jan 04 15:14:54 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161071893</id>
+  <body><![CDATA[<i>Orient wrote: "Great you liked it :) Fab book ;)"</i><br /><br />Honestly I didn't think I'd like the book. I was wrong. The Hobbit not only met but exceeded my expectations.]]></body>
+  
+  <user>
+    <id>13346584</id>
+    <name>Ana </name>
+    <display_name>Ana </display_name>
+
+    <location>Croatia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13346584-ana]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1494080822p3/13346584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1494080822p2/13346584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 05 00:04:37 -0800 2017</created_at>
+  <updated_at>Thu Jan 05 00:04:37 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161071903</id>
+  <body><![CDATA[<i>Natalie wrote: "I agree! I preferred the books to the movies anyway :)"</i><br /><br />Don't we all :)]]></body>
+  
+  <user>
+    <id>13346584</id>
+    <name>Ana </name>
+    <display_name>Ana </display_name>
+
+    <location>Croatia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13346584-ana]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1494080822p3/13346584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1494080822p2/13346584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 05 00:05:14 -0800 2017</created_at>
+  <updated_at>Thu Jan 05 00:05:14 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161071982</id>
+  <body><![CDATA[<i>Trish wrote: "Well, considering how bad the movies were, that was not difficult. ;)"</i><br /><br />LOL touché. Peter Jackson should have stayed true to the spirit of the original Hobbit. What was he thinking. Half of it isn't even in the book.<br /><br />P.S. I would love to see the Silmarillon on the screen.]]></body>
+  
+  <user>
+    <id>13346584</id>
+    <name>Ana </name>
+    <display_name>Ana </display_name>
+
+    <location>Croatia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13346584-ana]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1494080822p3/13346584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1494080822p2/13346584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 05 00:10:41 -0800 2017</created_at>
+  <updated_at>Thu Jan 05 00:10:41 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161073356</id>
+  <body><![CDATA[Film mi se ne sviđa, ali drago mi je da ti je knjiga bila odlična :)]]></body>
+  
+  <user>
+    <id>22324639</id>
+    <name>Anna&apos;s Ramblings ツ</name>
+    <display_name>Anna&apos;s Ramblings ツ</display_name>
+
+    <location>Zagreb, Croatia, Croatia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22324639-anna-s-ramblings]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492893388p3/22324639.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492893388p2/22324639.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 05 01:43:22 -0800 2017</created_at>
+  <updated_at>Thu Jan 05 01:43:22 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161075023</id>
+  <body><![CDATA[<i>♕Miss A♕ wrote: "Trish wrote: "Well, considering how bad the movies were, that was not difficult. ;)"<br /><br />LOL touché. Peter Jackson should have stayed true to the spirit of the original Hobbit. What was he thinking. H..."</i><br /><br />The thing is, his putting stuff from the Silmarillion into LOTR worked! He obviously CAN do it! No idea what went wrong with The Hobbit but it was sooooo disappointing. The first was OK (though not great), the second already bad and the third ... I don't want to talk about it. *growls*]]></body>
+  
+  <user>
+    <id>3461034</id>
+    <name>Trish</name>
+    <display_name>Trish</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3461034-trish]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493966010p3/3461034.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493966010p2/3461034.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 05 03:11:22 -0800 2017</created_at>
+  <updated_at>Thu Jan 05 03:11:22 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161087199</id>
+  <body><![CDATA[<i>ANNA's Ramblings ☘ ͏͏ wrote: "Film mi se ne sviđa, ali drago mi je da ti je knjiga bila odlična :)"</i><br /><br />Da, knjiga je puno bolja od filma :)]]></body>
+  
+  <user>
+    <id>13346584</id>
+    <name>Ana </name>
+    <display_name>Ana </display_name>
+
+    <location>Croatia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13346584-ana]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1494080822p3/13346584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1494080822p2/13346584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 05 08:56:48 -0800 2017</created_at>
+  <updated_at>Thu Jan 05 08:56:48 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161087658</id>
+  <body><![CDATA[<i>Trish wrote: "♕Miss A♕ wrote: "Trish wrote: "Well, considering how bad the movies were, that was not difficult. ;)"<br /><br />LOL touché. Peter Jackson should have stayed true to the spirit of the original Hobbit. What w..."</i><br /><br />Too many boring scenes, made up characters, the silly elf-dwarf romance... The Hobbit movies were a big mess. Richard Armitage and Lee Pace were the only good thing about those movies.]]></body>
+  
+  <user>
+    <id>13346584</id>
+    <name>Ana </name>
+    <display_name>Ana </display_name>
+
+    <location>Croatia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13346584-ana]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1494080822p3/13346584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1494080822p2/13346584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 05 09:06:15 -0800 2017</created_at>
+  <updated_at>Thu Jan 05 09:06:15 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161088397</id>
+  <body><![CDATA[Oh god yes, that "romance". And Oaken-Shield being so NOT himself. Not to mention that ridiculous scene with Legolas walking up those stones while he fell (much worse than the "skateboarding" scene in LOTR). Not even the eye candy could save the movies at that point. <br />I watched the last movie in a theatre and there was a roar going through the entire room at that particular Legolas scene - EVERYONE was pissed off.]]></body>
+  
+  <user>
+    <id>3461034</id>
+    <name>Trish</name>
+    <display_name>Trish</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3461034-trish]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493966010p3/3461034.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493966010p2/3461034.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 05 09:23:30 -0800 2017</created_at>
+  <updated_at>Thu Jan 05 09:23:30 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161090869</id>
+  <body><![CDATA[You know who else wasn't himself? Thranduil. Thranduil was a much more complex character than we see in the movies. Legolas and Galadriel weren't even supposed to be in the movie. I love them but come on.]]></body>
+  
+  <user>
+    <id>13346584</id>
+    <name>Ana </name>
+    <display_name>Ana </display_name>
+
+    <location>Croatia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13346584-ana]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1494080822p3/13346584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1494080822p2/13346584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 05 10:19:49 -0800 2017</created_at>
+  <updated_at>Thu Jan 05 10:19:49 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161090898</id>
+  <body><![CDATA[So far I have always shied away from watching the Hobbit trilogy, but I also never read the book, so I don't even have anything to compare it to. (Though I did watch the LotR movies, so at least I know about the sheer awesomeness of it all. :D)]]></body>
+  
+  <user>
+    <id>40792319</id>
+    <name>Councillor</name>
+    <display_name>Councillor</display_name>
+
+    <location>Germany, Germany</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/40792319-councillor]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1437208837p3/40792319.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1437208837p2/40792319.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 05 10:20:36 -0800 2017</created_at>
+  <updated_at>Thu Jan 05 10:20:36 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161091333</id>
+  <body><![CDATA[<i>Councillor wrote: "So far I have always shied away from watching the Hobbit trilogy, but I also never read the book, so I don't even have anything to compare it to. (Though I did watch the LotR movies, so at least I ..."</i><br /><br />Ah yes, the LotR trilogy is awesome. Those movies are my all time favorites. The Hobbit? Not so much.<br /><br />I had this book for several years and kept putting off reading it. Thought I'd hate it. Silly me.]]></body>
+  
+  <user>
+    <id>13346584</id>
+    <name>Ana </name>
+    <display_name>Ana </display_name>
+
+    <location>Croatia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13346584-ana]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1494080822p3/13346584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1494080822p2/13346584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 05 10:29:41 -0800 2017</created_at>
+  <updated_at>Thu Jan 05 10:29:41 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161118643</id>
+  <body><![CDATA[Miss A has spoken indeed. ;)]]></body>
+  
+  <user>
+    <id>30248594</id>
+    <name>Aj the Ravenous Reader</name>
+    <display_name>Aj the Ravenous Reader</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/30248594-aj-the-ravenous-reader]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1453105148p3/30248594.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1453105148p2/30248594.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 05 22:16:46 -0800 2017</created_at>
+  <updated_at>Thu Jan 05 22:16:46 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161122553</id>
+  <body><![CDATA[Indeed ;)]]></body>
+  
+  <user>
+    <id>13346584</id>
+    <name>Ana </name>
+    <display_name>Ana </display_name>
+
+    <location>Croatia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13346584-ana]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1494080822p3/13346584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1494080822p2/13346584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 06 02:10:09 -0800 2017</created_at>
+  <updated_at>Fri Jan 06 02:10:09 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161138226</id>
+  <body><![CDATA[Glad you enjoyed it,babe!]]></body>
+  
+  <user>
+    <id>29540292</id>
+    <name>Judith</name>
+    <display_name>Judith</display_name>
+
+    <location><![CDATA[Newcastle Upon Tyne, England, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/29540292-judith]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1421966041p3/29540292.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1421966041p2/29540292.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 06 09:59:15 -0800 2017</created_at>
+  <updated_at>Fri Jan 06 09:59:15 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161175816</id>
+  <body><![CDATA[Thanks lovely :)]]></body>
+  
+  <user>
+    <id>13346584</id>
+    <name>Ana </name>
+    <display_name>Ana </display_name>
+
+    <location>Croatia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13346584-ana]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1494080822p3/13346584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1494080822p2/13346584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 07 07:14:55 -0800 2017</created_at>
+  <updated_at>Sat Jan 07 07:14:55 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161230491</id>
+  <body><![CDATA[Agreed!! :)]]></body>
+  
+  <user>
+    <id>18444439</id>
+    <name>Aisling Zena</name>
+    <display_name>Aisling Zena</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18444439-aisling-zena]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1385321518p3/18444439.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1385321518p2/18444439.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 08 10:18:38 -0800 2017</created_at>
+  <updated_at>Sun Jan 08 10:18:38 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161259789</id>
+  <body><![CDATA[:))]]></body>
+  
+  <user>
+    <id>13346584</id>
+    <name>Ana </name>
+    <display_name>Ana </display_name>
+
+    <location>Croatia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13346584-ana]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1494080822p3/13346584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1494080822p2/13346584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 08 23:15:09 -0800 2017</created_at>
+  <updated_at>Sun Jan 08 23:15:09 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161259904</id>
+  <body><![CDATA[I agree :)]]></body>
+  
+  <user>
+    <id>15662887</id>
+    <name>Deanna </name>
+    <display_name>Deanna </display_name>
+
+    <location>Winnipeg, MB, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15662887-deanna]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1437589889p3/15662887.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1437589889p2/15662887.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 08 23:22:20 -0800 2017</created_at>
+  <updated_at>Sun Jan 08 23:22:20 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161266742</id>
+  <body><![CDATA[Good! ;)]]></body>
+  
+  <user>
+    <id>13346584</id>
+    <name>Ana </name>
+    <display_name>Ana </display_name>
+
+    <location>Croatia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13346584-ana]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1494080822p3/13346584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1494080822p2/13346584.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 09 05:22:16 -0800 2017</created_at>
+  <updated_at>Mon Jan 09 05:22:16 -0800 2017</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1845733632]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1845733632]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

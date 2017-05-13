@@ -1,0 +1,1167 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:39:25 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: Y01W7J46ZP0YG389Q4ZZ
+etag: W/"eed499e61115de627e6edfd4959283cd"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.468035
+set-cookie: csid=BAhJIhg0MjktNTU3OTk1NS0xMDMwMjU1BjoGRVQ%3D--e2e46b0f6cc592616f5f1d821ca1f693439b9579; path=/; expires=Tue, 12 May 2037 13:39:25 -0000, locale=es; path=/, _session_id2=72454be2d170e77c5ac2d88882be7e1a; path=/; expires=Fri, 12 May 2017 19:39:25 -0000; HttpOnly
+content-length: 43292
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=308193062
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>308193062</id>
+    
+  <user>
+    <id>4277731</id>
+    <name>Jon</name>
+    <display_name>Jon</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4277731-jon]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1384212540p3/4277731.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1384212540p2/4277731.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">37449</id>
+  <isbn>1439550417</isbn>
+  <isbn13>9781439550410</isbn13>
+  <text_reviews_count type="integer">2654</text_reviews_count>
+  <title>To Kill a Mockingbird</title>
+  <title_without_series>To Kill a Mockingbird</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1339392178m/37449.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1339392178s/37449.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/37449.To_Kill_a_Mockingbird</link>
+  <num_pages>376</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Grand Central Publishing (Hachette Book Group)</publisher>
+  <publication_day/>
+  <publication_year>1982</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>4.25</average_rating>
+  <ratings_count>3269503</ratings_count>
+  <description>See alternate cover edition &lt;a href="https://www.goodreads.com/book/show/10257528-to-kill-a-mockingbird" rel="nofollow"&gt;
+  &lt;b&gt;here&lt;/b&gt;
+&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it, &lt;i&gt;To Kill A Mockingbird&lt;/i&gt; became both an instant bestseller and a critical success when it was first published in 1960. It went on to win the Pulitzer Prize in 1961 and was later made into an Academy Award-winning film, also a classic.&lt;br /&gt;&lt;br /&gt;Compassionate, dramatic, and deeply moving, &lt;i&gt;To Kill A Mockingbird&lt;/i&gt; takes readers to the roots of human behavior - to innocence and experience, kindness and cruelty, love and hatred, humor and pathos.</description>
+<authors>
+<author>
+<id>1825</id>
+<name>Harper Lee</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1188820730p5/1825.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1188820730p2/1825.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1825.Harper_Lee]]></link>
+<average_rating>4.21</average_rating>
+<ratings_count>3434236</ratings_count>
+<text_reviews_count>95107</text_reviews_count>
+</author>
+</authors>
+  <published>1982</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1215161432</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sat Jan 30 13:16:29 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>1955</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="classics" exclusive="false" review_shelf_id="298500243" sortable="false" />
+    <shelf name="favorites" exclusive="false" review_shelf_id="298500264" sortable="false" />
+    <shelf name="thought-provoking" exclusive="false" review_shelf_id="423586921" sortable="false" />
+    <shelf name="epic" exclusive="false" review_shelf_id="298500275" sortable="false" />
+    <shelf name="school" exclusive="false" review_shelf_id="298500316" sortable="false" />
+    <shelf name="southern-comfort" exclusive="false" review_shelf_id="480094535" sortable="false" />
+    <shelf name="coming-of-age" exclusive="false" review_shelf_id="480093998" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Mon Oct 31 00:00:00 -0700 2011</read_at>
+  <date_added>Sat Apr 07 08:30:19 -0700 2012</date_added>
+  <date_updated>Thu Mar 12 14:07:23 -0700 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<img src="http://24.media.tumblr.com/tumblr_mcz8z1nkVe1qchykoo1_500.jpg" width="400" class="gr-hostedUserImg" />]]>
+  </body>
+
+  
+
+  <comments_count>46</comments_count>
+    <comments start="1" end="46" total="46">
+        <comment>
+  <id>48438301</id>
+  <body><![CDATA[Wish something comes closer to this one before I... you know what. :)]]></body>
+  
+  <user>
+    <id>4871190</id>
+    <name>Sriram</name>
+    <display_name>Sriram</display_name>
+
+    <location>Chennai, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4871190-sriram]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1494005498p3/4871190.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1494005498p2/4871190.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Apr 07 09:27:27 -0700 2012</created_at>
+  <updated_at>Sat Apr 07 09:27:27 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>76739457</id>
+  <body><![CDATA[The author of this book has grown rich brainwashing schoolchildren and simple adults with this trash. Harper Lee even had the temerity to exploit the voice of a child to inculcate her poison into receptive minds. It's not suitable for schoolchildren at all, being a work of propaganda that is focused on negative stereotypes and heavy symbolism that denigrates white people, while do its utmost to embellish archetypes of African Americans. The book is simply a vehicle for the civil rights movement and part of the chicanery that has led to the criminal and socially unstable quagmire that the USA is today. Children who have not learned to think for themselves should not be subjected to this indulgence in misrepresentation.]]></body>
+  
+  <user>
+    <id>12449102</id>
+    <name>Greg</name>
+    <display_name>Greg Deane</display_name>
+
+    <location>Ryde, 02, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12449102-greg-deane]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1453317356p3/12449102.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1453317356p2/12449102.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 21 14:43:54 -0700 2013</created_at>
+  <updated_at>Fri Jun 21 14:43:54 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>80364982</id>
+  <body><![CDATA[yes, mrs lincoln—<i>but how was the play?</i>]]></body>
+  
+  <user>
+    <id>3977017</id>
+    <name>julio</name>
+    <display_name>julio</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3977017-julio]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442881106p3/3977017.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442881106p2/3977017.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 09 11:43:15 -0700 2013</created_at>
+  <updated_at>Fri Aug 09 11:43:15 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>84177371</id>
+  <body><![CDATA[Greg, your tinfoil hat must have a wide brim.]]></body>
+  
+  <user>
+    <id>24409072</id>
+    <name>RoAr</name>
+    <display_name>RoAr</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24409072-roar]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1380746942p3/24409072.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1380746942p2/24409072.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Oct 03 09:24:43 -0700 2013</created_at>
+  <updated_at>Thu Oct 03 09:24:43 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85143260</id>
+  <body><![CDATA[This story is largely autobiographical so is not exploiting anyone.<br />The confused cat worries me more, what a misleading title! Perhaps the book should have been titled 'To Kill a Mockingbird is a Sin'. That would be better for cats as they are amoral and wouldn't worry about the concept of sin, but the important thing is they won't expect tips on how to kill these critters.]]></body>
+  
+  <user>
+    <id>24176837</id>
+    <name>Peters100</name>
+    <display_name>Peters100</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24176837-peters100]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1432464298p3/24176837.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1432464298p2/24176837.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 18 15:51:57 -0700 2013</created_at>
+  <updated_at>Fri Oct 18 15:51:57 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>88796713</id>
+  <body><![CDATA[That's funny!]]></body>
+  
+  <user>
+    <id>22786449</id>
+    <name>Karma</name>
+    <display_name>Karma Gurung</display_name>
+
+    <location>Columbia, MO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22786449-karma-gurung]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442953920p3/22786449.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442953920p2/22786449.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 17 08:56:31 -0800 2013</created_at>
+  <updated_at>Tue Dec 17 08:56:31 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>88933963</id>
+  <body><![CDATA[I was glad to hear that after the death of Tom, Atticus saw that he was wrong and so resumed his membership of the Maycomb County Chapter of the Ku Klux Klan, and soon became Grand Wizard of the Alabama Teuton Knights. Thanks to Atticus, Calpurnia and Zeebo moved to Chicago, where Zeebo fathered a bastard child on a Kenyan emigre who became the father of Barack Obama.]]></body>
+  
+  <user>
+    <id>12449102</id>
+    <name>Greg</name>
+    <display_name>Greg Deane</display_name>
+
+    <location>Ryde, 02, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12449102-greg-deane]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1453317356p3/12449102.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1453317356p2/12449102.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Dec 19 14:43:18 -0800 2013</created_at>
+  <updated_at>Thu Dec 19 14:43:18 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>89516879</id>
+  <body><![CDATA[lol]]></body>
+  
+  <user>
+    <id>23863806</id>
+    <name>Jamieson</name>
+    <display_name>Jamieson</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23863806-jamieson]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1389655426p3/23863806.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1389655426p2/23863806.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Dec 29 17:16:26 -0800 2013</created_at>
+  <updated_at>Sun Dec 29 17:16:26 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>98545845</id>
+  <body><![CDATA[I think this book could have had a different title because "To Kill a Mockingbird" is deceiving and makes it sound like a book on how to kill a physical mockingbird,not an innocent person. That's a pretty good meme too!]]></body>
+  
+  <user>
+    <id>24103887</id>
+    <name>Tanner</name>
+    <display_name>Tanner Strange</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24103887-tanner-strange]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu May 15 07:53:42 -0700 2014</created_at>
+  <updated_at>Thu May 15 07:53:42 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>98555756</id>
+  <body><![CDATA[I was thinking the same thing!!!]]></body>
+  
+  <user>
+    <id>24108958</id>
+    <name>Charlie</name>
+    <display_name>Charlie Nesbit</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24108958-charlie-nesbit]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu May 15 11:18:33 -0700 2014</created_at>
+  <updated_at>Thu May 15 11:18:33 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>99310645</id>
+  <body><![CDATA[lol I just read this book in school but I'd heard of it for years before and that's exactly what I was expecting:)]]></body>
+  
+  <user>
+    <id>18891781</id>
+    <name>Olivia</name>
+    <display_name>Olivia</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18891781-olivia]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1375358755p3/18891781.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1375358755p2/18891781.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed May 28 13:50:50 -0700 2014</created_at>
+  <updated_at>Wed May 28 13:50:50 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>100905887</id>
+  <body><![CDATA[Very interesting.]]></body>
+  
+  <user>
+    <id>31064364</id>
+    <name>John</name>
+    <display_name>John Shim</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/31064364-john-shim]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1399111329p3/31064364.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1399111329p2/31064364.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jun 24 06:11:13 -0700 2014</created_at>
+  <updated_at>Tue Jun 24 06:11:13 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>107333687</id>
+  <body><![CDATA[iyou have to see how they sa it they sayed it in a nother way]]></body>
+  
+  <user>
+    <id>34815310</id>
+    <name>Ashley</name>
+    <display_name>Ashley Perez</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34815310-ashley-perez]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1443752520p3/34815310.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1443752520p2/34815310.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 06 12:47:01 -0700 2014</created_at>
+  <updated_at>Mon Oct 06 12:47:01 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>108930394</id>
+  <body><![CDATA[That's facts there isnt]]></body>
+  
+  <user>
+    <id>36611063</id>
+    <name>Morgan Victoria Johnson</name>
+    <display_name>Morgan Victoria Johnson</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/36611063-morgan-victoria-johnson]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 05 15:53:11 -0800 2014</created_at>
+  <updated_at>Wed Nov 05 15:53:11 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109564111</id>
+  <body><![CDATA[different people is the mockingbird!!!!!]]></body>
+  
+  <user>
+    <id>34815310</id>
+    <name>Ashley</name>
+    <display_name>Ashley Perez</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34815310-ashley-perez]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1443752520p3/34815310.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1443752520p2/34815310.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 17 12:40:49 -0800 2014</created_at>
+  <updated_at>Mon Nov 17 12:40:49 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>110464082</id>
+  <body><![CDATA[I thought the exact same thing as the cat in the picture after reading this book. Not to say that it was a bad book. I like the story it teaches you that you shouldn't always believe the rumors or lies that are said about a person. Basically it`s saying don`t judge a book by it`s cover. Just like how the book is called "To Kill a Mockingbird" and isn't actually about killing birds.]]></body>
+  
+  <user>
+    <id>35284836</id>
+    <name>Joshua</name>
+    <display_name>Joshua Adhikary</display_name>
+
+    <location>Stone Mountain, GA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/35284836-joshua-adhikary]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu Dec 04 09:47:56 -0800 2014</created_at>
+  <updated_at>Thu Dec 04 09:47:56 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>110479966</id>
+  <body><![CDATA[I know that mockingbird is a medaphore]]></body>
+  
+  <user>
+    <id>34815310</id>
+    <name>Ashley</name>
+    <display_name>Ashley Perez</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34815310-ashley-perez]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1443752520p3/34815310.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1443752520p2/34815310.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Dec 04 15:18:13 -0800 2014</created_at>
+  <updated_at>Thu Dec 04 15:18:13 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>115781304</id>
+  <body><![CDATA[ALERT!!! ALERT!!!! BEE DO BEE DO BEE DO!! People, clear the area! WE HAVE A SPELLING ERROR HERE! Ashley, honey, it's a METAPHOR, not a MEDAPHORE.]]></body>
+  
+  <user>
+    <id>40221410</id>
+    <name><![CDATA[Cheshire Cat [Heidi]~ We're All Mad Here ~]]></name>
+    <display_name><![CDATA[Cheshire Cat [Heidi]~ We're All Mad Here ~]]></display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/40221410-cheshire-cat-heidi-we-re-all-mad-here]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1454696753p3/40221410.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1454696753p2/40221410.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Mar 07 15:27:01 -0800 2015</created_at>
+  <updated_at>Sat Mar 07 15:27:01 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>115798673</id>
+  <body><![CDATA[<i>Heidi wrote: "ALERT!!! ALERT!!!! BEE DO BEE DO BEE DO!! People, clear the area! WE HAVE A SPELLING ERROR HERE! Ashley, honey, it's a METAPHOR, not a MEDAPHORE."</i><br /><br />It's a medaphore for a spelling mistake.]]></body>
+  
+  <user>
+    <id>12449102</id>
+    <name>Greg</name>
+    <display_name>Greg Deane</display_name>
+
+    <location>Ryde, 02, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12449102-greg-deane]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1453317356p3/12449102.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1453317356p2/12449102.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Mar 08 00:22:19 -0800 2015</created_at>
+  <updated_at>Sun Mar 08 00:22:19 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>115964953</id>
+  <body><![CDATA[*facepalm*]]></body>
+  
+  <user>
+    <id>40221410</id>
+    <name><![CDATA[Cheshire Cat [Heidi]~ We're All Mad Here ~]]></name>
+    <display_name><![CDATA[Cheshire Cat [Heidi]~ We're All Mad Here ~]]></display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/40221410-cheshire-cat-heidi-we-re-all-mad-here]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1454696753p3/40221410.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1454696753p2/40221410.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 11 06:39:23 -0700 2015</created_at>
+  <updated_at>Wed Mar 11 06:39:23 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>116045759</id>
+  <body><![CDATA[The act of dropping one's face / forehead into one's hand. Usually accompanied by a "thunk" or a cr a cry of "D'oh!" <br /><br /><a target="_blank" href="http://www.urbandictionary.com/define.php?term=facepalm" rel="nofollow">http://www.urbandictionary.com/define...</a>]]></body>
+  
+  <user>
+    <id>12449102</id>
+    <name>Greg</name>
+    <display_name>Greg Deane</display_name>
+
+    <location>Ryde, 02, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12449102-greg-deane]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1453317356p3/12449102.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1453317356p2/12449102.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Mar 12 16:38:16 -0700 2015</created_at>
+  <updated_at>Thu Mar 12 16:38:16 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>116069789</id>
+  <body><![CDATA[I thought it was the act of putting one's hand into one's face/forehead.]]></body>
+  
+  <user>
+    <id>40221410</id>
+    <name><![CDATA[Cheshire Cat [Heidi]~ We're All Mad Here ~]]></name>
+    <display_name><![CDATA[Cheshire Cat [Heidi]~ We're All Mad Here ~]]></display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/40221410-cheshire-cat-heidi-we-re-all-mad-here]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1454696753p3/40221410.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1454696753p2/40221410.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 13 07:29:53 -0700 2015</created_at>
+  <updated_at>Fri Mar 13 07:29:53 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>116306868</id>
+  <body><![CDATA[<i>Heidi wrote: "I thought it was the act of putting one's hand into one's face/forehead."</i><br /><br />Not according to a highly regarded lexicon.]]></body>
+  
+  <user>
+    <id>12449102</id>
+    <name>Greg</name>
+    <display_name>Greg Deane</display_name>
+
+    <location>Ryde, 02, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12449102-greg-deane]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1453317356p3/12449102.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1453317356p2/12449102.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 18 02:36:23 -0700 2015</created_at>
+  <updated_at>Wed Mar 18 02:36:23 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>116386224</id>
+  <body><![CDATA[People must recall that this book was written around the 40's and this is 2015!]]></body>
+  
+  <user>
+    <id>41064091</id>
+    <name>Dani </name>
+    <display_name>Dani  Dominguez</display_name>
+
+    <location>Miami, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/41064091-dani-dominguez]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1436567364p3/41064091.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1436567364p2/41064091.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Mar 19 14:24:15 -0700 2015</created_at>
+  <updated_at>Thu Mar 19 14:24:15 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>116449832</id>
+  <body><![CDATA[<i>Dani Dominguez wrote: "People must recall that this book was written around the 40's and this is 2015!"</i><br /><br />It was written in the 1960's, but if it was written in 1940 BC, what would that matter? It'd still be political, social engineering tripe in 2015 just as it was when it was written. Now a good book about race relations is "Uncle Tom's Cabin", as salutary today as it was in the antebellum South, especially its moral lesson on how to be a good black person.]]></body>
+  
+  <user>
+    <id>12449102</id>
+    <name>Greg</name>
+    <display_name>Greg Deane</display_name>
+
+    <location>Ryde, 02, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12449102-greg-deane]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1453317356p3/12449102.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1453317356p2/12449102.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 20 18:16:50 -0700 2015</created_at>
+  <updated_at>Fri Mar 20 18:16:50 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>118349687</id>
+  <body><![CDATA[Hahaha]]></body>
+  
+  <user>
+    <id>42324365</id>
+    <name>kate murphy</name>
+    <display_name>kate murphy</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/42324365-kate-murphy]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Apr 26 19:28:47 -0700 2015</created_at>
+  <updated_at>Sun Apr 26 19:28:47 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>118360182</id>
+  <body><![CDATA[<i>kate murphy wrote: "Hahaha"</i><br /><br />Exactly]]></body>
+  
+  <user>
+    <id>12449102</id>
+    <name>Greg</name>
+    <display_name>Greg Deane</display_name>
+
+    <location>Ryde, 02, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12449102-greg-deane]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1453317356p3/12449102.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1453317356p2/12449102.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Apr 27 01:53:09 -0700 2015</created_at>
+  <updated_at>Mon Apr 27 01:53:09 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>130525975</id>
+  <body><![CDATA[lol, my thoughts exactly ;)]]></body>
+  
+  <user>
+    <id>34534090</id>
+    <name>Zila_ShadowWolf</name>
+    <display_name>Zila_ShadowWolf</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34534090-zila-shadowwolf]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1430867307p3/34534090.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1430867307p2/34534090.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 18 10:28:27 -0700 2015</created_at>
+  <updated_at>Thu Jun 18 10:28:27 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>130766218</id>
+  <body><![CDATA[<i>Zila_ShadowWolf wrote: "lol, my thoughts exactly ;)"</i><br /><br />Exactly]]></body>
+  
+  <user>
+    <id>12449102</id>
+    <name>Greg</name>
+    <display_name>Greg Deane</display_name>
+
+    <location>Ryde, 02, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12449102-greg-deane]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1453317356p3/12449102.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1453317356p2/12449102.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jun 23 15:01:29 -0700 2015</created_at>
+  <updated_at>Tue Jun 23 15:01:29 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>130766301</id>
+  <body><![CDATA[<i>donna lacy wrote: "The cat reading the book, I meant! lol"</i><br /><br />But the cat is right. There's no instructions as promised by the cover. The cat was misled.]]></body>
+  
+  <user>
+    <id>12449102</id>
+    <name>Greg</name>
+    <display_name>Greg Deane</display_name>
+
+    <location>Ryde, 02, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12449102-greg-deane]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1453317356p3/12449102.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1453317356p2/12449102.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jun 23 15:03:08 -0700 2015</created_at>
+  <updated_at>Tue Jun 23 15:03:08 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>137152333</id>
+  <body><![CDATA[Haha that funny]]></body>
+  
+  <user>
+    <id>43734334</id>
+    <name>Jessica Isabelle</name>
+    <display_name>Jessica Isabelle</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/43734334-jessica-isabelle]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Jul 20 09:48:34 -0700 2015</created_at>
+  <updated_at>Mon Jul 20 09:48:34 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141064592</id>
+  <body><![CDATA[Not even here on goodreads. You really have to ruin everything with those cats; if you like IT keep it to URself! DISGUSTING MONSTERS!]]></body>
+  
+  <user>
+    <id>47612401</id>
+    <name>Evelyn</name>
+    <display_name>Evelyn</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/47612401-evelyn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1444033950p3/47612401.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1444033950p2/47612401.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 05 00:41:49 -0700 2015</created_at>
+  <updated_at>Mon Oct 05 00:41:49 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>142759504</id>
+  <body><![CDATA[oh come on , its just a joke. Laughing increases your life span]]></body>
+  
+  <user>
+    <id>48781732</id>
+    <name>Bookaddict</name>
+    <display_name>Bookaddict stuti</display_name>
+
+    <location>Mumbai, 16, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/48781732-bookaddict-stuti]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1447416848p3/48781732.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1447416848p2/48781732.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 13 04:03:07 -0800 2015</created_at>
+  <updated_at>Fri Nov 13 04:03:07 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>147097825</id>
+  <body><![CDATA[that cat is so funny. thanks.]]></body>
+  
+  <user>
+    <id>4659464</id>
+    <name>Jessaka</name>
+    <display_name>Jessaka</display_name>
+
+    <location>Tahlequah, OK</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4659464-jessaka]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1485709659p3/4659464.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1485709659p2/4659464.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Feb 04 09:35:08 -0800 2016</created_at>
+  <updated_at>Thu Feb 04 09:35:08 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>148318747</id>
+  <body><![CDATA[Joshua, you're right on with your simple book resume. I actually saw the 1962 movie directed by Robert Mulligan first in the late 60s and later read the book. Both really touched me. Through a young adolescent, for me it wasn't all about black America in the South, I was living in Canada. Some of the commentators here have to get out of the "cage". Curiosity: There are various translations used in the Portuguese language, two of them <br /> "O Sol é Para Todos" / "Na Sombra <br /> e no Silêncio"]]></body>
+  
+  <user>
+    <id>51668506</id>
+    <name>Gina</name>
+    <display_name>Gina Flor</display_name>
+
+    <location>Lisbon, 14, Portugal</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/51668506-gina-flor]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1453124320p3/51668506.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1453124320p2/51668506.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 01 05:13:38 -0800 2016</created_at>
+  <updated_at>Tue Mar 01 05:13:38 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>149547891</id>
+  <body><![CDATA[funny, made me laugh]]></body>
+  
+  <user>
+    <id>54271819</id>
+    <name>T.L.</name>
+    <display_name>T.L. Jones</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/54271819-t-l-jones]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1459812266p3/54271819.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1459812266p2/54271819.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Mar 28 14:59:31 -0700 2016</created_at>
+  <updated_at>Mon Mar 28 14:59:31 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>156302858</id>
+  <body><![CDATA[why is this rating so popular??]]></body>
+  
+  <created_at>Fri Sep 02 12:28:39 -0700 2016</created_at>
+  <updated_at>Fri Sep 02 12:28:39 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>156319541</id>
+  <body><![CDATA[I actually hated the book]]></body>
+  
+  <user>
+    <id>57641557</id>
+    <name>Laasiya</name>
+    <display_name>Laasiya</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/57641557-laasiya]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1472881120p3/57641557.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1472881120p2/57641557.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 02 22:36:40 -0700 2016</created_at>
+  <updated_at>Fri Sep 02 22:36:40 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157515607</id>
+  <body><![CDATA[exactly my thoughts]]></body>
+  
+  <user>
+    <id>44791383</id>
+    <name>Annabel</name>
+    <display_name>Annabel</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/44791383-annabel]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1467574090p3/44791383.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1467574090p2/44791383.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Oct 02 13:03:35 -0700 2016</created_at>
+  <updated_at>Sun Oct 02 13:03:35 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157890776</id>
+  <body><![CDATA[I agree, to kill a mocking bird has one of those corny names to were you are wondering where it tells you how to kill a mocking bird. This book was fun to read and taught me more in a closer level how the 30s- were, especially for them and there weird tough circumstances. This will be in my top5 books and loved leaving a review for it.]]></body>
+  
+  <user>
+    <id>60516432</id>
+    <name>Alexandria</name>
+    <display_name>Alexandria Marques</display_name>
+
+    <location>Mesa, AZ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/60516432-alexandria-marques]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Oct 12 14:22:14 -0700 2016</created_at>
+  <updated_at>Wed Oct 12 14:22:14 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158531807</id>
+  <body><![CDATA[why somany likes!?]]></body>
+  
+  <created_at>Sat Oct 29 10:33:57 -0700 2016</created_at>
+  <updated_at>Sat Oct 29 10:33:57 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>160234792</id>
+  <body><![CDATA[And guess what? Brazilian Portuguese translation call it "O Sol Nasce para todos"(the sun rises for everyone) on its title. I want to know what kind of drugs the translators took to think that this would be a better title translation than "Matar uma Cotovia"(To Kill a Mockingbird)]]></body>
+  
+  <user>
+    <id>62505434</id>
+    <name>Nícolas</name>
+    <display_name>Nícolas Wildner</display_name>
+
+    <location>Brazil</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/62505434-n-colas-wildner]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1481840211p3/62505434.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1481840211p2/62505434.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Dec 15 01:38:25 -0800 2016</created_at>
+  <updated_at>Thu Dec 15 01:38:25 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>160686172</id>
+  <body><![CDATA[LOOOOL]]></body>
+  
+  <user>
+    <id>22766676</id>
+    <name>Kasia</name>
+    <display_name>Kasia</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22766676-kasia]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492311141p3/22766676.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492311141p2/22766676.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Dec 28 08:48:34 -0800 2016</created_at>
+  <updated_at>Wed Dec 28 08:48:34 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>162489653</id>
+  <body><![CDATA[loool very good<br /><a href="https://wp.me/p7e3Tk-tg" rel="nofollow">شركة مكافحة حشرات بمكة</a><br /><a href="https://wp.me/p7e3Tk-th" rel="nofollow">شركة مكافحة حشرات بالطائف</a><br /><a href="https://wp.me/p7e3Tk-2i" rel="nofollow">شركة مكافحة حشرات بجدة</a><br /><br /><a href="http://wp.me/p8eK9o-4v" rel="nofollow">شركة مكافحة حشرات بمكة</a><br /><a href="http://wp.me/p8eK9o-hw" rel="nofollow">شركة مكافحة حشرات بالطائف </a><br /><a href="http://wp.me/P8eK9o-uQ" rel="nofollow">شركة مكافحة حشرات بجدة</a><br /><a href="http://wp.me/p8eK9o-x5" rel="nofollow">شركة مكافحة حشرات بالباحة</a><br /><a href="http://wp.me/P8eK9o-qH" rel="nofollow">شركة مكافحة حشرات بالدمام </a><br /><a href="http://wp.me/p8eK9o-nX" rel="nofollow">شركة مكافحة حشرات بالرياض</a><br /><a href="http://wp.me/p8eK9o-vQ" rel="nofollow">شركة مكافحة حشرات بالمدينة</a>]]></body>
+  
+  <user>
+    <id>64710532</id>
+    <name>عبدالعزيز</name>
+    <display_name>عبدالعزيز الأميرى</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/64710532]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486464002p3/64710532.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486464002p2/64710532.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 07 02:55:13 -0800 2017</created_at>
+  <updated_at>Tue Feb 07 02:55:13 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>164012267</id>
+  <body><![CDATA[You didn't say anything much about the actual book. I loved it though!]]></body>
+  
+  <user>
+    <id>64766191</id>
+    <name>Evelyn</name>
+    <display_name>Evelyn</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/64766191-evelyn]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu Mar 16 16:21:11 -0700 2017</created_at>
+  <updated_at>Thu Mar 16 16:21:11 -0700 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>165146315</id>
+  <body><![CDATA[Tom Robinson was a murdering rapist. He deserved to hang. Besides, as the cat says, the title is misrepresentative. I only read it to find out how to kill mockingbirds. Harper Lee is a fraud.]]></body>
+  
+  <user>
+    <id>12449102</id>
+    <name>Greg</name>
+    <display_name>Greg Deane</display_name>
+
+    <location>Ryde, 02, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12449102-greg-deane]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1453317356p3/12449102.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1453317356p2/12449102.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Apr 14 14:21:17 -0700 2017</created_at>
+  <updated_at>Fri Apr 14 14:21:17 -0700 2017</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/308193062]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/308193062]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

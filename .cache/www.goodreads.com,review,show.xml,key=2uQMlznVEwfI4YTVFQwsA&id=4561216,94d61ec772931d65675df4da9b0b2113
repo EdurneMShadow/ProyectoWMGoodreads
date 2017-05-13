@@ -1,0 +1,1280 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:55:13 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: SVPT8YSBKNWTN1BK5BAR
+etag: W/"114635b852782de7d83f1c5a9d548920"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.391140
+set-cookie: csid=BAhJIhgyMjUtMjgyNzk4OC03MDMzODMzBjoGRVQ%3D--146e7141ed92d34c63270345dbbf98adb8c3fc99; path=/; expires=Tue, 12 May 2037 13:55:13 -0000, locale=es; path=/, _session_id2=e23fe1d45d611dd94e0aaddcbba772a6; path=/; expires=Fri, 12 May 2017 19:55:13 -0000; HttpOnly
+content-length: 64792
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=4561216
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>4561216</id>
+    
+  <user>
+    <id>279941</id>
+    <name>Brian</name>
+    <display_name>Brian</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/279941-brian]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1322652953p3/279941.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1322652953p2/279941.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">960</id>
+  <isbn>1416524797</isbn>
+  <isbn13>9781416524793</isbn13>
+  <text_reviews_count type="integer">19261</text_reviews_count>
+  <title>Angels &amp; Demons  (Robert Langdon, #1)</title>
+  <title_without_series>Angels &amp; Demons</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1303390735m/960.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1303390735s/960.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/960.Angels_Demons</link>
+  <num_pages>713</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information>Pocket Books Premium Edition</edition_information>
+  <publisher>Pocket Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.85</average_rating>
+  <ratings_count>2025141</ratings_count>
+  <description>When world-renowned Harvard symbologist Robert Langdon is summoned to a Swiss research facility to analyze a mysterious symbol—seared into the chest of a murdered physicist—he discovers evidence of the unimaginable: the resurgence of an ancient secret brotherhood known as the Illuminati ... the most powerful underground organization ever to walk the earth. The Illuminati has now surfaced to carry out the final phase of its legendary vendetta against its most hated enemy—the Catholic Church. &lt;br /&gt;&lt;br /&gt;Langdon’s worst fears are confirmed on the eve of the holy conclave, when a messenger of the Illuminati announces they have hidden an unstoppable time bomb at the very heart of Vatican City. With the countdown under way, Langdon jets to Rome to join forces with Vittoria Vetra, a beautiful and mysterious Italian scientist, to assist the Vatican in a desperate bid for survival. &lt;br /&gt;&lt;br /&gt;Embarking on a frantic hunt through sealed crypts, dangerous catacombs, deserted cathedrals, and even the most secretive vault on earth, Langdon and Vetra follow a 400-year-old trail of ancient symbols that snakes across Rome toward the long-forgotten Illuminati lair ... a clandestine location that contains the only hope for Vatican salvation.</description>
+<authors>
+<author>
+<id>630</id>
+<name>Dan Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p5/630.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p2/630.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/630.Dan_Brown]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>5211301</ratings_count>
+<text_reviews_count>138647</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1227964746</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Feb 07 20:58:05 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>160</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for>no one</recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sun Aug 01 00:00:00 -0700 2004</read_at>
+  <date_added>Tue Aug 14 18:44:34 -0700 2007</date_added>
+  <date_updated>Mon Dec 30 18:30:13 -0800 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I read this after the drivel that is called "Da Vinci Code." I decided to give the author another chance, and take on something that maybe wasn't so formulaic. <br /><br />No dice. I am convinced that Dan Brown does absolutely no research into the subjects he writes about. Or if he does, he decides it is not...]]>
+  </body>
+
+  
+
+  <comments_count>80</comments_count>
+    <comments start="1" end="50" total="80">
+        <comment>
+  <id>122541</id>
+  <body><![CDATA[Sorry, I have to disagree. I have enjoyed all of his books, for what they are FICTIONAL books. No matter what he says in the press he still sells these as fiction, look in the non-fiction section section if you want real research. He can try to publicize these any way that helps sell more books. They are not pulitzer prize material of course, however I have found all of his books that I have read very entertaining. I am not tryng to read more into it that he has some grand plan to bring down the catholic church, he may, but that doesn't make the book any less entertaining.<br />I have to disagree on the prejudice, I think most Muslims will disagree. However I don't think any entrenched political body should be free from criticizm, and let's don't kid ourselves, the Catholic church is one of the first political organizations.]]></body>
+  
+  <user>
+    <id>308670</id>
+    <name>Brandon</name>
+    <display_name>Brandon</display_name>
+
+    <location>Dallas, GA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/308670-brandon]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Sep 09 10:07:41 -0700 2007</created_at>
+  <updated_at>Sun Sep 09 10:07:41 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>161589</id>
+  <body><![CDATA[I agree with Brian's initial review - there's a copy and paste fashion to Brown's writing that is inherently repulsive. It's quite obvious to the moderately educated reader that Brown's "research" was superficial at best, and he's rather fast and loose with the facts.<br /><br />Nevertheless, Brandon brings up a valid point -- this IS fiction. However, for Brown to present it as fact sprinkled throughout a fictionalized story, which he does, is misleading at best. If only Brandon could have argued better. He could have at least attempted to string together a coherent thread; 'tis a pity, he must have been trying to emulate his hero, Dan Brown.]]></body>
+  
+  <user>
+    <id>12045</id>
+    <name>Jake</name>
+    <display_name>Jake</display_name>
+
+    <location>Houston, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12045-jake]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1174509843p3/12045.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1174509843p2/12045.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Oct 04 08:01:52 -0700 2007</created_at>
+  <updated_at>Thu Oct 04 08:01:52 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>164014</id>
+  <body><![CDATA[im catholic... born and raised. but i must admit that i don't know everything about my religion, but i know my god. <br /><br />ive read the book and it is a great book. and reiterating brandon's statement, the book's a fiction. <br /><br />i believe that whatever fiction or stories are to be made up for the Catholic religion, it wouldn't matter, as long as you stay strong to what you believe in. <br /><br />ps: but if ever dan brown so ever claims his writings are true to fact, i'll be first to arrange a rally against him]]></body>
+  
+  <user>
+    <id>480653</id>
+    <name>kady</name>
+    <display_name>kady</display_name>
+
+    <location>Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/480653-kady]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1191643489p3/480653.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1191643489p2/480653.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Oct 06 08:02:49 -0700 2007</created_at>
+  <updated_at>Sat Oct 06 08:02:49 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>173159</id>
+  <body><![CDATA[Bravo Brian! Well stated. Many of Brown’s readers are misled into believing that his books are historically based and this couldn't be far from true. I laugh at people who don’t have an inkling about the teachings of the Catholic Church yet want to have a debate about it. I include non-practicing Catholics in this comment. Thank you for a refreshing review that matches my own beliefs.]]></body>
+  
+  <user>
+    <id>396453</id>
+    <name>Yvette</name>
+    <display_name>Yvette</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/396453-yvette]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1191459657p3/396453.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1191459657p2/396453.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 12 09:00:51 -0700 2007</created_at>
+  <updated_at>Fri Oct 12 09:00:51 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>446582</id>
+  <body><![CDATA[These books are mostly fiction, although it is often difficult to distinguish truth from fiction. Dan Brown blurs the line,which is good, but he should explain the truth at the end. <br /><br />I definitely have to agree that Jews and Muslims (especially the radical Islamic extremists who were outraged because of a cartoon of Muhamed) would be incredibly angry if a similar novel was written about their religions. There would be cries of Anti-Semitism and there would probably be attempted terrorist attacks on predominantly Christian nations such as the USA. To quote the original reviewer, Brian: "prejudice to the Catholic Church is the only real acceptable prejudice left." He is completely correct. It seems that there is always someone to stand up for minorities, but we Catholics are forced to defend ourselves. However, I am 100% Catholic. I think that some of the arguments that Dan Brown makes have logical support BASED ON WHAT HE SAYS IS FACT. However, unless he specifically separates fact from fiction in an appendix of some sort, I have difficulty believing much of what he says.]]></body>
+  
+  <user>
+    <id>712250</id>
+    <name>Alex</name>
+    <display_name>Alex</display_name>
+
+    <location>Smithtown, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/712250-alex]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1389148093p3/712250.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1389148093p2/712250.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 23 18:50:33 -0800 2008</created_at>
+  <updated_at>Sat Feb 23 18:50:33 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1487445</id>
+  <body><![CDATA[Good God, people! Those who denounce this masterfully entertaining book as "catholic-bashing" or somehow how against "catholics" need to get a grip. First of all, as has been mentioned, this is FICTION. There should be no expectation of accuracy--historical, geographical or otherwise. <br /><br />Having said that, I do believe that Brown does take an editorial stance toward the Catholic CHURCH and its place in history. I do not detect in either DVC or A&amp;D any contempt for the Catholic faith or the people who follow it. Any contempt Brown may harbor is strictly for the highest echelons of the organization and all those who have held positions there throughout history. <br /><br />As for the historical "facts," I have taken them as entertainment and enjoyed the escapist quality of his writing.]]></body>
+  
+  <user>
+    <id>1422367</id>
+    <name>Donj</name>
+    <display_name>Donj</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1422367-donj]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 13 05:51:27 -0700 2008</created_at>
+  <updated_at>Wed Aug 13 05:51:27 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3570869</id>
+  <body><![CDATA[I love that Brown has taken a very old fashioned mystery story and by adding a layer of conspiracy theory and some shady history has convinced people it's an innovated work of literature, instead of pulp fiction, and gotten enough press by people shouting 'anti-catholic' and 'he thinks it's all true!' has made a ton of cash.<br />I was I'd thought of it.<br /><br />it's a fun, cheesy read. I'm more bothered by Holocaust deniers and Ann Coulter than Dan Brown.]]></body>
+  
+  <user>
+    <id>1086026</id>
+    <name>Travis</name>
+    <display_name>Travis</display_name>
+
+    <location>Keene, NH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1086026-travis]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 22 09:10:21 -0800 2009</created_at>
+  <updated_at>Thu Jan 22 09:10:21 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>9368637</id>
+  <body><![CDATA[I'm with you, Brian. I might be Protestant, but I absolutely hate Catholic bashing.]]></body>
+  
+  <user>
+    <id>2191574</id>
+    <name>Liz</name>
+    <display_name>Liz</display_name>
+
+    <location>Woolloomolloo, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2191574-liz]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1249122143p3/2191574.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1249122143p2/2191574.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Sep 17 06:50:07 -0700 2009</created_at>
+  <updated_at>Thu Sep 17 06:50:07 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>9368857</id>
+  <body><![CDATA[Catholic bashing? Brown's book actually had me thinking Vatican City sounded like a pretty cool place and wanting to track down some other books about the place and it's history.<br /><br />I thought he hit a nice balance between religion and science, in that both sides where shown to have good and bad in them.<br /><br />and if you think Catholic bashing is the only acceptable form of prejudice, try being an atheist.<br />]]></body>
+  
+  <user>
+    <id>1086026</id>
+    <name>Travis</name>
+    <display_name>Travis</display_name>
+
+    <location>Keene, NH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1086026-travis]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu Sep 17 07:05:10 -0700 2009</created_at>
+  <updated_at>Thu Sep 17 07:05:10 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>9390898</id>
+  <body><![CDATA[I never thought they had much of a problem. Then again, assuming you're American, it's probably very different over there.<br /><br />I really really dislike the idea of 'religion vs. science'. After all, if God created the world, surely he created the physics that goes along with it?]]></body>
+  
+  <user>
+    <id>2191574</id>
+    <name>Liz</name>
+    <display_name>Liz</display_name>
+
+    <location>Woolloomolloo, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2191574-liz]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1249122143p3/2191574.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1249122143p2/2191574.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 18 03:07:22 -0700 2009</created_at>
+  <updated_at>Fri Sep 18 03:07:22 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>9393994</id>
+  <body><![CDATA[In the USA being an atheist is only about two steps up from the guys that kick puppies or take candy away from blind orphans.<br />People who declare themselves witches or Jedi get less grief.<br />You have to have religion to get elected here.<br /><br />I have no problem with religion and science trying to meet in the middle, but what's going on now, is most people want religion to get top billing over science and that's not good. Science is the facts, the building blocks that help us figure out how it works.<br />Religion is the faith that it does work and we'll figure it out or at least get through the day to keep studying it.<br /><br />religion can be a positive thing, but when it comes to science, there's no practical applications for 'God made it that way'. ]]></body>
+  
+  <user>
+    <id>1086026</id>
+    <name>Travis</name>
+    <display_name>Travis</display_name>
+
+    <location>Keene, NH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1086026-travis]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 18 08:37:13 -0700 2009</created_at>
+  <updated_at>Fri Sep 18 08:37:13 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>9500701</id>
+  <body><![CDATA[<i>I have no problem with religion and science trying to meet in the middle, but what's going on now, is most people want religion to get top billing over science and that's not good. Science is the facts, the building blocks that help us figure out how it works.<br />Religion is the faith that it does work and we'll figure it out or at least get through the day to keep studying it.</i><br /><br />Hmmm. I don't think you can have the definition of 'religion' as faith that it does work, since it obviously does, therefore eliminating the need for faith.<br /><br /><i>religion can be a positive thing, but when it comes to science, there's no practical applications for 'God made it that way'.</i><br /><br />Hmm. I don't believe God gave us brains and then told us to do nothing with them. I see science as 'let's find out how God made it that way'.<br /><br />Don't forget to brush your teeth after eating all that stolen candy, lol...]]></body>
+  
+  <user>
+    <id>2191574</id>
+    <name>Liz</name>
+    <display_name>Liz</display_name>
+
+    <location>Woolloomolloo, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2191574-liz]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1249122143p3/2191574.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1249122143p2/2191574.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Sep 22 07:55:56 -0700 2009</created_at>
+  <updated_at>Tue Sep 22 07:55:56 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>9501101</id>
+  <body><![CDATA[I have no problem with people going 'God made the universe this way, let's find out how it works', but too many people stop at 'God made the universe this way' and either don't or won't listen to the rest.<br />I personally, don't care if anyone wants to believe their were dinosaurs in Eden or evolution is a big scam, but when they want us all to think that and be taught that, then I take a break from my candy stealing and can get a bit impolite.<br /><br />I'm not an evil, crusading atheist. I just came to a point where I looked at the world and decided it was enough. I didn't really want/need somebody to have made it all to be happy with where and who I was.<br />It was pretty low key as epiphanies go.<br /><br /><br />I have no pronlem with anybody believing what you want, but religion is not science and shouldn't be given equal time in schools.I don't go to your church and make the kids study algebra, so I just want the same respect back.<br /><br /><br />and my teeth are fine. I stole a toothbrush from an old lady with a limp, after I got the candy.<br /><br />]]></body>
+  
+  <user>
+    <id>1086026</id>
+    <name>Travis</name>
+    <display_name>Travis</display_name>
+
+    <location>Keene, NH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1086026-travis]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Sep 22 08:28:49 -0700 2009</created_at>
+  <updated_at>Tue Sep 22 08:28:49 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>9518377</id>
+  <body><![CDATA[<i>I have no problem with people going 'God made the universe this way, let's find out how it works', but too many people stop at 'God made the universe this way' and either don't or won't listen to the rest.</i><br /><br />Eurgh I hate that. They give the rest of us a bad name.<br /><br /><i>I personally, don't care if anyone wants to believe their were dinosaurs in Eden or evolution is a big scam, but when they want us all to think that and be taught that, then I take a break from my candy stealing and can get a bit impolite.</i><br /><br />So you don't consider candy stealing 'impolite' lol? But seriously, I think creationism has a few good points. Plus, evolution is still a theory, so what's wrong with looking at another side of how the world came to be as it is now?<br /><br /><i>I'm not an evil, crusading atheist.</i><br /><br />VERY glad to hear it :) <br /><br /><br />It's not the fact that I need to know the world was created that is the clincher for me. Partly it's spiritual, and partly it's just that having God has made my life a whole lot better, in ways I'd never be able to achieve on my own, even subconsciously. Lol, my epiphany was anything but low-key. I was bawling all over the place.<br /><br /><br />I can see how you'd feel that way about religion in schools. But still, I think I'll have to threaten you with Hell for stealing from old ladies... Even though it's not exactly doctrinal. <br /><br />Wow this is getting long.]]></body>
+  
+  <user>
+    <id>2191574</id>
+    <name>Liz</name>
+    <display_name>Liz</display_name>
+
+    <location>Woolloomolloo, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2191574-liz]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1249122143p3/2191574.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1249122143p2/2191574.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Sep 22 18:41:40 -0700 2009</created_at>
+  <updated_at>Tue Sep 22 18:41:40 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>9522146</id>
+  <body><![CDATA[Well, where to start?<br />Creationism, intelligent design etc isn't science. It's religion with a sciencey sounding name.<br />It's people saying 'No way this could have just happened!', so there must be a creator.<br />Which, is part of my disconnect with religion. The idea that if all this 'just happened' that isn't impressive enough?<br />Look around. Mars? Nothing. Jupiter? Nothing.<br />Earth? We hit the freaking lottery!<br /> there are people, cats, coffee, ipods, oceans, Angelina Jollie, 130 different kinds of apple, comic books, elephants and pop tarts.<br />Maybe I'm easily impressed, but I don't need more than that. <br /><br />Religion isn't science. Science keeps asking questions. Religion asks questions, but the answer generally turns out to be 'God did it' and then it stops.<br /><br />Okay, this is getting long winded and sounding a bit preachy ( oh the irony) I don't want to do that or sound mean.<br />I like that nearly all my political/religious discussion on goodreads have stayed polite, thoughtful and interesting. It's a rare thing and I'll stop here before I screw it up.<br />Final thought, you can't threaten me with hell, I worked a fast food job to help get me through college. <br />That means I automatically get into heaven and I think I even get a room by the pool.]]></body>
+  
+  <user>
+    <id>1086026</id>
+    <name>Travis</name>
+    <display_name>Travis</display_name>
+
+    <location>Keene, NH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1086026-travis]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Sep 22 21:29:53 -0700 2009</created_at>
+  <updated_at>Tue Sep 22 21:29:53 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>9629646</id>
+  <body><![CDATA[<i>Creationism, intelligent design etc isn't science. It's religion with a sciencey sounding name. <br />It's people saying 'No way this could have just happened!', so there must be a creator.<br />Which, is part of my disconnect with religion. The idea that if all this 'just happened' that isn't impressive enough?</i><br /><br />Well, I can't speak for everyone else, but it's not like I need to be impressed. It's more that, if you don't accept that it didn't just happen, the only other alternative is that (reverent capitalisation alert!) Something else outside of it all had a hand in it.<br /><br />(Lol, I love how you included Angeline Jolie. It just makes it funnier (in a 'laughing-with-you' sort of way).)<br /><br />A few of my reasons for preferring creationism:<br /><br />Probably the second-most important reason,(the first is definitely spiritual) for me believing in creation is maths. The way it all fits in together, the way it's a system, that you can find patterns and rules and physics etc and you can do amazing things with it. Now, I don't know about you, but I don't see how that system could have just happened. Everything in the world is based on maths (binary fission, gravity, the periodic table, etc), and so before anything could come to be in order to evolve, it would have to behave according to the rules of the system first, and where did the system come from?<br /><br />Plus, if evolution takes so long to help other animals adapt to climates, wouldn't they have died off before the changes were felt? (Understanding this isn't my strong point, so I'm not sure I can argue it, but I thought it was worth sticking in because it is one of my reasons.)<br /><br />Another reason is the 'beginning' of the world. Evolution doesn't explain where the world came from in the first place. Even if you go to the Big Bang theory, they can't explain where that tiny little point came from in the first place. Added to which, it's got to be impossible to fit so much matter into one point. <br /><br />By the way, you didn't sound mean or preachy (irony duly noted and snickered at) and I hope I haven't either. I do hate it when discussions get long-winded, yet it seems to be something I can hardly avoid on this topic.<br /><br />Dang. You played the fast food card on me. That's the second time that's happened this month. *grumbles* Stupid, lousy, no-good, heaven-getting-into atheists. Lol.<br /><br />...And I just looked back and realised that you said you wanted to stop here. Oops. *blushes* <br /><br />Umm... heh heh. You see, I can't bear to think of just deleting all this, so I'll leave it here for the next commentor to talk about, shall I? <br /><br />...(The real reason is that I'm a dreadful egomaniac and I want my fast-food quip to remain up for posterity.)]]></body>
+  
+  <user>
+    <id>2191574</id>
+    <name>Liz</name>
+    <display_name>Liz</display_name>
+
+    <location>Woolloomolloo, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2191574-liz]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1249122143p3/2191574.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1249122143p2/2191574.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Sep 26 23:15:23 -0700 2009</created_at>
+  <updated_at>Sat Sep 26 23:15:23 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>9630450</id>
+  <body><![CDATA[I can't really give you the science that does explain some of this stuff, as science fascinates me, but I'm not very good at it. <br />Probably because it relies on math, which I'm terrible at. Can't even balance my checkbook, so there's no way I can explain quantum string theory in a way that'll make sense to anybody.<br />I recommend 'Coming of age in the milky way' by Tim Ferris. It doesn't really with any of the god vs science stuff, but shows how our idea of what the universe looked like changed from the ancient greeks till now. Nice book on science for non-sciencey people.<br /><br />Feel free to leave this up. Be a shame if all this wisdom and fine examples of how debate/ discussion can stay civil will inspire future generations.<br /><br />]]></body>
+  
+  <user>
+    <id>1086026</id>
+    <name>Travis</name>
+    <display_name>Travis</display_name>
+
+    <location>Keene, NH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1086026-travis]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Sep 27 03:43:56 -0700 2009</created_at>
+  <updated_at>Sun Sep 27 03:43:56 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>9662915</id>
+  <body><![CDATA[It would indeed.<br /><br />I should let you know, before we leave this debate for the vultures, I'm a non-mathy math geek and a non-sciencey-science geek. As in, the concepts fascinate me, and I do understand them to some extent, but I haven't got the years of amassed knowledge behind it.]]></body>
+  
+  <user>
+    <id>2191574</id>
+    <name>Liz</name>
+    <display_name>Liz</display_name>
+
+    <location>Woolloomolloo, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2191574-liz]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1249122143p3/2191574.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1249122143p2/2191574.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Sep 28 06:31:05 -0700 2009</created_at>
+  <updated_at>Mon Sep 28 06:31:05 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>9667770</id>
+  <body><![CDATA[You and me both.<br />I'm fascinated by how the universe works, but can't explain it past the most general terms and if you want me to do the math, you might as well as me to juggle chainsaws while trying to polka.<br /><br />]]></body>
+  
+  <user>
+    <id>1086026</id>
+    <name>Travis</name>
+    <display_name>Travis</display_name>
+
+    <location>Keene, NH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1086026-travis]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Sep 28 11:30:28 -0700 2009</created_at>
+  <updated_at>Mon Sep 28 11:30:28 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>9686492</id>
+  <body><![CDATA[Lol. I think we really should go now. :)]]></body>
+  
+  <user>
+    <id>2191574</id>
+    <name>Liz</name>
+    <display_name>Liz</display_name>
+
+    <location>Woolloomolloo, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2191574-liz]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1249122143p3/2191574.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1249122143p2/2191574.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Sep 28 23:38:12 -0700 2009</created_at>
+  <updated_at>Mon Sep 28 23:38:12 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>11316934</id>
+  <body><![CDATA[<i>Brandon wrote: "Sorry, I have to disagree. I have enjoyed all of his books, for what they are FICTIONAL books. No matter what he says in the press he still sells these as fiction, look in the non-fiction section s..."</i><br /><br />I know this discussion is about a couple months old, but I am new here and am just reading through some reviews of books I am adding to my shelves and couldnt help but comment on this incredibly shortsighted and smug review.<br /><br />I agree here completely, the books are FICTION. I suppose you'd bash Clive Cussler's Raise the Titanic too since the way they did it would be impossible in actuality, but we come back to the fact that it is a BOOK, a FICTIONAL book. Use your imagination man, seriously. If you can't do that, then I guess we'll see you in the research and reference section.<br /><br />You can dislike the man's writing style, or the book on the whole, but bashing the book because it didn't contain enough FACTS... again in a FICTIONAL story, and that he has some sort of agenda against the Catholics... is simply ludicrous.]]></body>
+  
+  <user>
+    <id>2990330</id>
+    <name>John</name>
+    <display_name>John</display_name>
+
+    <location>Groveport, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2990330-john]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1259535153p3/2990330.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1259535153p2/2990330.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 29 15:26:25 -0800 2009</created_at>
+  <updated_at>Sun Nov 29 15:26:25 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>11390179</id>
+  <body><![CDATA[But Dan Brown actually said he'd done the research.]]></body>
+  
+  <user>
+    <id>2191574</id>
+    <name>Liz</name>
+    <display_name>Liz</display_name>
+
+    <location>Woolloomolloo, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2191574-liz]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1249122143p3/2191574.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1249122143p2/2191574.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 01 23:51:12 -0800 2009</created_at>
+  <updated_at>Tue Dec 01 23:51:12 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>23491845</id>
+  <body><![CDATA[<i>Liz wrote: "Lol. I think we really should go now. :)"</i><br /><br />Too bad that I enjoyed this interesting conversation a year later.]]></body>
+  
+  <user>
+    <id>4145562</id>
+    <name>Fitrani</name>
+    <display_name>Fitrani Puspitasari</display_name>
+
+    <location>Bandung, 30, Indonesia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4145562-fitrani-puspitasari]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1281672225p3/4145562.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1281672225p2/4145562.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Dec 01 18:40:37 -0800 2010</created_at>
+  <updated_at>Wed Dec 01 18:40:37 -0800 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>23669886</id>
+  <body><![CDATA[anti-catholic? If you really read the book you will know that everything was set-up by a rogue priest to terrorize people into going back to church. I actually appreciated the book because it gave me some insights on my religion, which I also took time to check out to make sure that I believe only the factual ones, but not the fictional ones. As always there are some people who forgot what is the true meaning of fiction.]]></body>
+  
+  <user>
+    <id>1247638</id>
+    <name>Dennis</name>
+    <display_name>Dennis</display_name>
+
+    <location>Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1247638-dennis]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1213750374p3/1247638.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1213750374p2/1247638.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Dec 06 21:13:34 -0800 2010</created_at>
+  <updated_at>Mon Dec 06 21:13:34 -0800 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>25280328</id>
+  <body><![CDATA[This post is amusing to me, for many reasons.<br />First of all, it's a FICTIONAL book, so no one should give a rats if he makes up stuff to make the book more interesting. <br />Second of all, I am Catholic, and I acknowledge that the church has a very colorful past, to say the least. I don't feel the least bit disrespected by this novel, in any way. I find it amusing and enjoyable for what it is... Fiction. <br />Lastly, people say this work is written terribly... Well, it's not a classic work, it's not meant to be. It's Kent to be approachable and fun. An adventure! <br />Accept is for what it is, don't try and judge it for what it isn't.]]></body>
+  
+  <user>
+    <id>4781286</id>
+    <name>Alexandria</name>
+    <display_name>Alexandria Andrews</display_name>
+
+    <location>Athens, GA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4781286-alexandria-andrews]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1294703410p3/4781286.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1294703410p2/4781286.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 16 21:01:37 -0800 2011</created_at>
+  <updated_at>Sun Jan 16 21:01:37 -0800 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>29234454</id>
+  <body><![CDATA[I agree...its fiction....for entertainment purposes]]></body>
+  
+  <user>
+    <id>2564508</id>
+    <name>Lindsey</name>
+    <display_name>Lindsey</display_name>
+
+    <location>Manhattan, KS</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2564508-lindsey]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Apr 17 16:23:07 -0700 2011</created_at>
+  <updated_at>Sun Apr 17 16:23:07 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>29235192</id>
+  <body><![CDATA[I find it worrying the amount of people who get upset over Brown's books and seem to miss the point that it's fiction.<br /><br />Personally, I wouldn't be surprised if this book gave tourist travel to Vatican city a boost.]]></body>
+  
+  <user>
+    <id>1086026</id>
+    <name>Travis</name>
+    <display_name>Travis</display_name>
+
+    <location>Keene, NH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1086026-travis]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Apr 17 16:37:21 -0700 2011</created_at>
+  <updated_at>Sun Apr 17 16:37:21 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>29789551</id>
+  <body><![CDATA[People, Do you know what fiction means?? When ever does this book say non-fiction? I personally liked it and I am Catholic...]]></body>
+  
+  <user>
+    <id>4333964</id>
+    <name>Jose</name>
+    <display_name>Jose</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4333964-jose]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1455590254p3/4333964.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1455590254p2/4333964.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Apr 29 15:24:07 -0700 2011</created_at>
+  <updated_at>Fri Apr 29 15:24:07 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31209021</id>
+  <body><![CDATA[Apparently a book can only be considered "good" if it caters to Brian's personal beliefs. Has it occurred to you that maybe Dan Brown uses the Catholic church because it is one of the oldest, most mysterious organizations in the world? The paradox of a religious body that has such a dark, bloody history is just good reading and just because you feel victimized by that has nothing to do with Brown's quality of writing. If you look hard enough then you can find a book that targets just about every group in the world in one way or another. Just because you belong to this one doesn't give you the right to whine. You're the minority Brian. Deal with it.]]></body>
+  
+  <user>
+    <id>5260598</id>
+    <name>Jacob</name>
+    <display_name>Jacob Starnes</display_name>
+
+    <location>Hickory, NC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5260598-jacob-starnes]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1367542791p3/5260598.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1367542791p2/5260598.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue May 31 01:01:33 -0700 2011</created_at>
+  <updated_at>Tue May 31 01:01:33 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>33347379</id>
+  <body><![CDATA[Are you somewhat fanatical Christian or something that you cannot tak any criticism of Catholic church??? And btw, its fiction (something that is not true in reality), so relax dude.]]></body>
+  
+  <user>
+    <id>5474373</id>
+    <name>Tokreads</name>
+    <display_name>Tokreads</display_name>
+
+    <location>Kenya</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5474373-tokreads]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1305880519p3/5474373.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1305880519p2/5474373.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jul 11 05:15:31 -0700 2011</created_at>
+  <updated_at>Mon Jul 11 05:15:31 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>47706631</id>
+  <body><![CDATA[I am guessing this hating message is coming from a Catholic?<br />I personally do not believe Dan Brown to be prejudice or slandering against the Catholic Church. Did he not prove this by creating a character such as Camerlengo Ventresca and the speech he gave? In this book, I think his true message is to show that there is no one-sided view on Religion and Science. There's no way you can say one is good and one is evil. The "evilness" of science is included in the speech the camerlengo gave. And the evilness of the Church is written in history, all the bloodshed during the "Holy" Crusades, Inquisition, Witch Hunts and other suppression on Science is evident. Brown's purpose, I think, is to let us know that mankind cannot rely on faith or science alone. We need both in order to live harmoniously, at peace with ourselves and the world around us. <br />And what? Are you arguing that the reason he wrote the two books is to attack the Church? To put it ugly, like you seem to like doing, Brown is writing for money. So why in the wrold would he spend time slandering the Church and losing readers that are devoted Catholics? You're "displeased" with this book. Fine. Why complain here? You can always write a letter to him and complain to him. Why are you hiding here? And better yet, why don't you show him how it should be done?]]></body>
+  
+  <user>
+    <id>4505703</id>
+    <name>Artemis</name>
+    <display_name>Artemis</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4505703-artemis]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1351999334p3/4505703.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1351999334p2/4505703.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Mar 26 19:21:35 -0700 2012</created_at>
+  <updated_at>Mon Mar 26 19:21:35 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>52183238</id>
+  <body><![CDATA[Its called fiction for a reason]]></body>
+  
+  <user>
+    <id>6187289</id>
+    <name><![CDATA[Joanne♥~Bookworm Extraordinaire]]></name>
+    <display_name><![CDATA[Joanne♥~Bookworm Extraordinaire]]></display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6187289-joanne-bookworm-extraordinaire]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1456635425p3/6187289.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1456635425p2/6187289.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jun 13 14:08:25 -0700 2012</created_at>
+  <updated_at>Wed Jun 13 14:08:25 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>55594698</id>
+  <body><![CDATA[Wow! All this controversy over a book of fiction! do you guys argue over non-fiction too? That would be entertaining too!]]></body>
+  
+  <user>
+    <id>11236549</id>
+    <name>Ada</name>
+    <display_name>Ada</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11236549-ada]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1343115859p3/11236549.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1343115859p2/11236549.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 05 09:57:47 -0700 2012</created_at>
+  <updated_at>Sun Aug 05 09:57:47 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>55594966</id>
+  <body><![CDATA[<i>Ada wrote: "Wow! All this controversy over a book of fiction! do you guys argue over non-fiction too? That would be entertaining too!"</i><br /><br />Argue about real stuff...?<br />That's just crazy talk.]]></body>
+  
+  <user>
+    <id>1086026</id>
+    <name>Travis</name>
+    <display_name>Travis</display_name>
+
+    <location>Keene, NH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1086026-travis]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 05 10:03:55 -0700 2012</created_at>
+  <updated_at>Sun Aug 05 10:03:55 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>57063825</id>
+  <body><![CDATA[idk, I think Dan Brown is sort of well known for making bold claims on accuracy while getting lots of stuff wrong.]]></body>
+  
+  <user>
+    <id>4745933</id>
+    <name>Xdyj</name>
+    <display_name>Xdyj</display_name>
+
+    <location>Bonn, Germany</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4745933-xdyj]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1403858873p3/4745933.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1403858873p2/4745933.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 27 18:42:58 -0700 2012</created_at>
+  <updated_at>Mon Aug 27 18:42:58 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>58822970</id>
+  <body><![CDATA[I have to disagree to your review. "Angels &amp; Demons" are based on several facts, not from anti-Catholic propaganda as the writer of this review mentioned.]]></body>
+  
+  <user>
+    <id>13105342</id>
+    <name>Niko</name>
+    <display_name>Niko Torres</display_name>
+
+    <location>Manila, D9, Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13105342-niko-torres]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Sep 26 05:19:34 -0700 2012</created_at>
+  <updated_at>Wed Sep 26 05:19:34 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>59922618</id>
+  <body><![CDATA[you are an idiot brian it was a good book sorry if you're to dumb to keep up with the plot]]></body>
+  
+  <user>
+    <id>13539960</id>
+    <name>Mitch</name>
+    <display_name>Mitch</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13539960-mitch]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Oct 14 16:57:34 -0700 2012</created_at>
+  <updated_at>Sun Oct 14 16:57:34 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>59929890</id>
+  <body><![CDATA[*yawn* Are we still being bothered by someone's opinion? Despite having written quite passionately about this, it just seem stupid now to try to convince someone - who is a total stranger - who's made up his mind about something…<br /><br />There are better things we could be doing now, like reading a good book. :]]]></body>
+  
+  <user>
+    <id>4505703</id>
+    <name>Artemis</name>
+    <display_name>Artemis</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4505703-artemis]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1351999334p3/4505703.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1351999334p2/4505703.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Oct 14 18:52:25 -0700 2012</created_at>
+  <updated_at>Sun Oct 14 18:52:25 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>61658718</id>
+  <body><![CDATA[really <br />dan brown is the best what we blame him for u not understanding his way of writing<br />lame]]></body>
+  
+  <user>
+    <id>14515696</id>
+    <name>Hadi</name>
+    <display_name>Hadi</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14515696-hadi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1353606151p3/14515696.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1353606151p2/14515696.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 13 09:07:49 -0800 2012</created_at>
+  <updated_at>Tue Nov 13 09:07:49 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>64424568</id>
+  <body><![CDATA[Good fiction should be based on fact; that's what research is for. The best writers are meticulous when it comes to facts. And this is a book review not a theology lesson thank you. I am not a Catholic and I no nothing of catholisism but I know a good story when I read one and this was nothing like a good story. Complete and utter drivel.]]></body>
+  
+  <user>
+    <id>15159046</id>
+    <name>William</name>
+    <display_name>William Ainsworth</display_name>
+
+    <location><![CDATA[Manchester, I2, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15159046-william-ainsworth]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat Dec 29 16:40:02 -0800 2012</created_at>
+  <updated_at>Sat Dec 29 16:40:02 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>65614298</id>
+  <body><![CDATA[I must admit I am curious how many people that are angry at Dan Brown's "non research" have opened to the back of the book and looked at any of the books listed in the bibliography and checked his references? Or for that matter any angry readers actually research Catholic history. Unless your going to plug your ears and shout that any book that isn't written by a clergyman is lies it is historical fact that the Catholic Church has an extensive history of murdering people who disagree with their faith. The recent pope release sealed documents admitting they murdered the Templars. In short if you aren't going to so unbiased homework yourself you can hardly complain that his research is tainted.]]></body>
+  
+  <user>
+    <id>16465864</id>
+    <name>Knocturn</name>
+    <display_name>Knocturn</display_name>
+
+    <location>Lafayette, IN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16465864-knocturn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1370341308p3/16465864.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1370341308p2/16465864.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 15 08:20:58 -0800 2013</created_at>
+  <updated_at>Tue Jan 15 08:20:58 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>67991518</id>
+  <body><![CDATA[Same name, same feelings about DB. When I read Angels it felt like I was sitting in on a third grade class. He just holds your hand and slowly walks you through this boring story almost giving definitions for every word he used that was over two syllables. My anger has nothing to do with religion but the writing style of this guy. I cant believe I bought this.]]></body>
+  
+  <user>
+    <id>4902769</id>
+    <name>Brian</name>
+    <display_name>Brian Chelette-o</display_name>
+
+    <location>New Iberia, LA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4902769-brian-chelette-o]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493422457p3/4902769.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493422457p2/4902769.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 16 20:32:55 -0800 2013</created_at>
+  <updated_at>Sat Feb 16 20:32:55 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>71102740</id>
+  <body><![CDATA[So, are you saying, that Catholic church is a saint, there were no killings, no burnings of a huge number of scientists on fire. Alive. And there were no strikes and battles against non-Christian people? Wake up. The world is cruel. And learn some history.<br />Besides, the book is science fiction, and the author is free to make up anything he wants. That's how creative writing works.]]></body>
+  
+  <user>
+    <id>11238825</id>
+    <name>Agapi</name>
+    <display_name>Agapi</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11238825-agapi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1372942001p3/11238825.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1372942001p2/11238825.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Apr 01 11:16:43 -0700 2013</created_at>
+  <updated_at>Mon Apr 01 11:16:43 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>76626845</id>
+  <body><![CDATA[I believe that this is a really great book and that BRIAN is the one that doesn't know what he is talking about. This book yes it may be a bit controversial but who cares Dan Brown is an awesome writer and never fails to amaze me. Brian could I suggest maybe if you are so anti people that have views that aren't pro catholic you are the one with the problem!. Please reframe from writing stupid rants on how bad you think a book is and maybe I don't know... GET A LIFE!!!]]></body>
+  
+  <user>
+    <id>21481323</id>
+    <name>Xavier</name>
+    <display_name>Xavier Weir</display_name>
+
+    <location>Perth, 08, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/21481323-xavier-weir]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Jun 19 22:40:45 -0700 2013</created_at>
+  <updated_at>Wed Jun 19 22:40:45 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78528662</id>
+  <body><![CDATA[Reading your review I get the impression that the only reason you are slating Dan Brown is because of his conspiritorical theories regarding the catholic church. At the end of the day this book is classified as fiction. Read the story for the adventure and not the 'facts' and you may see it in a different light.]]></body>
+  
+  <user>
+    <id>22238081</id>
+    <name>Dale</name>
+    <display_name>Dale</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22238081-dale]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1394271354p3/22238081.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1394271354p2/22238081.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 16 01:02:54 -0700 2013</created_at>
+  <updated_at>Tue Jul 16 01:02:54 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78824123</id>
+  <body><![CDATA[Too much prejudice over here!]]></body>
+  
+  <user>
+    <id>16654542</id>
+    <name>Avantika</name>
+    <display_name>Avantika Jhunjhunwala</display_name>
+
+    <location>Nepal</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16654542-avantika-jhunjhunwala]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1374300279p3/16654542.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1374300279p2/16654542.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 19 22:50:57 -0700 2013</created_at>
+  <updated_at>Fri Jul 19 22:50:57 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>79335034</id>
+  <body><![CDATA[I find it very, very hard to feel sorry for the Catholic church, who have been doing most of the persecuting for hundreds and hundreds of years, so a clearly FICTIONAL book that somewhat paints them as loony (which is debatable) isn't even a drop in the bucket. The Catholic church HAS been and STILL IS the enemy of science, and recently the pope decided to criminalize the reporting of sex crimes within the church (the church's sex crimes go without mention in the book).]]></body>
+  
+  <user>
+    <id>1960028</id>
+    <name>Sarah</name>
+    <display_name>Sarah</display_name>
+
+    <location>Westfield, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1960028-sarah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1348098471p3/1960028.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1348098471p2/1960028.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 26 17:54:06 -0700 2013</created_at>
+  <updated_at>Fri Jul 26 17:54:06 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>79914389</id>
+  <body><![CDATA[This book is a work of fiction. Theres no need to get on the defensive because Dan Brown stays perfectly neutral throughout the book.Any, or maybe all facts, regardless of whether or not they're true, were used as a means to further on the plot, not bash at catholics. If there was sucha book but was 'bashing' muslims, there would be an outcry, your right, but it would be in support of the book. Not against it.]]></body>
+  
+  <user>
+    <id>6813592</id>
+    <name>Aansa</name>
+    <display_name>Aansa</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6813592-aansa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1376528113p3/6813592.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1376528113p2/6813592.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 03 10:49:03 -0700 2013</created_at>
+  <updated_at>Sat Aug 03 10:49:03 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>80019936</id>
+  <body><![CDATA[Hmm, any book where each chapter keeps you on edge and wanting to continue reading is someone who is most certainly NOT an awful writer. Maybe you just have awful taste...]]></body>
+  
+  <user>
+    <id>18905276</id>
+    <name>Jarrett</name>
+    <display_name>Jarrett Trezzo</display_name>
+
+    <location>Tampa, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18905276-jarrett-trezzo]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1364676751p3/18905276.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1364676751p2/18905276.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 04 21:03:21 -0700 2013</created_at>
+  <updated_at>Sun Aug 04 21:03:21 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>82002369</id>
+  <body><![CDATA[i know nothing about the vatican city the curch and all this religion stuff but im really concerned and i want to know alot of things do really exist such as the altars of science !!! and all those stuff about the uliminati ,i did my research on google but i find nothing + some web that i cannot trust]]></body>
+  
+  <user>
+    <id>23149109</id>
+    <name>Houda</name>
+    <display_name>Houda Olga</display_name>
+
+    <location>Tanger, 57, Morocco</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23149109-houda-olga]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1376653674p3/23149109.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1376653674p2/23149109.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Sep 01 06:04:23 -0700 2013</created_at>
+  <updated_at>Sun Sep 01 06:04:23 -0700 2013</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/4561216]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/4561216]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

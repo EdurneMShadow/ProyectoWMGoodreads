@@ -1,0 +1,619 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:56:38 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: GY5HTHH3441F000S1R7P
+etag: W/"841e7d2fcca0b9bab5a5ebb249993d63"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.304019
+set-cookie: csid=BAhJIhgyMzMtMjU3NjIxMi03MTIyOTU3BjoGRVQ%3D--9e272f65a1dae415ef79874688c55b2eb405de2e; path=/; expires=Tue, 12 May 2037 13:56:37 -0000, locale=es; path=/, _session_id2=04e0bbc3fbba8e644d539e079de37838; path=/; expires=Fri, 12 May 2017 19:56:38 -0000; HttpOnly
+content-length: 24271
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=1074807221
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1074807221</id>
+    
+  <user>
+    <id>2457095</id>
+    <name>Apatt</name>
+    <display_name>Apatt</display_name>
+
+    <location>Bangkok, Thailand</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2457095-apatt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1349239948p3/2457095.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1349239948p2/2457095.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">18490</id>
+  <isbn>0141439475</isbn>
+  <isbn13>9780141439471</isbn13>
+  <text_reviews_count type="integer">13074</text_reviews_count>
+  <title>Frankenstein</title>
+  <title_without_series>Frankenstein</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1381512375m/18490.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1381512375s/18490.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18490.Frankenstein</link>
+  <num_pages>273</num_pages>
+  <format>Paperback</format>
+  <edition_information>Penguin Classics</edition_information>
+  <publisher>Penguin Books</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.75</average_rating>
+  <ratings_count>861298</ratings_count>
+  <description>&lt;b&gt;Mary Shelley&lt;/b&gt; began writing &lt;i&gt;Frankenstein&lt;/i&gt; when she was only eighteen. At once a Gothic thriller, a passionate romance, and a cautionary tale about the dangers of science, &lt;i&gt;Frankenstein&lt;/i&gt; tells the story of committed science student Victor Frankenstein. Obsessed with discovering the cause of generation and life and bestowing animation upon lifeless matter, Frankenstein assembles a human being from stolen body parts but; upon bringing it to life, he recoils in horror at the creature's hideousness. Tormented by isolation and loneliness, the once-innocent creature turns to evil and unleashes a campaign of murderous revenge against his creator, Frankenstein.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Frankenstein&lt;/i&gt;, an instant bestseller and an important ancestor of both the horror and science fiction genres, not only tells a terrifying story, but also raises profound, disturbing questions about the very nature of life and the place of humankind within the cosmos: What does it mean to be human? What responsibilities do we have to each other? How far can we go in tampering with Nature? In our age, filled with news of organ donation genetic engineering, and bio-terrorism, these questions are more relevant than ever.</description>
+<authors>
+<author>
+<id>11139</id>
+<name>Mary Wollstonecraft Shelley</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p5/11139.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p2/11139.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/11139.Mary_Wollstonecraft_Shelley]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>884152</ratings_count>
+<text_reviews_count>20971</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">51194100</id>
+          <page type="integer">183</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Oct 14 20:15:23 -0700 2014</created_at>
+          <updated_at type="datetime">Tue Oct 14 20:15:23 -0700 2014</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">3</ratings_count>
+          <percent type="integer">67</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">607960149</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sat Oct 18 09:51:35 -0700 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">597116112</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Tue Oct 07 23:34:02 -0700 2014</updated_at>
+          <ratings_count>1</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>80</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="pre-80s-sf" exclusive="false" review_shelf_id="812797490" sortable="false" />
+    <shelf name="fave-classics" exclusive="false" review_shelf_id="812797429" sortable="false" />
+    <shelf name="sci-fi" exclusive="false" review_shelf_id="812797484" sortable="false" />
+    <shelf name="classics" exclusive="false" review_shelf_id="812797415" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Oct 07 00:00:00 -0700 2014</started_at>
+  <read_at>Sat Oct 18 00:00:00 -0700 2014</read_at>
+  <date_added>Tue Oct 07 23:34:01 -0700 2014</date_added>
+  <date_updated>Mon Oct 24 19:50:30 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[It is almost a pity that the story of <i>Frankenstein</i> is so well known because far too many people neglect to bother reading Mary Shelley’s novel under the assumption that they already know the story. This is a shame because <i> Frankenstein</i> is beautifully written, very dark and scary but also quite po...]]>
+  </body>
+
+  
+
+  <comments_count>20</comments_count>
+    <comments start="1" end="20" total="20">
+        <comment>
+  <id>108001234</id>
+  <body><![CDATA[Victor gave him life but denies him everything else . . . ----------------Sounds like the experience, at the hands of their parents, of many children around the world. Very sad.]]></body>
+  
+  <user>
+    <id>23385697</id>
+    <name>Glenn</name>
+    <display_name>Glenn Russell</display_name>
+
+    <location>Philadelphia, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23385697-glenn-russell]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1485712614p3/23385697.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1485712614p2/23385697.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Oct 19 03:27:33 -0700 2014</created_at>
+  <updated_at>Sun Oct 19 03:27:33 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>108001536</id>
+  <body><![CDATA[<i>Glenn wrote: "Victor gave him life but denies him everything else . . . ----------------Sounds like the experience, at the hands of their parents, of many children around the world. Very sad."</i><br /><br />Yeah! Loads of themes in this book to chew on! Cheers Glenn!]]></body>
+  
+  <user>
+    <id>2457095</id>
+    <name>Apatt</name>
+    <display_name>Apatt</display_name>
+
+    <location>Bangkok, Thailand</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2457095-apatt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1349239948p3/2457095.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1349239948p2/2457095.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Oct 19 03:48:21 -0700 2014</created_at>
+  <updated_at>Sun Oct 19 03:48:21 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>108008069</id>
+  <body><![CDATA[Amazing! Frankenstein is considered to be one of the earliest examples of SF. The book was released in 1818! Mary Shelley was waaay ahead of her time. Along with horror, her works also included history, politics, and travel. It seems that she certainly shattered the woman's role mold, most likely because she was raised by her father. <br /><br />I'm diggin your reviews Apatt... gaaaaaaaaarg]]></body>
+  
+  <user>
+    <id>24788985</id>
+    <name>spikeINflorida</name>
+    <display_name>spikeINflorida</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24788985-spikeinflorida]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1398815404p3/24788985.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1398815404p2/24788985.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Oct 19 07:50:56 -0700 2014</created_at>
+  <updated_at>Sun Oct 19 07:50:56 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>108008495</id>
+  <body><![CDATA[<i>spikeINflorida wrote: "Amazing! Frankenstein is considered to be one of the earliest examples of SF. The book was released in 1818! Mary Shelley was waaay ahead of her time. Along with horror, her works also included his..."</i><br /><br />Thanks so much Spike, come to think of it she must have been a badass. I didn't know she wrote other types of books too.]]></body>
+  
+  <user>
+    <id>2457095</id>
+    <name>Apatt</name>
+    <display_name>Apatt</display_name>
+
+    <location>Bangkok, Thailand</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2457095-apatt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1349239948p3/2457095.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1349239948p2/2457095.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Oct 19 08:01:32 -0700 2014</created_at>
+  <updated_at>Sun Oct 19 08:01:32 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>142809973</id>
+  <body><![CDATA[Your review makes me wish I had already read this - but the more eagerly am I awaiting my reading experience. Great review, Apatt!]]></body>
+  
+  <user>
+    <id>40792319</id>
+    <name>Councillor</name>
+    <display_name>Councillor</display_name>
+
+    <location>Germany, Germany</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/40792319-councillor]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1437208837p3/40792319.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1437208837p2/40792319.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Nov 14 08:54:00 -0800 2015</created_at>
+  <updated_at>Sat Nov 14 08:54:00 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>142810077</id>
+  <body><![CDATA[<i>Councillor wrote: "Your review makes me wish I had already read this - but the more eagerly am I awaiting my reading experience. Great review, Apatt!"</i><br /><br />Thanks again Councillor, I really love this book. Mary Shelly's writing is a thing of beauty. I do wish more people would read it.]]></body>
+  
+  <user>
+    <id>2457095</id>
+    <name>Apatt</name>
+    <display_name>Apatt</display_name>
+
+    <location>Bangkok, Thailand</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2457095-apatt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1349239948p3/2457095.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1349239948p2/2457095.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Nov 14 08:57:53 -0800 2015</created_at>
+  <updated_at>Sat Nov 14 08:57:53 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>142854811</id>
+  <body><![CDATA[Yes, the monster is Frankenstein's Monster, not Frankenstein, but isn't Frankenstein himself also something of a monster?]]></body>
+  
+  <user>
+    <id>1199525</id>
+    <name>Cecily</name>
+    <display_name>Cecily</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1199525-cecily]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480285828p3/1199525.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480285828p2/1199525.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 15 11:00:54 -0800 2015</created_at>
+  <updated_at>Sun Nov 15 11:00:54 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>142875729</id>
+  <body><![CDATA[<i>Cecily wrote: "Yes, the monster is Frankenstein's Monster, not Frankenstein, but isn't Frankenstein himself also something of a monster?"</i><br /><br />If I understand the subtext correctly Victor didn't want to be a scientist, he really wanted to be a lumberjack, leaping from tree to tree. Anyway, not much call for lumberjacks in Victorian England?]]></body>
+  
+  <user>
+    <id>2457095</id>
+    <name>Apatt</name>
+    <display_name>Apatt</display_name>
+
+    <location>Bangkok, Thailand</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2457095-apatt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1349239948p3/2457095.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1349239948p2/2457095.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 15 18:04:43 -0800 2015</created_at>
+  <updated_at>Sun Nov 15 18:04:43 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>142886162</id>
+  <body><![CDATA[Of course you understand my subtext.<br />But it is a conundrum, isn't it?<br />I wonder if there could be a Finish connection? ;)]]></body>
+  
+  <user>
+    <id>1199525</id>
+    <name>Cecily</name>
+    <display_name>Cecily</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1199525-cecily]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480285828p3/1199525.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480285828p2/1199525.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 16 00:09:03 -0800 2015</created_at>
+  <updated_at>Mon Nov 16 00:09:03 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>142905890</id>
+  <body><![CDATA[hahahabahaha funny]]></body>
+  
+  <user>
+    <id>47842842</id>
+    <name>kirstin</name>
+    <display_name>kirstin</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/47842842-kirstin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1449272278p3/47842842.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1449272278p2/47842842.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 16 11:08:11 -0800 2015</created_at>
+  <updated_at>Mon Nov 16 11:08:11 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>142926266</id>
+  <body><![CDATA[<i>Sabah wrote: "I found this book to be a wonderful spotlight on how we treat others. The monster is not even given a name, he's kind and caring, he's self educated, even before he commits his first act of violenc..."</i><br /><br />Thank you Sebah, I suppose if the creature is Victor's adopted son he would be a Frankenstein!.]]></body>
+  
+  <user>
+    <id>2457095</id>
+    <name>Apatt</name>
+    <display_name>Apatt</display_name>
+
+    <location>Bangkok, Thailand</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2457095-apatt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1349239948p3/2457095.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1349239948p2/2457095.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 16 18:24:27 -0800 2015</created_at>
+  <updated_at>Mon Nov 16 18:24:27 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>143853191</id>
+  <body><![CDATA[<i>Sabah wrote: "Outstanding review Apatt. I loved the gentle humanity of the monster and loved Shelleys ability to tell the story with the genius of a narrative within a narrative within a narrative. A great examp..."</i><br /><br />Thank you Sabah, I'm a bit like The Creature myself, especially in appearance.]]></body>
+  
+  <user>
+    <id>2457095</id>
+    <name>Apatt</name>
+    <display_name>Apatt</display_name>
+
+    <location>Bangkok, Thailand</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2457095-apatt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1349239948p3/2457095.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1349239948p2/2457095.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Dec 04 01:37:19 -0800 2015</created_at>
+  <updated_at>Fri Dec 04 01:37:19 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>158355978</id>
+  <body><![CDATA[I really need to take this up on day! I had casually dismissed any thoughts assuming I know the story and the themes and need not make up time for this. Thanks for clarifying, Apatt! You have put up a comical and a strong case for Mary Shelley.]]></body>
+  
+  <user>
+    <id>24048474</id>
+    <name>Ritwik</name>
+    <display_name>Ritwik</display_name>
+
+    <location>Mumbai, 16, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24048474-ritwik]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1461434494p3/24048474.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1461434494p2/24048474.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 24 19:42:46 -0700 2016</created_at>
+  <updated_at>Mon Oct 24 19:42:46 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158356055</id>
+  <body><![CDATA[<i>Ritwik wrote: "I really need to take this up on day! I had casually dismissed any thoughts assuming I know the story and the themes and need not make up time for this. Thanks for clarifying, Apatt! You have put u..."</i><br /><br />Thank you very much, Ritwik. I think it is worth just for the language, the prose and the atmosphere alone. Like you, I already knew all the plot points :)]]></body>
+  
+  <user>
+    <id>2457095</id>
+    <name>Apatt</name>
+    <display_name>Apatt</display_name>
+
+    <location>Bangkok, Thailand</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2457095-apatt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1349239948p3/2457095.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1349239948p2/2457095.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 24 19:45:10 -0700 2016</created_at>
+  <updated_at>Mon Oct 24 19:45:10 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158359345</id>
+  <body><![CDATA[And a tough read, one of the more difficult books I had college/u sophomores read. Especially since it's not as witty as Alice in W., nor as meta-educational like her mother's Vindication of the Rights of W.]]></body>
+  
+  <user>
+    <id>5650849</id>
+    <name>Alan</name>
+    <display_name>Alan</display_name>
+
+    <location>Westport, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5650849-alan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1310234599p3/5650849.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1310234599p2/5650849.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 24 22:04:10 -0700 2016</created_at>
+  <updated_at>Mon Oct 24 22:04:10 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158361722</id>
+  <body><![CDATA[GAAHH!<br />GAAAAH!<br />WRUAAAAGHH!!<br /><br />A most entertaining review, Apatt!]]></body>
+  
+  <user>
+    <id>43579369</id>
+    <name>Kevin</name>
+    <display_name>Kevin Ansbro</display_name>
+
+    <location>Norwich, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/43579369-kevin-ansbro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442982666p3/43579369.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442982666p2/43579369.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 25 00:30:44 -0700 2016</created_at>
+  <updated_at>Tue Oct 25 00:30:44 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158361934</id>
+  <body><![CDATA[<i>Kevin wrote: "GAAHH!<br />GAAAAH!<br />WRUAAAAGHH!!<br /><br />A most entertaining review, Apatt!"</i><br /><br />Thank you, Kevin. Another old review tarted up for Halloween! :D]]></body>
+  
+  <user>
+    <id>2457095</id>
+    <name>Apatt</name>
+    <display_name>Apatt</display_name>
+
+    <location>Bangkok, Thailand</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2457095-apatt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1349239948p3/2457095.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1349239948p2/2457095.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 25 00:40:47 -0700 2016</created_at>
+  <updated_at>Tue Oct 25 00:40:47 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159258189</id>
+  <body><![CDATA[Wonderful review! :)]]></body>
+  
+  <user>
+    <id>25353295</id>
+    <name>Carmen</name>
+    <display_name>Carmen</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25353295-carmen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1412617445p3/25353295.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1412617445p2/25353295.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 18 09:11:26 -0800 2016</created_at>
+  <updated_at>Fri Nov 18 09:11:26 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159258623</id>
+  <body><![CDATA[<i>Carmen wrote: "Wonderful review! :)"</i><br /><br />Thank you, Carmen! One of my favorite books, I wish more people would read it :)]]></body>
+  
+  <user>
+    <id>2457095</id>
+    <name>Apatt</name>
+    <display_name>Apatt</display_name>
+
+    <location>Bangkok, Thailand</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2457095-apatt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1349239948p3/2457095.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1349239948p2/2457095.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 18 09:22:55 -0800 2016</created_at>
+  <updated_at>Fri Nov 18 09:22:55 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159258987</id>
+  <body><![CDATA[I know, it is SO GOOD.]]></body>
+  
+  <user>
+    <id>25353295</id>
+    <name>Carmen</name>
+    <display_name>Carmen</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25353295-carmen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1412617445p3/25353295.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1412617445p2/25353295.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 18 09:32:51 -0800 2016</created_at>
+  <updated_at>Fri Nov 18 09:32:51 -0800 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1074807221]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1074807221]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

@@ -1,0 +1,1250 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:49:17 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: W2SE6R20D96S8KJM2DMM
+etag: W/"c0bac43592a744218e32e431fa4338e3"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.426296
+set-cookie: csid=BAhJIhg1MzMtODk5OTk0Ni01ODU3OTgxBjoGRVQ%3D--b612cd572106d3b636ee8c24f736696e53a765c8; path=/; expires=Tue, 12 May 2037 13:49:17 -0000, locale=es; path=/, _session_id2=ba0261588680008ab25b9ddfcbe50c4b; path=/; expires=Fri, 12 May 2017 19:49:17 -0000; HttpOnly
+content-length: 51365
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=108596593
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>108596593</id>
+    
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">968</id>
+  <isbn>0307277674</isbn>
+  <isbn13>9780307277671</isbn13>
+  <text_reviews_count type="integer">32869</text_reviews_count>
+  <title>The Da Vinci Code (Robert Langdon, #2)</title>
+  <title_without_series>The Da Vinci Code</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1303252999m/968.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1303252999s/968.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/968.The_Da_Vinci_Code</link>
+  <num_pages>481</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Anchor</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.78</average_rating>
+  <ratings_count>1531664</ratings_count>
+  <description>An ingenious code hidden in the works of Leonardo da Vinci. A desperate race through the cathedrals and castles of Europe. An astonishing truth concealed for centuries . . . unveiled at last.&lt;br /&gt;&lt;br /&gt;While in Paris, Harvard symbologist Robert Langdon is awakened by a phone call in the dead of the night. The elderly curator of the Louvre has been murdered inside the museum, his body covered in baffling symbols. As Langdon and gifted French cryptologist Sophie Neveu sort through the bizarre riddles, they are stunned to discover a trail of clues hidden in the works of Leonardo da Vinci—clues visible for all to see and yet ingeniously disguised by the painter.&lt;br /&gt;&lt;br /&gt;Even more startling, the late curator was involved in the Priory of Sion—a secret society whose members included Sir Isaac Newton, Victor Hugo, and Da Vinci—and he guarded a breathtaking historical secret. Unless Langdon and Neveu can decipher the labyrinthine puzzle—while avoiding the faceless adversary who shadows their every move—the explosive, ancient truth will be lost forever.</description>
+<authors>
+<author>
+<id>630</id>
+<name>Dan Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p5/630.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p2/630.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/630.Dan_Brown]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>5211301</ratings_count>
+<text_reviews_count>138647</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1452716915</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Jul 31 05:59:38 -0700 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>3</rating>
+  <votes>80</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Jan 01 00:00:00 -0800 2004</read_at>
+  <date_added>Thu Jun 24 15:33:10 -0700 2010</date_added>
+  <date_updated>Mon Dec 23 11:11:31 -0800 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<b>Book Circle Reads 11</b><br /><br />Rating: 3 stars of five <br /><br /><b>The Publisher Says</b>: An ingenious code hidden in the works of Leonardo da Vinci. A desperate race through the cathedrals and castles of Europe. An astonishing truth concealed for centuries . . . unveiled at last.<br /><br />While in Paris, Harvard symbologist Robert...]]>
+  </body>
+
+  
+
+  <comments_count>57</comments_count>
+    <comments start="1" end="50" total="57">
+        <comment>
+  <id>45853367</id>
+  <body><![CDATA[Tried to read this, I really did, but the writing - oh the writing! - it did me in and I had to give it up.]]></body>
+  
+  <user>
+    <id>1742824</id>
+    <name>Jason</name>
+    <display_name>Jason Koivu</display_name>
+
+    <location>Lemoore, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1742824-jason-koivu]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1464843865p3/1742824.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1464843865p2/1742824.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 24 16:44:44 -0800 2012</created_at>
+  <updated_at>Fri Feb 24 16:44:44 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>45853993</id>
+  <body><![CDATA[Sir, the fucking <b>GENIUS</b> around here is you. Another spot on review.]]></body>
+  
+  <user>
+    <id>1413439</id>
+    <name>Stephen</name>
+    <display_name>Stephen</display_name>
+
+    <location>Las Vegas, NV</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1413439-stephen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1311616811p3/1413439.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1311616811p2/1413439.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 24 16:54:32 -0800 2012</created_at>
+  <updated_at>Fri Feb 24 16:54:32 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>45857268</id>
+  <body><![CDATA[<i>Jason wrote: "Tried to read this, I really did, but the writing - oh the writing! - it did me in and I had to give it up."</i><br /><br />I totally understand, Jason, though I was caught in the plot's slipstream and sucked along for the ride.]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 24 17:49:09 -0800 2012</created_at>
+  <updated_at>Fri Feb 24 17:49:09 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>45857318</id>
+  <body><![CDATA[<i>Stephen wrote: "Sir, the fucking GENIUS around here is you. Another spot on review."</i><br /><br />*blush* Now really! Such praise is far beyond my deserts!<br /><br />But thank you very much.]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 24 17:49:55 -0800 2012</created_at>
+  <updated_at>Fri Feb 24 17:49:55 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>45874265</id>
+  <body><![CDATA[Richard, <br /><br />Great review, but I do not share your view that the book is well-researched. Most of the "research" is copied from <i>Holy Blood, Holy Grail</i>: a prime example of dubious history, IMO. However, the book is fast paced and the puzzles are enjoyable (well, maybe for once-since all of Dan Brown's books seems to follow the same formula, the next experience may be a let down).]]></body>
+  
+  <user>
+    <id>6237864</id>
+    <name>Nandakishore</name>
+    <display_name>Nandakishore Varma</display_name>
+
+    <location>Thrissur, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6237864-nandakishore-varma]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1464497695p3/6237864.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1464497695p2/6237864.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 25 00:50:52 -0800 2012</created_at>
+  <updated_at>Sat Feb 25 00:50:52 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>45879518</id>
+  <body><![CDATA[As it's a novel, even if all it did was regurgitate <i>Holy Blood, Holy Grail</i>, I'd give it full points. But then again, the idea that fiction shouldn't need to adhere to the research standards of fact is slowly eroding into a one-size-fits-all Procrustean dumbing down of one and stretching up too far from its storytelling purpose of the other. At least, for my tastes this is true.<br /><br />I can'r read Brown's other books. Just cannot do it.]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 25 06:00:29 -0800 2012</created_at>
+  <updated_at>Sat Feb 25 06:00:29 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>45880630</id>
+  <body><![CDATA[<i>Richard wrote: "I can't read Brown's other books. Just cannot do it."</i><br /><br />I don't blame you. I also stopped after <i>Angels and Demons</i>.]]></body>
+  
+  <user>
+    <id>6237864</id>
+    <name>Nandakishore</name>
+    <display_name>Nandakishore Varma</display_name>
+
+    <location>Thrissur, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6237864-nandakishore-varma]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1464497695p3/6237864.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1464497695p2/6237864.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 25 06:36:55 -0800 2012</created_at>
+  <updated_at>Sat Feb 25 06:36:55 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>64577086</id>
+  <body><![CDATA[Ace review. I love how you broke it down between different reader-types and then told them <i>all</i> off haha. That is why we love Richard. And being (shamefully or shamelessly) a bit of a book snob, I do have to concede that, yes, at least people are reading <i>and</i> learning when they read this. Have you read Eco's <a href="https://www.goodreads.com/book/show/119073.The_Name_of_the_Rose" title="The Name of the Rose by Umberto Eco" rel="nofollow">The Name of the Rose</a>? I use that at work all the time, citing it as a slightly 'next step up' in a way from this one and have managed to keep that one constantly being bought. As a snob, I often forget that most people see reading as an escape. I guess so do I, but in a different way. Looking at it that way now makes it seem like my brain is into SnM. Is that all postmodernism really is? Happy new years, enjoy this offputting comment haha]]></body>
+  
+  <user>
+    <id>6431467</id>
+    <name>s.penkevich</name>
+    <display_name>s.penkevich</display_name>
+
+    <location>Holland, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6431467-s-penkevich]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487244329p3/6431467.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487244329p2/6431467.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Dec 31 17:22:37 -0800 2012</created_at>
+  <updated_at>Mon Dec 31 17:22:37 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>64579596</id>
+  <body><![CDATA[<i>s.penkevich wrote: "Ace review. I love how you broke it down between different reader-types and then told them all off haha."</i><br /><br />Thanks, Sven! I appreciate the compliment.<br /><br /><i>s.penkevich wrote: "I use that at work all the time, citing it as a slightly 'next step up' in a way from this one and have managed to keep that one constantly being bought."</i><br /><br />Ye gods! Eco is streets ahead of Brown, and there isn't even a small or slight overlap in their talents! But big points for chutzpah in handselling this as the next step.<br /><br /><i>s.penkevich wrote: "As a snob, I often forget that most people see reading as an escape. I guess so do I, but in a different way. Looking at it that way now makes it seem like my brain is into SnM. Is that all postmodernism really is? Happy new years, enjoy this offputting comment haha"</i><br /><br />Postmoderism, like any other -ism, is just a description of a tool. Tools are used more or less skilfully, to better or less good effect, and in the end it's the product that matters, not near as much as the tools used to create it.<br /><br />I don't mind reading complex, dense, convoluted prose if the author's point in writing the story in that fashion is something other than showoffiness. Of course I *can* light my farts; is there some reason I should want to? Same thing with fancy writing.]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Dec 31 18:05:42 -0800 2012</created_at>
+  <updated_at>Mon Dec 31 18:05:42 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>64580715</id>
+  <body><![CDATA[Fair point. Duly chastized I am.<br /><br /><i>Snobs: It's not about you. It's about normal people getting their entertainment from a book for once, instead of a TV or a gaming console. Why are you bitching? Who said you had to read it? </i>]]></body>
+  
+  <created_at>Mon Dec 31 18:25:24 -0800 2012</created_at>
+  <updated_at>Mon Dec 31 18:25:24 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>64581120</id>
+  <body><![CDATA[<i>Steve wrote: "Fair point. Duly chastized I am.<br /><br />Snobs: It's not about you. It's about normal people getting their entertainment from a book for once, instead of a TV or a gaming console. Why are you bitching? Wh..."</i><br /><br />I'm just so *over* people snooting on the reading choices of others. Who in the hell said *you* Have Taste, or whatever it is these folks think they have? Because they've read {insert fashionable boring book here}? Bah. Unless someone has read quite widely, including the book being criticized, shuddupp.<br /><br />If I dislike a writer's work, there's a reason, and I give it. People who DO like, f/ex, Chuckles the Dick will be hearing about it. Because there's a REASON I don't like his stuff, and the praise that's heaped on it isn't always in line with the reality.<br /><br />Grumble. Off to watch more <i>Doctor Who</i>. Happy New Year, Steve.]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Dec 31 18:33:24 -0800 2012</created_at>
+  <updated_at>Mon Dec 31 18:33:24 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>64581293</id>
+  <body><![CDATA[<i>Richard wrote: "Steve wrote: "Fair point. Duly chastized I am.<br /><br />Snobs: It's not about you. It's about normal people getting their entertainment from a book for once, instead of a TV or a gaming console. Why are yo..."</i><br /><br />Happy New Year, Richard. I guess this means that you will extend the same courtesy to Dickens. Much love, my friend.]]></body>
+  
+  <created_at>Mon Dec 31 18:36:31 -0800 2012</created_at>
+  <updated_at>Mon Dec 31 18:36:31 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>64584267</id>
+  <body><![CDATA[<i>Richard wrote: "Of course I *can* light my farts; is there some reason I should want to? Same thing with fancy writing. ."</i><br /><br />Ha! Well said. Enjoy the Doctor. Are you caught up? Are you off to watch the freaky snowman episode?!]]></body>
+  
+  <user>
+    <id>6431467</id>
+    <name>s.penkevich</name>
+    <display_name>s.penkevich</display_name>
+
+    <location>Holland, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6431467-s-penkevich]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487244329p3/6431467.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487244329p2/6431467.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Dec 31 19:24:20 -0800 2012</created_at>
+  <updated_at>Mon Dec 31 19:24:20 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>64590811</id>
+  <body><![CDATA[<i>Steve wrote: "Happy New Year, Richard. I guess this means that you will extend the same courtesy to Dickens. Much love, my friend."</i><br /><br />Sending hugs!<br /><br />But no, Chuckles-bashing is too good for my soul. Won't be givin' it up.]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Dec 31 21:14:18 -0800 2012</created_at>
+  <updated_at>Mon Dec 31 21:14:18 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>64590945</id>
+  <body><![CDATA[<i>s.penkevich wrote: "Ha! Well said. Enjoy the Doctor. Are you caught up? Are you off to watch the freaky snowman episode?!"</i><br /><br />I have indeed seen it, and I can't wait for Clara to start her reign as companion! She's AWESOME and for once she's large and in charge instead of the Doctor. <br /><br />Only River Song comes close so far. Much as I love Rose, and Martha, and Amyrory, they didn't have this whirlwind of energy that Clara does.]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Dec 31 21:16:47 -0800 2012</created_at>
+  <updated_at>Mon Dec 31 21:16:47 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>64602401</id>
+  <body><![CDATA[Great review! I read this book a long time ago, right in the middle of the craze, and I agree with you - it's not great literature, but it's great entertainment. And I still don't get what all the religious folk got so mad about. It's fiction! Although, they usually don't need much reason to get angry.]]></body>
+  
+  <user>
+    <id>6098175</id>
+    <name>Katya</name>
+    <display_name>Katya Vinogradova</display_name>
+
+    <location>Moscow, Russian Federation</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6098175-katya-vinogradova]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1452109566p3/6098175.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1452109566p2/6098175.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 01 01:49:08 -0800 2013</created_at>
+  <updated_at>Tue Jan 01 01:49:08 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>64610754</id>
+  <body><![CDATA[A very good review, Richard. I agree with all that you say.<br /><br />I read this. I enjoyed it. If it were a story that somebody told you to entertain you, that is exactly what it would do. I don't think that it was ever meant to be a literary masterpiece, or the subject of any in-depth studies. It is just a good story. The English is not good, but it is just how a normal, every-day story-teller would speak it to you.<br /><br />I am happy that you seem to be of the same mind.]]></body>
+  
+  <user>
+    <id>2793431</id>
+    <name>Lance</name>
+    <display_name>Lance Greenfield</display_name>
+
+    <location><![CDATA[Andover, Hampshire, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2793431-lance-greenfield]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442658682p3/2793431.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442658682p2/2793431.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 01 06:13:00 -0800 2013</created_at>
+  <updated_at>Tue Jan 01 06:13:00 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>64611769</id>
+  <body><![CDATA[Have I mentioned how much I love your reviews!!]]></body>
+  
+  <user>
+    <id>5524591</id>
+    <name>Tracy</name>
+    <display_name>Tracy</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5524591-tracy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1490120963p3/5524591.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1490120963p2/5524591.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 01 06:32:52 -0800 2013</created_at>
+  <updated_at>Tue Jan 01 06:32:52 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>64620011</id>
+  <body><![CDATA[Priceless. Love it.]]></body>
+  
+  <user>
+    <id>3978225</id>
+    <name>Carol. </name>
+    <display_name>Carol. </display_name>
+
+    <location><![CDATA[The United States Minor Outlying Islands]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3978225-carol]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1307934801p3/3978225.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1307934801p2/3978225.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 01 08:49:53 -0800 2013</created_at>
+  <updated_at>Tue Jan 01 08:49:53 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>64623705</id>
+  <body><![CDATA[<i>Katya wrote: "Great review! I read this book a long time ago, right in the middle of the craze, and I agree with you - it's not great literature, but it's great entertainment. And I still don't get what all the ..."</i><br /><br />Thank you Katya! I appreciate you coming by to say so. <br /><br />Religious nuts need very little to feel one is slighting their fantasy construct. Well, makes sense, doesn't it? It's so patently absurd, even they have doubts.]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 01 09:44:54 -0800 2013</created_at>
+  <updated_at>Tue Jan 01 09:44:54 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>64623798</id>
+  <body><![CDATA[<i>Lance Greenfield wrote: "A very good review, Richard. I agree with all that you say...I am happy that you seem to be of the same mind."</i><br /><br />My thanks, Lance, for your kind words! I'm happy we're in accord, too.]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 01 09:46:30 -0800 2013</created_at>
+  <updated_at>Tue Jan 01 09:46:30 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>64623831</id>
+  <body><![CDATA[<i>Tracy wrote: "Have I mentioned how much I love your reviews!!"</i><br /><br />No, not yet. Feel free to start any time!]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 01 09:46:59 -0800 2013</created_at>
+  <updated_at>Tue Jan 01 09:46:59 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>64623874</id>
+  <body><![CDATA[<i>Carol wrote: "Priceless. Love it."</i><br /><br />Wow, Carol, that's high praise coming from you, THANKS!]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 01 09:47:27 -0800 2013</created_at>
+  <updated_at>Tue Jan 01 09:47:27 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>64624413</id>
+  <body><![CDATA[My first real laugh of 2013. Thank you, sir.]]></body>
+  
+  <user>
+    <id>1416912</id>
+    <name>Trudi</name>
+    <display_name>Trudi</display_name>
+
+    <location>Regina, SK, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1416912-trudi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1446613110p3/1416912.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1446613110p2/1416912.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 01 09:53:59 -0800 2013</created_at>
+  <updated_at>Tue Jan 01 09:53:59 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>64624658</id>
+  <body><![CDATA[<i>Trudi wrote: "My first real laugh of 2013. Thank you, sir."</i><br /><br />*sweeping bow*]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 01 09:57:23 -0800 2013</created_at>
+  <updated_at>Tue Jan 01 09:57:23 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>64787312</id>
+  <body><![CDATA[Kudos to defending non-literature as acceptable reading material. I definitely factor in how-fast-I-turn-the-pages-until-I-reach-the-end-of-the-book into my reviews as well. I actually gave the book four stars, which likely discredits my taste in books to a lot of snobby people. Oh well.]]></body>
+  
+  <user>
+    <id>76688</id>
+    <name>Eric</name>
+    <display_name>Eric</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/76688-eric]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1255373698p3/76688.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1255373698p2/76688.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 03 11:57:02 -0800 2013</created_at>
+  <updated_at>Thu Jan 03 11:57:02 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>64788430</id>
+  <body><![CDATA[<i>Eric wrote: "Kudos to defending non-literature as acceptable reading material. I definitely factor in how-fast-I-turn-the-pages-until-I-reach-the-end-of-the-book into my reviews as well. I actually gave the bo..."</i><br /><br />Maybe it has done, Eric, but honestly who cares? Snooty snobby judgment-issuers, not the ones with strong opinions based on solid knowledge, aren't of much account in this life. The solidly grounded, no matter how strong their opinions or how arrogant their dismissals of things, don't tend to make their dismissals personal.<br /><br />Except of Dickens lovers. That just shows lack of moral fiber, artistic judgment, and worthiness. :-P]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 03 12:12:58 -0800 2013</created_at>
+  <updated_at>Thu Jan 03 12:12:58 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>64794877</id>
+  <body><![CDATA[<i>Richard wrote: "Carol wrote: "Priceless. Love it."<br /><br />Wow, Carol, that's high praise coming from you, THANKS!"</i><br /><br />Just to clarify, I meant your review. Haven't read the book yet.]]></body>
+  
+  <user>
+    <id>3978225</id>
+    <name>Carol. </name>
+    <display_name>Carol. </display_name>
+
+    <location><![CDATA[The United States Minor Outlying Islands]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3978225-carol]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1307934801p3/3978225.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1307934801p2/3978225.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 03 13:40:11 -0800 2013</created_at>
+  <updated_at>Thu Jan 03 13:40:11 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>64796795</id>
+  <body><![CDATA[Goodness, I would've been gobsmacked if you'd meant the book. And not a little miffed.]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 03 14:04:52 -0800 2013</created_at>
+  <updated_at>Thu Jan 03 14:04:52 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73702053</id>
+  <body><![CDATA[I actually liked it...even if only because it introduced me to Holy Blood Holy Grail and a lot of mysterious, UFOy, Loch Ness Monstery stuff that I loved when I was a kid. As to the books quality - I felt it was more an outline for a book - but I still enjoyed it. *whispers: just don't tell anyone else.]]></body>
+  
+  <user>
+    <id>6625962</id>
+    <name>J.P.</name>
+    <display_name>J.P.</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6625962-j-p]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1432761189p3/6625962.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1432761189p2/6625962.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed May 08 12:58:02 -0700 2013</created_at>
+  <updated_at>Wed May 08 12:58:02 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73702894</id>
+  <body><![CDATA[<i>J.P. wrote: "I actually liked it...even if only because it introduced me to Holy Blood Holy Grail and a lot of mysterious, UFOy, Loch Ness Monstery stuff that I loved when I was a kid. As to the books quality -..."</i><br /><br />Your secret's safe with me. *mimes keylocking lips*]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed May 08 13:08:48 -0700 2013</created_at>
+  <updated_at>Wed May 08 13:08:48 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73751790</id>
+  <body><![CDATA[Sir, great review. I'm especially fond of the term <i>rip-snorting</i>.]]></body>
+  
+  <user>
+    <id>5537205</id>
+    <name>Robert</name>
+    <display_name>Robert</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5537205-robert]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1372971953p3/5537205.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1372971953p2/5537205.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 09 06:27:39 -0700 2013</created_at>
+  <updated_at>Thu May 09 06:27:39 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73752791</id>
+  <body><![CDATA[Great review Sir Richard. I especially enjoy your sense of being and humour! Right on with your bad self!]]></body>
+  
+  <user>
+    <id>5505954</id>
+    <name>Cyndi</name>
+    <display_name>Cyndi</display_name>
+
+    <location>Akron, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5505954-cyndi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1484676533p3/5505954.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1484676533p2/5505954.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 09 06:45:40 -0700 2013</created_at>
+  <updated_at>Thu May 09 06:45:40 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73754185</id>
+  <body><![CDATA[<i>Robert wrote: "Sir, great review. I'm especially fond of the term rip-snorting."</i><br /><br />Thank you, Robert! I think "rip-snorting" really fits here.]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 09 07:11:45 -0700 2013</created_at>
+  <updated_at>Thu May 09 07:11:45 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73754249</id>
+  <body><![CDATA[<i>Cyndi wrote: "Great review Sir Richard. I especially enjoy your sense of being and humour! Right on with your bad self!"</i><br /><br />Awww gee Cyndi, thanks! It's the kind of book I could never write a serious review of, so I figured why not let slip the dogs of war?]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 09 07:12:41 -0700 2013</created_at>
+  <updated_at>Thu May 09 07:12:41 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73763802</id>
+  <body><![CDATA[Great review, although my opinion of the book is much higher than yours. I liked the way you broke your review down for people with different viewpoints. I read it when it first came out and was totally ignorant of the plot. I thought it was a great new point of view. Might I suggest 'You Got To Be Kidding! by Joe Wenke. I suspect you would get a bang out of it. And if you read the DaVinci Code in one sitting, this will be 2 hour read for you.]]></body>
+  
+  <user>
+    <id>2081885</id>
+    <name>Rickey</name>
+    <display_name>Rickey</display_name>
+
+    <location>Marlow, OK</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2081885-rickey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442498773p3/2081885.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442498773p2/2081885.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 09 09:57:16 -0700 2013</created_at>
+  <updated_at>Thu May 09 09:57:16 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73764586</id>
+  <body><![CDATA[Thanks, Rickey, I'll look for the Wenke!]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 09 10:10:44 -0700 2013</created_at>
+  <updated_at>Thu May 09 10:10:44 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73770445</id>
+  <body><![CDATA[I gave the book five stars because I knew from the beginning I was going to be entertained...not educated.....Michael]]></body>
+  
+  <user>
+    <id>3724839</id>
+    <name>Michael </name>
+    <display_name>Michael </display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3724839-michael]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478749734p3/3724839.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478749734p2/3724839.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 09 11:48:41 -0700 2013</created_at>
+  <updated_at>Thu May 09 11:48:41 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>74098147</id>
+  <body><![CDATA[Thanks for the point about the snobs. I mean, it's not Literature and it's not even a very good book. It is fairly entertaining, though, and I enjoyed it more than half the names that reviewers like "Keely" and "Mer" were dropping for the sake of asserting their intellectually superiority over the plebeian masses that read this sort of thing. Insecure asshats.]]></body>
+  
+  <user>
+    <id>11516911</id>
+    <name>Julia</name>
+    <display_name>Julia</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11516911-julia]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488947939p3/11516911.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488947939p2/11516911.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue May 14 12:55:14 -0700 2013</created_at>
+  <updated_at>Tue May 14 12:55:14 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>74101719</id>
+  <body><![CDATA[Yeppir, that they are.]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue May 14 13:50:31 -0700 2013</created_at>
+  <updated_at>Tue May 14 13:50:31 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>74102755</id>
+  <body><![CDATA[Just re-read your review. Still AWESOME!!!]]></body>
+  
+  <user>
+    <id>993934</id>
+    <name>Noran</name>
+    <display_name>Noran Miss Pumkin</display_name>
+
+    <location>Hammond, IN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/993934-noran-miss-pumkin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1227657007p3/993934.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1227657007p2/993934.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue May 14 14:07:06 -0700 2013</created_at>
+  <updated_at>Tue May 14 14:07:06 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>74103426</id>
+  <body><![CDATA[<i>Noran wrote: "Just re-read your review. Still AWESOME!!!"</i><br /><br />Awww! Thank you!]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue May 14 14:18:38 -0700 2013</created_at>
+  <updated_at>Tue May 14 14:18:38 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>74104798</id>
+  <body><![CDATA[By gawd...slop can writing for those who like same.]]></body>
+  
+  <user>
+    <id>4708498</id>
+    <name>Sketchbook</name>
+    <display_name>Sketchbook</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4708498-sketchbook]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1296491148p3/4708498.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1296491148p2/4708498.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue May 14 14:41:57 -0700 2013</created_at>
+  <updated_at>Tue May 14 14:41:57 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>74104985</id>
+  <body><![CDATA[<i>Sketchbook wrote: "By gawd...slop can writing for those who like same."</i><br /><br />The book? The review? What? Give me some antecedents so I can either take or give offense.]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue May 14 14:44:58 -0700 2013</created_at>
+  <updated_at>Tue May 14 14:44:58 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>74105853</id>
+  <body><![CDATA[I object to any defense of a slopola-can novel. And I can get into all kinds of icky-novels. Not to worry. I was just farting aloud. ~~ I think it's better for iggynorants not to read at all, you see. Let 'em eat crabcakes. ~~ Never be a missionary.]]></body>
+  
+  <user>
+    <id>4708498</id>
+    <name>Sketchbook</name>
+    <display_name>Sketchbook</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4708498-sketchbook]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1296491148p3/4708498.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1296491148p2/4708498.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue May 14 14:58:23 -0700 2013</created_at>
+  <updated_at>Tue May 14 14:58:23 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>74106076</id>
+  <body><![CDATA[I like crabcakes. Let 'em eat corn on the cob, that's a suitable punishment. Or let 'em GET crabs. That sounds horrible!]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue May 14 15:02:14 -0700 2013</created_at>
+  <updated_at>Tue May 14 15:02:14 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>74106609</id>
+  <body><![CDATA[Thanks ! ~~ I sounded off as I read this novel long, long after it was a boogey-man-seller, and I thot it would have a widget of ...(?)...well, I hurled the paperback across the solarium. It shoulda been out the window ("Silver Linings" pic). ~~ I then had to eliminate the thot that thousands had allegedly "read" and liked this gastric disturbance. ~~ Yes : crabcakes.]]></body>
+  
+  <user>
+    <id>4708498</id>
+    <name>Sketchbook</name>
+    <display_name>Sketchbook</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4708498-sketchbook]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1296491148p3/4708498.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1296491148p2/4708498.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue May 14 15:09:57 -0700 2013</created_at>
+  <updated_at>Tue May 14 15:09:57 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>74107426</id>
+  <body><![CDATA[The last missonary in my family was beheaded by the Japanese during WW2. ~~ But this is neither here nor there.]]></body>
+  
+  <user>
+    <id>4708498</id>
+    <name>Sketchbook</name>
+    <display_name>Sketchbook</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4708498-sketchbook]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1296491148p3/4708498.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1296491148p2/4708498.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue May 14 15:24:08 -0700 2013</created_at>
+  <updated_at>Tue May 14 15:24:08 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>74123743</id>
+  <body><![CDATA[Nice review, and great comments re types of readers.<br /><br />I pretty much felt the same as you, Richard, about the book, but enjoyed it a bit more. (So I gave it a four, which I know is higher than most of my friends have given it. So I liked it, so what?)<br /><br />I did enjoy the (anti) religious aspect of the the plot, that's probably why it's 3.5 was bumped to four, can't remember.]]></body>
+  
+  <user>
+    <id>7213075</id>
+    <name>Ted</name>
+    <display_name>Ted</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7213075-ted]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1454099719p3/7213075.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1454099719p2/7213075.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue May 14 19:42:13 -0700 2013</created_at>
+  <updated_at>Tue May 14 19:42:13 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>74124597</id>
+  <body><![CDATA[<i>Sketchbook wrote: "The last missonary in my family was beheaded by the Japanese during WW2. ~~ But this is neither here nor there."</i><br /><br />A mark in favor of the Japanese, then.]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue May 14 19:56:47 -0700 2013</created_at>
+  <updated_at>Tue May 14 19:56:47 -0700 2013</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/108596593]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/108596593]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

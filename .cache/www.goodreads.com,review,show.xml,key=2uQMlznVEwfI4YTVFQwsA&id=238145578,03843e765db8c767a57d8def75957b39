@@ -1,0 +1,645 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:48:05 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: 6F5TSVRZ3X63GGJ1Y53N
+etag: W/"1b0a46932161a85ba0f67b632cab7b7d"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.274288
+set-cookie: csid=BAhJIhg5MjctNDc0OTAyNy0zNTAwNzQyBjoGRVQ%3D--71e0a263b2cb761ef8162a18d5bc38997fe4cd23; path=/; expires=Tue, 12 May 2037 13:48:05 -0000, locale=es; path=/, _session_id2=5068a3c136abf4f0e7c78c513937e7a6; path=/; expires=Fri, 12 May 2017 19:48:05 -0000; HttpOnly
+content-length: 26141
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=238145578
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>238145578</id>
+    
+  <user>
+    <id>4844873</id>
+    <name>Laura</name>
+    <display_name>Laura</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4844873-laura]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1299680097p3/4844873.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1299680097p2/4844873.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">6567017</id>
+  <isbn>0525421580</isbn>
+  <isbn13>9780525421580</isbn13>
+  <text_reviews_count type="integer">12896</text_reviews_count>
+  <title>Will Grayson, Will Grayson</title>
+  <title_without_series>Will Grayson, Will Grayson</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1368393890m/6567017.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1368393890s/6567017.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6567017-will-grayson-will-grayson</link>
+  <num_pages>310</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Dutton Books</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.85</average_rating>
+  <ratings_count>245304</ratings_count>
+  <description>Will Grayson meets Will Grayson. One cold night, in a most unlikely corner of Chicago, two strangers are about to cross paths. From that moment on, their world will collide and lives intertwine.&lt;br /&gt;&lt;br /&gt;It's not that far from Evanston to Naperville, but Chicago suburbanites Will Grayson and Will Grayson might as well live on different planets. When fate delivers them both to the same surprising crossroads, the Will Graysons find their lives overlapping and hurtling in new and unexpected directions. With a push from friends new and old - including the massive, and massively fabulous, Tiny Cooper, offensive lineman and musical theater auteur extraordinaire - Will and Will begin building toward respective romantic turns-of-heart and the epic production of history's most awesome high school musical.</description>
+<authors>
+<author>
+<id>1406384</id>
+<name>John Green</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>4528234</ratings_count>
+<text_reviews_count>275833</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">10860830</id>
+          <page type="integer">280</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Jan 27 06:26:34 -0800 2012</created_at>
+          <updated_at type="datetime">Sat Sep 07 15:10:12 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">90</percent>
+          <work_id type="integer">6759965</work_id>
+          <note_uri>kca://note/amzn1.grok.note.18222e4bc8690e473ecf40353f23fc3a</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Finally! A Dad in YA fiction I can be proud of—plus he made me giggle. :D]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">10845219</id>
+          <page type="integer">175</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Jan 26 14:38:55 -0800 2012</created_at>
+          <updated_at type="datetime">Sat Sep 07 14:57:29 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">2</ratings_count>
+          <percent type="integer">56</percent>
+          <work_id type="integer">6759965</work_id>
+          <note_uri>kca://note/amzn1.grok.note.d4d934766c4e92acdeca5e0c452dd9d6</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[I love these guys! I can’t remember getting into bed with two boys—haha…I swear that comment did not start out that dirty! Hehe….lost train of thought…]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">10813552</id>
+          <page type="integer">82</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Jan 25 10:42:24 -0800 2012</created_at>
+          <updated_at type="datetime">Sat Sep 07 00:12:23 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">26</percent>
+          <work_id type="integer">6759965</work_id>
+          <note_uri>kca://note/amzn1.grok.note.0fcd281db05b0f07f3cd4a2ffcd6dfec</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[“you could hold me, and I could hold you”]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">10807380</id>
+          <page type="integer">75</page>
+          <chapter type="integer"></chapter>
+          <comments_count>1</comments_count>
+          <created_at type="datetime">Wed Jan 25 05:39:33 -0800 2012</created_at>
+          <updated_at type="datetime">Sat Sep 07 14:21:34 -0700 2013</updated_at>
+          <last_comment_at type="datetime">Wed Jan 25 06:15:06 -0800 2012</last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">24</percent>
+          <work_id type="integer">6759965</work_id>
+          <note_uri>kca://note/amzn1.grok.note.7c9ff896952afa6804fd684f21b0fa36</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[I regret not getting a fake id. I feel like I missed a felony window. Now to check off commit a felony on my “to-do” list---well… I would have to commit a real felony. :)]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">10780563</id>
+          <page type="integer">33</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Jan 24 06:07:09 -0800 2012</created_at>
+          <updated_at type="datetime">Sat Sep 07 06:10:29 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">11</percent>
+          <work_id type="integer">6759965</work_id>
+          <note_uri>kca://note/amzn1.grok.note.de8884f0fe4e6a7d0a849ac85afa1859</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[There is something special about a big guy named Tiny. Just is! Hehe…It never fails to make me giggle! :D]]></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">1743057306</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Mon Mar 06 07:32:30 -0800 2017</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>4</rating>
+  <votes>24</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="kickass-ya-dads" exclusive="false" review_shelf_id="1589744792" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Jan 23 00:00:00 -0800 2012</started_at>
+  <read_at>Sat Jan 28 00:00:00 -0800 2012</read_at>
+  <date_added>Mon Nov 21 08:58:12 -0800 2011</date_added>
+  <date_updated>Mon Mar 06 07:32:31 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[There have been so many drafts of this review. SO many! Every single one seems to involve me rambling on and on, so my apologies in advance. :)<br /><br />John Green and David Levithan team up to write this colorful, energetic wonder of a tale chock full of love and music. A story of when one Will Grayson me...]]>
+  </body>
+
+  
+
+  <comments_count>19</comments_count>
+    <comments start="1" end="19" total="19">
+        <comment>
+  <id>43964566</id>
+  <body><![CDATA[Wooo!<br />*stalks*]]></body>
+  
+  <user>
+    <id>2467655</id>
+    <name>Jo</name>
+    <display_name>Jo</display_name>
+
+    <location><![CDATA[Manchester, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2467655-jo]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1327178091p3/2467655.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1327178091p2/2467655.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 23 06:26:02 -0800 2012</created_at>
+  <updated_at>Mon Jan 23 06:26:02 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>43966796</id>
+  <body><![CDATA[<i>Jo wrote: "Wooo!<br />*stalks*"</i><br /><br />Stalking &amp; coffee-they keep me going in the morning! :D]]></body>
+  
+  <user>
+    <id>4844873</id>
+    <name>Laura</name>
+    <display_name>Laura</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4844873-laura]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1299680097p3/4844873.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1299680097p2/4844873.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 23 07:24:56 -0800 2012</created_at>
+  <updated_at>Mon Jan 23 07:24:56 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>43969372</id>
+  <body><![CDATA[hope you enjoy! :D]]></body>
+  
+  <user>
+    <id>1491042</id>
+    <name>Aly (Fantasy4eva)</name>
+    <display_name>Aly (Fantasy4eva)</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1491042-aly-fantasy4eva]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1392555495p3/1491042.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1392555495p2/1491042.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 23 08:23:49 -0800 2012</created_at>
+  <updated_at>Mon Jan 23 08:23:49 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>43971747</id>
+  <body><![CDATA[Thanks Aly! I can’t wait to dive in to Levithan’s words again! &amp; This will be my first John Green. :)]]></body>
+  
+  <user>
+    <id>4844873</id>
+    <name>Laura</name>
+    <display_name>Laura</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4844873-laura]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1299680097p3/4844873.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1299680097p2/4844873.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 23 09:19:57 -0800 2012</created_at>
+  <updated_at>Mon Jan 23 09:19:57 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>44180379</id>
+  <body><![CDATA[nope not dirty AT ALL! lol]]></body>
+  
+  <user>
+    <id>2609997</id>
+    <name>Racquel</name>
+    <display_name>Racquel</display_name>
+
+    <location>Houston, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2609997-racquel]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1333411203p3/2609997.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1333411203p2/2609997.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 26 16:45:59 -0800 2012</created_at>
+  <updated_at>Thu Jan 26 16:45:59 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>50032897</id>
+  <body><![CDATA[Great review, Laura! This seems like a fabulous book. I look forward to reading it. :D]]></body>
+  
+  <user>
+    <id>2857113</id>
+    <name>Dija</name>
+    <display_name>Dija</display_name>
+
+    <location>Pakistan</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2857113-dija]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1360335537p3/2857113.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1360335537p2/2857113.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 05 23:51:44 -0700 2012</created_at>
+  <updated_at>Sat May 05 23:51:44 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>50042183</id>
+  <body><![CDATA[Omg so weird I never realized this was John Green!! I haven't ever read one of his books but this one's been on my wishlist! Great review, Laura! :)]]></body>
+  
+  <user>
+    <id>4800103</id>
+    <name>Giselle</name>
+    <display_name>Giselle</display_name>
+
+    <location> NB, Canada, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4800103-giselle]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1310159877p3/4800103.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1310159877p2/4800103.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 06 07:24:05 -0700 2012</created_at>
+  <updated_at>Sun May 06 07:24:05 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>50096152</id>
+  <body><![CDATA[Thank you everyone. I have been trying to backtrack and review some books that have been haunting me. Sometimes—even though I loved them—the words to say why—just escape me. So thank you for the encouragement. I was just going to give up, but these books IMO deserve some kind of review to show my love. This one especially. :) <br /><br />@Dija, Giselle, and Sam—Thanks Ladies! Hope you like the wills! :)<br />I hear ya Sam--<a class="jsShowSpoiler spoilerAction">(view spoiler)</a><span class="spoilerContainer" style="display: none">[The lack of John Green in my life was something else I got a lot of crap for. Not as much as Potter of course, but right up there! ;) <a class="jsHideSpoiler spoilerAction">(hide spoiler)</a>]</span>]]></body>
+  
+  <user>
+    <id>4844873</id>
+    <name>Laura</name>
+    <display_name>Laura</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4844873-laura]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1299680097p3/4844873.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1299680097p2/4844873.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon May 07 06:28:41 -0700 2012</created_at>
+  <updated_at>Mon May 07 06:28:41 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>63276812</id>
+  <body><![CDATA[Hey Laura! This one or Every Day to begin with? what do you say?]]></body>
+  
+  <user>
+    <id>8110617</id>
+    <name>Ilhem</name>
+    <display_name>Ilhem</display_name>
+
+    <location>France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8110617-ilhem]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1362861103p3/8110617.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1362861103p2/8110617.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Dec 10 09:40:42 -0800 2012</created_at>
+  <updated_at>Mon Dec 10 09:40:42 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>63281765</id>
+  <body><![CDATA[<i>Ilhem wrote: "Hey Laura! This one or Every Day to begin with? what do you say?"</i><br /><br />Hi Ilhem! That is such a tough question! Depends on your mood I think. Every day is more of a get in your head type read--you will not get straight up answers—it is more how you take the story to heart. Every Day is definitely my favorite Levithan. <br /><br />Will/will—I laughed, smiled, and danced a lot! Haha…Tiny Cooper is very fun—loved his energy. But just to warn you…<a class="jsShowSpoiler spoilerAction">(view spoiler)</a><span class="spoilerContainer" style="display: none">[Some readers find him overwhelming. So if you are not in the mood for constant energy and fun (he does have a dark side too though)—maybe wait on this one. Eek. I will shut up now. Don't want to spoil. <a class="jsHideSpoiler spoilerAction">(hide spoiler)</a>]</span><br />Please let me know which one you’re leaning towards &amp; end up picking up. But I’ll be stalking either way. ;)]]></body>
+  
+  <user>
+    <id>4844873</id>
+    <name>Laura</name>
+    <display_name>Laura</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4844873-laura]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1299680097p3/4844873.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1299680097p2/4844873.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Dec 10 11:23:04 -0800 2012</created_at>
+  <updated_at>Mon Dec 10 11:23:04 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>63282973</id>
+  <body><![CDATA[Thanks Laura. I already had an eye on David Levithan because of your reviews and Taylor gave me the final nudge. I reread your reviews and it will be Every Day.]]></body>
+  
+  <user>
+    <id>8110617</id>
+    <name>Ilhem</name>
+    <display_name>Ilhem</display_name>
+
+    <location>France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8110617-ilhem]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1362861103p3/8110617.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1362861103p2/8110617.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Dec 10 11:47:21 -0800 2012</created_at>
+  <updated_at>Mon Dec 10 11:47:21 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>63283182</id>
+  <body><![CDATA[Yay! Happy dance! Both are wonderful! But…Every Day is…well can’t wait to see what you think. *stalking mode standing by* :D]]></body>
+  
+  <user>
+    <id>4844873</id>
+    <name>Laura</name>
+    <display_name>Laura</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4844873-laura]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1299680097p3/4844873.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1299680097p2/4844873.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Dec 10 11:50:31 -0800 2012</created_at>
+  <updated_at>Mon Dec 10 11:50:31 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>63283385</id>
+  <body><![CDATA[Don't know when though, I had a plan.:D<br />Ow, do I hear another reading plan crashing?!!]]></body>
+  
+  <user>
+    <id>8110617</id>
+    <name>Ilhem</name>
+    <display_name>Ilhem</display_name>
+
+    <location>France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8110617-ilhem]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1362861103p3/8110617.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1362861103p2/8110617.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Dec 10 11:53:10 -0800 2012</created_at>
+  <updated_at>Mon Dec 10 11:53:10 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>63283661</id>
+  <body><![CDATA[<i>Ilhem wrote: "Don't know when though, I had a plan.:D Ow, do I hear another reading plan crashing?!!"</i><br /><br />LOL! I threw any and all plans out the window until next year! Haha…This time of year with all the craziness of the holidays—nothing goes to plan. Good luck!<br />*whispers* My plan for January is more Roan! Fingers crossed. But you know me and plans! ;)]]></body>
+  
+  <user>
+    <id>4844873</id>
+    <name>Laura</name>
+    <display_name>Laura</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4844873-laura]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1299680097p3/4844873.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1299680097p2/4844873.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Dec 10 11:58:49 -0800 2012</created_at>
+  <updated_at>Mon Dec 10 11:58:49 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>63283933</id>
+  <body><![CDATA[Fingers crossed, I'd like to reread the books by proxy with you. But yeah, who knows?;)]]></body>
+  
+  <user>
+    <id>8110617</id>
+    <name>Ilhem</name>
+    <display_name>Ilhem</display_name>
+
+    <location>France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8110617-ilhem]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1362861103p3/8110617.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1362861103p2/8110617.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Dec 10 12:03:42 -0800 2012</created_at>
+  <updated_at>Mon Dec 10 12:03:42 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>64995683</id>
+  <body><![CDATA[Aahhhh I have been finding the words to describe my feelings for this book but you have said it all laura! Maraming Salamat (thank you in filipino)! ❣◕ ‿ ◕❣]]></body>
+  
+  <user>
+    <id>12570390</id>
+    <name>Judy</name>
+    <display_name>Judy</display_name>
+
+    <location>Roxas City, F3, Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12570390-judy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1395137545p3/12570390.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1395137545p2/12570390.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 06 06:37:46 -0800 2013</created_at>
+  <updated_at>Sun Jan 06 06:37:46 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>65071259</id>
+  <body><![CDATA[<i>Judy wrote: "Aahhhh I have been finding the words to describe my feelings for this book but you have said it all laura! Maraming Salamat (thank you in filipino)! ❣◕ ‿ ◕❣"</i><br /><br />Hi Judy! Aw, thanks. Such a beautiful thank you. :) This is such a hard book to review—isn’t it?!! So much going on, so much to love! So happy you had fun with will, Will, and Tiny! Have a wonderful week. Gossip soon.]]></body>
+  
+  <user>
+    <id>4844873</id>
+    <name>Laura</name>
+    <display_name>Laura</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4844873-laura]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1299680097p3/4844873.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1299680097p2/4844873.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 07 07:24:37 -0800 2013</created_at>
+  <updated_at>Mon Jan 07 07:24:37 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>95673580</id>
+  <body><![CDATA[I love the book too and the message is epic it just didn't leave me with anything except for a line to share with my friend when I feel like fangirling: "give me some coffee" "get your own f*ing coffe" ahh john green. You may have ruined my life but you crack me up.]]></body>
+  
+  <user>
+    <id>26647103</id>
+    <name>Minimoule</name>
+    <display_name>Minimoule</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/26647103-minimoule]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1396629328p3/26647103.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1396629328p2/26647103.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Mar 30 13:19:42 -0700 2014</created_at>
+  <updated_at>Sun Mar 30 13:19:42 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95799225</id>
+  <body><![CDATA[LOL! So glad you had liked it too, Minimoule. Green and Levithan are two of my favorite YA voices. Now I want coffee.... :D]]></body>
+  
+  <user>
+    <id>4844873</id>
+    <name>Laura</name>
+    <display_name>Laura</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4844873-laura]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1299680097p3/4844873.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1299680097p2/4844873.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Apr 01 09:22:47 -0700 2014</created_at>
+  <updated_at>Tue Apr 01 09:22:47 -0700 2014</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/238145578]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/238145578]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

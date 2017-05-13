@@ -1,0 +1,210 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:56:31 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: B6BSJQ6PY0T3ZR33FVYB
+etag: W/"bc0556f7eec47337789f702ea60124ad"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.225880
+set-cookie: csid=BAhJIhgyMDItMDk2NTYzOS0zNDI0Njk1BjoGRVQ%3D--303e71e7695b3936f964a1c220f59ee5b21f3329; path=/; expires=Tue, 12 May 2037 13:56:30 -0000, locale=es; path=/, _session_id2=89c93e7287b7c5e6be06b85a6b9546d8; path=/; expires=Fri, 12 May 2017 19:56:31 -0000; HttpOnly
+content-length: 7820
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=1615577351
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1615577351</id>
+    
+  <user>
+    <id>14457130</id>
+    <name>Whitney</name>
+    <display_name>Whitney Atkinson</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14457130-whitney-atkinson]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493269691p3/14457130.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493269691p2/14457130.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">33537</id>
+  <isbn>0321399536</isbn>
+  <isbn13>9780321399533</isbn13>
+  <text_reviews_count type="integer">23</text_reviews_count>
+  <title>Frankenstein, A Longman Cultural Edition</title>
+  <title_without_series>Frankenstein, A Longman Cultural Edition</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/33537.Frankenstein_A_Longman_Cultural_Edition</link>
+  <num_pages></num_pages>
+  <format>Paperback</format>
+  <edition_information>2nd edition</edition_information>
+  <publisher>Longman</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.75</average_rating>
+  <ratings_count>861298</ratings_count>
+  <description>From the &lt;i&gt;Longman Cultural Editions&lt;/i&gt; series, this second edition of&lt;i&gt; Frankenstein &lt;/i&gt;presents Mary Shelley's remarkable novel in several provocative and illuminating contexts: cultural, critical, and literary. Series Editor Susan J. Wolfson presents the 1818 version of Mary Shelley's famous novel in its cultural and historical contexts. Like all great works of fiction, &lt;i&gt;Frankenstein&lt;/i&gt; gains depth and dimension from its "conversation" with contemporary texts, especially those by Shelley's own parents, husband, and friends. A lively introduction is complemented by a chronology coordinating Shelley's life with key historical events and a speculative calendar of the novel's events in the late eighteenth century. In addition to the 1818 text, this cultural edition features the introduction to and a sample revision of the 1831 version. New to this Edition is Frankentalk, a section of selected references to &lt;i&gt;Frankenstein&lt;/i&gt; in the popular press, and the complete text of Richard Brinsley Peake's &lt;i&gt;Frankenstein, A Romantic Drama&lt;/i&gt;, the first stage version of Frankenstein.</description>
+<authors>
+<author>
+<id>11139</id>
+<name>Mary Wollstonecraft Shelley</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p5/11139.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p2/11139.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/11139.Mary_Wollstonecraft_Shelley]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>884152</ratings_count>
+<text_reviews_count>20971</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1343612454</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Fri May 06 02:28:03 -0700 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1324133812</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Tue Apr 19 23:27:20 -0700 2016</updated_at>
+          <ratings_count>18</ratings_count>
+          <comments_count>3</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>90</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="favorites" exclusive="false" review_shelf_id="1383987399" sortable="false" />
+    <shelf name="2016" exclusive="false" review_shelf_id="1414287134" sortable="false" />
+    <shelf name="for-class" exclusive="false" review_shelf_id="1468663232" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Apr 19 00:00:00 -0700 2016</started_at>
+  <read_at>Fri May 06 16:56:56 -0700 2016</read_at>
+  <date_added>Tue Apr 19 23:27:19 -0700 2016</date_added>
+  <date_updated>Mon Nov 07 12:11:53 -0800 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[WOW.<br /><br />One of the most powerful books I have ever read that speaks so much about compassion and humanity. I feel on the verge of tears, it was so moving. This is like Phantom of the Opera times a thousand. And I love POTO.]]>
+  </body>
+
+  
+
+  <comments_count>3</comments_count>
+    <comments start="1" end="3" total="3">
+        <comment>
+  <id>151339202</id>
+  <body><![CDATA[This is my absolute favourite book! It's fantastic.]]></body>
+  
+  <user>
+    <id>12443452</id>
+    <name>Eleanor</name>
+    <display_name>Eleanor</display_name>
+
+    <location>Sydney, 02, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12443452-eleanor]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460094955p3/12443452.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460094955p2/12443452.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri May 06 15:24:50 -0700 2016</created_at>
+  <updated_at>Fri May 06 15:24:50 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151423483</id>
+  <body><![CDATA[Yes, yes, yes.]]></body>
+  
+  <user>
+    <id>4760396</id>
+    <name>Gabbi</name>
+    <display_name>Gabbi Zurlo</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4760396-gabbi-zurlo]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1403640323p3/4760396.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1403640323p2/4760396.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 08 20:37:29 -0700 2016</created_at>
+  <updated_at>Sun May 08 20:37:29 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>152059023</id>
+  <body><![CDATA[I just started this one really enjoying it so far.]]></body>
+  
+  <user>
+    <id>10498868</id>
+    <name>Linda</name>
+    <display_name>Linda Collings</display_name>
+
+    <location>Launceston, Tas, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10498868-linda-collings]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1340725584p3/10498868.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1340725584p2/10498868.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue May 24 05:04:05 -0700 2016</created_at>
+  <updated_at>Tue May 24 05:04:05 -0700 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1615577351]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1615577351]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

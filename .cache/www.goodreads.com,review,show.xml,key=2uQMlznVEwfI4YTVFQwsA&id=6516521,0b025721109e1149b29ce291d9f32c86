@@ -1,0 +1,128 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:51:57 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: RCRTS7XRW1C8PK95D44T
+etag: W/"14cfef06d2f13f8ec81e1796c7b74670"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.304344
+set-cookie: csid=BAhJIhg4NTUtMDYxNzQ1NS0xODQwNjUzBjoGRVQ%3D--eee98365fc0441b07adce721480071c92118e216; path=/; expires=Tue, 12 May 2037 13:51:57 -0000, locale=es; path=/, _session_id2=a0c9a4659ccff2dca4d46aa2e27e5d84; path=/; expires=Fri, 12 May 2017 19:51:57 -0000; HttpOnly
+content-length: 5340
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=6516521
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>6516521</id>
+    
+  <user>
+    <id>393074</id>
+    <name>Meredith</name>
+    <display_name>Meredith</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/393074-meredith]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1190263670p3/393074.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1190263670p2/393074.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">30119</id>
+  <isbn>0060513039</isbn>
+  <isbn13>9780060513030</isbn13>
+  <text_reviews_count type="integer">8698</text_reviews_count>
+  <title>Where the Sidewalk Ends</title>
+  <title_without_series>Where the Sidewalk Ends</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1168052448m/30119.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1168052448s/30119.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/30119.Where_the_Sidewalk_Ends</link>
+  <num_pages>176</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Harpercollins Childrens Books</publisher>
+  <publication_day/>
+  <publication_year>2002</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4.28</average_rating>
+  <ratings_count>1010776</ratings_count>
+  <description>Where the Sidewalk Ends turns forty! Celebrate with this anniversary edition that features an eye-catching commemorative red sticker. This classic poetry collection, which is both outrageously funny and profound, has been the most beloved of Shel Silverstein's poetry books for generations.&lt;br /&gt;&lt;br /&gt;Where the sidewalk ends, Shel Silverstein's world begins. There you'll meet a boy who turns into a TV set and a girl who eats a whale. The Unicorn and the Bloath live there, and so does Sarah Cynthia Sylvia Stout who will not take the garbage out. It is a place where you wash your shadow and plant diamond gardens, a place where shoes fly, sisters are auctioned off, and crocodiles go to the dentist.&lt;br /&gt;&lt;br /&gt;Shel Silverstein's masterful collection of poems and drawings is one of Parent &amp;amp; Child magazine's 100 Greatest Books for Kids. School Library Journal said, "Silverstein has an excellent sense of rhythm and rhyme and a good ear for alliteration and assonance that make these poems a pleasure to read aloud."&lt;br /&gt;&lt;br /&gt;Shel Silverstein's incomparable career as a children's book author and illustrator began with Lafcadio, the Lion Who Shot Back. In 1964, Shel's creativity continued to flourish as four more books were published in the same year—Don't Bump the Glump!, A Giraffe and a Half, Who Wants a Cheap Rhinoceros?, and the beloved classic The Giving Tree. Later he continued to build his remarkable body of work with Where the Sidewalk Ends, A Light in the Attic, Falling Up, Every Thing On It, The Missing Piece, The Missing Piece Meets the Big O, and Runny Babbit.</description>
+<authors>
+<author>
+<id>435477</id>
+<name>Shel Silverstein</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201029128p5/435477.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201029128p2/435477.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/435477.Shel_Silverstein]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>2185897</ratings_count>
+<text_reviews_count>30409</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1310918892</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sat Apr 09 12:30:04 -0700 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>12</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Mon Jan 01 00:00:00 -0800 2007</read_at>
+  <date_added>Thu Sep 20 18:09:45 -0700 2007</date_added>
+  <date_updated>Thu Sep 20 18:11:34 -0700 2007</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Incredibly entertaining poems. I do a poem a week with my 2nd graders, and our current one is Melinda Mae. Let's see if I can remember it from the top of my head:<br /><br />"Have you heard of tiny Melinda Mae<br />who ate a monstrous whale?<br />She thought she could, she said she would<br />So she started in right at the ta...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/6516521]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/6516521]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

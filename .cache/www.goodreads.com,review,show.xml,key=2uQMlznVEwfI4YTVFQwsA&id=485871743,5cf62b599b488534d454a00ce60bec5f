@@ -1,0 +1,573 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:47:23 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: S4QG54ERZXJXTPNAYZGM
+etag: W/"e9713f0bd51ed403915e5ec1e9af99fa"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.267452
+set-cookie: csid=BAhJIhg3NTktNTEyOTU1Ni05MDM0MzUzBjoGRVQ%3D--d7e34450e9771d107f542992488fa226aeca30df; path=/; expires=Tue, 12 May 2037 13:47:23 -0000, locale=es; path=/, _session_id2=76f27043a61d4fefec787985332b891d; path=/; expires=Fri, 12 May 2017 19:47:23 -0000; HttpOnly
+content-length: 25345
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=485871743
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>485871743</id>
+    
+  <user>
+    <id>3977017</id>
+    <name>julio</name>
+    <display_name>julio</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3977017-julio]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442881106p3/3977017.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442881106p2/3977017.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">6567017</id>
+  <isbn>0525421580</isbn>
+  <isbn13>9780525421580</isbn13>
+  <text_reviews_count type="integer">12896</text_reviews_count>
+  <title>Will Grayson, Will Grayson</title>
+  <title_without_series>Will Grayson, Will Grayson</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1368393890m/6567017.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1368393890s/6567017.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6567017-will-grayson-will-grayson</link>
+  <num_pages>310</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Dutton Books</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.85</average_rating>
+  <ratings_count>245304</ratings_count>
+  <description>Will Grayson meets Will Grayson. One cold night, in a most unlikely corner of Chicago, two strangers are about to cross paths. From that moment on, their world will collide and lives intertwine.&lt;br /&gt;&lt;br /&gt;It's not that far from Evanston to Naperville, but Chicago suburbanites Will Grayson and Will Grayson might as well live on different planets. When fate delivers them both to the same surprising crossroads, the Will Graysons find their lives overlapping and hurtling in new and unexpected directions. With a push from friends new and old - including the massive, and massively fabulous, Tiny Cooper, offensive lineman and musical theater auteur extraordinaire - Will and Will begin building toward respective romantic turns-of-heart and the epic production of history's most awesome high school musical.</description>
+<authors>
+<author>
+<id>1406384</id>
+<name>John Green</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>4528234</ratings_count>
+<text_reviews_count>275833</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">25219932</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Mar 21 02:55:04 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 00:39:25 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">100</percent>
+          <work_id type="integer">6759965</work_id>
+          <note_uri>kca://note/amzn1.grok.note.64112f5f7073c4fe2d0096d8202f4005</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[“he may be heavy, but right now he floats.” *sobbing* Thought so,]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">25219064</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Mar 21 02:03:37 -0700 2013</created_at>
+          <updated_at type="datetime">Sun Sep 08 03:33:26 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">3</ratings_count>
+          <percent type="integer">80</percent>
+          <work_id type="integer">6759965</work_id>
+          <note_uri>kca://note/amzn1.grok.note.7ff8d2a707a9bf6c1d821ca81f335f17</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[I suddenly have the most horrid sneaking suspicion that the comma between Will Grayson and will grayson is short for 'tiny cooper,' and that this novel isn't really about either dumbass grayson at all.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">25218761</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Mar 21 01:44:29 -0700 2013</created_at>
+          <updated_at type="datetime">Sun Sep 08 03:33:07 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">3</ratings_count>
+          <percent type="integer">75</percent>
+          <work_id type="integer">6759965</work_id>
+          <note_uri>kca://note/amzn1.grok.note.60254426c42f68da0fbddd92290d6215</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[“me: why are you treating him like someone who dumped you? tiny: i’m not! me: you don’t even know him. tiny: i know his type. me: what type? tiny: the wispy cute type. they’re /poison/.” It's like clockwork. I'm still bleakly mulling over whatever devastating truth from the previous page when a joke no less truthful for its silliness makes me simper like an idiot. So damned good.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">25216281</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Mar 20 23:25:01 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 00:29:19 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">6</ratings_count>
+          <percent type="integer">65</percent>
+          <work_id type="integer">6759965</work_id>
+          <note_uri>kca://note/amzn1.grok.note.9d8b24c9deb90646d02534c87559f507</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[“mom gestures him over to the couch and asks him if he wants anything to drink. mom: we have coke, diet coke, lemonade, orange juice - tiny: ooh, i love lemonade. me: it’s not real lemonade. it’s just lemon-flavored crystal light. both mom and tiny look at me like i’m the fucking grinch. me: i didn’t want you to get all excited for real lemonade!” I love. This book. So much.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">25209823</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Mar 20 19:56:30 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 00:12:38 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">5</ratings_count>
+          <percent type="integer">62</percent>
+          <work_id type="integer">6759965</work_id>
+          <note_uri>kca://note/amzn1.grok.note.5af76cfdc92e5d5edefdafe62fe75f22</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[“But for many years afterward, sometimes I would get Marvin out of the closet and just hang out with him for a while—not for me, but for Marvin. I realized it was crazy, but I still did it. And the thing I wanted to say to Tiny is that sometimes, I feel like his Marvin.” *gutted*]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">25208985</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Mar 20 19:38:04 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 00:09:48 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">2</ratings_count>
+          <percent type="integer">58</percent>
+          <work_id type="integer">6759965</work_id>
+          <note_uri>kca://note/amzn1.grok.note.1fbcc4b9028a63a83e2fc456c1d1a0fe</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[“me: why don’t you sit with me and simon and derek at lunch? gideon: are they gay, too? me: only if you’re a warlock.” Dying. I mean—yes, still dying in the way we are all continually shambling toward death—but also as in /dying of laughter/.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">25208725</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Mar 20 19:32:18 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 00:09:05 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">2</ratings_count>
+          <percent type="integer">57</percent>
+          <work_id type="integer">6759965</work_id>
+          <note_uri>kca://note/amzn1.grok.note.0a225dc955c5fba5bd92ff78e761e4d0</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[“simon: did you tell him that? derek: i didn’t tell him anything! me: i figured it out myself. honestly. simon: it’s only the girl characters. derek: and some warlocks! simon: SHUT UP!” *idly sketching pictures of me making out with this book, in my TrapperKeeper, over and over, encircled by tiny hearts*]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">25208251</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Mar 20 19:21:32 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 00:07:37 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">57</percent>
+          <work_id type="integer">6759965</work_id>
+          <note_uri>kca://note/amzn1.grok.note.3e776564c58ea7c97dfa5b73fcfd910e</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[“let her feel the pain her poetry desires. it has nothing to do with me.” i.e., good fo' dat bitch, ain't nobody got time fo' dat.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">25198954</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>4</comments_count>
+          <created_at type="datetime">Wed Mar 20 15:21:16 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 07:25:11 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">6</ratings_count>
+          <percent type="integer">44</percent>
+          <work_id type="integer">6759965</work_id>
+          <note_uri>kca://note/amzn1.grok.note.bfddecb499d5fd07a07c85ab26ff9804</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[“I’ve never known before what it feels like to want someone—not to want to hook up with them or whatever, but to /want/ them, to want /them/. And now I do. So maybe I do believe in epiphanies.” This.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">25192960</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Mar 20 12:53:29 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 07:14:50 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">40</percent>
+          <work_id type="integer">6759965</work_id>
+          <note_uri>kca://note/amzn1.grok.note.a8c80f5f597e12f44972534bcfeb0438</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Oh, Maura. Maura, Maura, Maura.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">25054351</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>6</comments_count>
+          <created_at type="datetime">Sun Mar 17 13:56:45 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 02:07:16 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">13</ratings_count>
+          <percent type="integer">16</percent>
+          <work_id type="integer">6759965</work_id>
+          <note_uri>kca://note/amzn1.grok.note.370795b828ade9a5128c49c3f961591c</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[“Tiny Cooper is splayed out across the thin carpet, using his backpack as a pillow. He’s wearing skinny jeans, which look very much like denim sausage casings. At this moment, the three of us constitute the Gay-Straight Alliance.” I want to make sweet, sweet love to the words in this book, and make Dominican-word babies with it, and send them out into the world to break hearts and make people lawl so hard.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">25048802</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>1</comments_count>
+          <created_at type="datetime">Sun Mar 17 11:37:08 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 01:51:26 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">7</ratings_count>
+          <percent type="integer">15</percent>
+          <work_id type="integer">6759965</work_id>
+          <note_uri>kca://note/amzn1.grok.note.63b6115571d4f9d5d45769b5c07818eb</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Reading about Tiny makes me howl like a drunken hillbilly.]]></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">61560415</id>
+          <old_status>read</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Fri Jun 21 23:58:29 -0700 2013</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>4</rating>
+  <votes>65</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for>My mother.</recommended_for>
+  <recommended_by>Lenore</recommended_by>
+  <started_at>Sat Mar 16 00:00:00 -0700 2013</started_at>
+  <read_at>Thu Mar 21 00:00:00 -0700 2013</read_at>
+  <date_added>Wed Dec 26 13:59:09 -0800 2012</date_added>
+  <date_updated>Mon Mar 17 14:42:50 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<b>Remarkable both for its polished wit and intense compassion, this is a story about three things: honesty, bravery—and Tiny Cooper.</b><br /><br />Mostly Tiny Cooper, though. He's the comma between the dumbass Graysons, y'see.<br /><br />Extravagantly emotional even in its hipster self-possession, this thing runs deep and wi...]]>
+  </body>
+
+  
+
+  <comments_count>12</comments_count>
+    <comments start="1" end="12" total="12">
+        <comment>
+  <id>70290567</id>
+  <body><![CDATA[Oh! I'm glad you liked it. :) <br />When did I recommend it to you?]]></body>
+  
+  <user>
+    <id>5299266</id>
+    <name>Lenore</name>
+    <display_name>Lenore</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5299266-lenore]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1398118638p3/5299266.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1398118638p2/5299266.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Mar 21 03:26:12 -0700 2013</created_at>
+  <updated_at>Thu Mar 21 03:26:12 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>70290704</id>
+  <body><![CDATA[Somewhere back in the summer, or whenever it was you lot were doing the buddy-read. I wish I could go back in time and have read it with you. This one's special to me.]]></body>
+  
+  <user>
+    <id>3977017</id>
+    <name>julio</name>
+    <display_name>julio</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3977017-julio]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442881106p3/3977017.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442881106p2/3977017.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Mar 21 03:31:09 -0700 2013</created_at>
+  <updated_at>Thu Mar 21 03:31:09 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>70290773</id>
+  <body><![CDATA[You eventually read it and you liked it. That's what matters most.]]></body>
+  
+  <user>
+    <id>5299266</id>
+    <name>Lenore</name>
+    <display_name>Lenore</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5299266-lenore]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1398118638p3/5299266.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1398118638p2/5299266.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Mar 21 03:33:50 -0700 2013</created_at>
+  <updated_at>Thu Mar 21 03:33:50 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>70290919</id>
+  <body><![CDATA[I've got a vicious headache from the blubbering and the...and the... oh fuckity, here it comes again]]></body>
+  
+  <user>
+    <id>3977017</id>
+    <name>julio</name>
+    <display_name>julio</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3977017-julio]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442881106p3/3977017.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442881106p2/3977017.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Mar 21 03:39:21 -0700 2013</created_at>
+  <updated_at>Thu Mar 21 03:39:21 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>70290950</id>
+  <body><![CDATA[:) It's a good book.]]></body>
+  
+  <user>
+    <id>5299266</id>
+    <name>Lenore</name>
+    <display_name>Lenore</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5299266-lenore]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1398118638p3/5299266.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1398118638p2/5299266.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Mar 21 03:40:33 -0700 2013</created_at>
+  <updated_at>Thu Mar 21 03:40:33 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>70300554</id>
+  <body><![CDATA[It <i>is </i> a good book.]]></body>
+  
+  <created_at>Thu Mar 21 07:39:43 -0700 2013</created_at>
+  <updated_at>Thu Mar 21 07:39:43 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>70301027</id>
+  <body><![CDATA[OK, your Evilness. OK!]]></body>
+  
+  <user>
+    <id>5299266</id>
+    <name>Lenore</name>
+    <display_name>Lenore</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5299266-lenore]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1398118638p3/5299266.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1398118638p2/5299266.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Mar 21 07:47:56 -0700 2013</created_at>
+  <updated_at>Thu Mar 21 07:47:56 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>90458715</id>
+  <body><![CDATA[I'm about to check it out just because of u and ur damned Kushiel's Dart quote. Damn u! ;)]]></body>
+  
+  <user>
+    <id>3670048</id>
+    <name>Erika </name>
+    <display_name>Erika </display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3670048-erika]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460667770p3/3670048.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460667770p2/3670048.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 10 22:20:22 -0800 2014</created_at>
+  <updated_at>Fri Jan 10 22:20:22 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90481201</id>
+  <body><![CDATA[i really liked it—but it's not a fantasy like <a href="https://www.goodreads.com/book/show/153008.Kushiel_s_Dart__Ph_dre_s_Trilogy___1_" title="Kushiel's Dart (Phèdre's Trilogy, #1) by Jacqueline Carey" rel="nofollow">Kushiel's Dart</a> was. gay YA coming of whatever. but very good]]></body>
+  
+  <user>
+    <id>3977017</id>
+    <name>julio</name>
+    <display_name>julio</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3977017-julio]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442881106p3/3977017.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442881106p2/3977017.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 11 10:10:32 -0800 2014</created_at>
+  <updated_at>Sat Jan 11 10:10:32 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>96296342</id>
+  <body><![CDATA[Think you can get your mom to read it?]]></body>
+  
+  <user>
+    <id>5583595</id>
+    <name>Anna  (Bananas!)</name>
+    <display_name>Anna  (Bananas!)</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5583595-anna-bananas]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1485727872p3/5583595.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1485727872p2/5583595.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Apr 08 19:32:02 -0700 2014</created_at>
+  <updated_at>Tue Apr 08 19:32:02 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>96303158</id>
+  <body><![CDATA[probably not. she's not much for books that aren't 'edifying']]></body>
+  
+  <user>
+    <id>3977017</id>
+    <name>julio</name>
+    <display_name>julio</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3977017-julio]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442881106p3/3977017.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442881106p2/3977017.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Apr 08 21:47:20 -0700 2014</created_at>
+  <updated_at>Tue Apr 08 21:47:20 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>119030515</id>
+  <body><![CDATA[:/]]></body>
+  
+  <user>
+    <id>5583595</id>
+    <name>Anna  (Bananas!)</name>
+    <display_name>Anna  (Bananas!)</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5583595-anna-bananas]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1485727872p3/5583595.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1485727872p2/5583595.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 10 20:01:54 -0700 2015</created_at>
+  <updated_at>Sun May 10 20:01:54 -0700 2015</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/485871743]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/485871743]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

@@ -1,0 +1,1302 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:45:15 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: M3ZCWNPYQQA30SD3Z6DH
+etag: W/"69fe27d909844a0c79ba1ca51891053a"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.387140
+set-cookie: csid=BAhJIhg4MzgtMTQyNDczMS00OTUwMDU1BjoGRVQ%3D--ddc506d1d7c0605b3ad962ce92dda3806eb3f2b4; path=/; expires=Tue, 12 May 2037 13:45:15 -0000, locale=es; path=/, _session_id2=2c727f5c356d4b6212cb1f6934934ee5; path=/; expires=Fri, 12 May 2017 19:45:15 -0000; HttpOnly
+content-length: 47293
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=1616676491
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1616676491</id>
+    
+  <user>
+    <id>3639005</id>
+    <name>Candi</name>
+    <display_name>Candi</display_name>
+
+    <location>Victor, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3639005-candi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1409332672p3/3639005.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1409332672p2/3639005.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">1617</id>
+  <isbn>0374500010</isbn>
+  <isbn13>9780374500016</isbn13>
+  <text_reviews_count type="integer">20044</text_reviews_count>
+  <title>Night</title>
+  <title_without_series>Night</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1473495285m/1617.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1473495285s/1617.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1617.Night</link>
+  <num_pages>120</num_pages>
+  <format>Paperback</format>
+  <edition_information>First Printing Edition</edition_information>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.29</average_rating>
+  <ratings_count>686554</ratings_count>
+  <description>&lt;i&gt;Night&lt;/i&gt; is Elie Wiesel's masterpiece, a candid, horrific, and deeply poignant autobiographical account of his survival as a teenager in the Nazi death camps. This new translation by Marion Wiesel, Elie's wife and frequent translator, presents this seminal memoir in the language and spirit truest to the author's original intent. And in a substantive new preface, Elie reflects on the enduring importance of Night and his lifelong, passionate dedication to ensuring that the world never forgets man's capacity for inhumanity to man.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Night&lt;/i&gt; offers much more than a litany of the daily terrors, everyday perversions, and rampant sadism at Auschwitz and Buchenwald; it also eloquently addresses many of the philosophical as well as personal questions implicit in any serious consideration of what the Holocaust was, what it meant, and what its legacy is and will be.</description>
+<authors>
+<author>
+<id>1049</id>
+<name>Elie Wiesel</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1255518412p5/1049.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1255518412p2/1049.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1049.Elie_Wiesel]]></link>
+<average_rating>4.27</average_rating>
+<ratings_count>722830</ratings_count>
+<text_reviews_count>24668</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1428030494</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Mon Jul 11 19:52:42 -0700 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1419994637</id>
+          <old_status>to-read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Tue Jul 05 18:08:07 -0700 2016</updated_at>
+          <ratings_count>6</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1325563638</id>
+          <old_status></old_status>
+          <status>to-read</status>
+          <updated_at type="datetime">Thu Apr 21 06:36:01 -0700 2016</updated_at>
+          <ratings_count>7</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>111</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="classics-shelf" exclusive="false" review_shelf_id="1289813499" sortable="false" />
+    <shelf name="book-i-own" exclusive="false" review_shelf_id="1291333865" sortable="false" />
+    <shelf name="biography-autobiography" exclusive="false" review_shelf_id="1289813116" sortable="false" />
+    <shelf name="non-fiction" exclusive="false" review_shelf_id="1289813052" sortable="false" />
+    <shelf name="ww-2" exclusive="false" review_shelf_id="1289813444" sortable="false" />
+    <shelf name="favorites" exclusive="false" review_shelf_id="1610042927" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Jul 05 00:00:00 -0700 2016</started_at>
+  <read_at>Mon Jul 11 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Apr 21 06:36:00 -0700 2016</date_added>
+  <date_updated>Mon Mar 27 16:29:23 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[<i>"I was the accuser, God the accused. My eyes had opened and I was alone, terribly alone in a world without God, without man. Without love or mercy."</i><br /><br />These words and this book just tore at my heart. I have seen <b>Night</b>, have heard of <b>Night</b> for many years now. I waited to read it, unsure what I could...]]>
+  </body>
+
+  
+
+  <comments_count>53</comments_count>
+    <comments start="1" end="50" total="53">
+        <comment>
+  <id>155268785</id>
+  <body><![CDATA[Wonderful, heartfelt review, Candi! I'm going to put this on my Amazon list.]]></body>
+  
+  <user>
+    <id>17438949</id>
+    <name>Melissa ♥ Dog Lover ♥</name>
+    <display_name>Melissa ♥ Dog Lover ♥ Martin</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17438949-melissa-dog-lover-martin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1443551632p3/17438949.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1443551632p2/17438949.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 07 14:10:53 -0700 2016</created_at>
+  <updated_at>Sun Aug 07 14:10:53 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155269077</id>
+  <body><![CDATA[Beautiful review, Candi. This sounds so important, but yet so horrifying. it's on my list.... Love how you articulated your reaction.]]></body>
+  
+  <user>
+    <id>35084560</id>
+    <name>Stephanie</name>
+    <display_name>Stephanie</display_name>
+
+    <location>Palatine, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/35084560-stephanie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1432698556p3/35084560.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1432698556p2/35084560.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 07 14:18:55 -0700 2016</created_at>
+  <updated_at>Sun Aug 07 14:18:55 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155269210</id>
+  <body><![CDATA[I just added it to my Amazon wishlist. The paperback is live $5 and some change!]]></body>
+  
+  <user>
+    <id>17438949</id>
+    <name>Melissa ♥ Dog Lover ♥</name>
+    <display_name>Melissa ♥ Dog Lover ♥ Martin</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17438949-melissa-dog-lover-martin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1443551632p3/17438949.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1443551632p2/17438949.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 07 14:23:14 -0700 2016</created_at>
+  <updated_at>Sun Aug 07 14:23:14 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155269325</id>
+  <body><![CDATA[Excellent, Candi an unforgettable book, unforgettable man.]]></body>
+  
+  <user>
+    <id>4159922</id>
+    <name>Diane S ☔</name>
+    <display_name>Diane S ☔</display_name>
+
+    <location>Batavia, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4159922-diane-s]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1494119939p3/4159922.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1494119939p2/4159922.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 07 14:27:50 -0700 2016</created_at>
+  <updated_at>Sun Aug 07 14:27:50 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155270548</id>
+  <body><![CDATA[Candi , amazing review , especially with your personal perspective with your son reading it .]]></body>
+  
+  <user>
+    <id>4685500</id>
+    <name>Angela M</name>
+    <display_name>Angela M</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4685500-angela-m]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1482282626p3/4685500.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1482282626p2/4685500.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 07 15:10:33 -0700 2016</created_at>
+  <updated_at>Sun Aug 07 15:10:33 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155271700</id>
+  <body><![CDATA[THAT was a powerful review! Amazing!]]></body>
+  
+  <user>
+    <id>7262060</id>
+    <name>Diane</name>
+    <display_name>Diane Barnes</display_name>
+
+    <location>Mount Pleasant, SC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7262060-diane-barnes]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1329773692p3/7262060.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1329773692p2/7262060.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 07 15:49:40 -0700 2016</created_at>
+  <updated_at>Sun Aug 07 15:49:40 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155273180</id>
+  <body><![CDATA[Great review, Candi. It was an amazingly sad and disturbing read.]]></body>
+  
+  <user>
+    <id>27709782</id>
+    <name>Jen</name>
+    <display_name>Jen</display_name>
+
+    <location>Toronto, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27709782-jen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1427578769p3/27709782.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1427578769p2/27709782.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 07 16:46:03 -0700 2016</created_at>
+  <updated_at>Sun Aug 07 16:46:03 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155273229</id>
+  <body><![CDATA[Candi! What a fantastic review. thank you :)]]></body>
+  
+  <user>
+    <id>3195534</id>
+    <name>Melanie</name>
+    <display_name>Melanie</display_name>
+
+    <location>Osseo, MN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3195534-melanie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1477422143p3/3195534.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1477422143p2/3195534.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 07 16:47:56 -0700 2016</created_at>
+  <updated_at>Sun Aug 07 16:47:56 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155276561</id>
+  <body><![CDATA[Excellent Candi. Except that I have yet to read it, your words could have come straight out of my mouth.]]></body>
+  
+  <user>
+    <id>22600410</id>
+    <name>Cathrine ☯ </name>
+    <display_name>Cathrine ☯ </display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22600410-cathrine]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1494361929p3/22600410.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1494361929p2/22600410.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 07 18:44:36 -0700 2016</created_at>
+  <updated_at>Sun Aug 07 18:44:36 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155279390</id>
+  <body><![CDATA[Great review, and gives me even more reason to ignore the same things you were telling yourself that I've been guilty of telling myself - I've already read so much of this horror. But I obviously haven't. Thanks.]]></body>
+  
+  <user>
+    <id>1128612</id>
+    <name>PattyMacDotComma</name>
+    <display_name>PattyMacDotComma</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1128612-pattymacdotcomma]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483271784p3/1128612.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483271784p2/1128612.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 07 20:18:32 -0700 2016</created_at>
+  <updated_at>Sun Aug 07 20:18:32 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155279872</id>
+  <body><![CDATA[<i>Melissa wrote: "Wonderful, heartfelt review, Candi! I'm going to put this on my Amazon list."</i><br /><br />Thank you, Melissa! I hope that you get a chance to read this book. It will move you.]]></body>
+  
+  <user>
+    <id>3639005</id>
+    <name>Candi</name>
+    <display_name>Candi</display_name>
+
+    <location>Victor, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3639005-candi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1409332672p3/3639005.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1409332672p2/3639005.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 07 20:34:59 -0700 2016</created_at>
+  <updated_at>Sun Aug 07 20:34:59 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155279911</id>
+  <body><![CDATA[<i>Stephanie wrote: "Beautiful review, Candi. This sounds so important, but yet so horrifying. it's on my list.... Love how you articulated your reaction."</i><br /><br />Thanks, Stephanie. I finished this a month ago and finally had a chance to write my "review". Then I thought, this book doesn't need to be reviewed in the true sense. It needs to be felt and experienced and shared.]]></body>
+  
+  <user>
+    <id>3639005</id>
+    <name>Candi</name>
+    <display_name>Candi</display_name>
+
+    <location>Victor, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3639005-candi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1409332672p3/3639005.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1409332672p2/3639005.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 07 20:36:48 -0700 2016</created_at>
+  <updated_at>Sun Aug 07 20:36:48 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155279950</id>
+  <body><![CDATA[<i>Diane S ☔ wrote: "Excellent, Candi an unforgettable book, unforgettable man."</i><br /><br />Diane, thank you. Without a doubt, this is unforgettable. I have thought about this book so many times since I finished the last page. I know that I will continue to do so.]]></body>
+  
+  <user>
+    <id>3639005</id>
+    <name>Candi</name>
+    <display_name>Candi</display_name>
+
+    <location>Victor, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3639005-candi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1409332672p3/3639005.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1409332672p2/3639005.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 07 20:38:03 -0700 2016</created_at>
+  <updated_at>Sun Aug 07 20:38:03 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155280017</id>
+  <body><![CDATA[<i>Angela M wrote: "Candi , amazing review , especially with your personal perspective with your son reading it ."</i><br /><br />Thank you, Angela! Sharing it with my son was something very special to me. I could tell that he was affected by this book. I am anxious to read his paper when he has finished writing it - this will add even more to my experience.]]></body>
+  
+  <user>
+    <id>3639005</id>
+    <name>Candi</name>
+    <display_name>Candi</display_name>
+
+    <location>Victor, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3639005-candi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1409332672p3/3639005.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1409332672p2/3639005.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 07 20:40:24 -0700 2016</created_at>
+  <updated_at>Sun Aug 07 20:40:24 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155280084</id>
+  <body><![CDATA[<i>Diane wrote: "THAT was a powerful review! Amazing!"</i><br /><br />Diane, thanks so much! It is sometimes hard to express my feelings towards such a powerful book!]]></body>
+  
+  <user>
+    <id>3639005</id>
+    <name>Candi</name>
+    <display_name>Candi</display_name>
+
+    <location>Victor, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3639005-candi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1409332672p3/3639005.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1409332672p2/3639005.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 07 20:42:21 -0700 2016</created_at>
+  <updated_at>Sun Aug 07 20:42:21 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155280116</id>
+  <body><![CDATA[<i>Jen wrote: "Great review, Candi. It was an amazingly sad and disturbing read."</i><br /><br />Thank you, Jen. You hit the nail on the head - sad and disturbing and a myriad of feelings that seem to linger way after finishing this book.]]></body>
+  
+  <user>
+    <id>3639005</id>
+    <name>Candi</name>
+    <display_name>Candi</display_name>
+
+    <location>Victor, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3639005-candi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1409332672p3/3639005.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1409332672p2/3639005.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 07 20:43:30 -0700 2016</created_at>
+  <updated_at>Sun Aug 07 20:43:30 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155280170</id>
+  <body><![CDATA[<i>Melanie wrote: "Candi! What a fantastic review. thank you :)"</i><br /><br />Thank you, Melanie! I hope you get a chance to read this one of these days.]]></body>
+  
+  <user>
+    <id>3639005</id>
+    <name>Candi</name>
+    <display_name>Candi</display_name>
+
+    <location>Victor, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3639005-candi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1409332672p3/3639005.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1409332672p2/3639005.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 07 20:45:25 -0700 2016</created_at>
+  <updated_at>Sun Aug 07 20:45:25 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155280191</id>
+  <body><![CDATA[<i>Cathrine ☯ wrote: "Excellent Candi. Accept that I have yet to read it, your words could have come straight out of my mouth."</i><br /><br />Thanks, Cathrine! Glad I articulated my thoughts well enough - wasn't sure if I was successful or not!]]></body>
+  
+  <user>
+    <id>3639005</id>
+    <name>Candi</name>
+    <display_name>Candi</display_name>
+
+    <location>Victor, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3639005-candi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1409332672p3/3639005.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1409332672p2/3639005.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 07 20:46:24 -0700 2016</created_at>
+  <updated_at>Sun Aug 07 20:46:24 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155280254</id>
+  <body><![CDATA[<i>PattyMacDotComma wrote: "Great review, and gives me even more reason to ignore the same things you were telling yourself that I've been guilty of telling myself - I've already read so much of this horror. But I obviously h..."</i><br /><br />Patty, thank you :) Each personal story brings another layer to this horror and to the understanding of mankind, faith, etc. Just when I think there couldn't be another new thing to learn, I find that I am wrong.]]></body>
+  
+  <user>
+    <id>3639005</id>
+    <name>Candi</name>
+    <display_name>Candi</display_name>
+
+    <location>Victor, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3639005-candi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1409332672p3/3639005.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1409332672p2/3639005.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 07 20:48:27 -0700 2016</created_at>
+  <updated_at>Sun Aug 07 20:48:27 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155280425</id>
+  <body><![CDATA[I think I have avoided this book for much of the same reasons that you expressed.]]></body>
+  
+  <user>
+    <id>1166255</id>
+    <name>Banner</name>
+    <display_name>Banner</display_name>
+
+    <location>Collierville, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1166255-banner]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1411437884p3/1166255.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1411437884p2/1166255.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 07 20:55:24 -0700 2016</created_at>
+  <updated_at>Sun Aug 07 20:55:24 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155280527</id>
+  <body><![CDATA[Second time back to read your review. I must get to this soon.]]></body>
+  
+  <user>
+    <id>38544962</id>
+    <name>Guy</name>
+    <display_name>Guy Austin</display_name>
+
+    <location>Palm Beach Gardens, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/38544962-guy-austin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1465936953p3/38544962.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1465936953p2/38544962.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 07 20:59:40 -0700 2016</created_at>
+  <updated_at>Sun Aug 07 20:59:40 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155280684</id>
+  <body><![CDATA[<i>Banner wrote: "I think I have avoided this book for much of the same reasons that you expressed."</i><br /><br />Banner, it seems like so much literature about the Holocaust exists. I always tell myself that I am done, it is too difficult, I can't learn anything more. But then each story is so personal, so haunting, so important. So relevant even today.]]></body>
+  
+  <user>
+    <id>3639005</id>
+    <name>Candi</name>
+    <display_name>Candi</display_name>
+
+    <location>Victor, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3639005-candi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1409332672p3/3639005.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1409332672p2/3639005.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 07 21:06:34 -0700 2016</created_at>
+  <updated_at>Sun Aug 07 21:06:34 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155280717</id>
+  <body><![CDATA[<i>Guy wrote: "Second time back to read your review. I must get to this soon."</i><br /><br />Guy, thank you for taking the time to read my review. Yes, read this if you can - such a quick read for something that will stay with you forever, in my opinion.]]></body>
+  
+  <user>
+    <id>3639005</id>
+    <name>Candi</name>
+    <display_name>Candi</display_name>
+
+    <location>Victor, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3639005-candi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1409332672p3/3639005.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1409332672p2/3639005.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 07 21:08:01 -0700 2016</created_at>
+  <updated_at>Sun Aug 07 21:08:01 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155283915</id>
+  <body><![CDATA[Brilliant review, Candi....<br />I've put off reading this, but will read it soon, pass it on to my Daughters, and hope that they will read it, and encourage their kids to read it in years to come, for all the reasons you've written about....]]></body>
+  
+  <user>
+    <id>4548128</id>
+    <name>Susan</name>
+    <display_name>Susan</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4548128-susan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1339423288p3/4548128.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1339423288p2/4548128.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 07 23:58:40 -0700 2016</created_at>
+  <updated_at>Sun Aug 07 23:58:40 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155286116</id>
+  <body><![CDATA[Wow...as usual a fantastic review, Candi!! Awesome &lt;3]]></body>
+  
+  <user>
+    <id>15662887</id>
+    <name>Deanna </name>
+    <display_name>Deanna </display_name>
+
+    <location>Winnipeg, MB, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15662887-deanna]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1437589889p3/15662887.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1437589889p2/15662887.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 08 02:32:00 -0700 2016</created_at>
+  <updated_at>Mon Aug 08 02:32:00 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155286892</id>
+  <body><![CDATA[A really powerful review, Candi, that really made me sit up and think. I haven't read this book - but I think I probably should.]]></body>
+  
+  <user>
+    <id>5885760</id>
+    <name>Andrew</name>
+    <display_name>Andrew Smith</display_name>
+
+    <location><![CDATA[Newton Abbot, Devon, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5885760-andrew-smith]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1445019627p3/5885760.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1445019627p2/5885760.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 08 03:22:29 -0700 2016</created_at>
+  <updated_at>Mon Aug 08 03:22:29 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155287702</id>
+  <body><![CDATA[Amazing review Candi. I have not yet read this one for many of the reasons you mention, but clearly I should get on with it.]]></body>
+  
+  <user>
+    <id>3643764</id>
+    <name>Esil</name>
+    <display_name>Esil</display_name>
+
+    <location>Toronto, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3643764-esil]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1443746908p3/3643764.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1443746908p2/3643764.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 08 04:05:53 -0700 2016</created_at>
+  <updated_at>Mon Aug 08 04:05:53 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155287747</id>
+  <body><![CDATA[Great review Candi!]]></body>
+  
+  <user>
+    <id>18024484</id>
+    <name>Jeannie</name>
+    <display_name>Jeannie</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18024484-jeannie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1411267729p3/18024484.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1411267729p2/18024484.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 08 04:08:33 -0700 2016</created_at>
+  <updated_at>Mon Aug 08 04:08:33 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155289399</id>
+  <body><![CDATA[Moving review, Candi - I have this on my Kindle, I need to read it. Thanks for the push!]]></body>
+  
+  <user>
+    <id>2947323</id>
+    <name>Dianne</name>
+    <display_name>Dianne</display_name>
+
+    <location>Jenison, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2947323-dianne]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1344907773p3/2947323.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1344907773p2/2947323.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 08 05:28:41 -0700 2016</created_at>
+  <updated_at>Mon Aug 08 05:28:41 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155289706</id>
+  <body><![CDATA[<i>Susan wrote: "Brilliant review, Candi....<br />I've put off reading this, but will read it soon, pass it on to my Daughters, and hope that they will read it, and encourage their kids to read it in years to come, for ..."</i><br /><br />Thank you, Susan. It is a difficult read, as are all Holocaust books, but so important - especially as there are fewer and fewer survivors like Elie Wiesel.]]></body>
+  
+  <user>
+    <id>3639005</id>
+    <name>Candi</name>
+    <display_name>Candi</display_name>
+
+    <location>Victor, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3639005-candi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1409332672p3/3639005.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1409332672p2/3639005.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 08 05:41:12 -0700 2016</created_at>
+  <updated_at>Mon Aug 08 05:41:12 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155289717</id>
+  <body><![CDATA[<i>Deanna wrote: "Wow...as usual a fantastic review, Candi!! Awesome &lt;3"</i><br /><br />Thank you, Deanna! xo]]></body>
+  
+  <user>
+    <id>3639005</id>
+    <name>Candi</name>
+    <display_name>Candi</display_name>
+
+    <location>Victor, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3639005-candi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1409332672p3/3639005.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1409332672p2/3639005.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 08 05:41:41 -0700 2016</created_at>
+  <updated_at>Mon Aug 08 05:41:41 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155289774</id>
+  <body><![CDATA[<i>Andrew wrote: "A really powerful review, Candi, that really made me sit up and think. I haven't read this book - but I think I probably should."</i><br /><br />Andrew, thank you. I don't think I sat up and thought about it so much as when I realized my son had to read this book. Well, that got the wheels turning - the significance of it really hit me then.]]></body>
+  
+  <user>
+    <id>3639005</id>
+    <name>Candi</name>
+    <display_name>Candi</display_name>
+
+    <location>Victor, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3639005-candi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1409332672p3/3639005.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1409332672p2/3639005.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 08 05:44:08 -0700 2016</created_at>
+  <updated_at>Mon Aug 08 05:44:08 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155289840</id>
+  <body><![CDATA[<i>Esil wrote: "Amazing review Candi. I have not yet read this one for many of the reasons you mention, but clearly I should get on with it."</i><br /><br />Thank you, Esil. I hope you decide to read this. As always, I would love to hear your thoughts on it as well.]]></body>
+  
+  <user>
+    <id>3639005</id>
+    <name>Candi</name>
+    <display_name>Candi</display_name>
+
+    <location>Victor, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3639005-candi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1409332672p3/3639005.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1409332672p2/3639005.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 08 05:46:19 -0700 2016</created_at>
+  <updated_at>Mon Aug 08 05:46:19 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155289848</id>
+  <body><![CDATA[<i>Jeannie wrote: "Great review Candi!"</i><br /><br />Thank you, Jeannie! :)]]></body>
+  
+  <user>
+    <id>3639005</id>
+    <name>Candi</name>
+    <display_name>Candi</display_name>
+
+    <location>Victor, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3639005-candi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1409332672p3/3639005.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1409332672p2/3639005.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 08 05:46:42 -0700 2016</created_at>
+  <updated_at>Mon Aug 08 05:46:42 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155289888</id>
+  <body><![CDATA[<i>Dianne wrote: "Moving review, Candi - I have this on my Kindle, I need to read it. Thanks for the push!"</i><br /><br />Thanks, Dianne! I think you will find it well worth your time and so meaningful.]]></body>
+  
+  <user>
+    <id>3639005</id>
+    <name>Candi</name>
+    <display_name>Candi</display_name>
+
+    <location>Victor, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3639005-candi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1409332672p3/3639005.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1409332672p2/3639005.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 08 05:48:15 -0700 2016</created_at>
+  <updated_at>Mon Aug 08 05:48:15 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155290004</id>
+  <body><![CDATA[Candi, such a fitting review. That your son has the chance to read it, and that leading to you reading it as well. Very good review, eloquent. Loved it.]]></body>
+  
+  <user>
+    <id>11889829</id>
+    <name>Suzanne</name>
+    <display_name>Suzanne</display_name>
+
+    <location>Sydney, nsw, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11889829-suzanne]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492350590p3/11889829.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492350590p2/11889829.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 08 05:52:10 -0700 2016</created_at>
+  <updated_at>Mon Aug 08 05:52:10 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155290456</id>
+  <body><![CDATA[<i>Suzanne wrote: "Candi, such a fitting review. That your son has the chance to read it, and that leading to you reading it as well. Very good review, eloquent. Loved it."</i><br /><br />Thanks so much, Suzanne!!]]></body>
+  
+  <user>
+    <id>3639005</id>
+    <name>Candi</name>
+    <display_name>Candi</display_name>
+
+    <location>Victor, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3639005-candi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1409332672p3/3639005.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1409332672p2/3639005.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 08 06:08:15 -0700 2016</created_at>
+  <updated_at>Mon Aug 08 06:08:15 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155298090</id>
+  <body><![CDATA[Wonderful review, Candi! I agree that this is a book everyone should read.]]></body>
+  
+  <user>
+    <id>40452101</id>
+    <name>Amanda</name>
+    <display_name>Amanda</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/40452101-amanda]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1447174902p3/40452101.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1447174902p2/40452101.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 08 10:03:12 -0700 2016</created_at>
+  <updated_at>Mon Aug 08 10:03:12 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155298545</id>
+  <body><![CDATA[<i>Amanda wrote: "Wonderful review, Candi! I agree that this is a book everyone should read."</i><br /><br />Thank you, Amanda!]]></body>
+  
+  <user>
+    <id>3639005</id>
+    <name>Candi</name>
+    <display_name>Candi</display_name>
+
+    <location>Victor, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3639005-candi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1409332672p3/3639005.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1409332672p2/3639005.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 08 10:17:02 -0700 2016</created_at>
+  <updated_at>Mon Aug 08 10:17:02 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155298593</id>
+  <body><![CDATA[Great review, Candi !! Added the book to my TBR.]]></body>
+  
+  <user>
+    <id>21432277</id>
+    <name>Supratim</name>
+    <display_name>Supratim</display_name>
+
+    <location>Bangalore, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/21432277-supratim]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488566505p3/21432277.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488566505p2/21432277.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 08 10:18:23 -0700 2016</created_at>
+  <updated_at>Mon Aug 08 10:18:23 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155298676</id>
+  <body><![CDATA[<i>Supratim wrote: "Great review, Candi !! Added the book to my TBR."</i><br /><br />Thanks, Supratim! I am glad that you have added this book :)]]></body>
+  
+  <user>
+    <id>3639005</id>
+    <name>Candi</name>
+    <display_name>Candi</display_name>
+
+    <location>Victor, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3639005-candi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1409332672p3/3639005.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1409332672p2/3639005.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 08 10:20:55 -0700 2016</created_at>
+  <updated_at>Mon Aug 08 10:20:55 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157030601</id>
+  <body><![CDATA[Great review Candi!]]></body>
+  
+  <user>
+    <id>1561203</id>
+    <name>Shelli</name>
+    <display_name>Shelli</display_name>
+
+    <location>Novi, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1561203-shelli]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1477922717p3/1561203.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1477922717p2/1561203.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Sep 19 16:37:29 -0700 2016</created_at>
+  <updated_at>Mon Sep 19 16:37:29 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157032070</id>
+  <body><![CDATA[<i>Shelli wrote: "Great review Candi!"</i><br /><br />Thank you, Shelli!]]></body>
+  
+  <user>
+    <id>3639005</id>
+    <name>Candi</name>
+    <display_name>Candi</display_name>
+
+    <location>Victor, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3639005-candi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1409332672p3/3639005.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1409332672p2/3639005.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Sep 19 17:23:59 -0700 2016</created_at>
+  <updated_at>Mon Sep 19 17:23:59 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157040727</id>
+  <body><![CDATA[Awesome review of a great book!!]]></body>
+  
+  <user>
+    <id>7399266</id>
+    <name>Camie</name>
+    <display_name>Camie</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7399266-camie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487618696p3/7399266.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487618696p2/7399266.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Sep 19 23:07:13 -0700 2016</created_at>
+  <updated_at>Mon Sep 19 23:07:13 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157046329</id>
+  <body><![CDATA[<i>Camie wrote: "Awesome review of a great book!!"</i><br /><br />Camie, thanks very much!]]></body>
+  
+  <user>
+    <id>3639005</id>
+    <name>Candi</name>
+    <display_name>Candi</display_name>
+
+    <location>Victor, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3639005-candi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1409332672p3/3639005.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1409332672p2/3639005.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Sep 20 04:25:58 -0700 2016</created_at>
+  <updated_at>Tue Sep 20 04:25:58 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>160131289</id>
+  <body><![CDATA[Powerful review !]]></body>
+  
+  <user>
+    <id>58296635</id>
+    <name>Sidharth</name>
+    <display_name>Sidharth Vardhan</display_name>
+
+    <location>Sangrur, 23, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/58296635-sidharth-vardhan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483863617p3/58296635.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483863617p2/58296635.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Dec 12 08:23:42 -0800 2016</created_at>
+  <updated_at>Mon Dec 12 08:23:42 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>160132034</id>
+  <body><![CDATA[<i>Sidharth wrote: "Powerful review !"</i><br /><br />Thank you, Sidharth!]]></body>
+  
+  <user>
+    <id>3639005</id>
+    <name>Candi</name>
+    <display_name>Candi</display_name>
+
+    <location>Victor, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3639005-candi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1409332672p3/3639005.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1409332672p2/3639005.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Dec 12 08:46:41 -0800 2016</created_at>
+  <updated_at>Mon Dec 12 08:46:41 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>160142140</id>
+  <body><![CDATA[Very moving review, Candi, for an incredibly moving book.]]></body>
+  
+  <user>
+    <id>106692</id>
+    <name>Cheri</name>
+    <display_name>Cheri</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/106692-cheri]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1296510906p3/106692.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1296510906p2/106692.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Dec 12 13:38:15 -0800 2016</created_at>
+  <updated_at>Mon Dec 12 13:38:15 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>160146852</id>
+  <body><![CDATA[<i>Cheri wrote: "Very moving review, Candi, for an incredibly moving book."</i><br /><br />Thanks so much, Cheri :)]]></body>
+  
+  <user>
+    <id>3639005</id>
+    <name>Candi</name>
+    <display_name>Candi</display_name>
+
+    <location>Victor, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3639005-candi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1409332672p3/3639005.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1409332672p2/3639005.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Dec 12 16:02:38 -0800 2016</created_at>
+  <updated_at>Mon Dec 12 16:02:38 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>160150744</id>
+  <body><![CDATA[Great review Candi! I remember reading this one and it still sticks with me to this day. I am a bit shocked that this is assigned school reading. I think it's important to know about this time in our history and surprised schools are teaching about this. Mine school reading was all Shakespeare (not that there is anything wrong with that, they just did not branch out).]]></body>
+  
+  <user>
+    <id>5464046</id>
+    <name>PorshaJo</name>
+    <display_name>PorshaJo</display_name>
+
+    <location>Pittsburgh, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5464046-porshajo]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1451425289p3/5464046.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1451425289p2/5464046.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Dec 12 18:06:41 -0800 2016</created_at>
+  <updated_at>Mon Dec 12 18:06:41 -0800 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1616676491]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1616676491]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

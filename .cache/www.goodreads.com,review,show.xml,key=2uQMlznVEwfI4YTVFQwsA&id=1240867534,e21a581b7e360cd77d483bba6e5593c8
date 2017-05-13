@@ -1,0 +1,483 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:42:59 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: XFBWKYC477AB2YQXZ9HD
+etag: W/"784afc1e7f5a0aaeaf820afa612cce52"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.225056
+set-cookie: csid=BAhJIhgxOTAtMDI5NDY4OS01NDg4NDMyBjoGRVQ%3D--961a9b1466197800ac8f296b1faf845871085c0f; path=/; expires=Tue, 12 May 2037 13:42:59 -0000, locale=es; path=/, _session_id2=66985f1883fd6f360906ca4577ecb28a; path=/; expires=Fri, 12 May 2017 19:42:59 -0000; HttpOnly
+content-length: 19233
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=1240867534
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1240867534</id>
+    
+  <user>
+    <id>16628840</id>
+    <name>Mario</name>
+    <display_name>Mario</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16628840-mario]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1477316053p3/16628840.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1477316053p2/16628840.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">5907</id>
+  <isbn>0618260307</isbn>
+  <isbn13>9780618260300</isbn13>
+  <text_reviews_count type="integer">27659</text_reviews_count>
+  <title>The Hobbit</title>
+  <title_without_series>The Hobbit</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1372847500m/5907.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1372847500s/5907.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/5907.The_Hobbit</link>
+  <num_pages>366</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Houghton Mifflin</publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.24</average_rating>
+  <ratings_count>2152106</ratings_count>
+  <description>&lt;i&gt;In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a hobbit-hole, and that means comfort.&lt;br /&gt;&lt;br /&gt;&lt;/i&gt;Written for J.R.R. Tolkien’s own children, &lt;i&gt;The Hobbit&lt;/i&gt; met with instant critical acclaim when it was first published in 1937. Now recognized as a timeless classic, this introduction to the hobbit Bilbo Baggins, the wizard Gandalf, Gollum, and the spectacular world of Middle-earth recounts of the adventures of a reluctant hero, a powerful and dangerous ring, and the cruel dragon Smaug the Magnificent. The text in this 372-page paperback edition is based on that first published in Great Britain by Collins Modern Classics (1998), and includes a note on the text by Douglas A. Anderson (2001). Unforgettable!&lt;br /&gt;</description>
+<authors>
+<author>
+<id>656983</id>
+<name>J.R.R. Tolkien</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1434625177p5/656983.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1434625177p2/656983.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
+<average_rating>4.31</average_rating>
+<ratings_count>6140649</ratings_count>
+<text_reviews_count>91666</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">63342044</id>
+          <page type="integer">310</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Apr 03 03:50:38 -0700 2015</created_at>
+          <updated_at type="datetime">Fri Apr 03 03:50:38 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">16</ratings_count>
+          <percent type="integer">84</percent>
+          <work_id type="integer">1540236</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">63302619</id>
+          <page type="integer">250</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Apr 02 14:14:55 -0700 2015</created_at>
+          <updated_at type="datetime">Thu Apr 02 14:14:55 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">17</ratings_count>
+          <percent type="integer">68</percent>
+          <work_id type="integer">1540236</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">63267067</id>
+          <page type="integer">200</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Apr 02 03:50:32 -0700 2015</created_at>
+          <updated_at type="datetime">Thu Apr 02 03:50:32 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">14</ratings_count>
+          <percent type="integer">54</percent>
+          <work_id type="integer">1540236</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">63222386</id>
+          <page type="integer">165</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Apr 01 13:02:43 -0700 2015</created_at>
+          <updated_at type="datetime">Wed Apr 01 13:02:43 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">22</ratings_count>
+          <percent type="integer">45</percent>
+          <work_id type="integer">1540236</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">63145658</id>
+          <page type="integer">105</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Mar 31 13:05:13 -0700 2015</created_at>
+          <updated_at type="datetime">Tue Mar 31 13:05:13 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">27</ratings_count>
+          <percent type="integer">28</percent>
+          <work_id type="integer">1540236</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">63128155</id>
+          <page type="integer">55</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Mar 31 08:18:17 -0700 2015</created_at>
+          <updated_at type="datetime">Tue Mar 31 08:18:17 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">23</ratings_count>
+          <percent type="integer">15</percent>
+          <work_id type="integer">1540236</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">814211617</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Fri Apr 03 08:31:28 -0700 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">809145317</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Mon Mar 30 01:40:33 -0700 2015</updated_at>
+          <ratings_count>29</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>59</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Mar 30 00:00:00 -0700 2015</started_at>
+  <read_at>Fri Apr 03 16:22:40 -0700 2015</read_at>
+  <date_added>Mon Mar 30 01:40:32 -0700 2015</date_added>
+  <date_updated>Fri Apr 03 08:44:30 -0700 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I am so ashamed that I haven't picked up this book sooner. What is wrong with me?<br /><br />But anyway, brilliant story. Tolkien's writing really is extraordinary. I also liked the songs and illustrations (even thought there weren't many of them). So I'll definitely be reading LoTR soon.<br /><br />Only 'problem' I had...]]>
+  </body>
+
+  
+
+  <comments_count>11</comments_count>
+    <comments start="1" end="11" total="11">
+        <comment>
+  <id>117140986</id>
+  <body><![CDATA[I've got this book on my desk with a bookmark on chapter 1, ready to be started. I've heard nothing but good things about it.]]></body>
+  
+  <user>
+    <id>21045404</id>
+    <name>Jake</name>
+    <display_name>Jake Hartnett</display_name>
+
+    <location>London, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/21045404-jake-hartnett]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1414877404p3/21045404.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1414877404p2/21045404.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Apr 03 08:57:24 -0700 2015</created_at>
+  <updated_at>Fri Apr 03 08:57:24 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>117141043</id>
+  <body><![CDATA[Marathon!! YHEA!!<br /><br />The LOTR books are way more heavy, but worth it, I promise! They're just epic!]]></body>
+  
+  <user>
+    <id>8759700</id>
+    <name>Denisse</name>
+    <display_name>Denisse</display_name>
+
+    <location>Monterrey, Mexico</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8759700-denisse]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1485743169p3/8759700.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1485743169p2/8759700.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Apr 03 08:58:27 -0700 2015</created_at>
+  <updated_at>Fri Apr 03 08:58:27 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>117141595</id>
+  <body><![CDATA[It felt like the movie wasn't really centered around the hobbit, but everyone else. It's like they stretched it out a little too much-don't think 3 movies were necessary. Anyhow I enjoyed this book and glad you did too!!]]></body>
+  
+  <user>
+    <id>23842540</id>
+    <name>Ewide</name>
+    <display_name>Ewide</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23842540-ewide]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1473225987p3/23842540.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1473225987p2/23842540.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Apr 03 09:09:17 -0700 2015</created_at>
+  <updated_at>Fri Apr 03 09:09:17 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>117142227</id>
+  <body><![CDATA[<i>Jake wrote: "I've got this book on my desk with a bookmark on chapter 1, ready to be started. I've heard nothing but good things about it."</i><br /><br />Hope you'll like it as much as I did!<br /><br /><br /><i>Denisse wrote: "Marathon!! YHEA!!<br /><br />The LOTR books are way more heavy, but worth it, I promise! They're just epic!"</i><br /><br />Really looking forward to reading them! Hopefully soon, cause I have a million books on my tbr list :D<br /><br /><br /><i>Ewide wrote: "It felt like the movie wasn't really centered around the hobbit, but everyone else. It's like they stretched it out a little too much-don't think 3 movies were necessary. Anyhow I enjoyed this book and glad you did too!! "</i><br /><br />I agree that they did stretch the story a little too much ('cause of money, mostly). But they were pretty good movies and I like the world Tolkien created so much, so I didn't really have a problem with that. :D]]></body>
+  
+  <user>
+    <id>16628840</id>
+    <name>Mario</name>
+    <display_name>Mario</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16628840-mario]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1477316053p3/16628840.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1477316053p2/16628840.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Apr 03 09:22:31 -0700 2015</created_at>
+  <updated_at>Fri Apr 03 09:22:31 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>117144014</id>
+  <body><![CDATA[I love this book! &lt;3]]></body>
+  
+  <user>
+    <id>38691453</id>
+    <name>Oliwia</name>
+    <display_name>Oliwia</display_name>
+
+    <location>Polska, Poland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/38691453-oliwia]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1489865227p3/38691453.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1489865227p2/38691453.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Apr 03 10:03:23 -0700 2015</created_at>
+  <updated_at>Fri Apr 03 10:03:23 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>117156007</id>
+  <body><![CDATA[i read the hobbit about 15 years ago (man I feel old!) and I found it enjoyable. I haven't seen the movies yet though. interested to see what you think of lotr as I loved the movies but couldn't get through the first 100 pages of the book!]]></body>
+  
+  <user>
+    <id>34641593</id>
+    <name>Merryn</name>
+    <display_name>Merryn</display_name>
+
+    <location>Melbourne, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34641593-merryn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1413457054p3/34641593.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1413457054p2/34641593.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Apr 03 14:13:27 -0700 2015</created_at>
+  <updated_at>Fri Apr 03 14:13:27 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>117156418</id>
+  <body><![CDATA[<i>Merryn wrote: "i read the hobbit about 15 years ago (man I feel old!) and I found it enjoyable. I haven't seen the movies yet though. interested to see what you think of lotr as I loved the movies but couldn't ge..."</i><br /><br />You should give movies a try, in a way they're kind of different from the book. They might surprise you!]]></body>
+  
+  <user>
+    <id>16628840</id>
+    <name>Mario</name>
+    <display_name>Mario</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16628840-mario]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1477316053p3/16628840.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1477316053p2/16628840.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Apr 03 14:21:32 -0700 2015</created_at>
+  <updated_at>Fri Apr 03 14:21:32 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>117159439</id>
+  <body><![CDATA[I've heard the first one is quite bad and goes for ages, so I haven't had the courage to watch it yet :)]]></body>
+  
+  <user>
+    <id>34641593</id>
+    <name>Merryn</name>
+    <display_name>Merryn</display_name>
+
+    <location>Melbourne, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34641593-merryn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1413457054p3/34641593.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1413457054p2/34641593.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Apr 03 15:33:34 -0700 2015</created_at>
+  <updated_at>Fri Apr 03 15:33:34 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>117175817</id>
+  <body><![CDATA[You should give it a try! You can always stop the movie if you're not feeling it :)]]></body>
+  
+  <user>
+    <id>16628840</id>
+    <name>Mario</name>
+    <display_name>Mario</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16628840-mario]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1477316053p3/16628840.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1477316053p2/16628840.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Apr 04 00:27:53 -0700 2015</created_at>
+  <updated_at>Sat Apr 04 00:27:53 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>117177477</id>
+  <body><![CDATA[In this case the book is so much better than the movie it isn't even funny. The story is basically the same but the atmosphere, the joy and the innocence is all lost.<br /><br />Go books go.]]></body>
+  
+  <user>
+    <id>31814285</id>
+    <name>Daniel</name>
+    <display_name>Daniel</display_name>
+
+    <location>Novi Sad, Serbia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/31814285-daniel]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1401920444p3/31814285.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1401920444p2/31814285.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Apr 04 02:20:49 -0700 2015</created_at>
+  <updated_at>Sat Apr 04 02:20:49 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>148706800</id>
+  <body><![CDATA[hello my friend]]></body>
+  
+  <user>
+    <id>47231836</id>
+    <name>Cek  virabey</name>
+    <display_name>Cek  virabey</display_name>
+
+    <location>Azerbaijan</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/47231836-cek-virabey]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 09 08:32:53 -0800 2016</created_at>
+  <updated_at>Wed Mar 09 08:32:53 -0800 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1240867534]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1240867534]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

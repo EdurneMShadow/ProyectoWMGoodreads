@@ -1,0 +1,293 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:47:13 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: 76CNKEJ6RDJH1XGGPQFY
+etag: W/"58f9d5e0619862c80efda9bf23f42a8c"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.245580
+set-cookie: csid=BAhJIhg4NTMtMzU1NTUzMC0wNzU0MzM2BjoGRVQ%3D--f753618f8f881c7b2359ea32c0f6e33d0ac28b62; path=/; expires=Tue, 12 May 2037 13:47:13 -0000, locale=es; path=/, _session_id2=9390d7945c33f143eaff9741d0d59f3b; path=/; expires=Fri, 12 May 2017 19:47:13 -0000; HttpOnly
+content-length: 10937
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=1316399492
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1316399492</id>
+    
+  <user>
+    <id>28854579</id>
+    <name>Glenn</name>
+    <display_name>Glenn Sumi</display_name>
+
+    <location>Toronto, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/28854579-glenn-sumi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1444333567p3/28854579.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1444333567p2/28854579.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">6442769</id>
+  <isbn>014241493X</isbn>
+  <isbn13>9780142414934</isbn13>
+  <text_reviews_count type="integer">27523</text_reviews_count>
+  <title>Paper Towns</title>
+  <title_without_series>Paper Towns</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1349013610m/6442769.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1349013610s/6442769.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6442769-paper-towns</link>
+  <num_pages>305</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Speak</publisher>
+  <publication_day>22</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.89</average_rating>
+  <ratings_count>640227</ratings_count>
+  <description>&lt;b&gt;Who is the real Margo?&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Quentin Jacobsen has spent a lifetime loving the magnificently adventurous Margo Roth Spiegelman from afar. So when she cracks open a window and climbs into his life—dressed like a ninja and summoning him for an ingenious campaign of revenge—he follows. After their all-nighter ends, and a new day breaks, Q arrives at school to discover that Margo, always an enigma, has now become a mystery. But Q soon learns that there are clues—and they're for him. Urged down a disconnected path, the closer he gets, the less Q sees the girl he thought he knew...</description>
+<authors>
+<author>
+<id>1406384</id>
+<name>John Green</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>4528234</ratings_count>
+<text_reviews_count>275833</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">71392504</id>
+          <page type="integer">94</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Jul 18 09:24:19 -0700 2015</created_at>
+          <updated_at type="datetime">Sat Jul 18 09:24:19 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">30</percent>
+          <work_id type="integer">3364505</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">71212089</id>
+          <page type="integer">32</page>
+          <chapter type="integer"></chapter>
+          <comments_count>2</comments_count>
+          <created_at type="datetime">Wed Jul 15 22:34:36 -0700 2015</created_at>
+          <updated_at type="datetime">Wed Jul 15 22:34:36 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">10</percent>
+          <work_id type="integer">3364505</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">937286852</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sat Jul 18 23:12:33 -0700 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>2</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">933795029</id>
+          <old_status>to-read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Wed Jul 15 22:34:24 -0700 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">907846844</id>
+          <old_status></old_status>
+          <status>to-read</status>
+          <updated_at type="datetime">Wed Jun 24 07:38:14 -0700 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>3</rating>
+  <votes>10</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Jul 15 00:00:00 -0700 2015</started_at>
+  <read_at>Sat Jul 18 00:00:00 -0700 2015</read_at>
+  <date_added>Wed Jun 24 07:38:14 -0700 2015</date_added>
+  <date_updated>Sun Jul 19 09:06:23 -0700 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I enjoyed <i>Paper Towns</i>, but didn’t love it. It’s not as powerful or memorable as the other John Green novel I’ve read, <a href="https://www.goodreads.com/review/show/898868548" rel="nofollow"> <i>The Fault In Our Stars</i> </a>, which had sharper characters, a more engaging narrative and a richer emotional range. But it’s still an entertaining and at times funny way to pass a few...]]>
+  </body>
+
+  
+
+  <comments_count>5</comments_count>
+    <comments start="1" end="5" total="5">
+        <comment>
+  <id>137090892</id>
+  <body><![CDATA[I will recommend Looking For Alaska which has similar characters, but much sharper. And the narrative is also captivating. Since I read LFA at first and then this one, Paper Towns couldn't live up to my expectations. Great review by the way!]]></body>
+  
+  <user>
+    <id>36859595</id>
+    <name>Nishat</name>
+    <display_name>Nishat</display_name>
+
+    <location>Dhaka, Bangladesh</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/36859595-nishat]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1490818366p3/36859595.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1490818366p2/36859595.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jul 19 08:58:13 -0700 2015</created_at>
+  <updated_at>Sun Jul 19 08:58:13 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>137111122</id>
+  <body><![CDATA[Thanks, Nishat! I will give Looking For Alaska a try. You and other GR friends seem to like it!]]></body>
+  
+  <user>
+    <id>28854579</id>
+    <name>Glenn</name>
+    <display_name>Glenn Sumi</display_name>
+
+    <location>Toronto, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/28854579-glenn-sumi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1444333567p3/28854579.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1444333567p2/28854579.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jul 19 16:45:20 -0700 2015</created_at>
+  <updated_at>Sun Jul 19 16:45:20 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>137209640</id>
+  <body><![CDATA[I hope the film adaptation jettisons some of the problems of the book. I did love the theme of paper towns, and the various meanings of the term. Very fond of the adventures in the abandoned strip mall too.]]></body>
+  
+  <user>
+    <id>3055585</id>
+    <name>Marian</name>
+    <display_name>Marian</display_name>
+
+    <location>Berlin, Germany</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3055585-marian]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1261158406p3/3055585.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1261158406p2/3055585.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 21 09:03:10 -0700 2015</created_at>
+  <updated_at>Tue Jul 21 09:03:10 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>137246224</id>
+  <body><![CDATA[Thanks Marian. Yes, the theme of those paper towns (both meanings) was really haunting. I'm looking forward to seeing that strip mall. I could never quite picture those "Troll holes"! Seeing the movie in &lt;24 hours! ;)]]></body>
+  
+  <user>
+    <id>28854579</id>
+    <name>Glenn</name>
+    <display_name>Glenn Sumi</display_name>
+
+    <location>Toronto, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/28854579-glenn-sumi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1444333567p3/28854579.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1444333567p2/28854579.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 21 18:25:00 -0700 2015</created_at>
+  <updated_at>Tue Jul 21 18:25:00 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>137262090</id>
+  <body><![CDATA[I didn't realize it was about to be released! I hope the film comes to Germany -- TFIOS did -- though it is not the rock star of a book that one was.]]></body>
+  
+  <user>
+    <id>3055585</id>
+    <name>Marian</name>
+    <display_name>Marian</display_name>
+
+    <location>Berlin, Germany</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3055585-marian]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1261158406p3/3055585.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1261158406p2/3055585.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 22 04:44:23 -0700 2015</created_at>
+  <updated_at>Wed Jul 22 04:44:23 -0700 2015</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1316399492]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1316399492]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

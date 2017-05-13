@@ -1,0 +1,131 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:37:10 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: WCZMR12HA489KVNDB8HW
+etag: W/"80b63f6ac74db7c1336c02b2fa1aed1a"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.182362
+set-cookie: csid=BAhJIhg2OTktMDY1MzIzMy0wMDM0MDE4BjoGRVQ%3D--c5099f3589ad8d97a5b3a67593af19e348a76919; path=/; expires=Tue, 12 May 2037 13:37:10 -0000, locale=es; path=/, _session_id2=01763add4335a60a049b808be33de2fe; path=/; expires=Fri, 12 May 2017 19:37:10 -0000; HttpOnly
+content-length: 4930
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=733685820
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>733685820</id>
+    
+  <user>
+    <id>24389390</id>
+    <name>Duane</name>
+    <display_name>Duane</display_name>
+
+    <location>Louisville, KY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24389390-duane]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1403316391p3/24389390.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1403316391p2/24389390.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">2865</id>
+  <isbn>0452287022</isbn>
+  <isbn13>9780452287020</isbn13>
+  <text_reviews_count type="integer">5908</text_reviews_count>
+  <title>Girl with a Pearl Earring</title>
+  <title_without_series>Girl with a Pearl Earring</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1327197580m/2865.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1327197580s/2865.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2865.Girl_with_a_Pearl_Earring</link>
+  <num_pages>233</num_pages>
+  <format>Paperback</format>
+  <edition_information> Deluxe Edition</edition_information>
+  <publisher>Plume/Penguin</publisher>
+  <publication_day/>
+  <publication_year>2005</publication_year>
+  <publication_month/>
+  <average_rating>3.84</average_rating>
+  <ratings_count>479287</ratings_count>
+  <description>With precisely 35 canvases to his credit, the Dutch painter Johannes Vermeer represents one of the great enigmas of 17th-century art. The meager facts of his biography have been gleaned from a handful of legal documents. Yet Vermeer's extraordinary paintings of domestic life, with their subtle play of light and texture, have come to define the Dutch golden age. His portrait of the anonymous Girl with a Pearl Earring has exerted a particular fascination for centuries - and it is this magnetic painting that lies at the heart of Tracy Chevalier's second novel of the same title.&lt;br /&gt;&lt;i&gt;Girl with a Pearl Earring&lt;/i&gt; centers on Vermeer's prosperous Delft household during the 1660s. When Griet, the novel's quietly perceptive heroine, is hired as a servant, turmoil follows. First, the 16-year-old narrator becomes increasingly intimate with her master. Then Vermeer employs her as his assistant--and ultimately has Griet sit for him as a model.</description>
+<authors>
+<author>
+<id>1973</id>
+<name>Tracy Chevalier</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1439297099p5/1973.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1439297099p2/1973.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1973.Tracy_Chevalier]]></link>
+<average_rating>3.80</average_rating>
+<ratings_count>635156</ratings_count>
+<text_reviews_count>22574</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">171040557</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Thu Oct 03 18:31:39 -0700 2013</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>4</rating>
+  <votes>16</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="rated-books" exclusive="false" review_shelf_id="524528577" sortable="false" />
+    <shelf name="reviewed-books" exclusive="false" review_shelf_id="759810845" sortable="false" />
+    <shelf name="historical-fiction" exclusive="false" review_shelf_id="550783716" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Nov 01 00:00:00 -0700 2011</read_at>
+  <date_added>Thu Oct 03 18:31:39 -0700 2013</date_added>
+  <date_updated>Fri Feb 13 14:01:25 -0800 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[My favorite reading genre's are historical fiction, art and art history, and romance; well, this book has all of these elements which made it a treat for me. I have read most of Tracy Chevalier's work so I appreciate her ability to craft a good story. After his death Vermeer and even his painting...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/733685820]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/733685820]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

@@ -1,0 +1,1285 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:42:30 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: ANPJ4GD9HJPTZ8Q3XEVR
+etag: W/"55e66440a51ded43a2c185b03b817f13"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.450719
+set-cookie: csid=BAhJIhgxMTctODY3MTIxOS04NDY5NTA5BjoGRVQ%3D--7c7e37dd6e9c51f0265e0cdebf96fcbe57e2d005; path=/; expires=Tue, 12 May 2037 13:42:30 -0000, locale=es; path=/, _session_id2=6572b8fb3ffad898f636a47719335bb9; path=/; expires=Fri, 12 May 2017 19:42:31 -0000; HttpOnly
+content-length: 53471
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=977162523
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>977162523</id>
+    
+  <user>
+    <id>32532774</id>
+    <name>Lisa</name>
+    <display_name>Lisa</display_name>
+
+    <location>Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32532774-lisa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480492067p3/32532774.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480492067p2/32532774.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">865</id>
+  <isbn>0061122416</isbn>
+  <isbn13>9780061122415</isbn13>
+  <text_reviews_count type="integer">44775</text_reviews_count>
+  <title>The Alchemist</title>
+  <title_without_series>The Alchemist</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1483412266m/865.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1483412266s/865.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/865.The_Alchemist</link>
+  <num_pages>197</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>HarperCollins</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1993</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.81</average_rating>
+  <ratings_count>1348164</ratings_count>
+  <description>Paulo Coelho's enchanting novel has inspired a devoted following around the world. This story, dazzling in its powerful simplicity and inspiring wisdom, is about an Andalusian shepherd boy named Santiago who travels from his homeland in Spain to the Egyptian desert in search of a treasure buried in the Pyramids. Along the way he meets a Gypsy woman, a man who calls himself king, and an alchemist, all of whom point Santiago in the direction of his quest. No one knows what the treasure is, or if Santiago will be able to surmount the obstacles along the way. But what starts out as a journey to find worldly goods turns into a discovery of the treasure found within. Lush, evocative, and deeply humane, the story of Santiago is an eternal testament to the transforming power of our dreams and the importance of listening to our hearts.</description>
+<authors>
+<author>
+<id>566</id>
+<name>Paulo Coelho</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201840056p5/566.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201840056p2/566.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/566.Paulo_Coelho]]></link>
+<average_rating>3.72</average_rating>
+<ratings_count>2124981</ratings_count>
+<text_reviews_count>96430</text_reviews_count>
+</author>
+</authors>
+  <published>1993</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">473359331</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Wed Jun 25 05:44:35 -0700 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>81</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="postliterate-fiction" exclusive="false" review_shelf_id="1592547578" sortable="false" />
+    <shelf name="don-t-read-it" exclusive="false" review_shelf_id="1592547454" sortable="false" />
+    <shelf name="monster-mash-of-a-mess" exclusive="false" review_shelf_id="1592547511" sortable="false" />
+    <shelf name="so-bad-it-hurts" exclusive="false" review_shelf_id="1592547599" sortable="false" />
+    <shelf name="subterranean" exclusive="false" review_shelf_id="1592547618" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jun 25 05:44:35 -0700 2014</date_added>
+  <date_updated>Thu Mar 09 03:38:01 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[For my dear friends Matt and Jean-Paul!<br /><br />Homework for "Introductory Course For Irony Disposal And Sarcasm Removal (ICFIDASR)", lesson one, re-submission number 47.<br /><br />I once read a book that inspired me to change my whole attitude towards reading. It was a medicine of universal, cosmic impact. Before,...]]>
+  </body>
+
+  
+
+  <comments_count>52</comments_count>
+    <comments start="1" end="50" total="52">
+        <comment>
+  <id>157584534</id>
+  <body><![CDATA[High five, Lisa!]]></body>
+  
+  <user>
+    <id>4196681</id>
+    <name>Violet</name>
+    <display_name>Violet wells</display_name>
+
+    <location>florence, tuscany, Italy</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4196681-violet-wells]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442260743p3/4196681.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442260743p2/4196681.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 04 08:10:22 -0700 2016</created_at>
+  <updated_at>Tue Oct 04 08:10:22 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157584837</id>
+  <body><![CDATA[A deeply spiritual, wise, inspiring review Lisa. Thank you for the uplifting words. And yes, I too gagged on this piece of nonsense when I read it.]]></body>
+  
+  <user>
+    <id>8930751</id>
+    <name>RK-ique</name>
+    <display_name>RK-ique</display_name>
+
+    <location>Ottawa, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8930751-rk-ique]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478051312p3/8930751.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478051312p2/8930751.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 04 08:17:36 -0700 2016</created_at>
+  <updated_at>Tue Oct 04 08:17:36 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157584965</id>
+  <body><![CDATA[I can't believe you actually did it, Lisa! All my dreams of finding the true meaning of life and all encompassing wisdom at my original point of departure have been dashed! I'm now going to fix an appointment with my general practitioner to discuss the possibility of a lobotomy ;-) Farewell my friend... Adieu, adieu...]]></body>
+  
+  <user>
+    <id>17521500</id>
+    <name>Jean-Paul</name>
+    <display_name><![CDATA[Jean-Paul Werner Walshaw-Sauter]]></display_name>
+
+    <location>Lausanne, Vaud, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17521500-jean-paul-werner-walshaw-sauter]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493296147p3/17521500.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493296147p2/17521500.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 04 08:21:08 -0700 2016</created_at>
+  <updated_at>Tue Oct 04 08:21:08 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157586019</id>
+  <body><![CDATA[<i>Jean-Paul wrote: "I can't believe you actually did it, Lisa! All my dreams of finding the true meaning of life and all encompassing wisdom at my original point of departure have been dashed! I'm now going to fix an ..."</i><br /><br />You know, Jean-Paul! my path provided me with an omen that said that in order for all universe to conspire to help me achieve the goal of passing my course, I had to review the Alchemist. I also (quite contradictory) got a prescription from my librarian to exorcise it in writing. But there is good news: "Things that happen once can never happen again!" So it is over now!]]></body>
+  
+  <user>
+    <id>32532774</id>
+    <name>Lisa</name>
+    <display_name>Lisa</display_name>
+
+    <location>Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32532774-lisa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480492067p3/32532774.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480492067p2/32532774.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 04 08:49:26 -0700 2016</created_at>
+  <updated_at>Tue Oct 04 08:49:26 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157586055</id>
+  <body><![CDATA[<i>RK-ique wrote: "A deeply spiritual, wise, inspiring review Lisa. Thank you for the uplifting words. And yes, I too gagged on this piece of nonsense when I read it."</i><br /><br />Yes, my oh my, it felt good to spit that one out again!]]></body>
+  
+  <user>
+    <id>32532774</id>
+    <name>Lisa</name>
+    <display_name>Lisa</display_name>
+
+    <location>Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32532774-lisa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480492067p3/32532774.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480492067p2/32532774.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 04 08:50:39 -0700 2016</created_at>
+  <updated_at>Tue Oct 04 08:50:39 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157586070</id>
+  <body><![CDATA[<i>Violet wrote: "High five, Lisa!"</i><br /><br />Sheepish smile, ... ;-)]]></body>
+  
+  <user>
+    <id>32532774</id>
+    <name>Lisa</name>
+    <display_name>Lisa</display_name>
+
+    <location>Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32532774-lisa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480492067p3/32532774.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480492067p2/32532774.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 04 08:51:06 -0700 2016</created_at>
+  <updated_at>Tue Oct 04 08:51:06 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157586249</id>
+  <body><![CDATA[<i>Lisa wrote: "Jean-Paul wrote: "I can't believe you actually did it, Lisa! All my dreams of finding the true meaning of life and all encompassing wisdom at my original point of departure have been dashed! I'm no..."</i><br /><br />Are you sure, Lisa? Remember! We are currently in <i>The Labyrinth</i> ;-)]]></body>
+  
+  <user>
+    <id>17521500</id>
+    <name>Jean-Paul</name>
+    <display_name><![CDATA[Jean-Paul Werner Walshaw-Sauter]]></display_name>
+
+    <location>Lausanne, Vaud, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17521500-jean-paul-werner-walshaw-sauter]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493296147p3/17521500.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493296147p2/17521500.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 04 08:56:21 -0700 2016</created_at>
+  <updated_at>Tue Oct 04 08:56:21 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157586498</id>
+  <body><![CDATA[<em>Homework for "Introductory Course For Irony Disposal And Sarcasm Removal (ICFIDASR)"</em><br /><br />You passed with flying colors. Wun.der.bar!]]></body>
+  
+  <user>
+    <id>16077597</id>
+    <name>Matt</name>
+    <display_name>Matt</display_name>
+
+    <location>Germany</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16077597-matt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478422915p3/16077597.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478422915p2/16077597.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 04 09:08:24 -0700 2016</created_at>
+  <updated_at>Tue Oct 04 09:08:24 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157587012</id>
+  <body><![CDATA[<i>If I for example wish to have my neighbour's garden chair, and my neighbour wishes to keep it, who does "all universe" side with, and how does it conspire to help me get it, and at the same time to help my neighbour to keep it?</i> plainly you'd benefit from reading <a href="https://www.goodreads.com/book/show/52529.The_Secret__The_Secret___1_" title="The Secret (The Secret, #1) by Rhonda Byrne" rel="nofollow">The Secret</a>, but certainly one can learn a lot from sheep, I recall in <a href="https://www.goodreads.com/book/show/999513.Simplicissimus" title="Simplicissimus by Hans Jakob Christoffel von Grimmelshausen" rel="nofollow"> Simplicissimus</a> the young boy is grateful that his parents made him watch the sheep because this was how King David started out in life, plus sheep help people learn how to count: ZZZzzzzzz]]></body>
+  
+  <user>
+    <id>5617661</id>
+    <name>Jan-Maat</name>
+    <display_name>Jan-Maat</display_name>
+
+    <location><![CDATA[The Garden of England, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5617661-jan-maat]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1407579968p3/5617661.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1407579968p2/5617661.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 04 09:44:04 -0700 2016</created_at>
+  <updated_at>Tue Oct 04 09:44:04 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157587736</id>
+  <body><![CDATA[Great review, Lisa! This book didn't resonate with me at all. The universe never gave me back the precious hours I spent reading this thing. And yes, I asked with all my being!]]></body>
+  
+  <user>
+    <id>21575078</id>
+    <name>Florencia</name>
+    <display_name>Florencia</display_name>
+
+    <location>Argentina</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/21575078-florencia]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492642166p3/21575078.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492642166p2/21575078.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 04 10:22:44 -0700 2016</created_at>
+  <updated_at>Tue Oct 04 10:22:44 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157591086</id>
+  <body><![CDATA[Oh boy, reading this review made me feel GOOD... I can't imagine what it felt like to write it! :)]]></body>
+  
+  <user>
+    <id>18383778</id>
+    <name>Dolors</name>
+    <display_name>Dolors</display_name>
+
+    <location>Barcelona, Spain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18383778-dolors]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1379500437p3/18383778.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1379500437p2/18383778.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 04 11:43:50 -0700 2016</created_at>
+  <updated_at>Tue Oct 04 11:43:50 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157592962</id>
+  <body><![CDATA[I've coined a term for books such as this (can also apply to some "non-fiction," as well). "the illusion of erudition"]]></body>
+  
+  <user>
+    <id>13298726</id>
+    <name>Michael</name>
+    <display_name>Michael Perkins</display_name>
+
+    <location>San Carlos, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13298726-michael-perkins]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1454487234p3/13298726.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1454487234p2/13298726.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 04 12:27:05 -0700 2016</created_at>
+  <updated_at>Tue Oct 04 12:27:05 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157593128</id>
+  <body><![CDATA[<i>Matt wrote: "Homework for "Introductory Course For Irony Disposal And Sarcasm Removal (ICFIDASR)"<br /><br />You passed with flying colors. Wun.der.bar!"</i><br /><br />Oh mein Gott, das war knapp! <br /><br />Yesterday Jean-Paul and I still speculated whether my GR account would self-combust in case I review the Alchemist, and for awhile it reallly looked like it! It would not let me load the page anymore ;-)]]></body>
+  
+  <user>
+    <id>32532774</id>
+    <name>Lisa</name>
+    <display_name>Lisa</display_name>
+
+    <location>Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32532774-lisa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480492067p3/32532774.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480492067p2/32532774.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 04 12:30:42 -0700 2016</created_at>
+  <updated_at>Tue Oct 04 12:30:42 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157593205</id>
+  <body><![CDATA[<i>Dolors wrote: "Oh boy, reading this review made me feel GOOD... I can't imagine what it felt like to write it! :)"</i><br /><br />Like finally catching an annoying fly buzzing around my head, pretending to be Athena's owl of wisdom!<br /><br />Thank you, Dolors :-)]]></body>
+  
+  <user>
+    <id>32532774</id>
+    <name>Lisa</name>
+    <display_name>Lisa</display_name>
+
+    <location>Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32532774-lisa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480492067p3/32532774.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480492067p2/32532774.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 04 12:32:24 -0700 2016</created_at>
+  <updated_at>Tue Oct 04 12:32:24 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157593260</id>
+  <body><![CDATA[<i>Florencia wrote: "Great review, Lisa! This book didn't resonate with me at all. The universe never gave me back the precious hours I spent reading this thing. And yes, I asked with all my being!"</i><br /><br />Universe must have been busy solving the problem with my neighbour's garden chair. It will take forever, we are very headstrong people!]]></body>
+  
+  <user>
+    <id>32532774</id>
+    <name>Lisa</name>
+    <display_name>Lisa</display_name>
+
+    <location>Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32532774-lisa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480492067p3/32532774.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480492067p2/32532774.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 04 12:33:43 -0700 2016</created_at>
+  <updated_at>Tue Oct 04 12:33:43 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157611344</id>
+  <body><![CDATA[<i>Jan-Maat wrote: "If I for example wish to have my neighbour's garden chair, and my neighbour wishes to keep it, who does "all universe" side with, and how does it conspire to help me get it, and at the same time to..."</i><br /><br />Yes, Jan-Maat! There is no end to the usefulness of sheep, it seems :-)]]></body>
+  
+  <user>
+    <id>32532774</id>
+    <name>Lisa</name>
+    <display_name>Lisa</display_name>
+
+    <location>Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32532774-lisa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480492067p3/32532774.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480492067p2/32532774.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 04 22:53:42 -0700 2016</created_at>
+  <updated_at>Tue Oct 04 22:53:42 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157611369</id>
+  <body><![CDATA[<i>Michael wrote: "I've coined a term for books such as this (can also apply to some "non-fiction," as well). "the illusion of erudition""</i><br /><br />I like that expression. In Coelho's case, I think delusion is better suited than illusion, though, as he seems to be fooling himself more than his readers ;-)]]></body>
+  
+  <user>
+    <id>32532774</id>
+    <name>Lisa</name>
+    <display_name>Lisa</display_name>
+
+    <location>Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32532774-lisa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480492067p3/32532774.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480492067p2/32532774.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 04 22:55:13 -0700 2016</created_at>
+  <updated_at>Tue Oct 04 22:55:13 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157612668</id>
+  <body><![CDATA[<i>Lisa wrote: "Yesterday Jean-Paul and I still speculated whether my GR account would self-combust in case I review the Alchemist, and for awhile it reallly looked like it! It would not let me load the page anymore "</i><br /><br />GR was acting all weird yesterday. Too slow, posting comments twice, and then suddenly the book count of challenges went down to 0 (back to normal now). Those are all omens, I tell you. Of what? I have no idea. Ask Anima Mundi.]]></body>
+  
+  <user>
+    <id>16077597</id>
+    <name>Matt</name>
+    <display_name>Matt</display_name>
+
+    <location>Germany</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16077597-matt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478422915p3/16077597.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478422915p2/16077597.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Oct 05 00:15:25 -0700 2016</created_at>
+  <updated_at>Wed Oct 05 00:15:25 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157612957</id>
+  <body><![CDATA[I broke into applause while reading your engaging review, Lisa!<br />I have been spared the dubious pleasure of reading <i>The Alchemist</i> and have instead found vicarious pleasure in friends' reviews denouncing the supercilious psychobabble that seems to blight this book.<br /><br />And, for those sheep who <i>are</i> clever enough to read, may I recommend the work of Ian Mc<i>Ewe</i>an?<br />*groan*<br />Um, I'll just fetch my coat and slip away quietly...]]></body>
+  
+  <user>
+    <id>43579369</id>
+    <name>Kevin</name>
+    <display_name>Kevin Ansbro</display_name>
+
+    <location>Norwich, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/43579369-kevin-ansbro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442982666p3/43579369.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442982666p2/43579369.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Oct 05 00:33:58 -0700 2016</created_at>
+  <updated_at>Wed Oct 05 00:33:58 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157615892</id>
+  <body><![CDATA[To borrow a phrase from Kevin, I have to say I was "gobsmacked" when I saw you'd only given this one star, Lisa? Really: give your head a shake dear woman. Even I, the bane of all things trite and superficial, had the courage to give it two stars. I could not believe that you, who are so generous of heart, would reduce this to a lowly 1 star.<br /><br />I would like to amend one of your sentences, however, with the temerity of a ..]]></body>
+  
+  <user>
+    <id>14773738</id>
+    <name>Julie</name>
+    <display_name>Julie</display_name>
+
+    <location>Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14773738-julie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1369698589p3/14773738.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1369698589p2/14773738.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Oct 05 03:35:45 -0700 2016</created_at>
+  <updated_at>Wed Oct 05 03:35:45 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157615937</id>
+  <body><![CDATA[... with the temerity of a Coelho worshipper to say ... "Please do not read this book if you are in danger of thinking." Period. You don't need to qualify it by adding "too rationally". Ironically Yours, J.]]></body>
+  
+  <user>
+    <id>14773738</id>
+    <name>Julie</name>
+    <display_name>Julie</display_name>
+
+    <location>Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14773738-julie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1369698589p3/14773738.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1369698589p2/14773738.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Oct 05 03:38:19 -0700 2016</created_at>
+  <updated_at>Wed Oct 05 03:38:19 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157625968</id>
+  <body><![CDATA[<i>Kevin wrote: "I broke into applause while reading your engaging review, Lisa!<br />I have been spared the dubious pleasure of reading The Alchemist and have instead found vicarious pleasure in friends' reviews denoun..."</i><br /><br />Oh, Kevin, I just had to laugh out loud! I love puns, even sheep ones ;-)<br /><br />What an act of wisdom to skip the tedious reading part and jump straight to the fun act of exorcism, Kevin! wish I'd been that clever myself.]]></body>
+  
+  <user>
+    <id>32532774</id>
+    <name>Lisa</name>
+    <display_name>Lisa</display_name>
+
+    <location>Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32532774-lisa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480492067p3/32532774.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480492067p2/32532774.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Oct 05 09:10:08 -0700 2016</created_at>
+  <updated_at>Wed Oct 05 09:10:08 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157626034</id>
+  <body><![CDATA[I read <a href="https://www.goodreads.com/book/show/1428.By_the_River_Piedra_I_Sat_Down_and_Wept" title="By the River Piedra I Sat Down and Wept by Paulo Coelho" rel="nofollow">By the River Piedra</a> and sat down and wept - so I'm with you on the anger and frustration reaction, Lisa.]]></body>
+  
+  <user>
+    <id>5498525</id>
+    <name>Fionnuala</name>
+    <display_name>Fionnuala</display_name>
+
+    <location>France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5498525-fionnuala]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1368182051p3/5498525.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1368182051p2/5498525.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Oct 05 09:12:10 -0700 2016</created_at>
+  <updated_at>Wed Oct 05 09:12:10 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157626220</id>
+  <body><![CDATA[<i>Julie wrote: "To borrow a phrase from Kevin, I have to say I was "gobsmacked" when I saw you'd only given this one star, Lisa? Really: give your head a shake dear woman. Even I, the bane of all things trite and ..."</i><br /><br />I know, I know! I kindly asked all universe to conspire to help me achieving the goal of giving this book a better rating, but somehow, it did not work! It must be because I in my young life read too many books to be as generous as a sheep :-(]]></body>
+  
+  <user>
+    <id>32532774</id>
+    <name>Lisa</name>
+    <display_name>Lisa</display_name>
+
+    <location>Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32532774-lisa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480492067p3/32532774.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480492067p2/32532774.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Oct 05 09:17:38 -0700 2016</created_at>
+  <updated_at>Wed Oct 05 09:17:38 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157626274</id>
+  <body><![CDATA[<i>Julie wrote: "... with the temerity of a Coelho worshipper to say ... "Please do not read this book if you are in danger of thinking." Period. You don't need to qualify it by adding "too rationally". Ironically ..."</i><br /><br />Don't tempt me, Julie! As you know I just passed that Irony Removal Course, and you are playing the devil's advocate, luring me to laugh out loud!!<br />Literally yours,<br />Lisa]]></body>
+  
+  <user>
+    <id>32532774</id>
+    <name>Lisa</name>
+    <display_name>Lisa</display_name>
+
+    <location>Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32532774-lisa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480492067p3/32532774.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480492067p2/32532774.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Oct 05 09:19:16 -0700 2016</created_at>
+  <updated_at>Wed Oct 05 09:19:16 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157627886</id>
+  <body><![CDATA[<i>Fionnuala wrote: "I read <a href="https://www.goodreads.com/book/show/1428.By_the_River_Piedra_I_Sat_Down_and_Wept" title="By the River Piedra I Sat Down and Wept by Paulo Coelho" rel="nofollow">By the River Piedra</a> and sat down and wept - so I'm with you on the anger and frustration reaction, Lisa."</i><br /><br />Oh, Fionnuala! And I just checked the reviews, and found people who said that "By the River Piedra" didn't reach the stellar heights of the Alchemist. That can mean two things: either you had to suffer much worse than I did, or you missed out on the outlandish quality and just had a averagely bad book ;-)]]></body>
+  
+  <user>
+    <id>32532774</id>
+    <name>Lisa</name>
+    <display_name>Lisa</display_name>
+
+    <location>Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32532774-lisa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480492067p3/32532774.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480492067p2/32532774.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Oct 05 10:10:19 -0700 2016</created_at>
+  <updated_at>Wed Oct 05 10:10:19 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157631864</id>
+  <body><![CDATA[I file books such as this (as well as some "non-fiction") under the rubric of "the illusion of erudition." It's a form of vague or anecdotal notions where a reader thinks they can gain world shattering insight from a light weight book.]]></body>
+  
+  <user>
+    <id>13298726</id>
+    <name>Michael</name>
+    <display_name>Michael Perkins</display_name>
+
+    <location>San Carlos, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13298726-michael-perkins]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1454487234p3/13298726.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1454487234p2/13298726.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Oct 05 11:56:54 -0700 2016</created_at>
+  <updated_at>Wed Oct 05 11:56:54 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157653574</id>
+  <body><![CDATA[you're so funny:)]]></body>
+  
+  <user>
+    <id>56173179</id>
+    <name>Ivana</name>
+    <display_name>Ivana Books Are Magic</display_name>
+
+    <location><![CDATA[Mostar, 036, Bosnia and Herzegovina]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/56173179-ivana-books-are-magic]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486246754p3/56173179.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486246754p2/56173179.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Oct 06 02:03:38 -0700 2016</created_at>
+  <updated_at>Thu Oct 06 02:03:38 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157655895</id>
+  <body><![CDATA[agreed Michael.]]></body>
+  
+  <user>
+    <id>27843908</id>
+    <name>david </name>
+    <display_name>david </display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27843908-david]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1466706229p3/27843908.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1466706229p2/27843908.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Oct 06 04:19:30 -0700 2016</created_at>
+  <updated_at>Thu Oct 06 04:19:30 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157658286</id>
+  <body><![CDATA[<i>Ivana wrote: "you're so funny:)"</i><br /><br />Hello Ivana! I think being funny is a defence mechanism I have developed as an effect of being incredibly clumsy! As I am very likely to end up in embarrassing situations all the time, it is a survival skill to be the first one to joke about it ... ;-)]]></body>
+  
+  <user>
+    <id>32532774</id>
+    <name>Lisa</name>
+    <display_name>Lisa</display_name>
+
+    <location>Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32532774-lisa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480492067p3/32532774.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480492067p2/32532774.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Oct 06 05:55:12 -0700 2016</created_at>
+  <updated_at>Thu Oct 06 05:55:12 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157667750</id>
+  <body><![CDATA[<i>If symptoms do not diminish after enjoying a couple of good, real books, please see your librarian for memory removal surgery or therapy. </i><br><br>Just as a caution: I believe only holders of Doctorates in Library Science are qualified to perform these services. Don't be fobbed off with a mere assistant librarian, who may still be learning from sheep and consulting the universe for direction. <br><br><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1475775029i/20765208.jpg" class="gr-hostedUserImg">]]></body>
+  
+  <user>
+    <id>237469</id>
+    <name>Miriam</name>
+    <display_name>Miriam</display_name>
+
+    <location>Sacramento, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/237469-miriam]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1275489063p3/237469.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1275489063p2/237469.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Oct 06 10:30:28 -0700 2016</created_at>
+  <updated_at>Thu Oct 06 10:30:28 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157668384</id>
+  <body><![CDATA[<i>Miriam wrote: "If symptoms do not diminish after enjoying a couple of good, real books, please see your librarian for memory removal surgery or therapy. <br /><br />Just as a caution: I believe only holders of Doctorates i..."</i><br /><br />That is absolutely hilarious! Thank you Miriam, you made me laugh out loud! And you are so right. Imagine the nightmare if you want to have "Alchemist Memory Removal Surgery" and end up with "Implantation Of Coelho's Complete Oeuvre" instead, because the sheepish assistant librarian checked the wrong library card...]]></body>
+  
+  <user>
+    <id>32532774</id>
+    <name>Lisa</name>
+    <display_name>Lisa</display_name>
+
+    <location>Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32532774-lisa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480492067p3/32532774.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480492067p2/32532774.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Oct 06 10:47:31 -0700 2016</created_at>
+  <updated_at>Thu Oct 06 10:47:31 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157668711</id>
+  <body><![CDATA[That would be terrible. I can scarcely imagine how that would affect your brain. <br /><br />(Also, I just had the idea for a computer app where one puts in any text and it is transformed into the Coelho prose style. The Coehlhofiguration Engine, I plan to call it.)]]></body>
+  
+  <user>
+    <id>237469</id>
+    <name>Miriam</name>
+    <display_name>Miriam</display_name>
+
+    <location>Sacramento, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/237469-miriam]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1275489063p3/237469.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1275489063p2/237469.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Oct 06 10:55:56 -0700 2016</created_at>
+  <updated_at>Thu Oct 06 10:55:56 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157669080</id>
+  <body><![CDATA[<i>Miriam wrote: "That would be terrible. I can scarcely imagine how that would affect your brain. <br /><br />(Also, I just had the idea for a computer app where one puts in any text and it is transformed into the Coelho pro..."</i><br /><br />I bet you don't even have to ask all universe to conspire to help you achieve that goal!<br />Actually, you could start by running any text through google translate, and you would have the basics. <br />The question is, what would you call the product? And who is the target group?]]></body>
+  
+  <user>
+    <id>32532774</id>
+    <name>Lisa</name>
+    <display_name>Lisa</display_name>
+
+    <location>Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32532774-lisa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480492067p3/32532774.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480492067p2/32532774.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Oct 06 11:07:14 -0700 2016</created_at>
+  <updated_at>Thu Oct 06 11:07:14 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157670762</id>
+  <body><![CDATA[Hmm, good question. Maybe I could market it to people who find Coelho inspiring? "Want to give life-changing advice to your loved ones but can't find the right words?" my advert will ask. "Write your thoughts down, then Coelhofy them into deep, universal spiritual metaphors!"<br /><br />I should probably consult someone who has read more than 2 pages of Coelho, to get the wording right.]]></body>
+  
+  <user>
+    <id>237469</id>
+    <name>Miriam</name>
+    <display_name>Miriam</display_name>
+
+    <location>Sacramento, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/237469-miriam]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1275489063p3/237469.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1275489063p2/237469.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Oct 06 11:57:36 -0700 2016</created_at>
+  <updated_at>Thu Oct 06 11:57:36 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159759835</id>
+  <body><![CDATA[I needed only to see the one star at the top to press the like button. But kudos for this hilarious piece, Lisa. Excellent!]]></body>
+  
+  <user>
+    <id>5407952</id>
+    <name>Jibran</name>
+    <display_name>Jibran</display_name>
+
+    <location><![CDATA[Mohenjodaro, Pakistan, Pakistan]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5407952-jibran]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1418924179p3/5407952.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1418924179p2/5407952.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Dec 02 00:19:42 -0800 2016</created_at>
+  <updated_at>Fri Dec 02 00:19:42 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159760321</id>
+  <body><![CDATA[<i>Jibran wrote: "I needed only to see the one star at the top to press the like button. But kudos for this hilarious piece, Lisa. Excellent!"</i><br /><br />Thanks, Jibran! I occasionally find it interesting to consider whether Coelho is not a hidden stand up comedian after all. His books are full of great punch lines...<br />It only gets creepy if you think he really means what he says. And people believe him...]]></body>
+  
+  <user>
+    <id>32532774</id>
+    <name>Lisa</name>
+    <display_name>Lisa</display_name>
+
+    <location>Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32532774-lisa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480492067p3/32532774.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480492067p2/32532774.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Dec 02 00:52:48 -0800 2016</created_at>
+  <updated_at>Fri Dec 02 00:52:48 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>163712841</id>
+  <body><![CDATA[Re Irony: Do you know about <em>Irony Punctuation</em>? <br />See here<br /><a target="_blank" href="https://en.wikipedia.org/wiki/Irony_punctuation#Irony_mark" rel="nofollow">https://en.wikipedia.org/wiki/Irony_p...</a><br />Bummer that most of the characters won't display in most browsers. But maybe <em>that's</em> the irony. I don't know.]]></body>
+  
+  <user>
+    <id>16077597</id>
+    <name>Matt</name>
+    <display_name>Matt</display_name>
+
+    <location>Germany</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16077597-matt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478422915p3/16077597.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478422915p2/16077597.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Mar 09 03:49:24 -0800 2017</created_at>
+  <updated_at>Thu Mar 09 03:49:24 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>163727045</id>
+  <body><![CDATA[haha. i really enjoyed reading this :))]]></body>
+  
+  <user>
+    <id>52652</id>
+    <name>Niloufar </name>
+    <display_name>Niloufar  Rahmanian</display_name>
+
+    <location>Tehran, Iran</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52652-niloufar-rahmanian]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486908936p3/52652.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486908936p2/52652.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Mar 09 11:04:42 -0800 2017</created_at>
+  <updated_at>Thu Mar 09 11:04:42 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>163728196</id>
+  <body><![CDATA[All these years I thought I was alone.]]></body>
+  
+  <user>
+    <id>17744555</id>
+    <name>BlackOxford</name>
+    <display_name>BlackOxford</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17744555-blackoxford]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1484863606p3/17744555.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1484863606p2/17744555.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Mar 09 11:38:56 -0800 2017</created_at>
+  <updated_at>Thu Mar 09 11:38:56 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>163730608</id>
+  <body><![CDATA[I found that by taping the covers together, thus sealing over the pages, one can use this book as an excellent four-cornered discus.]]></body>
+  
+  <user>
+    <id>8930751</id>
+    <name>RK-ique</name>
+    <display_name>RK-ique</display_name>
+
+    <location>Ottawa, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8930751-rk-ique]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478051312p3/8930751.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478051312p2/8930751.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Mar 09 12:40:25 -0800 2017</created_at>
+  <updated_at>Thu Mar 09 12:40:25 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>163730796</id>
+  <body><![CDATA[<i>RK-ique wrote: "I found that by taping the covers together, thus sealing over the pages, one can use this book as an excellent four-cornered discus."</i><br /><br />What excellent use you made of it, RK-ique! Hands-on therapy. But I fear you read it first, as I can see you rated it as highly as I did. Did you also have difficulties getting into sheep mode before reading?]]></body>
+  
+  <user>
+    <id>32532774</id>
+    <name>Lisa</name>
+    <display_name>Lisa</display_name>
+
+    <location>Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32532774-lisa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480492067p3/32532774.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480492067p2/32532774.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Mar 09 12:47:02 -0800 2017</created_at>
+  <updated_at>Thu Mar 09 12:47:02 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>163730832</id>
+  <body><![CDATA[<i>BlackOxford wrote: "All these years I thought I was alone."</i><br /><br />No, Michael! There is a secret club of "one-starers"!]]></body>
+  
+  <user>
+    <id>32532774</id>
+    <name>Lisa</name>
+    <display_name>Lisa</display_name>
+
+    <location>Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32532774-lisa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480492067p3/32532774.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480492067p2/32532774.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Mar 09 12:47:57 -0800 2017</created_at>
+  <updated_at>Thu Mar 09 12:47:57 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>163730843</id>
+  <body><![CDATA[<i>Niloufar wrote: "haha. i really enjoyed reading this :))"</i><br /><br />Thanks, Niloufar!]]></body>
+  
+  <user>
+    <id>32532774</id>
+    <name>Lisa</name>
+    <display_name>Lisa</display_name>
+
+    <location>Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32532774-lisa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480492067p3/32532774.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480492067p2/32532774.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Mar 09 12:48:18 -0800 2017</created_at>
+  <updated_at>Thu Mar 09 12:48:18 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>163730865</id>
+  <body><![CDATA[<i>Matt wrote: "Re Irony: Do you know about Irony Punctuation? <br />See here<br /><a target="_blank" href="https://en.wikipedia.org/wiki/Irony_punctuation#Irony_mark" rel="nofollow">https://en.wikipedia.org/wiki/Irony_p...</a><br />Bummer that most of the characters won't display in most browsers. But maybe that..."</i><br /><br />That would have been something to teach teenagers!]]></body>
+  
+  <user>
+    <id>32532774</id>
+    <name>Lisa</name>
+    <display_name>Lisa</display_name>
+
+    <location>Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32532774-lisa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480492067p3/32532774.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480492067p2/32532774.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Mar 09 12:48:55 -0800 2017</created_at>
+  <updated_at>Thu Mar 09 12:48:55 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>163736614</id>
+  <body><![CDATA[Delicious review Lisa!]]></body>
+  
+  <user>
+    <id>21865425</id>
+    <name>Eleanor</name>
+    <display_name>Eleanor</display_name>
+
+    <location><![CDATA[Melbourne, Victoria, Australia]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/21865425-eleanor]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1372844061p3/21865425.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1372844061p2/21865425.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Mar 09 16:06:10 -0800 2017</created_at>
+  <updated_at>Thu Mar 09 16:06:10 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>163747895</id>
+  <body><![CDATA[<i>Eleanor wrote: "Delicious review Lisa!"</i><br /><br />Thanks, Eleanor!]]></body>
+  
+  <user>
+    <id>32532774</id>
+    <name>Lisa</name>
+    <display_name>Lisa</display_name>
+
+    <location>Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32532774-lisa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480492067p3/32532774.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480492067p2/32532774.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Mar 09 23:22:16 -0800 2017</created_at>
+  <updated_at>Thu Mar 09 23:22:16 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>163748114</id>
+  <body><![CDATA[Es gibt kaum Autoren, über die ich mich persönlich aufregen würde, und eigentlich fällt mir nur ein einziger Name in: Coelho! Sein Gutmenschtum, das auf billiger Besserwisserei und Pseudoerleuchtung basiert, ist schwer genug zu ertragen. Seit er öffentlich den ULYSSES von Joyce als die Wurzel allen Übels im gegenwärtigen Literaturbetrieb ausgemacht hat, fällt es mir mehr als schwer, ihn als das zu ignorieren, was er ist: ein berechnender Einfaltspinsel!]]></body>
+  
+  <user>
+    <id>4486167</id>
+    <name>Michael</name>
+    <display_name>Michael</display_name>
+
+    <location>Eutin, Germany, Germany</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4486167-michael]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1453753426p3/4486167.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1453753426p2/4486167.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Mar 09 23:35:33 -0800 2017</created_at>
+  <updated_at>Thu Mar 09 23:35:33 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>163749171</id>
+  <body><![CDATA[:D great review, nasty (I think this is the correct English word German:fies Austrian: pöhse) but Coelho deserves this all :D]]></body>
+  
+  <user>
+    <id>2982535</id>
+    <name>Alexandra </name>
+    <display_name>Alexandra </display_name>
+
+    <location>Krems, 3500, Austria</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2982535-alexandra]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1359713698p3/2982535.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1359713698p2/2982535.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 10 00:48:11 -0800 2017</created_at>
+  <updated_at>Fri Mar 10 00:48:11 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>163751846</id>
+  <body><![CDATA[<i>Michael wrote: "Es gibt kaum Autoren, über die ich mich persönlich aufregen würde, und eigentlich fällt mir nur ein einziger Name in: Coelho! Sein Gutmenschtum, das auf billiger Besserwisserei und Pseudoerleuchtun..."</i><br /><br />Ich weiss. Ich habe jahrelang nur den Kopf geschüttelt, dass so viele Menschen in meiner Umgebung ihn "so tiefsinnig" finden, dass er ihr Leben verändert hat. Irgendwann, nach zwei oder drei anderen Katastrophenromanen von ihm, die mir die Galle hochkommen liessen, ist mir der Kragen geplatzt! Was dumm ist, muss dumm genannt werden. Punkt.]]></body>
+  
+  <user>
+    <id>32532774</id>
+    <name>Lisa</name>
+    <display_name>Lisa</display_name>
+
+    <location>Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32532774-lisa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480492067p3/32532774.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480492067p2/32532774.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 10 03:49:09 -0800 2017</created_at>
+  <updated_at>Fri Mar 10 03:49:09 -0800 2017</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/977162523]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/977162523]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

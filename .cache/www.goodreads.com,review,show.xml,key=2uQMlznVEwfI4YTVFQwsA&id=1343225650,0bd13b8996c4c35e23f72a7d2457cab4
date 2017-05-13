@@ -1,0 +1,144 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:48:37 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: 6WC1T2YYK7F4F15W25GR
+etag: W/"63f2d9554801901eb3e688316e83c3eb"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.156272
+set-cookie: csid=BAhJIhg4ODYtMTY4MTc0Mi0wMTUzMTE0BjoGRVQ%3D--479c30842edcc18a39bc532c2e941ae870a9c658; path=/; expires=Tue, 12 May 2037 13:48:36 -0000, locale=es; path=/, _session_id2=e0683293765ff17913dfa0e11c77b791; path=/; expires=Fri, 12 May 2017 19:48:37 -0000; HttpOnly
+content-length: 5328
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=1343225650
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1343225650</id>
+    
+  <user>
+    <id>25058068</id>
+    <name><![CDATA[Bookaholic (reads every mortal thing)]]></name>
+    <display_name><![CDATA[Bookaholic (reads every mortal thing)]]></display_name>
+
+    <location><![CDATA[Dubai, The United Arab Emirates]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25058068-bookaholic-reads-every-mortal-thing]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1386947007p3/25058068.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1386947007p2/25058068.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">2880</id>
+  <isbn>1591164419</isbn>
+  <isbn13>9781591164418</isbn13>
+  <text_reviews_count type="integer">834</text_reviews_count>
+  <title>Bleach, Volume 01</title>
+  <title_without_series>Bleach, Volume 01</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2880.Bleach_Volume_01</link>
+  <num_pages>200</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>VIZ Media LLC</publisher>
+  <publication_day>19</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.21</average_rating>
+  <ratings_count>117199</ratings_count>
+  <description>Hot-tempered 15-year-old Ichigo Kurosaki, the hero of the popular fantasy-adventure &lt;i&gt;
+  &lt;b&gt;
+    &lt;u&gt;Bleach&lt;/u&gt;
+  &lt;/b&gt;
+&lt;/i&gt;, has the unsettling ability to see spirits who are unable to rest in peace. His sixth sense leads him to Rukia, a Soul Reaper who destroys &lt;i&gt;Hollows&lt;/i&gt; (soul-devouring monsters) and ensures the deceased find repose with the Soul Society. When she's injured in battle, Rukia transfers her sword and much of her power to Ichigo, whose spiritual energy makes him a formidable substitute Soul Reaper. But the orange-haired teenager isn't sure he wants the job: too many risks and moral dilemmas.</description>
+<authors>
+<author>
+<id>1977</id>
+<name>Tite Kubo</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1253238688p5/1977.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1253238688p2/1977.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1977.Tite_Kubo]]></link>
+<average_rating>4.28</average_rating>
+<ratings_count>389029</ratings_count>
+<text_reviews_count>4580</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">952379441</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Fri Jul 31 09:12:51 -0700 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">942700160</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Thu Jul 23 09:58:15 -0700 2015</updated_at>
+          <ratings_count>4</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>3</rating>
+  <votes>6</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="fantasy" exclusive="false" review_shelf_id="1047915545" sortable="false" />
+    <shelf name="2015-read" exclusive="false" review_shelf_id="1047915546" sortable="false" />
+    <shelf name="manga-manhwa" exclusive="false" review_shelf_id="1044235809" sortable="false" />
+    <shelf name="2015-favs" exclusive="false" review_shelf_id="1047915543" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Jul 23 00:00:00 -0700 2015</started_at>
+  <read_at>Fri Jul 31 16:05:28 -0700 2015</read_at>
+  <date_added>Thu Jul 23 09:58:14 -0700 2015</date_added>
+  <date_updated>Fri Jul 31 09:20:22 -0700 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<b>3.5</b><br /><br />Okay, I really liked this and all, but <b>now freaking <i>way</i> am I reading all 600+ and counting chapters of this. </b> So, I read till as much as I could take at once (chapter 137). Maybe I'll continue this in the future *shrug*<br /><br />Not much to say, actually. The concept is not something I'm <i>completely</i> unfa...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1343225650]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1343225650]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

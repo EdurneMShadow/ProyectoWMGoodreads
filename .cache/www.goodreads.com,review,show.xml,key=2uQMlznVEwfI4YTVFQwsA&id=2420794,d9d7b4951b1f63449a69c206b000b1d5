@@ -1,0 +1,176 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:49:50 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: 43ZDRGT3AXQX81ECTGT1
+etag: W/"818d209a455ba1d6916b44d2315a3588"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.179362
+set-cookie: csid=BAhJIhgwMjItMzM3MzQzOC02MTY1MjYzBjoGRVQ%3D--77d2e4c67cbc3d2d4ae832a0c93138ff9af47433; path=/; expires=Tue, 12 May 2037 13:49:50 -0000, locale=es; path=/, _session_id2=4a773ecd3cf74bb277ebd3b774c576e1; path=/; expires=Fri, 12 May 2017 19:49:50 -0000; HttpOnly
+content-length: 6326
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=2420794
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>2420794</id>
+    
+  <user>
+    <id>155411</id>
+    <name>Michael</name>
+    <display_name>Michael</display_name>
+
+    <location>Denver, CO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/155411-michael]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1400181685p3/155411.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1400181685p2/155411.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">968</id>
+  <isbn>0307277674</isbn>
+  <isbn13>9780307277671</isbn13>
+  <text_reviews_count type="integer">32869</text_reviews_count>
+  <title>The Da Vinci Code (Robert Langdon, #2)</title>
+  <title_without_series>The Da Vinci Code</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1303252999m/968.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1303252999s/968.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/968.The_Da_Vinci_Code</link>
+  <num_pages>481</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Anchor</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.78</average_rating>
+  <ratings_count>1531664</ratings_count>
+  <description>An ingenious code hidden in the works of Leonardo da Vinci. A desperate race through the cathedrals and castles of Europe. An astonishing truth concealed for centuries . . . unveiled at last.&lt;br /&gt;&lt;br /&gt;While in Paris, Harvard symbologist Robert Langdon is awakened by a phone call in the dead of the night. The elderly curator of the Louvre has been murdered inside the museum, his body covered in baffling symbols. As Langdon and gifted French cryptologist Sophie Neveu sort through the bizarre riddles, they are stunned to discover a trail of clues hidden in the works of Leonardo da Vinci—clues visible for all to see and yet ingeniously disguised by the painter.&lt;br /&gt;&lt;br /&gt;Even more startling, the late curator was involved in the Priory of Sion—a secret society whose members included Sir Isaac Newton, Victor Hugo, and Da Vinci—and he guarded a breathtaking historical secret. Unless Langdon and Neveu can decipher the labyrinthine puzzle—while avoiding the faceless adversary who shadows their every move—the explosive, ancient truth will be lost forever.</description>
+<authors>
+<author>
+<id>630</id>
+<name>Dan Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p5/630.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p2/630.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/630.Dan_Brown]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>5211301</ratings_count>
+<text_reviews_count>138647</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1226850484</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Feb 07 05:53:11 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>41</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu May 01 00:00:00 -0700 2003</read_at>
+  <date_added>Tue Jun 26 16:49:44 -0700 2007</date_added>
+  <date_updated>Thu Jan 09 22:58:33 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I read the Baigent book a decade before I read this novel.<br /><br />Somehow, Brown managed to "dumbify" everything.<br /><br />Afterwards I read Eco to wash the taste out of my brain.]]>
+  </body>
+
+  
+
+  <comments_count>2</comments_count>
+    <comments start="1" end="2" total="2">
+        <comment>
+  <id>55997465</id>
+  <body><![CDATA[I agree I also read the Baigent book earlier and "Dumbify" is a perfect word to describe what he has done. Also to describe his style of writing where he feels the need to guide the readers through the clues!]]></body>
+  
+  <user>
+    <id>9965602</id>
+    <name>Diana</name>
+    <display_name>Diana</display_name>
+
+    <location>Perth, 08, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9965602-diana]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1338728777p3/9965602.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1338728777p2/9965602.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 11 09:06:22 -0700 2012</created_at>
+  <updated_at>Sat Aug 11 09:06:22 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>89659310</id>
+  <body><![CDATA[:D :D :D Hope you've recovered by now!]]></body>
+  
+  <user>
+    <id>27183690</id>
+    <name>Tom</name>
+    <display_name>Tom Tyler</display_name>
+
+    <location>League City, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27183690-tom-tyler]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 31 13:57:40 -0800 2013</created_at>
+  <updated_at>Tue Dec 31 13:57:40 -0800 2013</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/2420794]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2420794]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

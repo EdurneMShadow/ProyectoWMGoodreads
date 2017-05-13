@@ -1,20 +1,20 @@
 status: 200
-x-request-id: D7HJEZSP7ZFT1QRZ547A
+x-request-id: RH6WQGR4FR597KCV6QED
 x-xss-protection: 1; mode=block
 content-location: https://www.goodreads.com/review/show.xml?id=180662369&key=2uQMlznVEwfI4YTVFQwsA
 x-content-type-options: nosniff, nosniff
-set-cookie: csid=BAhJIhg5MjgtNzUzMzM0Mi04Mzg3NTg5BjoGRVQ%3D--d8fd87a230e1b418dddf0aabfe57c67d4ce1ff7b;
- path=/; expires=Fri, 08 May 2037 10:19:59 -0000, locale=es;
- path=/, _session_id2=8f75ebbb6aaf4c57ded474dbb511f483; path=/;
- expires=Mon, 08 May 2017 16:19:59 -0000; HttpOnly
+set-cookie: csid=BAhJIhg1ODktMjI0NTI5MC0xMzkyNTI4BjoGRVQ%3D--745c42556022d6b3ab416a3d89eee27c5bfecb71;
+ path=/; expires=Mon, 11 May 2037 07:59:04 -0000, locale=es;
+ path=/, _session_id2=5e0e30a1875072f53342a052f644a937; path=/;
+ expires=Thu, 11 May 2017 13:59:04 -0000; HttpOnly
 vary: User-Agent,Accept-Encoding
 connection: keep-alive
 content-length: 18903
 server: Server
-x-runtime: 0.301452
-etag: W/"e8f72da2c3f6593bb051611438104d40"
+x-runtime: 0.242643
+etag: W/"29672e2d4e353ef342ec037709203251"
 cache-control: max-age=0, private, must-revalidate
-date: Mon, 08 May 2017 10:19:59 GMT
+date: Thu, 11 May 2017 07:59:04 GMT
 x-frame-options: ALLOWALL
 content-type: application/xml; charset=utf-8
 -content-encoding: gzip
@@ -50,7 +50,7 @@ content-type: application/xml; charset=utf-8
   <id type="integer">11870085</id>
   <isbn>0525478817</isbn>
   <isbn13>9780525478812</isbn13>
-  <text_reviews_count type="integer">127140</text_reviews_count>
+  <text_reviews_count type="integer">127178</text_reviews_count>
   <title>The Fault in Our Stars</title>
   <title_without_series>The Fault in Our Stars</title_without_series>
   <image_url>https://images.gr-assets.com/books/1360206420m/11870085.jpg</image_url>
@@ -65,7 +65,7 @@ content-type: application/xml; charset=utf-8
   <publication_year>2012</publication_year>
   <publication_month>1</publication_month>
   <average_rating>4.27</average_rating>
-  <ratings_count>2378314</ratings_count>
+  <ratings_count>2381007</ratings_count>
   <description>&lt;i&gt;There is an alternate cover edition &lt;a href="https://www.goodreads.com/book/show/25856606-the-fault-in-our-stars" rel="nofollow"&gt;here&lt;/a&gt;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;"I fell in love the way you fall asleep: slowly, then all at once."&lt;br /&gt;&lt;br /&gt;Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a gorgeous plot twist named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten.&lt;br /&gt;&lt;br /&gt;Insightful, bold, irreverent, and raw, The Fault in Our Stars is award-winning author John Green's most ambitious and heartbreaking work yet, brilliantly exploring the funny, thrilling, and tragic business of being alive and in love.</description>
 <authors>
 <author>
@@ -80,8 +80,8 @@ content-type: application/xml; charset=utf-8
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
 <average_rating>4.11</average_rating>
-<ratings_count>4522099</ratings_count>
-<text_reviews_count>275671</text_reviews_count>
+<ratings_count>4526663</ratings_count>
+<text_reviews_count>275793</text_reviews_count>
 </author>
 </authors>
   <published>2012</published>
@@ -107,13 +107,13 @@ content-type: application/xml; charset=utf-8
 <shelves>
   <shelf name="read" exclusive="true" />
 
-    <shelf name="sad" exclusive="false" review_shelf_id="170884451" sortable="false" />
-    <shelf name="must-reads" exclusive="false" review_shelf_id="170884436" sortable="false" />
-    <shelf name="favourites" exclusive="false" review_shelf_id="170884410" sortable="false" />
     <shelf name="fast-reads" exclusive="false" review_shelf_id="170884401" sortable="false" />
-    <shelf name="love-stories" exclusive="false" review_shelf_id="170884431" sortable="false" />
-    <shelf name="funny" exclusive="false" review_shelf_id="170884419" sortable="false" />
     <shelf name="different" exclusive="false" review_shelf_id="170884396" sortable="false" />
+    <shelf name="favourites" exclusive="false" review_shelf_id="170884410" sortable="false" />
+    <shelf name="funny" exclusive="false" review_shelf_id="170884419" sortable="false" />
+    <shelf name="love-stories" exclusive="false" review_shelf_id="170884431" sortable="false" />
+    <shelf name="must-reads" exclusive="false" review_shelf_id="170884436" sortable="false" />
+    <shelf name="sad" exclusive="false" review_shelf_id="170884451" sortable="false" />
 </shelves>
   <recommended_for></recommended_for>
   <recommended_by></recommended_by>

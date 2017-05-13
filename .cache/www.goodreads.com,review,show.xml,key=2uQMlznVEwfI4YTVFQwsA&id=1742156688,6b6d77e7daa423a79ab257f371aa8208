@@ -1,0 +1,982 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:41:59 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: 274Y22E9F4JB2ZZ1XBM4
+etag: W/"74a39ee99e7ee2178c663583afa8fdfb"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.257301
+set-cookie: csid=BAhJIhg1MTctMTYyMzQzOS00NjEzOTA3BjoGRVQ%3D--11eb66502665c50f5252104a6025ece162485628; path=/; expires=Tue, 12 May 2037 13:41:59 -0000, locale=es; path=/, _session_id2=8c0d4fe6bb97ae6cd04a140c9ede5547; path=/; expires=Fri, 12 May 2017 19:41:59 -0000; HttpOnly
+content-length: 33964
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=1742156688
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1742156688</id>
+    
+  <user>
+    <id>5253785</id>
+    <name>Lyn</name>
+    <display_name>Lyn</display_name>
+
+    <location>Smyrna, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5253785-lyn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1468029774p3/5253785.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1468029774p2/5253785.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">865</id>
+  <isbn>0061122416</isbn>
+  <isbn13>9780061122415</isbn13>
+  <text_reviews_count type="integer">44775</text_reviews_count>
+  <title>The Alchemist</title>
+  <title_without_series>The Alchemist</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1483412266m/865.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1483412266s/865.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/865.The_Alchemist</link>
+  <num_pages>197</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>HarperCollins</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1993</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.81</average_rating>
+  <ratings_count>1348164</ratings_count>
+  <description>Paulo Coelho's enchanting novel has inspired a devoted following around the world. This story, dazzling in its powerful simplicity and inspiring wisdom, is about an Andalusian shepherd boy named Santiago who travels from his homeland in Spain to the Egyptian desert in search of a treasure buried in the Pyramids. Along the way he meets a Gypsy woman, a man who calls himself king, and an alchemist, all of whom point Santiago in the direction of his quest. No one knows what the treasure is, or if Santiago will be able to surmount the obstacles along the way. But what starts out as a journey to find worldly goods turns into a discovery of the treasure found within. Lush, evocative, and deeply humane, the story of Santiago is an eternal testament to the transforming power of our dreams and the importance of listening to our hearts.</description>
+<authors>
+<author>
+<id>566</id>
+<name>Paulo Coelho</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201840056p5/566.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201840056p2/566.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/566.Paulo_Coelho]]></link>
+<average_rating>3.72</average_rating>
+<ratings_count>2124981</ratings_count>
+<text_reviews_count>96430</text_reviews_count>
+</author>
+</authors>
+  <published>1993</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1490531513</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Tue Aug 30 03:48:06 -0700 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1489245590</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Mon Aug 29 04:13:32 -0700 2016</updated_at>
+          <ratings_count>9</ratings_count>
+          <comments_count>3</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>3</rating>
+  <votes>122</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Aug 29 00:00:00 -0700 2016</started_at>
+  <read_at>Tue Aug 30 15:37:56 -0700 2016</read_at>
+  <date_added>Mon Aug 29 04:13:31 -0700 2016</date_added>
+  <date_updated>Tue Aug 30 03:50:46 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This is either a beautifully written and fable-like illustration of simple and universal truths or a load of crap.<br /><br />I have a bad feeling it’s the later, but then I consider that there could also be a third option.<br /><br />I read once that Sting, when he wrote the classic Police song Every Breath You Take, m...]]>
+  </body>
+
+  
+
+  <comments_count>38</comments_count>
+    <comments start="1" end="38" total="38">
+        <comment>
+  <id>156163444</id>
+  <body><![CDATA[wait one second while I gag. okay, lyn, this is perhaps your funniest review that I have read. I love the ruminations. when I read said book, I did not ruminate as much as you are. it was a sort of black and white, with little to zero nuance. your segue to the police and credence is hysterical. in my opinion, sting's two masterpieces, 'desert rose' and 'fragile' will have a longer shelf life than Coelho or any 'fortunate son.' thanks for the review, I needed to smile.]]></body>
+  
+  <user>
+    <id>27843908</id>
+    <name>david </name>
+    <display_name>david </display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27843908-david]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1466706229p3/27843908.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1466706229p2/27843908.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 30 04:08:22 -0700 2016</created_at>
+  <updated_at>Tue Aug 30 04:08:22 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>156164540</id>
+  <body><![CDATA[Thanks david, I'd say about half way through that thought began to occur to me and then when Santiago was talking to the Alchemist I really did wonder if this was told tongue in cheek]]></body>
+  
+  <user>
+    <id>5253785</id>
+    <name>Lyn</name>
+    <display_name>Lyn</display_name>
+
+    <location>Smyrna, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5253785-lyn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1468029774p3/5253785.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1468029774p2/5253785.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 30 04:58:02 -0700 2016</created_at>
+  <updated_at>Tue Aug 30 04:58:02 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>156164581</id>
+  <body><![CDATA[Ha!]]></body>
+  
+  <user>
+    <id>9889835</id>
+    <name>Matthias</name>
+    <display_name>Matthias</display_name>
+
+    <location>Brussels, Belgium</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9889835-matthias]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1448737319p3/9889835.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1448737319p2/9889835.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 30 04:59:54 -0700 2016</created_at>
+  <updated_at>Tue Aug 30 04:59:54 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>156164730</id>
+  <body><![CDATA[Great review and fantastic rock references, Lyn. No Iron Maiden, though? ;)]]></body>
+  
+  <user>
+    <id>2457095</id>
+    <name>Apatt</name>
+    <display_name>Apatt</display_name>
+
+    <location>Bangkok, Thailand</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2457095-apatt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1349239948p3/2457095.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1349239948p2/2457095.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 30 05:05:53 -0700 2016</created_at>
+  <updated_at>Tue Aug 30 05:05:53 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>156164827</id>
+  <body><![CDATA[Thanks Apatt! Iron Maiden doesn't joke around. ;) "Run to the hills!"]]></body>
+  
+  <user>
+    <id>5253785</id>
+    <name>Lyn</name>
+    <display_name>Lyn</display_name>
+
+    <location>Smyrna, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5253785-lyn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1468029774p3/5253785.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1468029774p2/5253785.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 30 05:09:29 -0700 2016</created_at>
+  <updated_at>Tue Aug 30 05:09:29 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>156168965</id>
+  <body><![CDATA[Paulo Coelho is a motivator not a writer, in my opinion. Do you know that his Facebook posts filled with his own quotes from his own books along with his portraits? He likes to quote from his own books. And he likes his own face. Imagine.]]></body>
+  
+  <user>
+    <id>23193590</id>
+    <name>J.</name>
+    <display_name>J. Garammyigan</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23193590-j-garammyigan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1454080585p3/23193590.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1454080585p2/23193590.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 30 07:26:06 -0700 2016</created_at>
+  <updated_at>Tue Aug 30 07:26:06 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>156172807</id>
+  <body><![CDATA[This is excellent! After reading your review, I was surprised to see that it's on my "want to read" list. I added it in June and have no idea why!]]></body>
+  
+  <user>
+    <id>27068311</id>
+    <name>Amy</name>
+    <display_name>Amy</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27068311-amy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1484700780p3/27068311.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1484700780p2/27068311.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 30 09:07:10 -0700 2016</created_at>
+  <updated_at>Tue Aug 30 09:07:10 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>156174747</id>
+  <body><![CDATA[Thanks Amy! I did not hate it, but neither did I take it very seriously]]></body>
+  
+  <user>
+    <id>5253785</id>
+    <name>Lyn</name>
+    <display_name>Lyn</display_name>
+
+    <location>Smyrna, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5253785-lyn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1468029774p3/5253785.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1468029774p2/5253785.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 30 10:08:52 -0700 2016</created_at>
+  <updated_at>Tue Aug 30 10:08:52 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>156174751</id>
+  <body><![CDATA[J. that is funny all by itself]]></body>
+  
+  <user>
+    <id>5253785</id>
+    <name>Lyn</name>
+    <display_name>Lyn</display_name>
+
+    <location>Smyrna, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5253785-lyn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1468029774p3/5253785.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1468029774p2/5253785.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 30 10:09:09 -0700 2016</created_at>
+  <updated_at>Tue Aug 30 10:09:09 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>156180994</id>
+  <body><![CDATA[Curiouser and curiouser! I am also leaning towards the latter...]]></body>
+  
+  <user>
+    <id>978552</id>
+    <name>Cathy (cathepsut)</name>
+    <display_name>Cathy (cathepsut)</display_name>
+
+    <location>Germany</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/978552-cathy-cathepsut]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493966035p3/978552.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493966035p2/978552.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 30 12:47:31 -0700 2016</created_at>
+  <updated_at>Tue Aug 30 12:47:31 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>156182927</id>
+  <body><![CDATA[Well that was entertaining, Lyn. Thanks for the laugh! I liked this when I first read it several years ago. Later I could have sworn that the story line is not original at all. My kids had a book called "The Treasure" which was written earlier and was pretty much the exact same story. Also, I'm amazed by what what J. Garammyigan said above. Sounds a bit full of himself.]]></body>
+  
+  <user>
+    <id>6326169</id>
+    <name>Negin</name>
+    <display_name>Negin</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6326169-negin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493834659p3/6326169.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493834659p2/6326169.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 30 13:41:42 -0700 2016</created_at>
+  <updated_at>Tue Aug 30 13:41:42 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>156183869</id>
+  <body><![CDATA[Thank you thank you, I'll be here all week]]></body>
+  
+  <user>
+    <id>5253785</id>
+    <name>Lyn</name>
+    <display_name>Lyn</display_name>
+
+    <location>Smyrna, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5253785-lyn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1468029774p3/5253785.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1468029774p2/5253785.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 30 14:07:04 -0700 2016</created_at>
+  <updated_at>Tue Aug 30 14:07:04 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>156186231</id>
+  <body><![CDATA[I've avoided this book bc of the what I've heard about the syrupy schmaltz.]]></body>
+  
+  <user>
+    <id>34033</id>
+    <name>John</name>
+    <display_name>John Devlin</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34033-john-devlin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1174519150p3/34033.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1174519150p2/34033.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 30 15:12:09 -0700 2016</created_at>
+  <updated_at>Tue Aug 30 15:12:09 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>156190518</id>
+  <body><![CDATA[Somehow you made Andy Kaufman the star of this review and for that you rock!!]]></body>
+  
+  <user>
+    <id>54784560</id>
+    <name>Dawn</name>
+    <display_name>Dawn</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/54784560-dawn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478015523p3/54784560.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478015523p2/54784560.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 30 17:22:56 -0700 2016</created_at>
+  <updated_at>Tue Aug 30 17:22:56 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>156193361</id>
+  <body><![CDATA[;)]]></body>
+  
+  <user>
+    <id>5253785</id>
+    <name>Lyn</name>
+    <display_name>Lyn</display_name>
+
+    <location>Smyrna, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5253785-lyn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1468029774p3/5253785.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1468029774p2/5253785.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 30 18:47:32 -0700 2016</created_at>
+  <updated_at>Tue Aug 30 18:47:32 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>156212459</id>
+  <body><![CDATA[You're over-thinking it, Lyn. It's crap! Andy Kaufman - how we miss him! I remember his first Mighty Mouse bit on SNL - brilliant ...]]></body>
+  
+  <user>
+    <id>5295008</id>
+    <name>Chris</name>
+    <display_name>Chris Gager</display_name>
+
+    <location>Phippsburg, ME</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5295008-chris-gager]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1307204529p3/5295008.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1307204529p2/5295008.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 31 08:21:29 -0700 2016</created_at>
+  <updated_at>Wed Aug 31 08:21:29 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>156217649</id>
+  <body><![CDATA[I also liked Ladka on Taxi]]></body>
+  
+  <user>
+    <id>5253785</id>
+    <name>Lyn</name>
+    <display_name>Lyn</display_name>
+
+    <location>Smyrna, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5253785-lyn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1468029774p3/5253785.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1468029774p2/5253785.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 31 10:41:22 -0700 2016</created_at>
+  <updated_at>Wed Aug 31 10:41:22 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>156217754</id>
+  <body><![CDATA[Yup ... a strange man.]]></body>
+  
+  <user>
+    <id>5295008</id>
+    <name>Chris</name>
+    <display_name>Chris Gager</display_name>
+
+    <location>Phippsburg, ME</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5295008-chris-gager]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1307204529p3/5295008.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1307204529p2/5295008.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 31 10:44:08 -0700 2016</created_at>
+  <updated_at>Wed Aug 31 10:44:08 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>156228358</id>
+  <body><![CDATA[Hysterical review, and gets at how we see (and/or make) order out of chaos ("discovery by accident" - like the songs). I wanted to marry Andy Kaufman!]]></body>
+  
+  <created_at>Wed Aug 31 15:54:56 -0700 2016</created_at>
+  <updated_at>Wed Aug 31 15:54:56 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>156230571</id>
+  <body><![CDATA[Ha! thanks Christy]]></body>
+  
+  <user>
+    <id>5253785</id>
+    <name>Lyn</name>
+    <display_name>Lyn</display_name>
+
+    <location>Smyrna, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5253785-lyn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1468029774p3/5253785.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1468029774p2/5253785.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 31 17:09:02 -0700 2016</created_at>
+  <updated_at>Wed Aug 31 17:09:02 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>156308539</id>
+  <body><![CDATA[More fun than the book!<br /><br />I assumed 3* reviews of this book weren't allowed, but looking at the GR stats, it's a pretty straight line from 5% at 1* to 35% at 5*.]]></body>
+  
+  <user>
+    <id>1199525</id>
+    <name>Cecily</name>
+    <display_name>Cecily</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1199525-cecily]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480285828p3/1199525.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480285828p2/1199525.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 02 15:27:44 -0700 2016</created_at>
+  <updated_at>Fri Sep 02 15:27:44 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>156315555</id>
+  <body><![CDATA[Fantastic review, Lyn! :) Loved the reference to Sting, specially <i>Every Breath You Take</i>. Sorry, but as to reading <i>The Alchemist</i>, I don't know. Ah, ah. With your wit you could have convinced me... Maybe next time. L.]]></body>
+  
+  <user>
+    <id>30575403</id>
+    <name>Lizzy</name>
+    <display_name>Lizzy</display_name>
+
+    <location>Brazil</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/30575403-lizzy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493045022p3/30575403.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493045022p2/30575403.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 02 19:33:55 -0700 2016</created_at>
+  <updated_at>Fri Sep 02 19:33:55 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>156317168</id>
+  <body><![CDATA[Thanks Cecily and Lizzy!]]></body>
+  
+  <user>
+    <id>5253785</id>
+    <name>Lyn</name>
+    <display_name>Lyn</display_name>
+
+    <location>Smyrna, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5253785-lyn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1468029774p3/5253785.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1468029774p2/5253785.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 02 20:36:54 -0700 2016</created_at>
+  <updated_at>Fri Sep 02 20:36:54 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>156331387</id>
+  <body><![CDATA[Ha - yes, great, Lyn, to quote Sting's Every Breath You Take, that I cannot hear without thinking of Gary Marx playing the song before he gave his lecture on his <a href="https://www.goodreads.com/book/show/25198023.Windows_into_the_Soul_Surveillance_and_Society_in_an_Age_of_High_Technology" title="Windows into the Soul Surveillance and Society in an Age of High Technology by Gary T. Marx" rel="nofollow">Windows into the Soul: Surveillance and Society in an Age of High Technology</a> with the then new field of "Surveillance Studies"! Not to feed into our basic paranoia, tho. :-)]]></body>
+  
+  <created_at>Sat Sep 03 08:02:45 -0700 2016</created_at>
+  <updated_at>Sat Sep 03 08:02:45 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>156338451</id>
+  <body><![CDATA[Will Smith says this is his favorite book and is dead serious about it (check out the clip). Personally I find it quite inspiring! But, of course, we all have different taste and that's fine with me. <a target="_blank" href="https://www.youtube.com/watch?v=Ckhbz4xuLfM" rel="nofollow">https://www.youtube.com/watch?v=Ckhbz...</a>]]></body>
+  
+  <user>
+    <id>13932781</id>
+    <name>Rahim Nicolay</name>
+    <display_name>Rahim Nicolay Ali</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13932781-rahim-nicolay-ali]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488401710p3/13932781.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488401710p2/13932781.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Sep 03 11:38:46 -0700 2016</created_at>
+  <updated_at>Sat Sep 03 11:38:46 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>156339507</id>
+  <body><![CDATA[Thanks Christy and yes Rahim, absolutely, I am very much a to each his own person and I can see how this would inspire someone, I just read it different]]></body>
+  
+  <user>
+    <id>5253785</id>
+    <name>Lyn</name>
+    <display_name>Lyn</display_name>
+
+    <location>Smyrna, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5253785-lyn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1468029774p3/5253785.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1468029774p2/5253785.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Sep 03 12:15:48 -0700 2016</created_at>
+  <updated_at>Sat Sep 03 12:15:48 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>156660914</id>
+  <body><![CDATA[Great review, Lyn!]]></body>
+  
+  <user>
+    <id>48492241</id>
+    <name>George</name>
+    <display_name>George Jankovic</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/48492241-george-jankovic]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492530766p3/48492241.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492530766p2/48492241.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Sep 11 06:34:05 -0700 2016</created_at>
+  <updated_at>Sun Sep 11 06:34:05 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157074802</id>
+  <body><![CDATA[Thanks George]]></body>
+  
+  <user>
+    <id>5253785</id>
+    <name>Lyn</name>
+    <display_name>Lyn</display_name>
+
+    <location>Smyrna, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5253785-lyn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1468029774p3/5253785.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1468029774p2/5253785.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Sep 20 18:18:31 -0700 2016</created_at>
+  <updated_at>Tue Sep 20 18:18:31 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157081572</id>
+  <body><![CDATA[I'll go with the second option as wel ;)<br />Nice one, Lyn.]]></body>
+  
+  <user>
+    <id>41690792</id>
+    <name>Muthuvel</name>
+    <display_name>Muthuvel Deivendran</display_name>
+
+    <location>Chennai, India, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/41690792-muthuvel-deivendran]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492196623p3/41690792.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492196623p2/41690792.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Sep 20 23:24:52 -0700 2016</created_at>
+  <updated_at>Tue Sep 20 23:24:52 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157086209</id>
+  <body><![CDATA[Thanks Muthuvel]]></body>
+  
+  <user>
+    <id>5253785</id>
+    <name>Lyn</name>
+    <display_name>Lyn</display_name>
+
+    <location>Smyrna, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5253785-lyn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1468029774p3/5253785.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1468029774p2/5253785.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Sep 21 03:59:29 -0700 2016</created_at>
+  <updated_at>Wed Sep 21 03:59:29 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157101599</id>
+  <body><![CDATA[Really Lyn?<br /><br />I heard Sting based the song off of 1984, or at least a version of it which depicts a facist government watching everything you do.]]></body>
+  
+  <user>
+    <id>38362580</id>
+    <name>Rory</name>
+    <display_name>Rory</display_name>
+
+    <location><![CDATA[Stourbridge, N1, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/38362580-rory]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1440327528p3/38362580.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1440327528p2/38362580.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Sep 21 12:05:07 -0700 2016</created_at>
+  <updated_at>Wed Sep 21 12:05:07 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157103971</id>
+  <body><![CDATA[I had not heard that. Can't say where I heard my version but it seems like it is more applicable, "since you've gone I've been lost" etc]]></body>
+  
+  <user>
+    <id>5253785</id>
+    <name>Lyn</name>
+    <display_name>Lyn</display_name>
+
+    <location>Smyrna, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5253785-lyn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1468029774p3/5253785.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1468029774p2/5253785.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Sep 21 13:13:40 -0700 2016</created_at>
+  <updated_at>Wed Sep 21 13:13:40 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157714007</id>
+  <body><![CDATA[Thanks Kavita. Looking back, and after reading so many of the other reviews, I think he may be pretentious and self important, but the book was not bad. And it was short, that helps.]]></body>
+  
+  <user>
+    <id>5253785</id>
+    <name>Lyn</name>
+    <display_name>Lyn</display_name>
+
+    <location>Smyrna, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5253785-lyn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1468029774p3/5253785.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1468029774p2/5253785.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 07 14:53:14 -0700 2016</created_at>
+  <updated_at>Fri Oct 07 14:53:14 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>165749594</id>
+  <body><![CDATA[Absolutely loved your review!]]></body>
+  
+  <user>
+    <id>17957823</id>
+    <name>Erin</name>
+    <display_name>Erin</display_name>
+
+    <location>Rimouski, QC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17957823-erin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486923460p3/17957823.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486923460p2/17957823.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Apr 29 18:01:06 -0700 2017</created_at>
+  <updated_at>Sat Apr 29 18:01:06 -0700 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>165754176</id>
+  <body><![CDATA[;)]]></body>
+  
+  <user>
+    <id>5253785</id>
+    <name>Lyn</name>
+    <display_name>Lyn</display_name>
+
+    <location>Smyrna, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5253785-lyn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1468029774p3/5253785.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1468029774p2/5253785.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Apr 29 20:55:05 -0700 2017</created_at>
+  <updated_at>Sat Apr 29 20:55:05 -0700 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>165806306</id>
+  <body><![CDATA[One thing for sure: Andy Kaufman really had a weird sense of humor.]]></body>
+  
+  <user>
+    <id>23193590</id>
+    <name>J.</name>
+    <display_name>J. Garammyigan</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23193590-j-garammyigan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1454080585p3/23193590.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1454080585p2/23193590.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon May 01 05:40:51 -0700 2017</created_at>
+  <updated_at>Mon May 01 05:40:51 -0700 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>165807906</id>
+  <body><![CDATA[indeed]]></body>
+  
+  <user>
+    <id>5253785</id>
+    <name>Lyn</name>
+    <display_name>Lyn</display_name>
+
+    <location>Smyrna, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5253785-lyn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1468029774p3/5253785.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1468029774p2/5253785.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon May 01 06:30:07 -0700 2017</created_at>
+  <updated_at>Mon May 01 06:30:07 -0700 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>165812430</id>
+  <body><![CDATA[I read this long ago, but I saw it as the beautifully written fable. A person's response to it probably depends at where they are in life and what they are going through when they read it. I also took it as fun, not literal. For me it was perfect.]]></body>
+  
+  <user>
+    <id>4047077</id>
+    <name>Sue</name>
+    <display_name>Sue K H</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4047077-sue-k-h]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1470439999p3/4047077.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1470439999p2/4047077.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon May 01 08:27:03 -0700 2017</created_at>
+  <updated_at>Mon May 01 08:27:03 -0700 2017</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1742156688]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1742156688]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

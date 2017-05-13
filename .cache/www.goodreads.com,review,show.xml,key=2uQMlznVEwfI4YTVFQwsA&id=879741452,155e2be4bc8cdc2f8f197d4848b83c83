@@ -1,0 +1,150 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:49:03 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: 3FXNGX9RX0DX0360RSJM
+etag: W/"29727f822c50a0a6cdd70ac18ec5185a"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.170262
+set-cookie: csid=BAhJIhgwOTMtNzA5NzE2MC00OTk4MjUzBjoGRVQ%3D--18ef560fd00d9e0fca91ea9388a952b848ec901d; path=/; expires=Tue, 12 May 2037 13:49:03 -0000, locale=es; path=/, _session_id2=761e763e8197e2ff5b8b1fe3a81b2ecb; path=/; expires=Fri, 12 May 2017 19:49:03 -0000; HttpOnly
+content-length: 5152
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=879741452
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>879741452</id>
+    
+  <user>
+    <id>5276193</id>
+    <name>Kushnuma</name>
+    <display_name>Kushnuma</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5276193-kushnuma]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1418837096p3/5276193.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1418837096p2/5276193.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">2880</id>
+  <isbn>1591164419</isbn>
+  <isbn13>9781591164418</isbn13>
+  <text_reviews_count type="integer">834</text_reviews_count>
+  <title>Bleach, Volume 01</title>
+  <title_without_series>Bleach, Volume 01</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2880.Bleach_Volume_01</link>
+  <num_pages>200</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>VIZ Media LLC</publisher>
+  <publication_day>19</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.21</average_rating>
+  <ratings_count>117199</ratings_count>
+  <description>Hot-tempered 15-year-old Ichigo Kurosaki, the hero of the popular fantasy-adventure &lt;i&gt;
+  &lt;b&gt;
+    &lt;u&gt;Bleach&lt;/u&gt;
+  &lt;/b&gt;
+&lt;/i&gt;, has the unsettling ability to see spirits who are unable to rest in peace. His sixth sense leads him to Rukia, a Soul Reaper who destroys &lt;i&gt;Hollows&lt;/i&gt; (soul-devouring monsters) and ensures the deceased find repose with the Soul Society. When she's injured in battle, Rukia transfers her sword and much of her power to Ichigo, whose spiritual energy makes him a formidable substitute Soul Reaper. But the orange-haired teenager isn't sure he wants the job: too many risks and moral dilemmas.</description>
+<authors>
+<author>
+<id>1977</id>
+<name>Tite Kubo</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1253238688p5/1977.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1253238688p2/1977.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1977.Tite_Kubo]]></link>
+<average_rating>4.28</average_rating>
+<ratings_count>389029</ratings_count>
+<text_reviews_count>4580</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">924256347</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Wed Jul 08 08:43:40 -0700 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">923564171</id>
+          <old_status>to-read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Tue Jul 07 17:09:23 -0700 2015</updated_at>
+          <ratings_count>1</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">351308691</id>
+          <old_status></old_status>
+          <status>to-read</status>
+          <updated_at type="datetime">Wed Mar 12 14:15:40 -0700 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>2</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="manga-comics-graphic" exclusive="false" review_shelf_id="643920428" sortable="false" />
+    <shelf name="1st-in-completed-series" exclusive="false" review_shelf_id="1400890459" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Jul 07 00:00:00 -0700 2015</started_at>
+  <read_at>Wed Jul 08 09:01:45 -0700 2015</read_at>
+  <date_added>Wed Mar 12 14:15:40 -0700 2014</date_added>
+  <date_updated>Sun Aug 21 09:01:29 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I should have read this a long time ago but kept putting it off. And I loved it! This is the second time that I've come across shinigami's in manga's and I loved it!]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/879741452]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/879741452]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

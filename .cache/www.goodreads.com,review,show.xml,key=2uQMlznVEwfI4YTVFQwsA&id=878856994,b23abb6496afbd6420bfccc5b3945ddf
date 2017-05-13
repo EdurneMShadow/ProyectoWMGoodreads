@@ -1,0 +1,1217 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:55:55 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: 22E7Y52DA0G37HTB4R2J
+etag: W/"18fdd8f7177ede8e9d9b6098a8acea05"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.425004
+set-cookie: csid=BAhJIhg4MTYtNzY4NjM1Mi0wNDAwODIzBjoGRVQ%3D--4d9900b3e61daf8f02e86c0582cdacaa13533392; path=/; expires=Tue, 12 May 2037 13:55:55 -0000, locale=es; path=/, _session_id2=5eb7e81d763636ab0a344729499f450c; path=/; expires=Fri, 12 May 2017 19:55:55 -0000; HttpOnly
+content-length: 51916
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=878856994
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>878856994</id>
+    
+  <user>
+    <id>1720620</id>
+    <name>Anne</name>
+    <display_name>Anne</display_name>
+
+    <location>Columbia, SC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1720620-anne]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1415374035p3/1720620.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1415374035p2/1720620.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">1555666</id>
+  <isbn>0192815326</isbn>
+  <isbn13>9780192815323</isbn13>
+  <text_reviews_count type="integer">26</text_reviews_count>
+  <title>Frankenstein</title>
+  <title_without_series>Frankenstein</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1555666.Frankenstein</link>
+  <num_pages>239</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Oxford University Press</publisher>
+  <publication_day/>
+  <publication_year>1969</publication_year>
+  <publication_month/>
+  <average_rating>3.75</average_rating>
+  <ratings_count>861298</ratings_count>
+  <description>To many readers, who have perhaps known &lt;i&gt;Frankenstein&lt;/i&gt; only at second hand, the original may well come as a surprise. When Mary Shelley began it, she was only eighteen, though she was already Shelley's mistress and Byron's friend. In her preface she explains how she and Shelley spent part of a wet summer with Byron in Switzerland, amusing themselves by reading and writing ghost stories. Her contribution was &lt;i&gt;Frankenstein&lt;/i&gt;, a story about a student of natural philosophy who learns the secret of imparting life to a creature constructed from bones he has collected in charnel-houses. The story is not a study of the macabre, as such, but rather a study of how man uses his power, through science, to manipulate and pervert his own destiny, and this makes it a profoundly disturbing book.</description>
+<authors>
+<author>
+<id>11139</id>
+<name>Mary Wollstonecraft Shelley</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p5/11139.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p2/11139.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/11139.Mary_Wollstonecraft_Shelley]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>884152</ratings_count>
+<text_reviews_count>20971</text_reviews_count>
+</author>
+</authors>
+  <published>1969</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">41105530</id>
+          <page type="integer">89</page>
+          <chapter type="integer"></chapter>
+          <comments_count>2</comments_count>
+          <created_at type="datetime">Sun Mar 23 13:29:50 -0700 2014</created_at>
+          <updated_at type="datetime">Sun Mar 23 13:29:52 -0700 2014</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">3</ratings_count>
+          <percent type="integer">37</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.e4a7496df5bc22940fd7db2dcd133932</note_uri>
+          <note_updated_at type="datetime">Sun Mar 23 13:29:52 -0700 2014</note_updated_at>
+          <body>This book is booooooring.</body>
+        </user_status>
+    </user_statuses>
+  <rating>1</rating>
+  <votes>325</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="classics" exclusive="false" review_shelf_id="643203000" sortable="false" />
+    <shelf name="read-with-jillybean" exclusive="false" review_shelf_id="643203195" sortable="false" />
+    <shelf name="read-in-2014" exclusive="false" review_shelf_id="654158621" sortable="false" />
+    <shelf name="horror" exclusive="false" review_shelf_id="643202938" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Mar 11 00:00:00 -0700 2014</started_at>
+  <read_at>Wed Mar 26 00:00:00 -0700 2014</read_at>
+  <date_added>Tue Mar 11 15:52:40 -0700 2014</date_added>
+  <date_updated>Wed May 10 07:08:09 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[So.<br />I finished it.<br /><br /><b>Warning:</b><br />If you are a fan of classic literature <i>and/or</i> are utterly devoid of a sense of humor, stop reading this review right now. <br /><br /><img src="https://media.giphy.com/media/SoV9BYlgYicGQ/giphy.gif" width="400" height="200" alt="description" class="gr-hostedUserImg" /><br /><br />I've always wondered what the <i>real</i> Frankenstein story was like...and now I know.<br />Sadly, sometimes the fantasy is better than the reality.<br />And the <i>realit...</i>]]>
+  </body>
+
+  
+
+  <comments_count>482</comments_count>
+    <comments start="1" end="50" total="482">
+        <comment>
+  <id>95200317</id>
+  <body><![CDATA[Boooooooooooooooooring. You bet. Like a lumbering oaf of an overstuffed bunch of words, signifying only how terribly little the privileged girl who wrote it really knew.]]></body>
+  
+  <user>
+    <id>1776702</id>
+    <name>Mike</name>
+    <display_name>Mike</display_name>
+
+    <location>Portland, OR</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1776702-mike]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1474662823p3/1776702.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1474662823p2/1776702.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Mar 23 14:08:14 -0700 2014</created_at>
+  <updated_at>Sun Mar 23 14:08:14 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95206504</id>
+  <body><![CDATA[So far I'm enjoying how all of the male characters sound like moody schoolgirls.]]></body>
+  
+  <user>
+    <id>1720620</id>
+    <name>Anne</name>
+    <display_name>Anne</display_name>
+
+    <location>Columbia, SC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1720620-anne]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1415374035p3/1720620.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1415374035p2/1720620.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Mar 23 15:34:11 -0700 2014</created_at>
+  <updated_at>Sun Mar 23 15:34:11 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95319864</id>
+  <body><![CDATA["This book is booooooring."<br /><br />Hahaha, YUP.]]></body>
+  
+  <user>
+    <id>5759543</id>
+    <name>Sam</name>
+    <display_name>Sam Quixote</display_name>
+
+    <location>Bristol, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5759543-sam-quixote]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1414622451p3/5759543.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1414622451p2/5759543.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 25 08:32:47 -0700 2014</created_at>
+  <updated_at>Tue Mar 25 08:32:47 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95371084</id>
+  <body><![CDATA[Loved the review, Anne! And I really liked the warning at the beginning. I've been getting complaint comments from the humorless about my 1 star review of this. It's like fans of the book want to school me on its hidden excellence. Why? Do they think I'll suddenly come to the conclusion that my own opinion is invalid? <u>I think</u> it's a poorly executed book. Another person's love for it isn't going to change that!]]></body>
+  
+  <user>
+    <id>1742824</id>
+    <name>Jason</name>
+    <display_name>Jason Koivu</display_name>
+
+    <location>Lemoore, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1742824-jason-koivu]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1464843865p3/1742824.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1464843865p2/1742824.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 25 21:51:00 -0700 2014</created_at>
+  <updated_at>Tue Mar 25 21:51:00 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95380655</id>
+  <body><![CDATA['Hidden' excellence is a great way to put it, Jason. I figured since it was considered classic, my review had the potential to attract a few humorless intellectual trolls. Sorry you had to deal with them. Kidding...I think that's hilarious!]]></body>
+  
+  <user>
+    <id>1720620</id>
+    <name>Anne</name>
+    <display_name>Anne</display_name>
+
+    <location>Columbia, SC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1720620-anne]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1415374035p3/1720620.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1415374035p2/1720620.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 26 04:25:36 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 04:25:36 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95381480</id>
+  <body><![CDATA[It’s been a few years since I read this but I think the Paradise Lost reference in the book ties into the meaning behind the story - the fall of man, creator and man, etc. There’s lots of other ideas going on too – the subtitle, The Modern Prometheus, for example, with Frankenstein playing with fire/forbidden knowledge. It could also be read as a manifestation of real fears of the time where bodies were being dug up to be studied by unscrupulous doctors – those who dug up bodies were called “resurrection men”. A lot of 19th century monsters were manifestations of contemporary fears – Dracula symbolised rampant sexual disease, Mr Hyde was substance abuse, and so on. <br /><br />But you’re right, it is written in an insufferable way. You could put it down to this being Shelley’s first novel or that she was still a teenager, but it’s still a chore to get through.]]></body>
+  
+  <user>
+    <id>5759543</id>
+    <name>Sam</name>
+    <display_name>Sam Quixote</display_name>
+
+    <location>Bristol, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5759543-sam-quixote]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1414622451p3/5759543.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1414622451p2/5759543.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 26 04:53:10 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 04:53:10 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95382449</id>
+  <body><![CDATA[The story itself is about 25 pages long, and isn't really bad. It's all the freaking filler that sucks the life out of you!]]></body>
+  
+  <user>
+    <id>1720620</id>
+    <name>Anne</name>
+    <display_name>Anne</display_name>
+
+    <location>Columbia, SC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1720620-anne]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1415374035p3/1720620.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1415374035p2/1720620.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 26 05:23:22 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 05:23:22 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95382984</id>
+  <body><![CDATA[Good stuff, Anne! <br /><br />I remember when they assigned this to my son for school. He was so excited, then he started reading it...]]></body>
+  
+  <user>
+    <id>12618229</id>
+    <name>Jeff </name>
+    <display_name>Jeff </display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12618229-jeff]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1491485453p3/12618229.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1491485453p2/12618229.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 26 05:37:10 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 05:37:10 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95383612</id>
+  <body><![CDATA[Oh! Poor thing! Some things you just can't unlearn...]]></body>
+  
+  <user>
+    <id>1720620</id>
+    <name>Anne</name>
+    <display_name>Anne</display_name>
+
+    <location>Columbia, SC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1720620-anne]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1415374035p3/1720620.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1415374035p2/1720620.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 26 05:51:48 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 05:51:48 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95383651</id>
+  <body><![CDATA[I think it was at this point we started homeschooling him.]]></body>
+  
+  <user>
+    <id>12618229</id>
+    <name>Jeff </name>
+    <display_name>Jeff </display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12618229-jeff]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1491485453p3/12618229.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1491485453p2/12618229.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 26 05:52:38 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 05:52:38 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95383833</id>
+  <body><![CDATA[Can't blame you there. Some of the things these kids are asked to read boggles my mind. How are they ever going to learn to love literature if this dusty garbage keeps getting shoved down their throats?]]></body>
+  
+  <user>
+    <id>1720620</id>
+    <name>Anne</name>
+    <display_name>Anne</display_name>
+
+    <location>Columbia, SC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1720620-anne]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1415374035p3/1720620.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1415374035p2/1720620.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 26 05:56:14 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 05:56:14 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95384226</id>
+  <body><![CDATA[I actually liked this one :) but your review still made me laugh and look at it in a different light, so thanks. Proof that opinions can alter a perspective]]></body>
+  
+  <created_at>Wed Mar 26 06:05:18 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 06:05:18 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95384235</id>
+  <body><![CDATA[Pfff, this is one of the few books I haven't finished. It took ages to get to the interesting part, which of course is the part I didn't read. <br /><br />Funny review, by the way.]]></body>
+  
+  <user>
+    <id>4755238</id>
+    <name>Leo</name>
+    <display_name>Leo</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4755238-leo]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1474809890p3/4755238.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1474809890p2/4755238.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 26 06:05:32 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 06:05:32 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95384386</id>
+  <body><![CDATA[<i>Kat wrote: "I actually liked this one :) but your review still made me laugh and look at it in a different light, so thanks. Proof that opinions can alter a perspective"</i><br /><br />Thanks for being cool with different opinions, Kat. It's what makes it fun, right?]]></body>
+  
+  <user>
+    <id>1720620</id>
+    <name>Anne</name>
+    <display_name>Anne</display_name>
+
+    <location>Columbia, SC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1720620-anne]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1415374035p3/1720620.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1415374035p2/1720620.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 26 06:08:24 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 06:08:24 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95384539</id>
+  <body><![CDATA[<i>martinyfelix wrote: "Pfff, this is one of the few books I haven't finished. It took ages to get to the interesting part, which of course is the part I didn't read. <br /><br />Funny review, by the way."</i><br /><br />To be honest, I didn't think there was any one particularly <i>interesting</i> part. There were just parts that were easier to digest, because something was actually happening...other than Victor fainting, whining, or looking at the 'great beauty' of nature.]]></body>
+  
+  <user>
+    <id>1720620</id>
+    <name>Anne</name>
+    <display_name>Anne</display_name>
+
+    <location>Columbia, SC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1720620-anne]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1415374035p3/1720620.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1415374035p2/1720620.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 26 06:11:22 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 06:11:22 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95384783</id>
+  <body><![CDATA[<i>Anne wrote: "Kat wrote: "I actually liked this one :) but your review still made me laugh and look at it in a different light, so thanks. Proof that opinions can alter a perspective"<br /><br />Thanks for being cool with..."</i><br /><br />Oh yeah, I love reading about people's opinions. It makes me think that maybe I should read it over again and see if anything changes for me. People make different connections and it's good to see that. Plus, a few laughs couldn't hurt :D]]></body>
+  
+  <created_at>Wed Mar 26 06:16:32 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 06:16:32 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95385500</id>
+  <body><![CDATA[Yes, this one is a laugh a minute. lol! When did you last read this?]]></body>
+  
+  <user>
+    <id>1720620</id>
+    <name>Anne</name>
+    <display_name>Anne</display_name>
+
+    <location>Columbia, SC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1720620-anne]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1415374035p3/1720620.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1415374035p2/1720620.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 26 06:33:38 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 06:33:38 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95385698</id>
+  <body><![CDATA[<i>Anne wrote: "Yes, this one is a laugh a minute. lol! When did you last read this?"</i><br /><br />Probably high school, so I bet a reread it probably in order. Maybe my feels will change :)]]></body>
+  
+  <created_at>Wed Mar 26 06:37:48 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 06:37:48 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95385901</id>
+  <body><![CDATA[Ha! $10 says you'll have a change of heart if you do. Never reread anything you loved when you were younger!]]></body>
+  
+  <user>
+    <id>1720620</id>
+    <name>Anne</name>
+    <display_name>Anne</display_name>
+
+    <location>Columbia, SC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1720620-anne]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1415374035p3/1720620.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1415374035p2/1720620.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 26 06:42:09 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 06:42:09 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95386163</id>
+  <body><![CDATA[<i>Anne wrote: "Ha! $10 says you'll have a change of heart if you do. Never reread anything you loved when you were younger!"</i><br /><br />This includes anything by J.D. Salinger.]]></body>
+  
+  <user>
+    <id>12618229</id>
+    <name>Jeff </name>
+    <display_name>Jeff </display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12618229-jeff]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1491485453p3/12618229.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1491485453p2/12618229.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 26 06:47:26 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 06:47:26 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95386312</id>
+  <body><![CDATA[I'm terribly afraid to touch <a href="https://www.goodreads.com/book/show/18131.A_Wrinkle_in_Time__Time___1_" title="A Wrinkle in Time (Time, #1) by Madeleine L'Engle" rel="nofollow">A Wrinkle in Time</a>. I must have read that one a hundred times when I was in middle school. I think I'd rather keep the good memories...]]></body>
+  
+  <user>
+    <id>1720620</id>
+    <name>Anne</name>
+    <display_name>Anne</display_name>
+
+    <location>Columbia, SC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1720620-anne]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1415374035p3/1720620.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1415374035p2/1720620.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 26 06:50:32 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 06:50:32 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95386355</id>
+  <body><![CDATA[<i>Anne wrote: "Ha! $10 says you'll have a change of heart if you do. Never reread anything you loved when you were younger!"</i><br /><br />Hah, maybe I shouldn't and just keep the good memories :)]]></body>
+  
+  <created_at>Wed Mar 26 06:51:18 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 06:51:18 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95386521</id>
+  <body><![CDATA[For what it's worth, that's my advice. Remember how you felt when you looked back at a yearbook picture of your 'hot' first boyfriend...and then realized the dude had a mullet or something? <br />You can never go back.]]></body>
+  
+  <user>
+    <id>1720620</id>
+    <name>Anne</name>
+    <display_name>Anne</display_name>
+
+    <location>Columbia, SC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1720620-anne]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1415374035p3/1720620.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1415374035p2/1720620.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 26 06:54:39 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 06:54:39 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95387230</id>
+  <body><![CDATA[Mary Shelley, like her husband Percy Bysshe Shelly, wrote for a different era.]]></body>
+  
+  <user>
+    <id>27528763</id>
+    <name>Gary </name>
+    <display_name>Gary </display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27528763-gary]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1433945411p3/27528763.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1433945411p2/27528763.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 26 07:08:43 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 07:08:43 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95387378</id>
+  <body><![CDATA[I still find it hard to believe that people were <i>that</i> much different at their core, than we are now. Although, I've been wrong once or twice. Maybe three times? Yeah. Three times, tops!]]></body>
+  
+  <user>
+    <id>1720620</id>
+    <name>Anne</name>
+    <display_name>Anne</display_name>
+
+    <location>Columbia, SC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1720620-anne]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1415374035p3/1720620.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1415374035p2/1720620.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 26 07:11:58 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 07:11:58 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95387809</id>
+  <body><![CDATA[<i>Anne wrote: "I still find it hard to believe that people were that much different at their core, than we are now. Although, I've been wrong once or twice. Maybe three times? Yeah. Three times, tops!"</i><br /><br />Much of what seems so dry is the way they spoke back then. Look at The Time Machine, for example. Frankenstein is interesting from a philosophical perspective if you're into that sort of thing, but not so much from an entertainment viewpoint which is what we look for here. <br />It's hard now to believe that the Romantics were like the rock stars of their era.]]></body>
+  
+  <user>
+    <id>27528763</id>
+    <name>Gary </name>
+    <display_name>Gary </display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27528763-gary]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1433945411p3/27528763.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1433945411p2/27528763.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 26 07:20:05 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 07:20:05 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95388289</id>
+  <body><![CDATA[It’s not that hard to believe – they wrote poems that were read by all levels of society and made them famous, they were constantly gossiped about for their scandalous behaviour, sleeping around like crazy, having groupies, ingesting large amounts of booze and drugs, getting involved in revolutions, having progressive mind-sets, dying young. The Romantics were an interesting bunch!]]></body>
+  
+  <user>
+    <id>5759543</id>
+    <name>Sam</name>
+    <display_name>Sam Quixote</display_name>
+
+    <location>Bristol, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5759543-sam-quixote]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1414622451p3/5759543.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1414622451p2/5759543.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 26 07:29:39 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 07:29:39 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95388435</id>
+  <body><![CDATA[<i>Sam wrote: "It’s not that hard to believe – they wrote poems that were read by all levels of society and made them famous, they were constantly gossiped about for their scandalous behaviour, sleeping around li..."</i><br /><br />I am a big Lord Byron fan myself and I liked Shelley's "Ozymandias".]]></body>
+  
+  <user>
+    <id>27528763</id>
+    <name>Gary </name>
+    <display_name>Gary </display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27528763-gary]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1433945411p3/27528763.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1433945411p2/27528763.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 26 07:32:28 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 07:32:28 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95388492</id>
+  <body><![CDATA[<i>Sam wrote: "It’s not that hard to believe – they wrote poems that were read by all levels of society and made them famous, they were constantly gossiped about for their scandalous behaviour, sleeping around li..."</i><br /><br />Don't forget the copious STDs!]]></body>
+  
+  <user>
+    <id>1742824</id>
+    <name>Jason</name>
+    <display_name>Jason Koivu</display_name>
+
+    <location>Lemoore, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1742824-jason-koivu]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1464843865p3/1742824.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1464843865p2/1742824.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 26 07:33:25 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 07:33:25 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95388956</id>
+  <body><![CDATA[Alright, I'll give you that they used different phrases, even different syntax. But I'm calling bullshit on the rest of it. It would be like someone 100 years from now looking at Bill and Ted Excellent Adventure, and assuming that we all sounded like those guys back in the 80's. Or (God forbid) that we all act like the losers on Jersey Shore. <br />What's really hard to believe isn't that the Romantics were considered rock stars, it's the people we consider rock stars <i>now</i>. <br />But you're right, entertainment value isn't why people read Frankenstein. <br />I'm never going to 'better' myself at this rate...]]></body>
+  
+  <user>
+    <id>1720620</id>
+    <name>Anne</name>
+    <display_name>Anne</display_name>
+
+    <location>Columbia, SC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1720620-anne]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1415374035p3/1720620.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1415374035p2/1720620.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 26 07:42:17 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 07:42:17 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95389071</id>
+  <body><![CDATA[<i>Jason wrote: "Sam wrote: "It’s not that hard to believe – they wrote poems that were read by all levels of society and made them famous, they were constantly gossiped about for their scandalous behaviour, sleepi..."</i><br /><br />STDs...the gift that keeps on giving.]]></body>
+  
+  <user>
+    <id>1720620</id>
+    <name>Anne</name>
+    <display_name>Anne</display_name>
+
+    <location>Columbia, SC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1720620-anne]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1415374035p3/1720620.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1415374035p2/1720620.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 26 07:44:29 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 07:44:29 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95389118</id>
+  <body><![CDATA[<i>Anne wrote: "Alright, I'll give you that they used different phrases, even different syntax. But I'm calling bullshit on the rest of it. It would be like someone 100 years from now looking at Bill and Ted Excel..."</i><br /><br />Heroin, oral sex in alleyways, gothic literature, STDs...Damn, Anne your on a magnificent roll today. (Bows)]]></body>
+  
+  <user>
+    <id>12618229</id>
+    <name>Jeff </name>
+    <display_name>Jeff </display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12618229-jeff]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1491485453p3/12618229.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1491485453p2/12618229.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 26 07:45:14 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 07:45:14 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95389399</id>
+  <body><![CDATA[Well, when you put it <i>that</i> way I sound like some sort of degenerate. <br /><i>Yes! Finally, all my dreams have come true!</i>]]></body>
+  
+  <user>
+    <id>1720620</id>
+    <name>Anne</name>
+    <display_name>Anne</display_name>
+
+    <location>Columbia, SC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1720620-anne]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1415374035p3/1720620.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1415374035p2/1720620.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 26 07:49:41 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 07:49:41 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95389581</id>
+  <body><![CDATA[<i>Well, when you put it that way I sound like some sort of degenerate. </i><br /><br />And this is bad because...?]]></body>
+  
+  <user>
+    <id>12618229</id>
+    <name>Jeff </name>
+    <display_name>Jeff </display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12618229-jeff]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1491485453p3/12618229.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1491485453p2/12618229.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 26 07:52:40 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 07:52:40 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95389705</id>
+  <body><![CDATA[I thought James Smythe's <a href="https://www.goodreads.com/book/show/17316670.The_Machine" title="The Machine by James Smythe" rel="nofollow">
+  <img src="https://images.gr-assets.com/books/1359897792s/17316670.jpg" alt="The Machine by James Smythe" class="gr-hostedUserImg"></a> was very good. It is kind of like a modern day Frankenstein and is shortlisted for the Arthur C. Clarke award this year.]]></body>
+  
+  <user>
+    <id>4867952</id>
+    <name>Timothy</name>
+    <display_name>Timothy Ward</display_name>
+
+    <location>Des Moines, IA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4867952-timothy-ward]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1319336249p3/4867952.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1319336249p2/4867952.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 26 07:54:45 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 07:54:45 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95389986</id>
+  <body><![CDATA[<i>Jeff wrote: "Well, when you put it that way I sound like some sort of degenerate. <br /><br />And this is bad because...?"</i><br /><br />Well. I guess as long as my surrounding soccer moms never find out...]]></body>
+  
+  <user>
+    <id>1720620</id>
+    <name>Anne</name>
+    <display_name>Anne</display_name>
+
+    <location>Columbia, SC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1720620-anne]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1415374035p3/1720620.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1415374035p2/1720620.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 26 07:59:39 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 07:59:39 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95390072</id>
+  <body><![CDATA[<i>Timothy wrote: "I thought James Smythe's <a href="https://www.goodreads.com/book/show/17316670.The_Machine" title="The Machine by James Smythe" rel="nofollow"><img src="https://images.gr-assets.com/books/1359897792s/17316670.jpg" alt="The Machine by James Smythe" class="gr-hostedUserImg"></a> was very good. It is kind of like a modern day Frankenstein and is shortlisted for the Arthur C. Clarke award this year."</i><br><br>I just added it, thanks for the recommendation!]]></body>
+  
+  <user>
+    <id>1720620</id>
+    <name>Anne</name>
+    <display_name>Anne</display_name>
+
+    <location>Columbia, SC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1720620-anne]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1415374035p3/1720620.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1415374035p2/1720620.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 26 08:01:04 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 08:01:04 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95390135</id>
+  <body><![CDATA[<i>Anne wrote: "Alright, I'll give you that they used different phrases, even different syntax. But I'm calling bullshit on the rest of it. It would be like someone 100 years from now looking at Bill and Ted Excel..."</i><br /><br />Frankenstein appealed to them back then and was popular. I also enjoy graphic novels/comics and I can see where, from that perspective or in comparison to Bill and Ted (which I also liked), it wouldn't seem to make sense though. <br />I like the book. For example, I find the man/God dichotomy in Frankenstein interesting in relation to what the Shelleys were experiencing socially and politically. <br />I did note on the reviews, however, that there are people here that enjoyed this novel for the sake of the story as well so it is, like most things, a matter of personal preference.]]></body>
+  
+  <user>
+    <id>27528763</id>
+    <name>Gary </name>
+    <display_name>Gary </display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27528763-gary]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1433945411p3/27528763.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1433945411p2/27528763.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 26 08:02:05 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 08:02:05 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95391627</id>
+  <body><![CDATA[Maybe in an era where the only books you had available to entertain you were the King James and a little Shakespeare or Dickens, this might've been considered groundbreaking. It's like if you'd never read any comics and your only available exposure was Jeph Loeb or Dan DiDio or Mark Millar or Alan Moore :) Of course you'd think this was the shit (looking back on some of my earliest comics reviews, that's exactly what delusions of early minimal comparison I was under - it's a wonder of miracles that Ellis &amp; Ennis were among my first re-introductions to comics, or I might be a very sheltered and weakly critical guy even now).<br /><br />And Jeff mentioned Salinger? Hah, I was a right bastard when they assigned that to me in high school. While the rest of my 'gifted' (aka 'weirdos') class lapped it up, I took such a strong dislike to CitR that the essay I wrote on it was entitled "Why I Hate The Catcher in the Rye". I'd love to find that and post it verbatim as a Goodreads review - it's probably awful, precocious and indulgent, but then any of my scathing reviews here could be accused of the same no?]]></body>
+  
+  <user>
+    <id>1776702</id>
+    <name>Mike</name>
+    <display_name>Mike</display_name>
+
+    <location>Portland, OR</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1776702-mike]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1474662823p3/1776702.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1474662823p2/1776702.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 26 08:25:50 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 08:25:50 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95391713</id>
+  <body><![CDATA[You're right, Gary. Personal preference plays a huge role in every book we read. I loved quite a few books that massive amounts of friends DNF'd or gave low ratings to. It's all good, and most of us on here love to debate for the sake of...debating? I like to hear different opinions on books (like yours), but I might have a <i>teensy</i> competitive streak in me that wants to convince everyone to see things my way. I hope I didn't offend, it's all in fun.]]></body>
+  
+  <user>
+    <id>1720620</id>
+    <name>Anne</name>
+    <display_name>Anne</display_name>
+
+    <location>Columbia, SC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1720620-anne]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1415374035p3/1720620.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1415374035p2/1720620.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 26 08:27:19 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 08:27:19 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95392078</id>
+  <body><![CDATA[<i>Anne wrote: "You're right, Gary. Personal preference plays a huge role in every book we read. I loved quite a few books that massive amounts of friends DNF'd or gave low ratings to. It's all good, and most of u..."</i><br /><br />Not at all. I enjoy reading your reviews and seeing your perspective. I also like to hear other opinions and your reviews are well written and informative. I especially like your graphic novel reviews. For example, I am looking forward to reading Aquaman which is a title I hadn't thought about in a long time.]]></body>
+  
+  <user>
+    <id>27528763</id>
+    <name>Gary </name>
+    <display_name>Gary </display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27528763-gary]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1433945411p3/27528763.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1433945411p2/27528763.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 26 08:33:23 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 08:33:23 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95392107</id>
+  <body><![CDATA[<i>Mike wrote: "Maybe in an era where the only books you had available to entertain you were the King James and a little Shakespeare or Dickens, this might've been considered groundbreaking. It's like if you'd nev..."</i><br /><br />Loeb, Millar, and Moore. The Holy Trinity of graphic novels. <i>Dude</i>, the hoity-toity fanboys are coming after you...you know that, right? One word. Starts with an M, ends with an L. Don't go there! The power 'it' exudes is nothing to be scoffed at!]]></body>
+  
+  <user>
+    <id>1720620</id>
+    <name>Anne</name>
+    <display_name>Anne</display_name>
+
+    <location>Columbia, SC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1720620-anne]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1415374035p3/1720620.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1415374035p2/1720620.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 26 08:33:48 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 08:33:48 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95392134</id>
+  <body><![CDATA["most of us on here love to debate for the sake of...debating?"<br /><br />Some of us debate so much you could say we’re master debaters…]]></body>
+  
+  <user>
+    <id>5759543</id>
+    <name>Sam</name>
+    <display_name>Sam Quixote</display_name>
+
+    <location>Bristol, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5759543-sam-quixote]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1414622451p3/5759543.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1414622451p2/5759543.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 26 08:34:12 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 08:34:12 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95392216</id>
+  <body><![CDATA[<i>Anne wrote: "Mike wrote: "Maybe in an era where the only books you had available to entertain you were the King James and a little Shakespeare or Dickens, this might've been considered groundbreaking. It's like..."</i><br /><br />Moore is awesome. Weird and awesome at the same time.]]></body>
+  
+  <user>
+    <id>27528763</id>
+    <name>Gary </name>
+    <display_name>Gary </display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27528763-gary]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1433945411p3/27528763.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1433945411p2/27528763.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 26 08:35:37 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 08:35:37 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95392354</id>
+  <body><![CDATA[I'll be interested in what you think of Aquaman, Gary. Mike here, read it on my urging, hated it, then threw me under the bus. I've still got the tire tracks on my back to prove it.<br /><i>Personal preference, my ass...<br />Aquaman rules!</i>]]></body>
+  
+  <user>
+    <id>1720620</id>
+    <name>Anne</name>
+    <display_name>Anne</display_name>
+
+    <location>Columbia, SC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1720620-anne]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1415374035p3/1720620.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1415374035p2/1720620.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 26 08:37:49 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 08:37:49 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95392460</id>
+  <body><![CDATA[<i>Sam wrote: ""most of us on here love to debate for the sake of...debating?"<br /><br />Some of us debate so much you could say we’re master debaters…"</i><br /><br />These threads do tend to take on a life of their own. Papa Johns Pizza cult will forever remain one of my favorite 'Great Debates'.]]></body>
+  
+  <user>
+    <id>1720620</id>
+    <name>Anne</name>
+    <display_name>Anne</display_name>
+
+    <location>Columbia, SC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1720620-anne]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1415374035p3/1720620.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1415374035p2/1720620.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 26 08:39:30 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 08:39:30 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95392676</id>
+  <body><![CDATA[<i>Anne wrote: "I'll be interested in what you think of Aquaman, Gary. Mike here, read it on my urging, hated it, then threw me under the bus. I've still got the tire tracks on my back to prove it.<br />Personal prefer..."</i><br /><br />I think the episode of The Big Bang Theory where Raj wore the Aquaman wig and they called him the lamest superhero ever didn't help the cause.]]></body>
+  
+  <user>
+    <id>27528763</id>
+    <name>Gary </name>
+    <display_name>Gary </display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27528763-gary]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1433945411p3/27528763.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1433945411p2/27528763.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 26 08:43:16 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 08:43:16 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95393244</id>
+  <body><![CDATA[Yes, Hilarious! But not really helpful while I'm trying to get new recruits to sign up...]]></body>
+  
+  <user>
+    <id>1720620</id>
+    <name>Anne</name>
+    <display_name>Anne</display_name>
+
+    <location>Columbia, SC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1720620-anne]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1415374035p3/1720620.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1415374035p2/1720620.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 26 08:52:21 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 08:52:21 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95393557</id>
+  <body><![CDATA[<i>Gary wrote: "Anne wrote: "I'll be interested in what you think of Aquaman, Gary. Mike here, read it on my urging, hated it, then threw me under the bus. I've still got the tire tracks on my back to prove it.<br />Pe..."</i><br /><br /><i>Anne wrote: "For what it's worth, that's my advice. Remember how you felt when you looked back at a yearbook picture of your 'hot' first boyfriend...and then realized the dude had a mullet or something? <br />You ca..."</i><br /><br /><br />You guys make me smile, seriously. You go from Frankenstein to mullets to Catcher in the Rye to Aquaman (who, I automatically thought was a lame superhero because of that episode and because well...he's aquaman), but I do like your reviews and this convo is priceless.]]></body>
+  
+  <created_at>Wed Mar 26 08:57:42 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 08:57:42 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95393817</id>
+  <body><![CDATA[I know, right? How the hell did this turn into a thread about Aquaman wigs?!]]></body>
+  
+  <user>
+    <id>1720620</id>
+    <name>Anne</name>
+    <display_name>Anne</display_name>
+
+    <location>Columbia, SC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1720620-anne]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1415374035p3/1720620.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1415374035p2/1720620.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 26 09:01:36 -0700 2014</created_at>
+  <updated_at>Wed Mar 26 09:01:36 -0700 2014</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/878856994]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/878856994]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

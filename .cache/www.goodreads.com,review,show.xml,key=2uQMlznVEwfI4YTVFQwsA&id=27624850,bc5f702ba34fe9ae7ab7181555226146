@@ -1,0 +1,1267 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:43:39 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: 02CE03AXP4Q54XX83YT5
+etag: W/"59e40092378b89b71fbcccdb014fd4ba"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.360909
+set-cookie: csid=BAhJIhgyOTYtNDc5MzY0Ni02ODg1Mzc2BjoGRVQ%3D--f6b1f91032d7f77ea15521bc6cf58f00d9ce7206; path=/; expires=Tue, 12 May 2037 13:43:38 -0000, locale=es; path=/, _session_id2=4a82ffa83a09f3e9a6f89bc724169371; path=/; expires=Fri, 12 May 2017 19:43:39 -0000; HttpOnly
+content-length: 60119
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=27624850
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>27624850</id>
+    
+  <user>
+    <id>61222</id>
+    <name>Colleen</name>
+    <display_name>Colleen Venable</display_name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/61222-colleen-venable]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442507551p3/61222.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442507551p2/61222.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">2767052</id>
+  <isbn>0439023483</isbn>
+  <isbn13>9780439023481</isbn13>
+  <text_reviews_count type="integer">140650</text_reviews_count>
+  <title>The Hunger Games (The Hunger Games, #1)</title>
+  <title_without_series>The Hunger Games</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1447303603m/2767052.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1447303603s/2767052.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2767052-the-hunger-games</link>
+  <num_pages>374</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First Edition</edition_information>
+  <publisher>Scholastic Press</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.35</average_rating>
+  <ratings_count>4802886</ratings_count>
+  <description>&lt;b&gt;Winning will make you famous. &lt;br /&gt;Losing means certain death.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;The nation of Panem, formed from a post-apocalyptic North America, is a country that consists of a wealthy Capitol region surrounded by 12 poorer districts. Early in its history, a rebellion led by a 13th district against the Capitol resulted in its destruction and the creation of an annual televised event known as the Hunger Games. In punishment, and as a reminder of the power and grace of the Capitol, each district must yield one boy and one girl between the ages of 12 and 18 through a lottery system to participate in the games. The 'tributes' are chosen during the annual Reaping and are forced to fight to the death, leaving only one survivor to claim victory.&lt;br /&gt;&lt;br /&gt;When 16-year-old Katniss's young sister, Prim, is selected as District 12's female representative, Katniss volunteers to take her place. She and her male counterpart Peeta, are pitted against bigger, stronger representatives, some of whom have trained for this their whole lives. , she sees it as a death sentence. But Katniss has been close to death before. For her, survival is second nature.</description>
+<authors>
+<author>
+<id>153394</id>
+<name>Suzanne Collins</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1394819770p5/153394.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1394819770p2/153394.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/153394.Suzanne_Collins]]></link>
+<average_rating>4.27</average_rating>
+<ratings_count>8960954</ratings_count>
+<text_reviews_count>356106</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1241795048</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Wed Feb 17 15:30:10 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>4</rating>
+  <votes>253</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="ya-fiction" exclusive="false" review_shelf_id="12183992" sortable="false" />
+    <shelf name="books-that-made-me-cry" exclusive="false" review_shelf_id="12197224" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Jul 24 00:00:00 -0700 2008</read_at>
+  <date_added>Fri Jul 18 10:26:56 -0700 2008</date_added>
+  <date_updated>Fri Jul 25 15:34:54 -0700 2008</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Fantastically Written? Ooooh yeah! Compelling? Yup! Super Quick Read? Most definitely! Original? Um...well *shuffles feet, since I seem to be a rare non-five star-er* not original at all really.... <br /><br />Man, I wish someone on my friends list here has also read Battle Royale and this book! The Hunger G...]]>
+  </body>
+
+  
+
+  <comments_count>70</comments_count>
+    <comments start="1" end="50" total="70">
+        <comment>
+  <id>1268087</id>
+  <body><![CDATA[And you will be happy you caved!]]></body>
+  
+  <user>
+    <id>20353</id>
+    <name>Martha</name>
+    <display_name>Martha</display_name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/20353-martha]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1284427596p3/20353.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1284427596p2/20353.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jul 20 05:48:39 -0700 2008</created_at>
+  <updated_at>Sun Jul 20 05:48:39 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1323115</id>
+  <body><![CDATA[Hey, I totally mentioned Battle Royale in my review (though admittedly I mentioned the movie and not the book). Do I get a prize? ]]></body>
+  
+  <user>
+    <id>221050</id>
+    <name>Betsy</name>
+    <display_name>Betsy</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/221050-betsy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442631153p3/221050.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442631153p2/221050.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 25 20:04:02 -0700 2008</created_at>
+  <updated_at>Fri Jul 25 20:04:02 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1323695</id>
+  <body><![CDATA[Haha. Yes, actually I did notice that and you do get the gold star of the day for at least knowing about the movie. Also the fact you do say it's been done before gets you another gold star. You keep this up I'll have to get a new bulletin board! <br /><br />I was debating this for a while with a few people: Would you consider it YA? It feels almost too young to be YA, which is a bit disturbing considering how many people die in it. ]]></body>
+  
+  <user>
+    <id>61222</id>
+    <name>Colleen</name>
+    <display_name>Colleen Venable</display_name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/61222-colleen-venable]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442507551p3/61222.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442507551p2/61222.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 25 21:25:36 -0700 2008</created_at>
+  <updated_at>Fri Jul 25 21:25:36 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1324479</id>
+  <body><![CDATA[I actually had a similar reaction to FEED. That is, Anthony Burgess had done some of the same stuff with language and commercialization in A CLOCKWORK ORANGE. ]]></body>
+  
+  <user>
+    <id>221952</id>
+    <name>Monica</name>
+    <display_name>Monica Edinger</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/221952-monica-edinger]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1427102957p3/221952.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1427102957p2/221952.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jul 26 04:31:55 -0700 2008</created_at>
+  <updated_at>Sat Jul 26 04:31:55 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1324518</id>
+  <body><![CDATA[Yeah, except that "A Clockwork Orange" never used that terrible terrible futuristic slang. I have a real beef with badly done terms like "unit". *shudder* <br /><br />As for whether or not "Hunger Games" is YA or not, in spite of the multiple deaths I thought it was fine for 12 and 13-year-olds. It's just that (spoiler alert) agonizing death of the last kid that launches it a little older in my eyes.]]></body>
+  
+  <user>
+    <id>221050</id>
+    <name>Betsy</name>
+    <display_name>Betsy</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/221050-betsy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442631153p3/221050.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442631153p2/221050.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jul 26 04:54:42 -0700 2008</created_at>
+  <updated_at>Sat Jul 26 04:54:42 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1324525</id>
+  <body><![CDATA[Betsy, you mean the slang in FEED? I hope as I loved the language in A CLOCKWORK ORANGE. "There was me, that is Alex, and my three droogs, that is Pete, Georgie, and Dim, Dim being really dim, and we sat in the Korova Milkbar making up our rassodocks what to do with the evening, a flip dark chill winter bastard though dry." <br /><br />I also think HUNGER GAMES is suitable for 11 and up. ]]></body>
+  
+  <user>
+    <id>221952</id>
+    <name>Monica</name>
+    <display_name>Monica Edinger</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/221952-monica-edinger]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1427102957p3/221952.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1427102957p2/221952.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jul 26 05:01:03 -0700 2008</created_at>
+  <updated_at>Sat Jul 26 05:01:03 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1324558</id>
+  <body><![CDATA[This is definitely going to be marketed to (and read) by readers BELOW your usual YA crowd. <br /><br />Now I really want to read Battle Royale but can't.<br /><br />I'm glad to know the similarities between the two novels and am a little surprised at some of the overlapping details. I wonder if there will be more "noise" over this later on when more people have a chance to read it.<br /><br />I'm curious: are there all the behind the scene, fashion designer, etc. stuff in BR? Are there details and scenes that are quite new in HG? <br /><br />(Actually, when I first read The Giver, my immediate reaction, even though I really liked the book since it was for younger readers, was that ... hmm... this seems familiar... seems "done" quite a few times already. But, not for that particular age-range, and not exactly the same.)<br />]]></body>
+  
+  <user>
+    <id>315628</id>
+    <name>Roxanne Hsu</name>
+    <display_name>Roxanne Hsu Feldman</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/315628-roxanne-hsu-feldman]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442478014p3/315628.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442478014p2/315628.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jul 26 05:21:23 -0700 2008</created_at>
+  <updated_at>Sat Jul 26 05:21:23 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1324846</id>
+  <body><![CDATA[Monica: I've actually never read Clockwork Orange. I've seen the movie, of course. (pretty much impossible to get through angsty teenage-dom without seeing it) I have a feeling the book differs a lot, mostly because they always do. I'm adding it to my to-read. Thanks for the suggestion!<br /><br />When I think of FEED I think more about the concept of having the internet in our brains, and the twisted nature of the "love" story in it. The book scares me because I'm pretty sure if someone said "Hey if I put this in your brain you'll never have to carry your really, really heavy laptop (you are always worried about dropping) around again" I would just shout "Sign! Me! Up!" The technology concepts were what felt original to me, not so much the characters or slang. And I always do tend to like the complex feelings that go through my head following around unlikeable protagonists. <br /><br />It's really all about what you read first perhaps. If I had read this before BR perhaps I'd be ranting that <a href="https://www.goodreads.com/book/show/2767052.The_Hunger_Games" title="The Hunger Games by Suzanne Collins" rel="nofollow">the Hunger Games</a> was better, since in my mind it was more original then. <br /><br />Betsy: Yeah the whole "dogs" part made me think it should be older. That part terrified me! At first I thought it a ridiculous devise, but the more I thought about how it represented what the Capital could do to change and manipulate people. *shudders*<br /><br />Fairrosa (Hey Roxanne! Just added you!): Battle Royale is amazing, but is very bloody and intense. I loved the story behind the blood, but always worry about suggesting it for people to read! There's already a little noise in <a href="http://www.amazon.com/review/product/0439023483/ref=cm_cr_pr_hist_2?%5Fencoding=UTF8&amp;filterBy=addTwoStar" rel="nofollow">Amazon reviews about this comparison.</a><br /><br />Actually the fashion designer and coaching for the media was the most original and compelling parts of HG for me. The whole Olympic Games style opening was amazing as well as her relationships with her mentors, a drunk who grows and changes as a person, and a pretty-girl who seems to end up exactly the same. That I did love. The story and characters AROUND the game I adored. ]]></body>
+  
+  <user>
+    <id>61222</id>
+    <name>Colleen</name>
+    <display_name>Colleen Venable</display_name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/61222-colleen-venable]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442507551p3/61222.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442507551p2/61222.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jul 26 06:55:23 -0700 2008</created_at>
+  <updated_at>Sat Jul 26 06:55:23 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1328281</id>
+  <body><![CDATA[Oh, and I was talking about the slang in "Feed", yes. I never like futureslang but at least "Clockwork Orange" didn't have fathers saying "Dude" all the time.<br /><br />Ditto to the fear of wanting the Internet in your head. I could blog walking down the street! I could blog on the subway! I could blog . . .]]></body>
+  
+  <user>
+    <id>221050</id>
+    <name>Betsy</name>
+    <display_name>Betsy</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/221050-betsy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442631153p3/221050.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442631153p2/221050.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jul 26 14:42:47 -0700 2008</created_at>
+  <updated_at>Sat Jul 26 14:42:47 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1413903</id>
+  <body><![CDATA[Just finished HUNGER GAMES (and LITTLE BROTHER just before it -- fancy mentioning THAT in your review, too). I went from 5 to 4 stars because I thought it could have been tighter. That is, I loved this book but it began to drag slightly toward the end. Just when Collins should have been turning it up on notch on the violence/fighting scenes (with only a handful of tributes left), she gets all domestic on us and goes way too long on the Katniss/Peeta love scenes (if they can be called as much in a fairy tale kind of way).<br /><br />Never heard of BATTLE ROYALE (much less read it). Is it (like this book) middle school friendly? I'm always looking for fast reads like HUNGER GAMES that will pass the middle school censors so I can include them in my classroom library. High school? Not an issue there, as it definitely fits the "teen" genre designation. Middle school is a gray area...]]></body>
+  
+  <user>
+    <id>730754</id>
+    <name>Ken</name>
+    <display_name>Ken</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/730754-ken]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492972944p3/730754.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492972944p2/730754.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 05 08:46:34 -0700 2008</created_at>
+  <updated_at>Tue Aug 05 08:46:34 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1416242</id>
+  <body><![CDATA[Battle Royale is definitely NOT middle school friendly from what my students who read it told me.<br /><br />When I saw your review of this book, BR was the first thing that came to mind. Lots of my students read it while we were reading Lord of the Flies in class.<br />]]></body>
+  
+  <user>
+    <id>322421</id>
+    <name>Boyd</name>
+    <display_name>Boyd</display_name>
+
+    <location>Fayetteville, AR</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/322421-boyd]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1188442344p3/322421.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1188442344p2/322421.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 05 12:15:24 -0700 2008</created_at>
+  <updated_at>Tue Aug 05 12:15:24 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1421569</id>
+  <body><![CDATA[I agree with Boyd. BR is definitely not middle school. I would even say it shouldn't be read until 11th grade or perhaps advanced 10th graders. The teens are extremely realistic and we see their thoughts, which means TONS of unfiltered thoughts of sex and memories of sex and violence, and horrible things they endured in the past (being abused..etc.) It's intense, and yes, there is also a lot of blood, some parts so graphic I had trouble reading them. ]]></body>
+  
+  <user>
+    <id>61222</id>
+    <name>Colleen</name>
+    <display_name>Colleen Venable</display_name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/61222-colleen-venable]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442507551p3/61222.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442507551p2/61222.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 05 21:55:55 -0700 2008</created_at>
+  <updated_at>Tue Aug 05 21:55:55 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1422207</id>
+  <body><![CDATA[Hmn. Looks like even I might take a pass on it (mentally being an unadvanced 10th grader and all...). I also didn't realize that <a href="https://www.goodreads.com/book/show/2767052.The_Hunger_Games" title="The Hunger Games by Suzanne Collins" rel="nofollow">THE HUNGER GAMES</a> is not scheduled to be released until October.]]></body>
+  
+  <user>
+    <id>730754</id>
+    <name>Ken</name>
+    <display_name>Ken</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/730754-ken]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492972944p3/730754.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492972944p2/730754.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 06 03:14:20 -0700 2008</created_at>
+  <updated_at>Wed Aug 06 03:14:20 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1461609</id>
+  <body><![CDATA[Random reader who saw your review... I totally agree.<br /><br />I liked Hunger Games, but having read (and been blown away by Battle Royale) I wanted a bit more. Hunger Games is good... BR was better. Battle Royale, however is better for an older audience. I could give this to 6th and 7th graders, but Battle Royale is more high school. What do you think? <br /><br /><br />]]></body>
+  
+  <user>
+    <id>927923</id>
+    <name>Jessikah</name>
+    <display_name>Jessikah</display_name>
+
+    <location>Hicksville, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/927923-jessikah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1203609109p3/927923.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1203609109p2/927923.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 10 14:28:27 -0700 2008</created_at>
+  <updated_at>Sun Aug 10 14:28:27 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1728747</id>
+  <body><![CDATA[Great review, Colleen!]]></body>
+  
+  <user>
+    <id>849372</id>
+    <name>Chantel</name>
+    <display_name>Chantel</display_name>
+
+    <location>American Fork, UT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/849372-chantel]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1240634370p3/849372.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1240634370p2/849372.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 05 09:07:41 -0700 2008</created_at>
+  <updated_at>Fri Sep 05 09:07:41 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1949544</id>
+  <body><![CDATA[Woah, good call on the Twilight phenomenon. Your review was posted in July - in September, Stephenie Meyer posted this book on her blog as recommended reading to her millions of loyal fans, positively skyrocketing its sales numbers. How does it feel to see the future? ]]></body>
+  
+  <user>
+    <id>813257</id>
+    <name>Cheryl</name>
+    <display_name>Cheryl Callahan</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/813257-cheryl-callahan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1201051498p3/813257.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1201051498p2/813257.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Sep 25 19:29:09 -0700 2008</created_at>
+  <updated_at>Thu Sep 25 19:29:09 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1958908</id>
+  <body><![CDATA[913689 I'm so happy to see that I'm not the only one who saw <a href="https://www.goodreads.com/book/show/2767052.The_Hunger_Games" title="The Hunger Games by Suzanne Collins" rel="nofollow">THE HUNGER GAMES</a> and immediately thought of BATTLE ROYALE. I read BR years ago and I've been trying to get people to read it (they usually just want to watch the movie) so it does make me kinda sad that this book is going to be the Next. Big. Thing. while BR is going to remain more of a cult thing.<br /><br />Anyways, I work for Borders, so I'm ALWAYS eying the new shipments for new YA books and when I saw this one I was like 'ohhh, sweet!!!' but as soon as I read the inside cover I was like WTF!!! So now I'm a little annoyed (BR does hold a very special spot in my heart), and doubly annoyed because S.Meyer is now promoting HG and well, we all know how everyone worships the ground she walks on...<br /><br />Um. Sorry this got long winded... but I'm just really happy to see that I'm not the only one who's noticed this. And I agree with a lot of what you said in this review as well.]]></body>
+  
+  <user>
+    <id>913689</id>
+    <name>Molly</name>
+    <display_name>Molly</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/913689-molly]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483296201p3/913689.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483296201p2/913689.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 26 18:53:54 -0700 2008</created_at>
+  <updated_at>Fri Sep 26 18:53:54 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>2847489</id>
+  <body><![CDATA[When I described Hunger Games to my boyfriend, his immediate response was, "Sounds like Battle Royale". Though I haven't read BR, I am anxious to tell him that others agree with him. Now I'll be hearing the dreaded, "I told you so!"<br /><br />:)]]></body>
+  
+  <user>
+    <id>1318618</id>
+    <name>Sarah</name>
+    <display_name>Sarah</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1318618-sarah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1230437310p3/1318618.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1230437310p2/1318618.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Dec 07 14:30:45 -0800 2008</created_at>
+  <updated_at>Sun Dec 07 14:30:45 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>2848505</id>
+  <body><![CDATA[*grin* Just saw HG mentioned on <a href="http://thereadingzone.wordpress.com/" rel="nofollow">The Reading Zone</a>, and Battle Royale was the first thing that came to mind (though I've got the movie, not the novel). <br /><br />Another story that popped into my memory is... gosh, I can't quite remember the title... "The Survivor" maybe? about a deathmatch that's a cross between war and sports, and any survivors on the winning team get an insane amount of status - people treat them like gods.]]></body>
+  
+  <user>
+    <id>85271</id>
+    <name>Clickety</name>
+    <display_name>Clickety</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/85271-clickety]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1452379972p3/85271.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1452379972p2/85271.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Dec 07 15:39:26 -0800 2008</created_at>
+  <updated_at>Sun Dec 07 15:39:26 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>2915955</id>
+  <body><![CDATA[yes. i also couldn't stop thinking battle royale while i read this book. for years i shoved battle royal" into the hands of friends, coworkers, acquaintances, anyone who wanted a new book to read, and now i have something a little less gory to replace it with.<br /><br />loved both books to death. both were gripping. the thing about <a href="https://www.goodreads.com/book/show/2767052.The_Hunger_Games" title="The Hunger Games by Suzanne Collins" rel="nofollow">the hunger games</a> is at least we can look forward to a couple more books in the series that might flesh out a post-battle royale story here (the movie battle royale 2 doesn't count! haha!)]]></body>
+  
+  <user>
+    <id>247666</id>
+    <name>andy</name>
+    <display_name>andy</display_name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/247666-andy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1320952753p3/247666.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1320952753p2/247666.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Dec 12 11:01:50 -0800 2008</created_at>
+  <updated_at>Fri Dec 12 11:01:50 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3833481</id>
+  <body><![CDATA[Also a random reader who saw your review -- I definitely thought the same thing as you about <a href="https://www.goodreads.com/book/show/2767052.The_Hunger_Games" title="The Hunger Games by Suzanne Collins" rel="nofollow">the Hunger Games</a> being a lot like Battle Royale (I saw the movie *and* read the book - whew!) I would tell those who were asking if BR was a YA book -- I read it my senior year in high school, and I had some serious nightmares, which rarely ever happens to me when it comes to books. I would be really careful about which high schoolers you recommend BR to. <br /><br />But this book is definitely a great one for the YA audience, and for adults. I can't wait for the second one to come out in September!]]></body>
+  
+  <user>
+    <id>1985994</id>
+    <name>Nicole</name>
+    <display_name>Nicole</display_name>
+
+    <location>Germantown, MD</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1985994-nicole]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1438219458p3/1985994.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1438219458p2/1985994.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Feb 05 11:13:34 -0800 2009</created_at>
+  <updated_at>Thu Feb 05 11:13:34 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3935647</id>
+  <body><![CDATA[finally read this - and you said everything i wanted to, so am just pointing everyone to this review. main diff between this and BR: man, BR (print version) made me cover my eyes!]]></body>
+  
+  <created_at>Wed Feb 11 07:26:58 -0800 2009</created_at>
+  <updated_at>Wed Feb 11 07:26:58 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>6221799</id>
+  <body><![CDATA[I agree- 3 1/2 stars would be a perfect rating! (And this is also coming from a mostly 5-starer.) I also agree that she was extremely clueless when it came to Peeta. Sheesh. I'm really looking forward to/hoping that the characters and their relationships to develop a lot more in the sequel. I read the book in like 2 days, so it was a quick read, but it really didn't do anything fantastic for me. But ya'll make me want to read Battle Royale now. I work at Barnes &amp; Noble, and when I described the book to the music manager, he was like "Oh, that sounds like Battle Royale!" So, I guess BR will be on my shelves soon. Have agreat one, everybody! :)]]></body>
+  
+  <user>
+    <id>2290782</id>
+    <name>Jen</name>
+    <display_name>Jen</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2290782-jen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1241581709p3/2290782.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1241581709p2/2290782.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 01 12:20:08 -0700 2009</created_at>
+  <updated_at>Mon Jun 01 12:20:08 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>6221819</id>
+  <body><![CDATA[I agree- 3 1/2 stars would be a perfect rating! (And this is also coming from a mostly 5-starer.) I also agree that she was extremely clueless when it came to Peeta. Sheesh. I'm really looking forward to/hoping that the characters and their relationships to develop a lot more in the sequel. I read the book in like 2 days, so it was a quick read, but it really didn't do anything fantastic for me. But ya'll make me want to read Battle Royale now. I work at Barnes &amp; Noble, and when I described the book to the music manager, he was like "Oh, that sounds like Battle Royale!" So, I guess BR will be on my shelves soon. Have a great one, everybody! :)]]></body>
+  
+  <user>
+    <id>2290782</id>
+    <name>Jen</name>
+    <display_name>Jen</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2290782-jen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1241581709p3/2290782.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1241581709p2/2290782.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 01 12:21:00 -0700 2009</created_at>
+  <updated_at>Mon Jun 01 12:21:00 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>6939016</id>
+  <body><![CDATA[Awesome! I've never read Battle Royale, so this should be perfect for moi. And after I read this, I won't ever touch Battle Royale!]]></body>
+  
+  <user>
+    <id>2097698</id>
+    <name>Rachel</name>
+    <display_name>Rachel</display_name>
+
+    <location>Kuala Lumpur, Malaysia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2097698-rachel]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1241012301p3/2097698.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1241012301p2/2097698.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jun 28 04:02:12 -0700 2009</created_at>
+  <updated_at>Sun Jun 28 04:02:12 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>8731018</id>
+  <body><![CDATA[hey I haven't read this book yet and the comparison to Battle Royale really helped. I haven't really looked into the description of the book yet. I have read most of the manga so i get what you're saying^^]]></body>
+  
+  <user>
+    <id>2135965</id>
+    <name>Stephanie</name>
+    <display_name>Stephanie</display_name>
+
+    <location>Plainfield, IN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2135965-stephanie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1251282112p3/2135965.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1251282112p2/2135965.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 25 04:03:02 -0700 2009</created_at>
+  <updated_at>Tue Aug 25 04:03:02 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>8983350</id>
+  <body><![CDATA[I totally agree with this review that if you have read Battle Royale, The Hunger Games is still great but seems derivative. As for the level of Battle Royale, I read it in Gr 11 and found it gory but nothing I couldn't handle (despite not usually enjoying or reading scary or violent books). On the other hand I saw the movie after reading the book and it left me covering my eyes at times. Maybe gore just seems less gory in a book than in a movie.<br /><br />Overall Battle Royale and Hunger Games were similar, but each had their elements that made them seem better than the other. The only thing that makes Battle Royale come out ahead in my mind is that it came first.]]></body>
+  
+  <user>
+    <id>2349791</id>
+    <name>Kira</name>
+    <display_name>Kira</display_name>
+
+    <location>Toronto, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2349791-kira]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Sep 02 18:18:29 -0700 2009</created_at>
+  <updated_at>Wed Sep 02 18:18:29 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>8990041</id>
+  <body><![CDATA[<i>Kira wrote: "I totally agree with this review that if you have read Battle Royale, The Hunger Games is still great but seems derivative. As for the level of Battle Royale, I read it in Gr 11 and found it gory b..."</i><br /><br />I'm confused...I have to pick one because I won't enjoy the other after reading the one I picked...so which, first? Both have good reviews!]]></body>
+  
+  <user>
+    <id>2097698</id>
+    <name>Rachel</name>
+    <display_name>Rachel</display_name>
+
+    <location>Kuala Lumpur, Malaysia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2097698-rachel]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1241012301p3/2097698.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1241012301p2/2097698.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Sep 02 23:59:42 -0700 2009</created_at>
+  <updated_at>Wed Sep 02 23:59:42 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>8990974</id>
+  <body><![CDATA[I liked BR better but I don't think it was because I was introduced to it first. IMO, the concept translates better as horror (BR) than as adventure/suspense (HG). And they're both enjoyable, no matter which one you read first.]]></body>
+  
+  <user>
+    <id>85271</id>
+    <name>Clickety</name>
+    <display_name>Clickety</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/85271-clickety]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1452379972p3/85271.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1452379972p2/85271.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Sep 03 03:32:12 -0700 2009</created_at>
+  <updated_at>Thu Sep 03 03:32:12 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>9016952</id>
+  <body><![CDATA[I finally read the hunger games and just picked up the second one today. I'm so glad I decided to read them]]></body>
+  
+  <user>
+    <id>2135965</id>
+    <name>Stephanie</name>
+    <display_name>Stephanie</display_name>
+
+    <location>Plainfield, IN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2135965-stephanie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1251282112p3/2135965.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1251282112p2/2135965.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 04 01:47:14 -0700 2009</created_at>
+  <updated_at>Fri Sep 04 01:47:14 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>9101644</id>
+  <body><![CDATA[Battle Royale is one of those books that really sticks with you. Years later I still recommend to friends looking for something more thought provoking and challenging than the popular fare. Guess I need to check out Hunger Games!]]></body>
+  
+  <user>
+    <id>2174177</id>
+    <name>Chris</name>
+    <display_name>Chris</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2174177-chris]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Sep 06 21:39:22 -0700 2009</created_at>
+  <updated_at>Sun Sep 06 21:39:22 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10784898</id>
+  <body><![CDATA[I was def pleasantly surprised. I didn't really think much of this book until I started it. Great plot, one of the best I've ever read and plenty of twists to keep any reader hooked.]]></body>
+  
+  <user>
+    <id>2524217</id>
+    <name>Vampreader</name>
+    <display_name>Vampreader</display_name>
+
+    <location>Pittsburgh, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2524217-vampreader]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 09 19:44:06 -0800 2009</created_at>
+  <updated_at>Mon Nov 09 19:44:06 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>11623202</id>
+  <body><![CDATA[I've never read Battle Royal, and maybe it was just this whole "vampire craze" but I really saw the Hunger Games as something new. Its one of my all time favorites now :) ]]></body>
+  
+  <user>
+    <id>3031205</id>
+    <name>Jade</name>
+    <display_name>Jade Iceshard</display_name>
+
+    <location>Pinehurst, NC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3031205-jade-iceshard]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu Dec 10 17:23:05 -0800 2009</created_at>
+  <updated_at>Thu Dec 10 17:23:05 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>11716035</id>
+  <body><![CDATA[Another one who's relieved I'm not the only one who thinks HG is a lot like BR (although lacking in some departments--still, to be fair, I thought some characters in HG were a little more well-developed than any character I can think of in BR). Anyways, I completely agree with everything in your review. Thank you for posting it.]]></body>
+  
+  <user>
+    <id>2079375</id>
+    <name>Sofia</name>
+    <display_name>Sofia</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2079375-sofia]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1267201299p3/2079375.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1267201299p2/2079375.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Dec 14 10:19:03 -0800 2009</created_at>
+  <updated_at>Mon Dec 14 10:19:03 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>11812025</id>
+  <body><![CDATA[There's a similar premise between Battle Royale and the Hunger Games, yes it's true. Just quietly though, I couldn't concentrate in BR because most of the time I was laughing at how dreadful the writing was. I found these characters a lot easier to empathise with and relate to as they didn't spend their time asking each other who they had a crush on.<br /><br />]]></body>
+  
+  <user>
+    <id>2863809</id>
+    <name>Manda</name>
+    <display_name>Manda</display_name>
+
+    <location>Sydney, 02, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2863809-manda]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1363082234p3/2863809.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1363082234p2/2863809.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Dec 18 03:09:05 -0800 2009</created_at>
+  <updated_at>Fri Dec 18 03:09:05 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>12429676</id>
+  <body><![CDATA[I read these and also thought of BR (I saw the movie though, I am definitely planning on reading the book) I am also feeling bitter towards it, not that it wasn't a good read, but it's just disappointing to know it feels like a complete copy. I think I'm seeing it as a good YA extension of BR, but still I can't bring myself to love it. Plus, most people who read this don't seem to know about BR, it's frustrating :P]]></body>
+  
+  <user>
+    <id>623602</id>
+    <name>Stephanie</name>
+    <display_name>Stephanie</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/623602-stephanie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1391925107p3/623602.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1391925107p2/623602.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 06 06:57:06 -0800 2010</created_at>
+  <updated_at>Wed Jan 06 06:57:06 -0800 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>12500773</id>
+  <body><![CDATA[Great review--the similarities between this, Battle Royale, and the Long Walk (which I read just this year) nagged on me throughout my reading.]]></body>
+  
+  <user>
+    <id>979834</id>
+    <name>Phoebe</name>
+    <display_name>Phoebe</display_name>
+
+    <location>Highland, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/979834-phoebe]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442533627p3/979834.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442533627p2/979834.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 08 13:18:23 -0800 2010</created_at>
+  <updated_at>Fri Jan 08 13:18:23 -0800 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>14573530</id>
+  <body><![CDATA[I had exactly the same problem with this book! I couldn't put it down, it was fantastic -- but hadn't I already this book? In fact when I finished it I searched my house for my copy of Battle Royale so that I could reread it, to see if it was really as similar as I remembered (I had read it 2 years before), but I couldn't find it anywhere :( . <br />I had hoped that the second book would be enough of a departure from the "game" that I could read it with out the nagging feeling that I'd read it before, but I guess I'll just have to wait for the third.]]></body>
+  
+  <user>
+    <id>2707355</id>
+    <name>Kathy</name>
+    <display_name>Kathy</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2707355-kathy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1304011844p3/2707355.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1304011844p2/2707355.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Mar 14 00:39:42 -0800 2010</created_at>
+  <updated_at>Sun Mar 14 00:39:42 -0800 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>16801105</id>
+  <body><![CDATA[Thank you for mentioning Battle Royale, it was something I was thinking about, but luckily my partner in crime reminded me that was the name of it.<br /><br />The other thing it had me thinking about was Running Man. Which is silly but made reading the book even more awesome.]]></body>
+  
+  <user>
+    <id>675647</id>
+    <name>Stephanie.</name>
+    <display_name>Stephanie.</display_name>
+
+    <location>Kamloops, BC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/675647-stephanie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1319649301p3/675647.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1319649301p2/675647.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed May 19 11:51:47 -0700 2010</created_at>
+  <updated_at>Wed May 19 11:51:47 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>16825359</id>
+  <body><![CDATA[Battle Royale was amazing, and yes, this book seems similar. Will have to give it a read!]]></body>
+  
+  <user>
+    <id>2740302</id>
+    <name>Matthew</name>
+    <display_name>Matthew</display_name>
+
+    <location>Buffalo, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2740302-matthew]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1259115120p3/2740302.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1259115120p2/2740302.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 20 06:00:06 -0700 2010</created_at>
+  <updated_at>Thu May 20 06:00:06 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>17505881</id>
+  <body><![CDATA[Was the book actually like <a href="https://www.goodreads.com/book/show/9014.The_Long_Walk" title="The Long Walk by Stephen King" rel="nofollow">The Long Walk</a>, or are you possibly confusing it with the book (not movie) version of <a href="https://www.goodreads.com/book/show/11607.The_Running_Man" title="The Running Man by Stephen King" rel="nofollow">The Running Man</a>?<br /><br />Either way, I'm mildly curious about it - I'm just concerned about this being a "young adult" book (especially given the multitudes of female reviewers). I'm 37 and male, so I'm wondering how much appeal it may hold for me. (View my read list to better guage whether you think it'll be worth my time.)]]></body>
+  
+  <user>
+    <id>554100</id>
+    <name>Jamie</name>
+    <display_name>Jamie</display_name>
+
+    <location>Orlando, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/554100-jamie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1192671390p3/554100.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1192671390p2/554100.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jun 09 12:55:01 -0700 2010</created_at>
+  <updated_at>Wed Jun 09 12:55:01 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>17507150</id>
+  <body><![CDATA[I haven't read The Long Walk yet but it is on my list. It definitely made me think of The Running Man but the music from the movie, not the book. <br /><br />I'd suggest just trying to give it a read and see what you think. It's definitely a YA book that to me, didn't quite feel like a YA book.]]></body>
+  
+  <user>
+    <id>675647</id>
+    <name>Stephanie.</name>
+    <display_name>Stephanie.</display_name>
+
+    <location>Kamloops, BC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/675647-stephanie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1319649301p3/675647.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1319649301p2/675647.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jun 09 13:24:30 -0700 2010</created_at>
+  <updated_at>Wed Jun 09 13:24:30 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>18322567</id>
+  <body><![CDATA[Less than 24hrs...done. Love love lived it!]]></body>
+  
+  <user>
+    <id>3755037</id>
+    <name>Annabel</name>
+    <display_name>Annabel Grinbergs</display_name>
+
+    <location><![CDATA[Birmingham, A7, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3755037-annabel-grinbergs]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1457215058p3/3755037.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1457215058p2/3755037.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 02 15:34:08 -0700 2010</created_at>
+  <updated_at>Fri Jul 02 15:34:08 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>18337143</id>
+  <body><![CDATA[I'm not bitter about this being similar to another book. I haven't read Battle Royale so thank all of you! I now have another book to add to my reading list, because I absolutely LOVED the Hunger Games.<br /><br />The psychological concept has also been illustrated in 'House of Stairs' by William Sleator, though not in the same scenerio. A group of teenagers in that book are taken from foster homes, taken to this big building full of nothing but staircases and are forced to interact with a machine to receive food for rewards. Eventually, the machine only responds when they treat each other cruelly. The weird thing? Reading about the concept of this reminded me of that book that I haven't read in a good 17 years...so I ordered it along with The Hunger Games. I'm reading it next.]]></body>
+  
+  <user>
+    <id>1719023</id>
+    <name>Kelly</name>
+    <display_name>Kelly</display_name>
+
+    <location>Oceanside, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1719023-kelly]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1270992329p3/1719023.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1270992329p2/1719023.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jul 03 00:40:23 -0700 2010</created_at>
+  <updated_at>Sat Jul 03 00:40:23 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>18772276</id>
+  <body><![CDATA[i read this book prior to reading battle royale and upon telling my best friend about this book, he recommended BR to me. i find both of these books amazing, however i did enjoy HG more because, traditionally, i like books with female narrators more.]]></body>
+  
+  <user>
+    <id>3997834</id>
+    <name>Samantha</name>
+    <display_name>Samantha</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3997834-samantha]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 15 08:18:08 -0700 2010</created_at>
+  <updated_at>Thu Jul 15 08:18:08 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>18786038</id>
+  <body><![CDATA[I am a big Battle Royale fan and compared them as well. Battle Royale - for me - was a bit more sophisticated but I loved them both. I also prefer the female perspective.]]></body>
+  
+  <user>
+    <id>872115</id>
+    <name>Steph</name>
+    <display_name>Steph Foster</display_name>
+
+    <location>Oak Park, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/872115-steph-foster]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1202120016p3/872115.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1202120016p2/872115.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 15 14:16:40 -0700 2010</created_at>
+  <updated_at>Thu Jul 15 14:16:40 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>19737708</id>
+  <body><![CDATA[I think that your comparison of Battle Royale to the Hunger Games is quite, well off. First of all the children were put on an island due to the fact that the children were rebelling and being crazy, so the government put them there to make an example out of them. Yes there was the similar theme of survival of the fittest, but the books are set in completely different worlds. The kids in hunger games all range grossly in age, and they know from the time they were born that their is a chance they may have to fight to the death in order to bring food home to their districts as well as wealth to themselves. The children in Battle Royale had no idea what was happening to them, and it was more a Lord of the Flies if the children were ordered to kill each other. <br /><p> I'm not saying the Collins has a completely original story on her hands; however, to say that 90% was taken from Battle Royale well that's unbased. </p>]]></body>
+  
+  <user>
+    <id>4068075</id>
+    <name>Tiffany</name>
+    <display_name>Tiffany</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4068075-tiffany]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1280980287p3/4068075.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1280980287p2/4068075.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 10 10:25:44 -0700 2010</created_at>
+  <updated_at>Tue Aug 10 10:25:44 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>19737794</id>
+  <body><![CDATA[<i>Manda wrote: "There's a similar premise between Battle Royale and the Hunger Games, yes it's true. Just quietly though, I couldn't concentrate in BR because most of the time I was laughing at how dreadful the wr..."</i><br /><br />Finally someone who gets it!]]></body>
+  
+  <user>
+    <id>4068075</id>
+    <name>Tiffany</name>
+    <display_name>Tiffany</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4068075-tiffany]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1280980287p3/4068075.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1280980287p2/4068075.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 10 10:27:59 -0700 2010</created_at>
+  <updated_at>Tue Aug 10 10:27:59 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20800031</id>
+  <body><![CDATA[Ahh, you took like... all the words RIGHT out of my mouth. <br /><br />Still though, this book was great. I'm really looking forward to reading the next two books, which I'm sure will be more original, as they'll evolve into a storyline that goes beyond the actual game, which was where most of the comparison can be made with Battle Royale.]]></body>
+  
+  <user>
+    <id>4056084</id>
+    <name>Faye</name>
+    <display_name>Faye</display_name>
+
+    <location>Plainview, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4056084-faye]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1314806532p3/4056084.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1314806532p2/4056084.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Sep 09 19:46:12 -0700 2010</created_at>
+  <updated_at>Thu Sep 09 19:46:12 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20800426</id>
+  <body><![CDATA[<i>Tiffany wrote: "I think that your comparison of Battle Royale to the Hunger Games is quite, well off. First of all the children were put on an island due to the fact that the children were rebelling and being craz..."</i><br /><br />Actually, the reason for the Program in BR is different in the book and in the movie. In the book, to quote Wikipedia directly, "Officially a military research project, it is a means of terrorizing the population, of creating such paranoia as to make organized insurgency impossible." That's more similar to the Capitol's reasoning in The Hunger Games (but not identical, I know). <br /><br />The reason you mentioned is from the movie, where they mentioned that kids boycotted school and the adults began to fear the youth.<br /><br />I don't think Suzanne Collins ripped off Battle Royale or anything, I've heard her talk about her inspiration for her books and I believe her, so my correcting you isn't meant to disprove any of your other points. I just wanted to get that out there so that the facts were straight, that's all. :P]]></body>
+  
+  <user>
+    <id>4056084</id>
+    <name>Faye</name>
+    <display_name>Faye</display_name>
+
+    <location>Plainview, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4056084-faye]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1314806532p3/4056084.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1314806532p2/4056084.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Sep 09 19:59:43 -0700 2010</created_at>
+  <updated_at>Thu Sep 09 19:59:43 -0700 2010</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/27624850]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/27624850]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

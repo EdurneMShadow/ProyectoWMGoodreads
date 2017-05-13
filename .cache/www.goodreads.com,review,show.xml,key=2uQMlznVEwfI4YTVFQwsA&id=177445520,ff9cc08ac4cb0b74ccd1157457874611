@@ -1,0 +1,1285 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:44:30 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: HK08N5GC2H2V4JD33WXE
+etag: W/"e0f0954dd2d07a6b9f502fe83ac31bc5"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.396196
+set-cookie: csid=BAhJIhg3MTAtNTIwODcyMS0wMzg2NzA1BjoGRVQ%3D--cf4bfefb1e2d07e1cd9872c0fe9f397b73cb788d; path=/; expires=Tue, 12 May 2037 13:44:30 -0000, locale=es; path=/, _session_id2=1c68ac4e1b153cc53e00d6ea9057e719; path=/; expires=Fri, 12 May 2017 19:44:30 -0000; HttpOnly
+content-length: 63832
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=177445520
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>177445520</id>
+    
+  <user>
+    <id>1199525</id>
+    <name>Cecily</name>
+    <display_name>Cecily</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1199525-cecily]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480285828p3/1199525.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480285828p2/1199525.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">6053292</id>
+  <isbn>1407109081</isbn>
+  <isbn13>9781407109084</isbn13>
+  <text_reviews_count type="integer">1186</text_reviews_count>
+  <title>The Hunger Games (The Hunger Games, #1)</title>
+  <title_without_series>The Hunger Games</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1353517172m/6053292.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1353517172s/6053292.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6053292-the-hunger-games</link>
+  <num_pages>436</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Scholastic</publisher>
+  <publication_day>5</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.35</average_rating>
+  <ratings_count>4802886</ratings_count>
+  <description>&lt;b&gt;Winning means fame and fortune. &lt;br /&gt;Losing means certain death. &lt;br /&gt;The Hunger Games have begun....&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;In the ruins of a place once known as North America lies the nation of Panem, the shining Capitol surrounded by twelve outlying districts. The Capitol is harsh and keeps the districts in line by forcing them all to send one boy and one girl between the ages of twelve and eighteen to participate in the annual Hunger Games, a fight to the death on live TV.&lt;br /&gt;&lt;br /&gt;Sixteen-year-old Katniss Everdeen regards it as a death sentence when she steps forward to take her sister's place in the Games. But Katniss has been close to dead before-- and survival, for her, is second nature. Without really meaning to, she becomes a contender. But if she is to win, she will have to start making choices that weigh survival against humanity and life against love.</description>
+<authors>
+<author>
+<id>153394</id>
+<name>Suzanne Collins</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1394819770p5/153394.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1394819770p2/153394.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/153394.Suzanne_Collins]]></link>
+<average_rating>4.27</average_rating>
+<ratings_count>8960954</ratings_count>
+<text_reviews_count>356106</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1215242771</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sat Jan 30 14:13:29 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>2</rating>
+  <votes>356</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="overrated" exclusive="false" review_shelf_id="114096490" sortable="false" />
+    <shelf name="dystopian" exclusive="false" review_shelf_id="113442652" sortable="false" />
+    <shelf name="scifi-future-speculative-fict" exclusive="false" review_shelf_id="113442662" sortable="false" />
+    <shelf name="canada-and-usa" exclusive="false" review_shelf_id="141106328" sortable="false" />
+    <shelf name="ya" exclusive="false" review_shelf_id="1268284011" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Jun 17 00:00:00 -0700 2011</started_at>
+  <read_at>Mon Jun 20 00:00:00 -0700 2011</read_at>
+  <date_added>Fri Jun 17 06:34:35 -0700 2011</date_added>
+  <date_updated>Tue Mar 29 04:14:57 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[If I were a teenager or recommending this to a teen, I might give it 3*; as an adult, I give it 2*.<br /><br />PLOT<br /><br />It's a potentially exciting but gruesome story, but most of the characters were rather flat, much of the plot was predictable (it's not hugely original; in particular, it is VERY similar to the...]]>
+  </body>
+
+  
+
+  <comments_count>272</comments_count>
+    <comments start="1" end="50" total="272">
+        <comment>
+  <id>32241530</id>
+  <body><![CDATA[What did you think? It didn't sound like you had high hopes for it before you started reading it.]]></body>
+  
+  <user>
+    <id>5228792</id>
+    <name>Sarah</name>
+    <display_name>Sarah</display_name>
+
+    <location>Whitby, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5228792-sarah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487116732p3/5228792.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487116732p2/5228792.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 20 14:11:48 -0700 2011</created_at>
+  <updated_at>Mon Jun 20 14:11:48 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>32241789</id>
+  <body><![CDATA[Spooky. I have just started writing my review when I got an email saying you had commented on my (as yet non-existent) review! I'll finish writing it in the next half hour, but I'm afraid I wasn't wildly impressed.]]></body>
+  
+  <user>
+    <id>1199525</id>
+    <name>Cecily</name>
+    <display_name>Cecily</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1199525-cecily]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480285828p3/1199525.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480285828p2/1199525.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 20 14:15:34 -0700 2011</created_at>
+  <updated_at>Mon Jun 20 14:15:34 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>32245952</id>
+  <body><![CDATA[I tend to read all YA literature with an eye towards "is this good to teach my students". Hunger Games rated really high for that. The novel it is closest to is 'Lord of the Flies', and the characters are much more highly developed and there is much more moral ambiguity which makes for a better teaching novel. I've been forced to teach 'Lord of the Flies' for years, and if I could replace it with 'Hunger Games' it would be a good thing.]]></body>
+  
+  <user>
+    <id>5228792</id>
+    <name>Sarah</name>
+    <display_name>Sarah</display_name>
+
+    <location>Whitby, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5228792-sarah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487116732p3/5228792.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487116732p2/5228792.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 20 15:21:02 -0700 2011</created_at>
+  <updated_at>Mon Jun 20 15:21:02 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>32248135</id>
+  <body><![CDATA[Yes, I can see that there is plenty of scope for worthwhile discussion with a class, and they would probably related to it and enjoy it more than Lord of the Flies. <br /><br />I think the big difference between the two is that Lord of the Flies suggests original sin, whereas in The Hunger Games, the evil is imposed and manipulated externally and in fact, the circumstances push some of the children to do good.]]></body>
+  
+  <user>
+    <id>1199525</id>
+    <name>Cecily</name>
+    <display_name>Cecily</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1199525-cecily]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480285828p3/1199525.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480285828p2/1199525.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 20 15:53:12 -0700 2011</created_at>
+  <updated_at>Mon Jun 20 15:53:12 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>32260296</id>
+  <body><![CDATA[Great review. Once again I loved the book, but totally understand why you didn't.]]></body>
+  
+  <user>
+    <id>767519</id>
+    <name>Chanel</name>
+    <display_name>Chanel Earl</display_name>
+
+    <location>Bloomington, IN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/767519-chanel-earl]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442605048p3/767519.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442605048p2/767519.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 20 19:15:50 -0700 2011</created_at>
+  <updated_at>Mon Jun 20 19:15:50 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>32547665</id>
+  <body><![CDATA[This is high on my reading list so I was interested in your review! It sounds like pure allegory of corporate gameshow America today from your description. Glad you took it down a few notches, I might enjoy it more with lower expectations :-)]]></body>
+  
+  <user>
+    <id>3666522</id>
+    <name>Lindsay</name>
+    <display_name>Lindsay</display_name>
+
+    <location>Cardiff, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3666522-lindsay]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1309709282p3/3666522.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1309709282p2/3666522.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jun 26 00:09:52 -0700 2011</created_at>
+  <updated_at>Sun Jun 26 00:09:52 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>32550768</id>
+  <body><![CDATA[Now I've read the book your review seem spot on. I've read some young adult books that I have throughly enjoyed and havent particularly noticed were written for someone half my age, but this one felt distinctly like a book aimed at 14 year olds.]]></body>
+  
+  <user>
+    <id>440859</id>
+    <name>Jenny</name>
+    <display_name>Jenny</display_name>
+
+    <location><![CDATA[Norwich, Norfolk, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/440859-jenny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1390583714p3/440859.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1390583714p2/440859.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jun 26 04:04:15 -0700 2011</created_at>
+  <updated_at>Sun Jun 26 04:04:15 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>32668342</id>
+  <body><![CDATA[You do well to describe the whole thing and why you disliked it. From your review I can see why so many people loved the novel and also why it just seemed to annoy you with too much implausibility.]]></body>
+  
+  <user>
+    <id>1055942</id>
+    <name>Shawn</name>
+    <display_name>Shawn Sorensen</display_name>
+
+    <location>Portland, OR</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1055942-shawn-sorensen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1279002387p3/1055942.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1279002387p2/1055942.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jun 28 10:21:29 -0700 2011</created_at>
+  <updated_at>Tue Jun 28 10:21:29 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>33423938</id>
+  <body><![CDATA[<i>Cecily wrote: "How big is Panem? It can only be a tiny part of the USA because each district specialises in only one thing (coal mining, agriculture etc) and has one town square that can accommodate everyone (8,000 people in District 12) and yet it's a day's train journey from District 12 to the Capitol."</i><br /><br />It's been a while since I read the book, and I admit that I didn't pay much attention to this. However, there are several possibilities. Panem might not be the only nation that occupies the area formerly known as the USA. Or, the rest of the USA could be uninhabitable owing to some unmentioned catastrophe. Alternatively, Panem could occupy all or most of the continental United States, but District 12 in particular just happens to be within a day's journey by train of the Capitol, while other districts are more distant.<br /><br />Just some speculations. I have had similar misgivings about some aspects of the book that do not seem plausible. Nancy Kress <a href="http://nancykress.blogspot.com/2010/08/hunger-games.html" rel="nofollow">has questioned</a> how parents could ever be cowed into sending their children off to die and not revolt.]]></body>
+  
+  <user>
+    <id>1188122</id>
+    <name>Ben</name>
+    <display_name>Ben Babcock</display_name>
+
+    <location>Thunder Bay, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1188122-ben-babcock]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1211839871p3/1188122.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1211839871p2/1188122.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 12 12:42:35 -0700 2011</created_at>
+  <updated_at>Tue Jul 12 12:42:35 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>33430254</id>
+  <body><![CDATA[Thanks, Ben. I very much liked Nancy Kress's blog. If the book were better, I might not have been so distracted by such questions.]]></body>
+  
+  <user>
+    <id>1199525</id>
+    <name>Cecily</name>
+    <display_name>Cecily</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1199525-cecily]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480285828p3/1199525.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480285828p2/1199525.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 12 14:26:06 -0700 2011</created_at>
+  <updated_at>Tue Jul 12 14:26:06 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>43123221</id>
+  <body><![CDATA[Quote: I realise that horrendous things are done to children around the world every day (extreme poverty, child soldiers, sexual assault, genital mutilation etc), but in none of those cases is the intention that all but one child dies, and nor is it done for a sick combination of sport, entertainment and profit.<br /><br />I have yet to read this book, but the absurdity of this statement is outrageous and totally discredits anything you have to say. Have you not heard of child pron? Snuff films? Child sex slaves? In Ancient Rome, there were child gladiators. Profit, entertainment, and sport revolve around all of these. Especially profit and entertainment.]]></body>
+  
+  <user>
+    <id>6879652</id>
+    <name>Mara</name>
+    <display_name>Mara</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6879652-mara]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1380254226p3/6879652.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1380254226p2/6879652.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 09 17:17:02 -0800 2012</created_at>
+  <updated_at>Mon Jan 09 17:17:02 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>43141114</id>
+  <body><![CDATA[Of course I have heard of all those things, but as I said, in none of those (not even snuff films) is it the intention to kill EVERY child but one, and in most cultures the horrific things done to children are not done for government-sponsored, mass entertainment.<br /><br />(The fact you have not even read the book weakens your rather aggressive argument, imo.)]]></body>
+  
+  <user>
+    <id>1199525</id>
+    <name>Cecily</name>
+    <display_name>Cecily</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1199525-cecily]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480285828p3/1199525.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480285828p2/1199525.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 09 23:35:04 -0800 2012</created_at>
+  <updated_at>Mon Jan 09 23:35:04 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47296836</id>
+  <body><![CDATA[Some good observations. I just came off my teens but I'm sure I wouldn't have liked it even then. Yes, Collin's world fails to grip us like the wizarding world in the HP series or any other other. Numerous discrepancies. I liked the several themes that you've mentioned. Very apt. And yes, the questions you've posed are things I thought of too, while reading. What with the silver parachute and the geographical details of Panem. But more than that, I loved your comparison to Lord of the Flies which undoubtedly is the better book. Only that I don't think Collins even intended to highlight how basic instincts take over in life and death situations... It seems that she was simply trying to present reality-packed entertainment whereas LotF deals with some extremely grave issues.]]></body>
+  
+  <user>
+    <id>7014624</id>
+    <name>Tanvi</name>
+    <display_name>Tanvi</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7014624-tanvi]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 20 02:06:51 -0700 2012</created_at>
+  <updated_at>Tue Mar 20 02:06:51 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47302756</id>
+  <body><![CDATA[<i>Tanvi wrote: "Some good observations. I just came off my teens but I'm sure I wouldn't have liked it even then. Yes, Collin's world fails to grip us like the wizarding world in the HP series or any other other. ..."</i><br /><br />I would have to strongly disagree with your statement that LotF is undoubtedly the better book. I would take Hunger Games of LotF any time. The Lord of the Flies uses stock characters that show very little development. Golding was making a point, and it was not at all subtle. It was a story designed for a specific time and place and that came out of specific experiences.<br /><br />In many ways, The Hunger Games does the same thing. It takes society's love for "reality" television and stretches it to an extreme. Plastic surgery, extremes of wealth and poverty, the idea that the poor exist only to serve the rich and so on are all themes that are key to understanding society as it is today. Collins has held up a mirror to us, and what we see isn't pretty.<br /><br />If you didn't understand the themes in The Hunger Games, perhaps you need to read it again in order to understand that it is much more than "reality-packed entertainment." It deals with just as many grave issues as LotF did, but in a much more sophisticated manner.]]></body>
+  
+  <user>
+    <id>5228792</id>
+    <name>Sarah</name>
+    <display_name>Sarah</display_name>
+
+    <location>Whitby, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5228792-sarah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487116732p3/5228792.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487116732p2/5228792.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 20 06:32:53 -0700 2012</created_at>
+  <updated_at>Tue Mar 20 06:32:53 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47303204</id>
+  <body><![CDATA[LotF has many flaws, and THG does cover some major issues, but I'm struggling to recall any sophistication in the latter, and I really don't want to read it again, or even its sequels. <br /><br />Each to their own, and I realise that Tanvi and I are in a minority on this.]]></body>
+  
+  <user>
+    <id>1199525</id>
+    <name>Cecily</name>
+    <display_name>Cecily</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1199525-cecily]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480285828p3/1199525.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480285828p2/1199525.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 20 06:42:55 -0700 2012</created_at>
+  <updated_at>Tue Mar 20 06:42:55 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47303406</id>
+  <body><![CDATA[The sophistication lies in primarily in character development. Collins' characters are round, they change and grow and you cannot necessarily predict how they are going to act. This adds a level of sophistication that LotF doesn't have. Golding pretty much hits you over the head with 'the good guy', 'the bad guy', 'the martyr', etc.]]></body>
+  
+  <user>
+    <id>5228792</id>
+    <name>Sarah</name>
+    <display_name>Sarah</display_name>
+
+    <location>Whitby, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5228792-sarah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487116732p3/5228792.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487116732p2/5228792.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 20 06:48:18 -0700 2012</created_at>
+  <updated_at>Tue Mar 20 06:48:18 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47303558</id>
+  <body><![CDATA[I really didn't notice a great deal of character development beyond what was predictable from the premise. I hope that's not just my lack of enjoyment blinding me to its good points, but perhaps it is.]]></body>
+  
+  <user>
+    <id>1199525</id>
+    <name>Cecily</name>
+    <display_name>Cecily</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1199525-cecily]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480285828p3/1199525.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480285828p2/1199525.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 20 06:52:22 -0700 2012</created_at>
+  <updated_at>Tue Mar 20 06:52:22 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47325047</id>
+  <body><![CDATA[This is a great review. :)]]></body>
+  
+  <user>
+    <id>2950816</id>
+    <name>JK</name>
+    <display_name>JK</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2950816-jk]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1409974038p3/2950816.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1409974038p2/2950816.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 20 14:18:44 -0700 2012</created_at>
+  <updated_at>Tue Mar 20 14:18:44 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47591143</id>
+  <body><![CDATA[Just started reading the book and not very far into it.<br />I read that Panem is the size of North America. I would have expected it to take a day by train as the author has said that Capitol is a far off place.<br />How long would it take to get from New York to say Los Angeles by train for instance? <br /><br />The Hunger games are a punishment for the uprising (this is the 74th Games) and the population is given 'treats' to help them survive the year if they consider to put their childrens' names in more than once a year. Obviously some of the children are never called to the games as the population would cease! Maybe they see it as necessary to sacrifice a couple of teenagers each year for the continuation of the survival of the rest. Isn't it the usual? The rich are spared and the poor are not? Anyways! I'm not very far into the book at the present and will probably form a better opinion as I get further into the book. Don't forget though, It's a kids/teens book - so there's not going to be so much violence and gore? They probably get more off their Computer games!!]]></body>
+  
+  <user>
+    <id>7764581</id>
+    <name>Sandy</name>
+    <display_name>Sandy</display_name>
+
+    <location><![CDATA[Bury Saint Edmunds, I9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7764581-sandy]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Mar 25 02:51:19 -0700 2012</created_at>
+  <updated_at>Sun Mar 25 02:51:19 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47657545</id>
+  <body><![CDATA[The conundrum of the size of Panem, was an irritation in a book I didn't much enjoy, rather than a showstopper. (If it really is almost all of the current US, that would mean districts of about 1/12 the size of the USA, which is fine, but with all 8000 inhabitants living in a single town. Bizarre, and needlessly so.)<br /><br />I understand the history of the games, but again, I didn't believe it over such a long (74 years is ~3 generations!).<br /><br />I may have enjoyed it more as a teenager, and I suspect it works better on screen, though I don't intend to pay to see it at the cinema.]]></body>
+  
+  <user>
+    <id>1199525</id>
+    <name>Cecily</name>
+    <display_name>Cecily</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1199525-cecily]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480285828p3/1199525.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480285828p2/1199525.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Mar 26 04:56:29 -0700 2012</created_at>
+  <updated_at>Mon Mar 26 04:56:29 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47658620</id>
+  <body><![CDATA[I fear that I will not enjoy it either. I agreed to read it as part of a challenge, and quickly bought the book before I could change my mind... now I'm sorry I did because I know that I'm going to regret wasting the time. The whole thing reminds me of a pretty decent B sci-fi flick, <a href="http://www.imdb.com/title/tt0093894/" rel="nofollow">The Running Man</a>, with screenplay by Stephen King who wrote the original book <a href="https://www.goodreads.com/book/show/11607.The_Running_Man" title="The Running Man by Stephen King" rel="nofollow">The Running Man</a>.<br /><br />Excellent review]]></body>
+  
+  <user>
+    <id>1724711</id>
+    <name>Hayes</name>
+    <display_name>Hayes</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1724711-hayes]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1399765924p3/1724711.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1399765924p2/1724711.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Mar 26 05:39:53 -0700 2012</created_at>
+  <updated_at>Mon Mar 26 05:39:53 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47658761</id>
+  <body><![CDATA[You won't waste much time: it's quite a quick read, and you <i>may</i> enjoy it.]]></body>
+  
+  <user>
+    <id>1199525</id>
+    <name>Cecily</name>
+    <display_name>Cecily</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1199525-cecily]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480285828p3/1199525.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480285828p2/1199525.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Mar 26 05:44:47 -0700 2012</created_at>
+  <updated_at>Mon Mar 26 05:44:47 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47659613</id>
+  <body><![CDATA[I'm ever hopeful!]]></body>
+  
+  <user>
+    <id>1724711</id>
+    <name>Hayes</name>
+    <display_name>Hayes</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1724711-hayes]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1399765924p3/1724711.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1399765924p2/1724711.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Mar 26 06:16:30 -0700 2012</created_at>
+  <updated_at>Mon Mar 26 06:16:30 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47713582</id>
+  <body><![CDATA[Isn't it weird how I like this you don't. I don't like the Road you do. It just serves to highlight how reading a book is a highly subjective affair. And very personal for each reader. And as for ratings like I've said I tend to overlook the flaws in a plot (which all books have - and they're apparent to me - same as how all film flaws are apparent) if I really enjoy something. And if I don't the flaws become really apparent.]]></body>
+  
+  <user>
+    <id>6313408</id>
+    <name>Jonathan</name>
+    <display_name>Jonathan</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6313408-jonathan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478230200p3/6313408.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478230200p2/6313408.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Mar 26 21:12:36 -0700 2012</created_at>
+  <updated_at>Mon Mar 26 21:12:36 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47717362</id>
+  <body><![CDATA[Strange and intriguing indeed. I'm like you in that I easily ignore flaws in something I enjoy, to the extent that I sometimes struggle to see them, even when someone else points them out. The converse, as here, is equally true.]]></body>
+  
+  <user>
+    <id>1199525</id>
+    <name>Cecily</name>
+    <display_name>Cecily</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1199525-cecily]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480285828p3/1199525.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480285828p2/1199525.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Mar 26 23:16:53 -0700 2012</created_at>
+  <updated_at>Mon Mar 26 23:16:53 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47719482</id>
+  <body><![CDATA[I don't struggle to see the flaws if they're there. I understand how the lack of sexuality in Lord of the Rings could be considered a flaw. I see how it can be viewed as boring. And how Narnia can be too allegorical. But I just ignore that aspect.]]></body>
+  
+  <user>
+    <id>6313408</id>
+    <name>Jonathan</name>
+    <display_name>Jonathan</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6313408-jonathan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478230200p3/6313408.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478230200p2/6313408.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 27 01:28:03 -0700 2012</created_at>
+  <updated_at>Tue Mar 27 01:28:03 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47719777</id>
+  <body><![CDATA[I only said "sometimes" - and we agree about LotR. ;-)]]></body>
+  
+  <user>
+    <id>1199525</id>
+    <name>Cecily</name>
+    <display_name>Cecily</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1199525-cecily]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480285828p3/1199525.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480285828p2/1199525.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 27 01:52:21 -0700 2012</created_at>
+  <updated_at>Tue Mar 27 01:52:21 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47720036</id>
+  <body><![CDATA[<i>Sarah wrote: "Tanvi wrote: "Some good observations. I just came off my teens but I'm sure I wouldn't have liked it even then. Yes, Collin's world fails to grip us like the wizarding world in the HP series or any..."</i><br /><br />Point 1: Characters in LotF: Jack, how he is driven by his basic instincts and turns evil. Remember, he wasn't so in the beginning, a bully, yes, but not evil. Same goes for Ralph (not much though), Piggy and Simon and how their relationships evolve.<br /><br />Point 2: Mirror to the society: Well, yes. Collins makes us realise how entertainment thirsty we have become even if it is at the expense of others. True. And as I have agreed in my review, the theme of THG was indeed a good one, but was only ruined with silly romance. I mean, there was so much that could've been done when all we get are mutts? The climax really let me down. <br /><br />What I would like to underline is that THG deals with very "physical" themes like poverty, atrocities, disparity, etc whereas LotF goes way, way beyond that. It discusses Human Beings at large, as to how 'conditioned' we become in a sophisticated society, how we give in to it's norms and suppress our basic nature and how this very basic nature or basic instincts are unleashed in the absence of any system. Yes, the themes in THG that you mentioned are important but I think LotF goes way beyond and comments on the very nature of humans.<br />I hope this convinces you that I can understand themes in books very well.]]></body>
+  
+  <user>
+    <id>7014624</id>
+    <name>Tanvi</name>
+    <display_name>Tanvi</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7014624-tanvi]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 27 02:10:56 -0700 2012</created_at>
+  <updated_at>Tue Mar 27 02:10:56 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47720119</id>
+  <body><![CDATA[I still love Lord of the Rings though. I have a love for the mythical and the epic.]]></body>
+  
+  <user>
+    <id>6313408</id>
+    <name>Jonathan</name>
+    <display_name>Jonathan</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6313408-jonathan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478230200p3/6313408.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478230200p2/6313408.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 27 02:16:39 -0700 2012</created_at>
+  <updated_at>Tue Mar 27 02:16:39 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47720839</id>
+  <body><![CDATA[Jonathan, yes, I agree about LotR: it's a book I have great fondness for, despite the fact I can see its weaknesses. There are other books I treasure where I'm blind to their faults. And then there are books I am not keen on, where their bad points leap off the page to a distracting degree, of which THG is one.<br /><br />Tanvi: If only Good Reads had a "Like" function, I would like your post.]]></body>
+  
+  <user>
+    <id>1199525</id>
+    <name>Cecily</name>
+    <display_name>Cecily</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1199525-cecily]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480285828p3/1199525.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480285828p2/1199525.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 27 03:02:05 -0700 2012</created_at>
+  <updated_at>Tue Mar 27 03:02:05 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47721058</id>
+  <body><![CDATA[:)]]></body>
+  
+  <user>
+    <id>7014624</id>
+    <name>Tanvi</name>
+    <display_name>Tanvi</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7014624-tanvi]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 27 03:14:19 -0700 2012</created_at>
+  <updated_at>Tue Mar 27 03:14:19 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47721459</id>
+  <body><![CDATA[<i>Tanvi wrote: "Sarah wrote: "Tanvi wrote: "Some good observations. I just came off my teens but I'm sure I wouldn't have liked it even then. Yes, Collin's world fails to grip us like the wizarding world in the HP..."</i><br /><br />The problem with LotF is that it hits you over the head with things. There is really no subtlety to it. After 15 years of teaching it to students, I read HG as a breath of fresh air. Finally. A book that dealt with human nature - because it does, but isn't hitting you over the head with it. Golding's book is very much a product of its time, and Collins' book will probably turn out to be the same, but this time is not Golding's time.<br /><br />No, HG does not have the same allegorical meaning that LotF does, but in today's society, that meaning is lost on the vast majority of my students. When I look at Biblical references in LotF, I have to go back and explain the Bible to them. What good is an allegory if no one gets it?<br /><br />The students can understand the themes of social justice in HG. They can see the idea that disparities in wealth and poverty are horrifying. The themes matter to them. <br /><br />LotF is also very limited by the fact that the characters are all boys. Again, a product of its time, but very dated today. Every time I read the book I have to wonder why the girls are missing. The only answer I can come up with is that the story wouldn't work with female characters because they behave differently. That shoots his whole argument out of the water. That is the biggest flaw in LotF.<br /><br />All in all, HG stands up very nicely to LotF and this is why it is replacing it in so many schools.]]></body>
+  
+  <user>
+    <id>5228792</id>
+    <name>Sarah</name>
+    <display_name>Sarah</display_name>
+
+    <location>Whitby, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5228792-sarah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487116732p3/5228792.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487116732p2/5228792.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 27 03:36:51 -0700 2012</created_at>
+  <updated_at>Tue Mar 27 03:36:51 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47721575</id>
+  <body><![CDATA[Sarah, I agree with you more that it may appear, and the same may be true for Tanvi.<br /><br />As I said in my review, THG tackles many big issues that are pertinent to modern teens, and I'm sure that it speaks far more powerfully to them than LotF does. I also agree with your point about allegories, and I'm sure teaching any book for 15 years is bound to make you pleased to find something new, exciting and relevant. <br /><br />However, none of that detracts from my view that LotF is a deeper and richer book, even if it is too dated for easy consumption by modern youngsters. Like you, the lack of girls in LotF is something that bothers me, and I remember asking, in a book group, how different it might have been with an all girl group and a mixed sex group - and that (sort of) brings us back to Lord of the Rings.]]></body>
+  
+  <user>
+    <id>1199525</id>
+    <name>Cecily</name>
+    <display_name>Cecily</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1199525-cecily]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480285828p3/1199525.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480285828p2/1199525.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 27 03:43:48 -0700 2012</created_at>
+  <updated_at>Tue Mar 27 03:43:48 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47721652</id>
+  <body><![CDATA[I guess I just find that the holes in LotF have always made it unenjoyable to me. It is among my least favourite books ever. I disagree strongly with Golding's conclusions, I find the lack of female characters to be a major weakness because I believe he didn't include them because he felt they wouldn't serve his idea, I see the characters as flat rather than round, the allegory only works if you come from a Christian background and I can go on.]]></body>
+  
+  <user>
+    <id>5228792</id>
+    <name>Sarah</name>
+    <display_name>Sarah</display_name>
+
+    <location>Whitby, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5228792-sarah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487116732p3/5228792.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487116732p2/5228792.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 27 03:47:37 -0700 2012</created_at>
+  <updated_at>Tue Mar 27 03:47:37 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47721714</id>
+  <body><![CDATA[Your final point applies at least as much to Narnia, imo, and yet I dislike Narnia, but find LotF more compelling (despite the fact I disagree with much of it).]]></body>
+  
+  <user>
+    <id>1199525</id>
+    <name>Cecily</name>
+    <display_name>Cecily</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1199525-cecily]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480285828p3/1199525.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480285828p2/1199525.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 27 03:50:17 -0700 2012</created_at>
+  <updated_at>Tue Mar 27 03:50:17 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47724242</id>
+  <body><![CDATA[LotF speaks to me about the darkness within humans (I call it sin, others call it hamartia, some do not name it anything other than merely darkness) and then at the end the sailor comes. Symbolism of God, hope, light etc.<br /><br />The Hunger Games speaks to me about capitalist systems, dictatorships and how people want to survive. Rather than being about the darkness within it's about people seeking a better quality of life.]]></body>
+  
+  <user>
+    <id>6313408</id>
+    <name>Jonathan</name>
+    <display_name>Jonathan</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6313408-jonathan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478230200p3/6313408.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478230200p2/6313408.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 27 05:32:36 -0700 2012</created_at>
+  <updated_at>Tue Mar 27 05:32:36 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47730128</id>
+  <body><![CDATA[I think that encapsulates an important distinction, Jonathan.]]></body>
+  
+  <user>
+    <id>1199525</id>
+    <name>Cecily</name>
+    <display_name>Cecily</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1199525-cecily]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480285828p3/1199525.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480285828p2/1199525.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 27 08:08:13 -0700 2012</created_at>
+  <updated_at>Tue Mar 27 08:08:13 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47730532</id>
+  <body><![CDATA[<i>Cecily wrote: "Your final point applies at least as much to Narnia, imo, and yet I dislike Narnia, but find LotF more compelling (despite the fact I disagree with much of it)."</i><br /><br />I find that the Narnia story works, even without the allegory, whereas the story kind of falls apart in LotF if you don't understand the allegory.]]></body>
+  
+  <user>
+    <id>5228792</id>
+    <name>Sarah</name>
+    <display_name>Sarah</display_name>
+
+    <location>Whitby, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5228792-sarah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487116732p3/5228792.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487116732p2/5228792.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 27 08:18:55 -0700 2012</created_at>
+  <updated_at>Tue Mar 27 08:18:55 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47731199</id>
+  <body><![CDATA[Now you mention it, I think you're right about that, Sarah. For some reason the religious subtext (though "lower" might be a more appropriate prefix) annoys me more in Narnia than LotF. Sometimes it's hard to discern much logic to our reactions, however much one might want to (though as a teacher, I expect you're better at it than some of the rest of us).<br /><br />Then there's Tolkien, who was a very religious man, but created a rich mythology for Middle Earth, with barely a mention of actual religious practice or places of worship, which always struck me as a little odd.<br /><br />As a contemporary work, the lack of religion in THG is not something I really thought about until this discussion. Now that I do consider it, I wonder if the nation would have been subjugated to such a painful degree, and for <b>so</b> long, without resorting to either rebellion or religion. An annual child-killing tournament is surely scant incentive to obey.]]></body>
+  
+  <user>
+    <id>1199525</id>
+    <name>Cecily</name>
+    <display_name>Cecily</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1199525-cecily]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480285828p3/1199525.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480285828p2/1199525.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 27 08:35:51 -0700 2012</created_at>
+  <updated_at>Tue Mar 27 08:35:51 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47733730</id>
+  <body><![CDATA[<i>Cecily wrote: "Now you mention it, I think you're right about that, Sarah. For some reason the religious subtext (though "lower" might be a more appropriate prefix) annoys me more in Narnia than LotF. Sometimes i..."</i><br /><br />The lack of religion in HG actually fits quite well with the growing secularization of society. Although there is a loud Christian minority in the US, many western nations are becoming more and more secular. This is another way the HG serves as a mirror for today's society.]]></body>
+  
+  <user>
+    <id>5228792</id>
+    <name>Sarah</name>
+    <display_name>Sarah</display_name>
+
+    <location>Whitby, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5228792-sarah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487116732p3/5228792.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487116732p2/5228792.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 27 09:34:48 -0700 2012</created_at>
+  <updated_at>Tue Mar 27 09:34:48 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47743061</id>
+  <body><![CDATA[Absolutely.]]></body>
+  
+  <user>
+    <id>1199525</id>
+    <name>Cecily</name>
+    <display_name>Cecily</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1199525-cecily]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480285828p3/1199525.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480285828p2/1199525.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 27 12:50:20 -0700 2012</created_at>
+  <updated_at>Tue Mar 27 12:50:20 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47745323</id>
+  <body><![CDATA[<i>Cecily wrote: "As a contemporary work, the lack of religion in THG is not something I really thought about until this discussion. Now that I do consider it, I wonder if the nation would have been subjugated to such a painful degree, and for so long, without resorting to either rebellion or religion. An annual child-killing tournament is surely scant incentive to obey."</i><br /><br />Yeah, the idea that the Hunger Games are an effective deterrent for rebellion doesn't make a lot of sense to me. Donald Sutherland's longest set of lines in the movie are all about how they offer up hope and "a spark of hope is effective; too much is dangerous." But that doesn't really explain why child bloodsports works.<br /><br />Recall too that Panem was around <em>before</em> the Hunger Games themselves began. The Hunger Games were a response to a rebellion against the same status quo that we see at the beginning of the book. Collins doesn't tell us (at least not in the first book) how we got from present day to Panem. It would be interesting to learn who came up with the idea of task-designated districts and why this system was implemented.<br /><br />I already talked about some potential solutions to the puzzling geography in #9, but watching the movie made me think of a few more comments. It's in the best interests of the Capitol to keep the districts isolated and to keep the people in each district in one, central location (so the government can keep an eye on them). Even though Panem might occupy roughly the same geographical territory as the United States, most of it is probably uninhabited wilderness. As for District 12 being only a day's journey from the Capitol ... maybe they have really fast trains.]]></body>
+  
+  <user>
+    <id>1188122</id>
+    <name>Ben</name>
+    <display_name>Ben Babcock</display_name>
+
+    <location>Thunder Bay, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1188122-ben-babcock]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1211839871p3/1188122.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1211839871p2/1188122.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 27 13:27:37 -0700 2012</created_at>
+  <updated_at>Tue Mar 27 13:27:37 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47756141</id>
+  <body><![CDATA[I think the hunger games are a deterrent against rebellion because they are a reminder that the capital has all the power. One rebellion was already lost, and the districts are forced into participating in this barbaric ritual every year. If I lived in this world those two facts would make the capital seem pretty untouchable.<br /><br />As for religion. It's really difficult to put religion into books like this without seeming cheesy, and it's not really essential to the story. I wouldn't say that Collins left it out because she intended the society to be completely free of religion, but probably just because she didn't want to mess with it. I have always assumed that there are religions in Panem, but that we just don't hear about them.]]></body>
+  
+  <user>
+    <id>767519</id>
+    <name>Chanel</name>
+    <display_name>Chanel Earl</display_name>
+
+    <location>Bloomington, IN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/767519-chanel-earl]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442605048p3/767519.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442605048p2/767519.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 27 16:01:38 -0700 2012</created_at>
+  <updated_at>Tue Mar 27 16:01:38 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47779359</id>
+  <body><![CDATA[I would say that in THG the games become like the religion in a way. They are certainly worshipped and as such remind me very much of the gladiator fights in Roman times or the Ancient Greek versions of the Olympics. I thought while reading the series that various beliefs showed themselves in different Districts but I didn't care or focus on the lack of religion.]]></body>
+  
+  <user>
+    <id>6313408</id>
+    <name>Jonathan</name>
+    <display_name>Jonathan</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6313408-jonathan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478230200p3/6313408.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478230200p2/6313408.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 27 21:57:00 -0700 2012</created_at>
+  <updated_at>Tue Mar 27 21:57:00 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47781975</id>
+  <body><![CDATA[<i>Sarah wrote: "Tanvi wrote: "Sarah wrote: "Tanvi wrote: "Some good observations. I just came off my teens but I'm sure I wouldn't have liked it even then. Yes, Collin's world fails to grip us like the wizarding w..."</i><br /><br />"Golding's book is very much a product of its time, and Collins' book will probably turn out to be the same..." Agreed. BUT, the bigger question is, whether THG will prove true on the test of time as LotF has. As you said, THG is replacing LotF in curriculums, what remains to be seen is whether it will or will not be replaced that easily.<br />Besides, what I would like to insist is LotF goes beyond time and space. A bunch of pre-teens stranded on an island is something that would appeal to anyone in any circumstances. Yes there is the GPS now, and cellphones, yet it is comp;etely possible that this happens. And forget the logic behind it, what we need to see is how Golding has described how the "dark side" within humans is manifested in the absence of control.<br />I also agree that students of the present generation will relate more to THG, but that does not make it a better piece of work.<br />And now for the girls in LotF... I see how that annoys the feminist in you. Yes, ideally Golding should have put in an equal number of boys and girls and then described what happens. Probably it would have resulted in more complexities, what with the girls and guys being divided and then coming together. The possibilities are endless and I think Golding wanted to avoid that and simply concentrate on human nature. Yes, I agree this is a major flaw in the book, but even then (despite being a feminist myself) I will say that LotF is a better piece of art.]]></body>
+  
+  <user>
+    <id>7014624</id>
+    <name>Tanvi</name>
+    <display_name>Tanvi</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7014624-tanvi]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 28 00:19:05 -0700 2012</created_at>
+  <updated_at>Wed Mar 28 00:19:05 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47784688</id>
+  <body><![CDATA[<i>Tanvi wrote: "Sarah wrote: "Tanvi wrote: "Sarah wrote: "Tanvi wrote: "Some good observations. I just came off my teens but I'm sure I wouldn't have liked it even then. Yes, Collin's world fails to grip us like t..."</i><br /><br />If you want a current book about kids trapped on an island, there is Beauty Queens by Libba Bray. We don't need Golding's tired and dated book. <br /><br />It's not the "feminist in me" (a term I would never use to describe myself) that objects to the lack of girls in the book. I object because I feel that it weakens Golding's point. I don't think that he excluded them to simplify his book, I think he excluded them because he feared that his view wouldn't hold up with girls on the island. <br /><br />Again, my problem with LotF, is that I don't think it actually stands up as a story. He is so heavy-handed in trying to get across his belief about the evils that lie in men (yes, men) that the story gets lost.]]></body>
+  
+  <user>
+    <id>5228792</id>
+    <name>Sarah</name>
+    <display_name>Sarah</display_name>
+
+    <location>Whitby, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5228792-sarah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487116732p3/5228792.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487116732p2/5228792.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 28 03:22:25 -0700 2012</created_at>
+  <updated_at>Wed Mar 28 03:22:25 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47784864</id>
+  <body><![CDATA[<i>Sarah wrote: "Tanvi wrote: "Sarah wrote: "Tanvi wrote: "Sarah wrote: "Tanvi wrote: "Some good observations. I just came off my teens but I'm sure I wouldn't have liked it even then. Yes, Collin's world fails to ..."</i><br /><br />:) Why wouldn't his view hold-up with girls? Do you think they could have handled the situation more sensibly?]]></body>
+  
+  <user>
+    <id>7014624</id>
+    <name>Tanvi</name>
+    <display_name>Tanvi</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7014624-tanvi]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 28 03:32:44 -0700 2012</created_at>
+  <updated_at>Wed Mar 28 03:32:44 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47785078</id>
+  <body><![CDATA[I think the story would have been very different with a mixed sex group, and also with a girls only group, don't you?]]></body>
+  
+  <user>
+    <id>1199525</id>
+    <name>Cecily</name>
+    <display_name>Cecily</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1199525-cecily]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480285828p3/1199525.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480285828p2/1199525.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 28 03:43:53 -0700 2012</created_at>
+  <updated_at>Wed Mar 28 03:43:53 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47786794</id>
+  <body><![CDATA[<i>Cecily wrote: "I think the story would have been very different with a mixed sex group, and also with a girls only group, don't you?"</i><br /><br />I certainly do and I feel that Golding as the man he was felt he couldn't handle including female characters into his story because of the more negative change. I think perhaps there may have been chaos but it might have descended into much worse areas unfit for discussion in his novel and his era I guess.]]></body>
+  
+  <user>
+    <id>6313408</id>
+    <name>Jonathan</name>
+    <display_name>Jonathan</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6313408-jonathan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478230200p3/6313408.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478230200p2/6313408.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 28 04:58:59 -0700 2012</created_at>
+  <updated_at>Wed Mar 28 04:58:59 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47845633</id>
+  <body><![CDATA[Yes, it would have been completely different with an all-girls group or a mixed group... I agree with Jonathon that there would have been a lot of chaos, what with the older guys and girls fighting for attention, getting into crude "relationships" and then being blown away with the consequences, the kind of groups that would have been formed within the mass, the bitching... I don't know if this was too much for Golding to handle but yes, it would have been a completely different book then.]]></body>
+  
+  <user>
+    <id>7014624</id>
+    <name>Tanvi</name>
+    <display_name>Tanvi</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7014624-tanvi]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 28 23:42:32 -0700 2012</created_at>
+  <updated_at>Wed Mar 28 23:42:32 -0700 2012</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/177445520]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/177445520]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

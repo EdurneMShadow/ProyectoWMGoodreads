@@ -1,20 +1,20 @@
 status: 200
-x-request-id: SCBWYT20ZTE87A8BVF47
+x-request-id: 1J99QW6E1V13R4ZFXXHZ
 x-xss-protection: 1; mode=block
 content-location: https://www.goodreads.com/review/show.xml?id=994820808&key=2uQMlznVEwfI4YTVFQwsA
 x-content-type-options: nosniff, nosniff
-set-cookie: csid=BAhJIhgwOTMtNzY5MTk3OS00NzE3NzE0BjoGRVQ%3D--5e731ea6f3cd0540fcd33c7f2e2f1d6b669a0b79;
- path=/; expires=Fri, 08 May 2037 10:23:00 -0000, locale=es;
- path=/, _session_id2=844223498a5d707b960e5e7003d21c20; path=/;
- expires=Mon, 08 May 2017 16:23:01 -0000; HttpOnly
+set-cookie: csid=BAhJIhgzMzEtOTU5NzY0OC0xNDA5MTE1BjoGRVQ%3D--6750704896f46126ea8ddfeeb1b1df1b2c5411fb;
+ path=/; expires=Mon, 11 May 2037 08:01:45 -0000, locale=es;
+ path=/, _session_id2=6508d85ec52d319d7c83ab1e063e79f6; path=/;
+ expires=Thu, 11 May 2017 14:01:45 -0000; HttpOnly
 vary: User-Agent,Accept-Encoding
 connection: keep-alive
 content-length: 9870
 server: Server
-x-runtime: 0.186087
-etag: W/"28d703c3cba2b61665bc2b0014b08194"
+x-runtime: 0.213184
+etag: W/"d8b77a17486adf3d2ac1d331475007f2"
 cache-control: max-age=0, private, must-revalidate
-date: Mon, 08 May 2017 10:23:01 GMT
+date: Thu, 11 May 2017 08:01:45 GMT
 x-frame-options: ALLOWALL
 content-type: application/xml; charset=utf-8
 -content-encoding: gzip
@@ -50,7 +50,7 @@ content-type: application/xml; charset=utf-8
   <id type="integer">12974171</id>
   <isbn>0141198966</isbn>
   <isbn13>9780141198965</isbn13>
-  <text_reviews_count type="integer">155</text_reviews_count>
+  <text_reviews_count type="integer">154</text_reviews_count>
   <title>Frankenstein</title>
   <title_without_series>Frankenstein</title_without_series>
   <image_url>https://images.gr-assets.com/books/1461453474m/12974171.jpg</image_url>
@@ -65,7 +65,7 @@ content-type: application/xml; charset=utf-8
   <publication_year>2012</publication_year>
   <publication_month>4</publication_month>
   <average_rating>3.75</average_rating>
-  <ratings_count>860404</ratings_count>
+  <ratings_count>861062</ratings_count>
   <description>The scientist Victor Frankenstein, obsessed with possessing the secrets of life, creates a new being from the bodies of the dead. But his creature is a twisted, gruesome parody of a man who, rejected for his monstrous appearance, sets out to destroy his maker.&lt;br /&gt;&lt;br /&gt;Mary Shelley's chilling Gothic tale, conceived after a nightmare in 1816 when she was only eighteen, became a modern myth. It is a disturbing and dramatic exploration of birth and death, creation and destruction, and one of the most iconic horror stories of all time.</description>
 <authors>
 <author>
@@ -80,8 +80,8 @@ content-type: application/xml; charset=utf-8
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/11139.Mary_Wollstonecraft_Shelley]]></link>
 <average_rating>3.75</average_rating>
-<ratings_count>883264</ratings_count>
-<text_reviews_count>20941</text_reviews_count>
+<ratings_count>883909</ratings_count>
+<text_reviews_count>20963</text_reviews_count>
 </author>
 </authors>
   <published>2012</published>
@@ -155,14 +155,14 @@ content-type: application/xml; charset=utf-8
 <shelves>
   <shelf name="read" exclusive="true" />
 
-    <shelf name="rory-gilmore-challenge" exclusive="false" review_shelf_id="767155130" sortable="false" />
-    <shelf name="2015-priority" exclusive="false" review_shelf_id="973824127" sortable="false" />
-    <shelf name="penguin-english-library" exclusive="false" review_shelf_id="767188640" sortable="false" />
-    <shelf name="read-in-2015" exclusive="false" review_shelf_id="1100003227" sortable="false" />
     <shelf name="classics" exclusive="false" review_shelf_id="755934657" sortable="false" />
     <shelf name="science-fiction" exclusive="false" review_shelf_id="852126451" sortable="false" />
     <shelf name="gothic-horror" exclusive="false" review_shelf_id="867183384" sortable="false" />
     <shelf name="all-time-favourites" exclusive="false" review_shelf_id="1100011402" sortable="true" />
+    <shelf name="rory-gilmore-challenge" exclusive="false" review_shelf_id="767155130" sortable="false" />
+    <shelf name="penguin-english-library" exclusive="false" review_shelf_id="767188640" sortable="false" />
+    <shelf name="2015-priority" exclusive="false" review_shelf_id="973824127" sortable="false" />
+    <shelf name="read-in-2015" exclusive="false" review_shelf_id="1100003227" sortable="false" />
 </shelves>
   <recommended_for></recommended_for>
   <recommended_by></recommended_by>

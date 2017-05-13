@@ -1,0 +1,183 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:55:57 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: D95N83Q22R1THXSKE2NT
+etag: W/"62d72bdbbd894bddd4206d90308fe388"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.222082
+set-cookie: csid=BAhJIhg3NjAtMDQwODAyNi02MjM0NzMyBjoGRVQ%3D--8f554ae9c97d5fee303bf5d143e6d36d9cbbf7a4; path=/; expires=Tue, 12 May 2037 13:55:57 -0000, locale=es; path=/, _session_id2=d9b4dc40ece26dd0b624a9d9a4770664; path=/; expires=Fri, 12 May 2017 19:55:57 -0000; HttpOnly
+content-length: 7590
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=73625443
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>73625443</id>
+    
+  <user>
+    <id>2411388</id>
+    <name>Hannah</name>
+    <display_name>Hannah</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2411388-hannah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1272561978p3/2411388.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1272561978p2/2411388.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">1779269</id>
+  <isbn>0140367128</isbn>
+  <isbn13>9780140367126</isbn13>
+  <text_reviews_count type="integer">24</text_reviews_count>
+  <title>Frankenstein</title>
+  <title_without_series>Frankenstein</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1779269.Frankenstein</link>
+  <num_pages>282</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Puffin Classics</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>1994</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.75</average_rating>
+  <ratings_count>861298</ratings_count>
+  <description>One of the best known horror stories ever.&lt;br /&gt;&lt;br /&gt;Victor Frankenstein, a Swiss scientist, has a great ambition: to create intelligent life. But when his creature first stirs, he realizes he has made a monster. A monster which, abandoned by his master and shunned by everyone who sees it, follows Dr Frankenstein with murder and horrors to the very ends of the earth.</description>
+<authors>
+<author>
+<id>11139</id>
+<name>Mary Wollstonecraft Shelley</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p5/11139.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p2/11139.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/11139.Mary_Wollstonecraft_Shelley]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>884152</ratings_count>
+<text_reviews_count>20971</text_reviews_count>
+</author>
+</authors>
+  <published>1994</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">1492327</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>4</comments_count>
+          <created_at type="datetime">Sat Oct 24 17:33:27 -0700 2009</created_at>
+          <updated_at type="datetime">Sat Sep 07 03:44:53 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">3</ratings_count>
+          <percent type="integer"></percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.55949fe9639e5c2a490b0e635a35fab0</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[IT IS FINISHED. I'm now going to go wash my eyes out with hydrochloric acid.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">1486037</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>4</comments_count>
+          <created_at type="datetime">Fri Oct 23 07:12:42 -0700 2009</created_at>
+          <updated_at type="datetime">Sat Sep 07 03:27:22 -0700 2013</updated_at>
+          <last_comment_at type="datetime">Fri Oct 23 07:55:13 -0700 2009</last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer"></percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.420df4bc420e235c6ea68a0519a0806b</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[I will finish this...I will finish this...I WILL finish this... and then I'll get drunk.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">1482758</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>1</comments_count>
+          <created_at type="datetime">Thu Oct 22 12:54:01 -0700 2009</created_at>
+          <updated_at type="datetime">Sat Sep 07 03:17:49 -0700 2013</updated_at>
+          <last_comment_at type="datetime">Thu Oct 22 14:24:57 -0700 2009</last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer"></percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.9f1e45f9d540a05a313c052677cb968b</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[JUST GET TO THE POINT ALREADY, FRANKEN-BORE.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">1480774</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>5</comments_count>
+          <created_at type="datetime">Thu Oct 22 05:43:01 -0700 2009</created_at>
+          <updated_at type="datetime">Sat Sep 07 17:40:19 -0700 2013</updated_at>
+          <last_comment_at type="datetime">Thu Oct 22 14:02:33 -0700 2009</last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer"></percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.6cd394740d81b991c47eba10b7a183dd</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Slow reading. I'm not digging this as of now. Hopefully, it will pick up soon.]]></body>
+        </user_status>
+    </user_statuses>
+  <rating>0</rating>
+  <votes>581</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="classics" exclusive="false" review_shelf_id="39204162" sortable="false" />
+    <shelf name="horror" exclusive="false" review_shelf_id="39204167" sortable="false" />
+    <shelf name="too-awful-for-words" exclusive="false" review_shelf_id="39521715" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sat Oct 24 00:00:00 -0700 2009</read_at>
+  <date_added>Tue Oct 06 08:49:18 -0700 2009</date_added>
+  <date_updated>Fri Jan 10 05:11:08 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[No stars. That's right. Zero, zip. nada.<br /><br />It's been almost 30 years since I've detested a book this much. I didn't think anything could be worse then Kafka's <i>The Metamorphosis</i>. Seems I'm never too old to be wrong. This time, I don't have the excuse that I was forced to read this for high school lit...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/73625443]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/73625443]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

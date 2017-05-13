@@ -1,0 +1,476 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:54:38 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: 7QXTK725SB75GA9XSPXJ
+etag: W/"08f2e4284e66c0da44226cdabbbc6334"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.257400
+set-cookie: csid=BAhJIhg2NjAtNTg5NTM3Ni04ODQ0MzM2BjoGRVQ%3D--8dfc13104d98abbdfabf320523c16efb4b3235fa; path=/; expires=Tue, 12 May 2037 13:54:38 -0000, locale=es; path=/, _session_id2=c7b57ef2485dde3b45f40ab726cbc416; path=/; expires=Fri, 12 May 2017 19:54:38 -0000; HttpOnly
+content-length: 18379
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=44437040
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>44437040</id>
+    
+  <user>
+    <id>1578083</id>
+    <name>Jennifer</name>
+    <display_name>Jennifer</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1578083-jennifer]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1438076078p3/1578083.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1438076078p2/1578083.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">960</id>
+  <isbn>1416524797</isbn>
+  <isbn13>9781416524793</isbn13>
+  <text_reviews_count type="integer">19261</text_reviews_count>
+  <title>Angels &amp; Demons  (Robert Langdon, #1)</title>
+  <title_without_series>Angels &amp; Demons</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1303390735m/960.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1303390735s/960.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/960.Angels_Demons</link>
+  <num_pages>713</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information>Pocket Books Premium Edition</edition_information>
+  <publisher>Pocket Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.85</average_rating>
+  <ratings_count>2025141</ratings_count>
+  <description>When world-renowned Harvard symbologist Robert Langdon is summoned to a Swiss research facility to analyze a mysterious symbol—seared into the chest of a murdered physicist—he discovers evidence of the unimaginable: the resurgence of an ancient secret brotherhood known as the Illuminati ... the most powerful underground organization ever to walk the earth. The Illuminati has now surfaced to carry out the final phase of its legendary vendetta against its most hated enemy—the Catholic Church. &lt;br /&gt;&lt;br /&gt;Langdon’s worst fears are confirmed on the eve of the holy conclave, when a messenger of the Illuminati announces they have hidden an unstoppable time bomb at the very heart of Vatican City. With the countdown under way, Langdon jets to Rome to join forces with Vittoria Vetra, a beautiful and mysterious Italian scientist, to assist the Vatican in a desperate bid for survival. &lt;br /&gt;&lt;br /&gt;Embarking on a frantic hunt through sealed crypts, dangerous catacombs, deserted cathedrals, and even the most secretive vault on earth, Langdon and Vetra follow a 400-year-old trail of ancient symbols that snakes across Rome toward the long-forgotten Illuminati lair ... a clandestine location that contains the only hope for Vatican salvation.</description>
+<authors>
+<author>
+<id>630</id>
+<name>Dan Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p5/630.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p2/630.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/630.Dan_Brown]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>5211301</ratings_count>
+<text_reviews_count>138647</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1245083930</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sat Feb 20 01:42:28 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>4</rating>
+  <votes>47</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="mystery" exclusive="false" review_shelf_id="21283233" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Jan 26 14:45:51 -0800 2009</date_added>
+  <date_updated>Mon Jan 26 14:46:57 -0800 2009</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[I actually prefered Angels and Demons over The DaVinci Code. ]]>
+  </body>
+
+  
+
+  <comments_count>15</comments_count>
+    <comments start="1" end="15" total="15">
+        <comment>
+  <id>3651048</id>
+  <body><![CDATA[I still need to read this one!]]></body>
+  
+  <user>
+    <id>785960</id>
+    <name>Tammy</name>
+    <display_name>Tammy</display_name>
+
+    <location>Liberty Lake, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/785960-tammy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493092442p3/785960.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493092442p2/785960.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 26 16:54:06 -0800 2009</created_at>
+  <updated_at>Mon Jan 26 16:54:06 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3655971</id>
+  <body><![CDATA[100% agreed, Angels &amp; Demons was the superior story...it's too bad it wound up playing second fiddle to The DaVinci Code.]]></body>
+  
+  <user>
+    <id>1310564</id>
+    <name>Beth F.</name>
+    <display_name>Beth F.</display_name>
+
+    <location>Saint Paul, MN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1310564-beth-f]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1408643504p3/1310564.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1408643504p2/1310564.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 26 19:57:37 -0800 2009</created_at>
+  <updated_at>Mon Jan 26 19:57:37 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3657007</id>
+  <body><![CDATA[I agree! It was much better, and I never understood why they chose to make Davinci Code a movie first. They certainly weren't worrying about offending people! Let's see the Pope vs. Jesus Christ. I know that sounds harsh, but I never understood the brouhaha! It's a novel! (fiction) ]]></body>
+  
+  <user>
+    <id>1396160</id>
+    <name>Kandice</name>
+    <display_name>Kandice</display_name>
+
+    <location>El Cajon, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1396160-kandice]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1231810788p3/1396160.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1231810788p2/1396160.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 26 21:00:02 -0800 2009</created_at>
+  <updated_at>Mon Jan 26 21:00:02 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3657988</id>
+  <body><![CDATA[I heard that alot at the book store when I worked there too. I would hear customers all the time saying <i>"Oh if you liked The DaVinci Code you have to read Angels &amp; Demons! You will love it!"</i> So finally I had to see for myself. Yup. Angels &amp; Demons was a notch up on the good book scale from DaVinci Code. <br /><br />I know what you mean Kandice. Sometimes I feel like people need to let a book just be - I mean it's FICTION for pete's sake. It's not like the guy was saying "Oh no - This really happened." I know their was an uproar about the killer albino priest guy too. Of course I don't get banning books either. If you don't want to read a book - then don't read it. But don't tell me that I shouldn't read it because it was offensive to you. Ya know? I just get kinda pissed off when people I have never met try and tell me what I can and can't do. <br /><br />OK. Stepping off my podium now. ;)]]></body>
+  
+  <user>
+    <id>1578083</id>
+    <name>Jennifer</name>
+    <display_name>Jennifer</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1578083-jennifer]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1438076078p3/1578083.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1438076078p2/1578083.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 27 00:31:51 -0800 2009</created_at>
+  <updated_at>Tue Jan 27 00:31:51 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3661564</id>
+  <body><![CDATA[I'll jump on the bandwagon, too. Angels and Demons was much better.]]></body>
+  
+  <user>
+    <id>522647</id>
+    <name>Kathy</name>
+    <display_name>Kathy</display_name>
+
+    <location>Tempe, AZ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/522647-kathy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1220913094p3/522647.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1220913094p2/522647.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 27 09:58:25 -0800 2009</created_at>
+  <updated_at>Tue Jan 27 09:58:25 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3663512</id>
+  <body><![CDATA[It's going to be in theaters later this year! I read it at work today. I forget which month it comes out - I will have to IMDB it to see who is starring this time. Yay!]]></body>
+  
+  <user>
+    <id>1578083</id>
+    <name>Jennifer</name>
+    <display_name>Jennifer</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1578083-jennifer]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1438076078p3/1578083.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1438076078p2/1578083.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 27 11:55:33 -0800 2009</created_at>
+  <updated_at>Tue Jan 27 11:55:33 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3664913</id>
+  <body><![CDATA[Isn't IMDB one of the best sites? When I'm goofing off instead of being responsible, I like to look up movie quotes and useless little facts.<br /><br />J, always feel free to step up on your podium. I couldn't agree more. Being a former preacher's kid, I wasn't surprised when a big deal was made over the DaVinci Code. It was a popular sermon topic in a majority of churches - just like the Harry Potter series. (I think the original rumors of witchcraft and evilness in Harry Potter started on The Onion as a joke.) I swear most people will look for reasons to be negative, even if it defies logic! Fiction people - it is only fiction. Lighten up!<br /><br />]]></body>
+  
+  <user>
+    <id>785960</id>
+    <name>Tammy</name>
+    <display_name>Tammy</display_name>
+
+    <location>Liberty Lake, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/785960-tammy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493092442p3/785960.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493092442p2/785960.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 27 13:14:27 -0800 2009</created_at>
+  <updated_at>Tue Jan 27 13:14:27 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3666850</id>
+  <body><![CDATA[Thanks for the words of encouragement Tammy. :) I kind of rant sometimes fo it's nice to know I am not loosing my friends like crazy when I go on a rant. <br /><br />IMDB rocks. It's just awesome - I don't know what we did before we had it!]]></body>
+  
+  <user>
+    <id>1578083</id>
+    <name>Jennifer</name>
+    <display_name>Jennifer</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1578083-jennifer]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1438076078p3/1578083.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1438076078p2/1578083.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 27 14:33:22 -0800 2009</created_at>
+  <updated_at>Tue Jan 27 14:33:22 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3672930</id>
+  <body><![CDATA[Oh hell no, Jennifer. Rants are great!! and much more entertaining...<br />;P]]></body>
+  
+  <user>
+    <id>882708</id>
+    <name>Julie (jjmachshev)</name>
+    <display_name>Julie (jjmachshev)</display_name>
+
+    <location>Grovetown, GA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/882708-julie-jjmachshev]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1208126390p3/882708.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1208126390p2/882708.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 27 17:16:10 -0800 2009</created_at>
+  <updated_at>Tue Jan 27 17:16:10 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3673994</id>
+  <body><![CDATA[I keep hearing this too. My mom loaned me Angels and Demons so I'll have to bump it up!<br />lol I agree with JJ on rants. Very fun!]]></body>
+  
+  <user>
+    <id>1037547</id>
+    <name>Collette</name>
+    <display_name>Collette</display_name>
+
+    <location>Missoula, MT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1037547-collette]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1312343801p3/1037547.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1312343801p2/1037547.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 27 17:48:30 -0800 2009</created_at>
+  <updated_at>Tue Jan 27 17:48:30 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3674141</id>
+  <body><![CDATA[re: rants...<br /><br />I agree too!]]></body>
+  
+  <user>
+    <id>1310564</id>
+    <name>Beth F.</name>
+    <display_name>Beth F.</display_name>
+
+    <location>Saint Paul, MN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1310564-beth-f]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1408643504p3/1310564.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1408643504p2/1310564.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 27 17:52:44 -0800 2009</created_at>
+  <updated_at>Tue Jan 27 17:52:44 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3680041</id>
+  <body><![CDATA[The new movie comes out in May and it does star Tom Hanks and is directed by Ron Howard. <br /><br /><a target="_blank" href="http://www.angelsanddemonsmovie.org/" rel="nofollow">http://www.angelsanddemonsmovie.org/</a><br />]]></body>
+  
+  <user>
+    <id>1578083</id>
+    <name>Jennifer</name>
+    <display_name>Jennifer</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1578083-jennifer]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1438076078p3/1578083.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1438076078p2/1578083.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 28 03:21:12 -0800 2009</created_at>
+  <updated_at>Wed Jan 28 03:21:12 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3692514</id>
+  <body><![CDATA[Oh...and put me on the list of those who liked A&amp;D better than the 'Code'.]]></body>
+  
+  <user>
+    <id>882708</id>
+    <name>Julie (jjmachshev)</name>
+    <display_name>Julie (jjmachshev)</display_name>
+
+    <location>Grovetown, GA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/882708-julie-jjmachshev]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1208126390p3/882708.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1208126390p2/882708.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 28 17:17:48 -0800 2009</created_at>
+  <updated_at>Wed Jan 28 17:17:48 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>7545637</id>
+  <body><![CDATA[A&amp;D was so much better than TDC. In fact that was why I read TDC. I enjoyed the story about the Illuminati. The gore was a bit much but the action was intense. TDC was such a letdown although it had its potential. The TDC wrap up was too neat and the last chapter crawled.]]></body>
+  
+  <user>
+    <id>2526753</id>
+    <name>Pat</name>
+    <display_name>Pat</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2526753-pat]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 17 13:25:09 -0700 2009</created_at>
+  <updated_at>Fri Jul 17 13:25:09 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>137181493</id>
+  <body><![CDATA[I completely agree with you!]]></body>
+  
+  <user>
+    <id>5597473</id>
+    <name>Kish</name>
+    <display_name>Kish Kish</display_name>
+
+    <location>Manila, 1000, Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5597473-kish-kish]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442516199p3/5597473.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442516199p2/5597473.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jul 20 20:48:56 -0700 2015</created_at>
+  <updated_at>Mon Jul 20 20:48:56 -0700 2015</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/44437040]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/44437040]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

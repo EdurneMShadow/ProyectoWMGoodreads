@@ -16,7 +16,10 @@ class GoodreadsRequest:
 
     def __init__(self, path, additional_query_info, client_instance):
         """ """
-        self.query_dict = dict(client_instance.query_dict.items() + additional_query_info.items())
+        d = client_instance.query_dict.copy()
+        d.update(additional_query_info.items())
+        #self.query_dict = dict(client_instance.query_dict.items() + additional_query_info.items())
+        self.query_dict = d
         self.host = client_instance.host
         self.path = path
         # Will there be parameters?
@@ -26,7 +29,7 @@ class GoodreadsRequest:
     def request(self, return_raw=False):
         """ """
         h = httplib2.Http('.cache')
-        url_extension = self.path + urllib.urlencode(self.query_dict)
+        url_extension = self.path + urllib.parse.urlencode(self.query_dict)
         response, content  = h.request(self.host + url_extension, "GET")
 
         # Check success

@@ -1,0 +1,188 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:47:39 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: 292MW77GJXZV9SRNJ161
+etag: W/"ff3c4ae8552b9fbb4c5108c3fa391635"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.290790
+set-cookie: csid=BAhJIhg2NzctODY1NDgzNi04MjY4MzQyBjoGRVQ%3D--50d437a875d41b2f579144dc695718f04a8ebe73; path=/; expires=Tue, 12 May 2037 13:47:38 -0000, locale=es; path=/, _session_id2=bd43ea506b016312e72f63d3fc991377; path=/; expires=Fri, 12 May 2017 19:47:39 -0000; HttpOnly
+content-length: 7123
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=1356417784
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1356417784</id>
+    
+  <user>
+    <id>28636277</id>
+    <name>Juliana</name>
+    <display_name>Juliana Zapata</display_name>
+
+    <location>Medellín, 02, Colombia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/28636277-juliana-zapata]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1438797628p3/28636277.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1438797628p2/28636277.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">23629060</id>
+  <isbn nil="true"/>
+  <isbn13>9788415594482</isbn13>
+  <text_reviews_count type="integer">126</text_reviews_count>
+  <title>Will Grayson, Will Grayson</title>
+  <title_without_series>Will Grayson, Will Grayson</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1422047253m/23629060.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1422047253s/23629060.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23629060-will-grayson-will-grayson</link>
+  <num_pages>336</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Nube de Tinta</publisher>
+  <publication_day>19</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3.85</average_rating>
+  <ratings_count>245304</ratings_count>
+  <description>Will Grayson tiene dos reglas en la vida: callar y no implicarse en nada. Sin embargo, su mejor amigo, Tiny Cooper, está decidido a buscarle novia y a montar su musical autobiográfico: Tiny Dancer.&lt;br /&gt;Muy cerca de él hay otro Will Grayson: un chico melancólico que no tiene nada bueno a lo que agarrarse. Lo único que hace que su vida merezca la pena es su relación online con Isaac, al que nunca ha visto en persona.&lt;br /&gt;Una fría noche de invierno, los dos Will Grayson se cruzarán en una esquina cualquiera de Chicago. Por suerte para ambos, Tiny está decidido a empujarlos hacia la felicidad, el amor y, por supuesto, el musical más fabuloso jamás representado en un instituto.</description>
+<authors>
+<author>
+<id>1406384</id>
+<name>John Green</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>4528234</ratings_count>
+<text_reviews_count>275833</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">74446450</id>
+          <page type="integer">95</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Aug 25 09:23:54 -0700 2015</created_at>
+          <updated_at type="datetime">Tue Aug 25 09:24:26 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">34</ratings_count>
+          <percent type="integer">28</percent>
+          <work_id type="integer">6759965</work_id>
+          <note_uri>kca://note/amzn1.grok.note.e2ddf3d7a63b26cae547c02c767594d4</note_uri>
+          <note_updated_at type="datetime">Tue Aug 25 09:24:26 -0700 2015</note_updated_at>
+          <body><![CDATA[Las buenas noticias para uno siempre son malas noticias para otro]]></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">984861786</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Thu Aug 27 11:51:55 -0700 2015</updated_at>
+          <ratings_count>1</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">980049118</id>
+          <old_status>read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Sun Aug 23 13:58:48 -0700 2015</updated_at>
+          <ratings_count>27</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">959844878</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Thu Aug 06 08:29:37 -0700 2015</updated_at>
+          <ratings_count>12</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>4</rating>
+  <votes>52</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="2015" exclusive="false" review_shelf_id="1067150905" sortable="false" />
+    <shelf name="2013" exclusive="false" review_shelf_id="1067150901" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Aug 23 00:00:00 -0700 2015</started_at>
+  <read_at>Thu Aug 27 00:00:00 -0700 2015</read_at>
+  <date_added>Thu Aug 06 08:29:36 -0700 2015</date_added>
+  <date_updated>Sat Sep 26 12:24:47 -0700 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[La verdad es que me costó decidirme entre 3 y 4 estrellas para calificar este libro. El libro es indudablemente entretenido, tiene diálogos muy chistoso y otros un tanto profundos, pero sin embargo siento que esta historia funcionaría mucho mejor como película que como libro, ya que la culminació...]]>
+  </body>
+
+  
+
+  <comments_count>1</comments_count>
+    <comments start="1" end="1" total="1">
+        <comment>
+  <id>139400161</id>
+  <body><![CDATA[Opino exactamente lo mismo que tú, sólo que yo le di 3 estrellas porque las partes de David Levithan son demasiado abstractas para mi xD]]></body>
+  
+  <user>
+    <id>41595717</id>
+    <name>Alberto</name>
+    <display_name>Alberto Rey</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/41595717-alberto-rey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1482603403p3/41595717.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1482603403p2/41595717.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 28 19:03:34 -0700 2015</created_at>
+  <updated_at>Fri Aug 28 19:03:34 -0700 2015</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1356417784]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1356417784]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

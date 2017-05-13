@@ -1,0 +1,301 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:43:33 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: B00KJ00QXHX0FDQ2Z81Q
+etag: W/"c5982e4cbc998d93468c92e77b1465f0"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.232168
+set-cookie: csid=BAhJIhg3MDItMTI3MTE2Ny0wODE4NDAwBjoGRVQ%3D--08b6b53b416f941eacc2e537943b91ec094a8288; path=/; expires=Tue, 12 May 2037 13:43:33 -0000, locale=es; path=/, _session_id2=525e0f42ba2bf2ebc1cc42de0ecfe615; path=/; expires=Fri, 12 May 2017 19:43:33 -0000; HttpOnly
+content-length: 10910
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=1885494685
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1885494685</id>
+    
+  <user>
+    <id>14457130</id>
+    <name>Whitney</name>
+    <display_name>Whitney Atkinson</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14457130-whitney-atkinson]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493269691p3/14457130.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493269691p2/14457130.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">5907</id>
+  <isbn>0618260307</isbn>
+  <isbn13>9780618260300</isbn13>
+  <text_reviews_count type="integer">27659</text_reviews_count>
+  <title>The Hobbit</title>
+  <title_without_series>The Hobbit</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1372847500m/5907.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1372847500s/5907.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/5907.The_Hobbit</link>
+  <num_pages>366</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Houghton Mifflin</publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.24</average_rating>
+  <ratings_count>2152106</ratings_count>
+  <description>&lt;i&gt;In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a hobbit-hole, and that means comfort.&lt;br /&gt;&lt;br /&gt;&lt;/i&gt;Written for J.R.R. Tolkien’s own children, &lt;i&gt;The Hobbit&lt;/i&gt; met with instant critical acclaim when it was first published in 1937. Now recognized as a timeless classic, this introduction to the hobbit Bilbo Baggins, the wizard Gandalf, Gollum, and the spectacular world of Middle-earth recounts of the adventures of a reluctant hero, a powerful and dangerous ring, and the cruel dragon Smaug the Magnificent. The text in this 372-page paperback edition is based on that first published in Great Britain by Collins Modern Classics (1998), and includes a note on the text by Douglas A. Anderson (2001). Unforgettable!&lt;br /&gt;</description>
+<authors>
+<author>
+<id>656983</id>
+<name>J.R.R. Tolkien</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1434625177p5/656983.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1434625177p2/656983.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
+<average_rating>4.31</average_rating>
+<ratings_count>6140649</ratings_count>
+<text_reviews_count>91666</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1679689692</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Jan 22 23:58:53 -0800 2017</updated_at>
+          <ratings_count>1</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1674796006</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Thu Jan 19 14:12:32 -0800 2017</updated_at>
+          <ratings_count>48</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>0</rating>
+  <votes>74</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="for-class" exclusive="false" review_shelf_id="1561824025" sortable="false" />
+    <shelf name="read-in-2017" exclusive="false" review_shelf_id="1625049886" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Jan 19 00:00:00 -0800 2017</started_at>
+  <read_at>Sun Jan 22 00:00:00 -0800 2017</read_at>
+  <date_added>Thu Jan 19 14:12:32 -0800 2017</date_added>
+  <date_updated>Wed Apr 12 15:23:40 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[DNF at 200 pages. <br /><br />This is definitely something I'm going to have to return to in the future, but there's a reason why I can't read it now. We're reading LOTR for my fantasy literature class and I had planned to read this before I began FOTR, but I completely forgot and therefore tried to cram it...]]>
+  </body>
+
+  
+
+  <comments_count>7</comments_count>
+    <comments start="1" end="7" total="7">
+        <comment>
+  <id>161865917</id>
+  <body><![CDATA[I could only make it 58 pages into this...hopefully revisiting it in the future helps me grasp it more.]]></body>
+  
+  <user>
+    <id>55715473</id>
+    <name>Rayna</name>
+    <display_name>Rayna Liddell</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/55715473-rayna-liddell]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492853837p3/55715473.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492853837p2/55715473.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 23 04:15:24 -0800 2017</created_at>
+  <updated_at>Mon Jan 23 04:15:24 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161866846</id>
+  <body><![CDATA[I personally couldnt finish it because it was extremely dull after a certain point .... dnf at the last 20 pages :'(]]></body>
+  
+  <user>
+    <id>42254554</id>
+    <name>Mary</name>
+    <display_name>Mary</display_name>
+
+    <location>Greece</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/42254554-mary]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492714137p3/42254554.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492714137p2/42254554.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 23 04:57:33 -0800 2017</created_at>
+  <updated_at>Mon Jan 23 04:57:33 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161881175</id>
+  <body><![CDATA[This book has been so difficult to get through, but I managed to get to pg 180...]]></body>
+  
+  <user>
+    <id>13814717</id>
+    <name>Kaitlin</name>
+    <display_name>Kaitlin</display_name>
+
+    <location>Ottawa, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13814717-kaitlin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1452484138p3/13814717.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1452484138p2/13814717.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 23 11:40:41 -0800 2017</created_at>
+  <updated_at>Mon Jan 23 11:40:41 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161892950</id>
+  <body><![CDATA[It's tough to read at times. I read it when I was like 13 and I didn't even understand it. And then I reread it when I was older and I fell in love with it. It's one of my all time favorites books so I hope you go back to it! :) it's tough as I said, but I found it to be amazing in the end.]]></body>
+  
+  <user>
+    <id>1500643</id>
+    <name>Lourdes</name>
+    <display_name>Lourdes</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1500643-lourdes]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1465097280p3/1500643.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1465097280p2/1500643.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 23 16:44:48 -0800 2017</created_at>
+  <updated_at>Mon Jan 23 16:44:48 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161905521</id>
+  <body><![CDATA[It took me awhile to get through this book but after about page 100 I blew through it! I ended up loving this book! Also, you don't have to read The Hobbit to read LoTR!:)]]></body>
+  
+  <user>
+    <id>46988453</id>
+    <name>Shayla</name>
+    <display_name>Shayla (TrueReads)</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/46988453-shayla-truereads]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1455930096p3/46988453.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1455930096p2/46988453.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 24 01:04:54 -0800 2017</created_at>
+  <updated_at>Tue Jan 24 01:04:54 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161946034</id>
+  <body><![CDATA[I'm definitely on the same page. I start reading and then realizing that I wasn't fully paying attention to the content so I had to wait until I had enough time available to really absorb it]]></body>
+  
+  <user>
+    <id>19531982</id>
+    <name>Helen</name>
+    <display_name>Helen Vu</display_name>
+
+    <location>Sugar Land, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/19531982-helen-vu]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1470005564p3/19531982.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1470005564p2/19531982.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 24 22:05:13 -0800 2017</created_at>
+  <updated_at>Tue Jan 24 22:05:13 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>162051474</id>
+  <body><![CDATA[One of the best fantasy books ever written.]]></body>
+  
+  <user>
+    <id>39231843</id>
+    <name>Jaspreet</name>
+    <display_name>Jaspreet Kaur</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/39231843-jaspreet-kaur]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1421419063p3/39231843.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1421419063p2/39231843.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 27 13:06:54 -0800 2017</created_at>
+  <updated_at>Fri Jan 27 13:06:54 -0800 2017</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1885494685]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1885494685]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

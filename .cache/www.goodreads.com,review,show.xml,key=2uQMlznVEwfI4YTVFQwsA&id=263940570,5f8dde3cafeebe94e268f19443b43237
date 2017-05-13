@@ -1,0 +1,1281 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:52:54 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: BQ39T6G6NT7A89JV9E9Y
+etag: W/"c634ba99943531b3bab45d5f3f37f569"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 1.017842
+set-cookie: csid=BAhJIhg2MzMtMDAwMjMxMS03MDQ5MjQzBjoGRVQ%3D--9d99116b01af8bc7447ac150760e9d7f195a2f2e; path=/; expires=Tue, 12 May 2037 13:52:54 -0000, locale=es; path=/, _session_id2=7f890aca393217d317ca5307695dfc51; path=/; expires=Fri, 12 May 2017 19:52:54 -0000; HttpOnly
+content-length: 61040
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=263940570
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>263940570</id>
+    
+  <user>
+    <id>111921</id>
+    <name>Madeline</name>
+    <display_name>Madeline</display_name>
+
+    <location>Decatur, GA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/111921-madeline]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1220803522p3/111921.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1220803522p2/111921.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">11870085</id>
+  <isbn>0525478817</isbn>
+  <isbn13>9780525478812</isbn13>
+  <text_reviews_count type="integer">127185</text_reviews_count>
+  <title>The Fault in Our Stars</title>
+  <title_without_series>The Fault in Our Stars</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1360206420m/11870085.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1360206420s/11870085.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/11870085-the-fault-in-our-stars</link>
+  <num_pages>313</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Dutton Books</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.27</average_rating>
+  <ratings_count>2381953</ratings_count>
+  <description>&lt;i&gt;There is an alternate cover edition &lt;a href="https://www.goodreads.com/book/show/25856606-the-fault-in-our-stars" rel="nofollow"&gt;here&lt;/a&gt;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;"I fell in love the way you fall asleep: slowly, then all at once."&lt;br /&gt;&lt;br /&gt;Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a gorgeous plot twist named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten.&lt;br /&gt;&lt;br /&gt;Insightful, bold, irreverent, and raw, The Fault in Our Stars is award-winning author John Green's most ambitious and heartbreaking work yet, brilliantly exploring the funny, thrilling, and tragic business of being alive and in love.</description>
+<authors>
+<author>
+<id>1406384</id>
+<name>John Green</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>4528234</ratings_count>
+<text_reviews_count>275833</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1216470315</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Jan 31 09:50:47 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>681</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="kids-and-young-adult" exclusive="false" review_shelf_id="173827946" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sun Jan 01 00:00:00 -0800 2012</read_at>
+  <date_added>Wed Jan 18 09:41:53 -0800 2012</date_added>
+  <date_updated>Mon Jan 13 14:35:07 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[At age twenty-two, John Green worked as a student chaplain in a children's hospital. <br /><br />Let's take a moment and consider all the implications of that, and why he is making a colossal understatement when he described the experience as "devastating." That was about twelve years ago, and Green has said...]]>
+  </body>
+
+  
+
+  <comments_count>84</comments_count>
+    <comments start="1" end="50" total="84">
+        <comment>
+  <id>43662209</id>
+  <body><![CDATA[Yeah, I've found that John Green just can't seem the shuck the chains of the Manic Pixie Dream Girl. This time it's just a guy instead of a girl. I did like how sometimes Hazel called him out on it, at least in her mind. Like when they were at the art park, and later she was like "that seemed so fake" and I was like "THANK YOU." But, you know, I forgave him because he stomped on my heart at the end. <br />Also one thing that was a minor annoyance: the "ghettoization of eggs as breakfast food?" What a hipster nonimportant thing to worry about. But maybe that was the point? But it didn't feel like the point, it felt like Hazel (and Green) though it was genuinely important? Idk! <br />But otherwise, brilliant novel. DFTBA!]]></body>
+  
+  <user>
+    <id>3824344</id>
+    <name>Samantha</name>
+    <display_name>Samantha</display_name>
+
+    <location>Saint Paul, MN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3824344-samantha]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1335404980p3/3824344.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1335404980p2/3824344.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 18 10:36:56 -0800 2012</created_at>
+  <updated_at>Wed Jan 18 10:36:56 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>43662594</id>
+  <body><![CDATA[Oh, now I really can't wait to read this. Did Mr. Green read from this book when you saw him on Sunday?]]></body>
+  
+  <user>
+    <id>102271</id>
+    <name>Cynthia</name>
+    <display_name>Cynthia</display_name>
+
+    <location>Ames, IA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/102271-cynthia]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1180361817p3/102271.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1180361817p2/102271.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 18 10:43:28 -0800 2012</created_at>
+  <updated_at>Wed Jan 18 10:43:28 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>43668077</id>
+  <body><![CDATA[Yes! He read a chapter, and answered questions. And then he and Hank Green sang "500 Miles" by The Proclaimers and it was magical.]]></body>
+  
+  <user>
+    <id>111921</id>
+    <name>Madeline</name>
+    <display_name>Madeline</display_name>
+
+    <location>Decatur, GA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/111921-madeline]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1220803522p3/111921.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1220803522p2/111921.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 18 12:42:18 -0800 2012</created_at>
+  <updated_at>Wed Jan 18 12:42:18 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>43672260</id>
+  <body><![CDATA[Fabulous. this book reminds me of Sarah, the 16-year-old who died in hospice. I know I told you about her service, and how her favorite books were stacked on the tables at lunch following her funeral. I'm tearing up just remembering. Not to mention Paul, who you knew...sigh.]]></body>
+  
+  <user>
+    <id>102271</id>
+    <name>Cynthia</name>
+    <display_name>Cynthia</display_name>
+
+    <location>Ames, IA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/102271-cynthia]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1180361817p3/102271.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1180361817p2/102271.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 18 13:48:26 -0800 2012</created_at>
+  <updated_at>Wed Jan 18 13:48:26 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>43678856</id>
+  <body><![CDATA[Awesome review! I hate that John Green never seems to escape from that Manic Pixie Dream Girl thing, especially because he seems to be conscious of it and really attempted to address it in Paper Towns. From what I'm hearing, Hazel seems to be overshadowed in her own book.<br /><br />Though I should stop reading reviews and just see for myself, I guess!]]></body>
+  
+  <user>
+    <id>4063913</id>
+    <name>Beth</name>
+    <display_name>Beth</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4063913-beth]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1351396026p3/4063913.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1351396026p2/4063913.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 18 15:19:18 -0800 2012</created_at>
+  <updated_at>Wed Jan 18 15:19:18 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>43679759</id>
+  <body><![CDATA[I don't think there are any Manic Pixie Dream Girls in this book, or anything close. Some people have argued that Augustus is just a male version of the MPDG, but I disagree. For one thing, we get to know him as a real person rather than an object of worship. Also, he doesn't ruin anyone's life.]]></body>
+  
+  <user>
+    <id>111921</id>
+    <name>Madeline</name>
+    <display_name>Madeline</display_name>
+
+    <location>Decatur, GA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/111921-madeline]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1220803522p3/111921.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1220803522p2/111921.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 18 15:30:48 -0800 2012</created_at>
+  <updated_at>Wed Jan 18 15:30:48 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>43724774</id>
+  <body><![CDATA[I actually haven't read the book, and I wasn't planning to(I love John Green but the subject matter of this story is very hard for me).<br />But WOW. This review is AMAZING Madeline! <br />I trust your words and I will probably "read this for myself, and go from there."<br />Thanks :)]]></body>
+  
+  <user>
+    <id>4857999</id>
+    <name>Nalnac</name>
+    <display_name>Nalnac</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4857999-nalnac]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1305314670p3/4857999.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1305314670p2/4857999.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 19 10:46:45 -0800 2012</created_at>
+  <updated_at>Thu Jan 19 10:46:45 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>45042352</id>
+  <body><![CDATA[I don't know you, so I hope you will excuse my intrusion on your review. I've been a fan of Green's for years, but this book stopped me dead in my tracks. <br /><br />Kudos to you for recognizing what it is truly about, as I am a childhood leukemia survivor, and it about knocked me over cold with its Truths (with a capital T, because that is what they are). <br /><br />I've waited a long time for someone to capture the life of a teenaged cancer patient without all the ridiculous melodrama and profound moments tuned to whiny string orchestras. Green captured it in all its essence, and for that I am humbled....]]></body>
+  
+  <user>
+    <id>4890220</id>
+    <name>Casey</name>
+    <display_name>Casey</display_name>
+
+    <location>Harrisburg, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4890220-casey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1314658808p3/4890220.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1314658808p2/4890220.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 10 15:02:17 -0800 2012</created_at>
+  <updated_at>Fri Feb 10 15:02:17 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>45495730</id>
+  <body><![CDATA[There's the scene on the plane when he is excited to be flying for the first time and Hazel thinks that this is the Augustus she can't resist. I love that she saw through his pretentiousness.]]></body>
+  
+  <user>
+    <id>3323157</id>
+    <name>Tracy</name>
+    <display_name>Tracy</display_name>
+
+    <location>Fort Wayne, IN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3323157-tracy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1331573311p3/3323157.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1331573311p2/3323157.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 18 14:22:00 -0800 2012</created_at>
+  <updated_at>Sat Feb 18 14:22:00 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>45533358</id>
+  <body><![CDATA[M: I am reading this now. I started it Friday morning while working at Isreal Family Hospice House. I do not want it to end. Ever.<br />Love, Mom]]></body>
+  
+  <user>
+    <id>102271</id>
+    <name>Cynthia</name>
+    <display_name>Cynthia</display_name>
+
+    <location>Ames, IA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/102271-cynthia]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1180361817p3/102271.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1180361817p2/102271.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 19 08:34:06 -0800 2012</created_at>
+  <updated_at>Sun Feb 19 08:34:06 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>45541610</id>
+  <body><![CDATA[Yay! I'm glad you're loving it.]]></body>
+  
+  <user>
+    <id>111921</id>
+    <name>Madeline</name>
+    <display_name>Madeline</display_name>
+
+    <location>Decatur, GA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/111921-madeline]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1220803522p3/111921.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1220803522p2/111921.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 19 11:28:18 -0800 2012</created_at>
+  <updated_at>Sun Feb 19 11:28:18 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>45542049</id>
+  <body><![CDATA[I alternated between laughing and crying so far. Difficult to do delicately, especially amidst grieving families.]]></body>
+  
+  <user>
+    <id>102271</id>
+    <name>Cynthia</name>
+    <display_name>Cynthia</display_name>
+
+    <location>Ames, IA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/102271-cynthia]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1180361817p3/102271.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1180361817p2/102271.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 19 11:36:41 -0800 2012</created_at>
+  <updated_at>Sun Feb 19 11:36:41 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>45542099</id>
+  <body><![CDATA[Hey, you, this book is freaking hilarious! See, it's about this girl with cancer? So funny. Um, never mind. *puts book away for another time*]]></body>
+  
+  <user>
+    <id>102271</id>
+    <name>Cynthia</name>
+    <display_name>Cynthia</display_name>
+
+    <location>Ames, IA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/102271-cynthia]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1180361817p3/102271.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1180361817p2/102271.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 19 11:37:49 -0800 2012</created_at>
+  <updated_at>Sun Feb 19 11:37:49 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>54808821</id>
+  <body><![CDATA[This book is sweet and funny. I cried at the end I was so into it. One of the best book I have read.]]></body>
+  
+  <user>
+    <id>10798035</id>
+    <name>Erin</name>
+    <display_name>Erin Gordon</display_name>
+
+    <location>Newport Coast, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10798035-erin-gordon]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1362350272p3/10798035.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1362350272p2/10798035.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 24 17:38:23 -0700 2012</created_at>
+  <updated_at>Tue Jul 24 17:38:23 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>54900885</id>
+  <body><![CDATA[Good review, but i think you're too hard on the cigarette thing, he's not doing it because he actually thinks it takes away the power, it's just like holden's red hunting hat, he does it when he feels insecure and wants to isolate himself]]></body>
+  
+  <user>
+    <id>9463959</id>
+    <name>Sean</name>
+    <display_name>Sean</display_name>
+
+    <location>Annandale, VA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9463959-sean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1361936383p3/9463959.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1361936383p2/9463959.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 26 01:43:54 -0700 2012</created_at>
+  <updated_at>Thu Jul 26 01:43:54 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>54927884</id>
+  <body><![CDATA[I think I like that explanation better. And maybe Augustus just does it because he's trying to create some semblance of control in his life - when you're dying, even imaginary power over a killing object is better than nothing. <br /><br />But I maintain that it's still a dick move to explain this metaphor to a cancer patient. Holden Caulfield's red hunting hat wasn't manufactured by a company that profits off a product that regularly kills people, and he didn't wear it around dying people, some of whom were dying as a direct result of red hunting hats.]]></body>
+  
+  <user>
+    <id>111921</id>
+    <name>Madeline</name>
+    <display_name>Madeline</display_name>
+
+    <location>Decatur, GA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/111921-madeline]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1220803522p3/111921.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1220803522p2/111921.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 26 12:13:57 -0700 2012</created_at>
+  <updated_at>Thu Jul 26 12:13:57 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>54967362</id>
+  <body><![CDATA[It's a flaw in his character true but I also think it adds to the magnanimous pretentious facade of Augustus and makes the transition from Augustus to Gus, i don't know, more important? it's two o' clock i don't words right :P]]></body>
+  
+  <user>
+    <id>9463959</id>
+    <name>Sean</name>
+    <display_name>Sean</display_name>
+
+    <location>Annandale, VA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9463959-sean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1361936383p3/9463959.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1361936383p2/9463959.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 26 22:54:54 -0700 2012</created_at>
+  <updated_at>Thu Jul 26 22:54:54 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>57999182</id>
+  <body><![CDATA[such a great observation ma'am. Indeed.]]></body>
+  
+  <user>
+    <id>10515260</id>
+    <name>Jennie</name>
+    <display_name>Jennie</display_name>
+
+    <location>Quezon City, Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10515260-jennie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1359419667p3/10515260.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1359419667p2/10515260.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Sep 12 03:08:27 -0700 2012</created_at>
+  <updated_at>Wed Sep 12 03:08:27 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>61445763</id>
+  <body><![CDATA[This has got to be one of the best reviews out there. Everything you said? Spot on. And because of your review my idea about the book became a lot more positive :D]]></body>
+  
+  <user>
+    <id>4088406</id>
+    <name>Drunken</name>
+    <display_name>Drunken Strawberries</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4088406-drunken-strawberries]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1363067440p3/4088406.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1363067440p2/4088406.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 09 18:59:29 -0800 2012</created_at>
+  <updated_at>Fri Nov 09 18:59:29 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>61647653</id>
+  <body><![CDATA[Oh, I didn't know that about <a href="https://www.goodreads.com/author/show/1406384.John_Green" title="John Green" rel="nofollow">John Green</a>, but it makes perfect sense because his teen characters with cancer seem perfectly authentic.<br /><br />Yes, the cigarettes thing bothered me too. My mother died of lung cancer when I was a child, due to past cigarette smoking.]]></body>
+  
+  <user>
+    <id>83445</id>
+    <name>Lisa</name>
+    <display_name>Lisa Vegan</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/83445-lisa-vegan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1243394822p3/83445.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1243394822p2/83445.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 13 03:28:01 -0800 2012</created_at>
+  <updated_at>Tue Nov 13 03:28:01 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>64826280</id>
+  <body><![CDATA[Thanks for your review, which made me want to read this book, which I have now finished and I LOVED it! (I listened to the audiobook, which was tremendously well done.]]></body>
+  
+  <user>
+    <id>251719</id>
+    <name>DeAnna</name>
+    <display_name>DeAnna</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/251719-deanna]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1376251591p3/251719.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1376251591p2/251719.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 03 21:07:52 -0800 2013</created_at>
+  <updated_at>Thu Jan 03 21:07:52 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69683157</id>
+  <body><![CDATA[I agree with your view on the cigarette thing. I didn’t find it very necessary at all to Augustus’ character. Maybe it made him feel powerful? Maybe that was the point. It seemed that he was showing some sort of “I had cancer, and I have something that has the power to give me cancer, but without a flame it won’t.” attitude, and it confused me as to why he would pay money for such a futile feeling.]]></body>
+  
+  <user>
+    <id>17473321</id>
+    <name>Mmb</name>
+    <display_name>Mmb</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17473321-mmb]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 12 14:15:50 -0700 2013</created_at>
+  <updated_at>Tue Mar 12 14:15:50 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69715407</id>
+  <body><![CDATA[Now that I've read interviews where John Green explains the cigarette metaphor in more detail, I understand why he has Augustus say that. It's not John Green telling us, "Look how cool Augustus is," it's John Green telling us, "Look how passionate but dorkily misguided Augustus can be in his beliefs." Like another commenter pointed out: Hazel doesn't fall in love with the Augustus who makes up convoluted explanations about why he buys cigarettes, she fell in love with the Gus who gets really excited on his first airplane ride.]]></body>
+  
+  <user>
+    <id>111921</id>
+    <name>Madeline</name>
+    <display_name>Madeline</display_name>
+
+    <location>Decatur, GA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/111921-madeline]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1220803522p3/111921.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1220803522p2/111921.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 12 21:40:39 -0700 2013</created_at>
+  <updated_at>Tue Mar 12 21:40:39 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69982767</id>
+  <body><![CDATA[I agree with how real you say John Green was. He was far from treading lightly on the suffering that Hazel and Gus went through. I also agree with Gus's cigarette smoking. The idea that he is giving money to the people who cause cancer also came to my mind and boggled it. I like the metaphor of taking away something's power, but not in the context of a cigarette in the hands of a cancer patient.]]></body>
+  
+  <user>
+    <id>17791232</id>
+    <name>Mor</name>
+    <display_name>Mor</display_name>
+
+    <location>Wake Forest, NC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17791232-mor]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat Mar 16 18:13:48 -0700 2013</created_at>
+  <updated_at>Sat Mar 16 18:13:48 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>70365255</id>
+  <body><![CDATA[Thanks for explaining the cigarette thing! It really got me to distrust Augustus chararcter...I felt he was being hipsterious...in the bad sense!]]></body>
+  
+  <user>
+    <id>17280843</id>
+    <name>Laila</name>
+    <display_name>Laila</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17280843-laila]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1386345676p3/17280843.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1386345676p2/17280843.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 22 05:11:51 -0700 2013</created_at>
+  <updated_at>Fri Mar 22 05:11:51 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>70400632</id>
+  <body><![CDATA[Love you to the moon and back!]]></body>
+  
+  <user>
+    <id>102271</id>
+    <name>Cynthia</name>
+    <display_name>Cynthia</display_name>
+
+    <location>Ames, IA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/102271-cynthia]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1180361817p3/102271.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1180361817p2/102271.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 22 15:33:09 -0700 2013</created_at>
+  <updated_at>Fri Mar 22 15:33:09 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>71085450</id>
+  <body><![CDATA[I also liked the cigarette metaphor at first, but I got confused when I thought about it afterwards. Glad I read your review.]]></body>
+  
+  <user>
+    <id>8361944</id>
+    <name>Kyra</name>
+    <display_name>Kyra</display_name>
+
+    <location>Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8361944-kyra]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1371370630p3/8361944.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1371370630p2/8361944.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Apr 01 07:00:06 -0700 2013</created_at>
+  <updated_at>Mon Apr 01 07:00:06 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>71095919</id>
+  <body><![CDATA[Well, he also nursed the same pack of cigarettes the entire time. He wasn't continually giving the tobacco companies money. I loved the entire book.]]></body>
+  
+  <user>
+    <id>83445</id>
+    <name>Lisa</name>
+    <display_name>Lisa Vegan</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/83445-lisa-vegan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1243394822p3/83445.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1243394822p2/83445.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Apr 01 09:48:21 -0700 2013</created_at>
+  <updated_at>Mon Apr 01 09:48:21 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>71524846</id>
+  <body><![CDATA[Yeah, but he still bought that first pack of cigarettes. And I may not be remembering it correctly, but I think he has a line about how he buys one pack a year? <br /><br />Unless he's actually stealing the cigarettes (which would be awesome) he's still giving money to an industry that gives people cancer.]]></body>
+  
+  <user>
+    <id>111921</id>
+    <name>Madeline</name>
+    <display_name>Madeline</display_name>
+
+    <location>Decatur, GA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/111921-madeline]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1220803522p3/111921.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1220803522p2/111921.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Apr 06 23:13:35 -0700 2013</created_at>
+  <updated_at>Sat Apr 06 23:13:35 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>71524901</id>
+  <body><![CDATA[Yes, I know. I cringed. My mother died from lung cancer when I was 11. She'd heavily smoked for 20 years and quit 9 years before diagnosis/10 years before she died. So naturally I hate the tobacco companies. <br /><br />I still loved the whole book.]]></body>
+  
+  <user>
+    <id>83445</id>
+    <name>Lisa</name>
+    <display_name>Lisa Vegan</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/83445-lisa-vegan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1243394822p3/83445.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1243394822p2/83445.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Apr 06 23:15:33 -0700 2013</created_at>
+  <updated_at>Sat Apr 06 23:15:33 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>82970942</id>
+  <body><![CDATA[Oh I 100% agree with everything you just said]]></body>
+  
+  <user>
+    <id>9282187</id>
+    <name>Zack</name>
+    <display_name>Zack</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9282187-zack]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat Sep 14 22:19:28 -0700 2013</created_at>
+  <updated_at>Sat Sep 14 22:19:28 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>88357942</id>
+  <body><![CDATA[but thats the thing. its a metaphor. you're not suppose to walk around a mall with a shot gun even though its unloaded and perhaps he's not suppose to buy an entire box of cigarettes to live by a metaphor but it makes him feel something. like in a world where he didn't ask for something, he feels like he can control what little power tha cigarette has and it sort of makes him feel benevolent, hence the jackass attitude.<br />besides, john green wanted to tell something and i guess he thought that using a cigarette as a metaphor would be an ironic way of humour because the protagonist afterall has tumour in her lungs.<br /><br />and if you really think about it, yes you are giving money to the company that causes cancer but only if you light the cigarette up.<br />if you don't then you can't give them the power to give you cancer.]]></body>
+  
+  <user>
+    <id>14609683</id>
+    <name>Hafizah</name>
+    <display_name>Hafizah</display_name>
+
+    <location>Singapore, 00, Singapore</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14609683-hafizah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1386667590p3/14609683.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1386667590p2/14609683.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 10 02:05:59 -0800 2013</created_at>
+  <updated_at>Tue Dec 10 02:05:59 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>88403358</id>
+  <body><![CDATA[<i>Hafizah wrote: "but thats the thing. its a metaphor. you're not suppose to walk around a mall with a shot gun even though its unloaded and perhaps he's not suppose to buy an entire box of cigarettes to live by a m..."</i><br /><br />But you're still giving them money]]></body>
+  
+  <user>
+    <id>9282187</id>
+    <name>Zack</name>
+    <display_name>Zack</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9282187-zack]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 10 17:44:37 -0800 2013</created_at>
+  <updated_at>Tue Dec 10 17:44:37 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>88408980</id>
+  <body><![CDATA[I was just about to comment and point that out: cigarette companies make money from people buying their product, and they don't really care what anyone does afterwards. Obviously they prefer that you smoke the cigarettes and fuel your addiction, therefore buying more, but the point is that with every pack he buys, Augustus directly funds an organization that gives people cancer. <br /><br />And it's true that if you don't light the cigarette you "can't give them the power to give you cancer" but that's not the point. You bought the cigarettes, therefore you gave money to the cigarette companies, and they will spend that money making more cigarettes that will then <i>give people cancer</i>.]]></body>
+  
+  <user>
+    <id>111921</id>
+    <name>Madeline</name>
+    <display_name>Madeline</display_name>
+
+    <location>Decatur, GA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/111921-madeline]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1220803522p3/111921.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1220803522p2/111921.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 10 19:07:05 -0800 2013</created_at>
+  <updated_at>Tue Dec 10 19:07:05 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>88409476</id>
+  <body><![CDATA[Nobody hates the tobacco companies more than I. My mother died from their products when I was a child. But these are teens with teen sensibilities and life threatening illnesses, and teens don't tend to die tobacco related deaths. Those illnesses take longer to develop. I was willing to meet the characters where they were. I had different experiences than they do and I'd never buy tobacco or use it.]]></body>
+  
+  <user>
+    <id>83445</id>
+    <name>Lisa</name>
+    <display_name>Lisa Vegan</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/83445-lisa-vegan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1243394822p3/83445.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1243394822p2/83445.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 10 19:15:18 -0800 2013</created_at>
+  <updated_at>Tue Dec 10 19:15:18 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>90537709</id>
+  <body><![CDATA[Why am I not surprised that you gave this book five stars? Go figure.]]></body>
+  
+  <user>
+    <id>27508427</id>
+    <name>Unaris</name>
+    <display_name>Unaris</display_name>
+
+    <location>Halifax, NS, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27508427-unaris]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1389290208p3/27508427.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1389290208p2/27508427.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 12 06:44:01 -0800 2014</created_at>
+  <updated_at>Sun Jan 12 06:44:01 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90543047</id>
+  <body><![CDATA[And look at that! My enjoyment of the book <i>in no way diminishes</i> your dislike of the book! CRAZY how that works, isn't it?<br /><br />(at least, I assume you disliked the book, since so far your contributions to this site seem to consist of two negative reviews and a lot of unkind comments on others' reviews)]]></body>
+  
+  <user>
+    <id>111921</id>
+    <name>Madeline</name>
+    <display_name>Madeline</display_name>
+
+    <location>Decatur, GA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/111921-madeline]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1220803522p3/111921.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1220803522p2/111921.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 12 08:36:00 -0800 2014</created_at>
+  <updated_at>Sun Jan 12 08:36:00 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90550490</id>
+  <body><![CDATA[Hay what s the book about ?]]></body>
+  
+  <user>
+    <id>27574733</id>
+    <name>Alita Jade Martin</name>
+    <display_name>Alita Jade Martin</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27574733-alita-jade-martin]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 12 10:47:40 -0800 2014</created_at>
+  <updated_at>Sun Jan 12 10:47:40 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90839823</id>
+  <body><![CDATA[I could make a lifetime reading list from the books you enjoyed and not be disappointed. Every time someone trolls your positive reviews, another author sells a book.]]></body>
+  
+  <user>
+    <id>6238733</id>
+    <name>Sue</name>
+    <display_name>Sue</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6238733-sue]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1332959045p3/6238733.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1332959045p2/6238733.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 16 19:00:26 -0800 2014</created_at>
+  <updated_at>Thu Jan 16 19:00:26 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>91051003</id>
+  <body><![CDATA[Madeline : <br /><br />This is such an awesome review! When you say you review every read; YOU REVIEW EVERY READ! I have been wanting to read this book for a fresh easy read for some time now . Sometimes my book club , which I REALLY LOVE don't get me wrong , includes some very challenging reads. I like mysteries dealing with a great bit of psychological and analytical thinking about the complex characters , unfamiliar settings, and ways of life that bring up very challenging conflicts. Our group reads Historical Southern Gothic or as my cousin Larry Brown called it Southern Grit Lit. <br /><br />I guess it is like the indie rock of reading or maybe some bluegrass indie in there too!! HA! The Writers and the musicians inspire each other as well as the country home cooked foods and their beverage of choice from Sweet Tea and Lemonade to straight up Wild Turkey on the Rocks or Yalabusha brewed Beer. <br /><br />Now some of the pre- 1980 reads take place during prohibition times and the post - 1980 reads can take place in the Ozarks where all money is made in Meth. labs . After I have had to much darkness, I need some easy reads too calm my soul!!! LOL ! <br /><br />Now I want this one and I have Donna's new book. If the new book connects a little to Secret History , I might need to speed read a little to remind myself of some specifics from that old favorite. I wish she would write more than one book every Blue Moon ! You definitely have the same taste I have in reading. I really don't do FooFoo reads unless there is just nothing around to read. My Aunt Jane got the idea one year I liked Nicholas Sparks just because I did like The Notebook. Now she always try's to give me his books. Sad! I do break down and read them eventually . HA! <br /><br />Loved the reviews ... I am going to try to get a new MAC this week. Cross your fingers. My brand new Windows 8 died last April when an old classmate from high school became fixated on me when he found me on FaceBook. I was cautioned about his changed behavior so he sent lovely gifts ( viruses, key loggers, stealth genie spies and even got into my icloud) that ended my tech days until just recently! I got an iPad Air in November. Love it! But it is not a whole computer. I will never use windows again until they put money into a security system. Apple is finally save after their latest upgrade to IOS7. <br />Be careful out there Miss Madeline . There are bad men everywhere! Good night moon! Your Little Friend, Dawn]]></body>
+  
+  <user>
+    <id>24821592</id>
+    <name>Dawn</name>
+    <display_name>Dawn</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24821592-dawn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1473533156p3/24821592.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1473533156p2/24821592.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 20 02:40:59 -0800 2014</created_at>
+  <updated_at>Mon Jan 20 02:40:59 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>91068084</id>
+  <body><![CDATA[This is an awesome review of an awesome book! Love the way you think.]]></body>
+  
+  <user>
+    <id>7262060</id>
+    <name>Diane</name>
+    <display_name>Diane Barnes</display_name>
+
+    <location>Mount Pleasant, SC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7262060-diane-barnes]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1329773692p3/7262060.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1329773692p2/7262060.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 20 09:28:14 -0800 2014</created_at>
+  <updated_at>Mon Jan 20 09:28:14 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>91995117</id>
+  <body><![CDATA[Wonderful review , I have just started this book but I am much exited to read now ,and <br />@madeline :no offence but your DP has a person smoking and there you are talking about what is good and bad . .]]></body>
+  
+  <user>
+    <id>9875324</id>
+    <name>Arzoo</name>
+    <display_name>Arzoo</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9875324-arzoo]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1391381179p3/9875324.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1391381179p2/9875324.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 02 14:44:15 -0800 2014</created_at>
+  <updated_at>Sun Feb 02 14:44:15 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92077872</id>
+  <body><![CDATA[Madeline - I was hoping you received my message on The Fault In Our Stars ( TFIOS). When I finished the book, I was so excited to share my excitement and joy with you! Without you having read Donna Tartt and connected to my review, I may have missed out on one of the loveliest stories I have read all year. I tried anxiously to write to you and ask and answer to clarify things for me and I think I came up with ideas on some other interests that I found out from things I studied and taught in school. I hope I did not sound like a know it all little nerd anxiously waving her hand to be called to answer questions in class! LOL! But I felt like that after I read the book and wanted to share. <br /><br />Mostly- thank you very much for enlightening me about an awesome author with more good books to read and for reminding me how wonderful my English teaching experience was when I taught Secondary English Education for 15 years. I cried because I wish I could have been a teacher to have taught that book. I wish I could have seen the students reactions , even the students that say they don't care or are too cool to read. This book could have been one of those that brought communication about important stuff and I could have slipped in learning things about, themes, conflicts, symbolism and more in a way they may never have forgotten. But, most of all , can you imagine being in the middle of augments when they try to discuss belief systems about life and death, or love and true love, or the importance of a life rather known to all or known only to make a difference by few. Then there is that metaphor for being independent or reckless or having the right to take fault for your own mistakes. That cigarette had nothing to do with a company -- at different points in that novel , that cigarette was a metaphor for independence, pride, self assurance as being a person over which there could be no control unless he decided ( which we find out in the end is a farce) . Everyone must eventually learn in life that you do not control your own Fate or Destiny , God is the only spirit with strength to control . You can't control people either, only God , and you just have to accept you can do the best you can do make things better for you and people you love. The rest is up to you controlling how you REACT to fate, circumstances and the actions of others. Augustus Waters was putting that CIGARETTE in his mouth as a flag saying, " Hey, I am a grenade " too. Don't get too close I am going to explode and I will hurt you. The same point to adults and parents, I am what I am - accept it-- babies don't smoke. Mom and Dad, if I chose to blow, it will not be your fault or anyone elses. Finally, take a look at Massif's pyramid again. What do you see there scientifically and symbolically? Then when they give into love on the Second Floor of the Hotel in Amsterdam, look up the name of that second floor, Kriekenkard ( spelling? ) was a philosopher who believed in mysticism or Existentialism. This is the belief that one can only know God through his / her own intense emotional experience. How do people prove God must exist? You can't see him, touch, or hear him. How do you know love exists ? You can't see it, touch it, hear it, ---YOU ONLY FEEL THE DEEPLY FELT CONNECTION AND EMOTIONAL CATHARSIS IN YOUR ON MIND AND BODY. Augustus once says to Hazel Grace, how will I ever see you again? He is referring to LIFE AFTER DEATH . There is so much REAL DEPTH IN THIS NOVEL ! I can't even begin to finish here. And, there is no telling what I missed.<br /><br />Madeline - there is so much more ... Now, one thing I thought about ...tell me to FO if you want. If you felt that strongly about the cigarette metaphor being bothersome, then what other symbol could Green have used. I have been trying to thing of something . What do you think? <br /><br />When you get time ... Thank you again, Dawn]]></body>
+  
+  <user>
+    <id>24821592</id>
+    <name>Dawn</name>
+    <display_name>Dawn</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24821592-dawn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1473533156p3/24821592.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1473533156p2/24821592.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 03 18:13:18 -0800 2014</created_at>
+  <updated_at>Mon Feb 03 18:13:18 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92090895</id>
+  <body><![CDATA[<i>If you felt that strongly about the cigarette metaphor being bothersome, then what other symbol could Green have used.</i><br /><br />I have no problem with Augustus employing the cigarette metaphor as a way of coping with his illness. What I have a problem with is Hazel making the point that Gus is <i>directly funding</i> an organization that causes cancer when he buys these supposed "fuck you, cancer" cigarettes, and this perfectly valid point never being addressed in the book. It's a serious flaw in Gus's character, but a necessary one - that he can believe in something so strongly, even if that belief is wrong. I would just have liked Hazel to press him more on the overarching effects of his dumb metaphor.]]></body>
+  
+  <user>
+    <id>111921</id>
+    <name>Madeline</name>
+    <display_name>Madeline</display_name>
+
+    <location>Decatur, GA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/111921-madeline]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1220803522p3/111921.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1220803522p2/111921.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 03 22:14:09 -0800 2014</created_at>
+  <updated_at>Mon Feb 03 22:14:09 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92099797</id>
+  <body><![CDATA[I think that was the point too! Hazel kept saying how perfect Augustus was over and over compared to so many others including herself. She was so overwhelmingly flattered by him at first to even bother addressing the issue at the first meeting because she had been so charmed especially after the depressed state of isolation from which she was coming. She did sense his imperfections by the next visit. She questioned the metaphoric cigarette again and realized that was another of his imperfections besides his driving. No one can be totally perfect although we seem to think so at times. <br /><br />In this case , John Green is basing this story loosely on a girl named Esther Earl as I am sure you know. She actually had cancer of the thyroid which then led to her lung condition. Although cigarettes did not probably cause her cancer, she still would be angry because they would cause other cancers and they would have direct impact on breathing . <br /><br />Somehow John Green had to get the " DO NOT SMOKE MESSAGE IN LOUD AND CLEAR" which is maybe why he even left the point about the cigarette companies open. He may have wanted it to bug people . <br /><br />Otherwise, the act of free choice is opened. Free enterprise is opened. Freedom in genera is a big thought. Along with carrying the theme The Fault In Our Stars; we all have flaws. Even superheroes have weaknesses. <br /><br />Do you want to see the movie? Are you going to read Esther Earl's book THIS STAR WIIL KEEP SHINING ? <br /><br />Do you smoke or know people who do? If not does it bother you? <br /><br />Dawn]]></body>
+  
+  <user>
+    <id>24821592</id>
+    <name>Dawn</name>
+    <display_name>Dawn</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24821592-dawn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1473533156p3/24821592.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1473533156p2/24821592.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 04 05:04:28 -0800 2014</created_at>
+  <updated_at>Tue Feb 04 05:04:28 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92099799</id>
+  <body><![CDATA[I think that was the point too! Hazel kept saying how perfect Augustus was over and over compared to so many others including herself. She was so overwhelmingly flattered by Augustus to even bother addressing the issue at the first meeting because she had been so charmed especially after the depressed state of isolation from which she was coming. She did sense his imperfections by the next visit. She questioned the metaphoric cigarette again and realized that was another of his imperfections besides his driving. No one can be totally perfect although we seem to think so at times. <br /><br />In this case , John Green is basing this story loosely on a girl named Esther Earl as I am sure you know. She actually had cancer of the thyroid which then led to her lung condition. Although cigarettes did not probably cause her cancer, she still would be angry because they would cause other cancers and they would have direct impact on breathing . Just as Hazel Grace would too. <br /><br />Somehow John Green had to get the " DO NOT SMOKE MESSAGE IN LOUD AND CLEAR" which is maybe why he even left the point about the cigarette companies open. He may have wanted it to bug people . <br /><br />Otherwise, the act of free choice is opened. Free enterprise is opened. Freedom in genera is a big thought. Along with carrying the theme The Fault In Our Stars; we all have flaws. Even superheroes have weaknesses. <br /><br />Do you want to see the movie? Are you going to read Esther Earl's book THIS STAR WIIL KEEP SHINING ? <br /><br />Do you smoke or know people who do? If not, does it bother you? <br /><br />Dawn]]></body>
+  
+  <user>
+    <id>24821592</id>
+    <name>Dawn</name>
+    <display_name>Dawn</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24821592-dawn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1473533156p3/24821592.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1473533156p2/24821592.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 04 05:04:33 -0800 2014</created_at>
+  <updated_at>Tue Feb 04 05:04:33 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92100679</id>
+  <body><![CDATA[Madeline- <br /><br />Oops ! I am sorry . The title of Ester Earl's book is THIS STAR WON'T GO OUT . <br /><br />DAWN]]></body>
+  
+  <user>
+    <id>24821592</id>
+    <name>Dawn</name>
+    <display_name>Dawn</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24821592-dawn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1473533156p3/24821592.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1473533156p2/24821592.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 04 05:31:30 -0800 2014</created_at>
+  <updated_at>Tue Feb 04 05:31:30 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92109802</id>
+  <body><![CDATA[Okay, but here's the thing: Hazel Grace is not Esther Earl. John Green has said over and over that Hazel is nothing like Esther. The foundations for this book were laid fifteen years ago, when Green was working at a children's hospital and observing kids going through life-threatening illnesses. It's likely that Green's friendship with Esther was what finally gave him the method of approaching this story (which, again, he has been trying to write since he was in his early twenties), but <i>The Fault in Our Stars</i> is not about Esther Earl. It may seem callous of me to say this, but <i>The Fault in Our Stars</i> was always about John Green. Every John Green book is about John Green, first and foremost.]]></body>
+  
+  <user>
+    <id>111921</id>
+    <name>Madeline</name>
+    <display_name>Madeline</display_name>
+
+    <location>Decatur, GA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/111921-madeline]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1220803522p3/111921.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1220803522p2/111921.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 04 08:44:05 -0800 2014</created_at>
+  <updated_at>Tue Feb 04 08:44:05 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92115176</id>
+  <body><![CDATA[<i>Madeline wrote: "Okay, but here's the thing: Hazel Grace is not Esther Earl. John Green has said over and over that Hazel is nothing like Esther. The foundations for this book were laid fifteen years ago, when Gree..."</i><br /><br />I know this Madeline , about Esther Earl. Check out the YouTube Vlogs for the brothers about Esther Earl. For the Movie Trailer Release on Sat. February 1, 2014 they streamed an Esther Earl Day Celebration. John did talk on the Vlog about Esther that day. <br /><br />That is all. She did have some influence on John as a person with cancer. Just as all of the rest. Ester Earl 's story had a similar romance I believe. Maybe I will read her book today. <br /><br />It is a nice rainy cold day here. I need to do laundry anyway. I am not arguing Madeline. This is just what I saw Saturday. I am sorry. <br /><br />Dawn]]></body>
+  
+  <user>
+    <id>24821592</id>
+    <name>Dawn</name>
+    <display_name>Dawn</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24821592-dawn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1473533156p3/24821592.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1473533156p2/24821592.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 04 10:25:21 -0800 2014</created_at>
+  <updated_at>Tue Feb 04 10:25:21 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92120706</id>
+  <body><![CDATA[I'm...not sure why you're apologizing.]]></body>
+  
+  <user>
+    <id>111921</id>
+    <name>Madeline</name>
+    <display_name>Madeline</display_name>
+
+    <location>Decatur, GA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/111921-madeline]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1220803522p3/111921.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1220803522p2/111921.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 04 12:09:36 -0800 2014</created_at>
+  <updated_at>Tue Feb 04 12:09:36 -0800 2014</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/263940570]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/263940570]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

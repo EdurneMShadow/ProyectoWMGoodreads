@@ -1,0 +1,383 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:47:18 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: SQFS0Z91TY45NJM8ZT9Y
+etag: W/"41af86d26dfdb70462ab5bb07e87806d"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.284742
+set-cookie: csid=BAhJIhg3OTItMzY5MzU4OS03ODgyNjU4BjoGRVQ%3D--cc9d524e2120300bfe200968d9dde39876052c59; path=/; expires=Tue, 12 May 2037 13:47:18 -0000, locale=es; path=/, _session_id2=3f69b04937f332f78aab769a6742aab1; path=/; expires=Fri, 12 May 2017 19:47:18 -0000; HttpOnly
+content-length: 16020
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=134836122
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>134836122</id>
+    
+  <user>
+    <id>4147373</id>
+    <name>Limonessa</name>
+    <display_name>Limonessa</display_name>
+
+    <location>Italy</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4147373-limonessa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1424025988p3/4147373.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1424025988p2/4147373.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">7958389</id>
+  <isbn>0142418471</isbn>
+  <isbn13>9780142418475</isbn13>
+  <text_reviews_count type="integer">695</text_reviews_count>
+  <title>Will Grayson, Will Grayson</title>
+  <title_without_series>Will Grayson, Will Grayson</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1347192620m/7958389.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1347192620s/7958389.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7958389-will-grayson-will-grayson</link>
+  <num_pages>310</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Speak</publisher>
+  <publication_day>5</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.85</average_rating>
+  <ratings_count>245304</ratings_count>
+  <description>&lt;b&gt;will grayson, meet will grayson&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;One cold night, in a most unlikely corner of Chicago, two strangers cross paths. Two teens with the same name, running in two very different circles, suddenly find their lives going in new and unexpected directions, culminating in heroic turns-of-heart and the most epic musical ever to grace the high school stage.</description>
+<authors>
+<author>
+<id>1406384</id>
+<name>John Green</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>4528234</ratings_count>
+<text_reviews_count>275833</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">6206017</id>
+          <page type="integer">188</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu May 12 14:38:14 -0700 2011</created_at>
+          <updated_at type="datetime">Sat Sep 07 15:44:54 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">62</percent>
+          <work_id type="integer">6759965</work_id>
+          <note_uri>kca://note/amzn1.grok.note.d12b97a449b75f32a8ec9d50ab2c7ea5</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[I'm picturing Tiny Cooper like Kimora Lee Simmons]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">6204581</id>
+          <page type="integer">118</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu May 12 12:57:10 -0700 2011</created_at>
+          <updated_at type="datetime">Sat Sep 07 15:43:24 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">39</percent>
+          <work_id type="integer">6759965</work_id>
+          <note_uri>kca://note/amzn1.grok.note.00634218a3722809e7ceabf065cde4f8</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[mh.. so far I don't like either Grayson]]></body>
+        </user_status>
+    </user_statuses>
+  <rating>2</rating>
+  <votes>47</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="ya-lit" exclusive="false" review_shelf_id="106406195" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed May 11 00:00:00 -0700 2011</started_at>
+  <read_at>Fri May 13 00:00:00 -0700 2011</read_at>
+  <date_added>Mon Dec 13 00:52:13 -0800 2010</date_added>
+  <date_updated>Thu Jan 02 18:52:11 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I'm kind of ashamed to give this book such a poor rating because, clearly, everybody else liked it. I wouldn't even have given it 2 stars if not for the fact that it made laugh a couple of times. <br />I think this book is SO not for me. <br />First off, I'm not quite sure why it's called Will Grayson, Will...]]>
+  </body>
+
+  
+
+  <comments_count>10</comments_count>
+    <comments start="1" end="10" total="10">
+        <comment>
+  <id>30420454</id>
+  <body><![CDATA[Great review. I was probably too generous when I gave this book three stars instead of two. Watching John's youtube channel has endeared him to me too much.]]></body>
+  
+  <user>
+    <id>3813315</id>
+    <name>Lucy</name>
+    <display_name>Lucy</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3813315-lucy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1307662921p3/3813315.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1307662921p2/3813315.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 14 08:46:52 -0700 2011</created_at>
+  <updated_at>Sat May 14 08:46:52 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>39798444</id>
+  <body><![CDATA[Wow. Spot on.]]></body>
+  
+  <user>
+    <id>1884422</id>
+    <name>Michael (Mai)</name>
+    <display_name>Michael (Mai)</display_name>
+
+    <location>Lenexa, KS</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1884422-michael-mai]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478172162p3/1884422.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478172162p2/1884422.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Nov 10 20:52:00 -0800 2011</created_at>
+  <updated_at>Thu Nov 10 20:52:00 -0800 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>47255377</id>
+  <body><![CDATA[I will probably finish this book tonight, because I love John Green, but I agree. This book just isn't that great.]]></body>
+  
+  <user>
+    <id>5691412</id>
+    <name>Megs ♥</name>
+    <display_name>Megs ♥</display_name>
+
+    <location>Gold Coast, 4217, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5691412-megs]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1485177518p3/5691412.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1485177518p2/5691412.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Mar 19 11:05:14 -0700 2012</created_at>
+  <updated_at>Mon Mar 19 11:05:14 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>105755530</id>
+  <body><![CDATA[I couldn't stand tiny cooper. he was getting on my nerves, such characters are meant to be in the background. I only liked Tiny in the beginning and that was because i was assuming this is a comic relief character (whose fitting into the chair was a daily miracle lol). I expected that he'll shift into the background the moment the "main twist" unfolds. But no, Will#1 meets Will#2, and nothing happens. they have nothing to do with eachother. Their meeting only serves to make Tiny meet Will#2, who falls for him. And to make Will#2 be romantically interested in him was a JOKE. This book crossed the line really, it is not realistic for anyone to want to be around Tiny. How did he even have so many boyfirends, i womder. And i dont mean to be mean but Tiny Cooper is large as a sofa, he is obese enough for it to be a miracle for him to fit in a seat.....so why would he have a long list of boyfriends? <br /><br />When Will#2 called in big guy or big boy or something, tiny texts back saying that he likes that nickname. I was just like wow, he actually wants his fat body to be appropriated into language that normalized or erased the fact that his fatness is unattractive...he is seemed too comfortable with his fat and...he actually expects someone to be cool with it and accept and love it as much as he does. I think that is a Womderful ideal, to be so self accepting and expecting to be loved just as we are.... but i dont find it very realistic. Maybe Tiny is a sign of progress, maybe the world has moved ahead and im too superficial and uncool.]]></body>
+  
+  <user>
+    <id>31615357</id>
+    <name>Roshan</name>
+    <display_name>Roshan</display_name>
+
+    <location>Mumbai, 16, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/31615357-roshan]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Sep 08 02:01:38 -0700 2014</created_at>
+  <updated_at>Mon Sep 08 02:01:38 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109513800</id>
+  <body><![CDATA[How is the book about tiny cooper.]]></body>
+  
+  <user>
+    <id>32752316</id>
+    <name>Allisonsantogrossi</name>
+    <display_name>Allisonsantogrossi</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32752316-allisonsantogrossi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1416176713p3/32752316.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1416176713p2/32752316.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 16 14:04:55 -0800 2014</created_at>
+  <updated_at>Sun Nov 16 14:04:55 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>110431002</id>
+  <body><![CDATA[I agree 100%. It was completely unrelatable and unrealistic, and the interesting parts (ex. Will and Maura's friendship) was overshadowed by Tiny's huge character (no pun intended). I would've loved to find out a legitimate reason for why Maura tormented him, but instead it was important that Will makes it to the musical on time! I also would've liked to see John Green's Will come out of his shell more and prove to Tiny that he's not dependent on him. (I might just have a vendetta against Tiny Cooper). The scenes that could offer advice took the easy way out, only so everyone could live happily ever after. The only good thing was the humor. I don't regret reading it, but it coul've been better.]]></body>
+  
+  <user>
+    <id>35233331</id>
+    <name>Elena</name>
+    <display_name>Elena Allison</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/35233331-elena-allison]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Dec 03 16:28:00 -0800 2014</created_at>
+  <updated_at>Wed Dec 03 16:28:00 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>112021279</id>
+  <body><![CDATA[After David's Grayson first chapter, I was hooked (I laughed a lot!), but I just read the part when Grayson falls for Tiny and I put the book down. I don't sympathise in ANY way with Tiny and I was hoping he'd be a secondary character, but I'm starting to think that's not gonna be the case. I kinda feel the same way you do about Cooper and I think I'm not gonna finish this book. It's hard to let go of a bad book, because I think I might be missing something. From your review, maybe that's not exactly the case here..]]></body>
+  
+  <user>
+    <id>21044401</id>
+    <name>Bruno</name>
+    <display_name>Bruno Leal</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/21044401-bruno-leal]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1451838127p3/21044401.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1451838127p2/21044401.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 02 14:41:48 -0800 2015</created_at>
+  <updated_at>Fri Jan 02 14:41:48 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>113562514</id>
+  <body><![CDATA[I feel you.The only enjoyable aspects of the book were the quotes and of course, Tiny! Pretty disappointing]]></body>
+  
+  <user>
+    <id>29949566</id>
+    <name>Sharbani</name>
+    <display_name>Sharbani Bose</display_name>
+
+    <location>Hyderabad, 02, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/29949566-sharbani-bose]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 27 11:29:21 -0800 2015</created_at>
+  <updated_at>Tue Jan 27 11:29:21 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>116255049</id>
+  <body><![CDATA[John Green realizes that using gay characters as comic relief or using the tragic queer troupe is a clichéd and annoying representation of gay people, right? He's doing this to be ironic, right? (Probably not)]]></body>
+  
+  <user>
+    <id>35587752</id>
+    <name>Matt</name>
+    <display_name>Matt</display_name>
+
+    <location>Saint Catharines, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/35587752-matt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1416280409p3/35587752.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1416280409p2/35587752.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 17 02:27:13 -0700 2015</created_at>
+  <updated_at>Tue Mar 17 02:27:13 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>128881509</id>
+  <body><![CDATA[Could not agree more]]></body>
+  
+  <user>
+    <id>31817023</id>
+    <name>Correen</name>
+    <display_name>Correen Cook</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/31817023-correen-cook]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1468424036p3/31817023.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1468424036p2/31817023.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 17 15:51:04 -0700 2015</created_at>
+  <updated_at>Sun May 17 15:51:04 -0700 2015</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/134836122]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/134836122]]></link>
+    <owned>1</owned>
+</review>
+
+
+</GoodreadsResponse>

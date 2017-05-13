@@ -1,0 +1,843 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:42:33 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: KK6NJA9BGEGNA6XNXCB9
+etag: W/"7f02fa8fd3f6864004e3da81acc7d21f"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.329415
+set-cookie: csid=BAhJIhg2MTctMDc3MDQyMy01MTg5MzI1BjoGRVQ%3D--bdf337fe858fc0ef3a973ff7ab284ddeee27d2e2; path=/; expires=Tue, 12 May 2037 13:42:33 -0000, locale=es; path=/, _session_id2=5762a97630bf72f67b642729f170ab51; path=/; expires=Fri, 12 May 2017 19:42:33 -0000; HttpOnly
+content-length: 32618
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=49383351
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>49383351</id>
+    
+  <user>
+    <id>2123165</id>
+    <name>asma</name>
+    <display_name>asma Qadah</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2123165-asma-qadah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492420436p3/2123165.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492420436p2/2123165.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">6388432</id>
+  <isbn>9953880360</isbn>
+  <isbn13>9789953880365</isbn13>
+  <text_reviews_count type="integer">2661</text_reviews_count>
+  <title>الخيميائي</title>
+  <title_without_series>الخيميائي</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1370939719m/6388432.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1370939719s/6388432.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6388432</link>
+  <num_pages>192</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>شركة المطبوعات للتوزيع والنشر</publisher>
+  <publication_day/>
+  <publication_year>2010</publication_year>
+  <publication_month/>
+  <average_rating>3.81</average_rating>
+  <ratings_count>1348164</ratings_count>
+  <description>الخيميائي هي الرواية الثانية التي كتبها باولو كويليو، والتي حققت نجاحاً عالمياً باهراً، جعل كاتبها من أشهر الكتاب العالميين.&lt;br /&gt;&lt;br /&gt;تتحدث الرواية عن راع أندلسي شاب يدعى سانتياغو. مضى للبحث عن حلمه المتمثل بكنزٍ مدفون قرب أهرامات مصر، بدأت رحلته من أسبانيا عندما إلتقى الملك "ملكي صادق" الذي أخبره عن الكنز، عَبَرَ مضيق جبل طارق ماراً بالمغرب حتى بلغ مصر، وكانت توجهه طوال الرحلة إشارات غيبية.&lt;br /&gt;&lt;br /&gt;وفي طريقه للعثور على كنزه الحلم، أحداث كثيرة تقع، كل حدث منها استحال عقبة تكاد تمنعه من متابعة رحلته، إلى أن يجد الوسيلة التي تساعده على تجاوز هذه العقبة....&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;وهكذا تتلخص الفكرة لهذه الرواية بجملة قالها الملك لسانتياغو :"إذا رغبت في شيء.. فإن العالم كله يطاوعك لتحقيق رغبتك".</description>
+<authors>
+<author>
+<id>566</id>
+<name>Paulo Coelho</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201840056p5/566.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201840056p2/566.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/566.Paulo_Coelho]]></link>
+<average_rating>3.72</average_rating>
+<ratings_count>2124981</ratings_count>
+<text_reviews_count>96430</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1226009555</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sat Feb 06 14:18:58 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>388</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sun Mar 15 00:00:00 -0700 2009</read_at>
+  <date_added>Sun Mar 15 17:30:20 -0700 2009</date_added>
+  <date_updated>Thu Feb 16 22:21:26 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[عرفته أوّل مرة من روايته إحدى عشر دقيقة.. كانت المرة الأولى التي أقرأ فيها قصة أو رواية مترجمة؛ نظراً لعدم وثوقي غالباً في الأدبيّات المترجمة فيما سبق..<br /><br />أنهيت قبل أيام قراءة الخيميائي، شدّني الاسم؛ خاصة أنها في الانجليزية تسمى The Alchemist ولا أدري هل كانت الكيمياء فيما سبق تسمى خيمياء؟<br /><br />تدور الروا...]]>
+  </body>
+
+  
+
+  <comments_count>31</comments_count>
+    <comments start="1" end="31" total="31">
+        <comment>
+  <id>4725644</id>
+  <body><![CDATA[أسما .. بديت أقريها والله ما قدرت أمسك نفسي ولا أنا ورايا شغل ما يعلم فيه غير ربك فصرت أقراها بباص الجامعة :D<br /><br />بس تدري ، أقدر أعتبر رؤيتك هذي حول الكتاب حرقت علي حاجات كثيرة :@ :@<br /><br />أسما ما أحبك ]]></body>
+  
+  <user>
+    <id>1937525</id>
+    <name>E7san</name>
+    <display_name>E7san</display_name>
+
+    <location>Jiddah, 14, Saudi Arabia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1937525-e7san]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1310076362p3/1937525.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1310076362p2/1937525.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Mar 23 14:55:51 -0700 2009</created_at>
+  <updated_at>Mon Mar 23 14:55:51 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>4731460</id>
+  <body><![CDATA[<i>E7san wrote: "أسما .. بديت أقريها والله ما قدرت أمسك نفسي ولا أنا ورايا شغل ما يعلم فيه غير ربك فصرت أقراها بباص الجامعة :D<br /><br />بس تدري ، أقدر أعتبر رؤيتك هذي حول الكتاب حرقت علي حاجات كثيرة :@ :@<br /><br />أسما ما أحبك "</i><br /><br />هههههههههههههه حرقت لك الرواية خخخ<br />بس من جد تراها رهيبة وتحمّس :D]]></body>
+  
+  <user>
+    <id>2123165</id>
+    <name>asma</name>
+    <display_name>asma Qadah</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2123165-asma-qadah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492420436p3/2123165.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492420436p2/2123165.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Mar 23 17:58:11 -0700 2009</created_at>
+  <updated_at>Mon Mar 23 17:58:11 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>61518072</id>
+  <body><![CDATA[thats my favorite one for him really i'd like to read it again and agian..]]></body>
+  
+  <user>
+    <id>14470052</id>
+    <name>Mohammed</name>
+    <display_name>Mohammed Sarah</display_name>
+
+    <location>Houston, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14470052-mohammed-sarah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1452959860p3/14470052.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1452959860p2/14470052.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 11 00:27:48 -0800 2012</created_at>
+  <updated_at>Sun Nov 11 00:27:48 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>61996967</id>
+  <body><![CDATA[الخيميائى .. الظاهر .. دول انا مدمنهم انا بعشق الراجل دا....]]></body>
+  
+  <user>
+    <id>14723941</id>
+    <name>Ayman</name>
+    <display_name>Ayman Srour</display_name>
+
+    <location>Cairo, 11, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14723941-ayman-srour]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1396605996p3/14723941.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1396605996p2/14723941.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 19 03:14:10 -0800 2012</created_at>
+  <updated_at>Mon Nov 19 03:14:10 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>61997018</id>
+  <body><![CDATA[والروايه دى برضو بيطلق عليها ساحر الصحراء عشان اللى يدور وميلاقيهاش يسأل على اسمها التانى]]></body>
+  
+  <user>
+    <id>14723941</id>
+    <name>Ayman</name>
+    <display_name>Ayman Srour</display_name>
+
+    <location>Cairo, 11, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14723941-ayman-srour]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1396605996p3/14723941.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1396605996p2/14723941.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 19 03:15:47 -0800 2012</created_at>
+  <updated_at>Mon Nov 19 03:15:47 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>65501383</id>
+  <body><![CDATA[غجبني تعليقك، شجعتني على قراءتها]]></body>
+  
+  <user>
+    <id>1554569</id>
+    <name>Karim</name>
+    <display_name>Karim</display_name>
+
+    <location>Beirut, Lebanon</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1554569-karim]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 13 15:15:33 -0800 2013</created_at>
+  <updated_at>Sun Jan 13 15:15:33 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>66982359</id>
+  <body><![CDATA[رواية اكثر من رائعة..والخيميائي باللغة هو عالم الكيمياء الذي يخلط علمه بالسحر ويحول المعادن الى ذهب..<br />علمتني الرواية كيف اتحد مع الكون وافهم رسائله وكيف ابحث عن ذاتي وأقدر أسرار الله التي وضعها في نفسي واكون في تطوير مستمر لاصنع اسطورتي الشخصية..]]></body>
+  
+  <user>
+    <id>17065152</id>
+    <name>Sara</name>
+    <display_name>Sara Alrawi</display_name>
+
+    <location><![CDATA[Damascus, Syrian Arab Republic]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17065152-sara-alrawi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1396450881p3/17065152.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1396450881p2/17065152.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 02 17:50:21 -0800 2013</created_at>
+  <updated_at>Sat Feb 02 17:50:21 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>66982530</id>
+  <body><![CDATA[((وفي أنفسكم أفلا تبصرون))]]></body>
+  
+  <user>
+    <id>17065152</id>
+    <name>Sara</name>
+    <display_name>Sara Alrawi</display_name>
+
+    <location><![CDATA[Damascus, Syrian Arab Republic]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17065152-sara-alrawi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1396450881p3/17065152.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1396450881p2/17065152.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 02 17:52:43 -0800 2013</created_at>
+  <updated_at>Sat Feb 02 17:52:43 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>68017572</id>
+  <body><![CDATA[كانت أول رواية أقرأها قبل ست سنوات تقريبا<br />شدتني الى عالم الروايات التي كنت اعتقد أنها مجرد غراميات وقصص رومانسية <br />علمتني ان الاحق احلامي و أقدر مابين يدي]]></body>
+  
+  <user>
+    <id>17514466</id>
+    <name>رشا</name>
+    <display_name>رشا الزبيدي</display_name>
+
+    <location><![CDATA[Gaza, Palestinian Territory, Occupied]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17514466]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1361002663p3/17514466.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1361002663p2/17514466.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 17 08:54:16 -0800 2013</created_at>
+  <updated_at>Sun Feb 17 08:54:16 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69060898</id>
+  <body><![CDATA[الخيمياء ظاهرة اعتقد أنها واقعية مرتبطة بالكيمياء والسحر او -او اقرب للواقع- .. ما أنهيت الكتاب لسة لكن ردا لسؤالك على معنى الكتاب]]></body>
+  
+  <user>
+    <id>13588751</id>
+    <name>Ghadeer</name>
+    <display_name>Ghadeer Kja</display_name>
+
+    <location>Jiddah, Saudi Arabia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13588751-ghadeer-kja]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1439418255p3/13588751.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1439418255p2/13588751.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Mar 03 14:20:34 -0800 2013</created_at>
+  <updated_at>Sun Mar 03 14:20:34 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69238712</id>
+  <body><![CDATA[رواية رائعة لكاتب رائع]]></body>
+  
+  <user>
+    <id>15033028</id>
+    <name>Wejdan</name>
+    <display_name>Wejdan</display_name>
+
+    <location>Tripoli, 61, Libya</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15033028-wejdan]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 06 02:59:43 -0800 2013</created_at>
+  <updated_at>Wed Mar 06 02:59:43 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>71456778</id>
+  <body><![CDATA[such a great book when i read it i couldnt stop i finished it in a day , amazing]]></body>
+  
+  <user>
+    <id>19126001</id>
+    <name>Leen</name>
+    <display_name>Leen</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/19126001-leen]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat Apr 06 01:58:28 -0700 2013</created_at>
+  <updated_at>Sat Apr 06 01:58:28 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>71757185</id>
+  <body><![CDATA[:O English, please!]]></body>
+  
+  <user>
+    <id>16339631</id>
+    <name>Prashant</name>
+    <display_name>Prashant Sinha</display_name>
+
+    <location>Kanpur, 36, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16339631-prashant-sinha]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1410062344p3/16339631.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1410062344p2/16339631.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Apr 10 04:29:33 -0700 2013</created_at>
+  <updated_at>Wed Apr 10 04:29:33 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>75710782</id>
+  <body><![CDATA[رواية أكثر من رائعة تجعلك تلتفت إلى قدراتك و طموحاتك و أحلامك بشكل واقعي، تلفت نظرك إلى لغة الكون والأيمان بالأحساس و الحب]]></body>
+  
+  <user>
+    <id>8371070</id>
+    <name>Suhad</name>
+    <display_name>Suhad Ezzedeen</display_name>
+
+    <location>Jordan</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8371070-suhad-ezzedeen]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 06 17:44:58 -0700 2013</created_at>
+  <updated_at>Thu Jun 06 17:44:58 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>76475475</id>
+  <body><![CDATA[بصراحة هذه الرواية من أفضل ماقرات ، على أني قرأتها من فترة طويلة .<br /><br />مجرد أن يسألني شخص ما (بماذا تنصحينني أن اقرأ ؟ ) يتبادر إلى ذهني رائعة باولو كويلو (الخيميائي) .<br /><br />جميلة ، جميلة جداً .]]></body>
+  
+  <user>
+    <id>20605716</id>
+    <name>Souad</name>
+    <display_name>Souad Khaled</display_name>
+
+    <location>Saudi Arabia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/20605716-souad-khaled]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1369254367p3/20605716.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1369254367p2/20605716.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 17 20:50:34 -0700 2013</created_at>
+  <updated_at>Mon Jun 17 20:50:34 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>79031921</id>
+  <body><![CDATA[والله رائعة هالرواية وتقريبا هي من أول ما قرأت ودائما أنصح اللي يسألوني عن روايات انو يبدأو فيها]]></body>
+  
+  <user>
+    <id>22409849</id>
+    <name>Bushra</name>
+    <display_name>Bushra</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22409849-bushra]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1374458723p3/22409849.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1374458723p2/22409849.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jul 22 19:21:51 -0700 2013</created_at>
+  <updated_at>Mon Jul 22 19:21:51 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>79243851</id>
+  <body><![CDATA[طيب ممكن حد يجط لينكها هنا <br />لاني مش عارفه احملها <br />و شكرا]]></body>
+  
+  <user>
+    <id>17299704</id>
+    <name>Dina</name>
+    <display_name>Dina Magdy</display_name>
+
+    <location>Cairo, 11, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17299704-dina-magdy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1360427067p3/17299704.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1360427067p2/17299704.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 25 13:44:53 -0700 2013</created_at>
+  <updated_at>Thu Jul 25 13:44:53 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>81218622</id>
+  <body><![CDATA[الخيميائي اول رواية اشتريتها ، رواية ممتعه انهيتها في أيام معدودة تمنيت ان تكون نهايتها مختلفه]]></body>
+  
+  <user>
+    <id>23264548</id>
+    <name>J-teo</name>
+    <display_name>J-teo</display_name>
+
+    <location>Riyadh, 10, Saudi Arabia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23264548-j-teo]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1404075084p3/23264548.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1404075084p2/23264548.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 21 05:54:14 -0700 2013</created_at>
+  <updated_at>Wed Aug 21 05:54:14 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>81339992</id>
+  <body><![CDATA[عجزت القى الكتاب في اي مكتبة بقطر والسعودية]]></body>
+  
+  <user>
+    <id>23327747</id>
+    <name>Saleh</name>
+    <display_name>Saleh Al-sayegh</display_name>
+
+    <location>Japan</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23327747-saleh-al-sayegh]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1377222807p3/23327747.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1377222807p2/23327747.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 22 18:27:28 -0700 2013</created_at>
+  <updated_at>Thu Aug 22 18:27:28 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>82184635</id>
+  <body><![CDATA[روايـة مُلهمـة ~ تعلمك كيف تُدقق في كل مآ حولك من خلق وتُسخره بـ طريقة ما لـ خدمة أهدآفك وبلوغ غآياتك :) ~]]></body>
+  
+  <user>
+    <id>11505768</id>
+    <name>Basma</name>
+    <display_name>Basma</display_name>
+
+    <location>Tripoli, 61, Libya</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11505768-basma]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1412209104p3/11505768.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1412209104p2/11505768.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Sep 03 14:55:35 -0700 2013</created_at>
+  <updated_at>Tue Sep 03 14:55:35 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>82184793</id>
+  <body><![CDATA[نسخة إلكترونيـة من هُنا ::~<br /><a target="_blank" href="http://www.mohamedrabeea.com/books/book1_15495.pdf" rel="nofollow">http://www.mohamedrabeea.com/books/bo...</a>]]></body>
+  
+  <user>
+    <id>11505768</id>
+    <name>Basma</name>
+    <display_name>Basma</display_name>
+
+    <location>Tripoli, 61, Libya</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11505768-basma]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1412209104p3/11505768.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1412209104p2/11505768.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Sep 03 14:57:37 -0700 2013</created_at>
+  <updated_at>Tue Sep 03 14:57:37 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>87179733</id>
+  <body><![CDATA[روايه رائعه من ناحية انك تلتفت الى العلامات فكل شيئ في حياتنا لسبب معين نحن نجهله وكل شيئ له دور وعامل لوصولنا الى هدفناااا ولكن علينا استغلال تلك العلامات وتكريسها لخدمتنا و عدم التنحي عن المحاوله لبلوغ اهدافنااا والايمان واليقين بأن كل شيء مقدر ومكتوب فنعيش لحظة الحاضر دون التغكير بالماضي او الخوف من المستقبل فكل شيء "مكتوب "!]]></body>
+  
+  <user>
+    <id>22198703</id>
+    <name>Enasjkh</name>
+    <display_name>Enasjkh</display_name>
+
+    <location><![CDATA[Sharjah, 06, The United Arab Emirates]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22198703-enasjkh]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 20 12:00:12 -0800 2013</created_at>
+  <updated_at>Wed Nov 20 12:00:12 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>87417164</id>
+  <body><![CDATA[wot]]></body>
+  
+  <user>
+    <id>2171340</id>
+    <name>Sean</name>
+    <display_name>Sean</display_name>
+
+    <location>Spring, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2171340-sean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1246652786p3/2171340.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1246652786p2/2171340.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 24 12:46:09 -0800 2013</created_at>
+  <updated_at>Sun Nov 24 12:46:09 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>97493622</id>
+  <body><![CDATA[من أروع الروايات التي قرأتها هذا العام]]></body>
+  
+  <user>
+    <id>19260829</id>
+    <name>Islam</name>
+    <display_name>Islam</display_name>
+
+    <location>Jiddah, 14, Saudi Arabia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/19260829-islam]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1398637514p3/19260829.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1398637514p2/19260829.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Apr 27 15:28:50 -0700 2014</created_at>
+  <updated_at>Sun Apr 27 15:28:50 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>99212737</id>
+  <body><![CDATA[مراجعه رائعه،،]]></body>
+  
+  <user>
+    <id>13827862</id>
+    <name>Rajaie</name>
+    <display_name>Rajaie</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13827862-rajaie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1350835228p3/13827862.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1350835228p2/13827862.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon May 26 23:45:08 -0700 2014</created_at>
+  <updated_at>Mon May 26 23:45:08 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104033787</id>
+  <body><![CDATA[يمكنكم الإستماع له باللغة العربية على اقرأ لي<br /><a target="_blank" href="http://bit.ly/1pvBHGm" rel="nofollow">http://bit.ly/1pvBHGm</a>]]></body>
+  
+  <user>
+    <id>20186963</id>
+    <name>Iqraaly</name>
+    <display_name>Iqraaly اقرألى </display_name>
+
+    <location>Cairo, 11, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/20186963-iqraaly]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1368103854p3/20186963.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1368103854p2/20186963.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 10 12:22:11 -0700 2014</created_at>
+  <updated_at>Sun Aug 10 12:22:11 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>106024583</id>
+  <body><![CDATA[الكيمياء في السابق كان اسمها خيمياء و لان الروايه حدثت في زمن قديم كانو يسافرون فيه بالقوافل صارت الترجمه الخيمياء و هذا يدل على نقطه ذكيه من قبل المترجم لهذا الروايه و اتمني اني اكون قدمت معلومه مفيده تقبلي تحياتي ]]></body>
+  
+  <user>
+    <id>34839533</id>
+    <name>Fatima_majdi</name>
+    <display_name>Fatima_majdi</display_name>
+
+    <location>Bahrain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34839533-fatima-majdi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1410482821p3/34839533.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1410482821p2/34839533.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 12 21:44:08 -0700 2014</created_at>
+  <updated_at>Fri Sep 12 21:44:08 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>130175327</id>
+  <body><![CDATA[<i>Fatima_majdi wrote: "الكيمياء في السابق كان اسمها خيمياء و لان الروايه حدثت في زمن قديم كانو يسافرون فيه بالقوافل صارت الترجمه الخيمياء و هذا يدل على نقطه ذكيه من قبل المترجم لهذا الروايه و اتمني اني اكون قدمت معلومه م..."</i><br /><br /><br />جميل يا فاطمة. جات في بالي فترة بس ما حبيت افتي لأن ماعندي علم. تشكري على المعلومة الجميلة :)]]></body>
+  
+  <user>
+    <id>2123165</id>
+    <name>asma</name>
+    <display_name>asma Qadah</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2123165-asma-qadah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492420436p3/2123165.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492420436p2/2123165.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 11 00:00:26 -0700 2015</created_at>
+  <updated_at>Thu Jun 11 00:00:26 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141010121</id>
+  <body><![CDATA[تعليقك لخص كتيييير فعلا اهم حاجة نسلم امورنا لربنا]]></body>
+  
+  <user>
+    <id>21468297</id>
+    <name>Maram</name>
+    <display_name>Maram Mahmoud</display_name>
+
+    <location>Cairo, 11, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/21468297-maram-mahmoud]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1371672405p3/21468297.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1371672405p2/21468297.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Oct 03 15:59:54 -0700 2015</created_at>
+  <updated_at>Sat Oct 03 15:59:54 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>147006725</id>
+  <body><![CDATA[كنت مترددة ف قراتها ..شكلي بعيد النظر في ذلك ..✌]]></body>
+  
+  <user>
+    <id>49847888</id>
+    <name>NM</name>
+    <display_name>NM</display_name>
+
+    <location>Doha, 01, Qatar</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/49847888-nm]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 02 14:26:36 -0800 2016</created_at>
+  <updated_at>Tue Feb 02 14:26:36 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>150429268</id>
+  <body><![CDATA[♥]]></body>
+  
+  <user>
+    <id>18237855</id>
+    <name>Shaima</name>
+    <display_name>Shaima amir</display_name>
+
+    <location>Sudan</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18237855-shaima-amir]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat Apr 16 15:08:43 -0700 2016</created_at>
+  <updated_at>Sat Apr 16 15:08:43 -0700 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/49383351]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/49383351]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

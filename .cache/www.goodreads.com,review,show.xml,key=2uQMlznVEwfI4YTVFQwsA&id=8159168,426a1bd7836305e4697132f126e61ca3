@@ -1,0 +1,591 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:46:13 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: VJR97CCTKKCE69S61FBK
+etag: W/"fa1174917a4ef8bddbb4106b5009cd24"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.272739
+set-cookie: csid=BAhJIhgxNzAtNTY2MDQ4Mi0xNzA0MDY0BjoGRVQ%3D--ce6e69a9e4df9025e6b1647ea7d74bf0827a5074; path=/; expires=Tue, 12 May 2037 13:46:13 -0000, locale=es; path=/, _session_id2=90067e8b63acfd1fd6a4d26f48bd4786; path=/; expires=Fri, 12 May 2017 19:46:13 -0000; HttpOnly
+content-length: 20829
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=8159168
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>8159168</id>
+    
+  <user>
+    <id>98505</id>
+    <name>Jennifer</name>
+    <display_name>Jennifer</display_name>
+
+    <location>Seattle, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/98505-jennifer]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1217366946p3/98505.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1217366946p2/98505.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">3</id>
+  <isbn>0439554934</isbn>
+  <isbn13>9780439554930</isbn13>
+  <text_reviews_count type="integer">56041</text_reviews_count>
+  <title>Harry Potter and the Sorcerer's Stone (Harry Potter, #1)</title>
+  <title_without_series>Harry Potter and the Sorcerer's Stone</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1474154022m/3.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1474154022s/3.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone</link>
+  <num_pages>320</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Arthur A. Levine Books</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>1997</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.44</average_rating>
+  <ratings_count>4620068</ratings_count>
+  <description>Harry Potter's life is miserable. His parents are dead and he's stuck with his heartless relatives, who force him to live in a tiny closet under the stairs. But his fortune changes when he receives a letter that tells him the truth about himself: he's a wizard. A mysterious visitor rescues him from his relatives and takes him to his new home, Hogwarts School of Witchcraft and Wizardry.&lt;br /&gt;&lt;br /&gt;After a lifetime of bottling up his magical powers, Harry finally feels like a normal kid. But even within the Wizarding community, he is special. He is the boy who lived: the only person to have ever survived a killing curse inflicted by the evil Lord Voldemort, who launched a brutal takeover of the Wizarding world, only to vanish after failing to kill Harry.&lt;br /&gt;&lt;br /&gt;Though Harry's first year at Hogwarts is the best of his life, not everything is perfect. There is a dangerous secret object hidden within the castle walls, and Harry believes it's his responsibility to prevent it from falling into evil hands. But doing so will bring him into contact with forces more terrifying than he ever could have imagined.&lt;br /&gt;&lt;br /&gt;Full of sympathetic characters, wildly imaginative situations, and countless exciting details, the first installment in the series assembles an unforgettable magical world and sets the stage for many high-stakes adventures to come.</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1415945171p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1415945171p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.42</average_rating>
+<ratings_count>17716685</ratings_count>
+<text_reviews_count>439511</text_reviews_count>
+</author>
+</authors>
+  <published>1997</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1237870181</id>
+          <old_status></old_status>
+          <status>to-read</status>
+          <updated_at type="datetime">Sun Feb 14 22:21:29 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>0</rating>
+  <votes>272</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf name="to-read" exclusive="true" review_shelf_id="2885562" sortable="true" />
+    <shelf name="fiction-is-fun" exclusive="false" review_shelf_id="2885564" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Oct 23 19:39:30 -0700 2007</date_added>
+  <date_updated>Tue Oct 23 19:41:18 -0700 2007</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Yes, I've been living under a rock.]]>
+  </body>
+
+  
+
+  <comments_count>20</comments_count>
+    <comments start="1" end="20" total="20">
+        <comment>
+  <id>200118</id>
+  <body><![CDATA[no problem, Jennifer...i didn't start reading #1 until 2-3 weeks before #7 came out. you will LOVE this series!]]></body>
+  
+  <user>
+    <id>320018</id>
+    <name>Tracey</name>
+    <display_name>Tracey</display_name>
+
+    <location>Kansas City, MO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/320018-tracey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1392554506p3/320018.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1392554506p2/320018.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 30 06:09:35 -0700 2007</created_at>
+  <updated_at>Tue Oct 30 06:09:35 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>245973</id>
+  <body><![CDATA[Um me too - I finally just read the first one. It was only published 10 years ago...]]></body>
+  
+  <user>
+    <id>99102</id>
+    <name>Amy</name>
+    <display_name>Amy Buringrud</display_name>
+
+    <location>Portland, OR</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/99102-amy-buringrud]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1180230292p3/99102.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1180230292p2/99102.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Nov 29 22:31:07 -0800 2007</created_at>
+  <updated_at>Thu Nov 29 22:31:07 -0800 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>4433366</id>
+  <body><![CDATA[Ahahaha that was fun! ^^]]></body>
+  
+  <user>
+    <id>2046576</id>
+    <name>Carol</name>
+    <display_name>Carol</display_name>
+
+    <location>São Paulo, SP, Brazil</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2046576-carol]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1491356829p3/2046576.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1491356829p2/2046576.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Mar 09 11:09:16 -0700 2009</created_at>
+  <updated_at>Mon Mar 09 11:09:16 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>6742558</id>
+  <body><![CDATA[I know what you mean. I just finished the 1st book, and I'm trying to read the rest before The Half-Blood Prince comes out in the movie theaters! :-)]]></body>
+  
+  <user>
+    <id>2162384</id>
+    <name>Townsend</name>
+    <display_name>Townsend</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2162384-townsend]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Jun 21 19:13:02 -0700 2009</created_at>
+  <updated_at>Sun Jun 21 19:13:02 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>17101541</id>
+  <body><![CDATA[I didn't start reading Harry Potter until the half-blood prince came out, which was in fifth grade, about three years after my friends did.]]></body>
+  
+  <user>
+    <id>3792488</id>
+    <name>Lia</name>
+    <display_name>Lia T.</display_name>
+
+    <location>Painesville, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3792488-lia-t]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1290802649p3/3792488.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1290802649p2/3792488.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri May 28 13:08:26 -0700 2010</created_at>
+  <updated_at>Fri May 28 13:08:26 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>18823053</id>
+  <body><![CDATA[Lol it's ok I still haven't read it but I plan to :)]]></body>
+  
+  <user>
+    <id>3389940</id>
+    <name>Caitlin</name>
+    <display_name>Caitlin</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3389940-caitlin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1279717041p3/3389940.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1279717041p2/3389940.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 16 14:11:12 -0700 2010</created_at>
+  <updated_at>Fri Jul 16 14:11:12 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>25679488</id>
+  <body><![CDATA[Don't worry, you're not alone. I didn't start the series until 3 years after Deathly Hallows came out.]]></body>
+  
+  <user>
+    <id>3244279</id>
+    <name>Daria</name>
+    <display_name>Daria</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3244279-daria]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1393822167p3/3244279.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1393822167p2/3244279.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 25 19:14:48 -0800 2011</created_at>
+  <updated_at>Tue Jan 25 19:14:48 -0800 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>30494511</id>
+  <body><![CDATA[I Start in june :)]]></body>
+  
+  <user>
+    <id>697220</id>
+    <name>Djelicka</name>
+    <display_name>Djelicka</display_name>
+
+    <location>France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/697220-djelicka]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1396123199p3/697220.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1396123199p2/697220.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 15 18:48:40 -0700 2011</created_at>
+  <updated_at>Sun May 15 18:48:40 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>34212144</id>
+  <body><![CDATA[I read it in spanish just for language practice. I've only read one book out of the series and I have yet to see the movies. My rock is quite comfortable thanks.]]></body>
+  
+  <user>
+    <id>5735172</id>
+    <name>Moys</name>
+    <display_name>Moys</display_name>
+
+    <location>Seoul, 11, Korea, Republic of</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5735172-moys]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 26 21:52:41 -0700 2011</created_at>
+  <updated_at>Tue Jul 26 21:52:41 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>46906885</id>
+  <body><![CDATA[I'm barely starting it now!! &lt;3]]></body>
+  
+  <user>
+    <id>7336088</id>
+    <name> Ruth Noemi</name>
+    <display_name> Ruth Noemi Rojas</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7336088-ruth-noemi-rojas]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1470620483p3/7336088.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1470620483p2/7336088.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 13 14:20:02 -0700 2012</created_at>
+  <updated_at>Tue Mar 13 14:20:02 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47552424</id>
+  <body><![CDATA[haha this was written on my birthday. yes im a hp fan. ohmygosh its been 4 years you must have read it now<br /><br />*silently waits hoping i wont have to avada kedavra you ;)*]]></body>
+  
+  <user>
+    <id>8224679</id>
+    <name>Dee</name>
+    <display_name>Dee</display_name>
+
+    <location>Hogwarts, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8224679-dee]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1334137063p3/8224679.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1334137063p2/8224679.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Mar 24 12:52:58 -0700 2012</created_at>
+  <updated_at>Sat Mar 24 12:52:58 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>82331520</id>
+  <body><![CDATA[haha me too]]></body>
+  
+  <user>
+    <id>23340842</id>
+    <name>Ian</name>
+    <display_name>Ian J.</display_name>
+
+    <location>Lake Ozark, MO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23340842-ian-j]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu Sep 05 17:46:49 -0700 2013</created_at>
+  <updated_at>Thu Sep 05 17:46:49 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>103638934</id>
+  <body><![CDATA[I read it only this year, just because I discovered I had it at home and it didn't make me hungry for the next parts at all, so I won't read them until they choose to jump into my hands like this one, whatever every one who has ever heard I've never read the series screams at me! I've learned to live with it, as probably you have:P]]></body>
+  
+  <user>
+    <id>17300671</id>
+    <name>Agata</name>
+    <display_name>Agata Poddebska</display_name>
+
+    <location>Kedzierzyn-kozle, 79, Poland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17300671-agata-poddebska]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1360429120p3/17300671.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1360429120p2/17300671.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 04 11:02:16 -0700 2014</created_at>
+  <updated_at>Mon Aug 04 11:02:16 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>112028444</id>
+  <body><![CDATA[I finally showed up at the Harry Potter party too! Jan. 2015. On now to the Chamber of Secrets...]]></body>
+  
+  <user>
+    <id>5709995</id>
+    <name>Mary</name>
+    <display_name>Mary</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5709995-mary]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1313704960p3/5709995.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1313704960p2/5709995.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 02 16:28:41 -0800 2015</created_at>
+  <updated_at>Fri Jan 02 16:28:41 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>112367474</id>
+  <body><![CDATA[Great Book!]]></body>
+  
+  <user>
+    <id>38890039</id>
+    <name>Justice</name>
+    <display_name>Justice Contreras</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/38890039-justice-contreras]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 07 13:36:28 -0800 2015</created_at>
+  <updated_at>Wed Jan 07 13:36:28 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>115790734</id>
+  <body><![CDATA[Ha! Me too! Just started it, not a fan of magic and fantasy but I decided to bite the bullet and see what all the hype is about.]]></body>
+  
+  <user>
+    <id>12120075</id>
+    <name>Pamela</name>
+    <display_name>Pamela Mikita</display_name>
+
+    <location>Simi Valley, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12120075-pamela-mikita]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1471018575p3/12120075.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1471018575p2/12120075.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Mar 07 19:28:22 -0800 2015</created_at>
+  <updated_at>Sat Mar 07 19:28:22 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>118281729</id>
+  <body><![CDATA[Hehe, same.]]></body>
+  
+  <user>
+    <id>42211987</id>
+    <name>Sophia</name>
+    <display_name>Sophia</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/42211987-sophia]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1430170807p3/42211987.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1430170807p2/42211987.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Apr 25 12:21:19 -0700 2015</created_at>
+  <updated_at>Sat Apr 25 12:21:19 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>139750442</id>
+  <body><![CDATA[I wasn't much of a reader when I was younger so I didn't read the books. I listened to the audiobooks of all seven volumes earlier this year and I have just started reading them. It's never too late!]]></body>
+  
+  <user>
+    <id>20693627</id>
+    <name>Gaëlle</name>
+    <display_name>Gaëlle</display_name>
+
+    <location>Paris, France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/20693627-ga-lle]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat Sep 05 06:00:49 -0700 2015</created_at>
+  <updated_at>Sat Sep 05 06:00:49 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>152648124</id>
+  <body><![CDATA[well, get out you muggle and start reading Harry potter]]></body>
+  
+  <user>
+    <id>56548626</id>
+    <name>Tintin</name>
+    <display_name>Tintin</display_name>
+
+    <location>Gurgaon, 10, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/56548626-tintin]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 06 22:37:32 -0700 2016</created_at>
+  <updated_at>Mon Jun 06 22:37:32 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155881581</id>
+  <body><![CDATA[Never too late :) It's a beautiful world to discover!]]></body>
+  
+  <user>
+    <id>58080592</id>
+    <name>Mihaela</name>
+    <display_name>Mihaela Sacară</display_name>
+
+    <location>Bonn, 07, Germany</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/58080592-mihaela-sacar]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1469533415p3/58080592.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1469533415p2/58080592.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 23 01:33:03 -0700 2016</created_at>
+  <updated_at>Tue Aug 23 01:33:03 -0700 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/8159168]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/8159168]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

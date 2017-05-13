@@ -1,0 +1,1290 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:54:11 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: 4DHNQES93ZHZRW8VBEGX
+etag: W/"4fff2b84c750971845960e17618a4874"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.782352
+set-cookie: csid=BAhJIhgyNTYtODc4NTc3Ni0yNjc5MDIzBjoGRVQ%3D--1965a36855b8951be216b92f8698804eea66719d; path=/; expires=Tue, 12 May 2037 13:54:10 -0000, locale=es; path=/, _session_id2=aaaf9c9517e2ca872d2ad9fa82f732a5; path=/; expires=Fri, 12 May 2017 19:54:11 -0000; HttpOnly
+content-length: 130481
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=128058276
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>128058276</id>
+    
+  <user>
+    <id>2187043</id>
+    <name>Mike (the Paladin)</name>
+    <display_name>Mike (the Paladin)</display_name>
+
+    <location>Hermitage, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2187043-mike-the-paladin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492739003p3/2187043.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492739003p2/2187043.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">7265901</id>
+  <isbn>0545101425</isbn>
+  <isbn13>9780545101424</isbn13>
+  <text_reviews_count type="integer">313</text_reviews_count>
+  <title>Mockingjay (The Hunger Games, #3)</title>
+  <title_without_series>Mockingjay</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7265901-mockingjay</link>
+  <num_pages>448</num_pages>
+  <format>Audio CD</format>
+  <edition_information>Unabridged</edition_information>
+  <publisher>Scholastic Audio Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.03</average_rating>
+  <ratings_count>1836765</ratings_count>
+  <description>The greatly anticipated final book in the New York Times bestselling Hunger Games trilogy by Suzanne Collins.&lt;br /&gt;&lt;br /&gt;Format: 9 CDs, Unabridged&lt;br /&gt;Narrator: Carolyn McCormick&lt;br /&gt;&lt;br /&gt;The Capitol is angry. The Capitol wants revenge. &lt;br /&gt;&lt;br /&gt;Who do they think should pay for the unrest?&lt;br /&gt;&lt;br /&gt;Katniss Everdeen.&lt;br /&gt;&lt;br /&gt;The final book in The Hunger Games trilogy by Suzanne Collins will have hearts racing, pages turning, and everyone talking about one of the biggest and most talked-about books and authors in recent publishing history!!!!</description>
+<authors>
+<author>
+<id>153394</id>
+<name>Suzanne Collins</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1394819770p5/153394.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1394819770p2/153394.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/153394.Suzanne_Collins]]></link>
+<average_rating>4.27</average_rating>
+<ratings_count>8961004</ratings_count>
+<text_reviews_count>356107</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">762141048</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Wed Feb 18 14:24:11 -0800 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">751002728</id>
+          <old_status>read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Mon Feb 09 16:49:44 -0800 2015</updated_at>
+          <ratings_count>2</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>3</rating>
+  <votes>211</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="fantasy" exclusive="false" review_shelf_id="82169773" sortable="false" />
+    <shelf name="rereading" exclusive="false" review_shelf_id="908601880" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Oct 26 00:00:00 -0700 2010</started_at>
+  <read_at></read_at>
+  <date_added>Tue Oct 26 18:17:44 -0700 2010</date_added>
+  <date_updated>Wed Feb 18 14:24:18 -0800 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Below is my original review. I'm leaving it as it's still essentially how I feel still. I have however decided that the overall story of the book rates a higher rating than I originally gave (you'll see below). The biggest problem for me was that Katniss seemed to grow some throughout the first a...]]>
+  </body>
+
+  
+
+  <comments_count>83</comments_count>
+    <comments start="1" end="50" total="83">
+        <comment>
+  <id>32148011</id>
+  <body><![CDATA[I totally agree with your point about war :). I was disappointed with a lot of the ending too, though I did like who Katniss ended up with.]]></body>
+  
+  <user>
+    <id>5585959</id>
+    <name>Krissy</name>
+    <display_name>Krissy Larosa</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5585959-krissy-larosa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1432528759p3/5585959.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1432528759p2/5585959.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jun 18 16:08:05 -0700 2011</created_at>
+  <updated_at>Sat Jun 18 16:08:05 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>32217009</id>
+  <body><![CDATA[Mockinjay has been languishing on my bedside table for months. Now I HAVE to put it to the top of the pile and compare impressions!]]></body>
+  
+  <user>
+    <id>2906277</id>
+    <name>Laura (Kyahgirl)</name>
+    <display_name>Laura (Kyahgirl)</display_name>
+
+    <location>Edmonton, Alberta, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2906277-laura-kyahgirl]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1368911167p3/2906277.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1368911167p2/2906277.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 20 06:01:57 -0700 2011</created_at>
+  <updated_at>Mon Jun 20 06:01:57 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>32221151</id>
+  <body><![CDATA[I liked the first 2 volumes (1 better than 2) but was very disappointed in how this one went. Maybe you'll like it better than I...good luck. LOL]]></body>
+  
+  <user>
+    <id>2187043</id>
+    <name>Mike (the Paladin)</name>
+    <display_name>Mike (the Paladin)</display_name>
+
+    <location>Hermitage, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2187043-mike-the-paladin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492739003p3/2187043.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492739003p2/2187043.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 20 08:13:05 -0700 2011</created_at>
+  <updated_at>Mon Jun 20 08:13:05 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>32222883</id>
+  <body><![CDATA[I did what you suggested and asked my daughter what she thought (she is 12). Nicole read this book a few months ago and never really said much whereas normally she is bubbling over to tell me about a book she likes. <br /><br />Her rather pithy review was:<br /><br />Well Mom, it was kind of hard to figure out what was going on.Katniss hung out and whined a lot...in a place I can't tell you about because you haven't read it yet....and she wore makeup and dressed up as a Mockinjay to inspire people...and it was, yeah, kind of boring. <br /><br />I'm laughing now just writing it because that's exactly how she talks. Now I'll go read it. I'm curious.]]></body>
+  
+  <user>
+    <id>2906277</id>
+    <name>Laura (Kyahgirl)</name>
+    <display_name>Laura (Kyahgirl)</display_name>
+
+    <location>Edmonton, Alberta, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2906277-laura-kyahgirl]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1368911167p3/2906277.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1368911167p2/2906277.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 20 08:49:08 -0700 2011</created_at>
+  <updated_at>Mon Jun 20 08:49:08 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>32223129</id>
+  <body><![CDATA["From the mouths of babes"...though don't show her this. A twelve year old would take umbrage at the word "babe"...she's obviously a "young adult". I remember when my daughter (and son) were 12. LOL]]></body>
+  
+  <user>
+    <id>2187043</id>
+    <name>Mike (the Paladin)</name>
+    <display_name>Mike (the Paladin)</display_name>
+
+    <location>Hermitage, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2187043-mike-the-paladin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492739003p3/2187043.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492739003p2/2187043.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 20 08:54:15 -0700 2011</created_at>
+  <updated_at>Mon Jun 20 08:54:15 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>36035227</id>
+  <body><![CDATA[Agreed. It made me feel like I wasted my time reading all three books. Unsatisfied is a good description.]]></body>
+  
+  <user>
+    <id>5563069</id>
+    <name>Charity</name>
+    <display_name>Charity</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5563069-charity]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486090291p3/5563069.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486090291p2/5563069.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 29 08:12:19 -0700 2011</created_at>
+  <updated_at>Mon Aug 29 08:12:19 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>37499635</id>
+  <body><![CDATA[I agree with your review. Book 3 ruined the entire trilogy. I was looking forward to the movies, but now I could care less. Suzanne Collins went out of her way to destroy every hero in this book, and to make us hate them all. I guess she was trying to be realistic. But for us who read fantasy and sci fi, we want our heroes to succeed and change the world. Not to mention the book was horribly written. I was bored most of the time.]]></body>
+  
+  <user>
+    <id>2409474</id>
+    <name>Smonsen</name>
+    <display_name>Smonsen</display_name>
+
+    <location>Layton, UT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2409474-smonsen]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Sep 26 16:39:00 -0700 2011</created_at>
+  <updated_at>Mon Sep 26 16:39:00 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>40672387</id>
+  <body><![CDATA[I agree with your review, loved the first book, read it in one night, the second book was still good but not as good. I am so frustrated having recently finished this series with the end. I need a place to rant! I hated Katniss by the end. I said this in my own review, she was brash, clueless and selfish but never showed any growth!! I get she was a bit clueless to people's true intentions/emotions because she was poorly socialized but as some point she should get better at it. She is the same person in the end as the beginning. She also would've prefered to still be hunting the woods under the Capitol in District 12. She so felt she had it the worst and yet for example Peeta went to the Hunger Games twice, was tortured and brainwashed and had his entire family die and the district he lived in destroyed too but selfish Katniss was cold and indifferent to him. Also it turned out all of the former victors families were pretty much killed off.<br /><br />She was also ungrateful. Mags who was like family to Finnick literally laid down and died for her because she represented hope! Then is rescued from the hunger games, never a thank you, and yet she seems to immediately despise all the rebels. Okay, Coin is a bad and shifty character but Beetee, Gale and everyone else seemed to understand why it was necessary to fight. I get the anti-war sentiment but at some point, the bombing of your district and the cruelty of the Hunger Games and your irrational guilt of the people's deaths should make you grow a backbone. But no instead all of this was channeled into a personal vendetta against Snow and not into the possibility of hope of a new better soceity with the rebels. I am a pacifist but unfortunately war sometimes is the answer, um WWII, and here, war was definitely the answer here. How limited a brain does Katniss have?<br /><br />I should preface my next complaint with other than few instances where a hero is dragged out of Katniss, I felt like she was overall a disappointment and never rose to the occasion. This made me really hate her for the last third of the book. Really? I mean really? Katniss the one man reluctant army is going to storm the pod-laden Capitol and just wander her way up to Snow and kill him. Murderous vengeance from someone who tries to always abstain from killing. Seriously? How moronic can you be and then you drag others in to it with you and get Finnick killed off with just one passing sentence. Did I mention, the war literally ended the next day and she got her chance to kill Snow anyway? This is the one time where she took action and it was on an exercise in stupidity. Katniss, always distracted by those damn trees and never able to see the whole forest.<br /><br />I would have expected someone who took care of her family from age 11 to be a little stronger and more mature. I also would expect someone who hated her mother so much for her emotional weakness would find more strength having seen what a burden an emotional wreck of a person can be. Johanna Mason quips to Katniss that she can't be the Mockingjay because nobody likes her and I realized that Mason and Katniss are the same person. The only reason anyone likes Katniss really is because as stated in book one, Peeta made her likable. <br /><br />Also Prim's death to me was just shock value because we never got to know her and so the only loss I felt was for Katniss. It's a shame because the few times Prim did pop up, I liked her better.]]></body>
+  
+  <user>
+    <id>7034544</id>
+    <name>Angie</name>
+    <display_name>Angie</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7034544-angie]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 28 01:28:00 -0800 2011</created_at>
+  <updated_at>Mon Nov 28 01:28:00 -0800 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>40679320</id>
+  <body><![CDATA[I see you were greatly disappointed in the book (as I was). I suppose the fact that we liked the first volume so much and saw such promise made it worse. <br /><br />I wondered (several times) where Ms. Collins was going, especially with Katniss. At the end of the second book I thought she was going to go the "slow growth with an epiphany" route. Katniss had seemed so clueless but was (I thought) shown to be slowly coming out of it by the end of the second volume. BUT by the third book she'd relapsed. I agree with you she was a disappointing character and so was the last book. There was a lot that seemed pointless (you mentioned how Prim was handled). Sadly I thought/think that the story "became" badly one dimensional.<br /><br />My opinion of course, for you who love the book. I just can't join you in that. I thought it could have been an excellent series, but don't care for the way it closed.]]></body>
+  
+  <user>
+    <id>2187043</id>
+    <name>Mike (the Paladin)</name>
+    <display_name>Mike (the Paladin)</display_name>
+
+    <location>Hermitage, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2187043-mike-the-paladin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492739003p3/2187043.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492739003p2/2187043.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 28 07:15:31 -0800 2011</created_at>
+  <updated_at>Mon Nov 28 07:15:31 -0800 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>40704328</id>
+  <body><![CDATA[I was being driven nuts by reading all this praise for the series and Katniss, I think, I mean I know I was going mad. Thank you for letting me rant, who knows how much I owe you for the therapy sessions you saved me. Didn't realize how long my post was. I think my mental state would've fared better if I hadn't loved the first book so much. I was ok with second book since it's what I considered a linking episode - my name for tv episodes of the sort - it has to believably move the story line forward - here getting from hunger hames to revolution which isn't a small leap and was done well enough. I agree the third book made a lot pointless, maybe even the whole series. I wouldn't even have finished it if the first book hadn't made me so curious in how it was going to end. I am not sure what Collins was trying to get at since no larger idea or moral was deftly presented - minor ones pop up like anti-war as mentioned and anti-superficiality. That could be forgiven if instead it was a great story but it ended confusing and muddled and basically where it began. Sigh...<br /><br />Katniss, I agree with expecting the slow growth to epiphany aspect. As the third book progressed, her personality flaws went in the wrong direction. The first book, I really liked Katniss even saw a lot of my early teen self in her, quiet, somewhat oblivious, and non-gossipy. You mentioned how Peeta ang Gale talked about her ending up with the one she needed to survive - I also liked Peeta calling her a piece of work and when Gale basically told her she was clueless. Something has gone wrong when well, at least I was enjoying the love interests lampooning the main character. I have to stop now, or else I'll never be able to repay my therapy debt. Breathe, it'll all be ok, breathe, slowly in.... slowly out....]]></body>
+  
+  <user>
+    <id>7034544</id>
+    <name>Angie</name>
+    <display_name>Angie</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7034544-angie]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 28 16:24:49 -0800 2011</created_at>
+  <updated_at>Mon Nov 28 16:24:49 -0800 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>40704642</id>
+  <body><![CDATA[LOL. :)]]></body>
+  
+  <user>
+    <id>2187043</id>
+    <name>Mike (the Paladin)</name>
+    <display_name>Mike (the Paladin)</display_name>
+
+    <location>Hermitage, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2187043-mike-the-paladin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492739003p3/2187043.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492739003p2/2187043.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 28 16:30:10 -0800 2011</created_at>
+  <updated_at>Mon Nov 28 16:30:10 -0800 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>41776700</id>
+  <body><![CDATA[Just finished this book last night and I can certainly see many of the flaws you point out in Katniss' character, though they didn't sink the book for me. But she sure turned into a really unlikeable b**ch by the end of that book, didn't she? Still, I liked the whole arc and the future setting, etc., enough that the trilogy as a whole will stand up among the better books I've read.]]></body>
+  
+  <user>
+    <id>649244</id>
+    <name>Craig</name>
+    <display_name>Craig</display_name>
+
+    <location>Osseo, MN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/649244-craig]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1321367086p3/649244.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1321367086p2/649244.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Dec 18 07:58:34 -0800 2011</created_at>
+  <updated_at>Sun Dec 18 07:58:34 -0800 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>41791714</id>
+  <body><![CDATA[It's a matter of taste in the end, sort of "to each their own".]]></body>
+  
+  <user>
+    <id>2187043</id>
+    <name>Mike (the Paladin)</name>
+    <display_name>Mike (the Paladin)</display_name>
+
+    <location>Hermitage, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2187043-mike-the-paladin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492739003p3/2187043.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492739003p2/2187043.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Dec 18 13:10:38 -0800 2011</created_at>
+  <updated_at>Sun Dec 18 13:10:38 -0800 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>41798264</id>
+  <body><![CDATA[Oh, yeah, I totally agree...I didn't mean to suggest that your opinion wasn't worthwhile or anything...]]></body>
+  
+  <user>
+    <id>649244</id>
+    <name>Craig</name>
+    <display_name>Craig</display_name>
+
+    <location>Osseo, MN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/649244-craig]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1321367086p3/649244.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1321367086p2/649244.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Dec 18 14:59:13 -0800 2011</created_at>
+  <updated_at>Sun Dec 18 14:59:13 -0800 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>42805931</id>
+  <body><![CDATA[I try to block of the memories of the second and third book and just force myself to think that the first one was the only one. :3<br />I also didn't get the point of getting Prim killed through a bombing that Coin ordered on their own people..? Whaaaat.]]></body>
+  
+  <user>
+    <id>7335198</id>
+    <name>Amelie</name>
+    <display_name>Amelie Park</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7335198-amelie-park]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1325710554p3/7335198.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1325710554p2/7335198.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 04 13:50:24 -0800 2012</created_at>
+  <updated_at>Wed Jan 04 13:50:24 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>42910142</id>
+  <body><![CDATA[<i>Craig wrote: "Just finished this book last night and I can certainly see many of the flaws you point out in Katniss' character, though they didn't sink the book for me. But she sure turned into a really unlikeab..."</i><br /><br />I have a hard time accepting the series because it had no larger moral. You set up a semi-orwellian world with a death gauntlet played by children and you thinked their would be a deeper message. Since it is geared towards teens, I would have settled for a coming of age story but sadly Katniss... oh Katniss...]]></body>
+  
+  <user>
+    <id>7034544</id>
+    <name>Angie</name>
+    <display_name>Angie</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7034544-angie]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 06 07:36:30 -0800 2012</created_at>
+  <updated_at>Fri Jan 06 07:36:30 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>42910521</id>
+  <body><![CDATA[Sorry Mike, I don't mean to be hijacking your thread. I get notified when people respond!<br /><br /><i>Amelie wrote: "I try to block of the memories of the second and third book and just force myself to think that the first one was the only one. :3<br />I also didn't get the point of getting Prim killed through a bombi..."</i><br /><br />Prim pops up randomly, you really want to get to know her better. Then gets blown up. Her character came to naught. The only reason I can think of to why she gets blown up by Coin is it drives the final wedge between Katniss and Gale. Just thought of second reason, it pushes Katniss to finally make a right decision and kill Coin and not Snow. The end of Prim dying and Katniss killing Coin I think were for pure shock value so you are overwhelmed and get deluded into thinking the book was awesome.]]></body>
+  
+  <user>
+    <id>7034544</id>
+    <name>Angie</name>
+    <display_name>Angie</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7034544-angie]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 06 07:45:58 -0800 2012</created_at>
+  <updated_at>Fri Jan 06 07:45:58 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>42917318</id>
+  <body><![CDATA[No big deal, conversation is good wherever it gets started. Enjoy.]]></body>
+  
+  <user>
+    <id>2187043</id>
+    <name>Mike (the Paladin)</name>
+    <display_name>Mike (the Paladin)</display_name>
+
+    <location>Hermitage, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2187043-mike-the-paladin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492739003p3/2187043.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492739003p2/2187043.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 06 11:55:24 -0800 2012</created_at>
+  <updated_at>Fri Jan 06 11:55:24 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>42917426</id>
+  <body><![CDATA[I wonder about what was going through Ms. Collins' mind also. I sometimes thought she let the story get away from her. Katniss never seemed to mature. In the end she seemed to me to be the same as when things started, never having moved beyond a sort of childish "everything revolves around me" point of view.]]></body>
+  
+  <user>
+    <id>2187043</id>
+    <name>Mike (the Paladin)</name>
+    <display_name>Mike (the Paladin)</display_name>
+
+    <location>Hermitage, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2187043-mike-the-paladin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492739003p3/2187043.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492739003p2/2187043.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 06 11:57:53 -0800 2012</created_at>
+  <updated_at>Fri Jan 06 11:57:53 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>42917576</id>
+  <body><![CDATA[<i>Mike (the Paladin) wrote: "I wonder about what was going through Ms. Collins' mind also. I sometimes thought she let the story get away from her. Katniss never seemed to mature. In the end she seemed to me to be the same as ..."</i><br /><br />Yes, I have to agree with that as well. My brother read her other series too and he said that Collins didn't seem to be very good with endings.]]></body>
+  
+  <user>
+    <id>7335198</id>
+    <name>Amelie</name>
+    <display_name>Amelie Park</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7335198-amelie-park]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1325710554p3/7335198.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1325710554p2/7335198.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 06 12:01:14 -0800 2012</created_at>
+  <updated_at>Fri Jan 06 12:01:14 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>43475597</id>
+  <body><![CDATA[I feel the need to write this because I wrote there was no larger moral message yet Collins bludgeoned us with an anti-war, anti-violence one. IMO, there was no coherent moral message. She set up a choice of war or enslavement and then stood on an anti-war message, which as Mike said is self righteous - and I am a total dove. Collins is telling me war is bad and as a reader, I wanted to fight. Would've been more coherent if it were a war is bad but sometimes there is no other choice. WWII anybody? Even the anti-violence, we got to see the world through Katniss who rarely thought of anyone or anything outside of herself, so I became indifferent. Prim burst into flames and my reaction was ok, so Prim died. Collins didn't affect me the way she was trying to. Collins father was a Vietnam vet and I think that was part of the problem, the damaging effects of war long after it is over was just too personal for her and she couldn't navigate the subject without being too heavy handed in the message she wanted to convey. <br /><br />These books have been put on the front burner again as my friend just finished reading them and needed to chat (but she loved them). Been thinking about the first book again and am seeing so many holes!]]></body>
+  
+  <user>
+    <id>7034544</id>
+    <name>Angie</name>
+    <display_name>Angie</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7034544-angie]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 15 14:36:17 -0800 2012</created_at>
+  <updated_at>Sun Jan 15 14:36:17 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>43918238</id>
+  <body><![CDATA[So glad to see someone who felt the same way I did about the two sequels. I had the same exact thoughts about the extreme self-absorption of Katniss. Collins should have quit after the first book.]]></body>
+  
+  <user>
+    <id>78258</id>
+    <name>eden</name>
+    <display_name>eden</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/78258-eden]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1422265542p3/78258.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1422265542p2/78258.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 22 12:44:36 -0800 2012</created_at>
+  <updated_at>Sun Jan 22 12:44:36 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>43920329</id>
+  <body><![CDATA[Sadly.]]></body>
+  
+  <user>
+    <id>2187043</id>
+    <name>Mike (the Paladin)</name>
+    <display_name>Mike (the Paladin)</display_name>
+
+    <location>Hermitage, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2187043-mike-the-paladin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492739003p3/2187043.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492739003p2/2187043.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 22 13:10:21 -0800 2012</created_at>
+  <updated_at>Sun Jan 22 13:10:21 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>43930524</id>
+  <body><![CDATA[I couldn't agree more. That last book left a bad taste in my literal mouth. I felt like the author was just throwing something together, because she couldn't think of anything else. The self-absorption of Katniss drove me nuts. The oppression had gone on for quite a long time and to think she deserved to never suffer as others was indeed selfish. She did not seem to grow at all in the 3rd novel. I was thinking of kicking the last book, but I loved the first two; so it sits on the shelf to remind me that not all series are created equal. :O]]></body>
+  
+  <user>
+    <id>6130276</id>
+    <name>Alondra</name>
+    <display_name>Alondra</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6130276-alondra]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480109135p3/6130276.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480109135p2/6130276.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 22 15:27:38 -0800 2012</created_at>
+  <updated_at>Sun Jan 22 15:27:38 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>44037047</id>
+  <body><![CDATA[I actually loved the third book, and would be very happy to speak with you at length at why I enjoyed it.<br /><br />I didnt "like" Katniss as a person, but I loved her character development. She wasn't a good person, she wasn't a bad person either. I felt that she was a very real character.<br /><br />First of all you have to remember that she is 15ish year old girl. 15 year old girls always think the world is centered around them, I've spent some time in Haiti and the Dominican, and even when these kids are practically adults foraging for their families, they still go through an emotion cycle at this age, where their brain has developed to a point to only question things from their point of view. Kids in other countries may be more grateful for what they are given, but in the end, they are still kids/young adults.<br /><br />Second, I served in the Army for 8 years, and currently live near Fort Bragg. This isn't something the gen-pub wants to hear, but Katniss displayed very obvious signs of both survivors guilt AND post-traumatic stress disorder. I know that those are "buzz words" in the media today, but they are very real conditions. I think her looking around her District and saying "I did this" is a very human response. Yes, ultimately, the oppressors brought it on themselves, and she will probably sort that out someday, but asking her to look at that situation completely detached as it is happening (unlike a reader, reflecting) is simply ridiculous.<br /><br />Perhaps the overt anti-war theme did become a bit too strong, however, obviousness runs even in good young adult fiction (see: The Golden Compass, The Giver). A good young adult novel will become a 14 year old question things, this is healthy. It should elevate the dialogue of discussion without being too much, and without talking down to them. I still think that Mockingjay accomplishes this. <br /><br />More importantly I urge you to read/reflec on this book in the context of a different overall theme: youth dealing with immediate violence. Its great that we live in America/Britain/Canada/other first world country where kidnapping, press-ganging into militias, and the threat of rape and pillaging are not CONSTANT threats as they are in Somalia, Cambodia, Laos, etc. We are very, very lucky. The majority of the world isn't. Perhaps, again, it is the oppressors fault, but its the young that has to deal with it anyways. See what that kind of constant threat and fear does to a person over a short time, and then imagine knowing nothing but that for your whole life.<br /><br />I applaud that she was self-absorbed, because thats how people are, even in the worst of situations. She was young. She was a realistic protagonist/antihero/whatever you want. Especially since here she is, just this kid that was forced into a terrible sitation, being bandied about by the most important people currently in that civilization. They keep making her important, and so she is, and she feels all the weight of this coming down on her, because thats how people keep telling her it is. She probably came to deal with all of the things you hated, AFTER, the novels ended. <br /><br /><br />Oh, and only in America do we seem to always glorify rebels. Not all rebels are good, even if they are opposing a dictatorial society. But, thats a different subject I could argue.<br /><br />In closing, I would recommend another book to read, though it certainly isnt geared towards children. I would recommend both <a href="https://www.goodreads.com/book/show/78127.On_Killing_The_Psychological_Cost_of_Learning_to_Kill_in_War_and_Society" title="On Killing The Psychological Cost of Learning to Kill in War and Society by Dave Grossman" rel="nofollow">On Killing: The Psychological Cost of Learning to Kill in War and Society</a> and <a href="https://www.goodreads.com/book/show/88431.On_Combat_The_Psychology_and_Physiology_of_Deadly_Conflict_in_War_and_in_Peace" title="On Combat The Psychology and Physiology of Deadly Conflict in War and in Peace by Dave Grossman" rel="nofollow">On Combat: The Psychology and Physiology of Deadly Conflict in War and in Peace</a> by Lt. Col. Grossman. They will certainly add a much more realistic and in depth look to violence and combat.<br /><br />Perhaps its because I was a soldier, but I haven't met another soldier that didn't like Katniss. She deals with things that we all want to say, but are too afraid, because we don't want to look bad. And thats how the story goes. No one in combat is a knight in shining armor with the highest of virtues, no matter who you are fighting, with what weapons, or when.]]></body>
+  
+  <user>
+    <id>6316460</id>
+    <name>Becky</name>
+    <display_name>Becky</display_name>
+
+    <location>Omaha, NE</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6316460-becky]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1481044391p3/6316460.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1481044391p2/6316460.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 24 10:49:49 -0800 2012</created_at>
+  <updated_at>Tue Jan 24 10:49:49 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>44045216</id>
+  <body><![CDATA[I'm glad you liked the book. But I don't. Katniss was 15 in the first that makes her about 18 in the third but as the book finishes she is older. She's an indeterminate age and so far as I can tell still sees the world as revolving around her. <br /><br />I'm happy that you find meaning here, but I believe it's more in the eye of the beholder than the book. I was discharged in 1975. I had a friend who went through Nam and "survived". He came home, got involved in drugs and finally went to prison for urinating on a police car and then assaulting the police officer who tried to arrest him. I had other acquaintances who came home and just "got by". They'd live in a single room and fix that room up like a hooch. In a real way they never came home.<br /><br />Katniss was not in that class however. She was utterly self involved throughout the book and really I saw no actual growth. In the second volume I thought there was a sign she was developing but the writer simply reversed it in the last volume.<br /><br />This is fiction and by definition we will bring much of our own experience to it and it can be argued that Katniss simply "couldn't handle the strain". I don't think the book reads that way, but in the end that's my take. We'll each have our own.]]></body>
+  
+  <user>
+    <id>2187043</id>
+    <name>Mike (the Paladin)</name>
+    <display_name>Mike (the Paladin)</display_name>
+
+    <location>Hermitage, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2187043-mike-the-paladin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492739003p3/2187043.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492739003p2/2187043.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 24 13:43:38 -0800 2012</created_at>
+  <updated_at>Tue Jan 24 13:43:38 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47520004</id>
+  <body><![CDATA[I agree there were too many times I skimmed particularly most of section dealing with the "star squad". Trouble is I want so badly to like this book I can't not like it, but also I can't like it because it just didn't fill the great expectations I had for the ending]]></body>
+  
+  <user>
+    <id>5939772</id>
+    <name>Priscilla</name>
+    <display_name>Priscilla</display_name>
+
+    <location>Kingston, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5939772-priscilla]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1312303098p3/5939772.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1312303098p2/5939772.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 23 19:48:59 -0700 2012</created_at>
+  <updated_at>Fri Mar 23 19:48:59 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47544193</id>
+  <body><![CDATA[I agree Priscilla. I think I liked the second more because I wanted to like it. It ran sort of hot and cold for me, good with problems. <a href="https://www.goodreads.com/book/show/2767052.The_Hunger_Games__The_Hunger_Games___1_" title="The Hunger Games (The Hunger Games, #1) by Suzanne Collins" rel="nofollow">The Hunger Games</a> was such a good book.<br /><br />I still wonder if Katniss ended the series as Ms. Collins meant for her to. I don't have a problem with her being shattered and so on, but she failed to grow (it seemed to me) at all.<br /><br />Oh well. Like you I wanted to like it because it started so excellently. Just life I suppose, well that and taste. Some do like it a great deal.]]></body>
+  
+  <user>
+    <id>2187043</id>
+    <name>Mike (the Paladin)</name>
+    <display_name>Mike (the Paladin)</display_name>
+
+    <location>Hermitage, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2187043-mike-the-paladin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492739003p3/2187043.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492739003p2/2187043.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Mar 24 10:14:23 -0700 2012</created_at>
+  <updated_at>Sat Mar 24 10:14:23 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47721837</id>
+  <body><![CDATA[Bit harsh, I think that the message the author was trying to get across, was that the rebels could be as destructive as the antagonists in their quest for justice.<br />As for Katniss ending up with the man "whom she cannot live without." <br />I believe that was a metaphor for something very deep and meaningful.<br />It is sad that the true depth of emotion beneath the veneer, was completely lost on you..]]></body>
+  
+  <user>
+    <id>3829423</id>
+    <name>Jessie</name>
+    <display_name>Jessie R</display_name>
+
+    <location>Sydney, 02, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3829423-jessie-r]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1384692650p3/3829423.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1384692650p2/3829423.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 27 03:56:23 -0700 2012</created_at>
+  <updated_at>Tue Mar 27 03:56:23 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47740375</id>
+  <body><![CDATA[OOOOWW<a target="_blank" href="http://WWW...it" rel="nofollow">WWW...it</a> was lost on me. WOW, okay.<br /><br />I'm glad you liked it..but I disagree. The two boys had seen Katniss use them as she needed them throughout all this. In the end even looking at her own child it was all about Katniss for Katniss. <br /><br />I am assuming Me. Collins wrote her that way and it came across as was meant to. Look at what happened with Katniss sister. This all started because Katniss replaced here sister. But, was it out of love or obligation?<br /><br />I suppose readers take different things away from any book. As noted I'm glad you like the book and it moved you. MY suggestion would be however not to assume anyone who disagrees with you, "didn't get it".<br /><br />Though that might equip you to teach literature in some places.]]></body>
+  
+  <user>
+    <id>2187043</id>
+    <name>Mike (the Paladin)</name>
+    <display_name>Mike (the Paladin)</display_name>
+
+    <location>Hermitage, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2187043-mike-the-paladin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492739003p3/2187043.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492739003p2/2187043.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 27 11:55:08 -0700 2012</created_at>
+  <updated_at>Tue Mar 27 11:55:08 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47740442</id>
+  <body><![CDATA[<i> Though that might equip you to teach literature in some places. </i> LOL]]></body>
+  
+  <user>
+    <id>6316460</id>
+    <name>Becky</name>
+    <display_name>Becky</display_name>
+
+    <location>Omaha, NE</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6316460-becky]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1481044391p3/6316460.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1481044391p2/6316460.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 27 11:56:30 -0700 2012</created_at>
+  <updated_at>Tue Mar 27 11:56:30 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47924244</id>
+  <body><![CDATA[I wasn't crazy about the series as a whole, but I thought Katniss was brilliantly drawn. I wasn't comparing her to soldiers but to people I have known who dealt with childhood abuse and abandonment. Katniss' father dies when she's around eleven, while her mother retreats into depression. At that point, the relationship between Katniss and her mom is reversed; Katniss becomes "the mom," but of course she doesn't have an adult's resources. Even after her mom comes out of the depression, the relationship is permanently changed, because Katniss has been changed. <br /><br />Her mom didn't actively abuse her, but it's that grave lack of resources that seems crucial to how the kid recovers. Kids who have actively caring adults in their lives when they face something traumatic can come through practically unscathed. But when adults they'd previously trusted disappear (Katniss' father) or prove unreliable (Kathniss' mother), that's when the real damage is done.<br /><br />All of Katniss' flaws are those common to survivors of abuse. She deals better with crisis situations than with every day life. She struggles to trust anyone, and prefers friendships with people who are so like her, she doesn't need to articulate much. She needs someone who loves her unconditionally, not someone who'll fan her rage and pain. She is attracted to, but struggles to trust, people who are emotionally supportive (Peeta). But she is also attracted to angry people who don't have the emotional resources she needs (Gale). I knew she'd end up with Peeta by the end of the first book, because she and Gale would never have lasted and I was pretty sure there was a happy ending in store for her.<br /><br />Trauma changes the brain. The younger the person is for the first trauma, the more the brain is changed, and the more vulnerable they are to subsequent traumas -- not in the sense of being unable to cope at the time of the trauma, but in the sense of being permanently damaged by it. The way Catniss responded to her various traumas (loss of father, emotional loss of mother, the games) wasn't the only way, but it's a very common one, so she rang true to me. The fact that she shot the one who most threatened others (Coin, who wants to reinstate the Hunger Games) rather than take revenge by killing the one who'd most hurt her (Snow), is significant because she has stepped out of her obsession with her own pain and is more concerned about others. She's no longer ruled by her desire to survive (which she'd given up when she was determined that Peeta should survive, not her) or to take revenge, meaning (in survivor logic) she can begin to grow into some kind of normal life.]]></body>
+  
+  <user>
+    <id>7290805</id>
+    <name>Sheryl</name>
+    <display_name>Sheryl Tribble</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7290805-sheryl-tribble]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 30 09:55:44 -0700 2012</created_at>
+  <updated_at>Fri Mar 30 09:55:44 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47928158</id>
+  <body><![CDATA[I suppose we shall have to agree to disagree.]]></body>
+  
+  <user>
+    <id>2187043</id>
+    <name>Mike (the Paladin)</name>
+    <display_name>Mike (the Paladin)</display_name>
+
+    <location>Hermitage, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2187043-mike-the-paladin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492739003p3/2187043.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492739003p2/2187043.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 30 11:24:12 -0700 2012</created_at>
+  <updated_at>Fri Mar 30 11:24:12 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47939247</id>
+  <body><![CDATA[Her killing Coin has a revenge aspect too - remember Katniss's "for Prim." I also think the moment when she decides to kill Coin, her thoughts are absent, we don't get to hear her logic or realization and that is a failure on the authors part. We have spent three books inside of Katniss's head and here is the moment the series has built towards (sort of). Katniss makes this crucial decision, the one that should show her growth, what she has learned through out this experience and it is a blank. She wanted to kill Snow for revenge and because of her obsession with ending the Hunger Games, she just never thought outside of herself to realize that Snow is just continuing the games and the not the implementer. Her killing Coin, I thought was her realizing that Snow was no longer the one keeping the games alive. I had to suffer through Katniss's brain except these thoughts are missing and I felt were crucial to the series.<br /><br />On a side note, at the time that I was reading the book, I wanted Katniss to kill Coin. It was obvious from the beginning Coin was bad - Collins isn't good at handling plot twists and gives them away from the start. In retrospect, I have a huge issue with the plot being resolved with what amounts to murder. This is the point Katniss should've given a speech not in district 2. (I actually have a giant moral issue with the district 2 Nut scene.) I guess violence really is the answer. <br /><br />I should apologize to Mike, in this thread I have wavered and also reiterated some of Mike's ideas. I read the series in 3 days so I really didn't have much time to reflect and new opinions of the book have come to light.]]></body>
+  
+  <user>
+    <id>7034544</id>
+    <name>Angie</name>
+    <display_name>Angie</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7034544-angie]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 30 14:41:19 -0700 2012</created_at>
+  <updated_at>Fri Mar 30 14:41:19 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47939895</id>
+  <body><![CDATA[It's okay. Any book or series as popular as these will engender debate. Many people are very involved in these other (like me) came away disappointed (in my case especially with Katniss herself. <br /><br />I've seen arguments spiral on and on so I don't answer every disagreement. I gave my review and some who are big fans of the book need to disagree. That's okay. As I said in some cases we just have to agree to disagree.]]></body>
+  
+  <user>
+    <id>2187043</id>
+    <name>Mike (the Paladin)</name>
+    <display_name>Mike (the Paladin)</display_name>
+
+    <location>Hermitage, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2187043-mike-the-paladin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492739003p3/2187043.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492739003p2/2187043.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 30 14:51:05 -0700 2012</created_at>
+  <updated_at>Fri Mar 30 14:51:05 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47940572</id>
+  <body><![CDATA[<i>Collins isn't good at handling plot twists and gives them away from the start.</i> <br /><br />Definitely agree with that. I had the ending of book three figured out before I'd finished book one (or at least all the aspects I cared about at that point). I knew by then she was going to pick Peeta. I knew she'd make that decision because she would reject Gale for his commitment to extreme violence (i.e., Gale would do something that horrified her). I knew there'd be a war and that she'd be a manipulated by the guys attacking the Capitol. I knew lots of people she cared about would die. I figured she'd survive and get her guy but beyond that the ending was actually a touch more optimistic than expected.<br /><br />Which is why I'm surprised at the number of people who hate the book because of how it ended. I thought the ending woefully predictable.<br /><br />I figured we don't see Katniss' thoughts on the shooting because to that point her thoughts have been manipulated to the point that the only decision that's truly hers is one she doesn't think about, one that is more instinctive than considered. After all, her <i>thoughts</i> lead her to the point of choosing to continue the games she has so hated!]]></body>
+  
+  <user>
+    <id>7290805</id>
+    <name>Sheryl</name>
+    <display_name>Sheryl Tribble</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7290805-sheryl-tribble]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 30 15:00:25 -0700 2012</created_at>
+  <updated_at>Fri Mar 30 15:00:25 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47944196</id>
+  <body><![CDATA[<i>Mike (the Paladin) wrote: "It's okay. Any book or series as popular as these will engender debate. Many people are very involved in these other (like me) came away disappointed (in my case especially with Katniss herself. <br /><br />..."</i> There were plot holes and moral inconsistencies that I remembered being bothered by when reading but I was invested in Katniss first and foremost like you and can forgive lesser plot points. My initial reaction was disgust because of who the author made Katniss become. In time, the entire book is a tragic disaster and a missed opportunity for an epic series. Collins was more concerned with a war lecture and including as many atrocities as possible. I feel like Collins pulled a bait and switch. So, I actually dislike the book more now. I just thought I should address it since I might sound like a crazy person in how some of my impressions have changed.]]></body>
+  
+  <user>
+    <id>7034544</id>
+    <name>Angie</name>
+    <display_name>Angie</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7034544-angie]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 30 15:55:09 -0700 2012</created_at>
+  <updated_at>Fri Mar 30 15:55:09 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47946285</id>
+  <body><![CDATA[<i>Sheryl wrote: "Collins isn't good at handling plot twists and gives them away from the start. <br /><br />Definitely agree with that. I had the ending of book three figured out before I'd finished book one (or at least al..."</i><br /><br />I thought it was obvious that she would pick Peeta too. Gale gets hardly any screen time. I just don't see Gale as violent as others. I found Collins contorted her characters to be whatever she needed at any given point for plot expediency. For example, Peeta in the first book goes and "finishes off" the girl who lit the camp fire, it is never addressed again and is out of character. It just there to let Katniss over hear the careers and her doubt Peeta's inentions. However, Gale never did anything that violent even if you consider Peeta's kill out of mercy. To me, Collins handled it as if it was ok because Peeta did it in the name of saving Katniss. I thought of Peeta as having an obsessive crush and hoped the brainwashing would finally free him of it and let him see Katniss as she truly is. Gale survived the firebombing of 12, he should be traumatized also. Katniss is running around wanting vengeance the entire third book and so is Gale. However, Gale's I thought was more healthy because it channeled through the rebellion and towards the entire Capitol and not just Snow - killing just Snow wouldn't amount to anything except a name change. The Nut scene where Gale's vengeance os highlighted, I thought was poorly written (I take several issues with this scene) because the reason to not suffocate the Nut was to save district 2 people inside. However, the 2's are peacekeepers and most likely soldiers for the Capitol, there was no reason to assume they were on the rebels side. That made Gale's cruelty at that point not hold water with me since suffocating the Nut in my opinion was a tactical one that falls into the moral ambiguity of war. Also, Katniss shoots an innocent woman in her apartment. Then as they are approaching the square and the Capitol is falling, she states she is willing to shoot anyone including the refugees who gets in her way just so she can personally kill Snow and not the rebels. Gale certainly never did anything as violent as that. So he designed bombs and traps, to me that amounted to him actually being useful. I guess I could relate to Gale and his anger and found him to be the healthiest mentally of the three. Katniss horrified me, Peeta horrified me. What did Gale do that made you think of him as so violent? I am not being argumentative, I find tone is lost on the internet, I am really curious in why you feel that Katniss was so horrified by Gale.]]></body>
+  
+  <user>
+    <id>7034544</id>
+    <name>Angie</name>
+    <display_name>Angie</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7034544-angie]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 30 16:27:22 -0700 2012</created_at>
+  <updated_at>Fri Mar 30 16:27:22 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47974553</id>
+  <body><![CDATA[I don't always know why I think a book is going to go one way or another; it's more intuitive than intellectual. I don’t remember Gale doing anything violent in the first book, but on reviewing <i>Hunger Games</i> a bit, I think what I was bouncing off of happens in the first chapter, when he is rude to Madge because he thinks Madge is less at risk of the Hunger Games than he and Katniss. Katniss immediately challenges him in the conversation, but to the reader she justifies his actions. But in doing so, she first says, “Gale knows his anger at Madge is misdirected” (thus compounding his guilt – he did something wrong and knew it was wrong), and then goes on to say, “It’s not that I don’t agree with him. I do. But what good is yelling about the Capitol in the middle of the woods? It doesn’t change anything. It doesn’t make things fair. It doesn’t fill our stomachs. In fact, it scares off the nearby game.”<br /><br />So from the git go, the point of conflict between Gale and Katniss is that Katniss thinks his anger is misdirected and actually <i>destructive</i> (it chases off the game they want to catch). And in a novel, conflicts escalate. Notice also that, while Gale is rude to Madge, Madge is Katniss’ friend, and Madge is the one who gives Katniss the pin that makes her the Mockingjay. And, while Gale is rude to Madge, to someone who is at risk of being hauled off to the Hunger Games, Katniss is polite and kind even to her prep team, who could easily symbolize everything she hates about the Capitol – and who face <i>no risk whatsoever</i> of being hauled off to the Hunger Games.<br /><br />So while Katniss <i>talks</i> a good game, and <i>says</i> she shares Gale’s anger, in terms of their actions, she and Gale are very different. Gale lashes out at the innocent; Katniss doesn’t. Madge is not only presented as a likeable innocent whenever we see her; we later learn that the odds were not so much in her favor as Gale thought, first when Prim (who also has only one ticket) is chosen, then again when Katniss discovers that the lottery can be “rigged” if the Capitol wants to send a message to a local leader (meaning Madge, as the daughter of the Mayor is at greater risk on that front than either Gale or Katniss). Plus a higher percentage of people in Madge’s neighborhood, including Madge herself, end up dead when District 12 is destroyed, likely because they were targeted first (Gale managed to save Prim and Katniss’ mother, who were some distance from the village, AND many villagers, meaning access to Gale was not the only issue). So Gale’s anger is not only misdirected according to his own logic (because he knows the tessarae are designed to divide the people of the Districts) – he’s dead wrong is assuming Madge faced less risk than he and Katniss.<br /><br />OTOH, throughout the first book, Katniss constantly says she’s going to do horrific things she doesn’t actually do, and tries not to like people she intends to destroy, with little success. So by the third book, I don’t think most readers believe her when she says she’d kill whoever it takes to get to her goals. If that’s the case she wouldn’t have felt guilty after killing the woman in the apartment, once she discovers that woman was no threat after all. Someone who is okay with killing innocents to accomplish their goals wouldn’t have worried about that aspect, because they would have killed the woman as an obstacle, not a threat. Outside of the mercy killing of Cato, Katniss only kills those she sees as a threat, and in her heart she knows that’s true or she wouldn’t have worried about how she could win the Hunger Games if it came to killing Rue or Foxface. (The point I most thought Collins was taking the much-too-convenient route was not the Nut but how Foxface died, which freed Katniss of that dilemma.)<br /><br />I also didn’t believe Peeta when he said he killed the firestarting girl in the Hunger Games. I was pretty sure he was still the caring guy he’d been initially presented as, so when the Careers clearly think the girl should be already dead, I figured that was a great opportunity for Peeta to claim a kill without actually killing someone. Remember that we only have Peeta’s word for it that he killed her, and the cannon goes off as he’s saying he did it. Earlier, we are told that they often delay the cannon the first day or so, because during the scramble at the cornucopia there are so many deaths you wouldn’t be able to count them if the cannon went off immediately. But that doesn’t justify the delayed cannon with the firestarter; the kids are spread out enough there’s no reason the deaths would be close together anymore, and no other cannons go off around the same time. Plus the next morning, Katniss connects the cannon going off to someone’s heart stopping, assuming that Glimmer must not be dead despite appearances, because the cannon hasn’t gone off yet.<br /><br />If the person’s death is determined by their heart stopping, and if there’s no reason to delay the cannon anymore, odds are good that Peeta didn’t kill her. Certainly Collins is throwing out a lot of hints that he didn’t.<br /><br /><i>So he designed bombs and traps, to me that amounted to him actually being useful.</i><br /><br />The problem there is that Gale violated many of the long-held Rules of War in designing his traps. Historically speaking, the only people who really believe in “do whatever it takes” to win a war are tyrants and brutes; every culture has some kind of Rules of War, and those rules generally serve to minimize death and destruction. (I'll mention a big exception in a minute.) They’re not always legal rules, but cultural; when people in that culture violate those rules, there may be no legal consequences, but they are verbally condemned and often shunned, even if they win the battle. Whether it’s the Plains Indians rules about “counting coup” or the Mosaic law against destroying orchards, there’s always some limit, some rules you just don’t cross. <br /><br />Rules against soldiers killing civilians, or women, children, and/or the elderly, are very common, but one that’s had a long run in most of the English-speaking world is the rule against killing Medics (first codified in the Geneva Convention of 1864, but the tradition goes back further). Gale’s trap not only violates that rule – it specifically <i>targets</i> medics and those going to the aid of the wounded. <br /><br />Gale’s suggestion regarding the Nut violates a code that goes back at least to Biblical times – the idea that the cornered enemy should be given ample opportunity to surrender before being destroyed. That one is less agreed with in modern times, but since so much of the structure of the Capitol and the Districts reflects the Greek city states, I expect Collins is familiar with it. Greek rules of war were somewhat peculiar in that they protected religion or the combatant’s honor, rather than encouraging mercy or protecting non-combatants, and, while the Greeks were not the first ones who acted on the “Might Makes Right” principle, for a long time Thucydides’ justification of it was the earliest one known to history.<br /><br />When Gale suggests killing all those in the Nut, even though he’s told some of their own people might be in it, and when the military of District 13 essentially implements his plan, Collins is telling the reader that the leaders of District 13, like the leaders in the Capitol, embrace the belief that Might Makes Right. The Capitol may endorse license and District 13 legalism, but neither one of them will hold to the rules of behavior that really matter. The policies of the Capitol resulted in the death of the innocent, Rue; the policies of District 13 result in the death of her equally innocent doppelganger, Prim. The two governments may look different on the surface, but where it matters, they are just the same, at least while Coin is in charge (I would argue that Katniss’ survival at the end of the book indicates a slight change on that front).<br /><br />Whew, that was long, and I didn’t even discuss stuff we’re more in agreement on, like Peeta’s crush! But I hope I answered your closing question about why I assumed Gale would turn out to be violent as early as the end of the first book, and why I saw his form of violence as worse than Peeta's or Katniss'.]]></body>
+  
+  <user>
+    <id>7290805</id>
+    <name>Sheryl</name>
+    <display_name>Sheryl Tribble</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7290805-sheryl-tribble]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat Mar 31 06:57:35 -0700 2012</created_at>
+  <updated_at>Sat Mar 31 06:57:35 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47984331</id>
+  <body><![CDATA[Oh, and I'd forgotten -- after Katniss is chosen for the Hunger Games, there's this discussion:<br /><br /><i>"Katniss, it's just hunting. You're the best hunter I know," says Gale.<br /><br />"It's not just hunting. They're armed. They think," I say.<br /><br />"So do you. And you've had more practice. Real practice," he says. "You know how to kill."<br /><br />"Not people," I say.<br /><br />"How different can it be, really?" says Gale grimly.<br /><br />The awful thing is that if I can forget they're people, it will be no different at all.</i><br /><br />While on the one hand, they're strategizing to keep Katniss safe, OTOH, there's a sense where he's already seeing the other kids forced into the game as non-people. So even before District 12 is destroyed, he's finding it easier to dehumanize the enemy than Katniss does. And in this case, the enemy (or at least a fair percentage of them) will be victims in the same sense that Katniss is.<br /><br />There's a sense where he's speaking from a theoretical perspective versus actual (Katniss is the one who's going to be in the situation doing the killing), but for whatever reason I assumed Collins would have him continue on that path rather than having him discover that war is a lot uglier and/or greyer than he'd imagined.]]></body>
+  
+  <user>
+    <id>7290805</id>
+    <name>Sheryl</name>
+    <display_name>Sheryl Tribble</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7290805-sheryl-tribble]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat Mar 31 10:40:25 -0700 2012</created_at>
+  <updated_at>Sat Mar 31 10:40:25 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47996763</id>
+  <body><![CDATA[I still didn’t' connect with Gale being overly violent and a lot of what you said I can agree with I just don't think Collins contrasted it well. In the Nut scene he wants to suffocate the Nut out of vengeance which is wrong but my own critical thought was popping up. I still see it as a legitimate tactical debate (which Gale did not bring up legitmate arguments). There was the potential for engaging the soldiers in a firefight which could incur more casualties for the rebellion or overall. I didn't see it as a win at all costs scene. I also think it was poorly written that some of the district 2 people in the Nut were on the rebels’ side. That would have only been true if they were being held captive and they 2's came out armed as well. It needed more explanation, 2's were even peacekeepers, it just wasn't a logical conclusion based on the information the author had giving me up to that point. I agree giving them the option to surrender was more moral. However, they never gave them the opportunity to surrender and then killed all of the Capitol citizens, who Collins dehumanized, anyway. I felt like the scene said it is ok to kill those who are cornered just no those who might be on our side. I also feel designing a bomb and actually using it are two greatly different things. Gale, to me, seemed horrified by what his design had achieved. For me Gale's thoughts/emotions were trumped by some of Katniss's actions. We didn't get to see inside his head to know if he ever morally wavered but imagine what Katniss might look like to Gale. I guess my being forgiving to Gale was objecting to the author's logic in showing his cruelty.<br /><br />Peeta and the campfire girl; he offered to return to finish the job to gain the careers' trust. We have to assume he knew she would die or why offer if you aren't willing to do the job? If she didn't die he would have to either kill her or separate from the careers. The whole scene just feels loosely written and exceptionally lucky for Peeta and Katniss. <br /><br />Katniss may have felt guilty about killing the apartment woman but if it had so affected her, she wouldn't even consider killing anyone again simply for being in her way. She would try to not be so reactionary.<br /><br />Thank you for your response. As Mike always says, we will have to agree to disagree.<br /><br />Since you didn't discuss what we agree on, I'll through this out there. I think Collins holds the same contempt for Peeta's "love" of Katniss when she called him the dandelion. Since the names of the characters are important (like Katniss being the sturdy root and Prim the pretty flower) calling Peeta dandelion was very telling. Above the surface, it is a flower that many see as a weed. However, if you pluck it it still grows back because below surface it has a strong root structure which makes it so difficult to get rid of.]]></body>
+  
+  <user>
+    <id>7034544</id>
+    <name>Angie</name>
+    <display_name>Angie</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7034544-angie]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat Mar 31 14:36:06 -0700 2012</created_at>
+  <updated_at>Sat Mar 31 14:36:06 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>48034366</id>
+  <body><![CDATA[<i>I still see it as a legitimate tactical debate (which Gale did not bring up legitmate arguments).</i><br /><br />My big problem with that scene is that it’s a debate they should not have been having in the first place. Supposedly, District 12 had been planning things for years – but they’d not worked out how to tackle the Nut and instead left it to the people onsite to deal with? That seemed ludicrous to me. I don’t know if it’s a case of the author making secondary characters unusually stupid so her heroes can be in the forefront, or if it’s just that Collins isn’t much into how the military operates, but I just thought it unbelievable that the Powers That Be in District 12 hadn’t already decided how they were going to approach that citadel, and made the call on whether to let their people inside die if they couldn’t get them out in time.<br /><br />So I do agree that Gale’s arguments were not great, but I thought the whole discussion was pretty stupid and amateurish. The people in the Nut who were on the rebels’ side were supposedly infiltrators or spies, and I’m pretty sure that people in that position that late in an altercation (i.e., who hadn’t gotten out while the getting was good) had to have known they could be killed and must have had Gale’s attitude of “I’m willing to die for it.” However, although I don’t remember them being specifically mentioned, I think Katniss was more concerned with the Avox and others who would have been in the Nut against their will, working for the Capitol out of fear rather than by choice.<br /><br /><i>Gale, to me, seemed horrified by what his design had achieved.</i><br /><br />Oh, absolutely. Gale designed the bomb expecting it to be used against the enemy, and figuring it would be the enemy medics rushing in who got killed. But District 12 used it more as a form of propaganda, deliberately killing their own. When we are “there” with Katniss, seeing Gale’s design being executed, I thought it totally bizarre that Katniss did not immediately think of Gales design, which she’d found so abhorrent. In retrospect, what Collins was doing was having Katniss, who we know is no tactician, figure out that it was District 12 dropping those parachutes to the Capitol kids Snow had collected for protection the way someone who had never seen Gale’s design would – in other words, Katniss is figuring it out the way most observers would have, and demonstrating how easy it was to see through.<br /><br />We don’t see Katniss’ trial, but any defense lawyer worth his salt would totally have hammered on the fact that Katniss – and ALL the rebels – had been betrayed by Coin and Coin’s cronies through that act. Although the ship that dropped the parachutes had Capitol insignia, there is no reason that anyone who believed in Snow’s government to drop them, and no reason for anyone following Snow to design them in the first place (the rebels would not have run to those parachutes the way the Capitol kids did, because the parachutes symbolized the game the rebels hated). Anyone with any brains at all would have seen through that, so not only was Gale’s design changed into propaganda, it was *stupid* propaganda. The only reason that whole thing happened is that the author wanted to show that, while the Capitol was evil enough to collect those children as a “defense” for Snow’s hideout, District 12 was evil enough to just wipe the kids out to get their job done.<br /><br />Well, and to end the whole “who is she going to pick” thing once and for all, by using Gale’s design and having Katniss say she can never forget it. Point is, the whole scene did not develop logically out of who the characters were or what was going on; it was plonked in there for plot purposes. What Collins does to Gale with it was only one of the irritating aspects for me.<br /><br /><i>I think Collins holds the same contempt for Peeta's "love" of Katniss when she called him the dandelion.</i><br /><br />Interesting. I never thought the author had contempt for Peeta. But I also didn’t think calling someone a dandelion is a sign of contempt; I quite like your imagery of a plant that’s deeply rooted, but at the time I figured that, since dandelions are edible, in that culture they were viewed as useful rather than as weeds. After all, dandelions are not native to the Americas; they were brought here as a cultivated vegetable. Historically their image has been quite positive; they are a symbol of spring and therefore of hope; weaving one into a bridal bouquet gives the couple good luck; and even in the United States, where they are definitely seen as weeds, kids wish on them like they’d wish on their birthday candles, then blow on the white ball of parachuted seeds. Katniss specifically connects the dandelion she finds to hope, not contempt, so I figured Collins was going for that tradition rather than using it as a symbol of disdain. <br /><br />I did think Collins was smart to have Peeta so damaged within the story, so that Katniss has to serve as his support; otherwise the relationship would likely have continued to be unequal, which would not have been healthy. Survivors need enormous amounts of support initially, but if they don’t learn to give support, and if they don’t eventually recognize that their partner needs their support, then their recovery often ends the relationship. But I also thought Collins presented Peeta’s crush as more an example of unconditional love than as something pathetic. Peeta did not hang on Katniss, he clearly saw her flaws, he made his own choices, sometimes against her will, and otherwise did not fit the cliché of someone made pathetic by their hopeless crush, at least to me.<br /><br />Now I want to go re-read the whole series while holding your thought of "imagine what Katniss might look like to Gale" in mind. Heh. I did that a lot in the first book, but not nearly so much in the second and I suspect not at all by the third. Once it was clear he wasn't going to end up with Katniss, I was more interested in what he might think of the other ladies than in what he might think of her. I think he and Madge would have been a good pairing; her steadiness would have balanced his fire the way Peeta's steadiness balanced Katniss'. <br /><br />Thank you for the interesting conversation, and thanks to Mike for providing a place for it.]]></body>
+  
+  <user>
+    <id>7290805</id>
+    <name>Sheryl</name>
+    <display_name>Sheryl Tribble</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7290805-sheryl-tribble]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Apr 01 06:01:26 -0700 2012</created_at>
+  <updated_at>Sun Apr 01 06:01:26 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>48048688</id>
+  <body><![CDATA[<i>I don’t know if it’s a case of the author making secondary characters unusually stupid so her heroes can be in the forefront,</i><br /><br />I agree with what you are saying about the Nut – my issues with this scene are on several levels. I can handle some plot expediencey but when major scenes just feel forced, I take issue with it. On top of what you said, you mean District 13 should have also already debated important issues like do we allow surrender, do we take prisoners, what do we do with prisoners? Gale talks about not being able to trust them, it is like the idea of a POW had never crossed anybody's mind. I don't remember the scene exactly but they decide on surrender and don't actually give the Nut people the opportunity to do so, how incompetent are these people? It is there just so Katniss can make a speech and be the hero. Even her speech I had issue with, she said something like since when do we shoot at people climbing out of rubble? When you are at war, they are the enemy, you didn’t give them the option to surrender, you caused the rubble, they are armed and shooting back…… sigh… If you are going to have your hero make a meaningful speech, it should at least make sense. And why did Katniss have to black out here? She could have blacked out and woken up in the middle of the action with the same guy who was about to shoot her protecting her. Would have been more interesting and meaningful considering the number of times Collins builds up to the action and then backs away from it.<br /><br /><i>Well, and to end the whole “who is she going to pick” thing once and for all, by using Gale’s design and having Katniss say she can never forget it.</i><br /><br />It also diminished Katniss’s choice of Peeta, made it a non-choice really. From the beginning, Katniss had only been reactionary or a pawn, this is the one choice she should have made. The story from the beginning had been pushing Katniss and Peeta together and drawing Gale and Katniss apart, she should have seen that for herself and not let the plot decide for her. It would have been interesting if inside of Gale’s head, we got to see him realize his obsession with defeating the Capitol and grew from the experience.<br /><br />Don’t get me started on the parachutes! There is one parachute drop, some explode leaving the rest intact. No one is worried the rest might explode? Again just Katniss. I guess the instinct to help children might override your fear for personal safety. Also, it felt like the rebel medics were ahead of the frontlines. The peacekeepers guarding the children were not engaging in a firefight, then the bombs explode and medics magically appear. I know the scene is chaotic with stupid things like the ground ripping apart, even difficult for a reader to follow, and we have to rely on Katniss for narration but it just felt forced again. You point out how easy it is to see through the plan to kill the children. The war is already won, the rebels seem to be brimming with hate for the Capitol who has already shown they are willing to kill children, killing those children is just plain evil with no purpose. It is an easily exposed plot that would threaten Coin’s leadership. To believe Capitol did it, why would they bomb their own children as they are losing the war? Stupid propaganda is right! Now I am just comiserating.<br /><br />I wished we had seen Katniss’s trial. It would have exposed the underbelly of the rebellion, was Coin the only evil one? Were Plutarch’s intentions really altruistic? He did suggest killing all of the Capitol citizens (more likely a ploy of Coin and Plutarch's to get the victor's to agree to another HG) and would stand to gain from defending Katniss depending on popular opinion. The use of Gale’s bomb on the children couldn’t have been a solo act by Coin – Katniss even admitted that Plutarch probably had a hand in it and wanting to continue the games. The trial would also allow us to see what the new government looks like. I think we wanted a more adult book at times. I now take issue with the plot being resolved with violence and feel that simply killing Coin was too easy in resolving the issues of the new government. I kind of wish, even if it is cliché, that Katniss made her hero speech here saying she was done killing and that Coin was no different than Snow and so on. That might be a bit naive and too idealistisc but I thought it better for being YA. When I read it initially, even I wanted her to kill Coin and many really wanted Katniss to kill Snow, in retrospect I would’ve liked Collins scolding the reader for wanting more killing.<br /><br />The dandelion thing: I took the dandelion as double entendre. In Katniss’s world, she called Peeta dandelion because she sees it as a flower that can be used to survive. In Collins’s world, it is an invasive weed. I think she at least was referring to his invasiveness, that the brainwashing only plucked the flower of his love for Katniss but left the roots and the ability for the flower to grow back. Have you ever tried to remove a dandelion? It is tough. I saw a bit of contempt because at times Peeta was pathetic to me. I will admit that this interpretation is mine and I will continue to infer some contempt even if it is not the author’s intent. I took issue with when Peeta fell in love with Katniss. His father told him he had loved Katniss’s mother because of her singing voice and then was rejected. What healthy, sane father tells a five year old something like that? Even if Peeta’s mother is a shrew, it is something you can discuss with your son but not at 5, he should have only pointed out her singing voice and not the love part. Peeta had an unconditional love and was willing to die for Katniss without ever having a conversation, it all felt very juvenile. It just started on a bad foot for me. I didn’t think about the brainwashing being a balancing but now I agree. Speaking of obvious plot lines, when Peeta was captured, I was waiting for when he would show up to try and kill Katniss.<br /><br />I agree with an earlier post you wrote. Granted, I still hate Katniss but she would have done better if she had some adult guidance and support specifically love from her mother. She had Haymitch guiding her somewhat in the second book and provided balance for her character. If Katniss’s mother wasn’t going to help her daughter through the trauma, she at least needed therapy. The book opens with Katniss being difficult to control and drugged into oblivion so I assumed that this future lacked psychiatry. Then Johanna mid-book is seeing psychiatrists. Why oh why Collins? I felt it was just there so Johanna could crack jokes but should have been left out. You could argue that 13 wanted to keep Katniss a pawn so she wouldn’t lead people away from trusting 13 but she was broken to the point of incoherent and useless, I mean this for the beginning of the book. 13 needed her at least functional. These are minor things, I just think Collins thought of her plot as individual scenes that progressed the personal story lines and not the larger picture which is probably why I felt the same way about Katniss never thinking about the whole.<br /><br />I have really enjoyed this discussion. It is great to hear others’ thoughts and have it stay civil. I also think you agree with me that some of the plot was overly contrived. After reading the book, I thought an interesting alternate story for Panem is if the adults had gradually stopped reproducing, eliminating slaves for the Capitol and children for the Hunger Games. What would that have looked like? Wow, I thought my post would get shorter and this is way longer.]]></body>
+  
+  <user>
+    <id>7034544</id>
+    <name>Angie</name>
+    <display_name>Angie</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7034544-angie]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Apr 01 11:16:43 -0700 2012</created_at>
+  <updated_at>Sun Apr 01 11:16:43 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>48071112</id>
+  <body><![CDATA[<i>you mean District 13 should have also already debated important issues like do we allow surrender, do we take prisoners, what do we do with prisoners? It is like the idea of a POW had never crossed anybody's mind.</i><br /><br />Exactly. I recognize that the guys in the field may have to adjust the plan to the situation, but there should have been a suggested plan, and the overall approach should have been considered long earlier. Whether District 12 draws them up on their own or whether they consult with the other Districts first, there should have been considerable over-all guidelines listed for the guys in the field regarding that sort of thing waaaaay before they’re dealing with the Nut.<br /><br /><i>It would have been interesting if inside of Gale’s head, we got to see him realize his obsession with defeating the Capitol and grew from the experience.</i><br /><br />Agreed. I considered a *lot* of possibilities that would have shown Gale (and other characters) growing or changing, although to be honest they were just fleeting thoughts. Because the book moves so fast, and because it’s told in first person, you don’t realize first time through (or at least I didn’t) that the story is more bone (and not necessarily well-fitting bone) than muscle. I thought Katniss’ characterization was well done, for the most part, and Peeta grows through the story (in the last book particularly), but that’s about it for the characters from the first book. Collins adds more characters in the later books, but she reveals about them rather than showing many grow, seems to me. And even when there is character growth, it’s off stage; witness Prim..<br /><br /><i>I guess the instinct to help children might override your fear for personal safety.</i><br /><br />I didn’t have problems with people rushing in; that’s instinct. As a parent I’ve jumped into some situations that in retrospect were kind of hazardous, but in the situation you just don’t think about it; I’ve always figured some Medics are in the same headspace. There is a risk assessment, but it’s more training/automatic expectations than analysis of the situation, and getting to the injured person is absolutely primary.<br /><br /><i>The peacekeepers guarding the children were not engaging in a firefight, then the bombs explode and medics magically appear.</i><br /><br />That was another thing that ticked me off, and something you’d think the lawyer would have brought up at Katniss’ trial – “What were medics doing in the front lines?” They were there because District 12 (read: the author) needed them there for the plan to work. Period.<br /><br /><i>It would have exposed the underbelly of the rebellion, was Coin the only evil one? Were Plutarch’s intentions really altruistic?</i><br /><br />This was the kind of thing that bugged me all through the book. Collins’ worldbuilding skills are pretty poor, IMHO. You never get a real grasp of how the Districts are laid out; I suspect there is no map in any of the books because Collins doesn’t even have one in her head, much less on paper. You never get a real grasp of how any of the government systems run beyond the fact that District 12 is a militaristic system, while the Capitol is a Roman-like set up with a tiny ruling group over a much larger population kept in line with entertainments and threats (and that’s half guess on my part), and the other Districts are occupied territory. That’s it.<br /><br />When it comes to the political, the physical (beyond Capitol fashions) and any of the “this is a different world/society” kind of stuff, I’d say Collins knows just barely enough to tell her story, and sometimes not even that. That’s not an “adult book versus YA fiction” issue – that’s good versus bad writing, IMHO.<br /><br /><i>I kind of wish, even if it is cliché, that Katniss made her hero speech here saying she was done killing and that Coin was no different than Snow and so on. That might be a bit naive and too idealistisc but I thought it better for being YA.</i><br /><br />I would have loved that myself, but once Katniss voted in favor of the Hunger Games I was sure it wouldn’t happen. But, hey, at various points I was hoping that someone in the Hunger Games would refuse to play – especially with the game between all the former winners, many of whom were friends or at least friendly acquaintances. But instead of uniting in a symbolic rebellion by forcing the gamemakers to kill them instead of killing each other, they get all focused on “protecting the Mockingjay.” Bah. Although the Mockingjay thing is orchestrated by District 12, which (one suspects) is profoundly disinterested in seeing the other districts unite unless District 12 is in charge, so whatever.<br /><br /><i>I will admit that this interpretation is mine and I will continue to infer some contempt even if it is not the author’s intent.</i><br /><br />I’m not really a postmodernist, where any interpretation is “true,” but IMHO if the author doesn’t convince the reader of something, then what the author was <i>trying</i> to do doesn’t count. So while I don’t think Collins meant to portray Peeta as weak, I also know you’re not the only one to see him that way.<br /><br /><i>His father told him he had loved Katniss’s mother because of her singing voice and then was rejected. What healthy, sane father tells a five year old something like that?</i><br /><br />Yeah, that scene was kind of squicky. Although I’m pretty sure that Collins meant it to be romantic (and a lot of people see it that way). At least Peeta’s dad acts like guys I know who tell their kids about past romances they are totally over in that he freely recognizes that Katniss’ mom had good reason to choose as she did (in saying that her mom married the other guy “Because when he sings... even the birds stop to listen"), rather than putting the “winner” or the woman down. But I didn’t get the impression that Peeta fell for Katniss just because his dad loved her mom – he fell for her because he loved her singing. Remember that Peeta also remembers Katniss’ *dad* singing – I thought the scene with Peeta’s dad was as much about their shared appreciation of singing as about the fact that they were interested in mother and daughter.<br /><br />Peeta and Katniss were in the same school, and at least sometimes in the same class (it’s not clear if there was more than one class for kids the same age), so there would have been a lot more for Peeta to observe over the years. I would guess they had friends in common as well (Delly and Madge, for starts). So while they may not have had a conversation because Katniss was deliberately avoiding him, I think Peeta knew her fairly well before they were sent off to the Game. <br /><br /><i> The book opens with Katniss being difficult to control and drugged into oblivion so I assumed that this future lacked psychiatry. Then Johanna mid-book is seeing psychiatrists.</i><br /><br />That actually didn’t bother me, because I figured from the first that they were drugging Katniss to control her. The more confused she is, the easier to manipulate. They didn’t want her gaining mental health because then she’d start figuring out what was really going on.<br /><br /><i> I thought interesting alternate story for Panem is if the adults had gradually stopped reproducing, eliminating slaves for the Capitol and children for the Hunger Games.</i><br /><br />I dunno, historically speaking, when the slaves stop having kids, the masters start raping the female slaves. Probably not a great plot for a YA book! But I keep thinking of other ways the Districts could have dealt with the Capitol that would have been interesting as well.<br /><br /><i> Wow, I thought my post would get shorter and this is way longer.</i><br /><br />I know that story!]]></body>
+  
+  <user>
+    <id>7290805</id>
+    <name>Sheryl</name>
+    <display_name>Sheryl Tribble</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7290805-sheryl-tribble]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Apr 01 16:58:53 -0700 2012</created_at>
+  <updated_at>Sun Apr 01 16:58:53 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>48149955</id>
+  <body><![CDATA[<i>you don’t realize first time through (or at least I didn’t) that the story is more bone (and not necessarily well-fitting bone) than muscle.</i><br /><br />Bone and not muscle. So true! The lack of world building - I agree it is bad writing, I shouldn’t give a book a pass just because it gets labeled YA, good writing is good writing. Part of the fun of imagining dystopias is the flesh. I really enjoyed the first book and thought the limited knowledge was ok because of the first person POV and later books could easily address it especially with the war. So I kept waiting and waiting for more information. Collins’s dangled the carrot a few times – Gale mentioning going to history class in 13 (their take on history would have greatly differed from the Capitol’s), Finnick talking about the secrets he learned while being prostituted out, and Katniss’s trial. I nearly leapt for joy when Finnick started talking about his, um, raping and then Katniss immediately drifts away. The lack of info was definitely deliberate.. perhaps lazy? or lacking in imagination? I really wanted to see inside the Capitol’s government. There had to be some propaganda to keep the games alive and the Capitol citizens we met either held the games in contempt (e.g. Cinna) or were very ignorant (Venia and co). Granted there were gladiators and thousands of years of slavery but I needed to see inside the Capitol's psyche. The technology too was inconsistent and for some of the advancements, the Capitol fought a very lackluster war. <br /><br />You mentioned the book moving fast but again that’s the author’s pacing. I think the story arc just wasn’t well laid out. I felt the second and third book were at odds with each other. Space was wasted in Catching Fire with a second HG that could have contributed to the personal story lines and laying out the functioning of Panem. Or the second HG could stay but the story needed more of a laser focus in the third installment. Even the love story felt quickly resolved for the amount of time spent on it prior though it wasn't my main concern.<br /><br /><i>So while I don’t think Collins meant to portray Peeta as weak, I also know you’re not the only one to see him that way.</i><br /><br />I saw Peeta as most likely favoring his father because of how the mother was presented. So anything the father says would be highly suggestive to Peeta, he would have still greatly idealized his father at that age. The father pointing out Katniss would make him take extra notice of her. Saying he loved the mother for her singing and then low and behold Katniss sang and all those birds stopped to listen, to me, Peeta was a goner. He emulated his idealized father. Peeta would have been able to observe Katniss but I think from that point on, Katniss was like a rock star and all observations would be skewed to the positive. Plus Katniss wasn’t a mean or petty person and her being the quiet huntress who trades in the black market probably added to her mystique - just my personal interpretation. I am not against discussing past loves with children and the father didn’t say anything inappropriate like she is way better than your mother. I just thought 5 was an odd age to offer that information up without having to explain something like divorce especially if the son isn’t so fond of his mother – just a possibility. Being told the singing story depending on the feelings the child has for both parents could lead them to accepting or rejecting the other child. I thought of Peeta as pathetic at times when it came to Katniss. I wouldn't call Peeta weak, I still debate if he killed the campfire girl (though the scene is probably just a loose end, there may be clues he didn’t kill her but the choice to return needed explanation. I'll fill in the blank for Collins: Peeta was disturbed by the Careers’ killing the campfire girl. He saw an opportunity to make a break for it, maybe even go back to aid the girl. When he got there she died. He had two options now; return to the careers to continue his mission of protecting Katniss or go it alone. He decided the former would help him to survive longer and better for his ultimate goal. I just think that's too much for a reader to fill in. When I first read it, I didn’t believe Peeta killed the girl. I thought at some point it would go back to it to clarify some of the logic. Afterwards, I felt there wasn't sufficient evidence based on his actions that he didn’t kill her. There was several times Collins didn’t tie up loose ends that were easily clarified. E.g. Thresh let Katniss live, the reader deserves to know how he died. They watched a highlight reel of the HG that provided an easy opportunity to fill in the info.). <br /><br /><i>Although the Mockingjay thing is orchestrated by District 12, which (one suspects) is profoundly disinterested in seeing the other districts unite unless District 12 is in charge, so whatever.</i><br /><br />I actually thought it would be revealed that 13 firebombed 12. It isn't outside of reason that the Capitol would have but Snow wanting to avoid war at all costs. I thought 13 was more interested in starting a war, 900 people escaping to the woods but the avox girl being caught, and firebombing your coal mines (aka energy source) made more sense as an act of 13.<br /><br /><i>But I keep thinking of other ways the Districts could have dealt with the Capitol that would have been interesting as well.</i><br /><br />At least I am not alone. True about the raping. I could see it not being a collective plan just a gradual progression of indivuals not wanting to sacrifice children. I am guessing on your comments, you think of 13's existence as a little convenient and would like to see how the districts could have taken on the Capitol without this extra district.<br /><br /><br />Now I am just ragging on the author. Hopefully this got shorter, don't think so.... I really really tried!]]></body>
+  
+  <user>
+    <id>7034544</id>
+    <name>Angie</name>
+    <display_name>Angie</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7034544-angie]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Apr 02 20:06:45 -0700 2012</created_at>
+  <updated_at>Mon Apr 02 20:06:45 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>48181027</id>
+  <body><![CDATA[I feel the same way and people think I am crazy. I loved the first two and the third one was so awful it ruined the whole series.]]></body>
+  
+  <user>
+    <id>3488910</id>
+    <name>Kelly</name>
+    <display_name>Kelly</display_name>
+
+    <location>Texarkana, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3488910-kelly]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1366853465p3/3488910.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1366853465p2/3488910.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Apr 03 11:28:25 -0700 2012</created_at>
+  <updated_at>Tue Apr 03 11:28:25 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>48183386</id>
+  <body><![CDATA[Thanks. As you can see, there's been quite a discussion over it. LOL.]]></body>
+  
+  <user>
+    <id>2187043</id>
+    <name>Mike (the Paladin)</name>
+    <display_name>Mike (the Paladin)</display_name>
+
+    <location>Hermitage, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2187043-mike-the-paladin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492739003p3/2187043.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492739003p2/2187043.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Apr 03 12:11:55 -0700 2012</created_at>
+  <updated_at>Tue Apr 03 12:11:55 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>48207645</id>
+  <body><![CDATA[I kept saying District 12 in my last post when I meant District 13 (I’m bad with names but apparently even worse with numbers!), hope you could see which I really meant!<br /><br />Thought I’d mention that the one point where Katniss’ character did <i>not</i> make sense to me (when she endorsed the idea of a final Hunger Games with children from the Capitol), does make sense to me now. Even in my first reading, I thought something weird was going on between Katniss and Haymitch, when she says, “I can feel Haymitch watching me. This is the moment, then. When we find out exactly just how alike we are, and how much he truly understand me.” But I was reading so fast by then I didn’t really think about it much. Someone at the “markreads” site pointed out that Katniss is deliberately lying there so Coin will trust her, and I went, “of course!”<br /><br />Katniss says “For Prim” because Coin killed Prim -- she’s telling Haymitch what she’s going to do. Just as she could figure out what he wanted by his gifts in the first game, now he knows what she wants from a clue no one else recognizes a such. I do think that scene is poorly written, but on re-reading it, I’m sure that’s what Collins is trying to convey. <br /><br />Earlier in the book, Katniss was savvy enough to figure out that, in her final test before they invaded the Capitol, she had to prove that she would obey orders fast enough to obey them, even though she had no intention of doing so once she gets there. And now she’s savvy enough to know she has to keep Coin’s trust here or she’ll never get a chance to kill Coin. She figures that it’s safe to say yes because, if she kills Coin, there will be no Games with the Capitol children. It’s Coin’s idea, one Coin would not have mentioned to anyone else until she had the vote of the surviving competitors so she could shift blame elsewhere if people are horrified. Even if someone else suggested it after Coin’s dead, Haymitch could use the fact that Katniss killed Coin as evidence that the Mockingjay, at any rate, was horrified by the idea. So it’s also “for Prim” in the sense that it will end the killing of children for political purposes.<br /><br />I also have a theory on why Collins doesn’t make this obvious first time through, which I’ll cover in a minute.<br /><br /><i>Space was wasted in Catching Fire with a second HG that could have contributed to the personal story lines and laying out the functioning of Panem.</i><br /><br />I kind of agree, but while I wish Collins was more interested in world building, I think she is more into playing with structure and symbolism. For instance, I think she decided that each book would end with some equivalent of the “Hunger Games.” The ones in the first two books, the characters are in an arena, while in the third book they’re in the Capitol itself, but in each case they’re being filmed and dealing with booby traps and have a specific goal, etc. The filming of their invasion of the Capitol is at a distance, and they actually get to watch themselves on TV, but it still parallels the filming of the first two games.<br /><br />In the first and last book, you’ve got the small innocents Rue and Prim who are killed; in the second book that role is played by Mags. The three books all have 27 chapters (or 27 chapters and a tiny epilogue). Buttercup plays a role in the first chapter of each book, and there is an ironic twist between what Katniss says about their relationship in the first chapter of the first book, and their new relationship in the last chapter of the last book. The Capitol is very <i>Brave New World</i>, Section 13 very <i>1984</i>, and there’s <i>Fahrenheit 451</i> imagery all over the place. There are references to Greek mythology, Roman social structure, and characters out of Shakespeare. The end of the first book Katniss shoots Cato out of in mercy when she’d figured on doing in it revenge. The end of <i>Catching Fire</i>, she’s planning to shoot Enobaria but decides to shoot out the force field instead. The end of <i>Mockingjay</i>, everyone thinks she’ll kill Snow but she kills Coin. I’m sure other people have seen more book-to-book parallels and outside references but those are some off the top of my head.<br /><br />Collins is gonzo into structure. The reason that she doesn’t make it obvious to the reader that Katniss agrees to Coin’s horrific proposal in order to kill Coin, is that Collins has been systematically ramping up the action in the last book, ending most chapters on some huge dramatic note. Katniss shooting Coin only works as a huge dramatic note <i>if</i> the reader <i>doesn’t</i> know it’s going to happen. These books are very, very structured, and while that’s kind of fun from an analytical perspective after you’ve read them, I don’t think it’s always to their benefit. Collins not only has to manipulate the characters to make her structure work; sometimes she has to manipulate the reader.<br /><br />A big part of that structure is that the first book is the original and the other two books are repeated reflections and variations on that theme. Plus the first book is also the most classically heroic; Collins makes sure that the only morally ambiguous choice Katniss actually has to make (as opposed to think about) is killing Cato, which is an act of mercy. The subsequent books, what choice is right is less and less clear. So it’s not surprising that some people love the first book and like the other two less; there is a sense where the second two books are inferior echoes of the first.<br /><br /><i>Saying he loved the mother for her singing and then low and behold Katniss sang and all those birds stopped to listen</i><br /><br />I agree with you that Peeta likely idolized his father, and that the fact that his father loved Katniss’ mother meant Peeta was watching Katniss with more interest. But I don’t think Peeta fell for Katniss for the same reasons his father fell for Katniss’ mother, because all Peeta’s dad says about Katniss’ mother is, “See that little girl? I wanted to marry her mother, but she ran off with a coal miner." Then Peeta says, “A coal miner? Why did she want a coal miner if she could’ve had you?” and his father replies, “Because when he sings...even the birds stop to listen.”<br /><br />So it’s Katniss’ <i>father</i> whose singing Peeta’s dad praises, not her mother’s. We know her mother was beautiful, but Peeta’s dad doesn’t really say why he loved her mother, just that her mother married the other guy because the other guy had that incredible voice. So what Peeta’s admiring in Katniss is the quality that the other guy had that his father <i>didn’t</i> have – but a talent his father clearly appreciates. Which is why I figured that was more about Peeta and his father’s appreciation of music (Peeta remembers Katniss’ dad singing as well), than about them loving mother and daughter for the same reason.<br /><br />I think there are some indications that Katniss and her mom’s personalities are alike, for instance the fact that their first book response to Katniss’ dad’s death is the reverse of their last book responses to Prim’s death (one steps out of life entirely, one buries herself in her work). And there are some indications that Peeta and his dad are alike as well (they’re both shown to be generous), all of which maybe fits in here somewhere. But we aren’t actually told that Peeta’s attracted to Katniss for the same reasons his dad was interested in Katniss’ mom, and for the most part Collins tells or clearly shows her reader when she wants them to know that sort of thing unless there’s a structural reason not to.<br /><br /><i>I am guessing on your comments, you think of 13's existence as a little convenient and would like to see how the districts could have taken on the Capitol without this extra district.</i><br /><br />Yes and no. For the story I would have told, way too convenient, although it is admittedly foreshadowed in the first book for anyone who wondered where the red-headed Avox was heading when Katniss and Gale saw her captured. But since Collins is bouncing off of dystopian novels, she had to have something from <i>1984</i> (the last – and best known -- of the big three), so in that sense it’s less convenient than inevitable. <br /><br />Those are my theories, at any rate.]]></body>
+  
+  <user>
+    <id>7290805</id>
+    <name>Sheryl</name>
+    <display_name>Sheryl Tribble</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7290805-sheryl-tribble]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Apr 03 18:05:08 -0700 2012</created_at>
+  <updated_at>Tue Apr 03 18:05:08 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>48264419</id>
+  <body><![CDATA[<i>I kept saying District 12 in my last post when I meant District 13</i><br /><br />No worries, I always knew what you meant and it is an easy mix up with numbers. <br /><br /><i>Thought I’d mention that the one point where Katniss’ character did not make sense to me (when she endorsed the idea of a final Hunger Games with children from the Capitol), does make sense to me now.</i><br /><br />This never bothered me. I always assumed that Katniss voted to gain Coin’s trust. I was skimming at this point and don’t know if I picked up the Haymitch thing but the ‘For Prim’ was leading enough for me. I found the passage to be sure to avoid my Peeta’s dad snafu since it was only striking a vague memory. Katniss wonders if Coin orchestrated Prim’s death, “Hoping that losing Prim would push me over the edge? Or, at least, firmly on her side?” So Katniss saying ‘For Prim’ would have convinced Coin the plan worked and she now had Katniss's support. I also saw a bit of vengeance in the statement, that she was killing Coin ‘for Prim.’ (Although, coordinating Prim’s death with Gale’s bomb is flimsy, easily exposed, and easily foiled by many variables, even simply by Prim stopping to aid a refugee. It was also Collins attempt at explaining medics in front of the battle. Could just be Katniss being paranoid.) <br /><br /><i>She figures that it’s safe to say yes because, if she kills Coin, there will be no Games with the Capitol children.</i><br /><br />That’s where I find Plutarch’s character to be hairy. He was often at odds with Coin, initially states he wants a democracy, then helps convince the victors to agree to another HG, Katniss states Plutarch is only interested in keeping his Games alive and not in saving lives, then likes the democracy idea hoping it will stick when Katniss is released, she admits he most likely had a hand in the use of Gale’s bomb, and was even Katniss’s defense attorney – the man is all over the map, the signs of a true politician. If he (or any higher ups) were concerned with recreating the Capitol a la Coin or simply wanted power, in the ensuing chaos, it would have been easy to step in here 'temporarily' and never step down. The trial or hero speech could solve this. I am nit-picking a bit and the killing Coin being too easy, again was a thought in hindsight. My bigger disappointment is having no insight into the new government although as you’ve pointed out, we really had none into the old one.<br /><br /><i>These books are very, very structured, and while that’s kind of fun from an analytical perspective after you’ve read them, I don’t think it’s always to their benefit.</i><br /><br />I was aware of the structure. The second HG only bothered me after reading Mockingjay. The second HG was a good idea to tell the story and I only had issues with after the third book. The structure felt forced in Mockingjay. The book sort of meandered for me and I think Collins knew what she wanted to tell in the personal stories but not necessarily how to create a plot or good flow to show them while sticking to her structure. That’s why I thought Mockingjay needed more focus or abandoning of the structure for 2 and 3.<br /><br /><i>Plus the first book is also the most classically heroic; Collins makes sure that the only morally ambiguous choice Katniss actually has to make (as opposed to think about) is killing Cato, which is an act of mercy.</i><br /><br />I actually debated at the start of the HG, if she was going to write Katniss into a difficult moral decision like Peeta, Rue, and her being the final three but it quickly became apparent this wasn’t going to happen. I wasn't looking for heroics from Katniss but I can see how that could make others disappointed. My biggest issue with the second book is it was too obvious. I figured out the whole book from the mention of the Quarter Quell. I knew the new characters intentions (e.g. Plutarch and Finnick) from the moment they walked on screen. It’s not too entertaining to read a book when you see all the plot twists a mile away but the story is well laid out and the second arena was interesting. I think you have seen part of why I didn’t like 3. <br /><br />Peeta: Clearly, I remembered the scene completely wrong with an admitted faulty memory the scene morphed in my brain. I remember my initial impressions: It wasn’t information I could relate to spontaneously offering up to a young child, granted I don’t have children. I still felt Peeta was copying the actions of his idealized father. It also planted the idea of falling in love with someone fore their singing ability, not that this idea necessarily needed to be planted. (I am not completely jaded, I would think it adorable for someone so young to love a classmate for how they sing.) That this would have skewed his impression and Katniss had a rock star effect. (Can a heroine be ugly and atonal?) Being so young when the crush started and admiring from a far, it felt more like he romanticized the <i>idea</i> of her. Katniss was quiet and reserved, she wasn’t even sure if Madge was her friend, so I am not sure of how much of Katniss he could have observed (or there actually is in general). It just felt juvenile. You mentioned it being the author’s job to convince the reader, I wasn’t convinced that at 16, Peeta had enough to <i>love</i> Katniss and it was presented as unconditional which is probably why I saw him as pathetic. Putting myself in Peeta’s place, I could accept he liked her and decided to protect and die for her since he had little chance of winning in comparison but I can't accept it was done out of unconditional love.]]></body>
+  
+  <user>
+    <id>7034544</id>
+    <name>Angie</name>
+    <display_name>Angie</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7034544-angie]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Apr 04 15:41:31 -0700 2012</created_at>
+  <updated_at>Wed Apr 04 15:41:31 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>48267176</id>
+  <body><![CDATA[This is my second post and since I am now abandoning all attempts of being terse. I am addressing this because I feel like I didn't properly write out my thought process.<br /><br />Let me first say, I thought Collins would have stayed away from the war since it would require elaborating on the technology which she had already proved to not want to delve into beyond it is there and advanced from ours. Not to dwell on the Nut but thinking of the technology and considering what you had said earlier, I went and read the scene over the week-end and remember some of my mental state. Part of the reason I thought it was a tactical decision is the hovercrafts left from the Nut, I had to assume it would also house a good portion of their weapons, being backed into a corner while clearly losing should have brought out the big guns. The Capitol can create forcefields and muttations but come out of the Nut with handguns. They spent an awful lot of time laying Capitol streets with pods but didn’t have any combat weapons that matched them despite the constant threat of war from 13. <br /><br />The district 2 workers who believably could have just sided with the Capitol were distinguished as separate from the Capitol soldiers and the surrender was for the District 2 workers. I felt Collins was in part contradicting some of what she told me earlier to make the scene work. When the majority inside are said to be 2’s, it is then said that we should at least give them the chance to surrender. Gale responds with something like we can never trust them again so the dialogue is implying that the surrender is for the 2’s only since the Capitol soldiers wouldn’t warrant any trust and nobody raises the question of a POW. If it were all Capitol soldiers, I felt they would have just bombed the place and be done with it. <br /><br />The debate continues off-screen with Boggs and Coin and was probably more of what I was looking for. I didn’t like that Collins portrayed it as purely a moral decision. Katniss brought up the “coerced or spies” whose lives do deserve concern. It is a fair assessment that the coerced are avoxes but I didn’t see it that way when I read it. I definitely thought of it in more of a modern sense where I think it would be debate and fall into the grey. Gale is certainly out of line in just wanting everyone dead and he does fleetingly mention ‘well-armed.’ I just didn’t think the argument for suffocating those inside was only out of a thirst for blood, it is the military headquarters. <br /><br />Looking at it within the modern world and admittedly not being a military expert, it felt too pure of a debate for our times. The first book my class read as freshmen in high school (13/14 y.o.) was Hiroshima and our teacher devoted time to having an open debate on whether dropping the atomic bomb was right or wrong. I don’t want to get into that debate but debating it at a YA age framed my mindset. I’ll just say that there are many military decisions I may not agree with but I acknowledge that they are difficult and have many factors. I also acknowledge that I don’t know what decision I would make being given the same information amidst an intense war. That’s how I saw the scene and that also sounds like you could justify any military action but I don't mean it that way either. Maybe I was asking for too much but I would have been happy with just adding a few lines about what was actually inside the Nut, that the Nuts would have a few hours to prepare before flooding the square, and the weapons they might be carrying. This could have highlighted Gale only being concerned with killing and not legitimate arguments, then the moral of preservation of life winning out overall which still didn’t happen. The Capitol soldiers now weren’t just surrounded by the rebels but the people they escaped the Nut with, the 2’s are the majority inside. The Capitols are even more cornered and are basically slaughtered. In the dismissal of their lives and expecting us to cheer that the 2’s turn and kill them (and the book turning into a bit of an anti-war rant), I thought Collins missed the biggest point of all. That war is bad because it requires killing. Period. Even if the enemy is a paragon of evil. (I actually think this is why we never see inside the Capitol because it might have required humanizing the lower level citizens who would have made up the army.)]]></body>
+  
+  <user>
+    <id>7034544</id>
+    <name>Angie</name>
+    <display_name>Angie</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7034544-angie]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Apr 04 16:22:03 -0700 2012</created_at>
+  <updated_at>Wed Apr 04 16:22:03 -0700 2012</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/128058276]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/128058276]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

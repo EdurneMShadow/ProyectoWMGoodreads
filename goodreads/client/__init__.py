@@ -1,1 +1,1 @@
-from client import Client, GoodreadsRequestError, GoodreadsSession
+from .client import Client, GoodreadsRequestError, GoodreadsSession

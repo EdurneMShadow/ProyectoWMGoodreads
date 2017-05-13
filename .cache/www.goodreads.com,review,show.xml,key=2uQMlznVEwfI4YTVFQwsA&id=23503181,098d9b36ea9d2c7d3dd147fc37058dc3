@@ -1,0 +1,1269 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:43:29 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: 5TRDPTXVREFYZSN62TBV
+etag: W/"c6955b9848b230925ed5096b2d41d8d8"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.391266
+set-cookie: csid=BAhJIhg3OTUtOTUwMTc5OS0yNjc0MTk5BjoGRVQ%3D--66c6c39a9da9841dd7551ec6b5491a310b4fd666; path=/; expires=Tue, 12 May 2037 13:43:28 -0000, locale=es; path=/, _session_id2=8424fd2ff10ec26985f4abccad30a12e; path=/; expires=Fri, 12 May 2017 19:43:29 -0000; HttpOnly
+content-length: 63094
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=23503181
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>23503181</id>
+    
+  <user>
+    <id>1205220</id>
+    <name>Matt</name>
+    <display_name>Matt</display_name>
+
+    <location>Columbus, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1205220-matt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1216068593p3/1205220.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1216068593p2/1205220.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">5907</id>
+  <isbn>0618260307</isbn>
+  <isbn13>9780618260300</isbn13>
+  <text_reviews_count type="integer">27659</text_reviews_count>
+  <title>The Hobbit</title>
+  <title_without_series>The Hobbit</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1372847500m/5907.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1372847500s/5907.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/5907.The_Hobbit</link>
+  <num_pages>366</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Houghton Mifflin</publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.24</average_rating>
+  <ratings_count>2152106</ratings_count>
+  <description>&lt;i&gt;In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a hobbit-hole, and that means comfort.&lt;br /&gt;&lt;br /&gt;&lt;/i&gt;Written for J.R.R. Tolkien’s own children, &lt;i&gt;The Hobbit&lt;/i&gt; met with instant critical acclaim when it was first published in 1937. Now recognized as a timeless classic, this introduction to the hobbit Bilbo Baggins, the wizard Gandalf, Gollum, and the spectacular world of Middle-earth recounts of the adventures of a reluctant hero, a powerful and dangerous ring, and the cruel dragon Smaug the Magnificent. The text in this 372-page paperback edition is based on that first published in Great Britain by Collins Modern Classics (1998), and includes a note on the text by Douglas A. Anderson (2001). Unforgettable!&lt;br /&gt;</description>
+<authors>
+<author>
+<id>656983</id>
+<name>J.R.R. Tolkien</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1434625177p5/656983.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1434625177p2/656983.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
+<average_rating>4.31</average_rating>
+<ratings_count>6140649</ratings_count>
+<text_reviews_count>91666</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1217538694</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Jan 31 22:01:53 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>596</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="fantasy" exclusive="false" review_shelf_id="10074622" sortable="false" />
+    <shelf name="childrens" exclusive="false" review_shelf_id="10074618" sortable="false" />
+</shelves>
+  <recommended_for><![CDATA[Children, parents, all those that stay children in their hearts]]></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Aug 01 00:00:00 -0700 1979</read_at>
+  <date_added>Mon Jun 02 06:08:23 -0700 2008</date_added>
+  <date_updated>Sun Jan 12 06:11:18 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Some books are almost impossible to review. If a book is bad, how easily can we dwell on its flaws! But if the book is good, how do you give any recommendation that is equal the book? Unless you are an author of equal worth to the one whose work you review, what powers of prose and observation ar...]]>
+  </body>
+
+  
+
+  <comments_count>58</comments_count>
+    <comments start="1" end="50" total="58">
+        <comment>
+  <id>1632300</id>
+  <body><![CDATA[Matt, did you really read <i>The Hobbit</i> thirty-six times before you were sixteen! Absolutely amazing! I liked <i>The Hobbit</i> but I don't think I've read it more than a half dozen times. <br /><br />I have read and re-read other portions of <i>
+  <a href="https://www.goodreads.com/book/show/34.The_Fellowship_of_the_Ring__The_Lord_of_the_Rings__Part_1_" title="The Fellowship of the Ring (The Lord of the Rings, Part 1) by J.R.R. Tolkien" rel="nofollow">The Lord of the Rings</a>
+</i> and the <i>Silmarillion</i> more times than I can count or accurately remember. <br />]]></body>
+  
+  <user>
+    <id>899665</id>
+    <name>Jon</name>
+    <display_name>Jon</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/899665-jon]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1375036866p3/899665.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1375036866p2/899665.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 26 12:17:36 -0700 2008</created_at>
+  <updated_at>Tue Aug 26 12:17:36 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1632514</id>
+  <body><![CDATA[Seriously. I had no life. Also, I grew up in a somewhat isolated environment without alot of reading options and with little oppurtunity to find options. Also, I can read a book like the hobbit in a bit under 3 hours. So, those books I enjoyed I tended to read over and over again.<br /><br />I've lost count on times I've read The Hobbit, but it can't be more than a half dozen more than 36. I haven't read it much in the last 15 years or so. I used to have a reasonably accurate count on '<a href="https://www.goodreads.com/book/show/34.The_Fellowship_of_the_Ring__The_Lord_of_the_Rings__Part_1_" title="The Fellowship of the Ring (The Lord of the Rings, Part 1) by J.R.R. Tolkien" rel="nofollow">The Lord of the Rings</a>' (16), but I won't vouch for that number except to say 'more than 16 times' now. <br /><br />Believe me, that's not really considered particularly obsessive within the community. When the question came up on the Tolkien forums, my answers were somewhat typical and alot of people averred that they'd read it 70 times or more. And I've literally heard people recite the entire first chapter and long portions from anywhere else in the book you question them on (as well as sing every song from LotR), so I can well believe them.<br /><br />This would be more sad than anything else, but parts of the books are so subtle I don't really trust the opinion of anyone who hasn't read either book at least five times. New readers generally completely miss any of the books themes, tend to misjudge alot of the characters (Sam and Frodo especially), and tend not to see through the first layer of Tolkien's meaning. For example, when you get to the point were when Gollum says, 'Sneaking', it's not funny any more because it breaks your heart, then I think you are a mature Tolkien reader.]]></body>
+  
+  <user>
+    <id>1205220</id>
+    <name>Matt</name>
+    <display_name>Matt</display_name>
+
+    <location>Columbus, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1205220-matt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1216068593p3/1205220.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1216068593p2/1205220.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 26 12:40:47 -0700 2008</created_at>
+  <updated_at>Tue Aug 26 12:40:47 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>24310341</id>
+  <body><![CDATA[Hi, I really enjoyed reading your review. In fact, I'll be more like me and say I loved it -- though I'm not sure I loved the book. The fact is, I read it too long ago to even really recall the plot. All I can remember is that I did quite enjoy it when I first read it, but that is all. The reason I gave it a three is 'cause the first and last time I read it was more than ten years ago, and as I don't remember it much and am not sure how much I'd like it now, three seemed the most fair to me. That might sound silly, but it seemed reasonable to me at the time. <br /><br />Just to comment on your review: What you said about the whole rude thing is superb. (I'm just in a mood to be complimentary, so bear with me.) I just find that so worth saving/remembering. That is exactly how I've felt about the matter, yet I've never given much thought to it before, and I've never heard it spoken of by anyone else either. It just satisfies me when somebody points out contradictions and inconsistencies in people and things which others generally miss, or at least don't think about. It's very much in line with my personal belief: that truth shines. Well, sometimes truth is ugly, but to me, even in its greatest ugliness the darkest truth is still a beam of light -- that is, if it serves to lead you towards the one greatest Truth; and every truth uncovered can be a step closer. Although, one may start at the other end: start with the one Truth and work towards all other, smaller truths. I far prefer the dark truths in and of life than the brightest illusions that can be. But I sense I'm near being sidetracked... so back to your review!<br /><br />"How often is it that we hunger after all the wrong things?"<br /><br />That is such a good question. Or should I say, a correct statement. <br /><br />There are some other memorable lines here which I think I'm gonna remember and possibly quote at some others sometime (not as my own, of course, if I do). <br /><br />"How often do we fantasize about being this different sort of hero, and yet how much better we would be if we did?" <br /><br />"How much better off would we be individually and as a people if we most desired to be graced with Bilbo's virtues, rather than Achilles speed, strength, and skill with arms?" <br /><br />"How much less mature does this mere children's book of a well lit-world cause our darker fantasies to seem?"<br /><br />Bravo.<br /><br />"What profit would we really have if we had in great measure the power to 'beat people up good'? What real use could we put it too?"<br /><br />We can see what use it's being put to and it aint pretty at all. The people who possess and exercise such power over the rest seem to feel they profit much. THEIR use of it is in harvesting much wealth for themselves, I think. (And many inflict actual violence on others to do it, too. Though in most cases, the methods they employ are less visible and more indirect.) This sad, bleak world is testimony to that greed. Well, everyone is responsible in part, but some more than others it seems.<br /><br />Recite whole chapters! Unless they have photographic memory or deliberately tried to memorise it (though I suppose that'd still be kinda impressive), if it's the "almost" natural result of many readings, I do stand amazed. No, forget, reciting. I'm amazed simply by the fact that anyone could have read any book 30+ times -- unless they were forced. That is, apart from the Bible, even which I don't think I have read that many times. As a whole anyhow. Some books in it I might have...or not. I have no idea, as I never counted. I almost envy your passion and perseverance (though you might not call it that from your point of view). I don't think I have the patience or concentration to read the same thing that many times, no matter how much I first liked it. Even the best of books usually get dull after several times of re-reading (for most people, from what I know), and I normally don't read anything more than twice or three times at the most unless I truly love it, and even that has been rare in recent years. <br /><br />I guess my mentality is that I'd rather spend that time on reading something new. Another reason is that a second reading can at times spoil the original enjoyment you got out of a book, as was the case with the Twilight books for me, for example. I didn't find it as good the second time as the first time I read them, and it ended up only dampening my enthusiasm for the series. (Though I wasn't one of the huge fans in the first place.) Unless a book is really spectacular, I'd rather just read it once and keep my first pleasant experience of it intact, rather than risk cancelling it out (as happens when the second time doesn't live up to the first), as I find that most don't improve on subsequent readings. Merely not improving would be fine; they tend to take away some of the spark the story initially had. But I suppose that usually happens with books that lack depth, or are not entertaining enough. For me, normally both have to be present to make it worth repeating. <br /><br />Then again, I can also understand the other point of view, which is yours, and that you can totally suck out the spirit of a book without end and expand and fill yourself with it, enjoying it over and over. That is an idea I kind of envy, at the moment anyhow, but don't feel I have the leisure or patience to be trying -- also at this moment. And there isn't such a book for me, either. Few books inspire me in that direction, other than wuxia novels, but there are too many cool new ones I still haven't read, to be re-reading ones I already have. By the way, I almost feel I should be ashamed commenting here, beside people who have read the book a dozen times or more, since I've read The Hobbit only once. (Or it might have been twice.) <br /><br />I wish I had a book I'd wanna read 36 times -- apart from the Bible. Actually, there is one author who I'd want to, and that would be Oswald Chambers. I can't imagine there being any fictional work I'd read that many times, though.<br /><br />Yes, we need more Bilbo-like people, don't we. I like how you describe him. <br /><br />"heroes whose exaggerated human virtues always amounts to, whatever else may be true of them, 'beats people up good"<br /><br />That is well said and I agree with your sentiments. But I'm afraid that my own story which I'm working on is in that vein. Though at least my characters beat up only bad people. :) I'm not writing with any moral or philosophical purpose in mind, however -- the lack of which I often lament in modern works, ironically enough -- but I'm merely attempting to portray my inner world and feel no explanations need go with that. If mine flops in regards to having the kind of depth as you have mentioned, I guess that would simply be speaking of myself. <br /><br />I'll say this for your review: The Hobbit was a book I didn't plan on reading again, in the near future neway, but you have made me reconsider. Maybe I'll wanna write a review of it then myself, if I choose to re-read it. <br /><br />And I certainly think you have the powers of prose and observation that are fitting.]]></body>
+  
+  <user>
+    <id>3964414</id>
+    <name>Alpinepath</name>
+    <display_name>Alpinepath</display_name>
+
+    <location>Auckland, E7, New Zealand</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3964414-alpinepath]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Dec 24 20:54:14 -0800 2010</created_at>
+  <updated_at>Fri Dec 24 20:54:14 -0800 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>24310523</id>
+  <body><![CDATA[<i>Matt wrote: "Seriously. I had no life. Also, I grew up in a somewhat isolated environment without alot of reading options and with little oppurtunity to find options. Also, I can read a book like the hobbit ..."</i><br /><br />"For example, when you get to the point were when Gollum says, 'Sneaking', it's not funny any more because it breaks your heart, then I think you are a mature Tolkien reader." <br /><br />Hmmm, I can't recall the context that was said in, but I do remember that I still found some part or the other about Gollum a bit heartbreaking -- even though I don't think myself "a mature Tolkien reader", esp. next to people like you. I only read it a few times (and it used to surprise me a bit that this story actually made me), and it was during my first or second reading of LOTR. But then, I usually look for layers of meaning out of habit and try not to miss themes, 'cause depth and insight often add enjoyment to the whole thing. I feel that missing meanings is almost a crime if not an offence (to the writer if not to the writing itself), or it's depriving yourself at least. <br /><br />I can't even get my head around 70. <br /><br />Neway, I came on here just to find out what's new and popular, or worth trying, but I feel like adding you as a friend. And I'll probably be reading more of your reviews. <br /><br /><br />PS "as well as sing every song from LotR" lol. My goodness!]]></body>
+  
+  <user>
+    <id>3964414</id>
+    <name>Alpinepath</name>
+    <display_name>Alpinepath</display_name>
+
+    <location>Auckland, E7, New Zealand</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3964414-alpinepath]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Dec 24 21:05:25 -0800 2010</created_at>
+  <updated_at>Fri Dec 24 21:05:25 -0800 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>25824502</id>
+  <body><![CDATA[You have not only written a highly insightful review, but a very enjoyable one, as well! I don't know if you've ever authored any books, but this sounds like the beginnings of a fabulous exegesis of "The Hobbit"! <br /><br />Your review totally fascinated and enthralled me! I have yet to post a review of this book, but now I might never do so... I don't think mine would even come close to the standard yours has set! WAY TO GO, GUY!!]]></body>
+  
+  <user>
+    <id>3132623</id>
+    <name> ♥♥Mari♥♥ </name>
+    <display_name> ♥♥Mari♥♥ </display_name>
+
+    <location>Miami, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3132623-mari]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1263086419p3/3132623.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1263086419p2/3132623.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 29 10:19:25 -0800 2011</created_at>
+  <updated_at>Sat Jan 29 10:19:25 -0800 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>32926476</id>
+  <body><![CDATA[I definitely agree with everyone else here, you have written an accurate, elegant and thought-provoking review. As an adult first time reader of The Hobbit, I observed some of the themes and nuances you spoke of, but I'm sure others will take a few re-reads to grasp. As for Gollum,I have always found his character sad and heartbreaking from the LOTR books, and being introduced to him in The Hobbit had the same effect. I often wonder however why the ring took him so quickly, while others like Bilbo &amp; Frodo showed incredible resilience to it. But again, these are the wonderings of a beginner ;)<br /><br />That being said, your review is fitting to the book, and the series as a whole. Well done!]]></body>
+  
+  <user>
+    <id>4845030</id>
+    <name>Micheline</name>
+    <display_name>Micheline</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4845030-micheline]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1434381852p3/4845030.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1434381852p2/4845030.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jul 03 09:53:50 -0700 2011</created_at>
+  <updated_at>Sun Jul 03 09:53:50 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>32935866</id>
+  <body><![CDATA["I often wonder however why the ring took him so quickly, while others like Bilbo &amp; Frodo showed incredible resilience to it."<br /><br />JRRT addresses this a little bit in 'The Shadow of the Past', but I don't think the text offers a definitive answer. <br /><br />I think there were probably many cracks that the ring could sneak into, but Smeagol had one of the easiest ones: he seemed naturally inclined to self-pity and to the feeling that he had been wronged. He seemed the sort that was always going around cursing the unfairness of the world. I've discovered the truth of the statement, "There is no evil a man will not do when you tell him he's been wronged."<br /><br />Gandalf observes that the story of Smeagol/Gollum could have happened to many hobbits, but he also observes that as wretched as Smeagol had become in his own small way he wasn't wholly ruined and completely under the power of darkness. There was still a small part of him that was fighting.<br /><br />Bilbo and Frodo were also capable of great pity, but they never really indulged this pity on themselves. Above all, when wronged they didn't count themselves the victims and spend their time nursing their wounds and plotting revenge (compare with the Sackville-Baggins). They forgave; even to the extent of sacrificing their own interests to facillitate the reconciliation. Biblo takes the ring and the very first thing he has an oppurtunity to do with the ring is to kill Gollum, who unlike Deagol no doubt deserves it. Instead, he pities Gollum. He looks at Gollum and sees a helpless wretch in need of aid, and not an enemy - even though Gollum himself wants nothing more than to kill him.<br /><br />Now, I'm not saying that Bilbo's compassion was a perfect defense. Gandalf says that his own weakness would be the temptation to be a moralizing busybody who would force people in to do things for their own good. Gandalf's pride in his own wisdom and moral character would be his undoing. But I think Bilbo's tendency to put others first was a pretty strong defense against the power of the ring, and it forced the ring to use much smaller cracks and much slower methods.]]></body>
+  
+  <user>
+    <id>1205220</id>
+    <name>Matt</name>
+    <display_name>Matt</display_name>
+
+    <location>Columbus, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1205220-matt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1216068593p3/1205220.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1216068593p2/1205220.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jul 03 13:46:14 -0700 2011</created_at>
+  <updated_at>Sun Jul 03 13:46:14 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>33101853</id>
+  <body><![CDATA[You're most certainly right, after all thats what sets Bilbo and Frodo apart from the rest, and allows them to become the respective heroes of JRRT's universe. They are neither power hungry or inclined to self pity, the way Gollum was (as you mentioned). And I agree that their capacity for empathy and their kindness both played huge parts in their resiliency to the ring.]]></body>
+  
+  <user>
+    <id>4845030</id>
+    <name>Micheline</name>
+    <display_name>Micheline</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4845030-micheline]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1434381852p3/4845030.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1434381852p2/4845030.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 06 14:42:55 -0700 2011</created_at>
+  <updated_at>Wed Jul 06 14:42:55 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>40271122</id>
+  <body><![CDATA[I really enjoyed your review! And I suffer too from that worry 'I've read this too many times, so my opinion has to be a biased one' lol Well, if so, it's a welcome bias, especially when so many of us seem to share it!:) Cheers:)]]></body>
+  
+  <user>
+    <id>5748810</id>
+    <name>Isabella</name>
+    <display_name>Isabella</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5748810-isabella]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442598739p3/5748810.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442598739p2/5748810.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 20 11:44:39 -0800 2011</created_at>
+  <updated_at>Sun Nov 20 11:44:39 -0800 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>48700948</id>
+  <body><![CDATA[I have only read The Hobbit once, about a year and a half ago, but now I think I'm going to have to pick it up again right away. Your review was as enchanting as the book because it helped me to relive all those scenes that captivated me in only my first read. Gandalf's response to "good morning!" is one of my favorite scenes in all that I've ever read! I, too, don't think I could do the justice you've done to this book in a review, it so accurately describes why there's a special place in my heart reserved for Bilbo and his adventure. And what you say about the literary tradition is right--if the apocalypse were tomorrow, and if only one book survived, I'd want it to be this one. Nothing I have read has ever made me feel so positive about the nature of humanity... even if the protagonist is a hobbit. Anyways, thank you for returning me to this book, you've reminded me why some books are just so precious.]]></body>
+  
+  <user>
+    <id>8618095</id>
+    <name>Jacklyn</name>
+    <display_name>Jacklyn</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8618095-jacklyn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1482623958p3/8618095.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1482623958p2/8618095.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Apr 11 13:19:03 -0700 2012</created_at>
+  <updated_at>Wed Apr 11 13:19:03 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>52407326</id>
+  <body><![CDATA[Love the review. It says everything I would want to say. 36 times? Really?!]]></body>
+  
+  <created_at>Sun Jun 17 10:19:15 -0700 2012</created_at>
+  <updated_at>Sun Jun 17 10:19:15 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>54065762</id>
+  <body><![CDATA[36 times before age 16?? I love the book but I only read it twice!!! Anyway, I think your review pretty much summons up my feelings]]></body>
+  
+  <user>
+    <id>6319401</id>
+    <name>Serena</name>
+    <display_name>Serena</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6319401-serena]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1456100577p3/6319401.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1456100577p2/6319401.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 13 13:36:14 -0700 2012</created_at>
+  <updated_at>Fri Jul 13 13:36:14 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>55284965</id>
+  <body><![CDATA[really liked your review. Makes me want to read it again, but I still have to get through Lord of the Rings!]]></body>
+  
+  <user>
+    <id>11451530</id>
+    <name>Aoife</name>
+    <display_name>Aoife</display_name>
+
+    <location>Killarney, 11, Ireland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11451530-aoife]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 31 15:33:56 -0700 2012</created_at>
+  <updated_at>Tue Jul 31 15:33:56 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>65592577</id>
+  <body><![CDATA[Yeah, I have the worst time reviewing the mind-blowingly amazing books. It's mostly a lot of fangirling,]]></body>
+  
+  <user>
+    <id>6414770</id>
+    <name>Christine</name>
+    <display_name>Christine Marie</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6414770-christine-marie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493441683p3/6414770.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493441683p2/6414770.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 14 21:30:23 -0800 2013</created_at>
+  <updated_at>Mon Jan 14 21:30:23 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>68608274</id>
+  <body><![CDATA[Ugg. How many times have I heard people say that cheesy "you can't review good books" rant. Stop. Just stop.]]></body>
+  
+  <user>
+    <id>16733095</id>
+    <name>Bennett</name>
+    <display_name>Bennett</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16733095-bennett]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1403830319p3/16733095.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1403830319p2/16733095.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 25 08:42:51 -0800 2013</created_at>
+  <updated_at>Mon Feb 25 08:42:51 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>68610483</id>
+  <body><![CDATA[I don't know, Sir Kittykinz, how many times have you heard that rant? I just googled the phrase, "you can't review good books", and found nothing. Lead me to water so that I may drink.]]></body>
+  
+  <user>
+    <id>1205220</id>
+    <name>Matt</name>
+    <display_name>Matt</display_name>
+
+    <location>Columbus, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1205220-matt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1216068593p3/1205220.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1216068593p2/1205220.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 25 09:22:33 -0800 2013</created_at>
+  <updated_at>Mon Feb 25 09:22:33 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69169906</id>
+  <body><![CDATA[What a good review! I just started the Hobbit for the first time! How slow of me, I know! <br />I particularly like Gandalf so far. I often note how often people say things to me they don't actually mean. I've even made a game of it. All I do is take everything that is said to me in the literal sense. So much fun!]]></body>
+  
+  <user>
+    <id>11098577</id>
+    <name>Somerandom</name>
+    <display_name>Somerandom</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11098577-somerandom]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1362968315p3/11098577.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1362968315p2/11098577.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 05 04:18:04 -0800 2013</created_at>
+  <updated_at>Tue Mar 05 04:18:04 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78970616</id>
+  <body><![CDATA[Your quote of 'evil times' is so true. As are your words implying the stiry's effect upon the heart. For people to read and enjoy they should think of developing relationships with their hearts and minds. The "Hobbit" is a read that can impact thoughts for an extended time. My first read of the book was before middle school. At that time it caused me to determine to find the meanings within the spoken words of family and friends.]]></body>
+  
+  <user>
+    <id>20992306</id>
+    <name>Ava</name>
+    <display_name>Ava Dohn</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/20992306-ava-dohn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1370314590p3/20992306.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1370314590p2/20992306.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jul 22 03:55:35 -0700 2013</created_at>
+  <updated_at>Mon Jul 22 03:55:35 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>81780328</id>
+  <body><![CDATA[I think this is the best book review I have ever read and, considering the fact that "the Hobbit" is my all-time favourite book, that speaks volumes of how on point you were about everything. Your review is, I believe, the only one that truly does the book justice. Thank you for praising and appreciating it so much, and for so very eloquently putting into words why "the Hobbit" is a class all on its own.]]></body>
+  
+  <user>
+    <id>18983415</id>
+    <name>Laura</name>
+    <display_name>Laura</display_name>
+
+    <location>San Juan, Puerto Rico</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18983415-laura]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480463301p3/18983415.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480463301p2/18983415.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 29 00:14:14 -0700 2013</created_at>
+  <updated_at>Thu Aug 29 00:14:14 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85862661</id>
+  <body><![CDATA[What a lovely, insightful review! Thanks.]]></body>
+  
+  <user>
+    <id>1460812</id>
+    <name>Mary</name>
+    <display_name>Mary</display_name>
+
+    <location>Mount Kisco, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1460812-mary]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1339640891p3/1460812.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1339640891p2/1460812.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Oct 30 08:17:09 -0700 2013</created_at>
+  <updated_at>Wed Oct 30 08:17:09 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>89260418</id>
+  <body><![CDATA[I love you all!]]></body>
+  
+  <user>
+    <id>26942835</id>
+    <name>Orion</name>
+    <display_name>Orion</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/26942835-orion]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Dec 25 15:15:11 -0800 2013</created_at>
+  <updated_at>Wed Dec 25 15:15:11 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>91223462</id>
+  <body><![CDATA[love this review , it really conects with the book in a deep way.]]></body>
+  
+  <user>
+    <id>27744757</id>
+    <name>Ella</name>
+    <display_name>Ella Strandberg</display_name>
+
+    <location>Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27744757-ella-strandberg]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1389886789p3/27744757.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1389886789p2/27744757.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 22 11:46:01 -0800 2014</created_at>
+  <updated_at>Wed Jan 22 11:46:01 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95643123</id>
+  <body><![CDATA[I read The Hobbit once when I was 11. It changed me. I've sat back and watched as it changed the whole world since then.]]></body>
+  
+  <user>
+    <id>7445671</id>
+    <name>Anne</name>
+    <display_name>Anne Schilde</display_name>
+
+    <location>Berkeley, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7445671-anne-schilde]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1400528650p3/7445671.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1400528650p2/7445671.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Mar 30 00:18:08 -0700 2014</created_at>
+  <updated_at>Sun Mar 30 00:18:08 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95703936</id>
+  <body><![CDATA[<i>Anne wrote: "I read The Hobbit once when I was 11. It changed me. I've sat back and watched as it changed the whole world since then."</i><br /><br />If this was a review, I'd 'like' it. <br /><br />Yes, I suppose it has. I've been on the front lines of that and seen it, both the good and the bad, playing out like Feanor's doomed and ill-considered invasion. Tolkien welded his stories together from two things he loved very deeply - Northern European pagan myths, and Christ Jesus. It's too things that don't easily hang together, as well he knew. <br /><br />Since that time, his stories have gained a mythic power of their own - just as the works of craftsmanship within his story like the Rings of Power did. There are now three camps. Those that I think somewhat understand the good professor and his stories and love them. Those that hate them because they understand them and see they are stories which point to Christ. And those that love them, but love them without understanding them, and so desire to reshape the stories into more explicitly pagan myths of the power of swords and violence and superheroes of greater than human stature. <br /><br />It has been a bitter beautiful story, long in the telling, full of folly and beauty, piety and pride. I'm still in awe of what he accomplished, but I think I understand better why it terrified him now than I did years ago when I only rued that he did not write more.]]></body>
+  
+  <user>
+    <id>1205220</id>
+    <name>Matt</name>
+    <display_name>Matt</display_name>
+
+    <location>Columbus, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1205220-matt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1216068593p3/1205220.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1216068593p2/1205220.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Mar 30 21:17:36 -0700 2014</created_at>
+  <updated_at>Sun Mar 30 21:17:36 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>99347875</id>
+  <body><![CDATA[do you like the lord of the rings answer back ASAP]]></body>
+  
+  <user>
+    <id>31797054</id>
+    <name>Chad &amp; Neely Silverman</name>
+    <display_name>Chad &amp; Neely Silverman</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/31797054-chad-neely-silverman]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu May 29 04:58:42 -0700 2014</created_at>
+  <updated_at>Thu May 29 04:58:42 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>99350870</id>
+  <body><![CDATA[<i>Matt wrote: "Anne wrote: "I read The Hobbit once when I was 11. It changed me. I've sat back and watched as it changed the whole world since then."<br /><br />If this was a review, I'd 'like' it. <br /><br />Yes, I suppose it has...."</i><br /><br />Don't forget that camp who denounce it as Satanic! Granted hardly anyone, let alone other Christians, take them seriously. They do often bring hilarity with them, though. Or pathetic-ness whichever way you wish to view it.]]></body>
+  
+  <user>
+    <id>11098577</id>
+    <name>Somerandom</name>
+    <display_name>Somerandom</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11098577-somerandom]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1362968315p3/11098577.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1362968315p2/11098577.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 29 06:13:38 -0700 2014</created_at>
+  <updated_at>Thu May 29 06:13:38 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>99360507</id>
+  <body><![CDATA[C&amp;NS: I believe I have on my profile listed as my favorite books only 'The Lord of the Rings'. As such, it seems like a strange question to ask me, much less require that I 'answer back ASAP'. But, yes, since you ask, I profoundly and deeply admire 'The Lord of the Rings'. 'Like' is far too weak of a word.]]></body>
+  
+  <user>
+    <id>1205220</id>
+    <name>Matt</name>
+    <display_name>Matt</display_name>
+
+    <location>Columbus, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1205220-matt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1216068593p3/1205220.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1216068593p2/1205220.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 29 09:31:29 -0700 2014</created_at>
+  <updated_at>Thu May 29 09:31:29 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>99360728</id>
+  <body><![CDATA[Somerandom: That camp probably includes to a certain extent Tolkien himself, given the manner with which he began to attack the underpinnings of his fiction near the end of his life once he realized people were taking his fiction seriously. I should be careful about viewing other people unseriously, as comic relief, or as pathetic since one never quite knows whether or not other people are viewing you in the same way. One never learns much of anything if one can't be sympathetic for viewpoints you don't share. I've often found that people who mock others ignorance do so out of ignorance.]]></body>
+  
+  <user>
+    <id>1205220</id>
+    <name>Matt</name>
+    <display_name>Matt</display_name>
+
+    <location>Columbus, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1205220-matt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1216068593p3/1205220.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1216068593p2/1205220.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 29 09:36:27 -0700 2014</created_at>
+  <updated_at>Thu May 29 09:36:27 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>99387609</id>
+  <body><![CDATA[<i>Matt wrote: "Somerandom: That camp probably includes to a certain extent Tolkien himself, given the manner with which he began to attack the underpinnings of his fiction near the end of his life once he realize..."</i><br /><br />I only mock them because I'm tried of everything being accused of promoting Satanism. While not a very prominent viewpoint where I live, you certainly hear of it and it gets tiresome. I've listened to their arguments and have no choice but to conclude that they either wish to live in a bubble and are ignorant of literally anything not mentioned in the Bible. Or are so paranoid that literally any symbol outside Christianity is instantly labelled "Demonic" or "Pagan" and that they have way way too much time on their hands.<br /><br />Perhaps I just have yet to come across a decent well thought out argument in favor of such a view (though I'm going to check out what Tolkien had to say about his work now.) When that happens I am ready and willing to give it a fair chance to see if it can offer me a sympathetic perspective. <br />Until then, however, I have resigned myself to mocking them.]]></body>
+  
+  <user>
+    <id>11098577</id>
+    <name>Somerandom</name>
+    <display_name>Somerandom</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11098577-somerandom]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1362968315p3/11098577.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1362968315p2/11098577.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 29 18:10:40 -0700 2014</created_at>
+  <updated_at>Thu May 29 18:10:40 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>99973336</id>
+  <body><![CDATA[Matt have you ever tried Artemis fowl by Eoin colfer. p.s. i won't answer back ASAP]]></body>
+  
+  <user>
+    <id>31797054</id>
+    <name>Chad &amp; Neely Silverman</name>
+    <display_name>Chad &amp; Neely Silverman</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/31797054-chad-neely-silverman]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Jun 08 17:00:52 -0700 2014</created_at>
+  <updated_at>Sun Jun 08 17:00:52 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>100035977</id>
+  <body><![CDATA[babysitter tonight ): groan]]></body>
+  
+  <user>
+    <id>31797054</id>
+    <name>Chad &amp; Neely Silverman</name>
+    <display_name>Chad &amp; Neely Silverman</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/31797054-chad-neely-silverman]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 09 17:11:36 -0700 2014</created_at>
+  <updated_at>Mon Jun 09 17:11:36 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>100100309</id>
+  <body><![CDATA[Orion why did you say i love you all instead of complimenting Matt on his review]]></body>
+  
+  <user>
+    <id>31797054</id>
+    <name>Chad &amp; Neely Silverman</name>
+    <display_name>Chad &amp; Neely Silverman</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/31797054-chad-neely-silverman]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Jun 10 17:06:25 -0700 2014</created_at>
+  <updated_at>Tue Jun 10 17:06:25 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>100641678</id>
+  <body><![CDATA[Thanks for the enlightment, your review convinced me and makes me excited about this book. <br />This review is one of a profound impact.]]></body>
+  
+  <user>
+    <id>23776290</id>
+    <name>Thais</name>
+    <display_name>Thais Lasso</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23776290-thais-lasso]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1393520696p3/23776290.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1393520696p2/23776290.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 19 17:53:12 -0700 2014</created_at>
+  <updated_at>Thu Jun 19 17:53:12 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>102711201</id>
+  <body><![CDATA[I am only fourteen and I am on my fourth time with this book. I like reading The Silmarillian, then The Hobbit, then The Lord of the Rings.]]></body>
+  
+  <user>
+    <id>31680935</id>
+    <name>Bobby Mitchell</name>
+    <display_name>Bobby Mitchell</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/31680935-bobby-mitchell]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Jul 21 17:28:45 -0700 2014</created_at>
+  <updated_at>Mon Jul 21 17:28:45 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>116712990</id>
+  <body><![CDATA[If there is a review to do the book justice, than this would be it.]]></body>
+  
+  <user>
+    <id>41287508</id>
+    <name>AvaLo-Ryn Ravely</name>
+    <display_name>AvaLo-Ryn Ravely</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/41287508-avalo-ryn-ravely]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1426556790p3/41287508.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1426556790p2/41287508.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 25 20:50:48 -0700 2015</created_at>
+  <updated_at>Wed Mar 25 20:50:48 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>116901643</id>
+  <body><![CDATA[thanks]]></body>
+  
+  <user>
+    <id>41631095</id>
+    <name>misti</name>
+    <display_name>misti</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/41631095-misti]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Mar 29 18:31:51 -0700 2015</created_at>
+  <updated_at>Sun Mar 29 18:31:51 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>116902237</id>
+  <body><![CDATA[thanks for the great rating . thanks]]></body>
+  
+  <user>
+    <id>41631095</id>
+    <name>misti</name>
+    <display_name>misti</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/41631095-misti]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Mar 29 18:43:28 -0700 2015</created_at>
+  <updated_at>Sun Mar 29 18:43:28 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>116902272</id>
+  <body><![CDATA[thanks]]></body>
+  
+  <user>
+    <id>41631095</id>
+    <name>misti</name>
+    <display_name>misti</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/41631095-misti]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Mar 29 18:43:53 -0700 2015</created_at>
+  <updated_at>Sun Mar 29 18:43:53 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>118669168</id>
+  <body><![CDATA[Interesting]]></body>
+  
+  <user>
+    <id>42738995</id>
+    <name>Matthew Black</name>
+    <display_name>Matthew Black</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/42738995-matthew-black]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun May 03 09:00:40 -0700 2015</created_at>
+  <updated_at>Sun May 03 09:00:40 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>118944387</id>
+  <body><![CDATA[Found this review via mary_j_59's latest livejournal post.]]></body>
+  
+  <user>
+    <id>25846512</id>
+    <name>David W.</name>
+    <display_name>David W.</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25846512-david-w]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1395127623p3/25846512.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1395127623p2/25846512.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri May 08 20:21:49 -0700 2015</created_at>
+  <updated_at>Fri May 08 20:21:49 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141199413</id>
+  <body><![CDATA[I think that is my favourite book of all time! ;)]]></body>
+  
+  <user>
+    <id>34207574</id>
+    <name>Miquel</name>
+    <display_name>Miquel Reina</display_name>
+
+    <location>Barcelona, Spain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34207574-miquel-reina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1472878884p3/34207574.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1472878884p2/34207574.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Oct 08 03:06:16 -0700 2015</created_at>
+  <updated_at>Thu Oct 08 03:06:16 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141306299</id>
+  <body><![CDATA[This book was amazing! Best, best fantasy I have EVER read. Hands down. Tops everything! If any of his other books are like this, I cannot WAIT to read them! If this was the first time you've picked up the book like me then you're in for a treat. Delightful characters, amusing dialogue, plenty of action and suspense as well. One thing I really liked about the book was how you got to see the best and worst of each character, during their ups and downs, during the hard times and the good ones. It sort of made the book authentic.<br />This is one book I could read over and over and it never lose its charm. Highly recommend it. If you don't believe me, see for yourself! :D]]></body>
+  
+  <user>
+    <id>47172235</id>
+    <name>M. T. Payton</name>
+    <display_name>M. T. Payton</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/47172235-m-t-payton]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat Oct 10 18:29:41 -0700 2015</created_at>
+  <updated_at>Sat Oct 10 18:29:41 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141850880</id>
+  <body><![CDATA[test]]></body>
+  
+  <user>
+    <id>48219342</id>
+    <name>Jose Aravena</name>
+    <display_name>Jose Aravena</display_name>
+
+    <location>Chile</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/48219342-jose-aravena]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 23 20:17:26 -0700 2015</created_at>
+  <updated_at>Fri Oct 23 20:17:26 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>144083786</id>
+  <body><![CDATA[I know dude, that is so true.]]></body>
+  
+  <user>
+    <id>47851147</id>
+    <name>Gerardo</name>
+    <display_name>Gerardo Tamayo</display_name>
+
+    <location>Tampico, 28, Mexico</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/47851147-gerardo-tamayo]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1449148653p3/47851147.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1449148653p2/47851147.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 08 15:00:44 -0800 2015</created_at>
+  <updated_at>Tue Dec 08 15:00:44 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>144137922</id>
+  <body><![CDATA[Good review, I totally agree on your points.]]></body>
+  
+  <user>
+    <id>47847210</id>
+    <name>Juan</name>
+    <display_name>Juan Sarmiento</display_name>
+
+    <location>Tampico, 19, Mexico</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/47847210-juan-sarmiento]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1444661455p3/47847210.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1444661455p2/47847210.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Dec 09 19:55:03 -0800 2015</created_at>
+  <updated_at>Wed Dec 09 19:55:03 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>144137929</id>
+  <body><![CDATA[<i>Gerardo wrote: "I know dude, that is so true."</i> True dat]]></body>
+  
+  <user>
+    <id>47847210</id>
+    <name>Juan</name>
+    <display_name>Juan Sarmiento</display_name>
+
+    <location>Tampico, 19, Mexico</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/47847210-juan-sarmiento]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1444661455p3/47847210.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1444661455p2/47847210.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Dec 09 19:55:11 -0800 2015</created_at>
+  <updated_at>Wed Dec 09 19:55:11 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>147397963</id>
+  <body><![CDATA[Well put!]]></body>
+  
+  <user>
+    <id>23695891</id>
+    <name>Countryrooster64</name>
+    <display_name>Countryrooster64</display_name>
+
+    <location>London, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23695891-countryrooster64]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1390860186p3/23695891.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1390860186p2/23695891.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Feb 10 15:22:57 -0800 2016</created_at>
+  <updated_at>Wed Feb 10 15:22:57 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>149379941</id>
+  <body><![CDATA[i''ve read the Hobbit two times]]></body>
+  
+  <user>
+    <id>54238937</id>
+    <name>Derek Mitchell</name>
+    <display_name>Derek Mitchell</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/54238937-derek-mitchell]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu Mar 24 13:04:10 -0700 2016</created_at>
+  <updated_at>Thu Mar 24 13:04:10 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>153136792</id>
+  <body><![CDATA[What an excellent review! If I hadn't already read this many times, your review would make me want to read it.]]></body>
+  
+  <user>
+    <id>56927648</id>
+    <name>Tauriel</name>
+    <display_name>Tauriel</display_name>
+
+    <location>Ashburn, VA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/56927648-tauriel]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat Jun 18 15:55:51 -0700 2016</created_at>
+  <updated_at>Sat Jun 18 15:55:51 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155577282</id>
+  <body><![CDATA[i lovethis book so much i love th way they discribed every thing it maes pickture in my min tat i will not forget!!!!]]></body>
+  
+  <user>
+    <id>49618733</id>
+    <name>Gary La Haie</name>
+    <display_name>Gary La Haie</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/49618733-gary-la-haie]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 15 12:16:27 -0700 2016</created_at>
+  <updated_at>Mon Aug 15 12:16:27 -0700 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/23503181]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/23503181]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

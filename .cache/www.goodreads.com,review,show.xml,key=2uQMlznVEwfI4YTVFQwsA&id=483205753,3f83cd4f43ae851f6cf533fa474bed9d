@@ -1,0 +1,966 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:42:19 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: 547EP4CAT0VH32TRDD0Y
+etag: W/"0de8d3f49d932448ab66c3ad2d5ebac3"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.375669
+set-cookie: csid=BAhJIhg2MjEtNzMwNzg5Ni0xNjYzNjM2BjoGRVQ%3D--ddba30714a6905989bcb2b1bd21de8feb85de57b; path=/; expires=Tue, 12 May 2037 13:42:18 -0000, locale=es; path=/, _session_id2=005ac046e512fc68eb1c6cf23d8c7ac3; path=/; expires=Fri, 12 May 2017 19:42:19 -0000; HttpOnly
+content-length: 40913
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=483205753
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>483205753</id>
+    
+  <user>
+    <id>10179929</id>
+    <name>Sanjay</name>
+    <display_name>Sanjay Gautam</display_name>
+
+    <location>Lucknow, UP, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10179929-sanjay-gautam]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1427923732p3/10179929.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1427923732p2/10179929.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">492286</id>
+  <isbn>0722532938</isbn>
+  <isbn13>9780722532935</isbn13>
+  <text_reviews_count type="integer">505</text_reviews_count>
+  <title>The Alchemist</title>
+  <title_without_series>The Alchemist</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1466865451m/492286.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1466865451s/492286.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/492286.The_Alchemist</link>
+  <num_pages>177</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Harper Collins Publishers</publisher>
+  <publication_day>3</publication_day>
+  <publication_year>1999</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.81</average_rating>
+  <ratings_count>1348164</ratings_count>
+  <description>Every few decades a book is published that changes the lives of its readers forever. Paulo Coelho's &lt;i&gt; The Alchemist &lt;/i&gt; is such a book With over a million and a half copies sold in Latin America and Europe, &lt;i&gt; The Alchemist &lt;/i&gt; has already achieved the status of a modern classic. Now this charming fable has been translated into English to enchant and inspire an even wider audience for years to come.&lt;br /&gt;&lt;br /&gt;Here is the magical story of Santiago, an Andalusian shepherd boy who yearns to travel in search of a worldly treasure as extravagant as any ever found. From his home in Spain he journeys to the markets of Tangiers into the Egyptian desert where a fateful encounter with the alchemist awaits him. &lt;br /&gt;&lt;br /&gt;This is a story that teaches us, as only few stories can, about the essential wisdom of listening to our hearts, learning to read the omens strewn along life's path and, above, all follow our dreams.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;"Paulo Coelho... has attained the technical levels of a Saint-Exupery or a Richard Bach."&lt;/i&gt; - Folha da Sao Paulo</description>
+<authors>
+<author>
+<id>566</id>
+<name>Paulo Coelho</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201840056p5/566.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201840056p2/566.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/566.Paulo_Coelho]]></link>
+<average_rating>3.72</average_rating>
+<ratings_count>2124981</ratings_count>
+<text_reviews_count>96430</text_reviews_count>
+</author>
+</authors>
+  <published>1999</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">67172600</id>
+          <old_status>read</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Wed Jun 26 16:54:18 -0700 2013</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">67166765</id>
+          <old_status>to-read</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Wed Jun 26 16:48:00 -0700 2013</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>2</rating>
+  <votes>102</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Jun 27 00:00:00 -0700 2013</read_at>
+  <date_added>Sat Dec 22 14:08:58 -0800 2012</date_added>
+  <date_updated>Sun Nov 08 10:12:53 -0800 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[The book is full of messages and symbolizes our life actions interwoven in a very complex yet in elementary patterns which can be deciphered if one persists and have longing in his heart. It is not just following the heart blindly; but never ignoring what it says. Its important message is to keep...]]>
+  </body>
+
+  
+
+  <comments_count>36</comments_count>
+    <comments start="1" end="36" total="36">
+        <comment>
+  <id>118869880</id>
+  <body><![CDATA[Your review seems almost poetic, yet you only rated it two stars. What didn't you like about the book? I haven't read it yet, so I'm curious!]]></body>
+  
+  <user>
+    <id>4653644</id>
+    <name>Celise</name>
+    <display_name>Celise</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4653644-celise]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1479580726p3/4653644.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1479580726p2/4653644.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 07 08:19:52 -0700 2015</created_at>
+  <updated_at>Thu May 07 08:19:52 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>118878082</id>
+  <body><![CDATA[I like your candour encased in humility, Sanjay, saying what the book is about but not giving in to the pressure of rating a popular book highly when you found it lacking. Good one :)]]></body>
+  
+  <user>
+    <id>5407952</id>
+    <name>Jibran</name>
+    <display_name>Jibran</display_name>
+
+    <location><![CDATA[Mohenjodaro, Pakistan, Pakistan]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5407952-jibran]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1418924179p3/5407952.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1418924179p2/5407952.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 07 11:29:25 -0700 2015</created_at>
+  <updated_at>Thu May 07 11:29:25 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>118878868</id>
+  <body><![CDATA[Well since you haven't read it yet, it would be a spoiler if I tell you. Which may change your perception about the book. But I at least I can say, without spoiling, that book had a flow but some how couldn't maintain it at many places, it was random, I felt. And the writing was not, you know, at par with other books I've read (well its a translation in English, but a mediocre one). <br /><br />The characters never had any psychology, I never knew how the character is building inside the novel. They were just behind something, and that's it. The novel couldn't hook my attention for long, it was boring sometimes too. I wanted to like the book, because it actually have some real insights towards life, but I couldn't like it. It was the story that was not up to the mark for me. Not enough detail, only superficial details were provided. And it felt like that the author never actually wanted to write this novel except to convey a meaning. Which he actually did, at the expense of not-detailed, a little dry, story. <br />All that I could like the best about the book I've written in review. That's the best part. And, in my opinion, give this book a shot, one can at learn something from it.]]></body>
+  
+  <user>
+    <id>10179929</id>
+    <name>Sanjay</name>
+    <display_name>Sanjay Gautam</display_name>
+
+    <location>Lucknow, UP, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10179929-sanjay-gautam]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1427923732p3/10179929.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1427923732p2/10179929.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 07 11:46:22 -0700 2015</created_at>
+  <updated_at>Thu May 07 11:46:22 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>118879483</id>
+  <body><![CDATA[<i>Jibran wrote: "I like your candour encased in humility, Sanjay, saying what the book is about but not giving in to the pressure of rating a popular book highly when you found it lacking. Good one :)"</i><br /><br />Thank you, Jibran.]]></body>
+  
+  <user>
+    <id>10179929</id>
+    <name>Sanjay</name>
+    <display_name>Sanjay Gautam</display_name>
+
+    <location>Lucknow, UP, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10179929-sanjay-gautam]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1427923732p3/10179929.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1427923732p2/10179929.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 07 11:59:19 -0700 2015</created_at>
+  <updated_at>Thu May 07 11:59:19 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>118884254</id>
+  <body><![CDATA[Thank you for that, that answers my question. I think I will still try it as it's fairly short. Good on you for picking out the positives for your review :)]]></body>
+  
+  <user>
+    <id>4653644</id>
+    <name>Celise</name>
+    <display_name>Celise</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4653644-celise]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1479580726p3/4653644.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1479580726p2/4653644.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 07 13:40:31 -0700 2015</created_at>
+  <updated_at>Thu May 07 13:40:31 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>118884565</id>
+  <body><![CDATA[<i>Celise wrote: "Thank you for that, that answers my question. I think I will still try it as it's fairly short. Good on you for picking out the positives for your review :)"</i><br /><br />Hey its my pleasure, Celise!]]></body>
+  
+  <user>
+    <id>10179929</id>
+    <name>Sanjay</name>
+    <display_name>Sanjay Gautam</display_name>
+
+    <location>Lucknow, UP, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10179929-sanjay-gautam]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1427923732p3/10179929.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1427923732p2/10179929.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 07 13:47:46 -0700 2015</created_at>
+  <updated_at>Thu May 07 13:47:46 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>130516423</id>
+  <body><![CDATA[I totally agree with your comment, Sanjay.]]></body>
+  
+  <user>
+    <id>2475858</id>
+    <name>Sharyl</name>
+    <display_name>Sharyl</display_name>
+
+    <location>Mechanicsburg, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2475858-sharyl]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1489234521p3/2475858.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1489234521p2/2475858.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 18 06:48:27 -0700 2015</created_at>
+  <updated_at>Thu Jun 18 06:48:27 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>130517102</id>
+  <body><![CDATA[<i>Sharyl wrote: "I totally agree with your comment, Sanjay."</i><br /><br />Thanx for reading, Sharyl. This is what I could extract from this book. IMO this was the whole purpose of the book- to convey this message.]]></body>
+  
+  <user>
+    <id>10179929</id>
+    <name>Sanjay</name>
+    <display_name>Sanjay Gautam</display_name>
+
+    <location>Lucknow, UP, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10179929-sanjay-gautam]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1427923732p3/10179929.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1427923732p2/10179929.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 18 07:08:15 -0700 2015</created_at>
+  <updated_at>Thu Jun 18 07:08:15 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>137834888</id>
+  <body><![CDATA[Hey Sanjay, I felt the same about this one. I just tried to take in to account it was written 25 years ago.]]></body>
+  
+  <user>
+    <id>12620745</id>
+    <name>Debbie &quot;DJ&quot;</name>
+    <display_name>Debbie &quot;DJ&quot;</display_name>
+
+    <location>Palm Desert, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12620745-debbie-dj]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1407426768p3/12620745.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1407426768p2/12620745.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 02 12:26:05 -0700 2015</created_at>
+  <updated_at>Sun Aug 02 12:26:05 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>139404405</id>
+  <body><![CDATA[<i>Celise wrote: "Your review seems almost poetic, yet you only rated it two stars. What didn't you like about the book? I haven't read it yet, so I'm curious!"</i><br /><br />If you are curious, then go for it now...........]]></body>
+  
+  <user>
+    <id>41898431</id>
+    <name>Azimur</name>
+    <display_name>Azimur Rashid Kanak</display_name>
+
+    <location>Dhaka, 81, Bangladesh</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/41898431-azimur-rashid-kanak]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1453881699p3/41898431.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1453881699p2/41898431.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 28 21:38:41 -0700 2015</created_at>
+  <updated_at>Fri Aug 28 21:38:41 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>140015630</id>
+  <body><![CDATA[Why rate it 2 stars? Didn't you understand the book?]]></body>
+  
+  <user>
+    <id>46878417</id>
+    <name>Anmol</name>
+    <display_name>Anmol</display_name>
+
+    <location>Delhi, 07, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/46878417-anmol]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 11 06:20:53 -0700 2015</created_at>
+  <updated_at>Fri Sep 11 06:20:53 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>140016013</id>
+  <body><![CDATA[<i>Anmol wrote: "Why rate it 2 stars? Didn't you understand the book?"</i><br /><br />Two stars only because the book conveys what I've written in my review. <br />Overall, except only for this message, the book was bull shit. And you know I've been quite generous that I've given this poorly written book two stars. I could've given it one star but only for that shitty message I've given it two stars. <br /><br />p.s: If you think this book is very good and I didn't understand it, then you are ignorant of the rich literature that exists in the world.]]></body>
+  
+  <user>
+    <id>10179929</id>
+    <name>Sanjay</name>
+    <display_name>Sanjay Gautam</display_name>
+
+    <location>Lucknow, UP, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10179929-sanjay-gautam]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1427923732p3/10179929.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1427923732p2/10179929.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 11 06:32:39 -0700 2015</created_at>
+  <updated_at>Fri Sep 11 06:32:39 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>140016334</id>
+  <body><![CDATA[I'm with you on this one Sajay; it got two stars from me too!]]></body>
+  
+  <user>
+    <id>4643325</id>
+    <name>Paul</name>
+    <display_name>Paul</display_name>
+
+    <location><![CDATA[Lincoln (UK), The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4643325-paul]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291982123p3/4643325.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291982123p2/4643325.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 11 06:41:56 -0700 2015</created_at>
+  <updated_at>Fri Sep 11 06:41:56 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>140016845</id>
+  <body><![CDATA[Well I can't blame you. Only a few wise men understand these things.]]></body>
+  
+  <user>
+    <id>46878417</id>
+    <name>Anmol</name>
+    <display_name>Anmol</display_name>
+
+    <location>Delhi, 07, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/46878417-anmol]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 11 06:57:30 -0700 2015</created_at>
+  <updated_at>Fri Sep 11 06:57:30 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>140017205</id>
+  <body><![CDATA[With the emphasis being on men's wisdom. The women in this are entirely passive. It's men's wisdom that has got the world into the mess it is in at present!]]></body>
+  
+  <user>
+    <id>4643325</id>
+    <name>Paul</name>
+    <display_name>Paul</display_name>
+
+    <location><![CDATA[Lincoln (UK), The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4643325-paul]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291982123p3/4643325.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291982123p2/4643325.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 11 07:08:51 -0700 2015</created_at>
+  <updated_at>Fri Sep 11 07:08:51 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>140021145</id>
+  <body><![CDATA[<i>Anmol wrote: "Well I can't blame you. Only a few wise men understand these things."</i><br /><br />LOL... if the wisdom contained in this book is so esoteric then I'm happy with my ignorance. <br /><br /><br />p.s: It's all subjective - all your likes and dislikes. And I, too, don't blame you for your esoteric wisdom that you gained from this book.]]></body>
+  
+  <user>
+    <id>10179929</id>
+    <name>Sanjay</name>
+    <display_name>Sanjay Gautam</display_name>
+
+    <location>Lucknow, UP, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10179929-sanjay-gautam]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1427923732p3/10179929.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1427923732p2/10179929.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 11 08:54:45 -0700 2015</created_at>
+  <updated_at>Fri Sep 11 08:54:45 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>140021276</id>
+  <body><![CDATA[<i>Paul wrote: "With the emphasis being on men's wisdom. The women in this are entirely passive. It's men's wisdom that has got the world into the mess it is in at present!"</i><br /><br /><br />Thanks for your kind words, Paul. I agree with you, absolutely.]]></body>
+  
+  <user>
+    <id>10179929</id>
+    <name>Sanjay</name>
+    <display_name>Sanjay Gautam</display_name>
+
+    <location>Lucknow, UP, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10179929-sanjay-gautam]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1427923732p3/10179929.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1427923732p2/10179929.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 11 08:59:08 -0700 2015</created_at>
+  <updated_at>Fri Sep 11 08:59:08 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>142536462</id>
+  <body><![CDATA[One of my pet hates, this book! Derivative new age claptrap if you ask me!]]></body>
+  
+  <user>
+    <id>4196681</id>
+    <name>Violet</name>
+    <display_name>Violet wells</display_name>
+
+    <location>florence, tuscany, Italy</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4196681-violet-wells]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442260743p3/4196681.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442260743p2/4196681.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 08 07:43:15 -0800 2015</created_at>
+  <updated_at>Sun Nov 08 07:43:15 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>142537451</id>
+  <body><![CDATA[<i>Violet wrote: "One of my pet hates, this book! Derivative new age claptrap if you ask me!"</i><br /><br />Lol...<br />True, all these new age movement books sounds good just because of their hype, and not because of their content.]]></body>
+  
+  <user>
+    <id>10179929</id>
+    <name>Sanjay</name>
+    <display_name>Sanjay Gautam</display_name>
+
+    <location>Lucknow, UP, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10179929-sanjay-gautam]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1427923732p3/10179929.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1427923732p2/10179929.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 08 08:14:40 -0800 2015</created_at>
+  <updated_at>Sun Nov 08 08:14:40 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>142537520</id>
+  <body><![CDATA[Great, balanced review. I could also see some good in this book, but couldn't get past the way it was written.]]></body>
+  
+  <user>
+    <id>1899725</id>
+    <name>Lily</name>
+    <display_name>Lily</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1899725-lily]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1451003929p3/1899725.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1451003929p2/1899725.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 08 08:16:32 -0800 2015</created_at>
+  <updated_at>Sun Nov 08 08:16:32 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>142537534</id>
+  <body><![CDATA[<i>Fatty wrote: "I like that you chose to focus on the positives for your review! That's refreshing; I probably couldn't manage it.<br />I didn't care for this book much, either. I won't say that I hated it but I couldn..."</i><br /><br />Same here. I felt the same. This book is overrated, and certainly it's not enjoyble. Thanks for the comment.]]></body>
+  
+  <user>
+    <id>10179929</id>
+    <name>Sanjay</name>
+    <display_name>Sanjay Gautam</display_name>
+
+    <location>Lucknow, UP, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10179929-sanjay-gautam]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1427923732p3/10179929.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1427923732p2/10179929.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 08 08:16:56 -0800 2015</created_at>
+  <updated_at>Sun Nov 08 08:16:56 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>142537798</id>
+  <body><![CDATA[<i>Lily wrote: "Great, balanced review. I could also see some good in this book, but couldn't get past the way it was written."</i><br /><br />Thanks, Lily. This book is overrated and overhyped. But here in India I've seen it is actually a favortie book among those who don't read (people who have read just 4 or 5 books in their whole life, including prescribed school novels). But, of course, it's not all bad; it does contain something worthwhile - some basic ideas and some motivation.]]></body>
+  
+  <user>
+    <id>10179929</id>
+    <name>Sanjay</name>
+    <display_name>Sanjay Gautam</display_name>
+
+    <location>Lucknow, UP, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10179929-sanjay-gautam]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1427923732p3/10179929.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1427923732p2/10179929.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 08 08:24:22 -0800 2015</created_at>
+  <updated_at>Sun Nov 08 08:24:22 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>142541714</id>
+  <body><![CDATA[And I love this book ! Interesting point of view. I actually read it 3 times. It's the kind of book I buy and give away to dear friends.]]></body>
+  
+  <user>
+    <id>8976540</id>
+    <name>Xandraa</name>
+    <display_name>Xandraa</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8976540-xandraa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1475345442p3/8976540.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1475345442p2/8976540.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 08 10:08:47 -0800 2015</created_at>
+  <updated_at>Sun Nov 08 10:08:47 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>142541901</id>
+  <body><![CDATA[<i>"But here in India I've seen it is actually a favortie book among those who don't read (people who have read just 4 or 5 books in their whole life, including prescribed school novels)."</i><br /><br />LOL! That pretty much sums it up. Same goes for The Secret and Eat, Pray, Love.]]></body>
+  
+  <user>
+    <id>5858699</id>
+    <name>Kavita</name>
+    <display_name>Kavita</display_name>
+
+    <location>India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5858699-kavita]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1315387023p3/5858699.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1315387023p2/5858699.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 08 10:13:53 -0800 2015</created_at>
+  <updated_at>Sun Nov 08 10:13:53 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>142541903</id>
+  <body><![CDATA[<i>Xandraa wrote: "And I love this book ! Interesting point of view. I actually read it 3 times. It's the kind of book I buy and give away to dear friends."</i><br /><br />Well, I respect your opinion. :)<br />Thanks for the kind words.]]></body>
+  
+  <user>
+    <id>10179929</id>
+    <name>Sanjay</name>
+    <display_name>Sanjay Gautam</display_name>
+
+    <location>Lucknow, UP, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10179929-sanjay-gautam]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1427923732p3/10179929.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1427923732p2/10179929.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 08 10:13:54 -0800 2015</created_at>
+  <updated_at>Sun Nov 08 10:13:54 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>142542305</id>
+  <body><![CDATA[<i>Kavita wrote: ""But here in India I've seen it is actually a favortie book among those who don't read (people who have read just 4 or 5 books in their whole life, including prescribed school novels)."<br /><br />LOL! That ..."</i><br /><br />Thank you for paying a visit to the review. <br />And, yes, I agree with you. And one more point most of the new-age-pop books (such as Chetan Bhagat and others in India) are favorites among non-readers. Infact, they consider these (cheap) novels as an epitome of literature.]]></body>
+  
+  <user>
+    <id>10179929</id>
+    <name>Sanjay</name>
+    <display_name>Sanjay Gautam</display_name>
+
+    <location>Lucknow, UP, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10179929-sanjay-gautam]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1427923732p3/10179929.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1427923732p2/10179929.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 08 10:25:10 -0800 2015</created_at>
+  <updated_at>Sun Nov 08 10:25:10 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>142545785</id>
+  <body><![CDATA[It did not strike a chord with me either Sanjay.]]></body>
+  
+  <user>
+    <id>5859453</id>
+    <name>Arah-Lynda</name>
+    <display_name>Arah-Lynda</display_name>
+
+    <location>Kitchener, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5859453-arah-lynda]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492957789p3/5859453.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492957789p2/5859453.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 08 11:53:38 -0800 2015</created_at>
+  <updated_at>Sun Nov 08 11:53:38 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>142576322</id>
+  <body><![CDATA[I think you have the measure of this book, but did you select the quote because you thought it profound and helpful (in which case, can you explain it?!), or as an example of its pretentiousness?]]></body>
+  
+  <user>
+    <id>1199525</id>
+    <name>Cecily</name>
+    <display_name>Cecily</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1199525-cecily]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480285828p3/1199525.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480285828p2/1199525.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 09 05:10:26 -0800 2015</created_at>
+  <updated_at>Mon Nov 09 05:10:26 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>142577202</id>
+  <body><![CDATA[LOL! Awesome review! New age book! Hit the nail on the head there my friend!]]></body>
+  
+  <user>
+    <id>2457095</id>
+    <name>Apatt</name>
+    <display_name>Apatt</display_name>
+
+    <location>Bangkok, Thailand</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2457095-apatt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1349239948p3/2457095.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1349239948p2/2457095.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 09 05:38:26 -0800 2015</created_at>
+  <updated_at>Mon Nov 09 05:38:26 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>142587410</id>
+  <body><![CDATA[<i>Arah-Lynda wrote: "It did not strike a chord with me either Sanjay."</i><br /><br />This book is overrated and over hyped. And imo cannot strike a chord with serious readers unless they like to read self help books.]]></body>
+  
+  <user>
+    <id>10179929</id>
+    <name>Sanjay</name>
+    <display_name>Sanjay Gautam</display_name>
+
+    <location>Lucknow, UP, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10179929-sanjay-gautam]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1427923732p3/10179929.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1427923732p2/10179929.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 09 09:49:45 -0800 2015</created_at>
+  <updated_at>Mon Nov 09 09:49:45 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>142588406</id>
+  <body><![CDATA[<i>Sanjay wrote: <br />This book is overrated and over hyped. And imo cannot strike a chord with serious readers unless they like to read self help bo..."</i><br /><br /> Maybe I need to re-read it again. Lol !. I thought of it as a nice story. I have read self - help books. It is not my favorite genre but I try to read a variety of books. I did read The Secret ~ which was no secret after all. I realize that the NA movement takes from different disciplines and re-packages them. But, if the message gets across to the masses regardless of their intellectual level, don't you think it has accomplished its purpose?. I have known of people whose life has changed reading certain books.<br />:P]]></body>
+  
+  <user>
+    <id>8976540</id>
+    <name>Xandraa</name>
+    <display_name>Xandraa</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8976540-xandraa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1475345442p3/8976540.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1475345442p2/8976540.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 09 10:11:13 -0800 2015</created_at>
+  <updated_at>Mon Nov 09 10:11:13 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>142589032</id>
+  <body><![CDATA[<i>Cecily wrote: "I think you have the measure of this book, but did you select the quote because you thought it profound and helpful (in which case, can you explain it?!), or as an example of its pretentiousness?"</i><br /><br />Oh, yes. There were two types of quotes - <br />1). Which I understood and were helpful, in some sense, to me.<br />2). Which were cliched (and probably meaningless) and not useful; and there were hell lot of it. <br /><br />The most famous one was: "And, when you want something, all the universe conspires in helping you to achieve it". It was something that I could relate it with considering my psychological condition at the time. It at least provides some comfort to helpless people, and above all to procrastinators.<br /><br />Other quote was related to Truth. It was something like this: if you speak the naked truth no one would believe you, but if you speak a lie, sugar coating it, such that it sounds true, people will believe it.<br /><br />This one was somewhat reassuring : "Don't give in to your fears. If you do, you won't be able to talk to your heart."<br /><br />And one more, though cliched: “The secret of life, though, is to fall seven times and to get up eight times.”<br /><br />p.s: I guess, all the above mentioned quotes can be pretentious, too, at the same time as being useful.]]></body>
+  
+  <user>
+    <id>10179929</id>
+    <name>Sanjay</name>
+    <display_name>Sanjay Gautam</display_name>
+
+    <location>Lucknow, UP, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10179929-sanjay-gautam]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1427923732p3/10179929.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1427923732p2/10179929.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 09 10:24:09 -0800 2015</created_at>
+  <updated_at>Mon Nov 09 10:24:09 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>142591284</id>
+  <body><![CDATA[<i>Xandraa wrote: "But, if the message gets across to the masses regardless of their intellectual level, don't you think it has accomplished its purpose?. I have known of people whose life has changed reading certain books."</i><br /><br />True, but I agree with you partly. It does help the masses in some way or the other. But in my case I'd already read some great parables before reading this book. And this book in its entirety was not that great comparing with other books that I had read previously. <br /><br />I do not regard Cohello a fiction writer, but rather a spiritual guru who writes parables and stories, not to amuse but to enlighten. And it is here that I find Cohello far behind the gurus such as Osho, J Krishnamurthi, Huxley, Herman Hesse; and I've already read those guys before Cohello. So it's like: when you had already tasted something sweeter anything less sweeter would be tasteless. Same is the case with Cohello with me, because I'd already tasted something sweeter before reading him. <br /><br />On a different note: First impression is the last impression. For those people who claim that Cohello have changed their life, he must have been the first-of-its-kind author that those people have read. So it makes sense that they like him.]]></body>
+  
+  <user>
+    <id>10179929</id>
+    <name>Sanjay</name>
+    <display_name>Sanjay Gautam</display_name>
+
+    <location>Lucknow, UP, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10179929-sanjay-gautam]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1427923732p3/10179929.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1427923732p2/10179929.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 09 11:14:46 -0800 2015</created_at>
+  <updated_at>Mon Nov 09 11:14:46 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>142591523</id>
+  <body><![CDATA[<i>Apatt wrote: "LOL! Awesome review! New age book! Hit the nail on the head there my friend!"</i><br /><br />Thank you so much, Apatt.]]></body>
+  
+  <user>
+    <id>10179929</id>
+    <name>Sanjay</name>
+    <display_name>Sanjay Gautam</display_name>
+
+    <location>Lucknow, UP, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10179929-sanjay-gautam]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1427923732p3/10179929.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1427923732p2/10179929.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 09 11:19:48 -0800 2015</created_at>
+  <updated_at>Mon Nov 09 11:19:48 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>142600282</id>
+  <body><![CDATA[<i>Sanjay wrote: "Oh, yes. There were two types of quotes ...<br /><br />p.s: I guess, all the above mentioned quotes can be pretentious, too, at the same time as being useful. "</i><br /><br />Thanks for clarifying - and confirming my dusty memories. ;)]]></body>
+  
+  <user>
+    <id>1199525</id>
+    <name>Cecily</name>
+    <display_name>Cecily</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1199525-cecily]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480285828p3/1199525.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480285828p2/1199525.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 09 14:26:32 -0800 2015</created_at>
+  <updated_at>Mon Nov 09 14:26:32 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>157239347</id>
+  <body><![CDATA[From where i can download this.. Is there any site?]]></body>
+  
+  <user>
+    <id>43920750</id>
+    <name>SYmOOn</name>
+    <display_name>SYmOOn Moon</display_name>
+
+    <location>Peshawar, 03, Pakistan</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/43920750-symoon-moon]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Sep 25 09:46:07 -0700 2016</created_at>
+  <updated_at>Sun Sep 25 09:46:07 -0700 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/483205753]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/483205753]]></link>
+    <owned>1</owned>
+</review>
+
+
+</GoodreadsResponse>

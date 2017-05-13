@@ -1,0 +1,1265 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:40:39 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: T8H0TNV2GS2XZFED9WRW
+etag: W/"1657dc48e628054dbf6d6a3803f0b6e9"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.386195
+set-cookie: csid=BAhJIhg2ODktODU2NDQ5Mi05NTE2MzIxBjoGRVQ%3D--707359b060418a63fae5d8bd68180fbdcae27672; path=/; expires=Tue, 12 May 2037 13:40:38 -0000, locale=es; path=/, _session_id2=01bcd45cc685f79c453938c0b822c4c3; path=/; expires=Fri, 12 May 2017 19:40:39 -0000; HttpOnly
+content-length: 57021
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=388534945
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>388534945</id>
+    
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">12837725</id>
+  <isbn>030758836X</isbn>
+  <isbn13>9780307588364</isbn13>
+  <text_reviews_count type="integer">5054</text_reviews_count>
+  <title>Gone Girl</title>
+  <title_without_series>Gone Girl</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1327596526m/12837725.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1327596526s/12837725.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/12837725-gone-girl</link>
+  <num_pages>419</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Crown Publishers</publisher>
+  <publication_day>5</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.03</average_rating>
+  <ratings_count>1572069</ratings_count>
+  <description>On a warm summer morning in North Carthage, Missouri, it is Nick and Amy Dunne's fifth wedding anniversary. Presents are being wrapped and reservations are being made when Nick's clever and beautiful wife disappears from their rented McMansion on the Mississippi River. Husband-of-the-Year Nick isn't doing himself any favors with cringe-worthy daydreams about the slope and shape of his wife's head, but passages from Amy's diary reveal the alpha-girl perfectionist could have put anyone dangerously on edge. Under mounting pressure from the police and the media--as well as Amy's fiercely doting parents--the town golden boy parades an endless series of lies, deceits, and inappropriate behavior. Nick is oddly evasive, and he's definitely bitter--but is he really a killer? &lt;br /&gt;&lt;br /&gt; As the cops close in, every couple in town is soon wondering how well they know the one that they love. With his twin sister, Margo, at his side, Nick stands by his innocence. Trouble is, if Nick didn't do it, where is that beautiful wife? And what was in that silvery gift box hidden in the back of her bedroom closet?</description>
+<authors>
+<author>
+<id>2383</id>
+<name>Gillian Flynn</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1232123231p5/2383.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1232123231p2/2383.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2383.Gillian_Flynn]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>2349137</ratings_count>
+<text_reviews_count>184832</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">99986423</id>
+          <old_status>read</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Thu Jul 25 10:38:22 -0700 2013</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>415</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Fri Aug 10 00:00:00 -0700 2012</read_at>
+  <date_added>Fri Aug 10 12:23:23 -0700 2012</date_added>
+  <date_updated>Sat Jan 23 20:53:14 -0800 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[***MORE MOVIE NEWS*** <a href="http://litreactor.com/news/tyler-perry-neil-patrick-harris-and-others-confirmed-for-david-finchers-gone-girl" rel="nofollow">Gossipy sources say</a> that Neil Patrick Harris will play Amy's creepy ex, Desi, and Tyler Perry will play Ben Affleck/Nick's scumbag lawyer. If this thing isn't a blockbuster, I'll eat my hat.<br /><br />***UPDATE 7/25/2013***<br />Amy Dunne's role in the film offered to <a href="http://variety.com/2013/film/news/rosamund-pike-gone-girl-1200567997/" rel="nofollow">Rosamund Pike</a>, whoever...]]>
+  </body>
+
+  
+
+  <comments_count>381</comments_count>
+    <comments start="1" end="50" total="381">
+        <comment>
+  <id>55944932</id>
+  <body><![CDATA[Ha, I've been waiting to see someone rip into this. I've figured with the marketing and mass availability of this book it was one of those 'make me into a movie' books. Is this just a 'ripped from the headlines' but 'with a shocktastic twist' books, I mean, didn't this sort of thing just happen to that one woman. I'm blanking on the name but the premise sounds like something that just happened not long ago.<br /><br />SNARKTASTIC. Awesome.]]></body>
+  
+  <user>
+    <id>6431467</id>
+    <name>s.penkevich</name>
+    <display_name>s.penkevich</display_name>
+
+    <location>Holland, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6431467-s-penkevich]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487244329p3/6431467.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487244329p2/6431467.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 10 12:46:03 -0700 2012</created_at>
+  <updated_at>Fri Aug 10 12:46:03 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>55944933</id>
+  <body><![CDATA[Whoa, this is the first negative review I've seen of this book. It sounds so good and I plan on checking it out at some point, but I have to admit I didn't care for her first book...which everyone else also seems to love.]]></body>
+  
+  <user>
+    <id>2745288</id>
+    <name>Wendy Darling</name>
+    <display_name>Wendy Darling</display_name>
+
+    <location>Los Angeles, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2745288-wendy-darling]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1379959930p3/2745288.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1379959930p2/2745288.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 10 12:46:03 -0700 2012</created_at>
+  <updated_at>Fri Aug 10 12:46:03 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>55947263</id>
+  <body><![CDATA[It's one of those "man bad, woman good (if only by comparison)" books that make me want to vomit bile and swing an axe at the authoress. Because the people in it are vile, and venal, and I wanted all of them to die before uttering another sentence. Becuase at every turn, the easiest choice was the one the authoress made, and it resulted in a cheap, brummagem travesty of a thriller.<br /><br />I didn't want to go and get citations for these points, so I didn't put this in the review itself, but the reasons I hated it so much were founded in actual, writing-based problems with the text, and with the lock-step man dislike that a sizable contingent of woman writers display, apparently Flynn among them.<br /><br />Here's a test to apply: Change the author's gender, reverse the characters' roles, and then tell me the book isn't a sexist nightmare.]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 10 13:24:19 -0700 2012</created_at>
+  <updated_at>Fri Aug 10 13:24:19 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>55948842</id>
+  <body><![CDATA[Dang Richard. Perspective. Perspective. POV. POV. Thanks. Sometimes, scratch that-OFT times, one needs to have this smashed right back in their "all" knowing (yea right, j/k!) face. I love reading new takes that oppose all others. But only:<br /><br /><b>When said succinctly, within reason, as you have done here.</b>]]></body>
+  
+  <user>
+    <id>7584724</id>
+    <name>Wordsmith</name>
+    <display_name>Wordsmith</display_name>
+
+    <location>Tuscaloosa, AL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7584724-wordsmith]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1364818965p3/7584724.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1364818965p2/7584724.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 10 13:48:17 -0700 2012</created_at>
+  <updated_at>Fri Aug 10 13:48:17 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>55949906</id>
+  <body><![CDATA[...thanks...?<br /><br />It's hard to make a case against something when you hate it so much that going back through it for examples is too much like having your eyelashes pulled out with red-hot pincers.]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 10 14:03:09 -0700 2012</created_at>
+  <updated_at>Fri Aug 10 14:03:09 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>55950491</id>
+  <body><![CDATA[<i>Richard wrote: "...thanks...?<br /><br />It's hard to make a case against something when you hate it so much that going back through it for examples is too much like having your eyelashes pulled out with red-hot pincers."</i><br /><br />I love this!]]></body>
+  
+  <user>
+    <id>10696812</id>
+    <name> Linda (Miss Greedybooks)</name>
+    <display_name> Linda (Miss Greedybooks)</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10696812-linda-miss-greedybooks]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1341608934p3/10696812.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1341608934p2/10696812.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 10 14:12:34 -0700 2012</created_at>
+  <updated_at>Fri Aug 10 14:12:34 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>55950911</id>
+  <body><![CDATA[So I should heat up the pincers, Linda?]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 10 14:19:01 -0700 2012</created_at>
+  <updated_at>Fri Aug 10 14:19:01 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>55951094</id>
+  <body><![CDATA[No, no, the hot spoons are a bit easier. I do not really like my eyes on fire so much. But thanks for the offer Richard. :)<br /><br />I meant that I love the comparison to looking back through books for examples of why something was so crappy.]]></body>
+  
+  <user>
+    <id>10696812</id>
+    <name> Linda (Miss Greedybooks)</name>
+    <display_name> Linda (Miss Greedybooks)</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10696812-linda-miss-greedybooks]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1341608934p3/10696812.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1341608934p2/10696812.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 10 14:21:59 -0700 2012</created_at>
+  <updated_at>Fri Aug 10 14:21:59 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>55956150</id>
+  <body><![CDATA[Wow, .5 and I thought my book got bad reviews...]]></body>
+  
+  <user>
+    <id>7399772</id>
+    <name>Shamus</name>
+    <display_name>Shamus McCarty</display_name>
+
+    <location>Rowlett, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7399772-shamus-mccarty]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1416975586p3/7399772.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1416975586p2/7399772.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 10 15:38:37 -0700 2012</created_at>
+  <updated_at>Fri Aug 10 15:38:37 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>55961494</id>
+  <body><![CDATA[<i>Linda wrote: "No, no, the hot spoons are a bit easier. I do not really like my eyes on fire so much. But thanks for the offer Richard. :)<br /><br />I meant that I love the comparison to looking back through books for exa..."</i><br /><br />OIC<br /><br />heh]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 10 17:04:42 -0700 2012</created_at>
+  <updated_at>Fri Aug 10 17:04:42 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>55961622</id>
+  <body><![CDATA[<i>Etienne wrote: "Wow, .5 and I thought my book got bad reviews..."</i><br /><br />EG, I can't review your books cause I've never read 'em. I don't like zombie books, just don't, but I guarantee you this: As rough on the language as you are, you literary rugby playa you, your books could not possibly earn less than a full star. And you'd have to *work* to get that low, even in a zombie book.]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 10 17:06:52 -0700 2012</created_at>
+  <updated_at>Fri Aug 10 17:06:52 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>55962941</id>
+  <body><![CDATA[<i>Richard wrote: "So I should heat up the pincers, Linda?"</i><br /><br />HAH! You were still thinking of Samantha?]]></body>
+  
+  <user>
+    <id>10696812</id>
+    <name> Linda (Miss Greedybooks)</name>
+    <display_name> Linda (Miss Greedybooks)</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10696812-linda-miss-greedybooks]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1341608934p3/10696812.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1341608934p2/10696812.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 10 17:27:49 -0700 2012</created_at>
+  <updated_at>Fri Aug 10 17:27:49 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>55964078</id>
+  <body><![CDATA[Heh...probably was]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 10 17:47:36 -0700 2012</created_at>
+  <updated_at>Fri Aug 10 17:47:36 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>56006914</id>
+  <body><![CDATA[How can you possibly say that "woman good" applies to this book? Plenty of bad behavior by both main characters.]]></body>
+  
+  <user>
+    <id>4199981</id>
+    <name>Peggy</name>
+    <display_name>Peggy</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4199981-peggy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1362789699p3/4199981.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1362789699p2/4199981.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 11 12:07:56 -0700 2012</created_at>
+  <updated_at>Sat Aug 11 12:07:56 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>56007564</id>
+  <body><![CDATA[Did you notice the "...(if only by comparison)..." bit, Peggy? Amy is presented, particularly at the end <a class="jsShowSpoiler spoilerAction">(view spoiler)</a><span class="spoilerContainer" style="display: none">[when she's giving birth <a class="jsHideSpoiler spoilerAction">(hide spoiler)</a>]</span>, as a Mother and a Woman and a Victim.<br /><br />Yes, she's also screwed up, and vindictive, but these are never the subject of a protracted legal and public process of humiliation to the degree that stupid, foolish Nick's life is.<br /><br />She and Nick are both people I'd walk across the street to avoid. Her manipulative and starkly cruel actions are worse than his selfish self-absorbed narcissism. Hence, woman good...by comparison...based on what each suffers and gets.]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 11 12:19:33 -0700 2012</created_at>
+  <updated_at>Sat Aug 11 12:19:33 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>56008007</id>
+  <body><![CDATA[Man bad, woman evil no doubt. No sympathy for the devil here.]]></body>
+  
+  <user>
+    <id>4199981</id>
+    <name>Peggy</name>
+    <display_name>Peggy</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4199981-peggy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1362789699p3/4199981.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1362789699p2/4199981.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 11 12:26:53 -0700 2012</created_at>
+  <updated_at>Sat Aug 11 12:26:53 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>56008329</id>
+  <body><![CDATA[<i>Peggy wrote: "Man bad, woman evil no doubt. No sympathy for the devil here."</i><br /><br />Between them, they pretty much define what I like least about the Younger Generation.]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 11 12:32:28 -0700 2012</created_at>
+  <updated_at>Sat Aug 11 12:32:28 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>56039038</id>
+  <body><![CDATA[I am feeling like there might be a sequel.....anyone else? Many loose ends lay about.]]></body>
+  
+  <user>
+    <id>11232055</id>
+    <name>Georgiana</name>
+    <display_name>Georgiana</display_name>
+
+    <location>Mashpee, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11232055-georgiana]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1343101093p3/11232055.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1343101093p2/11232055.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 11 21:00:27 -0700 2012</created_at>
+  <updated_at>Sat Aug 11 21:00:27 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>56058137</id>
+  <body><![CDATA[ha ha, the book is bad! but just the first half (for me). My review of this book goes live tomorrow and I'm linking your review to mine :-)]]></body>
+  
+  <user>
+    <id>10746337</id>
+    <name>Lectus</name>
+    <display_name>Lectus</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10746337-lectus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1342144079p3/10746337.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1342144079p2/10746337.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 12 08:10:58 -0700 2012</created_at>
+  <updated_at>Sun Aug 12 08:10:58 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>56058316</id>
+  <body><![CDATA[&gt;18 That is the most horrible thing I've read today, Georgiana! Take it back! Take it back!<br /><br />&gt;19 It's all so facile, so easy-way-out...just not good enough to support the yodeling and caroling of its excellence.]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 12 08:15:17 -0700 2012</created_at>
+  <updated_at>Sun Aug 12 08:15:17 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>56091969</id>
+  <body><![CDATA[Sorry Richard - I think I recommended that book to you LOL]]></body>
+  
+  <created_at>Sun Aug 12 17:57:27 -0700 2012</created_at>
+  <updated_at>Sun Aug 12 17:57:27 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>56092520</id>
+  <body><![CDATA[I have noticed some good reviews - but I think I will keep yours in mind and pass on this one. Thank you. :D]]></body>
+  
+  <user>
+    <id>10696812</id>
+    <name> Linda (Miss Greedybooks)</name>
+    <display_name> Linda (Miss Greedybooks)</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10696812-linda-miss-greedybooks]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1341608934p3/10696812.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1341608934p2/10696812.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 12 18:05:37 -0700 2012</created_at>
+  <updated_at>Sun Aug 12 18:05:37 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>56097146</id>
+  <body><![CDATA[<i>Jeannie wrote: "Sorry Richard - I think I recommended that book to you LOL"</i><br /><br />You were FAR from the only one, and I'm not sorry I read it. I hated it, but I got a lot out of figuring out why. I would simply have abandoned it if I was getting nothing out of the read.]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 12 19:23:01 -0700 2012</created_at>
+  <updated_at>Sun Aug 12 19:23:01 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>56097187</id>
+  <body><![CDATA[<i>Linda wrote: "I have noticed some good reviews - but I think I will keep yours in mind and pass on this one. Thank you. :D"</i><br /><br />I can't recommend it. But my suggestion is to head to the bookstore and read a few pages. It might speak to you!]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 12 19:23:44 -0700 2012</created_at>
+  <updated_at>Sun Aug 12 19:23:44 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>56097765</id>
+  <body><![CDATA[I have a good stack of TBR &amp; I do not like the sound of this one - even reviews that liked it, kinda didn't. Not going to waste my $ and time. I just have plenty that I am sure I DO want to read first. :D]]></body>
+  
+  <user>
+    <id>10696812</id>
+    <name> Linda (Miss Greedybooks)</name>
+    <display_name> Linda (Miss Greedybooks)</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10696812-linda-miss-greedybooks]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1341608934p3/10696812.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1341608934p2/10696812.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 12 19:33:18 -0700 2012</created_at>
+  <updated_at>Sun Aug 12 19:33:18 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>56097833</id>
+  <body><![CDATA[Unassailably logical. Plus I agree with your conclusion. Man, this was a stinker.]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 12 19:34:26 -0700 2012</created_at>
+  <updated_at>Sun Aug 12 19:34:26 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>56599293</id>
+  <body><![CDATA[@Richard - Not sure you read the book properly? It was very clear to the reader that, while Nick did have his faults and was a pretty shitty husband, Amy was a complete fucking sociopath and way more dangerous/harmful than him. I don’t see how Amy was remotely “good” in comparison to Nick. She was a hundred times worse, and the author made that quite clear. Obviously Amy’s chapters made her seem like a saint and a victim, because they were written from her point of view – but if you take two seconds to think about it, you realize how crazy she is.]]></body>
+  
+  <user>
+    <id>4658480</id>
+    <name>anolinde</name>
+    <display_name>anolinde</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4658480-anolinde]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1292302276p3/4658480.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1292302276p2/4658480.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 20 11:32:40 -0700 2012</created_at>
+  <updated_at>Mon Aug 20 11:32:40 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>56605026</id>
+  <body><![CDATA[<i>anolinde wrote: "@Richard - Not sure you read the book properly? It was very clear to the reader that, while Nick did have his faults and was a pretty shitty husband, Amy was a complete fucking sociopath..."</i><br /><br />Oh heavy sigh...if by reading the book "properly" you mean do I agree with your conclusion, the answer is no. If you want to discuss my decoding skills, we're going to have a problem.<br /><br />I understand that Flynn was using unreliable narrators as her device. I don't think she achieved her goal because in the end Amy gets away with it <a class="jsShowSpoiler spoilerAction">(view spoiler)</a><span class="spoilerContainer" style="display: none">[by becoming that most sacred of cows, A Mother <a class="jsHideSpoiler spoilerAction">(hide spoiler)</a>]</span> which leaves Nick still publicly humiliated and her All Forgiven.<br /><br />My opinion is it's not a good book. In pure structural terms, it's got everything a thriller needs. Is this enough?]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 20 13:11:19 -0700 2012</created_at>
+  <updated_at>Mon Aug 20 13:11:19 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>56605742</id>
+  <body><![CDATA[<i>Richard wrote: "anolinde wrote: "@Richard - Not sure you read the book properly? It was very clear to the reader that, while Nick did have his faults and was a pretty shitty husband, Amy was a complete fucking soc..."</i><br /><br />How does Amy getting away with it, or becoming pregnant, mean that she's "good"? Plenty of horrible people get away with awful things, but that doesn't make them any less horrible. She saved Nick's semen and became a mother in order to trap him into the marriage - but nowhere does the author imply that this is acceptable, or okay, or that we should side with Amy. I'm not sure why you're under the impression that this is the message that the reader is supposed to take from the book, because Amy is very obviously a twisted, manipulative sociopath.]]></body>
+  
+  <user>
+    <id>4658480</id>
+    <name>anolinde</name>
+    <display_name>anolinde</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4658480-anolinde]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1292302276p3/4658480.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1292302276p2/4658480.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 20 13:18:06 -0700 2012</created_at>
+  <updated_at>Mon Aug 20 13:18:06 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>56606228</id>
+  <body><![CDATA[She certainly is. We know that, and Nick knows that...Amy is, however, unaware of her evil, and her attitude isn't in any way a problem for her, and yet there's Nick...too weak to get away? Too cowed? Too...?<br /><br />My problem is with Amy, of course, but also with Nick's portrayal as a lyin' sack of it. In the name of nuance, or something, the man can't be done wrong by the woman. He has to be wrong, too. This is extremely not the case in the bajillions of books NOT by Flynn that use a sociopathic man as a villain.<br /><br />At any rate, I've devoted more keystrokes to this book that I did not like than to huge numbers that I did. Thanks for being so interested in one little negative review of this blockbuster of a book. I feel less like a gnat on a hippo's nose than I did before.]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 20 13:26:16 -0700 2012</created_at>
+  <updated_at>Mon Aug 20 13:26:16 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>56615059</id>
+  <body><![CDATA[<i>Richard wrote: "She certainly is. We know that, and Nick knows that...Amy is, however, unaware of her evil, and her attitude isn't in any way a problem for her, and yet there's Nick...too weak to get away? Too cow..."</i><br /><br />So... If I'm getting this straight, you're irritated because Flynn is writing about a marriage in which both parties are shitty people (albeit one more so than the other), as opposed to one person being "bad" and the other being "good"? I'm no expert, but the former seems far more nuanced than the latter.<br /><br />I'm interested in your review, I'll admit, because your ire seems completely misplaced - as if your gripe is really with those dime-a-dozen mystery/thriller novels where the husband/boyfriend is an abusive stalker, etc.]]></body>
+  
+  <user>
+    <id>4658480</id>
+    <name>anolinde</name>
+    <display_name>anolinde</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4658480-anolinde]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1292302276p3/4658480.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1292302276p2/4658480.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 20 15:59:44 -0700 2012</created_at>
+  <updated_at>Mon Aug 20 15:59:44 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>56615243</id>
+  <body><![CDATA[We've long since passed the point where I don't care anymore.<br /><br />I don't like this book. Would you like to talk about something else?]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 20 16:02:49 -0700 2012</created_at>
+  <updated_at>Mon Aug 20 16:02:49 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>57136711</id>
+  <body><![CDATA["I wish only the worst commercial luck for it, its movie, its author, its publisher, its publicist, its director, its producer, its screenwriter, and its legion of woman and crypto-woman fans."<br /><br />It's one thing to dislike a book, it's altogether another to sling hate because something simply wasn't your taste.]]></body>
+  
+  <user>
+    <id>5102117</id>
+    <name>Ania</name>
+    <display_name>Ania</display_name>
+
+    <location>Albuquerque, NM</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5102117-ania]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1473193724p3/5102117.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1473193724p2/5102117.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 28 21:25:51 -0700 2012</created_at>
+  <updated_at>Tue Aug 28 21:25:51 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>57159125</id>
+  <body><![CDATA[<i>Ania wrote: ""I wish only the worst commercial luck for it, its movie, its author, its publisher, its publicist, its director, its producer, its screenwriter, and its legion of woman and crypto-woman fans."<br /><br />It..."</i><br /><br />And did I in any way indicate I was in the smallest degree interested in your opinion of anything at all? If you don't like the way I've done something, ignore it and me. Don't bother replying. I'll delete it.]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 29 09:35:58 -0700 2012</created_at>
+  <updated_at>Wed Aug 29 09:35:58 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>57202246</id>
+  <body><![CDATA[I thought it was incredibly sexist against both men and women. Hated it.]]></body>
+  
+  <user>
+    <id>1149847</id>
+    <name>Shauna</name>
+    <display_name>Shauna</display_name>
+
+    <location>Oakland, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1149847-shauna]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1325141989p3/1149847.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1325141989p2/1149847.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 29 22:47:54 -0700 2012</created_at>
+  <updated_at>Wed Aug 29 22:47:54 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>57209473</id>
+  <body><![CDATA[Wow, good call, trolls about here. Good review Richard, make sure to stomp extra loud while going over their bridge!]]></body>
+  
+  <user>
+    <id>6431467</id>
+    <name>s.penkevich</name>
+    <display_name>s.penkevich</display_name>
+
+    <location>Holland, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6431467-s-penkevich]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487244329p3/6431467.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487244329p2/6431467.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 30 04:41:04 -0700 2012</created_at>
+  <updated_at>Thu Aug 30 04:41:04 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>57210803</id>
+  <body><![CDATA[<i>Richard wrote: "We've long since passed the point where I don't care anymore.<br /><br />I don't like this book. Would you like to talk about something else?"</i><br /><br />... and yet people keep talking...? :O]]></body>
+  
+  <user>
+    <id>10696812</id>
+    <name> Linda (Miss Greedybooks)</name>
+    <display_name> Linda (Miss Greedybooks)</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10696812-linda-miss-greedybooks]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1341608934p3/10696812.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1341608934p2/10696812.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 30 05:29:28 -0700 2012</created_at>
+  <updated_at>Thu Aug 30 05:29:28 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>57212845</id>
+  <body><![CDATA[Geez, whatever happened to the ability to have different opinions and respect other people's? Not everyone is going to feel the same way about everything, thank god.<br /><br />Not talking about you Richard. I haven't read this, didn't know it existed until your review. But you are right, female writers can get away with trashing men and are not called sexist. You do have a point.]]></body>
+  
+  <user>
+    <id>1605591</id>
+    <name>Chris</name>
+    <display_name>Chris</display_name>
+
+    <location>Philadelphia, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1605591-chris]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1252166169p3/1605591.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1252166169p2/1605591.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 30 06:26:24 -0700 2012</created_at>
+  <updated_at>Thu Aug 30 06:26:24 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>57215595</id>
+  <body><![CDATA[<i>Shauna wrote: "I thought it was incredibly sexist against both men and women. Hated it."</i><br /><br />Awful, awful book. Hateful and sexist. I want those eyeblinks back.]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 30 07:35:00 -0700 2012</created_at>
+  <updated_at>Thu Aug 30 07:35:00 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>57215620</id>
+  <body><![CDATA[<i>s.penkevich wrote: "Wow, good call, trolls about here. Good review Richard, make sure to stomp extra loud while going over their bridge!"</i><br /><br />Heh. And as you can see, I have my extra-spiky mace at the ready, too.]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 30 07:35:42 -0700 2012</created_at>
+  <updated_at>Thu Aug 30 07:35:42 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>57215701</id>
+  <body><![CDATA[Good work!]]></body>
+  
+  <user>
+    <id>6431467</id>
+    <name>s.penkevich</name>
+    <display_name>s.penkevich</display_name>
+
+    <location>Holland, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6431467-s-penkevich]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487244329p3/6431467.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487244329p2/6431467.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 30 07:37:53 -0700 2012</created_at>
+  <updated_at>Thu Aug 30 07:37:53 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>57215820</id>
+  <body><![CDATA[<i>Linda wrote: "Richard wrote: "We've long since passed the point where I don't care anymore.<br /><br />I don't like this book. Would you like to talk about something else?"<br /><br />... and yet people keep talking...? :O"</i><br /><br />Voluminously. One cannot, you see, ever have a negative opinion that is not The Received Wisdom. I get snapped at "in good fun" for detesting Dickens' sappy, treacly crap...only it's not in good fun, it's "I'm right and you're wrong and I'm going to bait you about it until you don't say things I don't agree with anymore."<br /><br />The particular perp of that nastiness is also in the Group Read of <i>The Master and Margarita</i>, which I chose not to participate in because of him. I simply don't want to hear his mouth about anything at all ever, so it's easiest just to remove myself from the conversation.]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 30 07:40:10 -0700 2012</created_at>
+  <updated_at>Thu Aug 30 07:40:10 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>57215947</id>
+  <body><![CDATA[<i>Chris wrote: "Geez, whatever happened to the ability to have different opinions and respect other people's? Not everyone is going to feel the same way about everything, thank god.<br /><br />Not talking about you Richard..."</i><br /><br />I do not know what happened to agreeing to disagree. I didn't seek any one of these people out, didn't make them read the review, and didn't in any way go out of my way to call attention to my opinion, and here they come, the Thought Police!<br /><br />It makes me angry.]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 30 07:43:17 -0700 2012</created_at>
+  <updated_at>Thu Aug 30 07:43:17 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>57628305</id>
+  <body><![CDATA[Thank you, thank you! I was beginning to think I was the only one who bated this book! So far I seem to be the only woman who hatef it, but that's okay. I wrote my review before I read yours, but we both agree on one major point. The main characters were loathesome people who both deserved to die. I actually told my husband that if I could crawl into the book and kill them myself, I would. I am beyond annoyed that I wasted my time with this inane book.]]></body>
+  
+  <user>
+    <id>11459494</id>
+    <name>Keico</name>
+    <display_name>Keico</display_name>
+
+    <location>San Antonio, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11459494-keico]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Sep 05 18:27:17 -0700 2012</created_at>
+  <updated_at>Wed Sep 05 18:27:17 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>57628597</id>
+  <body><![CDATA[<i>Keico wrote: "Thank you, thank you! I was beginning to think I was the only one who bated this book! So far I seem to be the only woman who hatef it, but that's okay. I wrote my review before I read yours, but ..."</i><br /><br />Heh! Be prepared, the storm is coming. I truly don't understand why these people who have responded so strongly here felt the need to do so. I see opinions on the Internet every day that horrify me. I go on with my life without saying anything, and when I do say something, I end up sorry I opened my piehole.<br /><br />Thank you for stopping by. I appreciate hearing from someone else who wasn't buying in to the stuff in here.]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Sep 05 18:32:22 -0700 2012</created_at>
+  <updated_at>Wed Sep 05 18:32:22 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>57635529</id>
+  <body><![CDATA[i definitely thought amy was more toxic than nick. <a class="jsShowSpoiler spoilerAction">(view spoiler)</a><span class="spoilerContainer" style="display: none">[ and that child is going to be nothing but a weapon; i saw nothing beatific in her pregnancy. <a class="jsHideSpoiler spoilerAction">(hide spoiler)</a>]</span> i'm curious about your perspective.]]></body>
+  
+  <user>
+    <id>45618</id>
+    <name>karen</name>
+    <display_name>karen</display_name>
+
+    <location>Woodside, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/45618-karen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492384026p3/45618.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492384026p2/45618.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Sep 05 20:19:51 -0700 2012</created_at>
+  <updated_at>Wed Sep 05 20:19:51 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>57635839</id>
+  <body><![CDATA[I couldn't agree more. <a class="jsShowSpoiler spoilerAction">(view spoiler)</a><span class="spoilerContainer" style="display: none">[The idea of Amy as a mother is horrifying. Her manipulative nature, Nick's passive acceptance of her evil, and the already fraught nature of child-rearing...some shrink will be RICH off that kid. <a class="jsHideSpoiler spoilerAction">(hide spoiler)</a>]</span><br /><br />Nick and Amy are, how to put it, more toxic as a couple than the <i>Exxon Valdez</i> spilling into burning coal seam that runs below Chernobyl.]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Sep 05 20:25:35 -0700 2012</created_at>
+  <updated_at>Wed Sep 05 20:25:35 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>57636195</id>
+  <body><![CDATA[but, and i just read the thread quickly - i think some comments have been deleted - is it a common consensus that nick is worse than she is, somehow?? because, while neither of them are positive role models, <a class="jsShowSpoiler spoilerAction">(view spoiler)</a><span class="spoilerContainer" style="display: none">[her sociopathy is way more troubling than his need to please and be liked, yeah? <a class="jsHideSpoiler spoilerAction">(hide spoiler)</a>]</span>]]></body>
+  
+  <user>
+    <id>45618</id>
+    <name>karen</name>
+    <display_name>karen</display_name>
+
+    <location>Woodside, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/45618-karen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492384026p3/45618.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492384026p2/45618.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Sep 05 20:31:38 -0700 2012</created_at>
+  <updated_at>Wed Sep 05 20:31:38 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>57636677</id>
+  <body><![CDATA[Quite a lot of critical commentary on the book seems pretty angrily anti-Nick. I think most reviewers are willing to split the nasty, though.<br /><br />What's missing is any sense of what Amy's done to Nick...that, for all his spinelessness and venality, he's been made a complete target and he will never ever get even a shred of his good name back...where Amy waltzes back in <a class="jsShowSpoiler spoilerAction">(view spoiler)</a><span class="spoilerContainer" style="display: none">[plays the Mom card to get out of the worst of the public opprobrium. Her sociopathy is clinical and would require a court to put her in protective custody, I think. But the Mom card means she's <a class="jsHideSpoiler spoilerAction">(hide spoiler)</a>]</span> without serious and lasting damage to her public persona.<br /><br />Life's like that, sometimes, but I want fiction to do better than life can manage.]]></body>
+  
+  <user>
+    <id>3920693</id>
+    <name>Richard</name>
+    <display_name>Richard Derus</display_name>
+
+    <location>Long Beach, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3920693-richard-derus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460470963p3/3920693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460470963p2/3920693.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Sep 05 20:40:21 -0700 2012</created_at>
+  <updated_at>Wed Sep 05 20:40:21 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>57650745</id>
+  <body><![CDATA[hmm, i think, for me, her "redemption" in the public eye <a class="jsShowSpoiler spoilerAction">(view spoiler)</a><span class="spoilerContainer" style="display: none">[ is more a result of her being a rape victim/survivor, and less about her pregnancy <a class="jsHideSpoiler spoilerAction">(hide spoiler)</a>]</span><br /><br />so i guess i'm just not sure why people think this is a sexist, anti-man book, when she is <a class="jsShowSpoiler spoilerAction">(view spoiler)</a><span class="spoilerContainer" style="display: none">[ she is clearly the one who has crossed over more moral lines <a class="jsHideSpoiler spoilerAction">(hide spoiler)</a>]</span><br /><br />it seems to be, not anti-man, but anti-nick. <a class="jsShowSpoiler spoilerAction">(view spoiler)</a><span class="spoilerContainer" style="display: none">[ who is far from being a good guy, but is not as pathologically eeevil as amy is <a class="jsHideSpoiler spoilerAction">(hide spoiler)</a>]</span><br /><br />and i'm not clear on what a crypto-woman is.<br /><br />i mean, i don't care that you didn't like a book that i liked, but i have seen a lot of discussion about this being a sexist book, and i think i just have a blind spot when it comes to understanding that criticism, when both characters are so perfectly flawed for each other, that they make this really frightening puzzle of a marriage which is both dreadful and fitting. it's a trap!]]></body>
+  
+  <user>
+    <id>45618</id>
+    <name>karen</name>
+    <display_name>karen</display_name>
+
+    <location>Woodside, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/45618-karen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492384026p3/45618.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492384026p2/45618.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Sep 06 06:49:35 -0700 2012</created_at>
+  <updated_at>Thu Sep 06 06:49:35 -0700 2012</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/388534945]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/388534945]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

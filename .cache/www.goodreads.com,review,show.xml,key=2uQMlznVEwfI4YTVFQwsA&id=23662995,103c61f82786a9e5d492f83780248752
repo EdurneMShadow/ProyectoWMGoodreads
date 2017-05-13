@@ -1,0 +1,539 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:37:15 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: 6XHDGCFV4VTSHAXYENK0
+etag: W/"bcc8ad42f3a4a436701c319cbd125010"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.293632
+set-cookie: csid=BAhJIhg5ODMtMjQ4OTAzMy0yNzYyMzA1BjoGRVQ%3D--b9891c92d447e91d16a5a5d14934219fdee08c8a; path=/; expires=Tue, 12 May 2037 13:37:15 -0000, locale=es; path=/, _session_id2=b5df130ebf0de641f6087f5c134574aa; path=/; expires=Fri, 12 May 2017 19:37:15 -0000; HttpOnly
+content-length: 22285
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=23662995
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>23662995</id>
+    
+  <user>
+    <id>1198255</id>
+    <name>Madeleine</name>
+    <display_name>Madeleine</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1198255-madeleine]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1393452012p3/1198255.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1393452012p2/1198255.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">76847</id>
+  <isbn>0452282152</isbn>
+  <isbn13>9780452282155</isbn13>
+  <text_reviews_count type="integer">670</text_reviews_count>
+  <title>Girl With a Pearl Earring</title>
+  <title_without_series>Girl With a Pearl Earring</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1309287672m/76847.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1309287672s/76847.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/76847.Girl_With_a_Pearl_Earring</link>
+  <num_pages>233</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day/>
+  <publication_year>2001</publication_year>
+  <publication_month/>
+  <average_rating>3.84</average_rating>
+  <ratings_count>479287</ratings_count>
+  <description>&lt;p&gt;History and fiction merge seamlessly in Tracy Chevalier's luminous novel about artistic vision and sensual awakening. Through the eyes of sixteen-year-old Griet, the world of 1660s Holland comes dazzlingly alive in this richly imagined portrait of the young woman who inspired one of Vermeer's most celebrated paintings.&lt;/p&gt;</description>
+<authors>
+<author>
+<id>1973</id>
+<name>Tracy Chevalier</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1439297099p5/1973.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1439297099p2/1973.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1973.Tracy_Chevalier]]></link>
+<average_rating>3.80</average_rating>
+<ratings_count>635156</ratings_count>
+<text_reviews_count>22574</text_reviews_count>
+</author>
+</authors>
+  <published>2001</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">9880311</id>
+          <page type="integer">233</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Dec 16 04:08:05 -0800 2011</created_at>
+          <updated_at type="datetime">Fri Dec 16 04:08:05 -0800 2011</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">100</percent>
+          <work_id type="integer">3358875</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">9863184</id>
+          <page type="integer">119</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Dec 15 05:21:30 -0800 2011</created_at>
+          <updated_at type="datetime">Sat Sep 07 02:11:36 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">51</percent>
+          <work_id type="integer">3358875</work_id>
+          <note_uri>kca://note/amzn1.grok.note.ee4a90d9a7d4fc141d6fd72d38ba8bab</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[I think this book is averaging three similes a page.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">9843979</id>
+          <page type="integer">64</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Dec 14 05:17:31 -0800 2011</created_at>
+          <updated_at type="datetime">Wed Dec 14 05:17:31 -0800 2011</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">27</percent>
+          <work_id type="integer">3358875</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+  <rating>2</rating>
+  <votes>60</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="tooting-my-own-muted-horn" exclusive="false" review_shelf_id="355808319" sortable="false" />
+    <shelf name="blogophilia" exclusive="false" review_shelf_id="452845094" sortable="false" />
+    <shelf name="peer-pressure" exclusive="false" review_shelf_id="24846941" sortable="false" />
+    <shelf name="2011" exclusive="false" review_shelf_id="162016201" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Dec 13 00:00:00 -0800 2011</started_at>
+  <read_at>Fri Dec 16 00:00:00 -0800 2011</read_at>
+  <date_added>Tue Jun 03 23:21:02 -0700 2008</date_added>
+  <date_updated>Sat Dec 28 03:57:30 -0800 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[So the parts when Vermeer was actually being a painter were interesting. Seeing as I slogged through this on account of a recommendation that arose from an art-class lecture on Vermeer, I was hoping that the art stuff would at least deliver. <br /><br />But it's not a good sign when a book's most compelling...]]>
+  </body>
+
+  
+
+  <comments_count>16</comments_count>
+    <comments start="1" end="16" total="16">
+        <comment>
+  <id>41677931</id>
+  <body><![CDATA[Haha! Love the review. Have you seen the movie?]]></body>
+  
+  <user>
+    <id>301234</id>
+    <name>Aja</name>
+    <display_name>Aja</display_name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/301234-aja]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1470445153p3/301234.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1470445153p2/301234.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Dec 16 09:38:12 -0800 2011</created_at>
+  <updated_at>Fri Dec 16 09:38:12 -0800 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>41683281</id>
+  <body><![CDATA[Thanks, Aja! It seems like I have more fun with the "meh" reviews than I do when I love a book. <br /><br />Despite my eternal girl-crush on ScarJo, I actually have not seen the movie. Have you? Is it any good? I feel like this is one of those times that the film adaptation might stand a chance of being better than the book.]]></body>
+  
+  <user>
+    <id>1198255</id>
+    <name>Madeleine</name>
+    <display_name>Madeleine</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1198255-madeleine]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1393452012p3/1198255.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1393452012p2/1198255.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Dec 16 12:16:48 -0800 2011</created_at>
+  <updated_at>Fri Dec 16 12:16:48 -0800 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>41831526</id>
+  <body><![CDATA[I liked the movie. It's still kind of meh, but two words: Colin Firth. Plus ScarJo is very pretty and does a great job. You should watch it as a treat after having read this book!!]]></body>
+  
+  <user>
+    <id>301234</id>
+    <name>Aja</name>
+    <display_name>Aja</display_name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/301234-aja]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1470445153p3/301234.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1470445153p2/301234.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Dec 19 06:33:43 -0800 2011</created_at>
+  <updated_at>Mon Dec 19 06:33:43 -0800 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>41885551</id>
+  <body><![CDATA[<i>I slogged through this on account of a recommendation that arose from an art-class lecture on Vermeer</i><br /><br />Ohhh dear. I have <a href="https://www.goodreads.com/book/show/321577.Girl_in_Hyacinth_Blue" title="Girl in Hyacinth Blue by Susan Vreeland" rel="nofollow">Girl in Hyacinth Blue</a>, but don't know if it's any good or not. I think <a href="https://www.goodreads.com:443/search/search?q=Vermeer: A View of Delft" title="Vermeer: A View of Delft">Vermeer: A View of Delft</a> and <a href="https://www.goodreads.com/book/show/875351.Girl_In_A_Turban" title="Girl In A Turban by Marta Morazzoni" rel="nofollow">Girl in a Turban</a> are supposed to be pretty good. Maybe.]]></body>
+  
+  <user>
+    <id>1630617</id>
+    <name>Moira</name>
+    <display_name>Moira Russell</display_name>
+
+    <location>Seattle, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1630617-moira-russell]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1256449807p3/1630617.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1256449807p2/1630617.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Dec 19 22:00:37 -0800 2011</created_at>
+  <updated_at>Mon Dec 19 22:00:37 -0800 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>41893594</id>
+  <body><![CDATA[<i>Aja wrote: "I liked the movie. It's still kind of meh, but two words: Colin Firth. Plus ScarJo is very pretty and does a great job. You should watch it as a treat after having read this book!!"</i><br /><br />DUDE. Colin Firth is one of my favorite ways of treating myself! How did you know?]]></body>
+  
+  <user>
+    <id>1198255</id>
+    <name>Madeleine</name>
+    <display_name>Madeleine</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1198255-madeleine]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1393452012p3/1198255.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1393452012p2/1198255.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 20 05:36:08 -0800 2011</created_at>
+  <updated_at>Tue Dec 20 05:36:08 -0800 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>41899834</id>
+  <body><![CDATA[<i>Moira wrote: "Ohhh dear. I have Girl in Hyacinth Blue, but don't know if it's any good or not. I think Vermeer: A View of Delft and Girl in a Turban are supposed to be pretty good. Maybe."</i><br />Godspeed, friendly stranger. While this was neither an entirely unreadable book nor completely devoid of any merit, I'm much more wary of art-conjecture novels now. Perhaps sampling other writers' takes on the idea is the way to go with this genre.]]></body>
+  
+  <user>
+    <id>1198255</id>
+    <name>Madeleine</name>
+    <display_name>Madeleine</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1198255-madeleine]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1393452012p3/1198255.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1393452012p2/1198255.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 20 08:28:44 -0800 2011</created_at>
+  <updated_at>Tue Dec 20 08:28:44 -0800 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>78239598</id>
+  <body><![CDATA[I love your review, Madeleine, especially the "grinding pigments"! You are hilarious!]]></body>
+  
+  <user>
+    <id>7212128</id>
+    <name>Martha</name>
+    <display_name>Martha</display_name>
+
+    <location>Sacramento, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7212128-martha]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1459696052p3/7212128.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1459696052p2/7212128.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 12 05:25:32 -0700 2013</created_at>
+  <updated_at>Fri Jul 12 05:25:32 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78240239</id>
+  <body><![CDATA[<i>Martha wrote: "I love your review, Madeleine, especially the "grinding pigments"! You are hilarious!"</i><br /><br />Thanks! I think this is the first negative review I'd ever written so I tried to soften the blow with giggles.]]></body>
+  
+  <user>
+    <id>1198255</id>
+    <name>Madeleine</name>
+    <display_name>Madeleine</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1198255-madeleine]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1393452012p3/1198255.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1393452012p2/1198255.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 12 05:42:30 -0700 2013</created_at>
+  <updated_at>Fri Jul 12 05:42:30 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78301553</id>
+  <body><![CDATA["And, no: "Grinding pigments" is not a euphemism for artist-bangin'."<br /><br />Haha, Amazing review, Madeleine.]]></body>
+  
+  <user>
+    <id>6656236</id>
+    <name>Meenakshi</name>
+    <display_name>Meenakshi</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6656236-meenakshi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1405496767p3/6656236.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1405496767p2/6656236.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 12 22:17:29 -0700 2013</created_at>
+  <updated_at>Fri Jul 12 22:17:29 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78367211</id>
+  <body><![CDATA[I haven't read this partly because of my continuing aversion to best sellers. I did start it once and remember some grinding of pigments. Just couldn't get interested enough to continue. Your review is great and your humor a pleasure.]]></body>
+  
+  <user>
+    <id>3642045</id>
+    <name>Sue</name>
+    <display_name>Sue</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3642045-sue]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1274829293p3/3642045.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1274829293p2/3642045.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jul 13 21:11:39 -0700 2013</created_at>
+  <updated_at>Sat Jul 13 21:11:39 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78508012</id>
+  <body><![CDATA[<i>Meenakshi wrote: ""And, no: "Grinding pigments" is not a euphemism for artist-bangin'."<br /><br />Haha, Amazing review, Madeleine."</i><br /><br />Thank you, Meenakshi! It is always good to hear from you, and not just because you always have such kind things to say. :)]]></body>
+  
+  <user>
+    <id>1198255</id>
+    <name>Madeleine</name>
+    <display_name>Madeleine</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1198255-madeleine]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1393452012p3/1198255.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1393452012p2/1198255.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jul 15 18:16:11 -0700 2013</created_at>
+  <updated_at>Mon Jul 15 18:16:11 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78508391</id>
+  <body><![CDATA[<i>Sue wrote: "I haven't read this partly because of my continuing aversion to best sellers. I did start it once and remember some grinding of pigments. Just couldn't get interested enough to continue. Your revie..."</i><br /><br />Thanks for all of this, Sue! I'm relieved this review came off as more humorous than self-righteous.<br /><br />Yeah, I totally understand your bestseller aversion. The public seems to latch onto something good every now and again, but... you know, something about broken clocks being fleetingly right and all.<br /><br />It's been a few years since I read this but I do recall a feeling of unyielding disinterest accompanying my stubborn insistence to finish this book. I understand why people enjoy it, I swear I do, but it was just not all my taste. Thank you for making me feel better about not liking this book. :)]]></body>
+  
+  <user>
+    <id>1198255</id>
+    <name>Madeleine</name>
+    <display_name>Madeleine</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1198255-madeleine]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1393452012p3/1198255.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1393452012p2/1198255.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jul 15 18:21:24 -0700 2013</created_at>
+  <updated_at>Mon Jul 15 18:21:24 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78510883</id>
+  <body><![CDATA[<i>Madeleine wrote: "Sue wrote: "I haven't read this partly because of my continuing aversion to best sellers. I did start it once and remember some grinding of pigments. Just couldn't get interested enough to continue..."</i><br /><br />It is funny isn't it when one feels bad about not liking a very popular book. I've been there. Often I avoid very popular books altogether (which is why I was 10 years late for An Instance of the Fingerpost). I usually don't finish books if I can't get involved in them, but I truly respect the way you continued on and then provided us with this wonder of a review.<br /><br />Glad I could bring some happiness your way as you do for me. :o)]]></body>
+  
+  <user>
+    <id>3642045</id>
+    <name>Sue</name>
+    <display_name>Sue</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3642045-sue]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1274829293p3/3642045.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1274829293p2/3642045.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jul 15 18:58:08 -0700 2013</created_at>
+  <updated_at>Mon Jul 15 18:58:08 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78650767</id>
+  <body><![CDATA[I like how you breathe life into a review of a ho-hum, predictable, 2-star book. Thanks for the warning, Madeleine, even though I was never tempted before this either.]]></body>
+  
+  <user>
+    <id>236411</id>
+    <name>Steve</name>
+    <display_name>Steve</display_name>
+
+    <location>Chicago, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/236411-steve]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291695844p3/236411.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291695844p2/236411.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 17 14:49:16 -0700 2013</created_at>
+  <updated_at>Wed Jul 17 14:49:16 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>79621016</id>
+  <body><![CDATA[Now if the author had said "grinding pigs" - that would be another matter altogether. I suggest you pull some of the groan-worthiest lines and put them in your review.]]></body>
+  
+  <user>
+    <id>1237540</id>
+    <name>Jim</name>
+    <display_name>Jim</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1237540-jim]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 30 15:09:04 -0700 2013</created_at>
+  <updated_at>Tue Jul 30 15:09:04 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>84250624</id>
+  <body><![CDATA[I am only half way through the book, but I feel exactly the same way. I also tried to put Scarlet Johansson in the picture to save my brain from oozing). I am really frustrated with the lack of character development in this novel. I want to know more about the people that surround Griet's life, but they remain a mystery. I cannot understand Vermeer's motivation to use her as an assistant, how he feels about her, his wife and children. This book is like a blend painting, very frustrating.]]></body>
+  
+  <user>
+    <id>10780816</id>
+    <name>Sonia</name>
+    <display_name>Sonia</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10780816-sonia]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1388953096p3/10780816.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1388953096p2/10780816.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 04 12:48:04 -0700 2013</created_at>
+  <updated_at>Fri Oct 04 12:48:04 -0700 2013</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/23662995]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/23662995]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

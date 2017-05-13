@@ -1,0 +1,779 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:40:45 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: M1N3RCFK72H20981CXPE
+etag: W/"f3a176c286816134e918dcb522679757"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.386007
+set-cookie: csid=BAhJIhg0MjMtMTkzMzcwMy05MjU1MDUxBjoGRVQ%3D--91f739a2dda4ac5e9f386cf62f4780155d1fa13f; path=/; expires=Tue, 12 May 2037 13:40:45 -0000, locale=es; path=/, _session_id2=8b06267d4730aa710e430b0de6d28ba4; path=/; expires=Fri, 12 May 2017 19:40:45 -0000; HttpOnly
+content-length: 32980
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=524269940
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>524269940</id>
+    
+  <user>
+    <id>1223249</id>
+    <name>TheBookSmugglers</name>
+    <display_name>TheBookSmugglers</display_name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1223249-thebooksmugglers]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1316717753p3/1223249.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1316717753p2/1223249.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">8442457</id>
+  <isbn>0297859382</isbn>
+  <isbn13>9780297859383</isbn13>
+  <text_reviews_count type="integer">69038</text_reviews_count>
+  <title>Gone Girl</title>
+  <title_without_series>Gone Girl</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1339602131m/8442457.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1339602131s/8442457.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/8442457-gone-girl</link>
+  <num_pages>399</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Weidenfeld &amp; Nicolson</publisher>
+  <publication_day>24</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.03</average_rating>
+  <ratings_count>1572069</ratings_count>
+  <description>On a warm summer morning in North Carthage, Missouri, it is Nick and Amy Dunne’s fifth wedding anniversary. Presents are being wrapped and reservations are being made when Nick’s clever and beautiful wife disappears. Husband-of-the-Year Nick isn’t doing himself any favors with cringe-worthy daydreams about the slope and shape of his wife’s head, but passages from Amy's diary reveal the alpha-girl perfectionist could have put anyone dangerously on edge. Under mounting pressure from the police and the media—as well as Amy’s fiercely doting parents—the town golden boy parades an endless series of lies, deceits, and inappropriate behavior. Nick is oddly evasive, and he’s definitely bitter—but is he really a killer?</description>
+<authors>
+<author>
+<id>2383</id>
+<name>Gillian Flynn</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1232123231p5/2383.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1232123231p2/2383.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2383.Gillian_Flynn]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>2349137</ratings_count>
+<text_reviews_count>184832</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1257620531</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Feb 28 22:57:19 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>2</rating>
+  <votes>198</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="strangely-compelling" exclusive="false" review_shelf_id="359520199" sortable="false" />
+    <shelf name="disappointing" exclusive="false" review_shelf_id="359519979" sortable="false" />
+    <shelf name="what-the-fuck-is-this-shit" exclusive="false" review_shelf_id="359520260" sortable="false" />
+    <shelf name="crime" exclusive="false" review_shelf_id="359519955" sortable="false" />
+    <shelf name="not-really-feminist" exclusive="false" review_shelf_id="359520113" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Feb 02 00:00:00 -0800 2013</started_at>
+  <read_at></read_at>
+  <date_added>Sat Feb 02 09:22:00 -0800 2013</date_added>
+  <date_updated>Sat Jan 11 06:48:32 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<b>**WARNING: THIS REVIEW CONTAINS EXPLICIT LANGUAGE, CAPS LOCK OF RAGE, AND OCCASIONAL SPOILERS (we will let you know when spoilers kick in). You have been warned.**</b><br /><br /><b>Thea’s Take:</b><br /><br />(There will be spoilers, but I’ll give you warning when they kick in.)<br /><br />I started Gone Girl knowing only these things.<br /><br />Gone G...]]>
+  </body>
+
+  
+
+  <comments_count>28</comments_count>
+    <comments start="1" end="28" total="28">
+        <comment>
+  <id>67393186</id>
+  <body><![CDATA[The combination of being shelved as "strangely compelling" and "what the fuck is this shit" makes me oddly interested in reading this book, even though your review just sort of confirmed my impression that I'd probably end up throwing the book across the room.]]></body>
+  
+  <user>
+    <id>4030443</id>
+    <name>Kate</name>
+    <display_name>Kate</display_name>
+
+    <location>Bennington, VT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4030443-kate]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1470247641p3/4030443.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1470247641p2/4030443.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 08 14:34:40 -0800 2013</created_at>
+  <updated_at>Fri Feb 08 14:34:40 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>67397117</id>
+  <body><![CDATA[<i>"I hated the way the story develops in the second part of the book, and I especially hated the way that it ends. I hated the pointlessness of the story – why does it need to be told? What does it accomplish? What does it say about us, as people?"</i><br /><br />This is exactly how I felt while I read this book. I couldn't stop turning the pages fast enough during the first part because I was so curious about the twist everyone was talking about. I was so excited about this twist that I was feeling pretty lukewarm when it was finally revealed. I mean, sure, the twist was a good one when I think about it now but I just felt kind of meh about it because I expected so much more. It's like all the hype revolved around the twist in this story and I just didn't understand any of it. <br /><br />After the twist this whole story turned into ridiculousness at its finest and I was wondering if everyone else read a different book than I did.<br /><br />I don't mind when the characters aren't likeable in a book but then I expect at least an interesting plot. But I didn't even care for the plot after a while, if I didn't make a habit out of always finishing books even if they annoy the heck out of me, I wouldn't have finished this one. It was readable during the first part and I flipped through the pages pretty fast but in the end it took me <i>two</i> weeks to finish <i>Gones Girl</i> (usually I read books in 1-3 days, depending my mood and how much time I have).<br /><br />Long story short: A great review for a book that doesn't live up to the hype.]]></body>
+  
+  <user>
+    <id>15976696</id>
+    <name>Rose</name>
+    <display_name>Rose</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15976696-rose]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1416179408p3/15976696.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1416179408p2/15976696.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 08 15:24:05 -0800 2013</created_at>
+  <updated_at>Fri Feb 08 15:24:05 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>67434214</id>
+  <body><![CDATA[I would never have read the book with a plot like that anyway - but now I really hate that this book and its visions are so well received that a lot of readers will dip into this miasma and feel a bit more befouled in their life. Life is too difficult a lot of the time to take on additional dirt.]]></body>
+  
+  <user>
+    <id>3590834</id>
+    <name>Estara</name>
+    <display_name>Estara</display_name>
+
+    <location>Germany</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3590834-estara]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1271356174p3/3590834.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1271356174p2/3590834.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 09 06:48:06 -0800 2013</created_at>
+  <updated_at>Sat Feb 09 06:48:06 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>67434521</id>
+  <body><![CDATA[<i>Nick is still douchetastically pathetic.</i><br /><br />Ba ha ha!<br /><br />I think both of your reviews are well-written and I had a much different take on this novel. I liked Nick a lot more than you two did, despite his faults. I definitely needed a shower after reading this but I loved how well the author manipulated my emotions. I think Amy is brilliant but she is very damaged emotionally, so I bought her returning to Nick.<br /><br />Thanks for teaching me the word "epistolary"!]]></body>
+  
+  <user>
+    <id>3574699</id>
+    <name>Jennifer</name>
+    <display_name>Jennifer Lane</display_name>
+
+    <location>Columbus, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3574699-jennifer-lane]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442497593p3/3574699.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442497593p2/3574699.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 09 06:54:18 -0800 2013</created_at>
+  <updated_at>Sat Feb 09 06:54:18 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>67444782</id>
+  <body><![CDATA[Thanks for saving me some time on this -- sounds like it's very well-written, but I need at least one character to root for, and preferably to like. I would definitely need a shower after visiting a few hours with these people.<br /><br />Cannot imagine spending the time needed to write a book like this -- way too much time with YUCK people.]]></body>
+  
+  <user>
+    <id>1222948</id>
+    <name>Katharine</name>
+    <display_name>Katharine Kimbriel</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1222948-katharine-kimbriel]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442462358p3/1222948.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442462358p2/1222948.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 09 09:46:09 -0800 2013</created_at>
+  <updated_at>Sat Feb 09 09:46:09 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>91419508</id>
+  <body><![CDATA[I have to say that it was more fun reading your review than reading the book. <br /><br />Oh-- and I couldn't have said it any better myself. <br /><br />I read this book at the beginning of last year and just could not remember much about it except that I DID NOT want to re-read it for the upcoming discussion at my neighborhood book club. After reading a few reviews, I remembered why my brain chose to purge this book from my memory.]]></body>
+  
+  <user>
+    <id>12120728</id>
+    <name>Madison</name>
+    <display_name>Madison</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12120728-madison]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 25 09:55:03 -0800 2014</created_at>
+  <updated_at>Sat Jan 25 09:55:03 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>91650464</id>
+  <body><![CDATA["In summation: I devoured Gone Girl but I fucking hated it. " <br /><br />Ditto! I was extremely disappointed in this book especially with all its hype &gt;:( <br />I feel a lot of authors give up at the end of their stories. They've become too invested in "mind blowing" the reader with twists and turns and they don't put enough heart into the ending.<br /><br />I feel as if Amy's story isn't over as there was no discussion about Desi's timeline matching Amy's. You mean to tell me throughout the whole novel the police follow strict protocol (and constantly remind Nick of said protocol following), including carefully look into backgrounds and alibi's of Desi, Hilary, and Tommy, and then at the end they just believe Amy's tale of her abduction...? My gut feeling is Desi's mother could easily put him at other events that would have discrepancy with Amy's timeline. Again with the quick ending the reader is left with so many unanswered questions, especially what info Rhonda had to tell Nick when he decided to throw in the wet towel. I also don't think Amy is quite finished with Nick yet...]]></body>
+  
+  <user>
+    <id>20037123</id>
+    <name>Brynn</name>
+    <display_name>Brynn</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/20037123-brynn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1370968697p3/20037123.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1370968697p2/20037123.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 28 14:16:00 -0800 2014</created_at>
+  <updated_at>Tue Jan 28 14:16:00 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>100424567</id>
+  <body><![CDATA["She BELIEVES Nick when he goes on TV and earnestly pleads for his wife to come home, so she does it just like that. Are you fucking kidding me? THESE are the actions of the same methodical, patient mind that came up with this elaborate revenge scheme against her husband? I repeat: ARE YOU FUCKING KIDDING ME?"<br /><br />- I would say you should research sociopaths more because this is totally in character for a sociopath.]]></body>
+  
+  <user>
+    <id>9111808</id>
+    <name>Joshua</name>
+    <display_name>Joshua Silverman</display_name>
+
+    <location>San Juan Capistrano, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9111808-joshua-silverman]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1340915669p3/9111808.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1340915669p2/9111808.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 16 09:57:08 -0700 2014</created_at>
+  <updated_at>Mon Jun 16 09:57:08 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>100477338</id>
+  <body><![CDATA[What you just said.]]></body>
+  
+  <user>
+    <id>9926163</id>
+    <name>Rebecca</name>
+    <display_name>Rebecca Surgey</display_name>
+
+    <location><![CDATA[London, H9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9926163-rebecca-surgey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1396516252p3/9926163.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1396516252p2/9926163.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jun 17 06:00:48 -0700 2014</created_at>
+  <updated_at>Tue Jun 17 06:00:48 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103640659</id>
+  <body><![CDATA[These two reviews combined are perfect. I was really excited about this book after all the hype, and all I knew about the plot was what was in the movie trailers. What a disappointment. I am so baffled by some of the turns the book took, particularly the free pass on Nick's misogyny throughout because his wife ended up being the crazy bitch all men fear getting stuck with, and the logical inconsistencies with Amy's "brilliance." Terribly bummed I wasted a day on this.]]></body>
+  
+  <user>
+    <id>7206281</id>
+    <name>Glenna</name>
+    <display_name>Glenna Johnson</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7206281-glenna-johnson]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1331504139p3/7206281.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1331504139p2/7206281.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 04 11:28:00 -0700 2014</created_at>
+  <updated_at>Mon Aug 04 11:28:00 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>106750133</id>
+  <body><![CDATA[I enjoyed reading your reviews but I thought that there was a darkly comic undertone to most of the novel, kind of like the movie, Very Bad Things, where everyone turns out to be a douchebag and everyone ends up getting screwed over. I felt you took it way more seriously than it took itself. I couldn't help but read it knowing that at places Gillian Flynn was writing it with a massive grin on her face.]]></body>
+  
+  <user>
+    <id>7757522</id>
+    <name>Chris</name>
+    <display_name>Chris Ward</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7757522-chris-ward]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442619406p3/7757522.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442619406p2/7757522.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 26 01:11:58 -0700 2014</created_at>
+  <updated_at>Fri Sep 26 01:11:58 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>106750152</id>
+  <body><![CDATA[For what it's worth, I hated both Nick and Amy. But that's the kind of book I like - I can't stand likeable characters. Nine times out of ten the villain is way more interesting.]]></body>
+  
+  <user>
+    <id>7757522</id>
+    <name>Chris</name>
+    <display_name>Chris Ward</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7757522-chris-ward]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442619406p3/7757522.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442619406p2/7757522.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 26 01:13:10 -0700 2014</created_at>
+  <updated_at>Fri Sep 26 01:13:10 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>106838160</id>
+  <body><![CDATA[YES. Thank you. This is everything I felt while reading this book. I literally read the last page and then threw it against the wall I hated it so much.]]></body>
+  
+  <user>
+    <id>14226172</id>
+    <name>Megan</name>
+    <display_name>Megan</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14226172-megan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1453771013p3/14226172.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1453771013p2/14226172.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Sep 27 17:03:30 -0700 2014</created_at>
+  <updated_at>Sat Sep 27 17:03:30 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>107519326</id>
+  <body><![CDATA[Agreed. The "twist" was extremely anticlimactic. I kept expecting something exciting....nothing. The beginning okay but the last portion of the book I found dreadfully boring. I too felt the urge to throw the book when done.]]></body>
+  
+  <user>
+    <id>35795903</id>
+    <name>SME</name>
+    <display_name>SME</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/35795903-sme]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu Oct 09 20:38:40 -0700 2014</created_at>
+  <updated_at>Thu Oct 09 20:38:40 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>108753880</id>
+  <body><![CDATA["So on a cursory glance one could argue that the book is feminist. I’d argue against that. WHOLEHEARTEDLY." I agree with you so much, omg.]]></body>
+  
+  <user>
+    <id>26689406</id>
+    <name>Jess</name>
+    <display_name>Jess</display_name>
+
+    <location>Brazil</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/26689406-jess]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1462669823p3/26689406.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1462669823p2/26689406.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 02 13:08:24 -0800 2014</created_at>
+  <updated_at>Sun Nov 02 13:08:24 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>108975490</id>
+  <body><![CDATA[Damn.]]></body>
+  
+  <user>
+    <id>2680107</id>
+    <name>Parajunkee</name>
+    <display_name>Parajunkee</display_name>
+
+    <location>New Orleans, LA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2680107-parajunkee]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1389891183p3/2680107.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1389891183p2/2680107.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Nov 06 12:34:38 -0800 2014</created_at>
+  <updated_at>Thu Nov 06 12:34:38 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109065245</id>
+  <body><![CDATA[The bit were you tore down "it's a feminist boooook" argument spoke to me on spiritual levels.]]></body>
+  
+  <user>
+    <id>3278851</id>
+    <name>Sama</name>
+    <display_name>Sama</display_name>
+
+    <location>Cairo, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3278851-sama]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1266083336p3/3278851.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1266083336p2/3278851.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Nov 08 07:11:50 -0800 2014</created_at>
+  <updated_at>Sat Nov 08 07:11:50 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109611745</id>
+  <body><![CDATA[Thank you, thank you, I thought I was the only one...]]></body>
+  
+  <user>
+    <id>15358951</id>
+    <name>Mat</name>
+    <display_name>Mat</display_name>
+
+    <location>Islamabad, 08, Pakistan</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15358951-mat]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 18 10:19:56 -0800 2014</created_at>
+  <updated_at>Tue Nov 18 10:19:56 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>114322662</id>
+  <body><![CDATA[I felt exactly the same way! Your review made my day! :-)]]></body>
+  
+  <user>
+    <id>27877022</id>
+    <name>Erisa</name>
+    <display_name>Erisa Isak</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27877022-erisa-isak]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1447638624p3/27877022.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1447638624p2/27877022.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 09 13:43:41 -0800 2015</created_at>
+  <updated_at>Mon Feb 09 13:43:41 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>116002449</id>
+  <body><![CDATA[I really liked the book, but I can see where you're coming from here. Also 100% agree that the book is kinda antifeminist ... I was reminded of what Susan Faludi wrote about "Fatal Attraction" way back in the 1980s. (Also very true about Nick being oddly anachronistic, LOL. I almost didn't notice because I am myself a technologically inept 30-year-old)]]></body>
+  
+  <user>
+    <id>1583409</id>
+    <name>Lindsay</name>
+    <display_name>Lindsay</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1583409-lindsay]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1222911391p3/1583409.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1222911391p2/1583409.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 11 20:15:36 -0700 2015</created_at>
+  <updated_at>Wed Mar 11 20:15:36 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>131359127</id>
+  <body><![CDATA[I wanted to respond to Ana's comment: "Nick concocts his own plan to make Amy change her mind and come back...AND IT WORKS." I don't see this as inconsistent with the logic of the narrative. I think Amy knew EXACTLY what Nick was doing, and she liked it, as in this quote from Amy: "Give me a man with a little fight in him, a man who calls me on my bullshit. (But who also kind of likes my bullshit.)" I enjoyed reading your passionate review. :)]]></body>
+  
+  <user>
+    <id>7739516</id>
+    <name>Liza</name>
+    <display_name>Liza</display_name>
+
+    <location>Latham, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7739516-liza]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1329230370p3/7739516.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1329230370p2/7739516.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jul 06 08:08:34 -0700 2015</created_at>
+  <updated_at>Mon Jul 06 08:08:34 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>139181573</id>
+  <body><![CDATA[Hey got to be honest your review would make people want to read it!!!!! It's like the book !!!!! Good in parts.]]></body>
+  
+  <user>
+    <id>41834138</id>
+    <name>Elvira</name>
+    <display_name>Elvira</display_name>
+
+    <location><![CDATA[Swansea, Z1, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/41834138-elvira]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 25 01:46:02 -0700 2015</created_at>
+  <updated_at>Tue Aug 25 01:46:02 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>139181574</id>
+  <body><![CDATA[Hey got to be honest your review would make people want to read it!!!!! It's like the book !!!!! Good in parts.]]></body>
+  
+  <user>
+    <id>41834138</id>
+    <name>Elvira</name>
+    <display_name>Elvira</display_name>
+
+    <location><![CDATA[Swansea, Z1, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/41834138-elvira]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 25 01:46:03 -0700 2015</created_at>
+  <updated_at>Tue Aug 25 01:46:03 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>145757652</id>
+  <body><![CDATA[Brilliantly put, although I wouldn't have wasted as much time and energy as you did. I have only ever read one other book that started right where it ends, and actually, that book made me want to scream, but, for all that, it was brilliantly written, of course, it was Stephen King.]]></body>
+  
+  <user>
+    <id>39852323</id>
+    <name>Kerry</name>
+    <display_name>Kerry Fielding</display_name>
+
+    <location><![CDATA[Blackpool, H2, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/39852323-kerry-fielding]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1455987004p3/39852323.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1455987004p2/39852323.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 10 04:00:13 -0800 2016</created_at>
+  <updated_at>Sun Jan 10 04:00:13 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>153100019</id>
+  <body><![CDATA[Bless you! I just finished this, and you have hit on one of the things that bugged me about this book: Amy is as big a misogynist as her husband. And yet somehow, this book is supposed to be taken as feminist. Um, yeah, no.]]></body>
+  
+  <user>
+    <id>174499</id>
+    <name>Gill</name>
+    <display_name>Gill</display_name>
+
+    <location>Chicago, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/174499-gill]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1445723610p3/174499.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1445723610p2/174499.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 17 14:39:11 -0700 2016</created_at>
+  <updated_at>Fri Jun 17 14:39:11 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>155871816</id>
+  <body><![CDATA[lol @ Nick ''douchetastically pathetic'']]></body>
+  
+  <user>
+    <id>4862887</id>
+    <name>Ayny</name>
+    <display_name>Ayny</display_name>
+
+    <location>Kawartha Lakes, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4862887-ayny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1462670664p3/4862887.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1462670664p2/4862887.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 22 18:31:32 -0700 2016</created_at>
+  <updated_at>Mon Aug 22 18:31:32 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>160637309</id>
+  <body><![CDATA["She is either a brilliant psychopath or a gullible idiot. SHE CANNOT BE BOTH"<br /><br />YES YES YES!!! Ugh, so glad I'm not alone!]]></body>
+  
+  <user>
+    <id>62098051</id>
+    <name>Alex</name>
+    <display_name>Alex</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/62098051-alex]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 27 01:38:49 -0800 2016</created_at>
+  <updated_at>Tue Dec 27 01:38:49 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>163974782</id>
+  <body><![CDATA[That many chapters to finish this??? I am not sure I have reached " the twist" part I've heard people talk about, but I am ready for it to be over!! Too long. Too repetitive. I got bored with it quickly. I keep waiting wanting there to be a "gotcha " moment.]]></body>
+  
+  <user>
+    <id>47084229</id>
+    <name>Oleeta</name>
+    <display_name>Oleeta Igar</display_name>
+
+    <location>Canoga Park, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/47084229-oleeta-igar]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1482868925p3/47084229.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1482868925p2/47084229.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 15 17:06:31 -0700 2017</created_at>
+  <updated_at>Wed Mar 15 17:06:31 -0700 2017</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/524269940]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/524269940]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

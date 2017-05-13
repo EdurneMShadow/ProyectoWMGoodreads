@@ -1,0 +1,1302 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:41:25 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: NB6BWGZGHR9BNAPBX5QJ
+etag: W/"3bc96db7af0b3fcf77c87788e3c12bd2"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.326012
+set-cookie: csid=BAhJIhg0MTktNDgzNDgzMy0zNDAwNzM5BjoGRVQ%3D--5182adb8ef5d5f48cf5d1a2888df726202fd5d19; path=/; expires=Tue, 12 May 2037 13:41:25 -0000, locale=es; path=/, _session_id2=7b3a082535b9785c174c33e8ea081712; path=/; expires=Fri, 12 May 2017 19:41:25 -0000; HttpOnly
+content-length: 48392
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=196588314
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>196588314</id>
+    
+  <user>
+    <id>3104032</id>
+    <name>Regina</name>
+    <display_name>Regina</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3104032-regina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1362864551p3/3104032.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1362864551p2/3104032.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">8442457</id>
+  <isbn>0297859382</isbn>
+  <isbn13>9780297859383</isbn13>
+  <text_reviews_count type="integer">69038</text_reviews_count>
+  <title>Gone Girl</title>
+  <title_without_series>Gone Girl</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1339602131m/8442457.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1339602131s/8442457.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/8442457-gone-girl</link>
+  <num_pages>399</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Weidenfeld &amp; Nicolson</publisher>
+  <publication_day>24</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.03</average_rating>
+  <ratings_count>1572069</ratings_count>
+  <description>On a warm summer morning in North Carthage, Missouri, it is Nick and Amy Dunne’s fifth wedding anniversary. Presents are being wrapped and reservations are being made when Nick’s clever and beautiful wife disappears. Husband-of-the-Year Nick isn’t doing himself any favors with cringe-worthy daydreams about the slope and shape of his wife’s head, but passages from Amy's diary reveal the alpha-girl perfectionist could have put anyone dangerously on edge. Under mounting pressure from the police and the media—as well as Amy’s fiercely doting parents—the town golden boy parades an endless series of lies, deceits, and inappropriate behavior. Nick is oddly evasive, and he’s definitely bitter—but is he really a killer?</description>
+<authors>
+<author>
+<id>2383</id>
+<name>Gillian Flynn</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1232123231p5/2383.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1232123231p2/2383.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2383.Gillian_Flynn]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>2349137</ratings_count>
+<text_reviews_count>184832</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">14427025</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>2</comments_count>
+          <created_at type="datetime">Sat Jun 02 18:43:02 -0700 2012</created_at>
+          <updated_at type="datetime">Sat Sep 07 00:44:23 -0700 2013</updated_at>
+          <last_comment_at type="datetime">Sun Jun 03 12:01:56 -0700 2012</last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">20</percent>
+          <work_id type="integer">13306276</work_id>
+          <note_uri>kca://note/amzn1.grok.note.379140d4c10db6b644395da8f30eca22</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[I am officially not enjoying this anymore. I hope it picks up again.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">14074270</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>2</comments_count>
+          <created_at type="datetime">Tue May 22 06:35:17 -0700 2012</created_at>
+          <updated_at type="datetime">Tue May 22 06:35:17 -0700 2012</updated_at>
+          <last_comment_at type="datetime">Tue May 22 07:38:12 -0700 2012</last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">10</percent>
+          <work_id type="integer">13306276</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">1238112776</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Mon Feb 15 04:44:40 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>3</rating>
+  <votes>155</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="favorite-authors" exclusive="false" review_shelf_id="125519651" sortable="false" />
+    <shelf name="mystery" exclusive="false" review_shelf_id="125519670" sortable="false" />
+    <shelf name="dissapointing" exclusive="false" review_shelf_id="226029891" sortable="false" />
+    <shelf name="arc-publisher-netgalley-edelweiss" exclusive="false" review_shelf_id="226029888" sortable="false" />
+    <shelf name="psychological-thriller" exclusive="false" review_shelf_id="125519695" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon May 21 00:00:00 -0700 2012</started_at>
+  <read_at>Mon Jun 04 00:00:00 -0700 2012</read_at>
+  <date_added>Tue Aug 09 13:22:56 -0700 2011</date_added>
+  <date_updated>Fri Jun 08 05:16:54 -0700 2012</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Okay, here is the thing. I like dark and twisted stories. The twisted plotlines and authentically scarred characters pull me and I am hooked. Gillian Flynn wrote such a story line very well in <a href="http://www.goodreads.com/review/show/150754615" rel="nofollow">Sharp Objects</a>. That story is messed up but beautiful all the same. <a href="http://www.goodreads.com/review/show/119356188" rel="nofollow">Donna Tartt</a> and <a href="http://www.goodreads.com/review/show/120948359" rel="nofollow">Tana French</a> are other...]]>
+  </body>
+
+  
+
+  <comments_count>58</comments_count>
+    <comments start="1" end="50" total="58">
+        <comment>
+  <id>46656804</id>
+  <body><![CDATA[On NG!]]></body>
+  
+  <user>
+    <id>2250020</id>
+    <name>Tatiana</name>
+    <display_name>Tatiana</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2250020-tatiana]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1249783659p3/2250020.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1249783659p2/2250020.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 09 13:14:15 -0800 2012</created_at>
+  <updated_at>Fri Mar 09 13:14:15 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>46657025</id>
+  <body><![CDATA[Thank you!!!]]></body>
+  
+  <user>
+    <id>3104032</id>
+    <name>Regina</name>
+    <display_name>Regina</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3104032-regina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1362864551p3/3104032.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1362864551p2/3104032.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 09 13:18:13 -0800 2012</created_at>
+  <updated_at>Fri Mar 09 13:18:13 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>46663589</id>
+  <body><![CDATA[OMG...I want this one!!!]]></body>
+  
+  <user>
+    <id>3039709</id>
+    <name><![CDATA[Michelle, the Bookshelf Stalker ]]></name>
+    <display_name><![CDATA[Michelle, the Bookshelf Stalker  Queen of the Undead]]></display_name>
+
+    <location>Elk Grove, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3039709-michelle-the-bookshelf-stalker-queen-of-the-undead]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328667000p3/3039709.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328667000p2/3039709.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 09 15:14:00 -0800 2012</created_at>
+  <updated_at>Fri Mar 09 15:14:00 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>46663800</id>
+  <body><![CDATA[I Iove her work.]]></body>
+  
+  <user>
+    <id>3104032</id>
+    <name>Regina</name>
+    <display_name>Regina</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3104032-regina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1362864551p3/3104032.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1362864551p2/3104032.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 09 15:17:58 -0800 2012</created_at>
+  <updated_at>Fri Mar 09 15:17:58 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>46664388</id>
+  <body><![CDATA[<i>Regina wrote: "I Iove her work."</i><br /><br />Tatiana got me hooked. Of course, I blame her for plenty of my book addictions.]]></body>
+  
+  <user>
+    <id>3039709</id>
+    <name><![CDATA[Michelle, the Bookshelf Stalker ]]></name>
+    <display_name><![CDATA[Michelle, the Bookshelf Stalker  Queen of the Undead]]></display_name>
+
+    <location>Elk Grove, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3039709-michelle-the-bookshelf-stalker-queen-of-the-undead]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328667000p3/3039709.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328667000p2/3039709.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 09 15:28:07 -0800 2012</created_at>
+  <updated_at>Fri Mar 09 15:28:07 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>46664567</id>
+  <body><![CDATA[I learned of her from Tatiana too. :)]]></body>
+  
+  <user>
+    <id>3104032</id>
+    <name>Regina</name>
+    <display_name>Regina</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3104032-regina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1362864551p3/3104032.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1362864551p2/3104032.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 09 15:31:18 -0800 2012</created_at>
+  <updated_at>Fri Mar 09 15:31:18 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>46664624</id>
+  <body><![CDATA[<i>Regina wrote: "I learned of her from Tatiana too. :)"</i><br /><br />too funny.]]></body>
+  
+  <user>
+    <id>3039709</id>
+    <name><![CDATA[Michelle, the Bookshelf Stalker ]]></name>
+    <display_name><![CDATA[Michelle, the Bookshelf Stalker  Queen of the Undead]]></display_name>
+
+    <location>Elk Grove, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3039709-michelle-the-bookshelf-stalker-queen-of-the-undead]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328667000p3/3039709.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328667000p2/3039709.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 09 15:32:22 -0800 2012</created_at>
+  <updated_at>Fri Mar 09 15:32:22 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>46666642</id>
+  <body><![CDATA[Happy to oblige:)<br /><br />Can't wait to see what nasty woman she wrote about now!]]></body>
+  
+  <user>
+    <id>2250020</id>
+    <name>Tatiana</name>
+    <display_name>Tatiana</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2250020-tatiana]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1249783659p3/2250020.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1249783659p2/2250020.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 09 16:06:06 -0800 2012</created_at>
+  <updated_at>Fri Mar 09 16:06:06 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>46668161</id>
+  <body><![CDATA[Gillian Flynn and Tana French in one summer, it is almost too much to ask.]]></body>
+  
+  <user>
+    <id>3104032</id>
+    <name>Regina</name>
+    <display_name>Regina</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3104032-regina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1362864551p3/3104032.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1362864551p2/3104032.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 09 16:28:25 -0800 2012</created_at>
+  <updated_at>Fri Mar 09 16:28:25 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>51121559</id>
+  <body><![CDATA[You still liking it?]]></body>
+  
+  <user>
+    <id>3039709</id>
+    <name><![CDATA[Michelle, the Bookshelf Stalker ]]></name>
+    <display_name><![CDATA[Michelle, the Bookshelf Stalker  Queen of the Undead]]></display_name>
+
+    <location>Elk Grove, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3039709-michelle-the-bookshelf-stalker-queen-of-the-undead]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328667000p3/3039709.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328667000p2/3039709.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 26 11:47:03 -0700 2012</created_at>
+  <updated_at>Sat May 26 11:47:03 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>51122687</id>
+  <body><![CDATA[I got distracted away by about 3-4 books (not a great sign???) I am going to get back to it though.]]></body>
+  
+  <user>
+    <id>3104032</id>
+    <name>Regina</name>
+    <display_name>Regina</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3104032-regina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1362864551p3/3104032.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1362864551p2/3104032.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 26 12:13:37 -0700 2012</created_at>
+  <updated_at>Sat May 26 12:13:37 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>51123150</id>
+  <body><![CDATA[<i>Regina wrote: "I got distracted away by about 3-4 books (not a great sign???) I am going to get back to it though."</i><br /><br />I'm waiting to see if you like it. If you like it, I'll give it another try. However, the fact that you got distracted by other books isn't a great sign. LOL]]></body>
+  
+  <user>
+    <id>3039709</id>
+    <name><![CDATA[Michelle, the Bookshelf Stalker ]]></name>
+    <display_name><![CDATA[Michelle, the Bookshelf Stalker  Queen of the Undead]]></display_name>
+
+    <location>Elk Grove, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3039709-michelle-the-bookshelf-stalker-queen-of-the-undead]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328667000p3/3039709.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328667000p2/3039709.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 26 12:24:54 -0700 2012</created_at>
+  <updated_at>Sat May 26 12:24:54 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>51123253</id>
+  <body><![CDATA[Welllllll, in defense of Ms. Flynn, I looked at my ARC schedule (how pitiful is that? ) and I saw that I had two weeks to read other stuff -- that I could choose myself!!! So, I let myself get pulled into various directions.<br /><br />But you are right it isn't a great sign. But I have found myself wondering what is up with the characters. I am reading <a href="https://www.goodreads.com/book/show/6767883.Shady_Lady__Corine_Solomon___3_" title="Shady Lady (Corine Solomon, #3) by Ann Aguirre" rel="nofollow">Shady Lady</a> and then I will read <a href="https://www.goodreads.com/book/show/12084655.Chasing_Magic__Downside_Ghosts___5_" title="Chasing Magic (Downside Ghosts, #5) by Stacia Kane" rel="nofollow">Chasing Magic</a> and then I will get back to Gone Girl.]]></body>
+  
+  <user>
+    <id>3104032</id>
+    <name>Regina</name>
+    <display_name>Regina</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3104032-regina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1362864551p3/3104032.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1362864551p2/3104032.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 26 12:27:07 -0700 2012</created_at>
+  <updated_at>Sat May 26 12:27:07 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>51123327</id>
+  <body><![CDATA[<i>Regina wrote: "Welllllll, in defense of Ms. Flynn, I looked at my ARC schedule (how pitiful is that? ) and I saw that I had two weeks to read other stuff -- that I could choose myself!!! So, I let myself get pul..."</i><br /><br />I'm curious to have you join in our group discussion for the blog on Chasing Magic. Don't look at it (the Chasing Magic document) until you read the book though!]]></body>
+  
+  <user>
+    <id>3039709</id>
+    <name><![CDATA[Michelle, the Bookshelf Stalker ]]></name>
+    <display_name><![CDATA[Michelle, the Bookshelf Stalker  Queen of the Undead]]></display_name>
+
+    <location>Elk Grove, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3039709-michelle-the-bookshelf-stalker-queen-of-the-undead]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328667000p3/3039709.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328667000p2/3039709.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 26 12:28:31 -0700 2012</created_at>
+  <updated_at>Sat May 26 12:28:31 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>51123365</id>
+  <body><![CDATA[I won't look -- but I did see your question and just answered. (I just love the google docs, it is like our own personal forum. ;) )]]></body>
+  
+  <user>
+    <id>3104032</id>
+    <name>Regina</name>
+    <display_name>Regina</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3104032-regina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1362864551p3/3104032.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1362864551p2/3104032.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 26 12:29:31 -0700 2012</created_at>
+  <updated_at>Sat May 26 12:29:31 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>51123460</id>
+  <body><![CDATA[<i>Regina wrote: "I won't look -- but I did see your question and just answered. (I just love the google docs, it is like our own personal forum. ;) )"</i><br /><br />I just saw it and answered as well. LOL<br />I agree, it is like our own little forum.]]></body>
+  
+  <user>
+    <id>3039709</id>
+    <name><![CDATA[Michelle, the Bookshelf Stalker ]]></name>
+    <display_name><![CDATA[Michelle, the Bookshelf Stalker  Queen of the Undead]]></display_name>
+
+    <location>Elk Grove, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3039709-michelle-the-bookshelf-stalker-queen-of-the-undead]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328667000p3/3039709.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328667000p2/3039709.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 26 12:31:47 -0700 2012</created_at>
+  <updated_at>Sat May 26 12:31:47 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>51393465</id>
+  <body><![CDATA[How is this treating you so far Regina??]]></body>
+  
+  <user>
+    <id>4615387</id>
+    <name>Tara</name>
+    <display_name>Tara</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4615387-tara]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1474061150p3/4615387.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1474061150p2/4615387.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 31 07:15:09 -0700 2012</created_at>
+  <updated_at>Thu May 31 07:15:09 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>51396423</id>
+  <body><![CDATA[Tara I was really liking it but then I got distracted away. I plan to return to it on Saturday. <br /><br />I really like the set-up, the siblings' relationship and the introduction of the married couple.]]></body>
+  
+  <user>
+    <id>3104032</id>
+    <name>Regina</name>
+    <display_name>Regina</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3104032-regina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1362864551p3/3104032.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1362864551p2/3104032.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 31 08:23:54 -0700 2012</created_at>
+  <updated_at>Thu May 31 08:23:54 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>51400442</id>
+  <body><![CDATA[Oh, good to hear!! I just purchased it from audible so I'll probably make a start on it soon.:-)]]></body>
+  
+  <user>
+    <id>4615387</id>
+    <name>Tara</name>
+    <display_name>Tara</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4615387-tara]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1474061150p3/4615387.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1474061150p2/4615387.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 31 10:05:34 -0700 2012</created_at>
+  <updated_at>Thu May 31 10:05:34 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>51402629</id>
+  <body><![CDATA[I hope you love it! Two of my GR friends (both on this thread), ended up not clicking with this book and put it aside. I hope it stays good. ;)]]></body>
+  
+  <user>
+    <id>3104032</id>
+    <name>Regina</name>
+    <display_name>Regina</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3104032-regina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1362864551p3/3104032.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1362864551p2/3104032.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 31 10:55:14 -0700 2012</created_at>
+  <updated_at>Thu May 31 10:55:14 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>51842818</id>
+  <body><![CDATA[Ah, I didn't realize she wrote Sharp Objects...]]></body>
+  
+  <user>
+    <id>2776346</id>
+    <name>Damali</name>
+    <display_name>Damali</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2776346-damali]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1370692432p3/2776346.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1370692432p2/2776346.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 07 17:57:13 -0700 2012</created_at>
+  <updated_at>Thu Jun 07 17:57:13 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>51843024</id>
+  <body><![CDATA[Haha, which you did not like! What didn't you like about it?]]></body>
+  
+  <user>
+    <id>3104032</id>
+    <name>Regina</name>
+    <display_name>Regina</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3104032-regina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1362864551p3/3104032.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1362864551p2/3104032.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 07 18:01:20 -0700 2012</created_at>
+  <updated_at>Thu Jun 07 18:01:20 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>51843275</id>
+  <body><![CDATA[The plot. Mostly, I didn't like the way that grown woman let those kids treat her. It went beyond what my imagination can allow. :)]]></body>
+  
+  <user>
+    <id>2776346</id>
+    <name>Damali</name>
+    <display_name>Damali</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2776346-damali]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1370692432p3/2776346.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1370692432p2/2776346.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 07 18:05:20 -0700 2012</created_at>
+  <updated_at>Thu Jun 07 18:05:20 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>51843507</id>
+  <body><![CDATA[Ah, even though she was so psychologically damaged? <br /><br />I think the girls represented her childhood, her mother, there was a lot of symbolism there.<br /><br />But I get it, it was disturbing. I feel like this one, Gone Girl, was purposely pushing boundaries to see how disturbing she could be.]]></body>
+  
+  <user>
+    <id>3104032</id>
+    <name>Regina</name>
+    <display_name>Regina</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3104032-regina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1362864551p3/3104032.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1362864551p2/3104032.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 07 18:09:18 -0700 2012</created_at>
+  <updated_at>Thu Jun 07 18:09:18 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>51843926</id>
+  <body><![CDATA[It just happened too quickly. I read it awhile ago when it just came out probably, so I can't go into that much detail, but I do remember that pissing me off. It may be a 3-star, but I know I wasn't happy with the way things unfolded, and how she was letting those kids manipulate her.]]></body>
+  
+  <user>
+    <id>2776346</id>
+    <name>Damali</name>
+    <display_name>Damali</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2776346-damali]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1370692432p3/2776346.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1370692432p2/2776346.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 07 18:15:53 -0700 2012</created_at>
+  <updated_at>Thu Jun 07 18:15:53 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>51844058</id>
+  <body><![CDATA[If it pissed you off, it likely wasn't a 3 star for you!]]></body>
+  
+  <user>
+    <id>3104032</id>
+    <name>Regina</name>
+    <display_name>Regina</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3104032-regina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1362864551p3/3104032.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1362864551p2/3104032.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 07 18:18:32 -0700 2012</created_at>
+  <updated_at>Thu Jun 07 18:18:32 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>51844289</id>
+  <body><![CDATA[That was my figuring also...but GRRM's last pissed me off (for several other reasons), and it's a 3 star...so if I end up reading this and enjoying it, I'll upgrade Sharp Objects. :D]]></body>
+  
+  <user>
+    <id>2776346</id>
+    <name>Damali</name>
+    <display_name>Damali</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2776346-damali]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1370692432p3/2776346.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1370692432p2/2776346.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 07 18:23:05 -0700 2012</created_at>
+  <updated_at>Thu Jun 07 18:23:05 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>51844377</id>
+  <body><![CDATA[Glad to see you reviewing again. I've missed your reviews. :)]]></body>
+  
+  <user>
+    <id>4013351</id>
+    <name>Stacia (the 2010 club)</name>
+    <display_name>Stacia (the 2010 club)</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4013351-stacia-the-2010-club]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1417661051p3/4013351.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1417661051p2/4013351.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 07 18:24:49 -0700 2012</created_at>
+  <updated_at>Thu Jun 07 18:24:49 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>51844805</id>
+  <body><![CDATA[Thanks Stacia! :) It is true, I haven't done them for a few weeks. It felt good to write one again.]]></body>
+  
+  <user>
+    <id>3104032</id>
+    <name>Regina</name>
+    <display_name>Regina</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3104032-regina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1362864551p3/3104032.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1362864551p2/3104032.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 07 18:31:50 -0700 2012</created_at>
+  <updated_at>Thu Jun 07 18:31:50 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>51886033</id>
+  <body><![CDATA[great review! Now another book I MUST read =)]]></body>
+  
+  <user>
+    <id>1906369</id>
+    <name>Michelle</name>
+    <display_name>Michelle</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1906369-michelle]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1282765222p3/1906369.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1282765222p2/1906369.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 08 13:07:16 -0700 2012</created_at>
+  <updated_at>Fri Jun 08 13:07:16 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>52463329</id>
+  <body><![CDATA[Great review. Their unlikeableness is the flaw, though I felt a tiny bit of sympathy for Nick.]]></body>
+  
+  <user>
+    <id>2698139</id>
+    <name>Zuly</name>
+    <display_name>Zuly</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2698139-zuly]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 18 09:25:45 -0700 2012</created_at>
+  <updated_at>Mon Jun 18 09:25:45 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>52463438</id>
+  <body><![CDATA[Agreed Zuly, the book would have been more enjoyable if I could have liked one of the characters. I did feel some sympathy for him too.]]></body>
+  
+  <user>
+    <id>3104032</id>
+    <name>Regina</name>
+    <display_name>Regina</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3104032-regina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1362864551p3/3104032.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1362864551p2/3104032.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 18 09:27:41 -0700 2012</created_at>
+  <updated_at>Mon Jun 18 09:27:41 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>53271719</id>
+  <body><![CDATA["In the end, though, the characters were too far down the unlikable path for my taste. They were not redeemable. I like my characters flawed and hurting, thank you very much. But to have nobody in the story be someone I can attach to? To have only the side characters be the sympathetic ones? That is a challenge for me.". -------I agree with this 100% and think you described why I didn't like the book. I was having a hard time trying to figure it out.]]></body>
+  
+  <user>
+    <id>6271944</id>
+    <name>Jill</name>
+    <display_name>Jill</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6271944-jill]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1368413159p3/6271944.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1368413159p2/6271944.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jun 30 22:18:32 -0700 2012</created_at>
+  <updated_at>Sat Jun 30 22:18:32 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>53293491</id>
+  <body><![CDATA[Thank you Jill. I think Flynn pushed too many boundaries and it made the book less enjoyable. I liked your review on this too.]]></body>
+  
+  <user>
+    <id>3104032</id>
+    <name>Regina</name>
+    <display_name>Regina</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3104032-regina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1362864551p3/3104032.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1362864551p2/3104032.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jul 01 10:50:30 -0700 2012</created_at>
+  <updated_at>Sun Jul 01 10:50:30 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>53492030</id>
+  <body><![CDATA[I had such high expectations for this book. It had received such stellar reviews and I couldn't wait to get my copy in the mail and start reading it, and then...much disappointment! I think you put your finger on it, Regina, by saying that it was hard to sympathize with either of the main characters. At the end, I didn't really care about either one. It is interesting to see everyone's comments on the book - <br />I wanted to see what others thought about it - I thought I was alone in feeling underwhelmed by it. I may try reading Sharp Objects or Dark Places and see how I feel about those.]]></body>
+  
+  <user>
+    <id>1300904</id>
+    <name>Heidi</name>
+    <display_name>Heidi Grogan</display_name>
+
+    <location>Germantown, WI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1300904-heidi-grogan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1242601273p3/1300904.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1242601273p2/1300904.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 04 12:30:43 -0700 2012</created_at>
+  <updated_at>Wed Jul 04 12:30:43 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>53493864</id>
+  <body><![CDATA[I also thought I'd give her other novels a shot. It says SOMEthing about this author that we're willing to go back to her earlier work, having experienced disappointment with what is touted as her best.]]></body>
+  
+  <user>
+    <id>2698139</id>
+    <name>Zuly</name>
+    <display_name>Zuly</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2698139-zuly]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 04 13:03:06 -0700 2012</created_at>
+  <updated_at>Wed Jul 04 13:03:06 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>53553511</id>
+  <body><![CDATA[I'm with you on this one. It felt like a bad Law and Order: SVU episode, like the one where West Chester couples imported Haitian slaves and kept them in their basement -- c'mon guys...]]></body>
+  
+  <created_at>Thu Jul 05 13:15:32 -0700 2012</created_at>
+  <updated_at>Thu Jul 05 13:15:32 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>54292821</id>
+  <body><![CDATA[I quoted the same passage in my review. :)]]></body>
+  
+  <user>
+    <id>6915293</id>
+    <name>M.T.</name>
+    <display_name>M.T. Dahl</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6915293-m-t-dahl]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442874552p3/6915293.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442874552p2/6915293.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jul 16 23:10:50 -0700 2012</created_at>
+  <updated_at>Mon Jul 16 23:10:50 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>54305935</id>
+  <body><![CDATA[Bree isn't that discussion so right on? I sat up straight and re-read that part a few times.]]></body>
+  
+  <user>
+    <id>3104032</id>
+    <name>Regina</name>
+    <display_name>Regina</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3104032-regina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1362864551p3/3104032.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1362864551p2/3104032.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 17 07:34:02 -0700 2012</created_at>
+  <updated_at>Tue Jul 17 07:34:02 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>54324710</id>
+  <body><![CDATA[It should carved in stone and hung in every drinking establishment throughout the lands. :)]]></body>
+  
+  <user>
+    <id>6915293</id>
+    <name>M.T.</name>
+    <display_name>M.T. Dahl</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6915293-m-t-dahl]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442874552p3/6915293.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442874552p2/6915293.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 17 12:35:01 -0700 2012</created_at>
+  <updated_at>Tue Jul 17 12:35:01 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>54325276</id>
+  <body><![CDATA[LOL, it really should be.]]></body>
+  
+  <user>
+    <id>3104032</id>
+    <name>Regina</name>
+    <display_name>Regina</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3104032-regina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1362864551p3/3104032.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1362864551p2/3104032.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 17 12:44:16 -0700 2012</created_at>
+  <updated_at>Tue Jul 17 12:44:16 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>55944421</id>
+  <body><![CDATA[I definitely think Sharp Objects was a better book, as I was able to feel something for the main character, despite her flaws. In Gone Girl, the main characters SUCK! But, of course, for some reason I felt bad when Amy got her money stolen? It's like I have Dexter syndrome or something (don't get caught- you're a main character)!! Anyway, great review- I couldn't have said it better myself. :) now....onto Dark Places!]]></body>
+  
+  <user>
+    <id>4021122</id>
+    <name>Rachel</name>
+    <display_name>Rachel</display_name>
+
+    <location>Beverly Hills, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4021122-rachel]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1340773810p3/4021122.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1340773810p2/4021122.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 10 12:38:22 -0700 2012</created_at>
+  <updated_at>Fri Aug 10 12:38:22 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>55951043</id>
+  <body><![CDATA[Yes, that is IT Rachel! I could feel something for the main character in Sharp Objects. I felt bad for her too and she is so not a sympathetic character. I will be watching for your thoughts on Dark Places. :)]]></body>
+  
+  <user>
+    <id>3104032</id>
+    <name>Regina</name>
+    <display_name>Regina</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3104032-regina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1362864551p3/3104032.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1362864551p2/3104032.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 10 14:21:12 -0700 2012</created_at>
+  <updated_at>Fri Aug 10 14:21:12 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>57779680</id>
+  <body><![CDATA[great review. Overall I agree, except for the point that I need redeemable attributes in the main characters. which makes me wonder. have you read Flynn's second book "dark places"? I would be very interested to read what you thought about it.]]></body>
+  
+  <user>
+    <id>6246674</id>
+    <name>Melina</name>
+    <display_name>Melina</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6246674-melina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1440806734p3/6246674.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1440806734p2/6246674.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Sep 08 10:04:11 -0700 2012</created_at>
+  <updated_at>Sat Sep 08 10:04:11 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>57793652</id>
+  <body><![CDATA[Hi Melie, I haven't read it, but I am off to check your shelves to see what you think. Now I am really curious, I think I plan to read it in the next few weeks.]]></body>
+  
+  <user>
+    <id>3104032</id>
+    <name>Regina</name>
+    <display_name>Regina</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3104032-regina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1362864551p3/3104032.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1362864551p2/3104032.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Sep 08 14:00:26 -0700 2012</created_at>
+  <updated_at>Sat Sep 08 14:00:26 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>61096135</id>
+  <body><![CDATA[I COMPLETELY agree with you about the "just to make you uncomfortable" bit. I felt it was too forced on purpose, too...and that more subtlety would have actually made the character scarier.]]></body>
+  
+  <user>
+    <id>7312933</id>
+    <name>Phoebe</name>
+    <display_name>Phoebe</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7312933-phoebe]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1343627353p3/7312933.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1343627353p2/7312933.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Nov 03 23:12:27 -0700 2012</created_at>
+  <updated_at>Sat Nov 03 23:12:27 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>69680980</id>
+  <body><![CDATA[In the end I liked "Go" and Detective Rhonda. That's about it. But what a fun ride it was.]]></body>
+  
+  <user>
+    <id>7626050</id>
+    <name>Ron</name>
+    <display_name>Ron</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7626050-ron]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478222970p3/7626050.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478222970p2/7626050.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 12 13:48:29 -0700 2013</created_at>
+  <updated_at>Tue Mar 12 13:48:29 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73912005</id>
+  <body><![CDATA[I read both Dark Places &amp; Sharp Objects and was amazed by them. I am absolutely struggling to finish Gone Girl. I haven't put my finger on why exactly this book isn't sweeping me away, just wondering if other's felt the same?]]></body>
+  
+  <user>
+    <id>17458494</id>
+    <name>Xandra</name>
+    <display_name>Xandra Black</display_name>
+
+    <location>Cataumet, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17458494-xandra-black]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1361597572p3/17458494.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1361597572p2/17458494.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 11 16:11:36 -0700 2013</created_at>
+  <updated_at>Sat May 11 16:11:36 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73912540</id>
+  <body><![CDATA[I felt exactly the same. :)]]></body>
+  
+  <user>
+    <id>3104032</id>
+    <name>Regina</name>
+    <display_name>Regina</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3104032-regina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1362864551p3/3104032.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1362864551p2/3104032.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 11 16:22:46 -0700 2013</created_at>
+  <updated_at>Sat May 11 16:22:46 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>80347246</id>
+  <body><![CDATA[Great review]]></body>
+  
+  <user>
+    <id>6663962</id>
+    <name>Alex is The Romance Fox</name>
+    <display_name>Alex is The Romance Fox</display_name>
+
+    <location><![CDATA[Johannesburg, 2192, South Africa]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6663962-alex-is-the-romance-fox]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1428866380p3/6663962.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1428866380p2/6663962.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 09 07:03:11 -0700 2013</created_at>
+  <updated_at>Fri Aug 09 07:03:11 -0700 2013</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/196588314]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/196588314]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

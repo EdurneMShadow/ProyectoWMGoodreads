@@ -1,0 +1,1280 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:49:35 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: 54PXBR13SBJ39A1PNNCJ
+etag: W/"dc75defe25edb9ba3b8b5a01577d3186"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.354242
+set-cookie: csid=BAhJIhg2OTUtNjk2ODI0NC03ODQxNjk0BjoGRVQ%3D--92b751320b533de4e2729e45c6a090e667e8215a; path=/; expires=Tue, 12 May 2037 13:49:35 -0000, locale=es; path=/, _session_id2=de470396fa286cab90c9211eecb5044f; path=/; expires=Fri, 12 May 2017 19:49:35 -0000; HttpOnly
+content-length: 49159
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=3794924
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>3794924</id>
+    
+  <user>
+    <id>236411</id>
+    <name>Steve</name>
+    <display_name>Steve</display_name>
+
+    <location>Chicago, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/236411-steve]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291695844p3/236411.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291695844p2/236411.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">968</id>
+  <isbn>0307277674</isbn>
+  <isbn13>9780307277671</isbn13>
+  <text_reviews_count type="integer">32869</text_reviews_count>
+  <title>The Da Vinci Code (Robert Langdon, #2)</title>
+  <title_without_series>The Da Vinci Code</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1303252999m/968.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1303252999s/968.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/968.The_Da_Vinci_Code</link>
+  <num_pages>481</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Anchor</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.78</average_rating>
+  <ratings_count>1531664</ratings_count>
+  <description>An ingenious code hidden in the works of Leonardo da Vinci. A desperate race through the cathedrals and castles of Europe. An astonishing truth concealed for centuries . . . unveiled at last.&lt;br /&gt;&lt;br /&gt;While in Paris, Harvard symbologist Robert Langdon is awakened by a phone call in the dead of the night. The elderly curator of the Louvre has been murdered inside the museum, his body covered in baffling symbols. As Langdon and gifted French cryptologist Sophie Neveu sort through the bizarre riddles, they are stunned to discover a trail of clues hidden in the works of Leonardo da Vinci—clues visible for all to see and yet ingeniously disguised by the painter.&lt;br /&gt;&lt;br /&gt;Even more startling, the late curator was involved in the Priory of Sion—a secret society whose members included Sir Isaac Newton, Victor Hugo, and Da Vinci—and he guarded a breathtaking historical secret. Unless Langdon and Neveu can decipher the labyrinthine puzzle—while avoiding the faceless adversary who shadows their every move—the explosive, ancient truth will be lost forever.</description>
+<authors>
+<author>
+<id>630</id>
+<name>Dan Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p5/630.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p2/630.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/630.Dan_Brown]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>5211301</ratings_count>
+<text_reviews_count>138647</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">91755538</id>
+          <old_status>read</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Wed Jul 17 14:40:09 -0700 2013</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>3</rating>
+  <votes>91</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Jan 01 00:00:00 -0800 2003</read_at>
+  <date_added>Mon Jul 30 10:21:07 -0700 2007</date_added>
+  <date_updated>Mon Dec 23 11:09:16 -0800 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<img src="http://i1058.photobucket.com/albums/t419/shotopp/aab4ff32-e359-4613-aecf-f3610547e2fd.jpg" width="400" height="610" class="gr-hostedUserImg" /><br /><br />It's considered an unfair advantage using a cryptex box to solve this.<br /><br />]]>
+  </body>
+
+  
+
+  <comments_count>71</comments_count>
+    <comments start="1" end="50" total="71">
+        <comment>
+  <id>78652127</id>
+  <body><![CDATA[Wow.]]></body>
+  
+  <user>
+    <id>4426615</id>
+    <name>Jason</name>
+    <display_name>Jason</display_name>
+
+    <location>Milford, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4426615-jason]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1403411965p3/4426615.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1403411965p2/4426615.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 17 15:09:42 -0700 2013</created_at>
+  <updated_at>Wed Jul 17 15:09:42 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78652272</id>
+  <body><![CDATA[Some are probably too easy, others maybe less so. Where's Will Shortz when you need him?]]></body>
+  
+  <user>
+    <id>236411</id>
+    <name>Steve</name>
+    <display_name>Steve</display_name>
+
+    <location>Chicago, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/236411-steve]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291695844p3/236411.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291695844p2/236411.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 17 15:11:39 -0700 2013</created_at>
+  <updated_at>Wed Jul 17 15:11:39 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78652284</id>
+  <body><![CDATA[Strangely enough, the hardest one was 16 across.]]></body>
+  
+  <user>
+    <id>4675538</id>
+    <name>Drew</name>
+    <display_name>Drew</display_name>
+
+    <location>Saint Louis, MO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4675538-drew]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1299606167p3/4675538.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1299606167p2/4675538.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 17 15:11:46 -0700 2013</created_at>
+  <updated_at>Wed Jul 17 15:11:46 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78652309</id>
+  <body><![CDATA[Steve, you've surpassed yourself!]]></body>
+  
+  <user>
+    <id>5974610</id>
+    <name>Kris</name>
+    <display_name>Kris</display_name>
+
+    <location>Philadelphia, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5974610-kris]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1390152276p3/5974610.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1390152276p2/5974610.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 17 15:12:05 -0700 2013</created_at>
+  <updated_at>Wed Jul 17 15:12:05 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78652543</id>
+  <body><![CDATA[<i>Drew wrote: "Strangely enough, the hardest one was 16 across."</i><br /><br />That's a lot to unscramble. Sounds like you got it, though, Drew.]]></body>
+  
+  <user>
+    <id>236411</id>
+    <name>Steve</name>
+    <display_name>Steve</display_name>
+
+    <location>Chicago, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/236411-steve]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291695844p3/236411.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291695844p2/236411.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 17 15:15:55 -0700 2013</created_at>
+  <updated_at>Wed Jul 17 15:15:55 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78652592</id>
+  <body><![CDATA[<i>Kris wrote: "Steve, you've surpassed yourself!"</i><br /><br />Surpassing myself in an odd direction, I think. :-)]]></body>
+  
+  <user>
+    <id>236411</id>
+    <name>Steve</name>
+    <display_name>Steve</display_name>
+
+    <location>Chicago, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/236411-steve]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291695844p3/236411.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291695844p2/236411.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 17 15:16:43 -0700 2013</created_at>
+  <updated_at>Wed Jul 17 15:16:43 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78655529</id>
+  <body><![CDATA[Wow that was fun. Brilliant.]]></body>
+  
+  <user>
+    <id>5859453</id>
+    <name>Arah-Lynda</name>
+    <display_name>Arah-Lynda</display_name>
+
+    <location>Kitchener, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5859453-arah-lynda]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492957789p3/5859453.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492957789p2/5859453.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 17 16:01:07 -0700 2013</created_at>
+  <updated_at>Wed Jul 17 16:01:07 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78665255</id>
+  <body><![CDATA[I bet you enjoyed creating this more than you enjoyed reading that book. I know I had a better time with this.]]></body>
+  
+  <user>
+    <id>7036337</id>
+    <name>Gary </name>
+    <display_name>Gary  the Bookworm</display_name>
+
+    <location>Delray Beach, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7036337-gary-the-bookworm]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1491094498p3/7036337.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1491094498p2/7036337.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 17 18:32:32 -0700 2013</created_at>
+  <updated_at>Wed Jul 17 18:32:32 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78672290</id>
+  <body><![CDATA[<i>Arah-Lynda wrote: "Wow that was fun. Brilliant."</i><br /><br />Thanks for the feedback, Arah-Lynda!]]></body>
+  
+  <user>
+    <id>236411</id>
+    <name>Steve</name>
+    <display_name>Steve</display_name>
+
+    <location>Chicago, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/236411-steve]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291695844p3/236411.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291695844p2/236411.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 17 20:21:06 -0700 2013</created_at>
+  <updated_at>Wed Jul 17 20:21:06 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78672533</id>
+  <body><![CDATA[<i>Gary wrote: "I bet you enjoyed creating this more than you enjoyed reading that book. I know I had a better time with this."</i><br /><br />Yes, Gary, the puzzle itself was fun. The technical issues getting it posted were more of a challenge, though. :-/]]></body>
+  
+  <user>
+    <id>236411</id>
+    <name>Steve</name>
+    <display_name>Steve</display_name>
+
+    <location>Chicago, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/236411-steve]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291695844p3/236411.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291695844p2/236411.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 17 20:25:16 -0700 2013</created_at>
+  <updated_at>Wed Jul 17 20:25:16 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78678627</id>
+  <body><![CDATA[Glad to meet you here, Steve :)]]></body>
+  
+  <user>
+    <id>7915003</id>
+    <name>Garima</name>
+    <display_name>Garima</display_name>
+
+    <location>India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7915003-garima]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1360053697p3/7915003.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1360053697p2/7915003.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 17 23:56:44 -0700 2013</created_at>
+  <updated_at>Wed Jul 17 23:56:44 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78686044</id>
+  <body><![CDATA[I'm glad you were able to figure it out. Next time I'd prefer it if I could fill-in the answers on the screen, though! ;-)]]></body>
+  
+  <user>
+    <id>7036337</id>
+    <name>Gary </name>
+    <display_name>Gary  the Bookworm</display_name>
+
+    <location>Delray Beach, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7036337-gary-the-bookworm]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1491094498p3/7036337.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1491094498p2/7036337.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 18 04:53:24 -0700 2013</created_at>
+  <updated_at>Thu Jul 18 04:53:24 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78689038</id>
+  <body><![CDATA[<i>Garima wrote: "Glad to meet you here, Steve :)"</i><br /><br />Likewise, Garima!]]></body>
+  
+  <user>
+    <id>236411</id>
+    <name>Steve</name>
+    <display_name>Steve</display_name>
+
+    <location>Chicago, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/236411-steve]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291695844p3/236411.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291695844p2/236411.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 18 06:11:37 -0700 2013</created_at>
+  <updated_at>Thu Jul 18 06:11:37 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78689136</id>
+  <body><![CDATA[<i>Gary wrote: "I'm glad you were able to figure it out. Next time I'd prefer it if I could fill-in the answers on the screen, though! ;-)"</i><br /><br />Gary, you're the type who'd come to the Taj Mahal and say, "What, no central air?"]]></body>
+  
+  <user>
+    <id>236411</id>
+    <name>Steve</name>
+    <display_name>Steve</display_name>
+
+    <location>Chicago, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/236411-steve]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291695844p3/236411.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291695844p2/236411.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 18 06:13:28 -0700 2013</created_at>
+  <updated_at>Thu Jul 18 06:13:28 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78691023</id>
+  <body><![CDATA[I was happy with my comment when I posted it but now it looks like an incomplete goodbye message :o<br /><br />Anyway, what you have done here is fantastic. There was a time when I had to study and solve a lot many logical reasoning questions and I used to wonder who <s>the hell</s> come up with all this and today I met one (virtually though), hence my previous comment. Respect.]]></body>
+  
+  <user>
+    <id>7915003</id>
+    <name>Garima</name>
+    <display_name>Garima</display_name>
+
+    <location>India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7915003-garima]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1360053697p3/7915003.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1360053697p2/7915003.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 18 06:50:12 -0700 2013</created_at>
+  <updated_at>Thu Jul 18 06:50:12 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78691345</id>
+  <body><![CDATA[<i>Garima wrote: "I was happy with my comment when I posted it but now it looks like an incomplete goodbye message :o<br /><br />Anyway, what you have done here is fantastic. There was a time when I had to study and solve a l..."</i><br /><br />Ah, OK, I thought you were being a bit cryptic with your first comment (turn-about being fair play and all). Now I know what I'm thanking you for. And it goes both ways, that respect. :-)]]></body>
+  
+  <user>
+    <id>236411</id>
+    <name>Steve</name>
+    <display_name>Steve</display_name>
+
+    <location>Chicago, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/236411-steve]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291695844p3/236411.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291695844p2/236411.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 18 06:56:19 -0700 2013</created_at>
+  <updated_at>Thu Jul 18 06:56:19 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78693075</id>
+  <body><![CDATA[Awesome, Steve! Yours is definitely the first crossword review I've come across. Did you invent that anagram? That in itself is genius.]]></body>
+  
+  <user>
+    <id>5745485</id>
+    <name>Christopher</name>
+    <display_name>Christopher</display_name>
+
+    <location>Louisville, KY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5745485-christopher]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1416433194p3/5745485.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1416433194p2/5745485.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 18 07:27:14 -0700 2013</created_at>
+  <updated_at>Thu Jul 18 07:27:14 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78693175</id>
+  <body><![CDATA[Liked #16.<br /><br />and you are generous with your stars...]]></body>
+  
+  <user>
+    <id>3593962</id>
+    <name>Kalliope</name>
+    <display_name>Kalliope</display_name>
+
+    <location>Madrid, Spain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3593962-kalliope]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1428482885p3/3593962.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1428482885p2/3593962.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 18 07:28:41 -0700 2013</created_at>
+  <updated_at>Thu Jul 18 07:28:41 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78693366</id>
+  <body><![CDATA[<i>Christopher wrote: "Awesome, Steve! Yours is definitely the first crossword review I've come across. Did you invent that anagram? That in itself is genius."</i><br /><br />Thanks, Christopher! With the anagrams, there are online generators out there that help with the task. Then it's just a matter of sorting through the many combinations to see one that kinda fits.]]></body>
+  
+  <user>
+    <id>236411</id>
+    <name>Steve</name>
+    <display_name>Steve</display_name>
+
+    <location>Chicago, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/236411-steve]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291695844p3/236411.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291695844p2/236411.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 18 07:32:12 -0700 2013</created_at>
+  <updated_at>Thu Jul 18 07:32:12 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78693609</id>
+  <body><![CDATA[<i>Kalliope wrote: "Liked #16.<br /><br />and you are generous with your stars..."</i><br /><br />#16 seems like the most challenging one. <br /><br />And yes, my stars may seem generous, but I had to give him credit for making me want to turn the next page. Besides, in 2003 I hadn't discovered as many better books as there are. :-)]]></body>
+  
+  <user>
+    <id>236411</id>
+    <name>Steve</name>
+    <display_name>Steve</display_name>
+
+    <location>Chicago, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/236411-steve]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291695844p3/236411.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291695844p2/236411.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 18 07:36:20 -0700 2013</created_at>
+  <updated_at>Thu Jul 18 07:36:20 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78693784</id>
+  <body><![CDATA[I liked this book, too. I don't know why there is such strong anti-DB sentiment around here. The only thing I don't particularly like about him is that his stories are pretty much all the same, so if you've read one you've read them all.<br /><br />But this was the first one I'd read and I definitely liked it.]]></body>
+  
+  <user>
+    <id>4426615</id>
+    <name>Jason</name>
+    <display_name>Jason</display_name>
+
+    <location>Milford, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4426615-jason]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1403411965p3/4426615.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1403411965p2/4426615.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 18 07:39:23 -0700 2013</created_at>
+  <updated_at>Thu Jul 18 07:39:23 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78694391</id>
+  <body><![CDATA[This is great!]]></body>
+  
+  <user>
+    <id>1257768</id>
+    <name>Sarah (Presto agitato)</name>
+    <display_name>Sarah (Presto agitato)</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1257768-sarah-presto-agitato]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1294588421p3/1257768.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1294588421p2/1257768.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 18 07:48:47 -0700 2013</created_at>
+  <updated_at>Thu Jul 18 07:48:47 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78694779</id>
+  <body><![CDATA[<i>Jason wrote: "I liked this book, too. I don't know why there is such strong anti-DB sentiment around here. The only thing I don't particularly like about him is that his stories are pretty much all the same, so ..."</i><br /><br />I doubt either one of us would say it's any kind of literary achievement or at all realistic, but for the kind of book it is, it's pretty engaging.]]></body>
+  
+  <user>
+    <id>236411</id>
+    <name>Steve</name>
+    <display_name>Steve</display_name>
+
+    <location>Chicago, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/236411-steve]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291695844p3/236411.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291695844p2/236411.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 18 07:54:35 -0700 2013</created_at>
+  <updated_at>Thu Jul 18 07:54:35 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78694864</id>
+  <body><![CDATA[<i>Sarah wrote: "This is great!"</i><br /><br />Grazie mille, Sarah!]]></body>
+  
+  <user>
+    <id>236411</id>
+    <name>Steve</name>
+    <display_name>Steve</display_name>
+
+    <location>Chicago, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/236411-steve]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291695844p3/236411.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291695844p2/236411.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 18 07:55:51 -0700 2013</created_at>
+  <updated_at>Thu Jul 18 07:55:51 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78696814</id>
+  <body><![CDATA[Ok it took me some time to get #16. I am really impressed with 'Addictive con eh?' though. I can decode anagrams but I can't make them up myself. Never.<br />This was genius, Steve. Please make more in the future for your reviews. :P <br />(And I'll make an honest confession that when I read this I was in my last year of high school and really, really enjoyed reading this.)]]></body>
+  
+  <user>
+    <id>13266158</id>
+    <name>Samadrita</name>
+    <display_name>Samadrita</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13266158-samadrita]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1461258628p3/13266158.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1461258628p2/13266158.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 18 08:27:40 -0700 2013</created_at>
+  <updated_at>Thu Jul 18 08:27:40 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78697160</id>
+  <body><![CDATA[<i>Samadrita wrote: "Ok it took me some time to get #16. I am really impressed with 'Addictive con eh?' though. I can decode anagrams but I can't make them up myself. Never.<br />This was genius, Steve. Please make more in ..."</i><br /><br />Thank you, Samadrita! You're fully pardoned for liking this if you were still in high school. ;-)<br /><br />Oh, and I should repeat, there's online software that helps a lot with the anagram constructions.]]></body>
+  
+  <user>
+    <id>236411</id>
+    <name>Steve</name>
+    <display_name>Steve</display_name>
+
+    <location>Chicago, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/236411-steve]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291695844p3/236411.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291695844p2/236411.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 18 08:33:19 -0700 2013</created_at>
+  <updated_at>Thu Jul 18 08:33:19 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78698007</id>
+  <body><![CDATA[Everything's just a click away these days...even anagram-makers wow!!!! But you have to admit, using software kinda takes the fun out of these things.]]></body>
+  
+  <user>
+    <id>13266158</id>
+    <name>Samadrita</name>
+    <display_name>Samadrita</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13266158-samadrita]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1461258628p3/13266158.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1461258628p2/13266158.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 18 08:47:29 -0700 2013</created_at>
+  <updated_at>Thu Jul 18 08:47:29 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78698994</id>
+  <body><![CDATA[Wow Steve!!! I've said it before and I'll say it again - You are the most innovative reviewer on GR. Thanks for the fun review, it made my day.]]></body>
+  
+  <user>
+    <id>6450088</id>
+    <name>Tania</name>
+    <display_name>Tania</display_name>
+
+    <location><![CDATA[Johannesburg, 06, South Africa]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6450088-tania]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483260041p3/6450088.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483260041p2/6450088.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 18 09:02:33 -0700 2013</created_at>
+  <updated_at>Thu Jul 18 09:02:33 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78699449</id>
+  <body><![CDATA[<i>Samadrita wrote: "Everything's just a click away these days...even anagram-makers wow!!!! But you have to admit, using software kinda takes the fun out of these things."</i><br /><br />Yes, the software is a cheat, but a useful one, I think. Left to my own devices, I unscrambled "Samadrita" to get "I'm a sad rat", but when I used the software, I got "Amid a star"! Which do you prefer? ;-)]]></body>
+  
+  <user>
+    <id>236411</id>
+    <name>Steve</name>
+    <display_name>Steve</display_name>
+
+    <location>Chicago, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/236411-steve]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291695844p3/236411.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291695844p2/236411.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 18 09:10:16 -0700 2013</created_at>
+  <updated_at>Thu Jul 18 09:10:16 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78699517</id>
+  <body><![CDATA[<i>Tania wrote: "Wow Steve!!! I've said it before and I'll say it again - You are the most innovative reviewer on GR. Thanks for the fun review, it made my day."</i><br /><br />Thank you so much, Tania. Comments like this make <i>my</i> day!]]></body>
+  
+  <user>
+    <id>236411</id>
+    <name>Steve</name>
+    <display_name>Steve</display_name>
+
+    <location>Chicago, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/236411-steve]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291695844p3/236411.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291695844p2/236411.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 18 09:11:23 -0700 2013</created_at>
+  <updated_at>Thu Jul 18 09:11:23 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78700898</id>
+  <body><![CDATA[I love this! You have outdone yourself once again! As a note to everyone else here, Steve once wrote a holiday letter in the form of a crossword puzzle, so this is his second effort. A second career as a puzzler would suit him, don't you think? I triple-dog-dare you to submit one to Will Shortz, Steve.]]></body>
+  
+  <user>
+    <id>237753</id>
+    <name>Susan</name>
+    <display_name>Susan</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/237753-susan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1351565760p3/237753.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1351565760p2/237753.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 18 09:34:23 -0700 2013</created_at>
+  <updated_at>Thu Jul 18 09:34:23 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78701735</id>
+  <body><![CDATA[HAHA, genius. I'm going to solve it and mail it in. Will Shortz is jealous.]]></body>
+  
+  <user>
+    <id>6431467</id>
+    <name>s.penkevich</name>
+    <display_name>s.penkevich</display_name>
+
+    <location>Holland, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6431467-s-penkevich]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487244329p3/6431467.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487244329p2/6431467.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 18 09:47:27 -0700 2013</created_at>
+  <updated_at>Thu Jul 18 09:47:27 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78702012</id>
+  <body><![CDATA[#16 was the easiest one! I actually had trouble with 5-down. Are you sure there aren't more boxes (heh) than needed?]]></body>
+  
+  <user>
+    <id>4426615</id>
+    <name>Jason</name>
+    <display_name>Jason</display_name>
+
+    <location>Milford, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4426615-jason]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1403411965p3/4426615.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1403411965p2/4426615.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 18 09:51:34 -0700 2013</created_at>
+  <updated_at>Thu Jul 18 09:51:34 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78703889</id>
+  <body><![CDATA[<i>Susan wrote: "I love this! You have outdone yourself once again! As a note to everyone else here, Steve once wrote a holiday letter in the form of a crossword puzzle, so this is his second effort. A second ca..."</i><br /><br />Thanks, Susan! This one was a lot easier to make because it wasn't symmetric, nor did the across and down answers make complete blocks.]]></body>
+  
+  <user>
+    <id>236411</id>
+    <name>Steve</name>
+    <display_name>Steve</display_name>
+
+    <location>Chicago, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/236411-steve]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291695844p3/236411.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291695844p2/236411.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 18 10:20:50 -0700 2013</created_at>
+  <updated_at>Thu Jul 18 10:20:50 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78703995</id>
+  <body><![CDATA[<i>s.penkevich wrote: "HAHA, genius. I'm going to solve it and mail it in. Will Shortz is jealous."</i><br /><br />Many thanks, Spenky! Something tells me, though, that Will won't be quite as impressed.]]></body>
+  
+  <user>
+    <id>236411</id>
+    <name>Steve</name>
+    <display_name>Steve</display_name>
+
+    <location>Chicago, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/236411-steve]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291695844p3/236411.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291695844p2/236411.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 18 10:22:20 -0700 2013</created_at>
+  <updated_at>Thu Jul 18 10:22:20 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78704239</id>
+  <body><![CDATA[<i>Jason wrote: "#16 was the easiest one! I actually had trouble with 5-down. Are you sure there aren't more boxes (heh) than needed?"</i><br /><br />You might want to check your spelling on 5-down, Jason. I'm impressed you got 16-across so easily. Are you dyslexic?]]></body>
+  
+  <user>
+    <id>236411</id>
+    <name>Steve</name>
+    <display_name>Steve</display_name>
+
+    <location>Chicago, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/236411-steve]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291695844p3/236411.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291695844p2/236411.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 18 10:26:24 -0700 2013</created_at>
+  <updated_at>Thu Jul 18 10:26:24 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78705657</id>
+  <body><![CDATA[16 was easiest for me too but took forever with 5-down. Now I can get on with my reading, phew.]]></body>
+  
+  <user>
+    <id>7915003</id>
+    <name>Garima</name>
+    <display_name>Garima</display_name>
+
+    <location>India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7915003-garima]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1360053697p3/7915003.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1360053697p2/7915003.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 18 10:48:51 -0700 2013</created_at>
+  <updated_at>Thu Jul 18 10:48:51 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78705879</id>
+  <body><![CDATA[<i>Steve wrote: Gary, you're the type who'd come to the Taj Mahal and say, "What, no central air?" </i><br /><br />If its true about TTM and AC then I'm scratching it off my bucket list. I'm too old to be hot. <a class="jsShowSpoiler spoilerAction">(view spoiler)</a><span class="spoilerContainer" style="display: none">[What a great set up for some wisecracks. <a class="jsHideSpoiler spoilerAction">(hide spoiler)</a>]</span> I agree with Susan, you should construct a puzzle for the NY Times. But before you do that, could help me with today's puzzle?]]></body>
+  
+  <user>
+    <id>7036337</id>
+    <name>Gary </name>
+    <display_name>Gary  the Bookworm</display_name>
+
+    <location>Delray Beach, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7036337-gary-the-bookworm]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1491094498p3/7036337.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1491094498p2/7036337.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 18 10:52:28 -0700 2013</created_at>
+  <updated_at>Thu Jul 18 10:52:28 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78706384</id>
+  <body><![CDATA[<i>Garima wrote: "16 was easiest for me too but took forever with 5-down. Now I can get on with my reading, phew."</i><br /><br />Well done, Garima! In the clue for 5-down, my intention was to spell out a-maze as a hyphenation, to make it stand out as a pun, but the way it was displayed made it seem like a line break continuation. Oh well, rookie mistake on my part.]]></body>
+  
+  <user>
+    <id>236411</id>
+    <name>Steve</name>
+    <display_name>Steve</display_name>
+
+    <location>Chicago, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/236411-steve]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291695844p3/236411.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291695844p2/236411.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 18 11:00:20 -0700 2013</created_at>
+  <updated_at>Thu Jul 18 11:00:20 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78706917</id>
+  <body><![CDATA[<i>Gary wrote: "Steve wrote: Gary, you're the type who'd come to the Taj Mahal and say, "What, no central air?" <br /><br />If its true about TTM and AC then I'm scratching it off my bucket list. I'm too old to be hot. [spo..."</i><br /><br />Haha, I won't take the bait (your spoiler), Gary, but I can't guarantee others will be so kind. As for the puzzle, you'll have far better luck asking my far better half for help. Susan is the ace solver in the family. <br /><br />Oh, and thank you for not laughing derisively when I kinda likened this silly construction of mine to the Taj Mahal. It's evidence of the extremes to which I'll go to make even the lamest of jokes.]]></body>
+  
+  <user>
+    <id>236411</id>
+    <name>Steve</name>
+    <display_name>Steve</display_name>
+
+    <location>Chicago, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/236411-steve]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291695844p3/236411.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291695844p2/236411.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 18 11:08:12 -0700 2013</created_at>
+  <updated_at>Thu Jul 18 11:08:12 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78707474</id>
+  <body><![CDATA[Oh ok, we figured out 5-down. I neglected to consider there might be a suffix.]]></body>
+  
+  <user>
+    <id>4426615</id>
+    <name>Jason</name>
+    <display_name>Jason</display_name>
+
+    <location>Milford, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4426615-jason]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1403411965p3/4426615.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1403411965p2/4426615.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 18 11:17:11 -0700 2013</created_at>
+  <updated_at>Thu Jul 18 11:17:11 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78707632</id>
+  <body><![CDATA[<i>Steve wrote: "Garima wrote: "16 was easiest for me too but took forever with 5-down. Now I can get on with my reading, phew."<br /><br />Well done, Garima! In the clue for 5-down, my intention was to spell out a-maze as ..."</i><br /><br />Ha! Now that you have told me, I can't help admiring the pun because I took it as a line break continuation only. I had to brainstorm with 4 letters I got by solving other words. Again, a great job Steve.]]></body>
+  
+  <user>
+    <id>7915003</id>
+    <name>Garima</name>
+    <display_name>Garima</display_name>
+
+    <location>India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7915003-garima]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1360053697p3/7915003.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1360053697p2/7915003.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 18 11:19:28 -0700 2013</created_at>
+  <updated_at>Thu Jul 18 11:19:28 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78707679</id>
+  <body><![CDATA[<i>Jason wrote: "Oh ok, we figured out 5-down. I neglected to consider there might be a suffix."</i><br /><br />Yup, we were going for the adjective there.]]></body>
+  
+  <user>
+    <id>236411</id>
+    <name>Steve</name>
+    <display_name>Steve</display_name>
+
+    <location>Chicago, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/236411-steve]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291695844p3/236411.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291695844p2/236411.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 18 11:19:51 -0700 2013</created_at>
+  <updated_at>Thu Jul 18 11:19:51 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78708449</id>
+  <body><![CDATA[<i>Garima wrote: "Ha! Now that you have told me, I can't help admiring the pun because I took it as a line break continuation only. I had to brainstorm with 4 letters I got by solving other words. Again, a great job Steve."</i><br /><br />Sorry that messed you up, Garima. Thanks for being so gracious about the time I stole from you, figuring it out even without the clue's full meaning.]]></body>
+  
+  <user>
+    <id>236411</id>
+    <name>Steve</name>
+    <display_name>Steve</display_name>
+
+    <location>Chicago, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/236411-steve]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291695844p3/236411.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291695844p2/236411.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 18 11:32:09 -0700 2013</created_at>
+  <updated_at>Thu Jul 18 11:32:09 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78749619</id>
+  <body><![CDATA[I went through the review and comments and was intrigued, and then I realized I hadn't even looked at the title of the work :P <br /><br />Thanks for the lighter moments here,Steve!]]></body>
+  
+  <user>
+    <id>3655942</id>
+    <name>Rakhi</name>
+    <display_name>Rakhi Dalal</display_name>
+
+    <location>India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3655942-rakhi-dalal]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1418477729p3/3655942.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1418477729p2/3655942.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 18 21:50:53 -0700 2013</created_at>
+  <updated_at>Thu Jul 18 21:50:53 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78754173</id>
+  <body><![CDATA[<i>Steve wrote: "Samadrita wrote: "Everything's just a click away these days...even anagram-makers wow!!!! But you have to admit, using software kinda takes the fun out of these things."<br /><br />Yes, the software is a che..."</i><br /><br />Okay I wouldn't mind 'I'm a sad rat' at the moment since that accurately sums up my current mood. Although, 'Amid a star' will be great, thank you. :D Hooray for anagram-making software!]]></body>
+  
+  <user>
+    <id>13266158</id>
+    <name>Samadrita</name>
+    <display_name>Samadrita</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13266158-samadrita]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1461258628p3/13266158.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1461258628p2/13266158.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 19 00:05:18 -0700 2013</created_at>
+  <updated_at>Fri Jul 19 00:05:18 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78759286</id>
+  <body><![CDATA[U da man!]]></body>
+  
+  <user>
+    <id>1526851</id>
+    <name>Will</name>
+    <display_name>Will Byrnes</display_name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1526851-will-byrnes]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291462190p3/1526851.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291462190p2/1526851.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 19 04:06:07 -0700 2013</created_at>
+  <updated_at>Fri Jul 19 04:06:07 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78764481</id>
+  <body><![CDATA[<i>Rakhi wrote: "I went through the review and comments and was intrigued, and then I realized I hadn't even looked at the title of the work :P <br /><br />Thanks for the lighter moments here,Steve!"</i><br /><br />Haha, it probably didn't matter much then, if you didn't notice. <br /><br />Thanks to you, too, Rakhi, for the very welcome words!]]></body>
+  
+  <user>
+    <id>236411</id>
+    <name>Steve</name>
+    <display_name>Steve</display_name>
+
+    <location>Chicago, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/236411-steve]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291695844p3/236411.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291695844p2/236411.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 19 06:31:19 -0700 2013</created_at>
+  <updated_at>Fri Jul 19 06:31:19 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78764605</id>
+  <body><![CDATA[<i>Samadrita wrote: "Okay I wouldn't mind 'I'm a sad rat' at the moment since that accurately sums up my current mood. Although, 'Amid a star' will be great, thank you. :D Hooray for anagram-making software!"</i><br /><br />Sorry to hear about your day, Samadrita. BTW, just so we're perfectly clear, you're about as far from a rat as it's possible to be.]]></body>
+  
+  <user>
+    <id>236411</id>
+    <name>Steve</name>
+    <display_name>Steve</display_name>
+
+    <location>Chicago, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/236411-steve]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291695844p3/236411.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291695844p2/236411.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 19 06:33:46 -0700 2013</created_at>
+  <updated_at>Fri Jul 19 06:33:46 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78764665</id>
+  <body><![CDATA[<i>Will wrote: "U da man!"</i><br /><br />Thank U, Will. U 2!]]></body>
+  
+  <user>
+    <id>236411</id>
+    <name>Steve</name>
+    <display_name>Steve</display_name>
+
+    <location>Chicago, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/236411-steve]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291695844p3/236411.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291695844p2/236411.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 19 06:34:54 -0700 2013</created_at>
+  <updated_at>Fri Jul 19 06:34:54 -0700 2013</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/3794924]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3794924]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

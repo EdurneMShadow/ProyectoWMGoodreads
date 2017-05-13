@@ -1,0 +1,652 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:42:10 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: MKSHY5ZKR9VN95CXH9D2
+etag: W/"90950f25e1a53b4e67b822146cb020ae"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.354498
+set-cookie: csid=BAhJIhg5NjktODc5NjkwNS03NzQwNjA2BjoGRVQ%3D--bb7a4dc2bf7bb741c6fe18e8c2bbb29689bc2e7a; path=/; expires=Tue, 12 May 2037 13:42:09 -0000, locale=es; path=/, _session_id2=e93450c7befe9c8ce04021202e5ec2d0; path=/; expires=Fri, 12 May 2017 19:42:10 -0000; HttpOnly
+content-length: 28000
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=443094803
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>443094803</id>
+    
+  <user>
+    <id>13592557</id>
+    <name>Mohammed</name>
+    <display_name>Mohammed Arabey</display_name>
+
+    <location>Alexandria, 06, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13592557-mohammed-arabey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1364338486p3/13592557.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1364338486p2/13592557.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">6388432</id>
+  <isbn>9953880360</isbn>
+  <isbn13>9789953880365</isbn13>
+  <text_reviews_count type="integer">2661</text_reviews_count>
+  <title>الخيميائي</title>
+  <title_without_series>الخيميائي</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1370939719m/6388432.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1370939719s/6388432.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6388432</link>
+  <num_pages>192</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>شركة المطبوعات للتوزيع والنشر</publisher>
+  <publication_day/>
+  <publication_year>2010</publication_year>
+  <publication_month/>
+  <average_rating>3.81</average_rating>
+  <ratings_count>1348164</ratings_count>
+  <description>الخيميائي هي الرواية الثانية التي كتبها باولو كويليو، والتي حققت نجاحاً عالمياً باهراً، جعل كاتبها من أشهر الكتاب العالميين.&lt;br /&gt;&lt;br /&gt;تتحدث الرواية عن راع أندلسي شاب يدعى سانتياغو. مضى للبحث عن حلمه المتمثل بكنزٍ مدفون قرب أهرامات مصر، بدأت رحلته من أسبانيا عندما إلتقى الملك "ملكي صادق" الذي أخبره عن الكنز، عَبَرَ مضيق جبل طارق ماراً بالمغرب حتى بلغ مصر، وكانت توجهه طوال الرحلة إشارات غيبية.&lt;br /&gt;&lt;br /&gt;وفي طريقه للعثور على كنزه الحلم، أحداث كثيرة تقع، كل حدث منها استحال عقبة تكاد تمنعه من متابعة رحلته، إلى أن يجد الوسيلة التي تساعده على تجاوز هذه العقبة....&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;وهكذا تتلخص الفكرة لهذه الرواية بجملة قالها الملك لسانتياغو :"إذا رغبت في شيء.. فإن العالم كله يطاوعك لتحقيق رغبتك".</description>
+<authors>
+<author>
+<id>566</id>
+<name>Paulo Coelho</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201840056p5/566.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201840056p2/566.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/566.Paulo_Coelho]]></link>
+<average_rating>3.72</average_rating>
+<ratings_count>2124981</ratings_count>
+<text_reviews_count>96430</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1223864588</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Fri Feb 05 01:38:22 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>231</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Aug 25 00:00:00 -0700 2012</started_at>
+  <read_at>Sun Sep 02 00:00:00 -0700 2012</read_at>
+  <date_added>Sat Oct 27 18:26:16 -0700 2012</date_added>
+  <date_updated>Sat Mar 25 17:14:23 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[<b>~~~ T h e ~ A l c h e m i s t ~~ الـخـيـــميائـــي ~~~<br /><img src="http://i.imgur.com/tdocWGH.jpg" width="450" height="199" class="gr-hostedUserImg" /><br />Half-full Cauldron of Clever Story قدر به قصة محكية ببراعة<br />2 Measures of Legends of Wisdom مقدار من أساطير حكيمة<br />1 Bundle of Self-Help Motivations حزمة من دوافع التنمية الذاتية<br />1 Measure of Spiritual Experiences مقدار من التجارب الروحية<br />Some Drops...</b>]]>
+  </body>
+
+  
+
+  <comments_count>24</comments_count>
+    <comments start="1" end="24" total="24">
+        <comment>
+  <id>85477642</id>
+  <body><![CDATA[جامدة الوصفة]]></body>
+  
+  <user>
+    <id>18394846</id>
+    <name>Cindrella</name>
+    <display_name>Cindrella Ever after</display_name>
+
+    <location>Alexandria, 06, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18394846-cindrella-ever-after]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1363364114p3/18394846.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1363364114p2/18394846.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Oct 24 04:34:59 -0700 2013</created_at>
+  <updated_at>Thu Oct 24 04:34:59 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85477814</id>
+  <body><![CDATA[<i>Cindrella wrote: "جامدة الوصفة"</i><br /><br />الفكره جاتلي وانا بعمل وصفه<br />Potion <br />في حصه الوصفات مع بوتر مور :)<br />حسيت اني خيميائي<br />وافتكرت جمال الروايه دي <br /><br />مستني رايك فيها لما تقريها]]></body>
+  
+  <user>
+    <id>13592557</id>
+    <name>Mohammed</name>
+    <display_name>Mohammed Arabey</display_name>
+
+    <location>Alexandria, 06, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13592557-mohammed-arabey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1364338486p3/13592557.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1364338486p2/13592557.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Oct 24 04:40:36 -0700 2013</created_at>
+  <updated_at>Thu Oct 24 04:40:36 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85480145</id>
+  <body><![CDATA[أصبت :-‏) رااائع الريفيو ^^]]></body>
+  
+  <user>
+    <id>10377288</id>
+    <name>هدير</name>
+    <display_name>هدير</display_name>
+
+    <location>khartoum, Sudan</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10377288]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442986118p3/10377288.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442986118p2/10377288.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Oct 24 05:51:44 -0700 2013</created_at>
+  <updated_at>Thu Oct 24 05:51:44 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85482047</id>
+  <body><![CDATA[حلوة الوصفة :D <br />والصور روعة]]></body>
+  
+  <created_at>Thu Oct 24 06:38:39 -0700 2013</created_at>
+  <updated_at>Thu Oct 24 06:38:39 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85510213</id>
+  <body><![CDATA[<i>هدير wrote: "أصبت :-‏) رااائع الريفيو ^^"</i><br /><br />شكرا جدا بجد ده من اعجابي فعلا بالروايه والتجربه الرائعه دي]]></body>
+  
+  <user>
+    <id>13592557</id>
+    <name>Mohammed</name>
+    <display_name>Mohammed Arabey</display_name>
+
+    <location>Alexandria, 06, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13592557-mohammed-arabey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1364338486p3/13592557.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1364338486p2/13592557.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Oct 24 15:14:48 -0700 2013</created_at>
+  <updated_at>Thu Oct 24 15:14:48 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85510298</id>
+  <body><![CDATA[<i>Nouf wrote: "حلوة الوصفة :D <br />والصور روعة"</i><br /><br />شكرا جدا انا عارف ان ممكن الروايه مش عجبتك للدرجه الكبيره بس بجد سعيد ان وصفتها عجبتك :)]]></body>
+  
+  <user>
+    <id>13592557</id>
+    <name>Mohammed</name>
+    <display_name>Mohammed Arabey</display_name>
+
+    <location>Alexandria, 06, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13592557-mohammed-arabey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1364338486p3/13592557.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1364338486p2/13592557.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Oct 24 15:16:10 -0700 2013</created_at>
+  <updated_at>Thu Oct 24 15:16:10 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85537694</id>
+  <body><![CDATA[<i>Mohammed wrote: "Nouf wrote: "حلوة الوصفة :D <br />والصور روعة"<br /><br />شكرا جدا انا عارف ان ممكن الروايه مش عجبتك للدرجه الكبيره بس بجد سعيد ان وصفتها عجبتك :)"</i><br /><br />فعلا الرواية بالنسبة وجدتها عادية، لكن عرضك جميل جدا :)]]></body>
+  
+  <created_at>Fri Oct 25 02:33:20 -0700 2013</created_at>
+  <updated_at>Fri Oct 25 02:33:20 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85538479</id>
+  <body><![CDATA[انا قريت الخيميائي مترجم للاسف والترجمة افسدت متعه الرواية بس في النهاية انا استمتعت بيها جدا وياريت حد يرشحلي روايات اخري جيدة ل Paulo Coelho]]></body>
+  
+  <user>
+    <id>22389009</id>
+    <name>Sherif</name>
+    <display_name>Sherif salah</display_name>
+
+    <location>Gîza, 08, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22389009-sherif-salah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1423325021p3/22389009.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1423325021p2/22389009.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 25 03:14:37 -0700 2013</created_at>
+  <updated_at>Fri Oct 25 03:14:37 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85539579</id>
+  <body><![CDATA[<i>Sherif wrote: "انا قريت الخيميائي مترجم للاسف والترجمة افسدت متعه الرواية بس في النهاية انا استمتعت بيها جدا وياريت حد يرشحلي روايات اخري جيدة ل Paulo Coelho"</i><br /><br />بصراحه انا مقرتش لباولو بعدها الا اتنين <br />The Pilgrimage<br /><a target="_blank" href="https://www.goodreads.com/review/show/443095385" rel="nofollow">https://www.goodreads.com/review/show...</a><br />بصراحه مشدتنيش زي الخيميائي <br />وThe Winner Stands Alone<br />ودي جو تاني خاااالص بس اقراها انجليزي ضروري<br /><a target="_blank" href="https://www.goodreads.com/review/show/727668939" rel="nofollow">https://www.goodreads.com/review/show...</a>]]></body>
+  
+  <user>
+    <id>13592557</id>
+    <name>Mohammed</name>
+    <display_name>Mohammed Arabey</display_name>
+
+    <location>Alexandria, 06, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13592557-mohammed-arabey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1364338486p3/13592557.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1364338486p2/13592557.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 25 04:04:53 -0700 2013</created_at>
+  <updated_at>Fri Oct 25 04:04:53 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>86217455</id>
+  <body><![CDATA[واو صحيح طبخة لذيذه بس احتاجت صبر واصرار]]></body>
+  
+  <user>
+    <id>9909600</id>
+    <name>Nada</name>
+    <display_name>Nada</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9909600-nada]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1479777195p3/9909600.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1479777195p2/9909600.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 05 07:22:56 -0800 2013</created_at>
+  <updated_at>Tue Nov 05 07:22:56 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>87393264</id>
+  <body><![CDATA[You play Pottermore? I think that's the Antidote for Common Poisons you're trying to brew :)]]></body>
+  
+  <user>
+    <id>25087483</id>
+    <name>Lyden</name>
+    <display_name>Lyden Orbase</display_name>
+
+    <location>Manila, Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25087483-lyden-orbase]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1479888016p3/25087483.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1479888016p2/25087483.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 24 02:25:43 -0800 2013</created_at>
+  <updated_at>Sun Nov 24 02:25:43 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>87417984</id>
+  <body><![CDATA[<i>Leiden wrote: "You play Pottermore? I think that's the Antidote for Common Poisons you're trying to brew :)"</i><br /><br />Exactly, you're right :) 5 points for your house :)<br />I'm too a Hogwarts Student :)]]></body>
+  
+  <user>
+    <id>13592557</id>
+    <name>Mohammed</name>
+    <display_name>Mohammed Arabey</display_name>
+
+    <location>Alexandria, 06, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13592557-mohammed-arabey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1364338486p3/13592557.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1364338486p2/13592557.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 24 12:58:23 -0800 2013</created_at>
+  <updated_at>Sun Nov 24 12:58:23 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>87524661</id>
+  <body><![CDATA[<i>Mohammed wrote: "Leiden wrote: "You play Pottermore? I think that's the Antidote for Common Poisons you're trying to brew :)"<br /><br />Exactly, you're right :) 5 points for your house :)<br />I'm too a Hogwarts Student :)"</i><br /><br />what's pottermore?]]></body>
+  
+  <user>
+    <id>18394846</id>
+    <name>Cindrella</name>
+    <display_name>Cindrella Ever after</display_name>
+
+    <location>Alexandria, 06, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18394846-cindrella-ever-after]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1363364114p3/18394846.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1363364114p2/18394846.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 26 04:43:14 -0800 2013</created_at>
+  <updated_at>Tue Nov 26 04:43:14 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>108185137</id>
+  <body><![CDATA[الصور تجعلني أستشعر وجودهم ومشاعرهم وكأني طبعتها أنا بمخيليتي هناك .. تذكرني الصحراء بمقولة القائد(أريدُ أن أري عظمة الله) جرعه من السلطنه الروحية مذهله ..أحببتُ كثيراً هذه الردود الشفافه أكثر من التفاصيل ذاتها وأيضا الفلسفه جميله جدا <br />:)]]></body>
+  
+  <user>
+    <id>3923348</id>
+    <name>Marwa</name>
+    <display_name>Marwa</display_name>
+
+    <location>Mansoura, 01, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3923348-marwa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1401134831p3/3923348.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1401134831p2/3923348.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Oct 22 12:51:54 -0700 2014</created_at>
+  <updated_at>Wed Oct 22 12:51:54 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>108196443</id>
+  <body><![CDATA[<i>Marwa wrote: "الصور تجعلني أستشعر وجودهم ومشاعرهم وكأني طبعتها أنا بمخيليتي هناك .. تذكرني الصحراء بمقولة القائد(أريدُ أن أري عظمة الله) جرعه من السلطنه الروحية مذهله ..أحببتُ كثيراً هذه الردود الشفافه أكثر..."</i><br /><br />قرأت الريفيو اللي كتبتيه وسعيد جدا انك شفتي الجمال والهدف من الرواية من خلال التفاصيل الصغيرة ليس كما بعض هواة القراءة السريعه يرونها بلا فائدة]]></body>
+  
+  <user>
+    <id>13592557</id>
+    <name>Mohammed</name>
+    <display_name>Mohammed Arabey</display_name>
+
+    <location>Alexandria, 06, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13592557-mohammed-arabey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1364338486p3/13592557.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1364338486p2/13592557.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Oct 22 16:30:36 -0700 2014</created_at>
+  <updated_at>Wed Oct 22 16:30:36 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>108266834</id>
+  <body><![CDATA[<i>Mohammed wrote: "Marwa wrote: "الصور تجعلني أستشعر وجودهم ومشاعرهم وكأني طبعتها أنا بمخيليتي هناك .. تذكرني الصحراء بمقولة القائد(أريدُ أن أري عظمة الله) جرعه من السلطنه الروحية مذهله ..أحببتُ كثيراً هذه الردو..."</i><br /><br />دائما احب ان أحدد نقط روحية بكل كتاب .. ان لم اجدها حينها فقط يخيب ظني .. شكرا جدا :)]]></body>
+  
+  <user>
+    <id>3923348</id>
+    <name>Marwa</name>
+    <display_name>Marwa</display_name>
+
+    <location>Mansoura, 01, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3923348-marwa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1401134831p3/3923348.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1401134831p2/3923348.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 24 02:23:18 -0700 2014</created_at>
+  <updated_at>Fri Oct 24 02:23:18 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>119266876</id>
+  <body><![CDATA[من اجمل الروايات لكن الفكرة الرئيسيه التي فيها منقوله من كتاب المثنوي لجلال الدين الرومي "الجزء السادس" القصه التي تتحدث عن شاب يسافر من بغداد الى مصر ليبحث عن الكنز الي قد حلم به وعندما يصل لمصر بعد معاناة كبيره يمسكه بعض اللصوص ويسخرون منه بعد ان يخبره احدهم انه ليس بغبائه فقد حلم ايضا بكنز في بغداد في المكان الفلاني .. ليعود الشاب لمكانه الاصلي ويجد الكنز]]></body>
+  
+  <user>
+    <id>24505647</id>
+    <name>Ali</name>
+    <display_name>Ali Jamal</display_name>
+
+    <location>Baghdad, 07, Iraq</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24505647-ali-jamal]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1437990493p3/24505647.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1437990493p2/24505647.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri May 15 14:43:26 -0700 2015</created_at>
+  <updated_at>Fri May 15 14:43:26 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>119267434</id>
+  <body><![CDATA[<i>Ali wrote: "من اجمل الروايات لكن الفكرة الرئيسيه التي فيها منقوله من كتاب المثنوي لجلال الدين الرومي "الجزء السادس" القصه التي تتحدث عن شاب يسافر من بغداد الى مصر ليبحث عن الكنز الي قد حلم به وعندما يصل لمصر ب..."</i><br /><br />هي القصة بصراحة حاسس انها مستوحاه من الأمثال ,يعني مش اوريجينال , هي خلطة بس زي ماانت قلت طلعت الخلطة دي كرواية من اجمل الروايات البسيطة وفي نفس الوقت ملهمة ومحفزة<br /><br />ححاول اشوف الكتاب ده لأن كتير رشحه لي , لكن يظل الخيميائي ببساطته شئ ممتاز فعلا]]></body>
+  
+  <user>
+    <id>13592557</id>
+    <name>Mohammed</name>
+    <display_name>Mohammed Arabey</display_name>
+
+    <location>Alexandria, 06, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13592557-mohammed-arabey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1364338486p3/13592557.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1364338486p2/13592557.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri May 15 14:57:08 -0700 2015</created_at>
+  <updated_at>Fri May 15 14:57:08 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>144324508</id>
+  <body><![CDATA[very well said!]]></body>
+  
+  <user>
+    <id>48090287</id>
+    <name>Booky</name>
+    <display_name>Booky</display_name>
+
+    <location>Mumbai, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/48090287-booky]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Dec 13 23:10:48 -0800 2015</created_at>
+  <updated_at>Sun Dec 13 23:10:48 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>149008040</id>
+  <body><![CDATA[كومنت شامل معبر عن ادق تفاصيل الرواية... مع زيادة على الخليط المكتوب فوق " جرعة مكثفة من التصوف"]]></body>
+  
+  <user>
+    <id>14059535</id>
+    <name>Roro</name>
+    <display_name>Roro Galal</display_name>
+
+    <location>Giza, 08, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14059535-roro-galal]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1391100535p3/14059535.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1391100535p2/14059535.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 16 05:43:40 -0700 2016</created_at>
+  <updated_at>Wed Mar 16 05:43:40 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>149008194</id>
+  <body><![CDATA[<i>Booky wrote: "very well said!"</i><br /><br />Thank you so much Booky :)]]></body>
+  
+  <user>
+    <id>13592557</id>
+    <name>Mohammed</name>
+    <display_name>Mohammed Arabey</display_name>
+
+    <location>Alexandria, 06, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13592557-mohammed-arabey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1364338486p3/13592557.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1364338486p2/13592557.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 16 05:48:42 -0700 2016</created_at>
+  <updated_at>Wed Mar 16 05:48:42 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>149008247</id>
+  <body><![CDATA[<i>Roro wrote: "كومنت شامل معبر عن ادق تفاصيل الرواية... مع زيادة على الخليط المكتوب فوق " جرعة مكثفة من التصوف""</i><br /><br />جميل جدا جدا فعلا اشكرك جدا عندك حق<br />انا مجتش في بالي اني اكتب الصوفية مع انها تيمة مهمة هنا]]></body>
+  
+  <user>
+    <id>13592557</id>
+    <name>Mohammed</name>
+    <display_name>Mohammed Arabey</display_name>
+
+    <location>Alexandria, 06, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13592557-mohammed-arabey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1364338486p3/13592557.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1364338486p2/13592557.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 16 05:50:12 -0700 2016</created_at>
+  <updated_at>Wed Mar 16 05:50:12 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151729909</id>
+  <body><![CDATA[Mohammed, can you do By The River Piedra I sat Down And Wept by the same author]]></body>
+  
+  <user>
+    <id>12071773</id>
+    <name>Mohamad</name>
+    <display_name>Mohamad Almokhllati</display_name>
+
+    <location>Västervik, Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12071773-mohamad-almokhllati]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1468145476p3/12071773.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1468145476p2/12071773.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon May 16 09:03:35 -0700 2016</created_at>
+  <updated_at>Mon May 16 09:03:35 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151748431</id>
+  <body><![CDATA[<i>Mohamed wrote: "Mohammed, can you do By The River Piedra I sat Down And Wept by the same author"</i><br /><br />Oh yes I bought it 2 years ago with Veronika Decides to Die after loving The Devil and Miss Prym ,which is a separate trilogy,<br />I guess I'll read it ASAP ISA, thanks for the recommendation]]></body>
+  
+  <user>
+    <id>13592557</id>
+    <name>Mohammed</name>
+    <display_name>Mohammed Arabey</display_name>
+
+    <location>Alexandria, 06, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13592557-mohammed-arabey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1364338486p3/13592557.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1364338486p2/13592557.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon May 16 16:41:32 -0700 2016</created_at>
+  <updated_at>Mon May 16 16:41:32 -0700 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/443094803]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/443094803]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

@@ -1,0 +1,571 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:55:37 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: MCT3VB1RQCW5KFX2WFMY
+etag: W/"8bc0fdcf7db779d5fd21fcca98c8702b"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.219838
+set-cookie: csid=BAhJIhg5OTQtODQwNzA1MC00MjM4OTg1BjoGRVQ%3D--030f9adc01276e323964546316d904feca8d2a43; path=/; expires=Tue, 12 May 2037 13:55:37 -0000, locale=es; path=/, _session_id2=1f462db084acc5bc114e4d6d73200f1f; path=/; expires=Fri, 12 May 2017 19:55:37 -0000; HttpOnly
+content-length: 19604
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=40533935
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>40533935</id>
+    
+  <user>
+    <id>1713956</id>
+    <name>Manny</name>
+    <display_name>Manny</display_name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1713956-manny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442491692p3/1713956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442491692p2/1713956.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">18490</id>
+  <isbn>0141439475</isbn>
+  <isbn13>9780141439471</isbn13>
+  <text_reviews_count type="integer">13074</text_reviews_count>
+  <title>Frankenstein</title>
+  <title_without_series>Frankenstein</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1381512375m/18490.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1381512375s/18490.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18490.Frankenstein</link>
+  <num_pages>273</num_pages>
+  <format>Paperback</format>
+  <edition_information>Penguin Classics</edition_information>
+  <publisher>Penguin Books</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.75</average_rating>
+  <ratings_count>861298</ratings_count>
+  <description>&lt;b&gt;Mary Shelley&lt;/b&gt; began writing &lt;i&gt;Frankenstein&lt;/i&gt; when she was only eighteen. At once a Gothic thriller, a passionate romance, and a cautionary tale about the dangers of science, &lt;i&gt;Frankenstein&lt;/i&gt; tells the story of committed science student Victor Frankenstein. Obsessed with discovering the cause of generation and life and bestowing animation upon lifeless matter, Frankenstein assembles a human being from stolen body parts but; upon bringing it to life, he recoils in horror at the creature's hideousness. Tormented by isolation and loneliness, the once-innocent creature turns to evil and unleashes a campaign of murderous revenge against his creator, Frankenstein.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Frankenstein&lt;/i&gt;, an instant bestseller and an important ancestor of both the horror and science fiction genres, not only tells a terrifying story, but also raises profound, disturbing questions about the very nature of life and the place of humankind within the cosmos: What does it mean to be human? What responsibilities do we have to each other? How far can we go in tampering with Nature? In our age, filled with news of organ donation genetic engineering, and bio-terrorism, these questions are more relevant than ever.</description>
+<authors>
+<author>
+<id>11139</id>
+<name>Mary Wollstonecraft Shelley</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p5/11139.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p2/11139.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/11139.Mary_Wollstonecraft_Shelley]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>884152</ratings_count>
+<text_reviews_count>20971</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1251440068</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Wed Feb 24 14:12:47 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>3</rating>
+  <votes>67</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="science-fiction" exclusive="false" review_shelf_id="18996393" sortable="false" />
+    <shelf name="the-goodreads-experience" exclusive="false" review_shelf_id="177255238" sortable="false" />
+    <shelf name="parody-homage" exclusive="false" review_shelf_id="177255225" sortable="false" />
+    <shelf name="pooh-dante" exclusive="false" review_shelf_id="393660445" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Fri Jan 01 00:00:00 -0800 1982</read_at>
+  <date_added>Sat Dec 20 12:26:07 -0800 2008</date_added>
+  <date_updated>Tue Sep 23 03:29:40 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA["Pray tell me your story," I said, "if it will not weary you overmuch."<br /><br />He fixed me with an eye still firm of purpose. "I had long been fascinated by the dark arts of Parody and Homage," he began. "I studied the works of the masters. Juvenal, Swift, Beerbohm, Douglas Adams... I curse the day when...]]>
+  </body>
+
+  
+
+  <comments_count>19</comments_count>
+    <comments start="1" end="19" total="19">
+        <comment>
+  <id>44261533</id>
+  <body><![CDATA[This is completely hilarious.]]></body>
+  
+  <user>
+    <id>2658311</id>
+    <name>notgettingenough </name>
+    <display_name>notgettingenough </display_name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2658311-notgettingenough]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1258115161p3/2658311.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1258115161p2/2658311.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 28 05:30:50 -0800 2012</created_at>
+  <updated_at>Sat Jan 28 05:30:50 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>44263022</id>
+  <body><![CDATA[Perfect with coffee :)]]></body>
+  
+  <user>
+    <id>5306164</id>
+    <name>SubterraneanCatalyst</name>
+    <display_name>SubterraneanCatalyst</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5306164-subterraneancatalyst]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1306967745p3/5306164.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1306967745p2/5306164.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 28 06:23:50 -0800 2012</created_at>
+  <updated_at>Sat Jan 28 06:23:50 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>44266326</id>
+  <body><![CDATA[Thank you!]]></body>
+  
+  <user>
+    <id>1713956</id>
+    <name>Manny</name>
+    <display_name>Manny</display_name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1713956-manny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442491692p3/1713956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442491692p2/1713956.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 28 07:57:47 -0800 2012</created_at>
+  <updated_at>Sat Jan 28 07:57:47 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>44275305</id>
+  <body><![CDATA[Marvellous, Manny!!]]></body>
+  
+  <user>
+    <id>2253648</id>
+    <name>Hazel</name>
+    <display_name>Hazel</display_name>
+
+    <location><![CDATA[London, O3, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2253648-hazel]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 28 10:42:14 -0800 2012</created_at>
+  <updated_at>Sat Jan 28 10:42:14 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>44288285</id>
+  <body><![CDATA[Thanks Hazel!]]></body>
+  
+  <user>
+    <id>1713956</id>
+    <name>Manny</name>
+    <display_name>Manny</display_name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1713956-manny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442491692p3/1713956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442491692p2/1713956.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 28 14:26:52 -0800 2012</created_at>
+  <updated_at>Sat Jan 28 14:26:52 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>44290564</id>
+  <body><![CDATA[Applauds. You make Gr for me, Manny. Don't ever change.]]></body>
+  
+  <user>
+    <id>647547</id>
+    <name>Mariel</name>
+    <display_name>Mariel</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/647547-mariel]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1451321467p3/647547.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1451321467p2/647547.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 28 15:03:54 -0800 2012</created_at>
+  <updated_at>Sat Jan 28 15:03:54 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>44291914</id>
+  <body><![CDATA[Fantastic.]]></body>
+  
+  <user>
+    <id>211278</id>
+    <name>Simon</name>
+    <display_name>Simon</display_name>
+
+    <location>Miami, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/211278-simon]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442471604p3/211278.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442471604p2/211278.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 28 15:26:13 -0800 2012</created_at>
+  <updated_at>Sat Jan 28 15:26:13 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>44310403</id>
+  <body><![CDATA[Brilliant (and very funny!).]]></body>
+  
+  <user>
+    <id>1889855</id>
+    <name>Grace</name>
+    <display_name>Grace Tjan</display_name>
+
+    <location>Jakarta, 04, Indonesia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1889855-grace-tjan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1307595874p3/1889855.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1307595874p2/1889855.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 28 20:18:12 -0800 2012</created_at>
+  <updated_at>Sat Jan 28 20:18:12 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>44318480</id>
+  <body><![CDATA[Thank you everyone!<br /><br /><i>you, Sir, are a mad genius.</i><br /><br />I felt I needed to encourage that side of my personality for the purposes of the review :)]]></body>
+  
+  <user>
+    <id>1713956</id>
+    <name>Manny</name>
+    <display_name>Manny</display_name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1713956-manny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442491692p3/1713956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442491692p2/1713956.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 28 23:05:37 -0800 2012</created_at>
+  <updated_at>Sat Jan 28 23:05:37 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>44319712</id>
+  <body><![CDATA[Another delighted vote! You're more succinct than Mary Shelley, so 10/10 for that.<br /><br />Maybe we should start an "Intervention in the Classics" club.]]></body>
+  
+  <user>
+    <id>3145526</id>
+    <name>Traveller</name>
+    <display_name>Traveller</display_name>
+
+    <location>Ambergris, 11, Tuvalu</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3145526-traveller]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1423246742p3/3145526.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1423246742p2/3145526.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 28 23:58:50 -0800 2012</created_at>
+  <updated_at>Sat Jan 28 23:58:50 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>44320188</id>
+  <body><![CDATA[Thank you Traveller! Yes, I thought the story could be shortened a little without losing anything essential. Though, now you mention it, I wish I'd remembered to put a bolt through the creature's neck...]]></body>
+  
+  <user>
+    <id>1713956</id>
+    <name>Manny</name>
+    <display_name>Manny</display_name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1713956-manny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442491692p3/1713956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442491692p2/1713956.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 29 00:25:53 -0800 2012</created_at>
+  <updated_at>Sun Jan 29 00:25:53 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>44467183</id>
+  <body><![CDATA[<i>Manny wrote: "Though, now you mention it, I wish I'd remembered to put a bolt through the creature's neck... "</i><br /><br />I fear your hobby-horse is already bolted.]]></body>
+  
+  <user>
+    <id>5022264</id>
+    <name>Ian</name>
+    <display_name>Ian &quot;Marvin&quot; Graye</display_name>
+
+    <location>Brisbane, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5022264-ian-marvin-graye]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478494667p3/5022264.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478494667p2/5022264.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 31 12:15:34 -0800 2012</created_at>
+  <updated_at>Tue Jan 31 12:15:34 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>44471478</id>
+  <body><![CDATA[Ian, are you suggesting that I don't practice what I preach? I'm... I'm... I don't know what to say.]]></body>
+  
+  <user>
+    <id>1713956</id>
+    <name>Manny</name>
+    <display_name>Manny</display_name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1713956-manny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442491692p3/1713956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442491692p2/1713956.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 31 13:39:01 -0800 2012</created_at>
+  <updated_at>Tue Jan 31 13:39:01 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>44473348</id>
+  <body><![CDATA[Just that a creature in fear of its neck will bolt of its own accord.]]></body>
+  
+  <user>
+    <id>5022264</id>
+    <name>Ian</name>
+    <display_name>Ian &quot;Marvin&quot; Graye</display_name>
+
+    <location>Brisbane, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5022264-ian-marvin-graye]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478494667p3/5022264.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478494667p2/5022264.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 31 14:11:27 -0800 2012</created_at>
+  <updated_at>Tue Jan 31 14:11:27 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>57329201</id>
+  <body><![CDATA[Thank you Susan!]]></body>
+  
+  <user>
+    <id>1713956</id>
+    <name>Manny</name>
+    <display_name>Manny</display_name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1713956-manny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442491692p3/1713956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442491692p2/1713956.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Sep 01 03:54:46 -0700 2012</created_at>
+  <updated_at>Sat Sep 01 03:54:46 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>60638529</id>
+  <body><![CDATA[Bahahahahahaha!]]></body>
+  
+  <user>
+    <id>2188660</id>
+    <name>Vanessa</name>
+    <display_name>Vanessa</display_name>
+
+    <location>Columbus, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2188660-vanessa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1356483583p3/2188660.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1356483583p2/2188660.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Oct 27 07:57:13 -0700 2012</created_at>
+  <updated_at>Sat Oct 27 07:57:13 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>60638853</id>
+  <body><![CDATA[Thank you Vanessa!]]></body>
+  
+  <user>
+    <id>1713956</id>
+    <name>Manny</name>
+    <display_name>Manny</display_name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1713956-manny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442491692p3/1713956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442491692p2/1713956.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Oct 27 08:05:18 -0700 2012</created_at>
+  <updated_at>Sat Oct 27 08:05:18 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>64873687</id>
+  <body><![CDATA[Wanna be]]></body>
+  
+  <user>
+    <id>11478707</id>
+    <name>Jim</name>
+    <display_name>Jim Kendall</display_name>
+
+    <location>Tampa, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11478707-jim-kendall]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 04 14:11:47 -0800 2013</created_at>
+  <updated_at>Fri Jan 04 14:11:47 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>84618906</id>
+  <body><![CDATA[Douglas Adams... YES!]]></body>
+  
+  <user>
+    <id>8549273</id>
+    <name>Travelling Sunny</name>
+    <display_name>Travelling Sunny</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8549273-travelling-sunny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1407851057p3/8549273.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1407851057p2/8549273.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Oct 10 07:26:51 -0700 2013</created_at>
+  <updated_at>Thu Oct 10 07:26:51 -0700 2013</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/40533935]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/40533935]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

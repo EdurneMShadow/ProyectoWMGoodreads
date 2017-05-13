@@ -1,0 +1,1292 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:51:06 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: AX55ZX280EGGXS298NBJ
+etag: W/"aa0e3f22e36bac1521b21bb257c09edc"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.483931
+set-cookie: csid=BAhJIhg1MTEtMjEyNjkyNi02MzI5Njg0BjoGRVQ%3D--f0ddc3b34d0fa48ab0e48c108c100c476ad7fed3; path=/; expires=Tue, 12 May 2037 13:51:05 -0000, locale=es; path=/, _session_id2=fa482c7366ed173037332ca4aafb7fd1; path=/; expires=Fri, 12 May 2017 19:51:06 -0000; HttpOnly
+content-length: 44050
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=417644539
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>417644539</id>
+    
+  <user>
+    <id>4971692</id>
+    <name>Kristin (KC)</name>
+    <display_name>Kristin (KC)</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4971692-kristin-kc]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486056026p3/4971692.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486056026p2/4971692.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">6564365</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">931</text_reviews_count>
+  <title>If I Stay (If I Stay, #1)</title>
+  <title_without_series>If I Stay</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1416614512m/6564365.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1416614512s/6564365.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6564365-if-i-stay</link>
+  <num_pages>196</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Speak</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.96</average_rating>
+  <ratings_count>549628</ratings_count>
+  <description>A critically acclaimed novel that will change the way you look at life, love, and family. &lt;br /&gt;&lt;br /&gt;In the blink of an eye everything changes. Seventeen ­year-old Mia has no memory of the accident; she can only recall what happened afterwards, watching her own damaged body being taken from the wreck. Little by little she struggles to put together the pieces- to figure out what she has lost, what she has left, and the very difficult choice she must make. Heartwrenchingly beautiful, Mia's story will stay with you for a long, long time.</description>
+<authors>
+<author>
+<id>295178</id>
+<name>Gayle Forman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1472502468p5/295178.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1472502468p2/295178.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/295178.Gayle_Forman]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>966486</ratings_count>
+<text_reviews_count>78890</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">524638603</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Tue Aug 05 17:50:29 -0700 2014</updated_at>
+          <ratings_count>1</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">521119029</id>
+          <old_status>to-read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Sun Aug 03 08:30:10 -0700 2014</updated_at>
+          <ratings_count>11</ratings_count>
+          <comments_count>4</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>4</rating>
+  <votes>64</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="weepy" exclusive="false" review_shelf_id="758076159" sortable="false" />
+    <shelf name="powerful" exclusive="false" review_shelf_id="758075993" sortable="false" />
+    <shelf name="paranormal-fantasy" exclusive="false" review_shelf_id="758075967" sortable="true" />
+    <shelf name="young-adult" exclusive="false" review_shelf_id="758075918" sortable="true" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Mon Aug 04 00:00:00 -0700 2014</read_at>
+  <date_added>Tue Sep 18 23:03:34 -0700 2012</date_added>
+  <date_updated>Tue Apr 07 08:11:43 -0700 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<br /><b>*4 Stars*</b><br /><br /><i>If I Stay</i> takes us on the extremely touching journey of a young girl teetering on the edge of death. <br /><br /> When a disastrous car wreck lands Mia in a coma, she is faced with the ultimate decision: <b>To live or to die.</b><br /><br />As difficult as that choice is on its own, there are certain elements swaying...]]>
+  </body>
+
+  
+
+  <comments_count>86</comments_count>
+    <comments start="1" end="50" total="86">
+        <comment>
+  <id>65993839</id>
+  <body><![CDATA[E-Book (Amazon) ON SALE for 2.99 Reg 8.99]]></body>
+  
+  <user>
+    <id>7399344</id>
+    <name>Liz</name>
+    <display_name>Liz</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7399344-liz]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1491841592p3/7399344.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1491841592p2/7399344.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 20 13:13:35 -0800 2013</created_at>
+  <updated_at>Sun Jan 20 13:13:35 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>66037423</id>
+  <body><![CDATA[Thank you, Liz! Great deal :)]]></body>
+  
+  <user>
+    <id>4971692</id>
+    <name>Kristin (KC)</name>
+    <display_name>Kristin (KC)</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4971692-kristin-kc]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486056026p3/4971692.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486056026p2/4971692.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 20 23:49:49 -0800 2013</created_at>
+  <updated_at>Sun Jan 20 23:49:49 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>103580804</id>
+  <body><![CDATA[Just bought this too!]]></body>
+  
+  <user>
+    <id>11285518</id>
+    <name>Jenniferღ</name>
+    <display_name>Jenniferღ</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11285518-jennifer]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1348208121p3/11285518.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1348208121p2/11285518.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 03 13:22:57 -0700 2014</created_at>
+  <updated_at>Sun Aug 03 13:22:57 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103584254</id>
+  <body><![CDATA[I recently purchased this book. How are you liking it?]]></body>
+  
+  <user>
+    <id>27552777</id>
+    <name>Jacqueline</name>
+    <display_name>Jacqueline</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27552777-jacqueline]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1420003344p3/27552777.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1420003344p2/27552777.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 03 14:20:44 -0700 2014</created_at>
+  <updated_at>Sun Aug 03 14:20:44 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103608426</id>
+  <body><![CDATA[<i>Jennifer wrote: "Just bought this too!"</i><br /><br />Jenny, have you started?? If you're not reading anything, u should join me : )]]></body>
+  
+  <user>
+    <id>4971692</id>
+    <name>Kristin (KC)</name>
+    <display_name>Kristin (KC)</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4971692-kristin-kc]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486056026p3/4971692.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486056026p2/4971692.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 03 21:21:51 -0700 2014</created_at>
+  <updated_at>Sun Aug 03 21:21:51 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103608583</id>
+  <body><![CDATA[<i>Jacqueline wrote: "I recently purchased this book. How are you liking it?"</i><br /><br />Hey, Jacqueline! I've had a busy weekend, so I'm only 20% in, but so far I'm really liking it. The writing is great and the plot seems unique. I'm also liking the dark, ominous undertone. Let me know what u think when you get to it! Hope u enjoy = )]]></body>
+  
+  <user>
+    <id>4971692</id>
+    <name>Kristin (KC)</name>
+    <display_name>Kristin (KC)</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4971692-kristin-kc]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486056026p3/4971692.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486056026p2/4971692.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 03 21:24:46 -0700 2014</created_at>
+  <updated_at>Sun Aug 03 21:24:46 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103628752</id>
+  <body><![CDATA[Enjoy Kris! I needa get this book soon! :)]]></body>
+  
+  <user>
+    <id>12814497</id>
+    <name>Ji</name>
+    <display_name>Ji</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12814497-ji]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1404323434p3/12814497.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1404323434p2/12814497.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 04 08:26:51 -0700 2014</created_at>
+  <updated_at>Mon Aug 04 08:26:51 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103630230</id>
+  <body><![CDATA[Hey Kris I def want to!! I'm starting lux Tom tho... So depending how far you get... ALSO when are you doing ugly love?? Ttys xx]]></body>
+  
+  <user>
+    <id>11285518</id>
+    <name>Jenniferღ</name>
+    <display_name>Jenniferღ</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11285518-jennifer]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1348208121p3/11285518.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1348208121p2/11285518.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 04 08:48:23 -0700 2014</created_at>
+  <updated_at>Mon Aug 04 08:48:23 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103635928</id>
+  <body><![CDATA[<i>Ji wrote: "Enjoy Kris! I needa get this book soon! :)"</i><br /><br />So far, I'm liking! Hope u enjoy = )]]></body>
+  
+  <user>
+    <id>4971692</id>
+    <name>Kristin (KC)</name>
+    <display_name>Kristin (KC)</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4971692-kristin-kc]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486056026p3/4971692.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486056026p2/4971692.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 04 10:14:51 -0700 2014</created_at>
+  <updated_at>Mon Aug 04 10:14:51 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103636234</id>
+  <body><![CDATA[<i>Jennifer wrote: "Hey Kris I def want to!! I'm starting lux Tom tho... So depending how far you get... ALS when are you doing ugly love?? Ttys xx"</i><br /><br />I'll probably be starting Ugly Love in a few days or so. Let me know when u start! Enjoy Lux ;)]]></body>
+  
+  <user>
+    <id>4971692</id>
+    <name>Kristin (KC)</name>
+    <display_name>Kristin (KC)</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4971692-kristin-kc]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486056026p3/4971692.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486056026p2/4971692.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 04 10:20:00 -0700 2014</created_at>
+  <updated_at>Mon Aug 04 10:20:00 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103735752</id>
+  <body><![CDATA[Amazing review Kristin! I adore this book, I'm so glad you liked it :)]]></body>
+  
+  <user>
+    <id>14514998</id>
+    <name>Rachel Reads Ravenously</name>
+    <display_name>Rachel Reads Ravenously</display_name>
+
+    <location>Los Angeles, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14514998-rachel-reads-ravenously]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1494100963p3/14514998.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1494100963p2/14514998.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 05 17:54:11 -0700 2014</created_at>
+  <updated_at>Tue Aug 05 17:54:11 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103735958</id>
+  <body><![CDATA[Awesome review Kristin! Its nice to see you around. Hope your book/writing is going good :)]]></body>
+  
+  <user>
+    <id>14158760</id>
+    <name>Raquel</name>
+    <display_name>Raquel</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14158760-raquel]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1472997440p3/14158760.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1472997440p2/14158760.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 05 17:57:42 -0700 2014</created_at>
+  <updated_at>Tue Aug 05 17:57:42 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103741929</id>
+  <body><![CDATA[Great review Kris!]]></body>
+  
+  <user>
+    <id>6082482</id>
+    <name>Didi</name>
+    <display_name>Didi</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6082482-didi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1459297426p3/6082482.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1459297426p2/6082482.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 05 19:30:24 -0700 2014</created_at>
+  <updated_at>Tue Aug 05 19:30:24 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103742800</id>
+  <body><![CDATA[Can't wait to ck out!!! Great review love!!]]></body>
+  
+  <user>
+    <id>11285518</id>
+    <name>Jenniferღ</name>
+    <display_name>Jenniferღ</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11285518-jennifer]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1348208121p3/11285518.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1348208121p2/11285518.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 05 19:43:16 -0700 2014</created_at>
+  <updated_at>Tue Aug 05 19:43:16 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103742821</id>
+  <body><![CDATA[You read this fast!!! ;-)]]></body>
+  
+  <user>
+    <id>11285518</id>
+    <name>Jenniferღ</name>
+    <display_name>Jenniferღ</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11285518-jennifer]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1348208121p3/11285518.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1348208121p2/11285518.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 05 19:43:38 -0700 2014</created_at>
+  <updated_at>Tue Aug 05 19:43:38 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103743117</id>
+  <body><![CDATA[Fab review, Kristin! You have such a way with words!! :)]]></body>
+  
+  <user>
+    <id>12181821</id>
+    <name>Denise</name>
+    <display_name>Denise</display_name>
+
+    <location>Kaneohe, HI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12181821-denise]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1356131301p3/12181821.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1356131301p2/12181821.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 05 19:48:20 -0700 2014</created_at>
+  <updated_at>Tue Aug 05 19:48:20 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103744366</id>
+  <body><![CDATA[Lovely review, Kris! This one's been rated anything from 1 through to 5 stars from friends I trust! lol!]]></body>
+  
+  <user>
+    <id>3820197</id>
+    <name>Jill</name>
+    <display_name>Jill</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3820197-jill]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1383385041p3/3820197.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1383385041p2/3820197.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 05 20:11:14 -0700 2014</created_at>
+  <updated_at>Tue Aug 05 20:11:14 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103744785</id>
+  <body><![CDATA[Wonderful review, Kris!! :))]]></body>
+  
+  <user>
+    <id>10905711</id>
+    <name><![CDATA[Meli Mel *Ty and Zane's Creeper*]]></name>
+    <display_name><![CDATA[Meli Mel *Ty and Zane's Creeper*]]></display_name>
+
+    <location>Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10905711-meli-mel-ty-and-zane-s-creeper]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1475036338p3/10905711.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1475036338p2/10905711.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 05 20:18:34 -0700 2014</created_at>
+  <updated_at>Tue Aug 05 20:18:34 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103745885</id>
+  <body><![CDATA[<i>Rachel (Reads Ravenously) wrote: "Amazing review Kristin! I adore this book, I'm so glad you liked it :)"</i><br /><br />Thanks, Rachel! Glad u loved = )]]></body>
+  
+  <user>
+    <id>4971692</id>
+    <name>Kristin (KC)</name>
+    <display_name>Kristin (KC)</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4971692-kristin-kc]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486056026p3/4971692.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486056026p2/4971692.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 05 20:38:38 -0700 2014</created_at>
+  <updated_at>Tue Aug 05 20:38:38 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103745930</id>
+  <body><![CDATA[<i>Raquel wrote: "Awesome review Kristin! Its nice to see you around. Hope your book/writing is going good :)"</i><br /><br />Thank you, Raquel! The writing is going well. Having lots of fun = ))]]></body>
+  
+  <user>
+    <id>4971692</id>
+    <name>Kristin (KC)</name>
+    <display_name>Kristin (KC)</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4971692-kristin-kc]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486056026p3/4971692.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486056026p2/4971692.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 05 20:39:22 -0700 2014</created_at>
+  <updated_at>Tue Aug 05 20:39:22 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103745955</id>
+  <body><![CDATA[<i>Didi wrote: "Great review Kris!"</i><br /><br />Thanks, Didi! = )]]></body>
+  
+  <user>
+    <id>4971692</id>
+    <name>Kristin (KC)</name>
+    <display_name>Kristin (KC)</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4971692-kristin-kc]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486056026p3/4971692.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486056026p2/4971692.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 05 20:39:44 -0700 2014</created_at>
+  <updated_at>Tue Aug 05 20:39:44 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103745979</id>
+  <body><![CDATA[<i>Jennifer wrote: "You read this fast!!! ;-)"</i><br /><br />lol, it was a quick read! Or felt like it ;) Thanks, Jenny xx]]></body>
+  
+  <user>
+    <id>4971692</id>
+    <name>Kristin (KC)</name>
+    <display_name>Kristin (KC)</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4971692-kristin-kc]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486056026p3/4971692.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486056026p2/4971692.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 05 20:40:18 -0700 2014</created_at>
+  <updated_at>Tue Aug 05 20:40:18 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103746012</id>
+  <body><![CDATA[<i>Denise wrote: "Fab review, Kristin! You have such a way with words!! :)"</i><br /><br />Thanks so much, Denise! Right back at ya :)]]></body>
+  
+  <user>
+    <id>4971692</id>
+    <name>Kristin (KC)</name>
+    <display_name>Kristin (KC)</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4971692-kristin-kc]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486056026p3/4971692.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486056026p2/4971692.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 05 20:40:48 -0700 2014</created_at>
+  <updated_at>Tue Aug 05 20:40:48 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103746070</id>
+  <body><![CDATA[<i>Jill wrote: "Lovely review, Kris! This one's been rated anything from 1 through to 5 stars from friends I trust! lol!"</i><br /><br />I know, it has mixed revs from my gr friends as well. I can see both sides of the coin, but the writing just did me in. I was hooked, even though I would have liked a bit more. Thanks, Jilly! = )]]></body>
+  
+  <user>
+    <id>4971692</id>
+    <name>Kristin (KC)</name>
+    <display_name>Kristin (KC)</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4971692-kristin-kc]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486056026p3/4971692.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486056026p2/4971692.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 05 20:41:55 -0700 2014</created_at>
+  <updated_at>Tue Aug 05 20:41:55 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103746084</id>
+  <body><![CDATA[<i>Meli Mel *Ty and Zane's Creeper* wrote: "Wonderful review, Kris!! :))"</i><br /><br />Thanks so much, Meli! :)]]></body>
+  
+  <user>
+    <id>4971692</id>
+    <name>Kristin (KC)</name>
+    <display_name>Kristin (KC)</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4971692-kristin-kc]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486056026p3/4971692.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486056026p2/4971692.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 05 20:42:12 -0700 2014</created_at>
+  <updated_at>Tue Aug 05 20:42:12 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103746460</id>
+  <body><![CDATA[Great review KC!! I loved this one...the movie comes out this weekend.]]></body>
+  
+  <user>
+    <id>18424676</id>
+    <name>S.M.</name>
+    <display_name>S.M. West</display_name>
+
+    <location>Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18424676-s-m-west]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480781804p3/18424676.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480781804p2/18424676.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 05 20:49:38 -0700 2014</created_at>
+  <updated_at>Tue Aug 05 20:49:38 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103746606</id>
+  <body><![CDATA[Fab review Kris- my daughter read this at camp and loved!! ♥]]></body>
+  
+  <user>
+    <id>14351108</id>
+    <name>Deanna❤Pink Lady❤️</name>
+    <display_name>Deanna❤Pink Lady❤️</display_name>
+
+    <location>Houston, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14351108-deanna-pink-lady]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1370640721p3/14351108.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1370640721p2/14351108.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 05 20:52:41 -0700 2014</created_at>
+  <updated_at>Tue Aug 05 20:52:41 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103747481</id>
+  <body><![CDATA[Wonderful review, Kris!!]]></body>
+  
+  <user>
+    <id>5587514</id>
+    <name>Alexis *Reality Bites*</name>
+    <display_name>Alexis *Reality Bites*</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5587514-alexis-reality-bites]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1404308282p3/5587514.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1404308282p2/5587514.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 05 21:10:56 -0700 2014</created_at>
+  <updated_at>Tue Aug 05 21:10:56 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103747826</id>
+  <body><![CDATA[Excellent review Kris!! xx]]></body>
+  
+  <user>
+    <id>2551178</id>
+    <name>Lady Vigilante (Feifei)</name>
+    <display_name>Lady Vigilante (Feifei)</display_name>
+
+    <location>Austin, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2551178-lady-vigilante-feifei]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1421992465p3/2551178.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1421992465p2/2551178.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 05 21:19:08 -0700 2014</created_at>
+  <updated_at>Tue Aug 05 21:19:08 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103752639</id>
+  <body><![CDATA[Great review KC!]]></body>
+  
+  <user>
+    <id>14262653</id>
+    <name>Mysza</name>
+    <display_name>Mysza</display_name>
+
+    <location>Poland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14262653-mysza]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1433922560p3/14262653.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1433922560p2/14262653.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 05 23:18:13 -0700 2014</created_at>
+  <updated_at>Tue Aug 05 23:18:13 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103756394</id>
+  <body><![CDATA[Wonderful review, Kris. :)]]></body>
+  
+  <user>
+    <id>5252054</id>
+    <name>ᴥ Irena ᴥ</name>
+    <display_name>ᴥ Irena ᴥ</display_name>
+
+    <location>R&apos;lyeh, Antarctica</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5252054-irena]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1425497470p3/5252054.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1425497470p2/5252054.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 06 02:06:49 -0700 2014</created_at>
+  <updated_at>Wed Aug 06 02:06:49 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103756708</id>
+  <body><![CDATA[Awesome review, Kris :)]]></body>
+  
+  <user>
+    <id>8837962</id>
+    <name>Lucia</name>
+    <display_name>Lucia</display_name>
+
+    <location>Prague, Czech Republic</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8837962-lucia]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1484242793p3/8837962.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1484242793p2/8837962.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 06 02:23:28 -0700 2014</created_at>
+  <updated_at>Wed Aug 06 02:23:28 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103761155</id>
+  <body><![CDATA[Wonderful review, Kris!]]></body>
+  
+  <user>
+    <id>4669232</id>
+    <name><![CDATA[Baba  ♥♥♥ Tyler, Marcus, Archer, Dean, Adrian, Dan & Hunter]]></name>
+    <display_name><![CDATA[Baba  ♥♥♥ Tyler, Marcus, Archer, Dean, Adrian, Dan & Hunter]]></display_name>
+
+    <location>Switzerland, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4669232-baba-tyler-marcus-archer-dean-adrian-dan-hunter]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1489691517p3/4669232.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1489691517p2/4669232.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 06 05:22:00 -0700 2014</created_at>
+  <updated_at>Wed Aug 06 05:22:00 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103762222</id>
+  <body><![CDATA[<i>Suzanne wrote: "Great review KC!! I loved this one...the movie comes out this weekend."</i><br /><br />Thanks, Suzanne! Excited for the movie = )]]></body>
+  
+  <user>
+    <id>4971692</id>
+    <name>Kristin (KC)</name>
+    <display_name>Kristin (KC)</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4971692-kristin-kc]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486056026p3/4971692.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486056026p2/4971692.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 06 05:50:17 -0700 2014</created_at>
+  <updated_at>Wed Aug 06 05:50:17 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103762328</id>
+  <body><![CDATA[<i>Deanna❤Pink Lady❤️ wrote: "Fab review Kris- my daughter read this at camp and loved!! ♥"</i><br /><br />Thanks, Deanna! Glad your daughter enjoyed = )]]></body>
+  
+  <user>
+    <id>4971692</id>
+    <name>Kristin (KC)</name>
+    <display_name>Kristin (KC)</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4971692-kristin-kc]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486056026p3/4971692.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486056026p2/4971692.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 06 05:52:40 -0700 2014</created_at>
+  <updated_at>Wed Aug 06 05:52:40 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103762346</id>
+  <body><![CDATA[<i>Alexis *RealityBites! Let's Get Lost!* wrote: "Wonderful review, Kris!!"</i><br /><br />Thank you, Alexis!]]></body>
+  
+  <user>
+    <id>4971692</id>
+    <name>Kristin (KC)</name>
+    <display_name>Kristin (KC)</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4971692-kristin-kc]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486056026p3/4971692.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486056026p2/4971692.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 06 05:53:14 -0700 2014</created_at>
+  <updated_at>Wed Aug 06 05:53:14 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103762362</id>
+  <body><![CDATA[<i>Lady Vigilante (Feifei) wrote: "Excellent review Kris!! xx"</i><br /><br />Thanks, Fei! &lt;33]]></body>
+  
+  <user>
+    <id>4971692</id>
+    <name>Kristin (KC)</name>
+    <display_name>Kristin (KC)</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4971692-kristin-kc]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486056026p3/4971692.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486056026p2/4971692.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 06 05:53:40 -0700 2014</created_at>
+  <updated_at>Wed Aug 06 05:53:40 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103762379</id>
+  <body><![CDATA[<i>Mysza wrote: "Great review KC!"</i><br /><br />Thank you, Mysza! :)]]></body>
+  
+  <user>
+    <id>4971692</id>
+    <name>Kristin (KC)</name>
+    <display_name>Kristin (KC)</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4971692-kristin-kc]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486056026p3/4971692.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486056026p2/4971692.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 06 05:54:06 -0700 2014</created_at>
+  <updated_at>Wed Aug 06 05:54:06 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103762393</id>
+  <body><![CDATA[<i>Irena wrote: "Wonderful review, Kris. :)"</i><br /><br />Thanks, Irena = )]]></body>
+  
+  <user>
+    <id>4971692</id>
+    <name>Kristin (KC)</name>
+    <display_name>Kristin (KC)</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4971692-kristin-kc]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486056026p3/4971692.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486056026p2/4971692.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 06 05:54:27 -0700 2014</created_at>
+  <updated_at>Wed Aug 06 05:54:27 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103762402</id>
+  <body><![CDATA[<i>Lucia wrote: "Awesome review, Kris :)"</i><br /><br />Thank you, Lucia &lt;3]]></body>
+  
+  <user>
+    <id>4971692</id>
+    <name>Kristin (KC)</name>
+    <display_name>Kristin (KC)</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4971692-kristin-kc]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486056026p3/4971692.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486056026p2/4971692.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 06 05:54:43 -0700 2014</created_at>
+  <updated_at>Wed Aug 06 05:54:43 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103762412</id>
+  <body><![CDATA[<i>Baba ♥♥♥ Tyler, Marcus, Archer, Dean, Adrian, Dan &amp; Hunter wrote: "Wonderful review, Kris!"</i><br /><br />Thanks, Baba! = )]]></body>
+  
+  <user>
+    <id>4971692</id>
+    <name>Kristin (KC)</name>
+    <display_name>Kristin (KC)</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4971692-kristin-kc]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486056026p3/4971692.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486056026p2/4971692.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 06 05:55:02 -0700 2014</created_at>
+  <updated_at>Wed Aug 06 05:55:02 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103763566</id>
+  <body><![CDATA[Excellent review, as always, Trister ♥]]></body>
+  
+  <user>
+    <id>8422853</id>
+    <name><![CDATA[Chelsea ❤Peril Please❤ (of BADGER and Snake)]]></name>
+    <display_name><![CDATA[Chelsea ❤Peril Please❤ (of BADGER and Snake)]]></display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8422853-chelsea-peril-please-of-badger-and-snake]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1452276489p3/8422853.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1452276489p2/8422853.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 06 06:24:37 -0700 2014</created_at>
+  <updated_at>Wed Aug 06 06:24:37 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103764453</id>
+  <body><![CDATA[Nice Review, Kris :) This one has been on my TBR list forever...I think I need to bump it up now.]]></body>
+  
+  <user>
+    <id>16349243</id>
+    <name>Saffron</name>
+    <display_name>Saffron</display_name>
+
+    <location>Astoria, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16349243-saffron]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487085982p3/16349243.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487085982p2/16349243.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 06 06:45:24 -0700 2014</created_at>
+  <updated_at>Wed Aug 06 06:45:24 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103764838</id>
+  <body><![CDATA[Fabulous review, Trissy! ♥]]></body>
+  
+  <user>
+    <id>22761036</id>
+    <name>♥Erika</name>
+    <display_name>♥Erika</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22761036-erika]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442540530p3/22761036.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442540530p2/22761036.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 06 06:53:46 -0700 2014</created_at>
+  <updated_at>Wed Aug 06 06:53:46 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103766001</id>
+  <body><![CDATA[Beautiful review, Tris ❤️x]]></body>
+  
+  <user>
+    <id>18516120</id>
+    <name>Harriet ~ bookworm </name>
+    <display_name>Harriet ~ bookworm </display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18516120-harriet-bookworm]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483568957p3/18516120.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483568957p2/18516120.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 06 07:17:04 -0700 2014</created_at>
+  <updated_at>Wed Aug 06 07:17:04 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103766249</id>
+  <body><![CDATA[Fabulous review, sweetie! xo]]></body>
+  
+  <user>
+    <id>11284813</id>
+    <name>Christy</name>
+    <display_name>Christy</display_name>
+
+    <location>Fairfield, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11284813-christy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1415390359p3/11284813.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1415390359p2/11284813.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 06 07:22:52 -0700 2014</created_at>
+  <updated_at>Wed Aug 06 07:22:52 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103768495</id>
+  <body><![CDATA[Wonderful review!! :)]]></body>
+  
+  <user>
+    <id>8612993</id>
+    <name>Mckenzie</name>
+    <display_name>Mckenzie</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8612993-mckenzie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1416099320p3/8612993.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1416099320p2/8612993.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 06 08:05:09 -0700 2014</created_at>
+  <updated_at>Wed Aug 06 08:05:09 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103785299</id>
+  <body><![CDATA[<i>Chelsea ❤Peril Please❤ wrote: "Excellent review, as always, Trister ♥"</i><br /><br />Thanks, Chela Bella! &lt;33]]></body>
+  
+  <user>
+    <id>4971692</id>
+    <name>Kristin (KC)</name>
+    <display_name>Kristin (KC)</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4971692-kristin-kc]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486056026p3/4971692.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486056026p2/4971692.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 06 12:24:40 -0700 2014</created_at>
+  <updated_at>Wed Aug 06 12:24:40 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103785341</id>
+  <body><![CDATA[<i>Supreet wrote: "Nice Review, Kris :) This one has been on my TBR list forever...I think I need to bump it up now."</i><br /><br />Bump it right on up! lol. The movie will be out very soon ;) Enjoy!]]></body>
+  
+  <user>
+    <id>4971692</id>
+    <name>Kristin (KC)</name>
+    <display_name>Kristin (KC)</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4971692-kristin-kc]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486056026p3/4971692.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486056026p2/4971692.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 06 12:25:16 -0700 2014</created_at>
+  <updated_at>Wed Aug 06 12:25:16 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103785362</id>
+  <body><![CDATA[<i>♥Erika wrote: "Fabulous review, Trissy! ♥"</i><br /><br />Thank you, sweet girl! xxoo]]></body>
+  
+  <user>
+    <id>4971692</id>
+    <name>Kristin (KC)</name>
+    <display_name>Kristin (KC)</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4971692-kristin-kc]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486056026p3/4971692.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486056026p2/4971692.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 06 12:25:35 -0700 2014</created_at>
+  <updated_at>Wed Aug 06 12:25:35 -0700 2014</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/417644539]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/417644539]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

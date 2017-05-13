@@ -1,0 +1,1179 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:44:48 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: B4T1VB28N3TYYZKJX04R
+etag: W/"c544541327431d917cd5ba866e9641ac"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.382983
+set-cookie: csid=BAhJIhg4ODMtNTEyMTg2NC01Njk1ODAzBjoGRVQ%3D--51522629c556dc25654eddb2f3ce597570502ffc; path=/; expires=Tue, 12 May 2037 13:44:48 -0000, locale=es; path=/, _session_id2=df5bcdfad6f617898dc9acd9350bff77; path=/; expires=Fri, 12 May 2017 19:44:48 -0000; HttpOnly
+content-length: 43099
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=28685186
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>28685186</id>
+    
+  <user>
+    <id>520753</id>
+    <name>Kim</name>
+    <display_name>Kim</display_name>
+
+    <location>Essex Junction, VT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/520753-kim]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1402541317p3/520753.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1402541317p2/520753.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">1617</id>
+  <isbn>0374500010</isbn>
+  <isbn13>9780374500016</isbn13>
+  <text_reviews_count type="integer">20044</text_reviews_count>
+  <title>Night</title>
+  <title_without_series>Night</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1473495285m/1617.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1473495285s/1617.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1617.Night</link>
+  <num_pages>120</num_pages>
+  <format>Paperback</format>
+  <edition_information>First Printing Edition</edition_information>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.29</average_rating>
+  <ratings_count>686554</ratings_count>
+  <description>&lt;i&gt;Night&lt;/i&gt; is Elie Wiesel's masterpiece, a candid, horrific, and deeply poignant autobiographical account of his survival as a teenager in the Nazi death camps. This new translation by Marion Wiesel, Elie's wife and frequent translator, presents this seminal memoir in the language and spirit truest to the author's original intent. And in a substantive new preface, Elie reflects on the enduring importance of Night and his lifelong, passionate dedication to ensuring that the world never forgets man's capacity for inhumanity to man.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Night&lt;/i&gt; offers much more than a litany of the daily terrors, everyday perversions, and rampant sadism at Auschwitz and Buchenwald; it also eloquently addresses many of the philosophical as well as personal questions implicit in any serious consideration of what the Holocaust was, what it meant, and what its legacy is and will be.</description>
+<authors>
+<author>
+<id>1049</id>
+<name>Elie Wiesel</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1255518412p5/1049.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1255518412p2/1049.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1049.Elie_Wiesel]]></link>
+<average_rating>4.27</average_rating>
+<ratings_count>722830</ratings_count>
+<text_reviews_count>24668</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1213788232</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Fri Jan 29 14:46:41 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>4</rating>
+  <votes>465</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="for-realz" exclusive="false" review_shelf_id="28073815" sortable="false" />
+    <shelf name="mmix" exclusive="false" review_shelf_id="42928418" sortable="false" />
+    <shelf name="rubbernecking" exclusive="false" review_shelf_id="151240178" sortable="false" />
+    <shelf name="cultured" exclusive="false" review_shelf_id="36797419" sortable="false" />
+    <shelf name="and-i-feel-fine" exclusive="false" review_shelf_id="438660438" sortable="false" />
+    <shelf name="warfare" exclusive="false" review_shelf_id="42928438" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sat Apr 11 00:00:00 -0700 2009</read_at>
+  <date_added>Tue Jul 29 18:20:33 -0700 2008</date_added>
+  <date_updated>Mon Jan 13 08:18:42 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[There is little that freaks me out more than the Holocaust. And I'm not belittling it at all with the phrase 'freaks me out.' Growing up in the 1970s and 80s, I felt sufficiently desensitized enough by television violence to be able to gauge how often I need to shake the jiffy pop and run to the...]]>
+  </body>
+
+  
+
+  <comments_count>46</comments_count>
+    <comments start="1" end="46" total="46">
+        <comment>
+  <id>5100166</id>
+  <body><![CDATA[I found this extremely powerful.]]></body>
+  
+  <user>
+    <id>88967</id>
+    <name>Ben</name>
+    <display_name>Ben</display_name>
+
+    <location>Lakeland, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/88967-ben]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1468030044p3/88967.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1468030044p2/88967.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Apr 11 08:30:42 -0700 2009</created_at>
+  <updated_at>Sat Apr 11 08:30:42 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>5133318</id>
+  <body><![CDATA[I loved his preface to the new edition.<br /><br />I loved your "perspective" points with Sbarro and iphones. That's exactly how I felt when I read it. For a few days, every complaint of mine or my friends seemed ridiculous. Then, that feeling fades away and we just become oblivious assholes, again. Or, at least I do.]]></body>
+  
+  <created_at>Sun Apr 12 19:12:19 -0700 2009</created_at>
+  <updated_at>Sun Apr 12 19:12:19 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>5135052</id>
+  <body><![CDATA[Another great review Kim...now I want to read the book.<br /><br />Bill]]></body>
+  
+  <user>
+    <id>1811095</id>
+    <name>Bill</name>
+    <display_name>Bill</display_name>
+
+    <location>Abbotsford, B.C., Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1811095-bill]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1230361156p3/1811095.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1230361156p2/1811095.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Apr 12 20:37:27 -0700 2009</created_at>
+  <updated_at>Sun Apr 12 20:37:27 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>5136907</id>
+  <body><![CDATA[...]]></body>
+  
+  <user>
+    <id>1569525</id>
+    <name>Matthieu</name>
+    <display_name>Matthieu</display_name>
+
+    <location>New Haven, CT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1569525-matthieu]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1281854289p3/1569525.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1281854289p2/1569525.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Apr 13 02:07:13 -0700 2009</created_at>
+  <updated_at>Mon Apr 13 02:07:13 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>5138438</id>
+  <body><![CDATA[Thanks, guys... <br /><br />Now I need to read some fluff. :(]]></body>
+  
+  <user>
+    <id>520753</id>
+    <name>Kim</name>
+    <display_name>Kim</display_name>
+
+    <location>Essex Junction, VT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/520753-kim]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1402541317p3/520753.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1402541317p2/520753.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Apr 13 06:39:46 -0700 2009</created_at>
+  <updated_at>Mon Apr 13 06:39:46 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>5148090</id>
+  <body><![CDATA[<i>We have Rwanda and Darfur and god knows what other insane situations happening out there---and we're outraged over the price of an iPhone.</i> <br /><br />Yes, we do. And still we do nothing or not enough.]]></body>
+  
+  <user>
+    <id>512643</id>
+    <name>Michelle</name>
+    <display_name>Michelle</display_name>
+
+    <location>Pleasanton, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/512643-michelle]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1367538750p3/512643.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1367538750p2/512643.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Apr 13 15:16:32 -0700 2009</created_at>
+  <updated_at>Mon Apr 13 15:16:32 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10109101</id>
+  <body><![CDATA[Not being a writer myself, I feel lost on how to conjure up a "review" of this book. Yours was perfect.]]></body>
+  
+  <user>
+    <id>1102145</id>
+    <name>Lauren</name>
+    <display_name>Lauren</display_name>
+
+    <location>Dundee, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1102145-lauren]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1233239463p3/1102145.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1233239463p2/1102145.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Oct 15 07:49:10 -0700 2009</created_at>
+  <updated_at>Thu Oct 15 07:49:10 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10112129</id>
+  <body><![CDATA[Thank you, Lauren! I definitely have those books that leave me lost. ]]></body>
+  
+  <user>
+    <id>520753</id>
+    <name>Kim</name>
+    <display_name>Kim</display_name>
+
+    <location>Essex Junction, VT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/520753-kim]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1402541317p3/520753.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1402541317p2/520753.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Oct 15 10:46:06 -0700 2009</created_at>
+  <updated_at>Thu Oct 15 10:46:06 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10472993</id>
+  <body><![CDATA[Kim,<br />Thank you for saying it like it is! Your bluntness is as refreshing as a flower in winter. Thank you also for pointing out that it continues...in Rwanda, Sudan, Uganda and, unfortunately, many other seemingly forgotten corners of the planet. I sometimes think the continuance of this type of crime must drive the survivors of the Holocaust to the breaking point.]]></body>
+  
+  <user>
+    <id>1627275</id>
+    <name>Penny</name>
+    <display_name>Penny</display_name>
+
+    <location>Pembroke, Ontario, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1627275-penny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1254347307p3/1627275.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1254347307p2/1627275.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Oct 29 07:02:26 -0700 2009</created_at>
+  <updated_at>Thu Oct 29 07:02:26 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10474416</id>
+  <body><![CDATA[Thanks, Penny! Sometimes the bluntness is just a factor of ignorance on my part, but I use it as best as I can. :) Thank you for your comment, that was really nice...]]></body>
+  
+  <user>
+    <id>520753</id>
+    <name>Kim</name>
+    <display_name>Kim</display_name>
+
+    <location>Essex Junction, VT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/520753-kim]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1402541317p3/520753.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1402541317p2/520753.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Oct 29 08:32:48 -0700 2009</created_at>
+  <updated_at>Thu Oct 29 08:32:48 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>12665989</id>
+  <body><![CDATA[I just finished <i>Night</i>, and am at a loss of words. I like your point of view. Mine is summed up in 19 words, and I hope Wiesel would approve.<br /><br /><a target="_blank" href="https://www.goodreads.com/review/show/84741644" rel="nofollow">http://www.goodreads.com/review/show/...</a><br />]]></body>
+  
+  <user>
+    <id>2447803</id>
+    <name>Jason</name>
+    <display_name>Jason</display_name>
+
+    <location>Clarksville, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2447803-jason]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1246308632p3/2447803.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1246308632p2/2447803.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 13 10:55:36 -0800 2010</created_at>
+  <updated_at>Wed Jan 13 10:55:36 -0800 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>14564255</id>
+  <body><![CDATA[Kim/thanks for the review-wow]]></body>
+  
+  <user>
+    <id>3433749</id>
+    <name>Adriana</name>
+    <display_name>Adriana</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3433749-adriana]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat Mar 13 18:02:57 -0800 2010</created_at>
+  <updated_at>Sat Mar 13 18:02:57 -0800 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>14596875</id>
+  <body><![CDATA[Thanks, Adriana... :)]]></body>
+  
+  <user>
+    <id>520753</id>
+    <name>Kim</name>
+    <display_name>Kim</display_name>
+
+    <location>Essex Junction, VT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/520753-kim]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1402541317p3/520753.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1402541317p2/520753.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Mar 14 18:11:48 -0700 2010</created_at>
+  <updated_at>Sun Mar 14 18:11:48 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>19554664</id>
+  <body><![CDATA[Great, great review.]]></body>
+  
+  <user>
+    <id>4107456</id>
+    <name>Cliff</name>
+    <display_name>Cliff</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4107456-cliff]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1280960998p3/4107456.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1280960998p2/4107456.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 05 08:56:28 -0700 2010</created_at>
+  <updated_at>Thu Aug 05 08:56:28 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>36043492</id>
+  <body><![CDATA[I agree, this is an excellent review.]]></body>
+  
+  <user>
+    <id>5992362</id>
+    <name>Corinne</name>
+    <display_name>Corinne</display_name>
+
+    <location>Biloxi, MS</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5992362-corinne]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1317673410p3/5992362.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1317673410p2/5992362.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 29 11:25:09 -0700 2011</created_at>
+  <updated_at>Mon Aug 29 11:25:09 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>41195781</id>
+  <body><![CDATA[I keep reading holocaust books to remind myself that it is extremely important to be good and do good. Excellent review.]]></body>
+  
+  <user>
+    <id>6890635</id>
+    <name>Nithya </name>
+    <display_name>Nithya </display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6890635-nithya]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1321012890p3/6890635.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1321012890p2/6890635.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Dec 07 03:36:56 -0800 2011</created_at>
+  <updated_at>Wed Dec 07 03:36:56 -0800 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>44188814</id>
+  <body><![CDATA[Yeah it was very sad he is very lucky 2 still be alive and sharing his frightning story]]></body>
+  
+  <user>
+    <id>7539747</id>
+    <name>Iluvthefayz</name>
+    <display_name>Iluvthefayz</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7539747-iluvthefayz]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 26 18:51:57 -0800 2012</created_at>
+  <updated_at>Thu Jan 26 18:51:57 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>52758726</id>
+  <body><![CDATA[Wow! Excellent thoughts...]]></body>
+  
+  <user>
+    <id>204846</id>
+    <name>Tiffany</name>
+    <display_name>Tiffany</display_name>
+
+    <location>Newbern, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/204846-tiffany]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1184858694p3/204846.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1184858694p2/204846.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 22 16:45:49 -0700 2012</created_at>
+  <updated_at>Fri Jun 22 16:45:49 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>52769682</id>
+  <body><![CDATA[Thanks, Tiffany!]]></body>
+  
+  <user>
+    <id>520753</id>
+    <name>Kim</name>
+    <display_name>Kim</display_name>
+
+    <location>Essex Junction, VT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/520753-kim]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1402541317p3/520753.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1402541317p2/520753.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 22 20:17:02 -0700 2012</created_at>
+  <updated_at>Fri Jun 22 20:17:02 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>56111380</id>
+  <body><![CDATA[great review.. but really 4 stars?]]></body>
+  
+  <user>
+    <id>11393859</id>
+    <name>Josue</name>
+    <display_name>Josue</display_name>
+
+    <location>Irvine, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11393859-josue]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1343600801p3/11393859.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1343600801p2/11393859.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 13 01:44:41 -0700 2012</created_at>
+  <updated_at>Mon Aug 13 01:44:41 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>56897833</id>
+  <body><![CDATA[Your review is everything I just couldn't quite put into words. Thank you for that raw, but frank description that is so eloquently the feeling that "Night" leaves you with.]]></body>
+  
+  <user>
+    <id>12034529</id>
+    <name>Brenda</name>
+    <display_name>Brenda Arellano</display_name>
+
+    <location>Hollywood, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12034529-brenda-arellano]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1345438986p3/12034529.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1345438986p2/12034529.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 25 06:15:51 -0700 2012</created_at>
+  <updated_at>Sat Aug 25 06:15:51 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>60998585</id>
+  <body><![CDATA[I agree with Brenda! Outstanding review!]]></body>
+  
+  <user>
+    <id>6176069</id>
+    <name>C.j.</name>
+    <display_name>C.j.</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6176069-c-j]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1347999240p3/6176069.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1347999240p2/6176069.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 02 09:14:41 -0700 2012</created_at>
+  <updated_at>Fri Nov 02 09:14:41 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>63765680</id>
+  <body><![CDATA[Amen to Brenda's comment. You put it perfectly.]]></body>
+  
+  <user>
+    <id>6936615</id>
+    <name>Brinda</name>
+    <display_name>Brinda Bair</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6936615-brinda-bair]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 18 12:22:07 -0800 2012</created_at>
+  <updated_at>Tue Dec 18 12:22:07 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>66172901</id>
+  <body><![CDATA[Amazing. So well written and touching in its own way. Really made me think about the life I'm living and how bad it could have been.]]></body>
+  
+  <user>
+    <id>16023902</id>
+    <name>Melanie</name>
+    <display_name>Melanie</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16023902-melanie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1437781813p3/16023902.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1437781813p2/16023902.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 22 17:18:42 -0800 2013</created_at>
+  <updated_at>Tue Jan 22 17:18:42 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>66210195</id>
+  <body><![CDATA[Thank you, all of you, for the kind words. :)]]></body>
+  
+  <user>
+    <id>520753</id>
+    <name>Kim</name>
+    <display_name>Kim</display_name>
+
+    <location>Essex Junction, VT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/520753-kim]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1402541317p3/520753.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1402541317p2/520753.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 23 07:37:23 -0800 2013</created_at>
+  <updated_at>Wed Jan 23 07:37:23 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>67876850</id>
+  <body><![CDATA[I am listening to this book via Audible via Kindle, narrated by George Guidall. It is both haunting and wonderful! I think you will understand why I use those two adjectives! Thank you for your honest, poignant review!]]></body>
+  
+  <user>
+    <id>6233786</id>
+    <name>Becky</name>
+    <display_name>Becky</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6233786-becky]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1425425792p3/6233786.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1425425792p2/6233786.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 15 08:13:26 -0800 2013</created_at>
+  <updated_at>Fri Feb 15 08:13:26 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>68091081</id>
+  <body><![CDATA[Damn fine review. Excellent book.]]></body>
+  
+  <user>
+    <id>2966243</id>
+    <name>Marty</name>
+    <display_name>Marty Selnick</display_name>
+
+    <location>Salem, OR</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2966243-marty-selnick]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1424828493p3/2966243.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1424828493p2/2966243.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 18 08:18:28 -0800 2013</created_at>
+  <updated_at>Mon Feb 18 08:18:28 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>68141718</id>
+  <body><![CDATA[Although this review has made several appearances, somehow I've missed every previous run. I think that it should be re-circulated at least a couple of times a year -- year after year. It's a "you-must-remember-this" review.]]></body>
+  
+  <user>
+    <id>2624836</id>
+    <name>Reese</name>
+    <display_name>Reese</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2624836-reese]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488273972p3/2624836.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488273972p2/2624836.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 18 19:27:51 -0800 2013</created_at>
+  <updated_at>Mon Feb 18 19:27:51 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>70785225</id>
+  <body><![CDATA[You have a lot more to say than I do, bravo! I'm simply dumbfounded and at a loss for words. This book uses all the right words, in the right amount and combination, and it leaves the reader without a word, just a silent cry of horror.]]></body>
+  
+  <user>
+    <id>6098175</id>
+    <name>Katya</name>
+    <display_name>Katya Vinogradova</display_name>
+
+    <location>Moscow, Russian Federation</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6098175-katya-vinogradova]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1452109566p3/6098175.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1452109566p2/6098175.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 27 23:29:37 -0700 2013</created_at>
+  <updated_at>Wed Mar 27 23:29:37 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>75543523</id>
+  <body><![CDATA[This review wasn't long, but still powerful. You managed to put into words what is hard to express.. Whatever your feelings are, I've felt them too reading this book. Anguish, dread, sorrow..there's probably a special word for it in some foreign language that accurately expresses it but we don't know it. This should be the preface to a new edition of <i>Night</i>, it's that heartfelt.]]></body>
+  
+  <user>
+    <id>4425018</id>
+    <name>Loveliest</name>
+    <display_name>Loveliest Evaris</display_name>
+
+    <location>Washburn, WI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4425018-loveliest-evaris]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1489117170p3/4425018.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1489117170p2/4425018.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jun 04 11:24:51 -0700 2013</created_at>
+  <updated_at>Tue Jun 04 11:24:51 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85872779</id>
+  <body><![CDATA[Being so young I myself have not met anyone who is a survival of the Holocaust but I have read this book and it is very powerful and real. This book has also changed my life and I have thought about life now for me and for others and yes, you are right, for me those words were right.Thanks for the true powerful review and the insight to your point of view.]]></body>
+  
+  <user>
+    <id>25182243</id>
+    <name>Leslie</name>
+    <display_name>Leslie Correa</display_name>
+
+    <location>Hayward, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25182243-leslie-correa]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Oct 30 11:41:08 -0700 2013</created_at>
+  <updated_at>Wed Oct 30 11:41:08 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>91282161</id>
+  <body><![CDATA[good review!]]></body>
+  
+  <user>
+    <id>26984202</id>
+    <name>Femke</name>
+    <display_name>Femke</display_name>
+
+    <location>Oterleek :P , Netherlands</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/26984202-femke]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1388074085p3/26984202.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1388074085p2/26984202.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 23 08:53:30 -0800 2014</created_at>
+  <updated_at>Thu Jan 23 08:53:30 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103891027</id>
+  <body><![CDATA[I found that quote to be so powerful and eye opening as well.]]></body>
+  
+  <user>
+    <id>33261769</id>
+    <name>Brianna</name>
+    <display_name>Brianna Rico</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/33261769-brianna-rico]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1406009443p3/33261769.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1406009443p2/33261769.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 07 23:31:09 -0700 2014</created_at>
+  <updated_at>Thu Aug 07 23:31:09 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>106658478</id>
+  <body><![CDATA[I have read this book along with my son a little over 2 years ago… Reading your commentary compels me to revisit. For some reason, I 'fien' to read more of your writing. Have you considered writing novels?]]></body>
+  
+  <user>
+    <id>21243698</id>
+    <name>Harlem</name>
+    <display_name>Harlem Nectar</display_name>
+
+    <location>Willowbrook, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/21243698-harlem-nectar]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1371039565p3/21243698.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1371039565p2/21243698.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Sep 24 12:21:00 -0700 2014</created_at>
+  <updated_at>Wed Sep 24 12:21:00 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>106756851</id>
+  <body><![CDATA[I just read your review. Am currently reading the book. I appreciate your bluntness which seem to be required for such a horrible and disturbing part of world history. why did you have to use such foul language? It undermines your thoughtful insights and passion and only serves to tarnish the honor that these victims deserve.]]></body>
+  
+  <user>
+    <id>16859644</id>
+    <name>Amy</name>
+    <display_name>Amy Varano</display_name>
+
+    <location>Pearl River, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16859644-amy-varano]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 26 06:03:54 -0700 2014</created_at>
+  <updated_at>Fri Sep 26 06:03:54 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>114477648</id>
+  <body><![CDATA[I agree, foul language is for people with lack of vocabulary. I always think less of the person who feels the need to use it. It's not necessary in order to express feeling]]></body>
+  
+  <user>
+    <id>6117150</id>
+    <name>Jeannie</name>
+    <display_name>Jeannie</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6117150-jeannie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1412309267p3/6117150.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1412309267p2/6117150.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Feb 12 07:15:16 -0800 2015</created_at>
+  <updated_at>Thu Feb 12 07:15:16 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>139742951</id>
+  <body><![CDATA["Foul" language is a form of expression, as much as any other. To not use words because they are "bad" is to limit your ability to express yourself. To know and use "bad" words does not denote a lack of vocabulary. How can you judge what vocabulary someone might not know by words they have used? Fallacy no. 1. <br />Many poets and respected authors have used and do use "foul" language. I am sure you would not suggest that those such as D.H. Lawrence or George Bernard Shaw lacked vocabulary?<br />Disliking swearing where it is over used or definitely uncalled for (say, having tea with the queen for example) is one thing, but just saying "those who swear lack better vocabulary" no matter what situation is very limited and blind.]]></body>
+  
+  <user>
+    <id>45508131</id>
+    <name>Susanna</name>
+    <display_name>Susanna Vickers</display_name>
+
+    <location>Lisbon, 14, Portugal</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/45508131-susanna-vickers]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1438215773p3/45508131.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1438215773p2/45508131.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 04 22:00:27 -0700 2015</created_at>
+  <updated_at>Fri Sep 04 22:00:27 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>139965590</id>
+  <body><![CDATA[:)]]></body>
+  
+  <user>
+    <id>520753</id>
+    <name>Kim</name>
+    <display_name>Kim</display_name>
+
+    <location>Essex Junction, VT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/520753-kim]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1402541317p3/520753.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1402541317p2/520753.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Sep 09 21:23:17 -0700 2015</created_at>
+  <updated_at>Wed Sep 09 21:23:17 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>147753554</id>
+  <body><![CDATA[May I just say that not often do reviews inspire me to read them twice, let alone go to the tremulous effort of commenting on one. This is exceptional. I have not yet read Night, but your review perfectly seals your unique interpretation and you seem to pinpoint exactly what it is that 1) makes words palpable and 2) Is so essential about passing on the horrors of the Holocaust to future generations. <br />Loved it.]]></body>
+  
+  <user>
+    <id>46680743</id>
+    <name>Joe</name>
+    <display_name>Joe</display_name>
+
+    <location><![CDATA[Hengoed, X4, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/46680743-joe]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu Feb 18 05:55:10 -0800 2016</created_at>
+  <updated_at>Thu Feb 18 05:55:10 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>147758591</id>
+  <body><![CDATA[Thank you so much, Joe! That means a lot.]]></body>
+  
+  <user>
+    <id>520753</id>
+    <name>Kim</name>
+    <display_name>Kim</display_name>
+
+    <location>Essex Junction, VT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/520753-kim]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1402541317p3/520753.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1402541317p2/520753.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Feb 18 07:55:43 -0800 2016</created_at>
+  <updated_at>Thu Feb 18 07:55:43 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>148904483</id>
+  <body><![CDATA[If it isyour honest experience, then why would a review be offensive to anyone. I enjoy the rawness that honesty brings out and i enjoy being unapologetic about it. I have not read night but this review puts it at the top of my list to read.<br />Thank you for your sense of realness uncut.]]></body>
+  
+  <user>
+    <id>53701323</id>
+    <name>Gwendolyn</name>
+    <display_name>Gwendolyn Graves</display_name>
+
+    <location>Dallas, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/53701323-gwendolyn-graves]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Mar 13 20:26:28 -0700 2016</created_at>
+  <updated_at>Sun Mar 13 20:26:28 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151479346</id>
+  <body><![CDATA[I actaully liked this book because even though its about the holocaust and the person who wrote this book is an actual survivor,I think that its pretty amazing that he gets to tell the story on how he lived through it all and managed to later write a book and share with everyone in the world how horrible it actaully was]]></body>
+  
+  <user>
+    <id>55698784</id>
+    <name>Kaitlyn</name>
+    <display_name>Kaitlyn Hall</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/55698784-kaitlyn-hall]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1462817096p3/55698784.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1462817096p2/55698784.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue May 10 05:23:11 -0700 2016</created_at>
+  <updated_at>Tue May 10 05:23:11 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>153822719</id>
+  <body><![CDATA[I have alway been fascinated with the holocaust since I was young. I've read Ann Frank I don't know how many times. It amazes me that people could be so cruel and do this to other human beings. Even though I wanted to read this book already, your review put it at the top of my list]]></body>
+  
+  <user>
+    <id>57289446</id>
+    <name>Erikka</name>
+    <display_name>Erikka</display_name>
+
+    <location>Doylestown, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/57289446-erikka]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1467748512p3/57289446.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1467748512p2/57289446.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jul 04 20:24:40 -0700 2016</created_at>
+  <updated_at>Mon Jul 04 20:24:40 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157622068</id>
+  <body><![CDATA[Excellent review (foul fucking ]]></body>
+  
+  <user>
+    <id>9552645</id>
+    <name>Beth</name>
+    <display_name>Beth Lee</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9552645-beth-lee]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1477548475p3/9552645.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1477548475p2/9552645.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Oct 05 07:21:52 -0700 2016</created_at>
+  <updated_at>Wed Oct 05 07:21:52 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>160667890</id>
+  <body><![CDATA[Supremely human and heartfelt review. I am too afraid to read the book and your words will suffice, for now. You used the 'right' words. Thank you.]]></body>
+  
+  <user>
+    <id>27630186</id>
+    <name>Terri</name>
+    <display_name>Terri</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27630186-terri]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1389588565p3/27630186.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1389588565p2/27630186.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 27 19:17:43 -0800 2016</created_at>
+  <updated_at>Tue Dec 27 19:17:43 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>160875778</id>
+  <body><![CDATA[I think that you will meet other survivors in your life. My great grandpa was alive then. You would pause after every sentence, me too.]]></body>
+  
+  <user>
+    <id>63312942</id>
+    <name>Samuel</name>
+    <display_name>Samuel Mason</display_name>
+
+    <location>Kewanee, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/63312942-samuel-mason]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483304905p3/63312942.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483304905p2/63312942.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 01 13:11:25 -0800 2017</created_at>
+  <updated_at>Sun Jan 01 13:11:25 -0800 2017</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/28685186]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/28685186]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

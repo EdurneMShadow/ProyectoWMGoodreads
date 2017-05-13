@@ -1,0 +1,928 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:43:08 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: XADESARQQFAE6M04XFVC
+etag: W/"a723509785652b4b527eeda998dfaf8e"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.327082
+set-cookie: csid=BAhJIhg3MDAtNzE0OTc5OS0xMTgzMTMxBjoGRVQ%3D--c72a1c9e23dd18dc824c8819b93c76e9879588fa; path=/; expires=Tue, 12 May 2037 13:43:08 -0000, locale=es; path=/, _session_id2=bddf41b87a0b9798509a4128b8af0f70; path=/; expires=Fri, 12 May 2017 19:43:08 -0000; HttpOnly
+content-length: 34993
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=192074507
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>192074507</id>
+    
+  <user>
+    <id>5253785</id>
+    <name>Lyn</name>
+    <display_name>Lyn</display_name>
+
+    <location>Smyrna, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5253785-lyn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1468029774p3/5253785.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1468029774p2/5253785.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">5907</id>
+  <isbn>0618260307</isbn>
+  <isbn13>9780618260300</isbn13>
+  <text_reviews_count type="integer">27659</text_reviews_count>
+  <title>The Hobbit</title>
+  <title_without_series>The Hobbit</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1372847500m/5907.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1372847500s/5907.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/5907.The_Hobbit</link>
+  <num_pages>366</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Houghton Mifflin</publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.24</average_rating>
+  <ratings_count>2152106</ratings_count>
+  <description>&lt;i&gt;In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a hobbit-hole, and that means comfort.&lt;br /&gt;&lt;br /&gt;&lt;/i&gt;Written for J.R.R. Tolkien’s own children, &lt;i&gt;The Hobbit&lt;/i&gt; met with instant critical acclaim when it was first published in 1937. Now recognized as a timeless classic, this introduction to the hobbit Bilbo Baggins, the wizard Gandalf, Gollum, and the spectacular world of Middle-earth recounts of the adventures of a reluctant hero, a powerful and dangerous ring, and the cruel dragon Smaug the Magnificent. The text in this 372-page paperback edition is based on that first published in Great Britain by Collins Modern Classics (1998), and includes a note on the text by Douglas A. Anderson (2001). Unforgettable!&lt;br /&gt;</description>
+<authors>
+<author>
+<id>656983</id>
+<name>J.R.R. Tolkien</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1434625177p5/656983.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1434625177p2/656983.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
+<average_rating>4.31</average_rating>
+<ratings_count>6140649</ratings_count>
+<text_reviews_count>91666</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">904357636</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Jun 21 08:42:22 -0700 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">898321795</id>
+          <old_status>read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Mon Jun 15 19:22:32 -0700 2015</updated_at>
+          <ratings_count>7</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>106</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Jun 15 00:00:00 -0700 2015</started_at>
+  <read_at>Sun Jun 21 00:00:00 -0700 2015</read_at>
+  <date_added>Sat Jul 30 02:16:43 -0700 2011</date_added>
+  <date_updated>Sat Nov 05 04:54:52 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[“In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a hobbit-hole, and that means comfort.”<br /><br />So begins J.R.R. Tolkien’s love letter to fantas...]]>
+  </body>
+
+  
+
+  <comments_count>35</comments_count>
+    <comments start="1" end="35" total="35">
+        <comment>
+  <id>56009133</id>
+  <body><![CDATA[I need to read this again as the movie is coming out.]]></body>
+  
+  <created_at>Sat Aug 11 12:47:55 -0700 2012</created_at>
+  <updated_at>Sat Aug 11 12:47:55 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>56010531</id>
+  <body><![CDATA[That's true, Alice. The trailer looks good.]]></body>
+  
+  <user>
+    <id>5253785</id>
+    <name>Lyn</name>
+    <display_name>Lyn</display_name>
+
+    <location>Smyrna, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5253785-lyn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1468029774p3/5253785.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1468029774p2/5253785.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 11 13:13:03 -0700 2012</created_at>
+  <updated_at>Sat Aug 11 13:13:03 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>56145839</id>
+  <body><![CDATA[I agree that this is a perfect book all by itself. It really has a different tone than the Rings trilogy.]]></body>
+  
+  <user>
+    <id>2239986</id>
+    <name>Sally</name>
+    <display_name>Sally</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2239986-sally]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 13 14:09:04 -0700 2012</created_at>
+  <updated_at>Mon Aug 13 14:09:04 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>61829549</id>
+  <body><![CDATA[Interesting note .re definition "literature"/fantasy/sci-fi. Makes me wonder how Tolkein was originally sold/marketed.]]></body>
+  
+  <user>
+    <id>12771092</id>
+    <name>D.C.</name>
+    <display_name>D.C. Bourone</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12771092-d-c-bourone]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 16 08:53:43 -0800 2012</created_at>
+  <updated_at>Fri Nov 16 08:53:43 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>61963350</id>
+  <body><![CDATA[Way back in the mid-70's, when the high school trend was to produce Quarterly Courses, I evolved a Literature of Fantasy Class and The Hobbit was the star! Alice in Wonderland, A Princess of Mars, two books of short stories..... Can't remember what else.....<br /><br />If you've seen the new BBC series Sherlock, Watson plays Bilbo and Sherlock (Benedict Cumberbund or something like that) is the voice of Smaug. He's also the villain in the next Star Trekk movie.]]></body>
+  
+  <user>
+    <id>3753959</id>
+    <name>Tony</name>
+    <display_name>Tony</display_name>
+
+    <location>Emmaus, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3753959-tony]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1282698091p3/3753959.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1282698091p2/3753959.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 18 14:08:52 -0800 2012</created_at>
+  <updated_at>Sun Nov 18 14:08:52 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>61964503</id>
+  <body><![CDATA[I think you would have been a cool English teacher, Tony.]]></body>
+  
+  <user>
+    <id>5253785</id>
+    <name>Lyn</name>
+    <display_name>Lyn</display_name>
+
+    <location>Smyrna, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5253785-lyn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1468029774p3/5253785.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1468029774p2/5253785.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 18 14:26:11 -0800 2012</created_at>
+  <updated_at>Sun Nov 18 14:26:11 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>61980034</id>
+  <body><![CDATA[My best evaluation was Fair, Firm, and Consistant, but what I got off on most was making people laugh - students, teachers, parents, adnimistrators. I love retirement, but when teaching I hade probably thousands of interactions a day - now WAY down.]]></body>
+  
+  <user>
+    <id>3753959</id>
+    <name>Tony</name>
+    <display_name>Tony</display_name>
+
+    <location>Emmaus, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3753959-tony]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1282698091p3/3753959.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1282698091p2/3753959.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 18 18:26:12 -0800 2012</created_at>
+  <updated_at>Sun Nov 18 18:26:12 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>61983483</id>
+  <body><![CDATA[Ha! You know, I get a lot of very nice comments for being a veteran, thanking me for my service, let me now thank you or your service to our community, an extended community to be sure, but teachers do a great deal of the unheralded heavy lifting to make us what we are. Thank you.]]></body>
+  
+  <user>
+    <id>5253785</id>
+    <name>Lyn</name>
+    <display_name>Lyn</display_name>
+
+    <location>Smyrna, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5253785-lyn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1468029774p3/5253785.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1468029774p2/5253785.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 18 19:18:51 -0800 2012</created_at>
+  <updated_at>Sun Nov 18 19:18:51 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>117272495</id>
+  <body><![CDATA[Great picture Lyn. I've recently seen the movies and the dragon screen time made all the extra story padding worthwhile. Have you seen them?]]></body>
+  
+  <user>
+    <id>4859943</id>
+    <name>Lynn</name>
+    <display_name>Lynn</display_name>
+
+    <location>Durham, NC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4859943-lynn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1381935186p3/4859943.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1381935186p2/4859943.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Apr 06 06:11:00 -0700 2015</created_at>
+  <updated_at>Mon Apr 06 06:11:00 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>117344850</id>
+  <body><![CDATA[Nice picture! I heard that the movies weren't as good as LOTR, being much expanded and based on other Tolkien sources(primarily the appendices in LOTR). I thought that The Hobbit was better literature: MUCH simpler, more direct and way funnier. Not that much to grin about in LOTR! LOTR was more moving, however, despite the over-abundance of hi-falutin' oratory and grim, grim, grim storytelling.]]></body>
+  
+  <user>
+    <id>5295008</id>
+    <name>Chris</name>
+    <display_name>Chris Gager</display_name>
+
+    <location>Phippsburg, ME</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5295008-chris-gager]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1307204529p3/5295008.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1307204529p2/5295008.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Apr 07 11:40:47 -0700 2015</created_at>
+  <updated_at>Tue Apr 07 11:40:47 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>130396837</id>
+  <body><![CDATA[and so begins my 2015 return visit to Middle Earth]]></body>
+  
+  <user>
+    <id>5253785</id>
+    <name>Lyn</name>
+    <display_name>Lyn</display_name>
+
+    <location>Smyrna, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5253785-lyn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1468029774p3/5253785.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1468029774p2/5253785.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 15 19:23:15 -0700 2015</created_at>
+  <updated_at>Mon Jun 15 19:23:15 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>130406532</id>
+  <body><![CDATA[Enjoy your visit. A classic that should be required reading for one and all.]]></body>
+  
+  <user>
+    <id>43011227</id>
+    <name>Peter</name>
+    <display_name>Peter</display_name>
+
+    <location><![CDATA[Edinburgh, x1, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/43011227-peter]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1456273229p3/43011227.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1456273229p2/43011227.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jun 16 00:36:24 -0700 2015</created_at>
+  <updated_at>Tue Jun 16 00:36:24 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>130456762</id>
+  <body><![CDATA[I can't bear the thought of this nice, concise little novel being stretched into 3 movies totaling 9 hours (?). <br />Great review Lyn, makes me want to reread it.]]></body>
+  
+  <user>
+    <id>2457095</id>
+    <name>Apatt</name>
+    <display_name>Apatt</display_name>
+
+    <location>Bangkok, Thailand</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2457095-apatt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1349239948p3/2457095.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1349239948p2/2457095.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jun 16 23:02:57 -0700 2015</created_at>
+  <updated_at>Tue Jun 16 23:02:57 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>130456925</id>
+  <body><![CDATA[<i>Apatt wrote: "I can't bear the thought of this nice, concise little novel being stretched into 3 movies totaling 9 hours (?)."</i><br /><br />I've only seen the first. It was padded out with some material from other books. <br /><br />Enjoy your visit, Lyn.]]></body>
+  
+  <user>
+    <id>1199525</id>
+    <name>Cecily</name>
+    <display_name>Cecily</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1199525-cecily]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480285828p3/1199525.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480285828p2/1199525.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jun 16 23:11:30 -0700 2015</created_at>
+  <updated_at>Tue Jun 16 23:11:30 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>130456957</id>
+  <body><![CDATA[<i>Cecily wrote: "Apatt wrote: "I can't bear the thought of this nice, concise little novel being stretched into 3 movies totaling 9 hours (?)."<br /><br />I've only seen the first. It was padded out with some material from o..."</i><br /><br />Reminds me of Linda Evans (Dynasty) and her padded shoulders.]]></body>
+  
+  <user>
+    <id>2457095</id>
+    <name>Apatt</name>
+    <display_name>Apatt</display_name>
+
+    <location>Bangkok, Thailand</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2457095-apatt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1349239948p3/2457095.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1349239948p2/2457095.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jun 16 23:13:11 -0700 2015</created_at>
+  <updated_at>Tue Jun 16 23:13:11 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>130459919</id>
+  <body><![CDATA[Thanks, Peter, Apatt and Cecily!]]></body>
+  
+  <user>
+    <id>5253785</id>
+    <name>Lyn</name>
+    <display_name>Lyn</display_name>
+
+    <location>Smyrna, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5253785-lyn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1468029774p3/5253785.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1468029774p2/5253785.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jun 17 02:14:51 -0700 2015</created_at>
+  <updated_at>Wed Jun 17 02:14:51 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>130471250</id>
+  <body><![CDATA[<i>Apatt wrote: "Cecily wrote: "Apatt wrote: "I can't bear the thought of this nice, concise little novel being stretched into 3 movies totaling 9 hours (?)."<br /><br />I've only seen the first. It was padded out with some ..."</i><br /><br />Hah! Linda could've played linebacker with those things...]]></body>
+  
+  <user>
+    <id>5295008</id>
+    <name>Chris</name>
+    <display_name>Chris Gager</display_name>
+
+    <location>Phippsburg, ME</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5295008-chris-gager]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1307204529p3/5295008.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1307204529p2/5295008.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jun 17 08:44:35 -0700 2015</created_at>
+  <updated_at>Wed Jun 17 08:44:35 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>130632425</id>
+  <body><![CDATA[I reread this as a bedtime story for my daughter a few years back, and I did wonder how distorted a 3-part movie expansion would be. I thought the Hobbit films were much less powerful than the LOTR films, even though the visuals were great. I'm still happy that Tolkien's work has recaptured the mainstream attention, which I really felt when I took my family to NZ and visited the swarms of tourists at Hobbiton in Matamata. Even brought back 3 craft beers from the Southfarthing :-)]]></body>
+  
+  <user>
+    <id>9456990</id>
+    <name>Stuart</name>
+    <display_name>Stuart</display_name>
+
+    <location>Tokyo, Japan</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9456990-stuart]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1452041473p3/9456990.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1452041473p2/9456990.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jun 20 17:47:36 -0700 2015</created_at>
+  <updated_at>Sat Jun 20 17:47:36 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>130632592</id>
+  <body><![CDATA[<i>Stuart wrote: "I reread this as a bedtime story for my daughter a few years back, and I did wonder how distorted a 3-part movie expansion would be. I thought the Hobbit films were much less powerful than the LOTR..."</i><br /><br />Stretching the little book so far seems like a vulgar money-grab to me. I tried but could not help prejudging the films and so got very little enjoyment out of them (well, I haven't seen part 3 yet!).]]></body>
+  
+  <user>
+    <id>2457095</id>
+    <name>Apatt</name>
+    <display_name>Apatt</display_name>
+
+    <location>Bangkok, Thailand</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2457095-apatt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1349239948p3/2457095.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1349239948p2/2457095.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jun 20 17:53:39 -0700 2015</created_at>
+  <updated_at>Sat Jun 20 17:53:39 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>130635289</id>
+  <body><![CDATA[Thanks guys, I am going to incorporate the films into my review, should publish tomorrow. I read this back in HS and then just finished the re-visit, so more than 30 years in between, with a lot of films, lots to consider.]]></body>
+  
+  <user>
+    <id>5253785</id>
+    <name>Lyn</name>
+    <display_name>Lyn</display_name>
+
+    <location>Smyrna, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5253785-lyn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1468029774p3/5253785.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1468029774p2/5253785.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jun 20 19:13:01 -0700 2015</created_at>
+  <updated_at>Sat Jun 20 19:13:01 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>130655756</id>
+  <body><![CDATA[Great review. If it's any indication as to how much I love the series, I have read the Hobbit 3 times, the trilogy 5 times and the Silmarillion 2 times...Lol. I think I am a fan.]]></body>
+  
+  <user>
+    <id>21372390</id>
+    <name>Wayne</name>
+    <display_name>Wayne Barrett</display_name>
+
+    <location>Clearwater, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/21372390-wayne-barrett]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442988595p3/21372390.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442988595p2/21372390.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jun 21 09:15:52 -0700 2015</created_at>
+  <updated_at>Sun Jun 21 09:15:52 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>130656221</id>
+  <body><![CDATA[Wow, that's awesome, Wayne, I'm going to reread the others as well]]></body>
+  
+  <user>
+    <id>5253785</id>
+    <name>Lyn</name>
+    <display_name>Lyn</display_name>
+
+    <location>Smyrna, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5253785-lyn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1468029774p3/5253785.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1468029774p2/5253785.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jun 21 09:27:37 -0700 2015</created_at>
+  <updated_at>Sun Jun 21 09:27:37 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>130664968</id>
+  <body><![CDATA[I loved this book but could never get into Lord of the Rings.]]></body>
+  
+  <user>
+    <id>1237196</id>
+    <name>Petra Eggs</name>
+    <display_name>Petra Eggs</display_name>
+
+    <location><![CDATA[Cuba Cigar Factory, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1237196-petra-eggs]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487547378p3/1237196.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487547378p2/1237196.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jun 21 13:11:51 -0700 2015</created_at>
+  <updated_at>Sun Jun 21 13:11:51 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>130665312</id>
+  <body><![CDATA[Thanks, Petra, I'm going to give it a try]]></body>
+  
+  <user>
+    <id>5253785</id>
+    <name>Lyn</name>
+    <display_name>Lyn</display_name>
+
+    <location>Smyrna, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5253785-lyn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1468029774p3/5253785.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1468029774p2/5253785.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jun 21 13:21:39 -0700 2015</created_at>
+  <updated_at>Sun Jun 21 13:21:39 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>130857510</id>
+  <body><![CDATA[Huston is <i>the</i> voice of Gandalf for me, too. Very nice review, Lyn!]]></body>
+  
+  <user>
+    <id>1742824</id>
+    <name>Jason</name>
+    <display_name>Jason Koivu</display_name>
+
+    <location>Lemoore, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1742824-jason-koivu]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1464843865p3/1742824.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1464843865p2/1742824.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 25 13:13:35 -0700 2015</created_at>
+  <updated_at>Thu Jun 25 13:13:35 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>131201883</id>
+  <body><![CDATA[Fantastic review, Lyn. I don't normally re-read books for the same reason as you, but this one is definitely one of the exceptions.]]></body>
+  
+  <user>
+    <id>26681101</id>
+    <name>Markus</name>
+    <display_name>Markus</display_name>
+
+    <location>Norway</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/26681101-markus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1421952301p3/26681101.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1421952301p2/26681101.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 02 15:57:06 -0700 2015</created_at>
+  <updated_at>Thu Jul 02 15:57:06 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>131202863</id>
+  <body><![CDATA[Thanks, Marcus, and I may re-read this one again.]]></body>
+  
+  <user>
+    <id>5253785</id>
+    <name>Lyn</name>
+    <display_name>Lyn</display_name>
+
+    <location>Smyrna, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5253785-lyn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1468029774p3/5253785.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1468029774p2/5253785.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 02 16:21:32 -0700 2015</created_at>
+  <updated_at>Thu Jul 02 16:21:32 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>137480584</id>
+  <body><![CDATA[We actually studied the Hobbit in high school, which was cool. However I know what you mean about having labels attached to books. Fortunately my English teacher knew the difference between literary science fiction and what he termed Airport Trash. He was more than happy to write a report on Kurt Vonnegut.]]></body>
+  
+  <user>
+    <id>5856247</id>
+    <name>David</name>
+    <display_name>David Sarkies</display_name>
+
+    <location><![CDATA[Melbourne, Victoria, Australia]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5856247-david-sarkies]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1470027282p3/5856247.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1470027282p2/5856247.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jul 26 02:35:00 -0700 2015</created_at>
+  <updated_at>Sun Jul 26 02:35:00 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>137484093</id>
+  <body><![CDATA[You had a cool teacher, David, I like that term airport trash]]></body>
+  
+  <user>
+    <id>5253785</id>
+    <name>Lyn</name>
+    <display_name>Lyn</display_name>
+
+    <location>Smyrna, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5253785-lyn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1468029774p3/5253785.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1468029774p2/5253785.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jul 26 06:00:38 -0700 2015</created_at>
+  <updated_at>Sun Jul 26 06:00:38 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>156928579</id>
+  <body><![CDATA[Great review! The Hobbit is one of my alltime favourites. I read it maybe tree or four times, which is a lot for me, as I don't re-read a lot anymore, same as you. So many books, so little time. But, exceptions have to be made. I just ordered myslef an anniversary pocket hardcover edition of The Hobbit. It will get a special place on my bookshelf, next to LOTR....]]></body>
+  
+  <user>
+    <id>978552</id>
+    <name>Cathy (cathepsut)</name>
+    <display_name>Cathy (cathepsut)</display_name>
+
+    <location>Germany</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/978552-cathy-cathepsut]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493966035p3/978552.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493966035p2/978552.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Sep 17 06:26:04 -0700 2016</created_at>
+  <updated_at>Sat Sep 17 06:26:04 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158789146</id>
+  <body><![CDATA[Great review, Lyn !]]></body>
+  
+  <user>
+    <id>21432277</id>
+    <name>Supratim</name>
+    <display_name>Supratim</display_name>
+
+    <location>Bangalore, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/21432277-supratim]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488566505p3/21432277.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488566505p2/21432277.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Nov 05 05:08:33 -0700 2016</created_at>
+  <updated_at>Sat Nov 05 05:08:33 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158791282</id>
+  <body><![CDATA[I enjoyed reading your review. It sums up my feelings and perspectives on the work perfectly!]]></body>
+  
+  <user>
+    <id>54784560</id>
+    <name>Dawn</name>
+    <display_name>Dawn</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/54784560-dawn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478015523p3/54784560.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478015523p2/54784560.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Nov 05 07:01:31 -0700 2016</created_at>
+  <updated_at>Sat Nov 05 07:01:31 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158799273</id>
+  <body><![CDATA[Thanks!]]></body>
+  
+  <user>
+    <id>5253785</id>
+    <name>Lyn</name>
+    <display_name>Lyn</display_name>
+
+    <location>Smyrna, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5253785-lyn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1468029774p3/5253785.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1468029774p2/5253785.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Nov 05 11:56:39 -0700 2016</created_at>
+  <updated_at>Sat Nov 05 11:56:39 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158879337</id>
+  <body><![CDATA[Chris wrote:<br /><br /><i>Not that much to grin about in LOTR (which) was more moving, however, despite the over-abundance of hi-falutin' oratory and grim, grim, grim storytelling. </i><br /><br />I may have some Hobbit in my distant ancestry - so much do I like the civilized and peaceful parts of The Hobbit and LOTR. Even on the trail our intrepids have their peaceful moments - In <i>Fellowship of the Ring</i> (the film) the writers take some "liberties" with the details. <br /><br />Was it Merry (or Pippen?) who said, as they trooped over the pass, something like:<br /><br />"Let's stop and eat". <br /><br />Aragorn said (glancing behind), "we've HAD Breakfast":<br /><br />"What about Second Breakfast? Elevenses? Luncheon? Afternoon Tea? Dinner? Supper?" <br /><br />"I don't think he knows about 2nd Breakfast, Pip" <br /><br />(I guess it was Pippen after all)<br /><br />About hobbit meals Wikipedia cites the Prologue in the Fellowship:<br /><br /> "And laugh they did, and eat, and drink, often and heartily, being fond of simple jests at all times, and of six meals a day (when they could get them)."<br /><br />What's an extra meal among friends?]]></body>
+  
+  <user>
+    <id>1237540</id>
+    <name>Jim</name>
+    <display_name>Jim</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1237540-jim]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 07 14:45:12 -0800 2016</created_at>
+  <updated_at>Mon Nov 07 14:45:12 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158879541</id>
+  <body><![CDATA[Ha! great comment, thank you Jim]]></body>
+  
+  <user>
+    <id>5253785</id>
+    <name>Lyn</name>
+    <display_name>Lyn</display_name>
+
+    <location>Smyrna, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5253785-lyn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1468029774p3/5253785.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1468029774p2/5253785.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 07 14:51:49 -0800 2016</created_at>
+  <updated_at>Mon Nov 07 14:51:49 -0800 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/192074507]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/192074507]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

@@ -1,0 +1,259 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:49:55 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: 1GSPXHPB96HJWCMGXW26
+etag: W/"ed444a67551da89850d74abf355860da"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.484750
+set-cookie: csid=BAhJIhgyOTktNjE3MTI3Ni0zMjQxMzg5BjoGRVQ%3D--04ed7fd992528af474fae200feea10d3e21c3b28; path=/; expires=Tue, 12 May 2037 13:49:55 -0000, locale=es; path=/, _session_id2=f91b4d953281c0ed9a166e718a76e5a3; path=/; expires=Fri, 12 May 2017 19:49:55 -0000; HttpOnly
+content-length: 9600
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=971092827
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>971092827</id>
+    
+  <user>
+    <id>22313662</id>
+    <name>Laz</name>
+    <display_name>Laz</display_name>
+
+    <location>Athens, Greece</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22313662-laz]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1459126457p3/22313662.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1459126457p2/22313662.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">968</id>
+  <isbn>0307277674</isbn>
+  <isbn13>9780307277671</isbn13>
+  <text_reviews_count type="integer">32869</text_reviews_count>
+  <title>The Da Vinci Code (Robert Langdon, #2)</title>
+  <title_without_series>The Da Vinci Code</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1303252999m/968.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1303252999s/968.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/968.The_Da_Vinci_Code</link>
+  <num_pages>481</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Anchor</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.78</average_rating>
+  <ratings_count>1531664</ratings_count>
+  <description>An ingenious code hidden in the works of Leonardo da Vinci. A desperate race through the cathedrals and castles of Europe. An astonishing truth concealed for centuries . . . unveiled at last.&lt;br /&gt;&lt;br /&gt;While in Paris, Harvard symbologist Robert Langdon is awakened by a phone call in the dead of the night. The elderly curator of the Louvre has been murdered inside the museum, his body covered in baffling symbols. As Langdon and gifted French cryptologist Sophie Neveu sort through the bizarre riddles, they are stunned to discover a trail of clues hidden in the works of Leonardo da Vinci—clues visible for all to see and yet ingeniously disguised by the painter.&lt;br /&gt;&lt;br /&gt;Even more startling, the late curator was involved in the Priory of Sion—a secret society whose members included Sir Isaac Newton, Victor Hugo, and Da Vinci—and he guarded a breathtaking historical secret. Unless Langdon and Neveu can decipher the labyrinthine puzzle—while avoiding the faceless adversary who shadows their every move—the explosive, ancient truth will be lost forever.</description>
+<authors>
+<author>
+<id>630</id>
+<name>Dan Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p5/630.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p2/630.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/630.Dan_Brown]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>5211301</ratings_count>
+<text_reviews_count>138647</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">71552261</id>
+          <page type="integer">346</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Jul 20 09:07:01 -0700 2015</created_at>
+          <updated_at type="datetime">Mon Jul 20 09:07:01 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">10</ratings_count>
+          <percent type="integer">70</percent>
+          <work_id type="integer">2982101</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">940051232</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Tue Jul 21 06:53:52 -0700 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">936950031</id>
+          <old_status>to-read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Sat Jul 18 16:41:54 -0700 2015</updated_at>
+          <ratings_count>16</ratings_count>
+          <comments_count>2</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">465721332</id>
+          <old_status></old_status>
+          <status>to-read</status>
+          <updated_at type="datetime">Wed Jun 18 13:42:10 -0700 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>59</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="thriller" exclusive="false" review_shelf_id="1039399469" sortable="false" />
+    <shelf name="mystery" exclusive="false" review_shelf_id="1039399435" sortable="false" />
+    <shelf name="fiction" exclusive="false" review_shelf_id="1039399546" sortable="false" />
+    <shelf name="adventure" exclusive="false" review_shelf_id="1039399632" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Jul 19 00:00:00 -0700 2015</started_at>
+  <read_at>Wed Jul 22 16:14:51 -0700 2015</read_at>
+  <date_added>Wed Jun 18 13:42:10 -0700 2014</date_added>
+  <date_updated>Wed Jul 22 14:50:07 -0700 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I am utterly stupefied by this masterpiece and Dan Brown's ability to blur the lines between the real and the fictional, as he did in the first book in the Robert Langdon series. It's a mouthwatering book, always keeping you on the edge, from page one up until the last page I could hear my own he...]]>
+  </body>
+
+  
+
+  <comments_count>4</comments_count>
+    <comments start="1" end="4" total="4">
+        <comment>
+  <id>137202956</id>
+  <body><![CDATA[One of the best thrillers available :)]]></body>
+  
+  <user>
+    <id>32002534</id>
+    <name>Gautam</name>
+    <display_name>Gautam</display_name>
+
+    <location>India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32002534-gautam]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1439471369p3/32002534.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1439471369p2/32002534.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 21 06:59:47 -0700 2015</created_at>
+  <updated_at>Tue Jul 21 06:59:47 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>137204011</id>
+  <body><![CDATA[<i>Gautam wrote: "One of the best thrillers available :)"</i><br /><br />yes, indeed!]]></body>
+  
+  <user>
+    <id>22313662</id>
+    <name>Laz</name>
+    <display_name>Laz</display_name>
+
+    <location>Athens, Greece</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22313662-laz]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1459126457p3/22313662.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1459126457p2/22313662.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 21 07:23:41 -0700 2015</created_at>
+  <updated_at>Tue Jul 21 07:23:41 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>142681805</id>
+  <body><![CDATA[Love your review Laz!]]></body>
+  
+  <user>
+    <id>34207574</id>
+    <name>Miquel</name>
+    <display_name>Miquel Reina</display_name>
+
+    <location>Barcelona, Spain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34207574-miquel-reina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1472878884p3/34207574.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1472878884p2/34207574.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 11 09:58:29 -0800 2015</created_at>
+  <updated_at>Wed Nov 11 09:58:29 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>146553691</id>
+  <body><![CDATA[Did someone pay you for qui writing such a review]]></body>
+  
+  <user>
+    <id>39122035</id>
+    <name>Louis</name>
+    <display_name>Louis</display_name>
+
+    <location>Toulouse, B3, France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/39122035-louis]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 24 19:38:50 -0800 2016</created_at>
+  <updated_at>Sun Jan 24 19:38:50 -0800 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/971092827]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/971092827]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

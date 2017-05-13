@@ -1,0 +1,271 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:51:04 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: 5P4MRVG4KHYZ09BQJJ5M
+etag: W/"ac966eefcd1468fc11677556bf7d31bd"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.645491
+set-cookie: csid=BAhJIhg1MjAtNDE4NDkxMC0wMjQ1NTUzBjoGRVQ%3D--f92162eab00c22b66c8a45837ce2ba293c87f4c6; path=/; expires=Tue, 12 May 2037 13:51:03 -0000, locale=es; path=/, _session_id2=5c16c4e168916f78ffce6e304cfe4bf0; path=/; expires=Fri, 12 May 2017 19:51:04 -0000; HttpOnly
+content-length: 10941
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=36036760
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>36036760</id>
+    
+  <user>
+    <id>1310688</id>
+    <name>Kristi</name>
+    <display_name>Kristi</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1310688-kristi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1440252592p3/1310688.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1440252592p2/1310688.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">4374400</id>
+  <isbn>0525421033</isbn>
+  <isbn13>9780525421030</isbn13>
+  <text_reviews_count type="integer">26207</text_reviews_count>
+  <title>If I Stay (If I Stay, #1)</title>
+  <title_without_series>If I Stay</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1347462970m/4374400.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1347462970s/4374400.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/4374400-if-i-stay</link>
+  <num_pages>201</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.96</average_rating>
+  <ratings_count>549628</ratings_count>
+  <description>&lt;i&gt;Librarian note: an alternate cover for this edition can be found &lt;a href="https://www.goodreads.com/book/show/21570677-if-i-stay" rel="nofollow"&gt;here&lt;/a&gt;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Just listen, Adam says with a voice that sounds like shrapnel.&lt;br /&gt;&lt;br /&gt;I open my eyes wide now.&lt;br /&gt;I sit up as much as I can.&lt;br /&gt;And I listen.&lt;br /&gt;&lt;br /&gt;Stay, he says.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Choices. Seventeen-year-old Mia is faced with some tough ones: Stay true to her first love—music—even if it means losing her boyfriend and leaving her family and friends behind?&lt;br /&gt;&lt;br /&gt;Then one February morning Mia goes for a drive with her family, and in an instant, everything changes. Suddenly, all the choices are gone, except one. And it's the only one that matters.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;If I Stay&lt;/i&gt; is a heartachingly beautiful book about the power of love, the true meaning of family, and the choices we all make.</description>
+<authors>
+<author>
+<id>295178</id>
+<name>Gayle Forman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1472502468p5/295178.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1472502468p2/295178.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/295178.Gayle_Forman]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>966486</ratings_count>
+<text_reviews_count>78890</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1652233538</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Thu Jan 05 21:15:51 -0800 2017</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>55</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="books-i-own" exclusive="false" review_shelf_id="35736038" sortable="true" />
+    <shelf name="own-arc" exclusive="false" review_shelf_id="21092391" sortable="false" />
+    <shelf name="signed-books" exclusive="false" review_shelf_id="110335079" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 25 00:00:00 -0700 2009</read_at>
+  <date_added>Thu Oct 23 12:01:14 -0700 2008</date_added>
+  <date_updated>Tue Dec 17 12:09:31 -0800 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Although I’d read the synopsis multiple times, I never really “got” what the story was until I read the first chapter when it all happens. When you find out Mia is making the choice as her body lays waiting in the ICU. She becomes an invisible observer, watching and narrating her tragic ordeal fr...]]>
+  </body>
+
+  
+
+  <comments_count>6</comments_count>
+    <comments start="1" end="6" total="6">
+        <comment>
+  <id>31029757</id>
+  <body><![CDATA[Okay I am glad you put you read the synopsis multiple times because that is what I have done as well and I am still on the fence about purchasing this book. Since it has a bit over a 4 star rating I am even more curious as it must be good... any suggestions or words of persuasion?]]></body>
+  
+  <user>
+    <id>5273538</id>
+    <name>JoJo - JJJ (Jo Anna)</name>
+    <display_name>JoJo - JJJ (Jo Anna) Janesko</display_name>
+
+    <location>Overland Park, KS</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5273538-jojo---jjj-jo-anna-janesko]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1389293596p3/5273538.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1389293596p2/5273538.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri May 27 09:20:49 -0700 2011</created_at>
+  <updated_at>Fri May 27 09:20:49 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31111871</id>
+  <body><![CDATA[<i>Jojo wrote: "Okay I am glad you put you read the synopsis multiple times because that is what I have done as well and I am still on the fence about purchasing this book. Since it has a bit over a 4 star rating..."</i><br /><br />Read it!]]></body>
+  
+  <user>
+    <id>1310688</id>
+    <name>Kristi</name>
+    <display_name>Kristi</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1310688-kristi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1440252592p3/1310688.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1440252592p2/1310688.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 29 07:13:23 -0700 2011</created_at>
+  <updated_at>Sun May 29 07:13:23 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>87826380</id>
+  <body><![CDATA[I absolutely loved this book its was moving and well written definitely worth buying but im curious how cold you nit shed a tear until the end of the book i just died and wanted to cry after reading and while reading it. Maybe its just me but i like your comment slash review i have to agree with it and i have to say besides the part that had to do with her grandfather i also enjoyed reading when adam kept trying to find a way to get in there and see her]]></body>
+  
+  <user>
+    <id>25865443</id>
+    <name>Lauren</name>
+    <display_name>Lauren Botelho</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25865443-lauren-botelho]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Dec 01 11:42:52 -0800 2013</created_at>
+  <updated_at>Sun Dec 01 11:42:52 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>91904219</id>
+  <body><![CDATA[How did you get the time for this cause I have kids and this is my first time today]]></body>
+  
+  <user>
+    <id>28109188</id>
+    <name>Yasmeen Scott</name>
+    <display_name>Yasmeen Scott</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/28109188-yasmeen-scott]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 01 09:25:55 -0800 2014</created_at>
+  <updated_at>Sat Feb 01 09:25:55 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109122702</id>
+  <body><![CDATA[I totally agree. This book is truly incredible. I also didn't understand the book, but once you start reading you 1. can't stop and 2. fall in love with it. I loved every character (which is rare for me when I read books) and I loved every page. There wasn't anything in this book that happened without reason. Forman made sure that everything she wrote had meaning and importance. And she succeeded in doing this. She did an incredible job writing this book.]]></body>
+  
+  <user>
+    <id>33847914</id>
+    <name>Brynn</name>
+    <display_name>Brynn Lautenbacher</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/33847914-brynn-lautenbacher]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 09 09:11:59 -0800 2014</created_at>
+  <updated_at>Sun Nov 09 09:11:59 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>144096299</id>
+  <body><![CDATA[I agree, the way Forman writes the story can somewhat compensate for the lack of plot. It was a story that I felt magnetized to.]]></body>
+  
+  <user>
+    <id>47847213</id>
+    <name>Damaris</name>
+    <display_name>Damaris  (C)</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/47847213-damaris-c]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1445466077p3/47847213.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1445466077p2/47847213.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 08 20:45:05 -0800 2015</created_at>
+  <updated_at>Tue Dec 08 20:45:05 -0800 2015</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/36036760]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/36036760]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

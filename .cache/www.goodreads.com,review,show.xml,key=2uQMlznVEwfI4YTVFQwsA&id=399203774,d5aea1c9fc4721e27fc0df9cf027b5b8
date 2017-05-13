@@ -1,0 +1,665 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:56:27 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: N9KPJNTJ1WGMSN9SPNQ5
+etag: W/"b1d06899275babfb6bb2518209345026"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.350729
+set-cookie: csid=BAhJIhg4MTctMzcxNTI5MC02NjQyNDYzBjoGRVQ%3D--064ba780957a3a51db2dbb082228a2111bee191b; path=/; expires=Tue, 12 May 2037 13:56:27 -0000, locale=es; path=/, _session_id2=d8eb2e10290e7576312393d55d5eba1d; path=/; expires=Fri, 12 May 2017 19:56:27 -0000; HttpOnly
+content-length: 25160
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=399203774
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>399203774</id>
+    
+  <user>
+    <id>7668522</id>
+    <name>Carol</name>
+    <display_name>Carol</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7668522-carol]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483228856p3/7668522.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483228856p2/7668522.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">14743396</id>
+  <isbn>9781435136</isbn>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">54</text_reviews_count>
+  <title>Frankenstein</title>
+  <title_without_series>Frankenstein</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1415246981m/14743396.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1415246981s/14743396.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/14743396-frankenstein</link>
+  <num_pages>207</num_pages>
+  <format>Leather Bound</format>
+  <edition_information/>
+  <publisher>Barnes &amp; Noble, Inc.</publisher>
+  <publication_day/>
+  <publication_year>2012</publication_year>
+  <publication_month/>
+  <average_rating>3.75</average_rating>
+  <ratings_count>861298</ratings_count>
+  <description>Mary Shelley’s Frankenstein is the world’s most famous Gothic novel about eccentric scientist Victor Frankenstein, who creates a grotesque creature in an unorthodox scientific experiment. Shelley's work is considered to be the world's first science fiction, with Frankenstein’s monster being a symbol of science gone awry. Shelley’s masterpiece has inspired numerous films, plays and other books. This, the 1831 edition, contains the author’s final revisions.</description>
+<authors>
+<author>
+<id>11139</id>
+<name>Mary Wollstonecraft Shelley</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p5/11139.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p2/11139.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/11139.Mary_Wollstonecraft_Shelley]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>884152</ratings_count>
+<text_reviews_count>20971</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">77387107</id>
+          <page type="integer">160</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sun Oct 04 19:57:17 -0700 2015</created_at>
+          <updated_at type="datetime">Sun Oct 04 19:57:17 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">12</ratings_count>
+          <percent type="integer">77</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">77361033</id>
+          <page type="integer">109</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sun Oct 04 13:21:01 -0700 2015</created_at>
+          <updated_at type="datetime">Sun Oct 04 13:21:53 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">3</ratings_count>
+          <percent type="integer">52</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.a6184bc60bd4f2f110c3b83af723c315</note_uri>
+          <note_updated_at type="datetime">Sun Oct 04 13:21:53 -0700 2015</note_updated_at>
+          <body><![CDATA[Ha! Now feeling sorry for the monster.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">77315452</id>
+          <page type="integer">77</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Oct 03 20:22:54 -0700 2015</created_at>
+          <updated_at type="datetime">Sat Oct 03 20:23:43 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">11</ratings_count>
+          <percent type="integer">37</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.3e5a192fe4d983951f6a713b5300af33</note_uri>
+          <note_updated_at type="datetime">Sat Oct 03 20:23:43 -0700 2015</note_updated_at>
+          <body><![CDATA[Oh the horror of the daemon who has taken his first two victims.......this is great!]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">76948663</id>
+          <page type="integer">30</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Sep 28 12:59:56 -0700 2015</created_at>
+          <updated_at type="datetime">Mon Sep 28 12:59:56 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">7</ratings_count>
+          <percent type="integer">14</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">1028694248</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Mon Oct 05 11:14:09 -0700 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1019758479</id>
+          <old_status>to-read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Sun Sep 27 10:49:04 -0700 2015</updated_at>
+          <ratings_count>3</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>69</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="classics" exclusive="false" review_shelf_id="263037705" sortable="false" />
+    <shelf name="buddy-read-susan" exclusive="false" review_shelf_id="1123985243" sortable="false" />
+    <shelf name="horror" exclusive="false" review_shelf_id="788846813" sortable="false" />
+    <shelf name="favorites" exclusive="false" review_shelf_id="1101579892" sortable="false" />
+    <shelf name="read-2015" exclusive="false" review_shelf_id="1100639840" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Oct 02 00:00:00 -0700 2015</started_at>
+  <read_at>Mon Oct 05 00:00:00 -0700 2015</read_at>
+  <date_added>Fri Aug 24 07:39:51 -0700 2012</date_added>
+  <date_updated>Thu Nov 05 12:32:54 -0800 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Don't understand all the mediocre ratings on this one......... I love the way this nightmarish story begins with ships Captain Robert Walton's letters to his beloved sister in England while trapped amidst a frozen Arctic Ocean. It drew me right in...... Surrounded by thick fog and ice, he tells o...]]>
+  </body>
+
+  
+
+  <comments_count>20</comments_count>
+    <comments start="1" end="20" total="20">
+        <comment>
+  <id>141097504</id>
+  <body><![CDATA[I feel like most people go in expecting some kind of wild monstrous horror. It's really more philosophical, I think. This is one of the most memorable books I've ever read.]]></body>
+  
+  <user>
+    <id>4936267</id>
+    <name>Natalie</name>
+    <display_name>Natalie</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4936267-natalie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1367812911p3/4936267.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1367812911p2/4936267.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 05 17:13:17 -0700 2015</created_at>
+  <updated_at>Mon Oct 05 17:13:17 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141118851</id>
+  <body><![CDATA[I loved this book too. Read it back in high school.]]></body>
+  
+  <user>
+    <id>10864471</id>
+    <name>Theresa</name>
+    <display_name>Theresa</display_name>
+
+    <location>Marysville, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10864471-theresa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1353448215p3/10864471.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1353448215p2/10864471.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 06 07:55:00 -0700 2015</created_at>
+  <updated_at>Tue Oct 06 07:55:00 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141139264</id>
+  <body><![CDATA[<i>Natalie wrote: "I feel like most people go in expecting some kind of wild monstrous horror. It's really more philosophical, I think. This is one of the most memorable books I've ever read."</i><br /><br />I agree Natalie. I just loved it....a new favorite for me!!!]]></body>
+  
+  <user>
+    <id>7668522</id>
+    <name>Carol</name>
+    <display_name>Carol</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7668522-carol]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483228856p3/7668522.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483228856p2/7668522.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 06 16:20:02 -0700 2015</created_at>
+  <updated_at>Tue Oct 06 16:20:02 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141139288</id>
+  <body><![CDATA[<i>Theresa wrote: "I loved this book too. Read it back in high school."</i><br /><br />I can now understand why Theresa!]]></body>
+  
+  <user>
+    <id>7668522</id>
+    <name>Carol</name>
+    <display_name>Carol</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7668522-carol]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483228856p3/7668522.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483228856p2/7668522.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 06 16:20:37 -0700 2015</created_at>
+  <updated_at>Tue Oct 06 16:20:37 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141139557</id>
+  <body><![CDATA[Not my usual genre but I really enjoyed it when I read it as part of a university lit course many years ago.]]></body>
+  
+  <user>
+    <id>4800708</id>
+    <name>Dale</name>
+    <display_name>Dale Harcombe</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4800708-dale-harcombe]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1380932680p3/4800708.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1380932680p2/4800708.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 06 16:28:26 -0700 2015</created_at>
+  <updated_at>Tue Oct 06 16:28:26 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141148183</id>
+  <body><![CDATA[It was an amazing reading experience for me too, Carol. Glad to see those 5 stars...]]></body>
+  
+  <user>
+    <id>37107782</id>
+    <name>Pramod</name>
+    <display_name>Pramod Nair</display_name>
+
+    <location>India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/37107782-pramod-nair]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1425650534p3/37107782.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1425650534p2/37107782.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 06 20:28:38 -0700 2015</created_at>
+  <updated_at>Tue Oct 06 20:28:38 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141177712</id>
+  <body><![CDATA[<i>Pramod wrote: "It was an amazing reading experience for me too, Carol. Glad to see those 5 stars..."</i><br /><br />Thought it was great Pramod! :-)]]></body>
+  
+  <user>
+    <id>7668522</id>
+    <name>Carol</name>
+    <display_name>Carol</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7668522-carol]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483228856p3/7668522.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483228856p2/7668522.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Oct 07 13:42:24 -0700 2015</created_at>
+  <updated_at>Wed Oct 07 13:42:24 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141177737</id>
+  <body><![CDATA[<i>Dale wrote: "Not my usual genre but I really enjoyed it when I read it as part of a university lit course many years ago."</i><br /><br />:-)]]></body>
+  
+  <user>
+    <id>7668522</id>
+    <name>Carol</name>
+    <display_name>Carol</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7668522-carol]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483228856p3/7668522.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483228856p2/7668522.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Oct 07 13:42:46 -0700 2015</created_at>
+  <updated_at>Wed Oct 07 13:42:46 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141181816</id>
+  <body><![CDATA[I <i>still</i> can remember the paragraph when the creature ascends the apartment stairs and enters Victor's bedroom.<br /><br />And, what temerity the ship's Captain has! I <i>love</i> the Creature's argument back to him.<br /><br />Great. Great. Great!]]></body>
+  
+  <user>
+    <id>2456272</id>
+    <name>R.a.</name>
+    <display_name>R.a.</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2456272-r-a]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1481060031p3/2456272.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1481060031p2/2456272.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Oct 07 15:26:22 -0700 2015</created_at>
+  <updated_at>Wed Oct 07 15:26:22 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141182067</id>
+  <body><![CDATA[<i>R.a. wrote: "I still can remember the paragraph when the creature ascends the apartment stairs and enters Victor's bedroom.<br /><br />And, what temerity the ship's Captain has! I love the Creature's argument back to him..."</i><br /><br />Yep! Yep! Yep! :-)]]></body>
+  
+  <user>
+    <id>7668522</id>
+    <name>Carol</name>
+    <display_name>Carol</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7668522-carol]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483228856p3/7668522.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483228856p2/7668522.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Oct 07 15:34:07 -0700 2015</created_at>
+  <updated_at>Wed Oct 07 15:34:07 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141191900</id>
+  <body><![CDATA[Great review Carol. I must make time for this one! Thanks for the recommendation. :)]]></body>
+  
+  <user>
+    <id>7425446</id>
+    <name>❀Julie</name>
+    <display_name>❀Julie</display_name>
+
+    <location>Herndon, VA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7425446-julie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1482894534p3/7425446.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1482894534p2/7425446.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Oct 07 20:10:21 -0700 2015</created_at>
+  <updated_at>Wed Oct 07 20:10:21 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141192055</id>
+  <body><![CDATA[<i>❀Julie wrote: "Great review Carol. I must make time for this one! Thanks for the recommendation. :)"</i><br /><br />Hope you can fit it in sometime Julie. I saw you are almost finished with GONE WITH THE WIND! Such a great book!]]></body>
+  
+  <user>
+    <id>7668522</id>
+    <name>Carol</name>
+    <display_name>Carol</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7668522-carol]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483228856p3/7668522.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483228856p2/7668522.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Oct 07 20:15:06 -0700 2015</created_at>
+  <updated_at>Wed Oct 07 20:15:06 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141192240</id>
+  <body><![CDATA[It's been on my radar before...your review makes me want to read it sooner!<br /><br />Yes I am almost finished with GWTW and now I don't want it to end and am savoring it!! It sure is a great book!]]></body>
+  
+  <user>
+    <id>7425446</id>
+    <name>❀Julie</name>
+    <display_name>❀Julie</display_name>
+
+    <location>Herndon, VA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7425446-julie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1482894534p3/7425446.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1482894534p2/7425446.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Oct 07 20:20:42 -0700 2015</created_at>
+  <updated_at>Wed Oct 07 20:20:42 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141212151</id>
+  <body><![CDATA[Love your review, Carol. I agree completely! :)]]></body>
+  
+  <user>
+    <id>8370501</id>
+    <name>Terri</name>
+    <display_name>Terri Jacobson</display_name>
+
+    <location>Cincinnati, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8370501-terri-jacobson]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493322885p3/8370501.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493322885p2/8370501.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Oct 08 10:08:07 -0700 2015</created_at>
+  <updated_at>Thu Oct 08 10:08:07 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141212392</id>
+  <body><![CDATA[<i>Terri wrote: "Love your review, Carol. I agree completely! :)"</i><br /><br />Thank you Terri!]]></body>
+  
+  <user>
+    <id>7668522</id>
+    <name>Carol</name>
+    <display_name>Carol</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7668522-carol]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483228856p3/7668522.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483228856p2/7668522.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Oct 08 10:14:15 -0700 2015</created_at>
+  <updated_at>Thu Oct 08 10:14:15 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>149069473</id>
+  <body><![CDATA[I completely understand what you mean about the "mediocre reviews". I have just finished the book and sit here seriously thinking about starting over again. I kick myself for never having read it until now.]]></body>
+  
+  <user>
+    <id>48966084</id>
+    <name>Charlie</name>
+    <display_name>Charlie Collins</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/48966084-charlie-collins]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1447458658p3/48966084.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1447458658p2/48966084.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Mar 17 12:31:04 -0700 2016</created_at>
+  <updated_at>Thu Mar 17 12:31:04 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>149076363</id>
+  <body><![CDATA[<i>Charlie wrote: "I completely understand what you mean about the "mediocre reviews". I have just finished the book and sit here seriously thinking about starting over again. I kick myself for never having read it u..."</i><br /><br />I know Charlie, glad you agree, and I felt the same way about waiting so long to read it! :-)]]></body>
+  
+  <user>
+    <id>7668522</id>
+    <name>Carol</name>
+    <display_name>Carol</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7668522-carol]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483228856p3/7668522.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483228856p2/7668522.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Mar 17 15:22:17 -0700 2016</created_at>
+  <updated_at>Thu Mar 17 15:22:17 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>149077904</id>
+  <body><![CDATA[I don't understand the mediocre ratings either! I LOVE this story and always have. And the history behind how it was written is totally awesome. The was one of the first classics I read.]]></body>
+  
+  <user>
+    <id>33269229</id>
+    <name>Paul</name>
+    <display_name>Paul Nash</display_name>
+
+    <location>Hixson, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/33269229-paul-nash]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1412105187p3/33269229.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1412105187p2/33269229.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Mar 17 16:01:56 -0700 2016</created_at>
+  <updated_at>Thu Mar 17 16:01:56 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>149078428</id>
+  <body><![CDATA[<i>Paul wrote: "I don't understand the mediocre ratings either! I LOVE this story and always have. And the history behind how it was written is totally awesome. The was one of the first classics I read."</i><br /><br />Totally agree Paul! :-)]]></body>
+  
+  <user>
+    <id>7668522</id>
+    <name>Carol</name>
+    <display_name>Carol</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7668522-carol]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483228856p3/7668522.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483228856p2/7668522.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Mar 17 16:15:46 -0700 2016</created_at>
+  <updated_at>Thu Mar 17 16:15:46 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>150593834</id>
+  <body><![CDATA[<i>Dianne wrote: "The movie was phenomenal!! I have yet to read the book, but from what I've read about Mary Shelley, she was brilliant!<br />I enjoyed reading your wonderful review."</i><br /><br />Thank you Dianne!]]></body>
+  
+  <user>
+    <id>7668522</id>
+    <name>Carol</name>
+    <display_name>Carol</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7668522-carol]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483228856p3/7668522.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483228856p2/7668522.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Apr 20 08:34:57 -0700 2016</created_at>
+  <updated_at>Wed Apr 20 08:34:57 -0700 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/399203774]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/399203774]]></link>
+    <owned>1</owned>
+</review>
+
+
+</GoodreadsResponse>

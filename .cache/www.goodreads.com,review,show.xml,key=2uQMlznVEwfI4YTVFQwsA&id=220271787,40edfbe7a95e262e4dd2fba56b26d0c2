@@ -1,0 +1,1198 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:42:40 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: 5YKQR3ZFXK5JDEG75CV6
+etag: W/"356299512b1409fa7304fcef50b69f67"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.387858
+set-cookie: csid=BAhJIhg1MDAtNjUwMzMxMC0zNzcyMjY1BjoGRVQ%3D--ff4a8dc29682d8178728927842283773d7cda4c0; path=/; expires=Tue, 12 May 2037 13:42:40 -0000, locale=es; path=/, _session_id2=b6000d8f60bf8cd33f559a29a1546ea5; path=/; expires=Fri, 12 May 2017 19:42:40 -0000; HttpOnly
+content-length: 47284
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=220271787
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>220271787</id>
+    
+  <user>
+    <id>6278820</id>
+    <name>Inge</name>
+    <display_name>Inge</display_name>
+
+    <location>Belgium</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6278820-inge]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1481031456p3/6278820.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1481031456p2/6278820.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">17158151</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <title>The Hobbit</title>
+  <title_without_series>The Hobbit</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1356014171m/17158151.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1356014171s/17158151.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17158151-the-hobbit</link>
+  <num_pages>408</num_pages>
+  <format>Paperback</format>
+  <edition_information>2 Parts</edition_information>
+  <publisher>Harper Collins</publisher>
+  <publication_day/>
+  <publication_year>2012</publication_year>
+  <publication_month/>
+  <average_rating>4.24</average_rating>
+  <ratings_count>2152106</ratings_count>
+  <description>Bilbo Baggins is a reasonably typical hobbit: fond of sleeping, eating, drinking, parties and presents. However, it is his destiny to travel to the dwarflands in the east, to help slay the dragon Smaug. His quest takes him through enchanted forests, spiders' lairs, and under the Misty Mountains, where he comes across the vile Gollum, and tricks him out of his 'Precious' - a ring that makes its bearer invisible, and wields a terrible power of its own.&lt;br /&gt;&lt;br /&gt;J.R.R. Tolkien's own description for the original edition:&lt;br /&gt;&lt;br /&gt;"If you care for journeys there and back, out of the comfortable Western world, over the edge of the Wild, and home again, and can take an interest in a humble hero (blessed with a little wisdom and a little courage and considerable good luck), here is a record of such a journey and such a traveler. The period is the ancient time between the age of Faerie and the dominion of men, when the famous forest of Mirkwood was still standing, and the mountains were full of danger. In following the path of this humble adventurer, you will learn by the way (as he did) - if you do not already know all about these things - much about trolls, goblins, dwarves, and elves, and get some glimpses into the history and politics of a neglected but important period."&lt;br /&gt;&lt;br /&gt;"For Mr. Bilbo Baggins visited various notable persons; conversed with the dragon, Smaug the Magnificent; and was present, rather unwillingly, at the Battle of the Five Armies. This is all the more remarkable, since he was a hobbit. Hobbits have hitherto been passed over in history and legend, perhaps because they as a rule preferred comfort to excitement. But this account, based on his personal memoirs, of the one exciting year in the otherwise quiet life of Mr. Baggins will give you a fair idea of the estimable people now (it is said) becoming rather rare. They do not like noise."</description>
+<authors>
+<author>
+<id>656983</id>
+<name>J.R.R. Tolkien</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1434625177p5/656983.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1434625177p2/656983.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
+<average_rating>4.31</average_rating>
+<ratings_count>6140649</ratings_count>
+<text_reviews_count>91666</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">26248870</id>
+          <page type="integer">160</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Apr 13 06:39:57 -0700 2013</created_at>
+          <updated_at type="datetime">Sun Sep 08 04:04:24 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">14</ratings_count>
+          <percent type="integer">39</percent>
+          <work_id type="integer">1540236</work_id>
+          <note_uri>kca://note/amzn1.grok.note.5179482b90cf6940eb037691b3a45daa</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Elves singing, dwarves singing, goblins singing.. I feel like I'm in a bloody musical.<br><br><a href="http://tinypic.com?ref=sf9pg2" target="_blank" rel="nofollow">
+  <img src="https://images.gr-assets.com/hostedimages/1382725347ra/6148624.gif" alt="Image and video hosting by TinyPic" class="gr-hostedUserImg"></a>]]></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">1216023398</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Jan 31 03:10:38 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>2</rating>
+  <votes>255</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="dragons" exclusive="false" review_shelf_id="199326155" sortable="false" />
+    <shelf name="magic" exclusive="false" review_shelf_id="199326170" sortable="false" />
+    <shelf name="fantasy" exclusive="false" review_shelf_id="334823106" sortable="false" />
+    <shelf name="faeries-fae-and-elves" exclusive="false" review_shelf_id="667669033" sortable="false" />
+    <shelf name="meh" exclusive="false" review_shelf_id="407082630" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Apr 09 00:00:00 -0700 2013</started_at>
+  <read_at>Tue Apr 16 00:00:00 -0700 2013</read_at>
+  <date_added>Fri Oct 07 12:43:55 -0700 2011</date_added>
+  <date_updated>Wed Jun 03 08:22:54 -0700 2015</date_updated>
+  <read_count>2</read_count>
+  <body>
+      <![CDATA[<b>EDIT 03/06/2015: I've just about had it with people trying to change my mind on every Tolkien review I've written. Please don't comment if you're going to complain. I'm glad you enjoy his work, but I've given him more than a fair try, and I simply don't like his story-telling. I am actually allow...</b>]]>
+  </body>
+
+  
+
+  <comments_count>178</comments_count>
+    <comments start="1" end="50" total="178">
+        <comment>
+  <id>72238187</id>
+  <body><![CDATA[boy did I really enjoy that review. I think I liked it because I just read LOTR right before it and it was the longest slowest book I had ever read. I think I read 150 pages of them walking through the forest. So in comparison, this was a whirl wind adventure. <br /><br />I do agree. The world is beautiful, but anti-climatic. We should sing a song about it!]]></body>
+  
+  <user>
+    <id>6547103</id>
+    <name>B.C.</name>
+    <display_name>B.C.</display_name>
+
+    <location>Peoria, AZ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6547103-b-c]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1321973093p3/6547103.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1321973093p2/6547103.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Apr 16 19:59:27 -0700 2013</created_at>
+  <updated_at>Tue Apr 16 19:59:27 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>72253153</id>
+  <body><![CDATA[Hahaha, thank you, Brandon! I'm going to read LOTR soon and I'm already fearing the slow pace, but I'm giving it a try anyway :)<br /><br />Do you want to dance as well?]]></body>
+  
+  <user>
+    <id>6278820</id>
+    <name>Inge</name>
+    <display_name>Inge</display_name>
+
+    <location>Belgium</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6278820-inge]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1481031456p3/6278820.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1481031456p2/6278820.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Apr 17 05:03:31 -0700 2013</created_at>
+  <updated_at>Wed Apr 17 05:03:31 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>72269588</id>
+  <body><![CDATA[yeah, i given a hard time by a lot of people because i don't like Frodo. The Aragorn parts read faster, more like the Hobbit...wait that didn't help much did it?<br /><br />I would, but only after a song. There is just something about their songs that cause such a movement within my soul that i must dance a jig]]></body>
+  
+  <user>
+    <id>6547103</id>
+    <name>B.C.</name>
+    <display_name>B.C.</display_name>
+
+    <location>Peoria, AZ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6547103-b-c]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1321973093p3/6547103.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1321973093p2/6547103.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Apr 17 10:20:20 -0700 2013</created_at>
+  <updated_at>Wed Apr 17 10:20:20 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>72270672</id>
+  <body><![CDATA[Your peptalk is the worst, Brandon.]]></body>
+  
+  <user>
+    <id>6278820</id>
+    <name>Inge</name>
+    <display_name>Inge</display_name>
+
+    <location>Belgium</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6278820-inge]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1481031456p3/6278820.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1481031456p2/6278820.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Apr 17 10:41:26 -0700 2013</created_at>
+  <updated_at>Wed Apr 17 10:41:26 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>72284760</id>
+  <body><![CDATA[haha, good thing I'm not in sales.<br /><br />you never know, you might like it. there are fewer songs. you really have to appreciate detailed, very detailed, world building. that's where Tolkien wins. I was not a fan of his story telling.]]></body>
+  
+  <user>
+    <id>6547103</id>
+    <name>B.C.</name>
+    <display_name>B.C.</display_name>
+
+    <location>Peoria, AZ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6547103-b-c]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1321973093p3/6547103.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1321973093p2/6547103.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Apr 17 14:12:18 -0700 2013</created_at>
+  <updated_at>Wed Apr 17 14:12:18 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>88878758</id>
+  <body><![CDATA[I enjoyed your review and made ​​me feel "normal" I liked LOTR but with this book I felt it was my duty to read, incidentally also hated the songs]]></body>
+  
+  <user>
+    <id>7474632</id>
+    <name>Yoly</name>
+    <display_name>Yoly</display_name>
+
+    <location>Mexico, 09, Mexico</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7474632-yoly]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1413686498p3/7474632.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1413686498p2/7474632.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Dec 18 15:46:52 -0800 2013</created_at>
+  <updated_at>Wed Dec 18 15:46:52 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>89275922</id>
+  <body><![CDATA[hey!i dont know if youve read TLOTR already but if u havent,i dont think you'll like it judging by ur review. think the the hobbit x10 in slowness.<br />the hobbit wasnt slow 4 me but i find myself fighting throuh the trilogy.]]></body>
+  
+  <created_at>Wed Dec 25 21:36:09 -0800 2013</created_at>
+  <updated_at>Wed Dec 25 21:36:09 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>89282912</id>
+  <body><![CDATA[<i>john mccain…Tolkien fanatic wrote: "hey!i dont know if youve read TLOTR already but if u havent,i dont think you'll like it judging by ur review. think the the hobbit x10 in slowness.<br />the hobbit wasnt slow 4 me but i find myself figh..."</i><br /><br />I read Fellowship of the Ring after that and it took me a month, so that kind of gives you an idea, haha.]]></body>
+  
+  <user>
+    <id>6278820</id>
+    <name>Inge</name>
+    <display_name>Inge</display_name>
+
+    <location>Belgium</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6278820-inge]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1481031456p3/6278820.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1481031456p2/6278820.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Dec 26 03:20:58 -0800 2013</created_at>
+  <updated_at>Thu Dec 26 03:20:58 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>89302417</id>
+  <body><![CDATA[im juggling TLOTR with the silmarillion.<br />ever heard of it?]]></body>
+  
+  <created_at>Thu Dec 26 12:08:47 -0800 2013</created_at>
+  <updated_at>Thu Dec 26 12:08:47 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>89302484</id>
+  <body><![CDATA[ever heard of it?]]></body>
+  
+  <created_at>Thu Dec 26 12:10:12 -0800 2013</created_at>
+  <updated_at>Thu Dec 26 12:10:12 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>89302537</id>
+  <body><![CDATA[<i>john mccain…Tolkien fanatic wrote: "im juggling TLOTR with the silmarillion.<br />ever heard of it?"</i><br /><br />Have it in my bookcase, but I haven't read it yet.]]></body>
+  
+  <user>
+    <id>6278820</id>
+    <name>Inge</name>
+    <display_name>Inge</display_name>
+
+    <location>Belgium</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6278820-inge]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1481031456p3/6278820.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1481031456p2/6278820.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Dec 26 12:11:11 -0800 2013</created_at>
+  <updated_at>Thu Dec 26 12:11:11 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>89302849</id>
+  <body><![CDATA[and…]]></body>
+  
+  <created_at>Thu Dec 26 12:17:33 -0800 2013</created_at>
+  <updated_at>Thu Dec 26 12:17:33 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>89304219</id>
+  <body><![CDATA[And?]]></body>
+  
+  <user>
+    <id>6278820</id>
+    <name>Inge</name>
+    <display_name>Inge</display_name>
+
+    <location>Belgium</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6278820-inge]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1481031456p3/6278820.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1481031456p2/6278820.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Dec 26 12:46:29 -0800 2013</created_at>
+  <updated_at>Thu Dec 26 12:46:29 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>89306739</id>
+  <body><![CDATA[u just said what i wrote]]></body>
+  
+  <created_at>Thu Dec 26 13:36:22 -0800 2013</created_at>
+  <updated_at>Thu Dec 26 13:36:22 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>89306863</id>
+  <body><![CDATA[I was asking you to clarify what you meant by the "and..."]]></body>
+  
+  <user>
+    <id>6278820</id>
+    <name>Inge</name>
+    <display_name>Inge</display_name>
+
+    <location>Belgium</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6278820-inge]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1481031456p3/6278820.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1481031456p2/6278820.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Dec 26 13:38:26 -0800 2013</created_at>
+  <updated_at>Thu Dec 26 13:38:26 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>89462833</id>
+  <body><![CDATA[im confused]]></body>
+  
+  <created_at>Sat Dec 28 21:40:51 -0800 2013</created_at>
+  <updated_at>Sat Dec 28 21:40:51 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>89471289</id>
+  <body><![CDATA[So am I.]]></body>
+  
+  <user>
+    <id>6278820</id>
+    <name>Inge</name>
+    <display_name>Inge</display_name>
+
+    <location>Belgium</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6278820-inge]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1481031456p3/6278820.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1481031456p2/6278820.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Dec 29 02:53:54 -0800 2013</created_at>
+  <updated_at>Sun Dec 29 02:53:54 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>89477661</id>
+  <body><![CDATA[haha]]></body>
+  
+  <created_at>Sun Dec 29 07:08:54 -0800 2013</created_at>
+  <updated_at>Sun Dec 29 07:08:54 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>89619536</id>
+  <body><![CDATA[I got a box set of the LOTR books ( this book included) for my birthday 8 years ago. I was excited at first because I havent seen the LOTR movies and I could never bring myself to watch a movie if i havent read the book version. <br />It took forever for me to finish this book. I dozed off while reading more times than i can count. I think I only finished reading the book just to get it over with. I felt bad that I couldn't connect with the book. I agree with your sentiment that reading a book shouldn't feel like that. <br />The rest of the boxed set sit in my bookshelf, yet to be read. Reading comments on this review gives some encouragement to give the trilogy a chance. Maybe I'll read the fellowship in the coming year.]]></body>
+  
+  <user>
+    <id>22388650</id>
+    <name>Claire</name>
+    <display_name>Claire</display_name>
+
+    <location>Cavite, 4A, Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22388650-claire]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1387613317p3/22388650.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1387613317p2/22388650.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 31 00:36:31 -0800 2013</created_at>
+  <updated_at>Tue Dec 31 00:36:31 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>89711754</id>
+  <body><![CDATA[<i>Claire wrote: "I got a box set of the LOTR books ( this book included) for my birthday 8 years ago. I was excited at first because I havent seen the LOTR movies and I could never bring myself to watch a movie if ..."</i><br /><br />To be honest, I found the first Lord of the Rings to be quite of a chore as well. It took me about a month. But I hope things will be different for you :)]]></body>
+  
+  <user>
+    <id>6278820</id>
+    <name>Inge</name>
+    <display_name>Inge</display_name>
+
+    <location>Belgium</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6278820-inge]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1481031456p3/6278820.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1481031456p2/6278820.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 01 08:37:11 -0800 2014</created_at>
+  <updated_at>Wed Jan 01 08:37:11 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90211459</id>
+  <body><![CDATA[I'm currently half way through the hobbit (having started it on Jan 1) I was thinking about how I felt about the book last night. Then today I came to see some reviews on it and you were in my head weren't you?? You seriously, almost verbatim typed what I was thinking. I'm sad to say that I'm not loving this book, it's slow and tedious. I will probably still read LOTR after this and I sincerely hope the pace is far better.]]></body>
+  
+  <user>
+    <id>1838870</id>
+    <name>Kim-Lost-In-A-Book</name>
+    <display_name>Kim-Lost-In-A-Book</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1838870-kim-lost-in-a-book]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1370382325p3/1838870.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1370382325p2/1838870.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 07 09:36:32 -0800 2014</created_at>
+  <updated_at>Tue Jan 07 09:36:32 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90213366</id>
+  <body><![CDATA[<i>Kim N - Lost-In-A-Book wrote: "I'm currently half way through the hobbit (having started it on Jan 1) I was thinking about how I felt about the book last night. Then today I came to see some reviews on it and you were in my hea..."</i><br /><br />That's right, telepathic communication! ;) LOTR is even slower than The Hobbit, I'm afraid.. took me a month to finish that one.]]></body>
+  
+  <user>
+    <id>6278820</id>
+    <name>Inge</name>
+    <display_name>Inge</display_name>
+
+    <location>Belgium</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6278820-inge]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1481031456p3/6278820.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1481031456p2/6278820.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 07 10:06:33 -0800 2014</created_at>
+  <updated_at>Tue Jan 07 10:06:33 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90517324</id>
+  <body><![CDATA[It is so not two stars! Sorry but I do not like you at all!]]></body>
+  
+  <user>
+    <id>27594893</id>
+    <name>Megan</name>
+    <display_name>Megan</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27594893-megan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1431659589p3/27594893.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1431659589p2/27594893.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 11 19:55:04 -0800 2014</created_at>
+  <updated_at>Sat Jan 11 19:55:04 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90531997</id>
+  <body><![CDATA[You don't like me because we have different opinions about a book? It says at the top that I've rated it two stars and you still chose to read my review. That's your fault. I applaud Tolkien for his rich imagination but it just didn't work for me. Don't judge people on that.]]></body>
+  
+  <user>
+    <id>6278820</id>
+    <name>Inge</name>
+    <display_name>Inge</display_name>
+
+    <location>Belgium</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6278820-inge]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1481031456p3/6278820.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1481031456p2/6278820.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 12 03:15:40 -0800 2014</created_at>
+  <updated_at>Sun Jan 12 03:15:40 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>91688259</id>
+  <body><![CDATA[It says 2 stars means "ok", that's why I also chose 2 stars, it was just that for me, ok. I agree with your opinion, maybe I've grown up too much to like this kind of book. The story is good, but the style... did not work for me either. I also have read Murakami's 1q84 and do not understand why it is rated lower than The Hobbit :)) It does not make sense, the style is great, and although it is a long story, you just want to keep up with it and the characters. Maybe it is a 4-5 stars for a children's book, on that I would agree.]]></body>
+  
+  <user>
+    <id>24198828</id>
+    <name>Cristina</name>
+    <display_name>Cristina</display_name>
+
+    <location>Bucharest, 10, Romania</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24198828-cristina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1380022625p3/24198828.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1380022625p2/24198828.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 29 03:47:01 -0800 2014</created_at>
+  <updated_at>Wed Jan 29 03:47:01 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>91689178</id>
+  <body><![CDATA[I actually think that the story in itself would be great for kids, but the language and the way it drags on would not be. I zoned out a lot. But then again, I have the attention span of a goldfish.]]></body>
+  
+  <user>
+    <id>6278820</id>
+    <name>Inge</name>
+    <display_name>Inge</display_name>
+
+    <location>Belgium</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6278820-inge]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1481031456p3/6278820.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1481031456p2/6278820.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 29 04:27:36 -0800 2014</created_at>
+  <updated_at>Wed Jan 29 04:27:36 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92301034</id>
+  <body><![CDATA[Exactly how I felt.]]></body>
+  
+  <user>
+    <id>24863534</id>
+    <name>Adam</name>
+    <display_name>Adam</display_name>
+
+    <location>San Jose, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24863534-adam]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 07 07:10:33 -0800 2014</created_at>
+  <updated_at>Fri Feb 07 07:10:33 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92762076</id>
+  <body><![CDATA[Yes!! I felt guilty for not enjoying it, but you've managed to explain my sentiments exactly..though I will add, oh the run-on sentences!!! I think I'll just stick with the movies;)]]></body>
+  
+  <user>
+    <id>27689694</id>
+    <name>Kyla</name>
+    <display_name>Kyla</display_name>
+
+    <location>Wallace, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27689694-kyla]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1389825176p3/27689694.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1389825176p2/27689694.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 14 10:08:45 -0800 2014</created_at>
+  <updated_at>Fri Feb 14 10:08:45 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>93593337</id>
+  <body><![CDATA[I completely agree with this review!<br />As much as the world building was great etc, but the story was extremely long winded and a certain part of it (I don't want to reveal spoilers in-case people who haven't read it come across this) was extremely lame. <br />I found a the "end" of a big part of the story very poorly done.]]></body>
+  
+  <user>
+    <id>28873377</id>
+    <name>Demi</name>
+    <display_name>Demi</display_name>
+
+    <location><![CDATA[Manchester, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/28873377-demi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1407666044p3/28873377.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1407666044p2/28873377.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Feb 27 04:00:10 -0800 2014</created_at>
+  <updated_at>Thu Feb 27 04:00:10 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>93879363</id>
+  <body><![CDATA[Exactly the songs!! Everyone had a song the goblins the elves. I'm surprised the movie wasn't some musical!]]></body>
+  
+  <user>
+    <id>29262567</id>
+    <name>Lissette</name>
+    <display_name>Lissette</display_name>
+
+    <location>Santa Ana, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/29262567-lissette]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1393873904p3/29262567.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1393873904p2/29262567.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Mar 03 11:34:15 -0800 2014</created_at>
+  <updated_at>Mon Mar 03 11:34:15 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>93882810</id>
+  <body><![CDATA[Thanks, guys! The songs really cut into the story. One or two songs are okay, but they spent way too much time on them.<br /><br />Demi, I assume you're referring to <a class="jsShowSpoiler spoilerAction">(view spoiler)</a><span class="spoilerContainer" style="display: none">[Smaug's death <a class="jsHideSpoiler spoilerAction">(hide spoiler)</a>]</span>?]]></body>
+  
+  <user>
+    <id>6278820</id>
+    <name>Inge</name>
+    <display_name>Inge</display_name>
+
+    <location>Belgium</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6278820-inge]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1481031456p3/6278820.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1481031456p2/6278820.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Mar 03 12:31:08 -0800 2014</created_at>
+  <updated_at>Mon Mar 03 12:31:08 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>93884014</id>
+  <body><![CDATA[I did indeed Inge!<br />And the other part that followed it, that was also supposed to be a big part :)]]></body>
+  
+  <user>
+    <id>28873377</id>
+    <name>Demi</name>
+    <display_name>Demi</display_name>
+
+    <location><![CDATA[Manchester, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/28873377-demi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1407666044p3/28873377.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1407666044p2/28873377.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Mar 03 12:49:50 -0800 2014</created_at>
+  <updated_at>Mon Mar 03 12:49:50 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>93884616</id>
+  <body><![CDATA[I don't even remember what followed, hahahaha. Gives you an idea of how much attention I was paying to the book at the end, I just wanted to get it over with.]]></body>
+  
+  <user>
+    <id>6278820</id>
+    <name>Inge</name>
+    <display_name>Inge</display_name>
+
+    <location>Belgium</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6278820-inge]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1481031456p3/6278820.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1481031456p2/6278820.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Mar 03 12:58:26 -0800 2014</created_at>
+  <updated_at>Mon Mar 03 12:58:26 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>93884965</id>
+  <body><![CDATA[The "epic" battle :P<br />Exactly!<br />I only forced my way through it so I could say I finished it x]]></body>
+  
+  <user>
+    <id>28873377</id>
+    <name>Demi</name>
+    <display_name>Demi</display_name>
+
+    <location><![CDATA[Manchester, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/28873377-demi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1407666044p3/28873377.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1407666044p2/28873377.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Mar 03 13:03:35 -0800 2014</created_at>
+  <updated_at>Mon Mar 03 13:03:35 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>93886360</id>
+  <body><![CDATA[Oooh right.. yeah that wasn't very memorable.]]></body>
+  
+  <user>
+    <id>6278820</id>
+    <name>Inge</name>
+    <display_name>Inge</display_name>
+
+    <location>Belgium</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6278820-inge]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1481031456p3/6278820.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1481031456p2/6278820.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Mar 03 13:23:50 -0800 2014</created_at>
+  <updated_at>Mon Mar 03 13:23:50 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>97176070</id>
+  <body><![CDATA[I personally enjoyed the book and have read it numerous times since I was in 4th grade, but I can see where you're coming from. At times it could be incredibly dull, but I attribute that mostly to the fact it was written quite a kind time ago and their definition of "enthralling" was very different from our own.]]></body>
+  
+  <user>
+    <id>30769820</id>
+    <name>Kathryn</name>
+    <display_name>Kathryn</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/30769820-kathryn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1399241320p3/30769820.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1399241320p2/30769820.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Apr 22 17:16:03 -0700 2014</created_at>
+  <updated_at>Tue Apr 22 17:16:03 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>97198014</id>
+  <body><![CDATA[<i>Kathryn wrote: "I personally enjoyed the book and have read it numerous times since I was in 4th grade, but I can see where you're coming from. At times it could be incredibly dull, but I attribute that mostly to ..."</i><br /><br />I get that, that it was written a long time ago and thus all the descriptions must have been great back then. But I'm reading it now and I have a short attention span :o) I can totally see why people would enjoy it though - the stories he creates are insanely good!]]></body>
+  
+  <user>
+    <id>6278820</id>
+    <name>Inge</name>
+    <display_name>Inge</display_name>
+
+    <location>Belgium</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6278820-inge]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1481031456p3/6278820.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1481031456p2/6278820.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Apr 23 02:14:51 -0700 2014</created_at>
+  <updated_at>Wed Apr 23 02:14:51 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>98477907</id>
+  <body><![CDATA[Same here. I even knew the ending right before i started, but i was expecting twists. It was torturing to finish the first 2/3, but it pick up a little pace when Smaug appeared.]]></body>
+  
+  <user>
+    <id>26828451</id>
+    <name>Jason</name>
+    <display_name>Jason L.</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/26828451-jason-l]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1456389681p3/26828451.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1456389681p2/26828451.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed May 14 04:33:22 -0700 2014</created_at>
+  <updated_at>Wed May 14 04:33:22 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>98666533</id>
+  <body><![CDATA[I feel exactly the same, it was really well written but I didn't really engage with it much.]]></body>
+  
+  <user>
+    <id>29668201</id>
+    <name>Hannah</name>
+    <display_name>Hannah Pike</display_name>
+
+    <location><![CDATA[Welwyn Garden City, F8, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/29668201-hannah-pike]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1394897628p3/29668201.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1394897628p2/29668201.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 17 11:06:00 -0700 2014</created_at>
+  <updated_at>Sat May 17 11:06:00 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>98700257</id>
+  <body><![CDATA[The fact that he takes so long to describe everything gives you a great idea of what everything looks like, but it takes you away from the action. I wandered off a lot.]]></body>
+  
+  <user>
+    <id>6278820</id>
+    <name>Inge</name>
+    <display_name>Inge</display_name>
+
+    <location>Belgium</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6278820-inge]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1481031456p3/6278820.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1481031456p2/6278820.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 18 02:02:12 -0700 2014</created_at>
+  <updated_at>Sun May 18 02:02:12 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>101586480</id>
+  <body><![CDATA[Couldn't agree with you more! I love this book, but I found it really easy to put down at some points.]]></body>
+  
+  <user>
+    <id>32453670</id>
+    <name>Kendra</name>
+    <display_name>Kendra</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32453670-kendra]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1414551756p3/32453670.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1414551756p2/32453670.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 04 17:49:27 -0700 2014</created_at>
+  <updated_at>Fri Jul 04 17:49:27 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>101602579</id>
+  <body><![CDATA[<i>Kendra wrote: "Couldn't agree with you more! I love this book, but I found it really easy to put down at some points."</i><br /><br />Yes, exactly! It was good, but I didn't <i>need</i> to know what happened next.]]></body>
+  
+  <user>
+    <id>6278820</id>
+    <name>Inge</name>
+    <display_name>Inge</display_name>
+
+    <location>Belgium</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6278820-inge]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1481031456p3/6278820.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1481031456p2/6278820.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jul 05 01:46:32 -0700 2014</created_at>
+  <updated_at>Sat Jul 05 01:46:32 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>102458592</id>
+  <body><![CDATA[I couldn't get through the first Lord of the Rings. I feel like such a hypocrite for having not read it, but it's so <i>tedious</i>.]]></body>
+  
+  <user>
+    <id>6688207</id>
+    <name>Natalie</name>
+    <display_name>Natalie Monroe</display_name>
+
+    <location>Hong Kong</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6688207-natalie-monroe]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1339730817p3/6688207.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1339730817p2/6688207.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 17 20:15:31 -0700 2014</created_at>
+  <updated_at>Thu Jul 17 20:15:31 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>102469931</id>
+  <body><![CDATA[<i>Natalie wrote: "I couldn't get through the first Lord of the Rings. I feel like such a hypocrite for having not read it, but it's so tedious."</i><br /><br />It really is! Such an incredibly slow pace. I mean, the world building is amazing, but shut up :D]]></body>
+  
+  <user>
+    <id>6278820</id>
+    <name>Inge</name>
+    <display_name>Inge</display_name>
+
+    <location>Belgium</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6278820-inge]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1481031456p3/6278820.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1481031456p2/6278820.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 18 01:11:34 -0700 2014</created_at>
+  <updated_at>Fri Jul 18 01:11:34 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>102482396</id>
+  <body><![CDATA[This was exactly how I felt while reading this book!]]></body>
+  
+  <user>
+    <id>28406807</id>
+    <name>Sandy</name>
+    <display_name>Sandy</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/28406807-sandy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1404597990p3/28406807.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1404597990p2/28406807.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 18 07:31:53 -0700 2014</created_at>
+  <updated_at>Fri Jul 18 07:31:53 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>102711573</id>
+  <body><![CDATA[If you pay attention to the story you will get it. But you have to think. Did anyone else see the allegorical part of the story but me!!!]]></body>
+  
+  <user>
+    <id>31680935</id>
+    <name>Bobby Mitchell</name>
+    <display_name>Bobby Mitchell</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/31680935-bobby-mitchell]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Jul 21 17:35:36 -0700 2014</created_at>
+  <updated_at>Mon Jul 21 17:35:36 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>102732950</id>
+  <body><![CDATA[<i>Sandy wrote: "This was exactly how I felt while reading this book!"</i><br /><br />Glad to know I'm not the only one!<br /><br /><i>Bobby Mitchell wrote: "If you pay attention to the story you will get it. But you have to think. Did anyone else see the allegorical part of the story but me!!!"</i><br /><br />Haha, don't even start about symbolism and allegories. I don't care about those. I just want a good story.]]></body>
+  
+  <user>
+    <id>6278820</id>
+    <name>Inge</name>
+    <display_name>Inge</display_name>
+
+    <location>Belgium</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6278820-inge]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1481031456p3/6278820.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1481031456p2/6278820.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 22 01:24:38 -0700 2014</created_at>
+  <updated_at>Tue Jul 22 01:24:38 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103888416</id>
+  <body><![CDATA[66% in and have stopped and started this book many times Because like you I seem to be easily distracted during this book.<br /><br />Why oh why did I watch the movies first!]]></body>
+  
+  <user>
+    <id>12503943</id>
+    <name>Chrystal</name>
+    <display_name>Chrystal Evans</display_name>
+
+    <location>Melbourne, 07, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12503943-chrystal-evans]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487500320p3/12503943.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487500320p2/12503943.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 07 22:10:14 -0700 2014</created_at>
+  <updated_at>Thu Aug 07 22:10:14 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>103894440</id>
+  <body><![CDATA[<i>Chrystal wrote: "66% in and have stopped and started this book many times Because like you I seem to be easily distracted during this book.<br /><br />Why oh why did I watch the movies first!"</i><br /><br />Haha! I'm sorry to hear that. To be honest, I think the movies are a bit slow as well :o)]]></body>
+  
+  <user>
+    <id>6278820</id>
+    <name>Inge</name>
+    <display_name>Inge</display_name>
+
+    <location>Belgium</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6278820-inge]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1481031456p3/6278820.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1481031456p2/6278820.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 08 01:58:25 -0700 2014</created_at>
+  <updated_at>Fri Aug 08 01:58:25 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>105225309</id>
+  <body><![CDATA[I totally agree but I thought that I was just not intellectual enough to "get it". I checked out "fellowship" but afraid to start it now.]]></body>
+  
+  <user>
+    <id>33121965</id>
+    <name>Daphne</name>
+    <display_name>Daphne Smallwood</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/33121965-daphne-smallwood]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1405545303p3/33121965.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1405545303p2/33121965.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 29 20:41:21 -0700 2014</created_at>
+  <updated_at>Fri Aug 29 20:41:21 -0700 2014</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/220271787]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/220271787]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

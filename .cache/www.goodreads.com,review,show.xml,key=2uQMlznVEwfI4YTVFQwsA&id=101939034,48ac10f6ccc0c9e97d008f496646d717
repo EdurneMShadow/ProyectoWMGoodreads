@@ -1,0 +1,546 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:39:19 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: S2NKS6B48MFVXA3VXKMJ
+etag: W/"d9880c4137d5dec5e2262b3c48c11955"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.266201
+set-cookie: csid=BAhJIhg0NTAtNjI0MDgzNy0xMjE3ODc1BjoGRVQ%3D--e3403c385dd2f15c989c47b155d2e88016a61758; path=/; expires=Tue, 12 May 2037 13:39:19 -0000, locale=es; path=/, _session_id2=be8c2020fc06d2e11197c74bfd69e00c; path=/; expires=Fri, 12 May 2017 19:39:19 -0000; HttpOnly
+content-length: 20333
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=101939034
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>101939034</id>
+    
+  <user>
+    <id>3699303</id>
+    <name>Lou</name>
+    <display_name>Lou</display_name>
+
+    <location>London, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3699303-lou]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1312212794p3/3699303.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1312212794p2/3699303.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">2654</id>
+  <isbn>0060935464</isbn>
+  <isbn13>9780060935467</isbn13>
+  <text_reviews_count type="integer">786</text_reviews_count>
+  <title>To Kill a Mockingbird</title>
+  <title_without_series>To Kill a Mockingbird</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1490792785m/2654.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1490792785s/2654.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2654.To_Kill_a_Mockingbird</link>
+  <num_pages>323</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>5</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4.25</average_rating>
+  <ratings_count>3269503</ratings_count>
+  <description>The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it, To Kill A Mockingbird became both an instant bestseller and a critical success when it was first published in 1960. It went on to win the Pulitzer Prize in 1961 and was later made into an Academy Award-winning film, also a classic.&lt;br /&gt;&lt;br /&gt;Compassionate, dramatic, and deeply moving, To Kill A Mockingbird takes readers to the roots of human behavior - to innocence and experience, kindness and cruelty, love and hatred, humor and pathos. Now with over 18 million copies in print and translated into forty languages, this regional story by a young Alabama woman claims universal appeal. Harper Lee always considered her book to be a simple love story. Today it is regarded as a masterpiece of American literature.</description>
+<authors>
+<author>
+<id>1825</id>
+<name>Harper Lee</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1188820730p5/1825.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1188820730p2/1825.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1825.Harper_Lee]]></link>
+<average_rating>4.21</average_rating>
+<ratings_count>3434236</ratings_count>
+<text_reviews_count>95107</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">4755406</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Jan 22 01:00:11 -0800 2011</created_at>
+          <updated_at type="datetime">Sat Jan 22 01:00:11 -0800 2011</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">100</percent>
+          <work_id type="integer">3275794</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">4749036</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Jan 21 11:45:02 -0800 2011</created_at>
+          <updated_at type="datetime">Fri Jan 21 11:45:02 -0800 2011</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">70</percent>
+          <work_id type="integer">3275794</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">4735533</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Jan 20 09:30:14 -0800 2011</created_at>
+          <updated_at type="datetime">Sat Sep 07 05:16:00 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">50</percent>
+          <work_id type="integer">3275794</work_id>
+          <note_uri>kca://note/amzn1.grok.note.1afa7725b20c2b58e7b37b1570fdc815</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body>Funny</body>
+        </user_status>
+        <user_status>
+          <id type="integer">4732725</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Jan 20 04:09:35 -0800 2011</created_at>
+          <updated_at type="datetime">Sat Sep 07 05:10:56 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">20</percent>
+          <work_id type="integer">3275794</work_id>
+          <note_uri>kca://note/amzn1.grok.note.792e80eb2337eaa8706b0fdfc18c7c15</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body>Good old days stuff</body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">1218115512</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Mon Feb 01 09:10:23 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>141</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="january-list-next" exclusive="false" review_shelf_id="84994909" sortable="true" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Jan 20 00:00:00 -0800 2011</started_at>
+  <read_at>Sat Jan 22 00:00:00 -0800 2011</read_at>
+  <date_added>Sun May 09 01:39:54 -0700 2010</date_added>
+  <date_updated>Sun Apr 20 20:56:31 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<br />A wonderful piece of literature, great characters, plot and prose. There is sadness and happiness, racism and equality, immaturity and maturity, injustice and redemption. <br />Atticus is a man we could all love and look up to a grounded just and fair man he sees beyond race and finds the goodness in p...]]>
+  </body>
+
+  
+
+  <comments_count>16</comments_count>
+    <comments start="1" end="16" total="16">
+        <comment>
+  <id>30820297</id>
+  <body><![CDATA[Great book.]]></body>
+  
+  <user>
+    <id>2187043</id>
+    <name>Mike (the Paladin)</name>
+    <display_name>Mike (the Paladin)</display_name>
+
+    <location>Hermitage, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2187043-mike-the-paladin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492739003p3/2187043.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492739003p2/2187043.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 22 19:35:42 -0700 2011</created_at>
+  <updated_at>Sun May 22 19:35:42 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31664556</id>
+  <body><![CDATA[Its one of those books that they make eveyone read. I liked the book, but I think its overated, just a way to teach certain values.]]></body>
+  
+  <user>
+    <id>2310290</id>
+    <name>Kevin</name>
+    <display_name>Kevin Xu</display_name>
+
+    <location>Plainsboro, NJ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2310290-kevin-xu]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1390443151p3/2310290.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1390443151p2/2310290.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 09 06:29:13 -0700 2011</created_at>
+  <updated_at>Thu Jun 09 06:29:13 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31670263</id>
+  <body><![CDATA[I really enjoyed this great book!]]></body>
+  
+  <user>
+    <id>4218875</id>
+    <name>Kwesi 章英狮</name>
+    <display_name>Kwesi 章英狮</display_name>
+
+    <location><![CDATA[Koronadal City, South Cotabato, Philippines, 9506, Philippines]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4218875-kwesi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492344054p3/4218875.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492344054p2/4218875.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 09 09:02:56 -0700 2011</created_at>
+  <updated_at>Thu Jun 09 09:02:56 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31670493</id>
+  <body><![CDATA[Yes me too great human struggle]]></body>
+  
+  <user>
+    <id>3699303</id>
+    <name>Lou</name>
+    <display_name>Lou</display_name>
+
+    <location>London, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3699303-lou]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1312212794p3/3699303.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1312212794p2/3699303.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 09 09:08:46 -0700 2011</created_at>
+  <updated_at>Thu Jun 09 09:08:46 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31671402</id>
+  <body><![CDATA[I can't remember that night when I can't sleep by reading this book and I have to take my preliminary exam the other day. Hoho. Bad student, fail.]]></body>
+  
+  <user>
+    <id>4218875</id>
+    <name>Kwesi 章英狮</name>
+    <display_name>Kwesi 章英狮</display_name>
+
+    <location><![CDATA[Koronadal City, South Cotabato, Philippines, 9506, Philippines]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4218875-kwesi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492344054p3/4218875.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492344054p2/4218875.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 09 09:30:25 -0700 2011</created_at>
+  <updated_at>Thu Jun 09 09:30:25 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31672135</id>
+  <body><![CDATA[When you pass you will have all the time in the world to read lol.]]></body>
+  
+  <user>
+    <id>3699303</id>
+    <name>Lou</name>
+    <display_name>Lou</display_name>
+
+    <location>London, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3699303-lou]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1312212794p3/3699303.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1312212794p2/3699303.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 09 09:45:50 -0700 2011</created_at>
+  <updated_at>Thu Jun 09 09:45:50 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31672691</id>
+  <body><![CDATA[Haha, I see, but don't forget you have to hire yourself and live like the others. Aaay, life is so mysterious and difficult.]]></body>
+  
+  <user>
+    <id>4218875</id>
+    <name>Kwesi 章英狮</name>
+    <display_name>Kwesi 章英狮</display_name>
+
+    <location><![CDATA[Koronadal City, South Cotabato, Philippines, 9506, Philippines]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4218875-kwesi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492344054p3/4218875.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492344054p2/4218875.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 09 09:58:41 -0700 2011</created_at>
+  <updated_at>Thu Jun 09 09:58:41 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>49804915</id>
+  <body><![CDATA[It was the first Book Chicago picked for its city wide reading club. It was sold out everywhere-I found an old hard cover in a used bookstore. The former Mayer Richard Daly said it was his favorite title. The book and movie have taught me life lessons. Denise Hooper made his first screen appearance in the film, as Boo.]]></body>
+  
+  <user>
+    <id>993934</id>
+    <name>Noran</name>
+    <display_name>Noran Miss Pumkin</display_name>
+
+    <location>Hammond, IN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/993934-noran-miss-pumkin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1227657007p3/993934.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1227657007p2/993934.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue May 01 16:19:00 -0700 2012</created_at>
+  <updated_at>Tue May 01 16:19:00 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>51772583</id>
+  <body><![CDATA[This is an outstanding review. It is one of the best books I've ever read.<br /><br />Thanks.<br /><br />Regards,<br />Chuck]]></body>
+  
+  <user>
+    <id>3355947</id>
+    <name>Chuck</name>
+    <display_name>Chuck</display_name>
+
+    <location>Orlando, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3355947-chuck]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1309200702p3/3355947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1309200702p2/3355947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jun 06 14:51:23 -0700 2012</created_at>
+  <updated_at>Wed Jun 06 14:51:23 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>51774763</id>
+  <body><![CDATA[<i>Chuck wrote: "This is an outstanding review. It is one of the best books I've ever read.<br /><br />Thanks.<br /><br />Regards,<br />Chuck"</i><br />Thanks Chuck nice to know you liked it.]]></body>
+  
+  <user>
+    <id>3699303</id>
+    <name>Lou</name>
+    <display_name>Lou</display_name>
+
+    <location>London, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3699303-lou]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1312212794p3/3699303.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1312212794p2/3699303.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jun 06 15:33:08 -0700 2012</created_at>
+  <updated_at>Wed Jun 06 15:33:08 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>51789648</id>
+  <body><![CDATA[Great job, Lou. It's always great to visit an old friend.]]></body>
+  
+  <created_at>Wed Jun 06 19:38:00 -0700 2012</created_at>
+  <updated_at>Wed Jun 06 19:38:00 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>53727343</id>
+  <body><![CDATA[One of my favorite classics!]]></body>
+  
+  <user>
+    <id>2335749</id>
+    <name>Keri</name>
+    <display_name>Keri</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2335749-keri]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1373210138p3/2335749.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1373210138p2/2335749.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jul 08 09:31:11 -0700 2012</created_at>
+  <updated_at>Sun Jul 08 09:31:11 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>53729526</id>
+  <body><![CDATA[<i>Keri wrote: "One of my favorite classics!"</i><br /><br />Great story I still not watched it again since reading this. Long overdue to watch.]]></body>
+  
+  <user>
+    <id>3699303</id>
+    <name>Lou</name>
+    <display_name>Lou</display_name>
+
+    <location>London, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3699303-lou]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1312212794p3/3699303.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1312212794p2/3699303.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jul 08 10:16:30 -0700 2012</created_at>
+  <updated_at>Sun Jul 08 10:16:30 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>53729572</id>
+  <body><![CDATA[<i>Steve wrote: "Great job, Lou. It's always great to visit an old friend."</i><br />Thanks Steve I am going to re-read this with I hope more to say.]]></body>
+  
+  <user>
+    <id>3699303</id>
+    <name>Lou</name>
+    <display_name>Lou</display_name>
+
+    <location>London, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3699303-lou]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1312212794p3/3699303.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1312212794p2/3699303.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jul 08 10:17:22 -0700 2012</created_at>
+  <updated_at>Sun Jul 08 10:17:22 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>82291551</id>
+  <body><![CDATA[I've read this book twice but I really think I should read it again.]]></body>
+  
+  <user>
+    <id>21839615</id>
+    <name>Alan</name>
+    <display_name>Alan Sheinwald</display_name>
+
+    <location>Atlanta, GA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/21839615-alan-sheinwald]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1372772482p3/21839615.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1372772482p2/21839615.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Sep 05 05:58:22 -0700 2013</created_at>
+  <updated_at>Thu Sep 05 05:58:22 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>102664966</id>
+  <body><![CDATA[No person should go without reading "To Kill a Mockingbird." This book is a fantastic work of fiction, that manages to tackle heavy adult themes in away that is easily accessible to younger readers. This is not a book you should read, it is a book you must read. Thanks to your review I think I'll start reading it all over again. - <a href="https://www.goodreads.com/author/show/8056022.Penina_Mezei" title="Penina Mezei" rel="nofollow">Penina Mezei</a>]]></body>
+  
+  <user>
+    <id>27636598</id>
+    <name>Penina</name>
+    <display_name>Penina Mezei</display_name>
+
+    <location>Atlanta, GA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27636598-penina-mezei]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1396444705p3/27636598.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1396444705p2/27636598.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jul 21 05:04:16 -0700 2014</created_at>
+  <updated_at>Mon Jul 21 05:04:16 -0700 2014</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/101939034]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/101939034]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

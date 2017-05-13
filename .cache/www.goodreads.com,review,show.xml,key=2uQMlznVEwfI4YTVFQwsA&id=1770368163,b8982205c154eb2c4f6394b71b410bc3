@@ -1,0 +1,389 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:43:06 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: HY1BFMHB4A2PFFX7TP8W
+etag: W/"5a3accc356a001a0acf45b9be4d90d0a"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.274565
+set-cookie: csid=BAhJIhg1MTgtNjgwMDAxNy0wNzQwNTQ3BjoGRVQ%3D--1e6d169e8f6df89fbc3c97b66557a24e3f5fa150; path=/; expires=Tue, 12 May 2037 13:43:06 -0000, locale=es; path=/, _session_id2=6b3688417fc6a4edce21a5ec4e45f8d9; path=/; expires=Fri, 12 May 2017 19:43:06 -0000; HttpOnly
+content-length: 16181
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=1770368163
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1770368163</id>
+    
+  <user>
+    <id>48483884</id>
+    <name>Michael</name>
+    <display_name>Michael Finocchiaro</display_name>
+
+    <location>Paris, Île-de-France, France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/48483884-michael-finocchiaro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1490703323p3/48483884.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1490703323p2/48483884.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">2466204</id>
+  <isbn>0345015320</isbn>
+  <isbn13>9780345015327</isbn13>
+  <text_reviews_count type="integer">4</text_reviews_count>
+  <title>The Hobbit Or There And Back Again</title>
+  <title_without_series>The Hobbit Or There And Back Again</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1332982849m/2466204.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1332982849s/2466204.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2466204.The_Hobbit_Or_There_And_Back_Again</link>
+  <num_pages>287</num_pages>
+  <format/>
+  <edition_information/>
+  <publisher>Ballantine Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1966</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.24</average_rating>
+  <ratings_count>2152106</ratings_count>
+  <description>Bilbo Baggins is a reasonably typical hobbit: fond of sleeping, eating, drinking, parties and presents. However, it is his destiny to travel to the dwarflands in the east, to help slay the dragon Smaug. His quest takes him through enchanted forests, spiders' lairs, and under the Misty Mountains, where he comes across the vile Gollum, and tricks him out of his 'Precious' - a ring that makes its bearer invisible, and wields a terrible power of its own.&lt;br /&gt;&lt;br /&gt;J.R.R. Tolkien's own description for the original edition:&lt;br /&gt;&lt;br /&gt;"If you care for journeys there and back, out of the comfortable Western world, over the edge of the Wild, and home again, and can take an interest in a humble hero (blessed with a little wisdom and a little courage and considerable good luck), here is a record of such a journey and such a traveler. The period is the ancient time between the age of Faerie and the dominion of men, when the famous forest of Mirkwood was still standing, and the mountains were full of danger. In following the path of this humble adventurer, you will learn by the way (as he did) - if you do not already know all about these things - much about trolls, goblins, dwarves, and elves, and get some glimpses into the history and politics of a neglected but important period."&lt;br /&gt;&lt;br /&gt;"For Mr. Bilbo Baggins visited various notable persons; conversed with the dragon, Smaug the Magnificent; and was present, rather unwillingly, at the Battle of the Five Armies. This is all the more remarkable, since he was a hobbit. Hobbits have hitherto been passed over in history and legend, perhaps because they as a rule preferred comfort to excitement. But this account, based on his personal memoirs, of the one exciting year in the otherwise quiet life of Mr. Baggins will give you a fair idea of the estimable people now (it is said) becoming rather rare. They do not like noise."</description>
+<authors>
+<author>
+<id>656983</id>
+<name>J.R.R. Tolkien</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1434625177p5/656983.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1434625177p2/656983.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
+<average_rating>4.31</average_rating>
+<ratings_count>6140649</ratings_count>
+<text_reviews_count>91666</text_reviews_count>
+</author>
+</authors>
+  <published>1966</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1526021336</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Wed Sep 28 11:24:51 -0700 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>92</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="favorites" exclusive="false" review_shelf_id="1477914354" sortable="false" />
+    <shelf name="novels" exclusive="false" review_shelf_id="1479933706" sortable="false" />
+    <shelf name="fiction" exclusive="false" review_shelf_id="1477913934" sortable="false" />
+    <shelf name="american-20th-c" exclusive="false" review_shelf_id="1477913873" sortable="false" />
+    <shelf name="fantasy" exclusive="false" review_shelf_id="1477914069" sortable="false" />
+    <shelf name="made-into-movie" exclusive="false" review_shelf_id="1477914171" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Jan 01 00:00:00 -0800 1979</started_at>
+  <read_at>Mon Jan 01 00:00:00 -0800 1979</read_at>
+  <date_added>Wed Sep 28 11:24:50 -0700 2016</date_added>
+  <date_updated>Sat Jan 14 07:13:56 -0800 2017</date_updated>
+  <read_count>4</read_count>
+  <body>
+      <![CDATA[What makes The Hobbit such a seminal work in the fantasy genre? Is it the nine hours of over-budget, sensorially explosive movies by Peter Jackson? Nope. Is it a complex tale of multiple human kingdoms slaughtering each other for an Iron Throne with buckets of blood and guts and plenty of sex? No...]]>
+  </body>
+
+  
+
+  <comments_count>11</comments_count>
+    <comments start="1" end="11" total="11">
+        <comment>
+  <id>161481235</id>
+  <body><![CDATA[I'd disagree by a lot. The writing is of itself passable, though other aspects of the book and series are pretty wonderful . (Incidentally- and ironically given that one of our most racist politicians in the US was nicknamed Bilbo - there may have been, I've seen some convincing-to-me reasoning , some rather positive political "subtexts" in the Tolkien, with the hobbits being early(?) examples of heroes not secretly kings/gods in disguise/forklaadgud/... (though LoTR as a whole doesn't do without the trope of course)- not to mention other things...]]></body>
+  
+  <user>
+    <id>44521023</id>
+    <name>Eric</name>
+    <display_name>Eric</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/44521023-eric]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1436070013p3/44521023.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1436070013p2/44521023.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 14 03:04:50 -0800 2017</created_at>
+  <updated_at>Sat Jan 14 03:04:50 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161481441</id>
+  <body><![CDATA[I enjoyed reading your review. Thank you :)]]></body>
+  
+  <user>
+    <id>5490353</id>
+    <name>Ije the Devourer of Books</name>
+    <display_name>Ije the Devourer of Books</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5490353-ije-the-devourer-of-books]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1385814164p3/5490353.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1385814164p2/5490353.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 14 03:17:47 -0800 2017</created_at>
+  <updated_at>Sat Jan 14 03:17:47 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161481469</id>
+  <body><![CDATA[Ok, but what exactly do you disagree within my review? I think I may have missed your point although I would love to debate it with you if I could find it.]]></body>
+  
+  <user>
+    <id>48483884</id>
+    <name>Michael</name>
+    <display_name>Michael Finocchiaro</display_name>
+
+    <location>Paris, Île-de-France, France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/48483884-michael-finocchiaro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1490703323p3/48483884.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1490703323p2/48483884.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 14 03:19:55 -0800 2017</created_at>
+  <updated_at>Sat Jan 14 03:19:55 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161481668</id>
+  <body><![CDATA[@Eric, I tried to say that the beauty of The Hobbit was that all the magical creatures were really just background to the real story of Bilbo's voyage of initiation. I have a hard time reading racial stereotypes into this particular book (they are far more obvious in, say, Tintin or Kipling for example)]]></body>
+  
+  <user>
+    <id>48483884</id>
+    <name>Michael</name>
+    <display_name>Michael Finocchiaro</display_name>
+
+    <location>Paris, Île-de-France, France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/48483884-michael-finocchiaro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1490703323p3/48483884.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1490703323p2/48483884.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 14 03:33:46 -0800 2017</created_at>
+  <updated_at>Sat Jan 14 03:33:46 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161484080</id>
+  <body><![CDATA[No le_fino...you are correct in your review! Let's keep this as a nice Genesis to our modern day fantasy and leave politics out of it all together.]]></body>
+  
+  <user>
+    <id>33269229</id>
+    <name>Paul</name>
+    <display_name>Paul Nash</display_name>
+
+    <location>Hixson, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/33269229-paul-nash]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1412105187p3/33269229.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1412105187p2/33269229.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 14 05:36:40 -0800 2017</created_at>
+  <updated_at>Sat Jan 14 05:36:40 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161484312</id>
+  <body><![CDATA[Anything over analyzed can be bent towards racism. Star Trek, for example, was seen as a "the races coming together in the future, a better future for all mankind". But one can easily bend Roddenberry as a racist if you assign a specific race to each main alien in Trek. Which unfortunately I've seen done.]]></body>
+  
+  <user>
+    <id>33269229</id>
+    <name>Paul</name>
+    <display_name>Paul Nash</display_name>
+
+    <location>Hixson, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/33269229-paul-nash]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1412105187p3/33269229.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1412105187p2/33269229.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 14 05:47:13 -0800 2017</created_at>
+  <updated_at>Sat Jan 14 05:47:13 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161484499</id>
+  <body><![CDATA[The most obvious for me being the Ferengi with their big Semitic ears and noses and obsession with money...interesting to not that the word "ferengi" means "foreigner" in some Indian dialects.]]></body>
+  
+  <user>
+    <id>48483884</id>
+    <name>Michael</name>
+    <display_name>Michael Finocchiaro</display_name>
+
+    <location>Paris, Île-de-France, France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/48483884-michael-finocchiaro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1490703323p3/48483884.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1490703323p2/48483884.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 14 05:54:33 -0800 2017</created_at>
+  <updated_at>Sat Jan 14 05:54:33 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161484531</id>
+  <body><![CDATA["Note" not "not", sorry for the typo]]></body>
+  
+  <user>
+    <id>48483884</id>
+    <name>Michael</name>
+    <display_name>Michael Finocchiaro</display_name>
+
+    <location>Paris, Île-de-France, France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/48483884-michael-finocchiaro]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1490703323p3/48483884.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1490703323p2/48483884.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 14 05:55:39 -0800 2017</created_at>
+  <updated_at>Sat Jan 14 05:55:39 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161484684</id>
+  <body><![CDATA[Haha...see there. You get the picture. Vulcans were seen as "Asians", thus they cast a black man, Tim Russ, to play Tuvok (a Vulcan) in Voyager.<br />I'm not going to assign races to all main aliens of Trek, as one can easily do that themselves. But even a show that aired the first interacial kiss can be bent towards racism.]]></body>
+  
+  <user>
+    <id>33269229</id>
+    <name>Paul</name>
+    <display_name>Paul Nash</display_name>
+
+    <location>Hixson, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/33269229-paul-nash]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1412105187p3/33269229.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1412105187p2/33269229.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 14 06:01:22 -0800 2017</created_at>
+  <updated_at>Sat Jan 14 06:01:22 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161574612</id>
+  <body><![CDATA[How about Vermithrax Pejorative from "Dragonslayer" - I like that one!]]></body>
+  
+  <user>
+    <id>5295008</id>
+    <name>Chris</name>
+    <display_name>Chris Gager</display_name>
+
+    <location>Phippsburg, ME</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5295008-chris-gager]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1307204529p3/5295008.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1307204529p2/5295008.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 16 08:17:02 -0800 2017</created_at>
+  <updated_at>Mon Jan 16 08:17:02 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161640400</id>
+  <body><![CDATA[You nailed it, simply wonderful writing. Great fantastical world. Worth a re-read, and another.]]></body>
+  
+  <user>
+    <id>38962020</id>
+    <name>Cathy</name>
+    <display_name>Cathy Austin</display_name>
+
+    <location>Toronto, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/38962020-cathy-austin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1420816279p3/38962020.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1420816279p2/38962020.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 17 14:11:59 -0800 2017</created_at>
+  <updated_at>Tue Jan 17 14:11:59 -0800 2017</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1770368163]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1770368163]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

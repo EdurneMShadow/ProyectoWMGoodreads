@@ -1,0 +1,226 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:51:49 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: 0GZH3JB78SFWHF2XE0FG
+etag: W/"704072f5e8318adc79fbf1a104d68fe1"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.324644
+set-cookie: csid=BAhJIhg4MDUtMDg1NzU2My01NjMyNDQ0BjoGRVQ%3D--ae0c5be28b4e5ead3c4d0c36e047b6e40d7022f0; path=/; expires=Tue, 12 May 2037 13:51:48 -0000, locale=es; path=/, _session_id2=8f45c4820fe5d855e25a1d090da52598; path=/; expires=Fri, 12 May 2017 19:51:49 -0000; HttpOnly
+content-length: 11262
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=115339972
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>115339972</id>
+    
+  <user>
+    <id>614778</id>
+    <name>Ahmad</name>
+    <display_name>Ahmad Sharabiani</display_name>
+
+    <location>Tehran, 28, Iran</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/614778-ahmad-sharabiani]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1194930432p3/614778.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1194930432p2/614778.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">6354221</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <title>جایی که پیاده رو تموم میشه</title>
+  <title_without_series>جایی که پیاده رو تموم میشه</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6354221</link>
+  <num_pages>200</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>کتاب پنجره</publisher>
+  <publication_day/>
+  <publication_year/>
+  <publication_month/>
+  <average_rating>4.28</average_rating>
+  <ratings_count>1010776</ratings_count>
+  <description>Where the Sidewalk Ends turns forty! Celebrate with this anniversary edition that features an eye-catching commemorative red sticker. This classic poetry collection, which is both outrageously funny and profound, has been the most beloved of Shel Silverstein's poetry books for generations.&lt;br /&gt;&lt;br /&gt;Where the sidewalk ends, Shel Silverstein's world begins. There you'll meet a boy who turns into a TV set and a girl who eats a whale. The Unicorn and the Bloath live there, and so does Sarah Cynthia Sylvia Stout who will not take the garbage out. It is a place where you wash your shadow and plant diamond gardens, a place where shoes fly, sisters are auctioned off, and crocodiles go to the dentist.&lt;br /&gt;&lt;br /&gt;Shel Silverstein's masterful collection of poems and drawings is one of Parent &amp;amp; Child magazine's 100 Greatest Books for Kids. School Library Journal said, "Silverstein has an excellent sense of rhythm and rhyme and a good ear for alliteration and assonance that make these poems a pleasure to read aloud."&lt;br /&gt;&lt;br /&gt;Shel Silverstein's incomparable career as a children's book author and illustrator began with Lafcadio, the Lion Who Shot Back. In 1964, Shel's creativity continued to flourish as four more books were published in the same year—Don't Bump the Glump!, A Giraffe and a Half, Who Wants a Cheap Rhinoceros?, and the beloved classic The Giving Tree. Later he continued to build his remarkable body of work with Where the Sidewalk Ends, A Light in the Attic, Falling Up, Every Thing On It, The Missing Piece, The Missing Piece Meets the Big O, and Runny Babbit.</description>
+<authors>
+<author>
+<id>435477</id>
+<name>Shel Silverstein</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201029128p5/435477.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201029128p2/435477.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/435477.Shel_Silverstein]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>2185897</ratings_count>
+<text_reviews_count>30409</text_reviews_count>
+</author>
+</authors>
+  <published/>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1360373251</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Thu May 19 23:11:14 -0700 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>4</rating>
+  <votes>20</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="poetry" exclusive="false" review_shelf_id="66009306" sortable="false" />
+    <shelf name="childrens-young-readers" exclusive="false" review_shelf_id="66009274" sortable="false" />
+    <shelf name="fiction" exclusive="false" review_shelf_id="66009293" sortable="false" />
+    <shelf name="20th-century" exclusive="false" review_shelf_id="1314716010" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sun Nov 01 00:00:00 -0700 2009</read_at>
+  <date_added>Thu Aug 05 08:18:32 -0700 2010</date_added>
+  <date_updated>Sat Dec 31 03:04:45 -0800 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Where the Sidewalk Ends: The Poems and Drawings of Shel Silverstein, Shel Silverstein <br />عنوان: جایی که پیاده رو تموم میشه؛ سرایش و اثر: شل سیلورستاین؛ مترجم: حمید خادمی؛ تهران، کتاب پنجره، 1378، در 184 ص؛ شابک: 9649225730؛ چاپ دوم 1379؛ چاپ سوم و چهارم 1380؛ چاپ ششم 1382؛ چاپ هشتم 1387؛ شابک: 97896...]]>
+  </body>
+
+  
+
+  <comments_count>4</comments_count>
+    <comments start="1" end="4" total="4">
+        <comment>
+  <id>19624919</id>
+  <body><![CDATA[سلام<br />نوشته تون در مورد استاین، منو دوباره به فضای صمیمی و پاک شعرهاش برد.]]></body>
+  
+  <user>
+    <id>2489132</id>
+    <name>Saeed</name>
+    <display_name>Saeed Soleymany</display_name>
+
+    <location>Tehran, 28, Iran</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2489132-saeed-soleymany]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 07 03:55:41 -0700 2010</created_at>
+  <updated_at>Sat Aug 07 03:55:41 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>19625800</id>
+  <body><![CDATA[سلام، استاین بچه ها را خوب می شناسه، اما، برای همه مینویسه، بابد فکر می کنه زمانی همه بچه بوده اند نوجوانان و حتی جوانان ایشان را خودی می دانند، از خودشون، گاه کارهایی که برا بچه هاست، عالم خیال توش موج میزنه، و استاین در این زمینه بی نظیره، انگار به مینیاتورهای بهزاد نگاه کنیم، بدون امضا هم که باشه معلومه که کار خودشه، خوشحالم که آن فضا را دوروبر خود احساس کردی، کاش همیشه آن فضای پاک در دسترست باشه، سپاسگزارم که ارج نهادی و نوشتی. میدونید، هرچه فکر کردم که ایشان چه طور این گونه پاک می اندیشه، به جایی نرسیدم. آرامش و رامش و صفای باطن به همراهتان. دوستدار ا. شربیانی]]></body>
+  
+  <user>
+    <id>614778</id>
+    <name>Ahmad</name>
+    <display_name>Ahmad Sharabiani</display_name>
+
+    <location>Tehran, 28, Iran</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/614778-ahmad-sharabiani]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1194930432p3/614778.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1194930432p2/614778.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 07 06:05:54 -0700 2010</created_at>
+  <updated_at>Sat Aug 07 06:05:54 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>19625891</id>
+  <body><![CDATA[شاید، شاید راز و رمز پاک نوشتن و پاک اندیشیدنش همونه که شما هم اشاره کرده اید: شناخت کودکی (یعنی شناخت اون چیزی که ما دیرزمانی است از دست داده ایم)<br />(انگار یه بچه دارم می نویسه!)<br />همون چیزی که در شازده کوچولو هم هست <br /><br />شاد باشید بسان لحظه ریختن قطرات باران بر گونه هایمان، آن زمان که کودک بودیم.]]></body>
+  
+  <user>
+    <id>2489132</id>
+    <name>Saeed</name>
+    <display_name>Saeed Soleymany</display_name>
+
+    <location>Tehran, 28, Iran</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2489132-saeed-soleymany]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 07 06:13:49 -0700 2010</created_at>
+  <updated_at>Sat Aug 07 06:13:49 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>19626551</id>
+  <body><![CDATA[کودکی دوری بزن، خستگی چرخی بزن، کهنگی را تازه کن، باز آهنگی بزن. از زمانه خسته ام، در به دنیا بسته ام. کودکی ها، جاده ها. شادی آنجا جسته ام. روز نو امروز نو، یاد دیروزم نبود. روز نو دیروز نو. آسمان خندید باز. باز شد گیسوی راز. آبی و رنگین کمان، چنگ عاشق بوی ساز. ممنون که سر شوقم آوردید، آری چه خوب تداعی کردید، بهرین مثالش شازده کوچولوست، بازان از کودکی مرا مدهوش می کند، کاش ببارد. شادم کردید، شادی و رامش برایتان آرزومندم. دوستدار ا. شربیانی]]></body>
+  
+  <user>
+    <id>614778</id>
+    <name>Ahmad</name>
+    <display_name>Ahmad Sharabiani</display_name>
+
+    <location>Tehran, 28, Iran</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/614778-ahmad-sharabiani]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1194930432p3/614778.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1194930432p2/614778.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 07 07:00:08 -0700 2010</created_at>
+  <updated_at>Sat Aug 07 07:00:08 -0700 2010</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/115339972]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/115339972]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

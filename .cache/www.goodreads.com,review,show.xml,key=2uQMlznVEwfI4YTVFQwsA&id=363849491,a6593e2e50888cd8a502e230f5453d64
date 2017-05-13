@@ -1,0 +1,383 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:50:55 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: HNJWS5W0EKB5VFWPPSE6
+etag: W/"e267fa173419b04d912c59590cbb6e67"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.179269
+set-cookie: csid=BAhJIhgxMTItMzk1NzMxMC0wNDA5ODQzBjoGRVQ%3D--9cf9fda23ccb79267d5ac4da4cac0c4a9812c1c4; path=/; expires=Tue, 12 May 2037 13:50:55 -0000, locale=es; path=/, _session_id2=c6a3845374d8aa281cf0f1f07f94bf3d; path=/; expires=Fri, 12 May 2017 19:50:55 -0000; HttpOnly
+content-length: 13928
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=363849491
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>363849491</id>
+    
+  <user>
+    <id>3147703</id>
+    <name>Rainbow</name>
+    <display_name>Rainbow</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3147703-rainbow]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1342324122p3/3147703.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1342324122p2/3147703.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">4374400</id>
+  <isbn>0525421033</isbn>
+  <isbn13>9780525421030</isbn13>
+  <text_reviews_count type="integer">26207</text_reviews_count>
+  <title>If I Stay (If I Stay, #1)</title>
+  <title_without_series>If I Stay</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1347462970m/4374400.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1347462970s/4374400.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/4374400-if-i-stay</link>
+  <num_pages>201</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.96</average_rating>
+  <ratings_count>549628</ratings_count>
+  <description>&lt;i&gt;Librarian note: an alternate cover for this edition can be found &lt;a href="https://www.goodreads.com/book/show/21570677-if-i-stay" rel="nofollow"&gt;here&lt;/a&gt;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Just listen, Adam says with a voice that sounds like shrapnel.&lt;br /&gt;&lt;br /&gt;I open my eyes wide now.&lt;br /&gt;I sit up as much as I can.&lt;br /&gt;And I listen.&lt;br /&gt;&lt;br /&gt;Stay, he says.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Choices. Seventeen-year-old Mia is faced with some tough ones: Stay true to her first love—music—even if it means losing her boyfriend and leaving her family and friends behind?&lt;br /&gt;&lt;br /&gt;Then one February morning Mia goes for a drive with her family, and in an instant, everything changes. Suddenly, all the choices are gone, except one. And it's the only one that matters.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;If I Stay&lt;/i&gt; is a heartachingly beautiful book about the power of love, the true meaning of family, and the choices we all make.</description>
+<authors>
+<author>
+<id>295178</id>
+<name>Gayle Forman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1472502468p5/295178.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1472502468p2/295178.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/295178.Gayle_Forman]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>966486</ratings_count>
+<text_reviews_count>78890</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1243163036</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Thu Feb 18 14:50:26 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>179</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Fri Jun 01 00:00:00 -0700 2012</read_at>
+  <date_added>Sun Jul 08 12:12:23 -0700 2012</date_added>
+  <date_updated>Sun Jan 12 04:20:54 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[UGHHHHHH.<br /><br />This book is wrenching!<br /><br />But lovely. With an interesting and unusual narrative. There's a lot of teen romance here, but it was the family dynamic that really did me in. (In a good way.)]]>
+  </body>
+
+  
+
+  <comments_count>11</comments_count>
+    <comments start="1" end="11" total="11">
+        <comment>
+  <id>93811468</id>
+  <body><![CDATA[If I Stay is beautifully tragic &lt;3]]></body>
+  
+  <user>
+    <id>29223084</id>
+    <name>Kayla Ortiz</name>
+    <display_name>Kayla Ortiz</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/29223084-kayla-ortiz]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Mar 02 12:28:22 -0800 2014</created_at>
+  <updated_at>Sun Mar 02 12:28:22 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104028922</id>
+  <body><![CDATA[My husband and I are actually looking forward to the movie that's coming out soon]]></body>
+  
+  <user>
+    <id>31985299</id>
+    <name>Larissah McKinley</name>
+    <display_name>Larissah McKinley</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/31985299-larissah-mckinley]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 10 10:49:58 -0700 2014</created_at>
+  <updated_at>Sun Aug 10 10:49:58 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104838250</id>
+  <body><![CDATA[i really am looking forward reading this book]]></body>
+  
+  <user>
+    <id>31315095</id>
+    <name>Fa6o0ma_alh</name>
+    <display_name>Fa6o0ma_alh</display_name>
+
+    <location><![CDATA[Dubai, 03, The United Arab Emirates]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/31315095-fa6o0ma-alh]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1428513570p3/31315095.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1428513570p2/31315095.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 23 09:32:20 -0700 2014</created_at>
+  <updated_at>Sat Aug 23 09:32:20 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>105940396</id>
+  <body><![CDATA[I agree when you say that Mia, her Parents, and Teddy (along with her grandparents, Aunts and uncles, etc. and Adam)had a very good family dynamic. They were very close and sweet to each other. They really seemed like a good family to be a part of-and I knew that already during the few pages before they died. It already seemed like I knew them and how good of people they were.]]></body>
+  
+  <user>
+    <id>34808301</id>
+    <name>Tatum</name>
+    <display_name>Tatum</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34808301-tatum]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu Sep 11 10:42:38 -0700 2014</created_at>
+  <updated_at>Thu Sep 11 10:42:38 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>108022358</id>
+  <body><![CDATA[If you like this book, check out my If I Stay blog! <a target="_blank" href="http://kam3bloggers.blogspot.com" rel="nofollow">http://kam3bloggers.blogspot.com</a><br />In my english class, we are doing this for a lit-circle project so check it out!]]></body>
+  
+  <user>
+    <id>36105021</id>
+    <name>Marissa</name>
+    <display_name>Marissa Telles</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/36105021-marissa-telles]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1413747470p3/36105021.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1413747470p2/36105021.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Oct 19 12:45:44 -0700 2014</created_at>
+  <updated_at>Sun Oct 19 12:45:44 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>108162994</id>
+  <body><![CDATA[thankss i will &lt;3]]></body>
+  
+  <user>
+    <id>31315095</id>
+    <name>Fa6o0ma_alh</name>
+    <display_name>Fa6o0ma_alh</display_name>
+
+    <location><![CDATA[Dubai, 03, The United Arab Emirates]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/31315095-fa6o0ma-alh]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1428513570p3/31315095.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1428513570p2/31315095.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Oct 22 03:52:36 -0700 2014</created_at>
+  <updated_at>Wed Oct 22 03:52:36 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>138388571</id>
+  <body><![CDATA[I agree completely.]]></body>
+  
+  <user>
+    <id>39611760</id>
+    <name>RiodranNut</name>
+    <display_name>RiodranNut</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/39611760-riodrannut]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 11 21:14:37 -0700 2015</created_at>
+  <updated_at>Tue Aug 11 21:14:37 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>143663484</id>
+  <body><![CDATA[I really agree, I feel it was the perfect balance with wrenching and lovely. A little bit more and it would have been way too wrenching.]]></body>
+  
+  <user>
+    <id>47847225</id>
+    <name>Laura</name>
+    <display_name>Laura Tamayo</display_name>
+
+    <location>Tampico , 32, Mexico</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/47847225-laura-tamayo]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 30 18:31:46 -0800 2015</created_at>
+  <updated_at>Mon Nov 30 18:31:46 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>144094335</id>
+  <body><![CDATA[Rainbow I agree with what you said, the breaking family is what got me too.]]></body>
+  
+  <user>
+    <id>47851137</id>
+    <name>Melissa</name>
+    <display_name>Melissa Gonzalez</display_name>
+
+    <location>Garza García, 19, Mexico</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/47851137-melissa-gonzalez]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 08 19:35:30 -0800 2015</created_at>
+  <updated_at>Tue Dec 08 19:35:30 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>144173641</id>
+  <body><![CDATA[Rainbow I felt like my mind was wrenching too.]]></body>
+  
+  <user>
+    <id>47851140</id>
+    <name>Rodrigo</name>
+    <display_name>Rodrigo Torres </display_name>
+
+    <location>Tampico, 28, Mexico</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/47851140-rodrigo-torres]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1444670187p3/47851140.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1444670187p2/47851140.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Dec 10 16:02:09 -0800 2015</created_at>
+  <updated_at>Thu Dec 10 16:02:09 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>157664338</id>
+  <body><![CDATA[This book is beautifully written, and was thought through very well. It had a certain flow that is hard to have in even a goof book.]]></body>
+  
+  <user>
+    <id>46745417</id>
+    <name>Ananya</name>
+    <display_name>Ananya</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/46745417-ananya]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu Oct 06 08:48:58 -0700 2016</created_at>
+  <updated_at>Thu Oct 06 08:48:58 -0700 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/363849491]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/363849491]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

@@ -1,0 +1,659 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:55:19 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: J12NPB289TKJ5V0H99TT
+etag: W/"b5021f06cff95e29c6406ae8ca4a2de8"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.243653
+set-cookie: csid=BAhJIhgxMzAtNjcwMjE3MS01MTE5ODA2BjoGRVQ%3D--76a53c34aa2930945ba6e3f0082434bfe398788b; path=/; expires=Tue, 12 May 2037 13:55:18 -0000, locale=es; path=/, _session_id2=a6c1a75e046f220db5994c207ecf94f1; path=/; expires=Fri, 12 May 2017 19:55:19 -0000; HttpOnly
+content-length: 22598
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=36283775
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>36283775</id>
+    
+  <user>
+    <id>1526851</id>
+    <name>Will</name>
+    <display_name>Will Byrnes</display_name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1526851-will-byrnes]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291462190p3/1526851.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291462190p2/1526851.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">960</id>
+  <isbn>1416524797</isbn>
+  <isbn13>9781416524793</isbn13>
+  <text_reviews_count type="integer">19261</text_reviews_count>
+  <title>Angels &amp; Demons  (Robert Langdon, #1)</title>
+  <title_without_series>Angels &amp; Demons</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1303390735m/960.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1303390735s/960.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/960.Angels_Demons</link>
+  <num_pages>713</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information>Pocket Books Premium Edition</edition_information>
+  <publisher>Pocket Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.85</average_rating>
+  <ratings_count>2025141</ratings_count>
+  <description>When world-renowned Harvard symbologist Robert Langdon is summoned to a Swiss research facility to analyze a mysterious symbol—seared into the chest of a murdered physicist—he discovers evidence of the unimaginable: the resurgence of an ancient secret brotherhood known as the Illuminati ... the most powerful underground organization ever to walk the earth. The Illuminati has now surfaced to carry out the final phase of its legendary vendetta against its most hated enemy—the Catholic Church. &lt;br /&gt;&lt;br /&gt;Langdon’s worst fears are confirmed on the eve of the holy conclave, when a messenger of the Illuminati announces they have hidden an unstoppable time bomb at the very heart of Vatican City. With the countdown under way, Langdon jets to Rome to join forces with Vittoria Vetra, a beautiful and mysterious Italian scientist, to assist the Vatican in a desperate bid for survival. &lt;br /&gt;&lt;br /&gt;Embarking on a frantic hunt through sealed crypts, dangerous catacombs, deserted cathedrals, and even the most secretive vault on earth, Langdon and Vetra follow a 400-year-old trail of ancient symbols that snakes across Rome toward the long-forgotten Illuminati lair ... a clandestine location that contains the only hope for Vatican salvation.</description>
+<authors>
+<author>
+<id>630</id>
+<name>Dan Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p5/630.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p2/630.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/630.Dan_Brown]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>5211301</ratings_count>
+<text_reviews_count>138647</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1637448373</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Thu Dec 29 21:42:58 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>4</rating>
+  <votes>104</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Jun 01 00:00:00 -0700 2004</read_at>
+  <date_added>Sun Oct 26 22:43:15 -0700 2008</date_added>
+  <date_updated>Wed Jan 04 21:21:43 -0800 2017</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Robert Langdon is the protagonist. This is the first novel in which the character appears (The DaVinci Code being the most famous) The well-known symbologist is called in by the director of CERN when a renowned scientist is found murdered. The scientist had created anti-matter, in an attempt to d...]]>
+  </body>
+
+  
+
+  <comments_count>23</comments_count>
+    <comments start="1" end="23" total="23">
+        <comment>
+  <id>74571135</id>
+  <body><![CDATA[Will:<br /><br />I was encouraged to read this even though I said I didn't particularly like The Da Vinci Code. <br /><br />Apparently you enjoyed it, giving it four stars.]]></body>
+  
+  <user>
+    <id>6637209</id>
+    <name>Cathy</name>
+    <display_name>Cathy DuPont</display_name>
+
+    <location>Saint Augustine, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6637209-cathy-dupont]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1393680963p3/6637209.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1393680963p2/6637209.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue May 21 11:31:44 -0700 2013</created_at>
+  <updated_at>Tue May 21 11:31:44 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>74585001</id>
+  <body><![CDATA[It was a fun read.]]></body>
+  
+  <user>
+    <id>1526851</id>
+    <name>Will</name>
+    <display_name>Will Byrnes</display_name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1526851-will-byrnes]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291462190p3/1526851.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291462190p2/1526851.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue May 21 14:51:04 -0700 2013</created_at>
+  <updated_at>Tue May 21 14:51:04 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>74585880</id>
+  <body><![CDATA[I misread the title as "The Inferno," and was going to comment that it was a <i>fast</i> read, lol.]]></body>
+  
+  <user>
+    <id>5864678</id>
+    <name>Jan</name>
+    <display_name>Jan Rice</display_name>
+
+    <location>Atlanta, GA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5864678-jan-rice]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1457653045p3/5864678.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1457653045p2/5864678.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue May 21 15:02:34 -0700 2013</created_at>
+  <updated_at>Tue May 21 15:02:34 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>74587617</id>
+  <body><![CDATA[While the Dante version is worth lingering over, I imagine one would want to scoot past the other one ASAP]]></body>
+  
+  <user>
+    <id>1526851</id>
+    <name>Will</name>
+    <display_name>Will Byrnes</display_name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1526851-will-byrnes]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291462190p3/1526851.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291462190p2/1526851.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue May 21 15:28:04 -0700 2013</created_at>
+  <updated_at>Tue May 21 15:28:04 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>74589417</id>
+  <body><![CDATA[And there was that other book, <a href="https://www.goodreads.com/book/show/18402.The_Dante_Club" title="The Dante Club by Matthew Pearl" rel="nofollow">The Dante Club</a>. I read it a long time ago! A "four," I'm thinking.]]></body>
+  
+  <user>
+    <id>5864678</id>
+    <name>Jan</name>
+    <display_name>Jan Rice</display_name>
+
+    <location>Atlanta, GA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5864678-jan-rice]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1457653045p3/5864678.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1457653045p2/5864678.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue May 21 15:53:49 -0700 2013</created_at>
+  <updated_at>Tue May 21 15:53:49 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>96071564</id>
+  <body><![CDATA[Hey]]></body>
+  
+  <user>
+    <id>29657298</id>
+    <name>david opara</name>
+    <display_name>david opara</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/29657298-david-opara]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat Apr 05 13:29:29 -0700 2014</created_at>
+  <updated_at>Sat Apr 05 13:29:29 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>160764005</id>
+  <body><![CDATA[Yes LOL.]]></body>
+  
+  <user>
+    <id>63009424</id>
+    <name>dd</name>
+    <display_name>dd</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/63009424-dd]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Dec 30 05:11:10 -0800 2016</created_at>
+  <updated_at>Fri Dec 30 05:11:10 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>160767486</id>
+  <body><![CDATA[<i>Jan wrote: "And there was that other book, <a href="https://www.goodreads.com/book/show/18402.The_Dante_Club" title="The Dante Club by Matthew Pearl" rel="nofollow">The Dante Club</a>. I read it a long time ago! A "four," I'm thinking."</i><br />I am pretty sure I read that one, but in my pre-GR life, thus no notes and only the dimmest recollection.]]></body>
+  
+  <user>
+    <id>1526851</id>
+    <name>Will</name>
+    <display_name>Will Byrnes</display_name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1526851-will-byrnes]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291462190p3/1526851.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291462190p2/1526851.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Dec 30 07:10:37 -0800 2016</created_at>
+  <updated_at>Fri Dec 30 07:10:37 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>160779864</id>
+  <body><![CDATA[How was this book? Not sure if I should read it or not.]]></body>
+  
+  <user>
+    <id>39183193</id>
+    <name>Arwen Campbell</name>
+    <display_name>Arwen Campbell</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/39183193-arwen-campbell]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Dec 30 12:24:40 -0800 2016</created_at>
+  <updated_at>Fri Dec 30 12:24:40 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>160788772</id>
+  <body><![CDATA[It is a fun read, not a must read.]]></body>
+  
+  <user>
+    <id>1526851</id>
+    <name>Will</name>
+    <display_name>Will Byrnes</display_name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1526851-will-byrnes]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291462190p3/1526851.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291462190p2/1526851.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Dec 30 16:04:07 -0800 2016</created_at>
+  <updated_at>Fri Dec 30 16:04:07 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>160807037</id>
+  <body><![CDATA[great review. I liked his first book so much better.]]></body>
+  
+  <user>
+    <id>4659464</id>
+    <name>Jessaka</name>
+    <display_name>Jessaka</display_name>
+
+    <location>Tahlequah, OK</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4659464-jessaka]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1485709659p3/4659464.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1485709659p2/4659464.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Dec 31 04:55:53 -0800 2016</created_at>
+  <updated_at>Sat Dec 31 04:55:53 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>160844819</id>
+  <body><![CDATA[Thanks, Jessaka]]></body>
+  
+  <user>
+    <id>1526851</id>
+    <name>Will</name>
+    <display_name>Will Byrnes</display_name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1526851-will-byrnes]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291462190p3/1526851.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291462190p2/1526851.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Dec 31 22:34:42 -0800 2016</created_at>
+  <updated_at>Sat Dec 31 22:34:42 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>160845173</id>
+  <body><![CDATA[I remember thinking that this was so much better than Da Vinci Code. Pulp nonsense, but a good read.]]></body>
+  
+  <user>
+    <id>5776367</id>
+    <name>Donna</name>
+    <display_name>Donna</display_name>
+
+    <location>Toronto, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5776367-donna]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1481355492p3/5776367.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1481355492p2/5776367.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Dec 31 22:48:16 -0800 2016</created_at>
+  <updated_at>Sat Dec 31 22:48:16 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>160846330</id>
+  <body><![CDATA[I enjoyed the both]]></body>
+  
+  <user>
+    <id>1526851</id>
+    <name>Will</name>
+    <display_name>Will Byrnes</display_name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1526851-will-byrnes]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291462190p3/1526851.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291462190p2/1526851.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Dec 31 23:36:50 -0800 2016</created_at>
+  <updated_at>Sat Dec 31 23:36:50 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>161078175</id>
+  <body><![CDATA[Unfortunately, I see Tom Hanks whenever this series comes to mind °͜° Hahahahahaaaahahahaaa]]></body>
+  
+  <user>
+    <id>36549125</id>
+    <name>William</name>
+    <display_name>William</display_name>
+
+    <location>London, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/36549125-william]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1415447115p3/36549125.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1415447115p2/36549125.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 05 05:12:30 -0800 2017</created_at>
+  <updated_at>Thu Jan 05 05:12:30 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161098187</id>
+  <body><![CDATA[He works pretty well as Robert Langdon]]></body>
+  
+  <user>
+    <id>1526851</id>
+    <name>Will</name>
+    <display_name>Will Byrnes</display_name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1526851-will-byrnes]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291462190p3/1526851.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291462190p2/1526851.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 05 12:54:23 -0800 2017</created_at>
+  <updated_at>Thu Jan 05 12:54:23 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161109601</id>
+  <body><![CDATA[Can you fallow me on here]]></body>
+  
+  <user>
+    <id>53730866</id>
+    <name>Jordan</name>
+    <display_name>Jordan</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/53730866-jordan]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 05 17:32:13 -0800 2017</created_at>
+  <updated_at>Thu Jan 05 17:32:13 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161109632</id>
+  <body><![CDATA[You work pretty well]]></body>
+  
+  <user>
+    <id>53730866</id>
+    <name>Jordan</name>
+    <display_name>Jordan</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/53730866-jordan]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 05 17:33:02 -0800 2017</created_at>
+  <updated_at>Thu Jan 05 17:33:02 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161121453</id>
+  <body><![CDATA[Thanks, Jordan, I think.]]></body>
+  
+  <user>
+    <id>1526851</id>
+    <name>Will</name>
+    <display_name>Will Byrnes</display_name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1526851-will-byrnes]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291462190p3/1526851.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291462190p2/1526851.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 06 00:58:40 -0800 2017</created_at>
+  <updated_at>Fri Jan 06 00:58:40 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>164548100</id>
+  <body><![CDATA[Do you have to read these books in order?]]></body>
+  
+  <user>
+    <id>53731904</id>
+    <name>Katie</name>
+    <display_name>Katie Robbins</display_name>
+
+    <location>Reynoldsburg, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/53731904-katie-robbins]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu Mar 30 14:59:25 -0700 2017</created_at>
+  <updated_at>Thu Mar 30 14:59:25 -0700 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>164603815</id>
+  <body><![CDATA[I don't think one needs to worry too much about sequence in these books.]]></body>
+  
+  <user>
+    <id>1526851</id>
+    <name>Will</name>
+    <display_name>Will Byrnes</display_name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1526851-will-byrnes]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291462190p3/1526851.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291462190p2/1526851.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Apr 01 00:31:49 -0700 2017</created_at>
+  <updated_at>Sat Apr 01 00:31:49 -0700 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>164603885</id>
+  <body><![CDATA[Wonderful review Will. I am glad you liked it.]]></body>
+  
+  <user>
+    <id>55502227</id>
+    <name>Stacy</name>
+    <display_name>Stacy</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/55502227-stacy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1489545067p3/55502227.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1489545067p2/55502227.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Apr 01 00:36:51 -0700 2017</created_at>
+  <updated_at>Sat Apr 01 00:36:51 -0700 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>164640868</id>
+  <body><![CDATA[Thanks, Stacy]]></body>
+  
+  <user>
+    <id>1526851</id>
+    <name>Will</name>
+    <display_name>Will Byrnes</display_name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1526851-will-byrnes]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1291462190p3/1526851.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1291462190p2/1526851.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Apr 02 02:17:22 -0700 2017</created_at>
+  <updated_at>Sun Apr 02 02:17:22 -0700 2017</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/36283775]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/36283775]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

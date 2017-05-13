@@ -1,0 +1,578 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:40:15 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: VBE8D8D6H3B8WWB9TE7J
+etag: W/"9810e35984994b699343112d8fc192da"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.392948
+set-cookie: csid=BAhJIhg5NTktNzkwMzA0OC00OTY4NzkwBjoGRVQ%3D--8bb096ab14d250966b0407e7095623ee5139eb6a; path=/; expires=Tue, 12 May 2037 13:40:15 -0000, locale=es; path=/, _session_id2=d693d0203aa32f486d5bb91a88609078; path=/; expires=Fri, 12 May 2017 19:40:15 -0000; HttpOnly
+content-length: 24535
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=24420412
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>24420412</id>
+    
+  <user>
+    <id>1237196</id>
+    <name>Petra Eggs</name>
+    <display_name>Petra Eggs</display_name>
+
+    <location><![CDATA[Cuba Cigar Factory, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1237196-petra-eggs]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487547378p3/1237196.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487547378p2/1237196.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">2657</id>
+  <isbn>0061120081</isbn>
+  <isbn13>9780061120084</isbn13>
+  <text_reviews_count type="integer">57655</text_reviews_count>
+  <title>To Kill a Mockingbird</title>
+  <title_without_series>To Kill a Mockingbird</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1361975680m/2657.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1361975680s/2657.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2657.To_Kill_a_Mockingbird</link>
+  <num_pages>324</num_pages>
+  <format>Paperback</format>
+  <edition_information>50th Anniversary</edition_information>
+  <publisher>Harper Perennial Modern Classics</publisher>
+  <publication_day>23</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.25</average_rating>
+  <ratings_count>3269503</ratings_count>
+  <description>The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it, To Kill A Mockingbird became both an instant bestseller and a critical success when it was first published in 1960. It went on to win the Pulitzer Prize in 1961 and was later made into an Academy Award-winning film, also a classic.&lt;br /&gt;&lt;br /&gt;Compassionate, dramatic, and deeply moving, To Kill A Mockingbird takes readers to the roots of human behavior - to innocence and experience, kindness and cruelty, love and hatred, humor and pathos. Now with over 18 million copies in print and translated into forty languages, this regional story by a young Alabama woman claims universal appeal. Harper Lee always considered her book to be a simple love story. Today it is regarded as a masterpiece of American literature.</description>
+<authors>
+<author>
+<id>1825</id>
+<name>Harper Lee</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1188820730p5/1825.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1188820730p2/1825.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1825.Harper_Lee]]></link>
+<average_rating>4.21</average_rating>
+<ratings_count>3434236</ratings_count>
+<text_reviews_count>95107</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1216718145</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Jan 31 12:34:35 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>138</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="2015-reviews" exclusive="false" review_shelf_id="1151112542" sortable="false" />
+    <shelf name="reviewed" exclusive="false" review_shelf_id="1154285694" sortable="false" />
+    <shelf name="fiction" exclusive="false" review_shelf_id="10435406" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Dec 09 00:00:00 -0800 2015</read_at>
+  <date_added>Fri Jun 13 11:11:12 -0700 2008</date_added>
+  <date_updated>Thu Sep 29 14:44:30 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Even in the evil times when John Crow ruled the South and the Blacks were scarcely more free than in times of slavery and were allowed no civic power nor respect from their erswhile masters who were White, good men did their best.<br /><br />As regards this book, the last phrase is a lie.<br /><br />Atticus, a lawyer an...]]>
+  </body>
+
+  
+
+  <comments_count>20</comments_count>
+    <comments start="1" end="20" total="20">
+        <comment>
+  <id>144112762</id>
+  <body><![CDATA[<i>Sabah wrote: "Petra, wow, an incredibly passionate review. I loved To Kill a Mockingbird but cannot dispute anything that you've stated here."</i><br /><br />Thanks. Half my family are Black. Politicans, business owners that sort of thing. I don't suppose they would have been in the South.]]></body>
+  
+  <user>
+    <id>1237196</id>
+    <name>Petra Eggs</name>
+    <display_name>Petra Eggs</display_name>
+
+    <location><![CDATA[Cuba Cigar Factory, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1237196-petra-eggs]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487547378p3/1237196.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487547378p2/1237196.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Dec 09 09:10:20 -0800 2015</created_at>
+  <updated_at>Wed Dec 09 09:10:20 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>144113100</id>
+  <body><![CDATA[Wow! Great review as always!]]></body>
+  
+  <user>
+    <id>27962805</id>
+    <name>Choko</name>
+    <display_name>Choko</display_name>
+
+    <location>Saint Louis, MO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27962805-choko]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1475642755p3/27962805.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1475642755p2/27962805.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Dec 09 09:19:15 -0800 2015</created_at>
+  <updated_at>Wed Dec 09 09:19:15 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>144113278</id>
+  <body><![CDATA[Amazing review, Petra.]]></body>
+  
+  <user>
+    <id>25353295</id>
+    <name>Carmen</name>
+    <display_name>Carmen</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25353295-carmen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1412617445p3/25353295.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1412617445p2/25353295.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Dec 09 09:24:31 -0800 2015</created_at>
+  <updated_at>Wed Dec 09 09:24:31 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>144113334</id>
+  <body><![CDATA[Thanks Choko and Carmen. I was getting fed up of seeing all the praise for TKAM by people who didn't want to read/take on board <a href="https://www.goodreads.com/book/show/24817626.Go_Set_a_Watchman" title="Go Set a Watchman by Harper Lee" rel="nofollow">Go Set a Watchman</a>. They are still teaching TKAM in schools here in the Caribbean and elsewhere as a wonderful moral story.]]></body>
+  
+  <user>
+    <id>1237196</id>
+    <name>Petra Eggs</name>
+    <display_name>Petra Eggs</display_name>
+
+    <location><![CDATA[Cuba Cigar Factory, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1237196-petra-eggs]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487547378p3/1237196.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487547378p2/1237196.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Dec 09 09:25:53 -0800 2015</created_at>
+  <updated_at>Wed Dec 09 09:25:53 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>144120773</id>
+  <body><![CDATA[An excellent review Petra.<br /><br />I've had this book for years and never read it so perhaps one of these days...]]></body>
+  
+  <user>
+    <id>15736557</id>
+    <name>Lynne</name>
+    <display_name>Lynne King</display_name>
+
+    <location>France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15736557-lynne-king]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1357126217p3/15736557.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1357126217p2/15736557.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Dec 09 12:38:49 -0800 2015</created_at>
+  <updated_at>Wed Dec 09 12:38:49 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>144132283</id>
+  <body><![CDATA[Excellent review!!!]]></body>
+  
+  <user>
+    <id>15662887</id>
+    <name>Deanna </name>
+    <display_name>Deanna </display_name>
+
+    <location>Winnipeg, MB, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15662887-deanna]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1437589889p3/15662887.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1437589889p2/15662887.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Dec 09 17:32:25 -0800 2015</created_at>
+  <updated_at>Wed Dec 09 17:32:25 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>144132564</id>
+  <body><![CDATA[Thank you Lynne and Deanna.]]></body>
+  
+  <user>
+    <id>1237196</id>
+    <name>Petra Eggs</name>
+    <display_name>Petra Eggs</display_name>
+
+    <location><![CDATA[Cuba Cigar Factory, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1237196-petra-eggs]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487547378p3/1237196.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487547378p2/1237196.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Dec 09 17:39:08 -0800 2015</created_at>
+  <updated_at>Wed Dec 09 17:39:08 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>144141740</id>
+  <body><![CDATA[I agree with you that we can't continue to look at Atticus Finch solely as he is presented in TKAM. Putting the two stories together presents a more complex (and far less comfortable) picture that should drive deeper discussions.]]></body>
+  
+  <user>
+    <id>8036318</id>
+    <name>Kim</name>
+    <display_name>Kim</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8036318-kim]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1451702753p3/8036318.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1451702753p2/8036318.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Dec 09 22:41:11 -0800 2015</created_at>
+  <updated_at>Wed Dec 09 22:41:11 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>144141821</id>
+  <body><![CDATA[Discomfort calls forth questioning and perhaps change. Comfort means the status quo is quite all right as it is.]]></body>
+  
+  <user>
+    <id>1237196</id>
+    <name>Petra Eggs</name>
+    <display_name>Petra Eggs</display_name>
+
+    <location><![CDATA[Cuba Cigar Factory, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1237196-petra-eggs]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487547378p3/1237196.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487547378p2/1237196.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Dec 09 22:45:49 -0800 2015</created_at>
+  <updated_at>Wed Dec 09 22:45:49 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>144155618</id>
+  <body><![CDATA[Very thoughtful review, Petra. Well done!]]></body>
+  
+  <user>
+    <id>3440334</id>
+    <name>Fred</name>
+    <display_name>Fred Forbes</display_name>
+
+    <location>Palmetto, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3440334-fred-forbes]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488386419p3/3440334.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488386419p2/3440334.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Dec 10 08:48:56 -0800 2015</created_at>
+  <updated_at>Thu Dec 10 08:48:56 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>144161519</id>
+  <body><![CDATA[<i>Petra X wrote: "Thanks Choko and Carmen. I was getting fed up of seeing all the praise for TKAM by people who didn't want to read/take on board <a href="https://www.goodreads.com/book/show/24817626.Go_Set_a_Watchman" title="Go Set a Watchman by Harper Lee" rel="nofollow">Go Set a Watchman</a>."</i><br /><br />I guess i was one of these people who didn;t want to read GSAT, but you are right i was probably being cowardly. I stand corrected]]></body>
+  
+  <created_at>Thu Dec 10 11:13:46 -0800 2015</created_at>
+  <updated_at>Thu Dec 10 11:13:46 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>144181042</id>
+  <body><![CDATA[<i>Sidharth wrote: "I guess i was one of these people who didn;t want to read GSAT, but you are right i was probably being cowardly. I stand corrected"</i><br /><br />It depends on the book is viewed. If it is just as a good novel then it really doesn't matter if GSaW is read or not. However if TKaM is reviewed as fictionalised social history, then really the reviewer owes it to themself to read the first version of the book, Watchman.]]></body>
+  
+  <user>
+    <id>1237196</id>
+    <name>Petra Eggs</name>
+    <display_name>Petra Eggs</display_name>
+
+    <location><![CDATA[Cuba Cigar Factory, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1237196-petra-eggs]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487547378p3/1237196.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487547378p2/1237196.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Dec 10 19:09:03 -0800 2015</created_at>
+  <updated_at>Thu Dec 10 19:09:03 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>148184340</id>
+  <body><![CDATA[Comment deleted. Friend deleted. I am not slagging off the recently died by suggesting that this book in the light of Watchman was really deeply racist. And it is certainly not because I am a paranoid Jew.]]></body>
+  
+  <user>
+    <id>1237196</id>
+    <name>Petra Eggs</name>
+    <display_name>Petra Eggs</display_name>
+
+    <location><![CDATA[Cuba Cigar Factory, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1237196-petra-eggs]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487547378p3/1237196.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487547378p2/1237196.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 27 08:38:35 -0800 2016</created_at>
+  <updated_at>Sat Feb 27 08:38:35 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>148186177</id>
+  <body><![CDATA[I had the same reaction to this book. Though I didn't think it was all that well written either. :) So, now you can't have a different opinion?]]></body>
+  
+  <user>
+    <id>5858699</id>
+    <name>Kavita</name>
+    <display_name>Kavita</display_name>
+
+    <location>India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5858699-kavita]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1315387023p3/5858699.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1315387023p2/5858699.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 27 09:21:15 -0800 2016</created_at>
+  <updated_at>Sat Feb 27 09:21:15 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>148186209</id>
+  <body><![CDATA[Petra, this is the most comprehensive review I've read on this book with the hindsight and context that <a href="https://www.goodreads.com/book/show/24817626.Go_Set_a_Watchman" title="Go Set a Watchman by Harper Lee" rel="nofollow">Go Set a Watchman</a> provides. <br /><br />I loved reading <a href="https://www.goodreads.com/book/show/2657.To_Kill_a_Mockingbird" title="To Kill a Mockingbird by Harper Lee" rel="nofollow">To Kill a Mockingbird</a> in my youth but living in a very different culture, I lacked the connection to really understand it. <br /><br />This makes perfect sense:<br /><i>Schools still teaching this book as a moral lesson should incorporate their understanding of the first draft, Go Set a Watchman. Otherwise they are doing the children a disservice...</i><br /><br />Unfortunately I don't think the political atmosphere would allowed for schools to take such a nuanced take on this issue, at least not in the United States.<br /><br />I have resisted reading <a href="https://www.goodreads.com/book/show/24817626.Go_Set_a_Watchman" title="Go Set a Watchman by Harper Lee" rel="nofollow">Go Set a Watchman</a> and I have to admit, my biggest fear has been to lose the picture-perfect image of Atticus Finch but I guess the cat is out of the bag anyway.<br /><br />Your review really inspires me to read <a href="https://www.goodreads.com/book/show/24817626.Go_Set_a_Watchman" title="Go Set a Watchman by Harper Lee" rel="nofollow">Go Set a Watchman</a> soon, thank you this was very enlightening.]]></body>
+  
+  <user>
+    <id>2641948</id>
+    <name>Iris P</name>
+    <display_name>Iris P</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2641948-iris-p]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483406411p3/2641948.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483406411p2/2641948.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 27 09:22:02 -0800 2016</created_at>
+  <updated_at>Sat Feb 27 09:22:02 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>148190704</id>
+  <body><![CDATA[<i>Iris wrote: "this is the most comprehensive review I've read on this book with the hindsight and context that <a href="https://www.goodreads.com/book/show/24817626.Go_Set_a_Watchman" title="Go Set a Watchman by Harper Lee" rel="nofollow">Go Set a Watchman</a> provides...."</i><br /><br />Thank you. Watchman is, as a novel, not of the calibre of Mockingbird. The first 2/3rds aren't exactly scintillating either. But it's one of those books which is greater than the sum of it's parts.]]></body>
+  
+  <user>
+    <id>1237196</id>
+    <name>Petra Eggs</name>
+    <display_name>Petra Eggs</display_name>
+
+    <location><![CDATA[Cuba Cigar Factory, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1237196-petra-eggs]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487547378p3/1237196.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487547378p2/1237196.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 27 11:12:53 -0800 2016</created_at>
+  <updated_at>Sat Feb 27 11:12:53 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157427401</id>
+  <body><![CDATA[I also was unsure about reading GSAW, but I may just do so now, just to have a better understanding of a story that I enjoyed so much (I read Mockingbird around 7 years ago.)]]></body>
+  
+  <user>
+    <id>6692762</id>
+    <name>Ellen</name>
+    <display_name>Ellen B</display_name>
+
+    <location>East Syracuse, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6692762-ellen-b]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1332767979p3/6692762.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1332767979p2/6692762.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 30 04:31:52 -0700 2016</created_at>
+  <updated_at>Fri Sep 30 04:31:52 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157432066</id>
+  <body><![CDATA[<i>Ellen wrote: "I also was unsure about reading GSAW, but I may just do so now, just to have a better understanding of a story that I enjoyed so much (I read Mockingbird around 7 years ago.)"</i><br /><br />If you read <a href="https://www.goodreads.com/book/show/24817626.Go_Set_a_Watchman" title="Go Set a Watchman by Harper Lee" rel="nofollow">Go Set a Watchman</a> and it is worth it, just keep in mind that this was the first draft, the story that Harper Lee intended, and was rejected by the publishers, who got her to write Mockingbird. Probably the editorial process encouraged the young writer at every turn and the result is 100% turnaround politically.]]></body>
+  
+  <user>
+    <id>1237196</id>
+    <name>Petra Eggs</name>
+    <display_name>Petra Eggs</display_name>
+
+    <location><![CDATA[Cuba Cigar Factory, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1237196-petra-eggs]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487547378p3/1237196.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487547378p2/1237196.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 30 07:15:33 -0700 2016</created_at>
+  <updated_at>Fri Sep 30 07:15:33 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157459592</id>
+  <body><![CDATA[Like Iris, I have resisted reading Watchman because I love Mockingbird and didn't want to spoil my image of it. That said, I am a grown up and must learn to embrace the truth, no matter how unpalatable, because those that have to endure embedded racism know all about it and have no choice. For me to ignore it would be a disservice to my fellow man (and woman!)]]></body>
+  
+  <user>
+    <id>45221326</id>
+    <name>Gary</name>
+    <display_name>Gary</display_name>
+
+    <location><![CDATA[Colchester, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/45221326-gary]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1437400238p3/45221326.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1437400238p2/45221326.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 30 22:59:59 -0700 2016</created_at>
+  <updated_at>Fri Sep 30 22:59:59 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157461364</id>
+  <body><![CDATA[<i>Gary wrote: "Like Iris, I have resisted reading Watchman because I love Mockingbird and didn't want to spoil my image of it. That said, I am a grown up and must learn to embrace the truth, no matter how unpalat..."</i><br /><br />Just say to yourself then, if you read it, that they were two totally different books from different points of view. The publishers might have rejected the first draft (Watchman) out of hand and Lee written Mockingbird without reference to her original draft.]]></body>
+  
+  <user>
+    <id>1237196</id>
+    <name>Petra Eggs</name>
+    <display_name>Petra Eggs</display_name>
+
+    <location><![CDATA[Cuba Cigar Factory, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1237196-petra-eggs]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487547378p3/1237196.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487547378p2/1237196.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Oct 01 00:50:05 -0700 2016</created_at>
+  <updated_at>Sat Oct 01 00:50:05 -0700 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/24420412]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/24420412]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

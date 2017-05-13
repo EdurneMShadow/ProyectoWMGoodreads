@@ -1,0 +1,1320 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:41:35 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: 4M7ZHQE9ZK7MSN1BV5F9
+etag: W/"68464592c0df567f9186353842ccc11e"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.358128
+set-cookie: csid=BAhJIhg4NDMtNzc4NjMwMy00NzgyMjkwBjoGRVQ%3D--8bc051c04dd899aa493d28ce940e9a98c183b91e; path=/; expires=Tue, 12 May 2037 13:41:35 -0000, locale=es; path=/, _session_id2=3d82fb3e1d9d575b6d16cb9a700063e7; path=/; expires=Fri, 12 May 2017 19:41:35 -0000; HttpOnly
+content-length: 51517
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=1160657766
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1160657766</id>
+    
+  <user>
+    <id>83582</id>
+    <name>Bill </name>
+    <display_name>Bill  Kerwin</display_name>
+
+    <location>Columbus, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/83582-bill-kerwin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442940975p3/83582.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442940975p2/83582.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">865</id>
+  <isbn>0061122416</isbn>
+  <isbn13>9780061122415</isbn13>
+  <text_reviews_count type="integer">44775</text_reviews_count>
+  <title>The Alchemist</title>
+  <title_without_series>The Alchemist</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1483412266m/865.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1483412266s/865.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/865.The_Alchemist</link>
+  <num_pages>197</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>HarperCollins</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1993</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.81</average_rating>
+  <ratings_count>1348164</ratings_count>
+  <description>Paulo Coelho's enchanting novel has inspired a devoted following around the world. This story, dazzling in its powerful simplicity and inspiring wisdom, is about an Andalusian shepherd boy named Santiago who travels from his homeland in Spain to the Egyptian desert in search of a treasure buried in the Pyramids. Along the way he meets a Gypsy woman, a man who calls himself king, and an alchemist, all of whom point Santiago in the direction of his quest. No one knows what the treasure is, or if Santiago will be able to surmount the obstacles along the way. But what starts out as a journey to find worldly goods turns into a discovery of the treasure found within. Lush, evocative, and deeply humane, the story of Santiago is an eternal testament to the transforming power of our dreams and the importance of listening to our hearts.</description>
+<authors>
+<author>
+<id>566</id>
+<name>Paulo Coelho</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201840056p5/566.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201840056p2/566.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/566.Paulo_Coelho]]></link>
+<average_rating>3.72</average_rating>
+<ratings_count>2124981</ratings_count>
+<text_reviews_count>96430</text_reviews_count>
+</author>
+</authors>
+  <published>1993</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">56861270</id>
+          <page type="integer">197</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Jan 14 08:41:52 -0800 2015</created_at>
+          <updated_at type="datetime">Wed Jan 14 08:41:52 -0800 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">100</percent>
+          <work_id type="integer">4835472</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">56839756</id>
+          <page type="integer">132</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Jan 14 01:33:52 -0800 2015</created_at>
+          <updated_at type="datetime">Wed Jan 14 01:33:52 -0800 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">67</percent>
+          <work_id type="integer">4835472</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">56289754</id>
+          <page type="integer">47</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Jan 08 02:50:38 -0800 2015</created_at>
+          <updated_at type="datetime">Thu Jan 08 02:50:38 -0800 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">23</percent>
+          <work_id type="integer">4835472</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">715107045</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Wed Jan 14 08:42:40 -0800 2015</updated_at>
+          <ratings_count>2</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">705655960</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Thu Jan 08 02:50:05 -0800 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>433</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Jan 08 00:00:00 -0800 2015</started_at>
+  <read_at>Wed Jan 14 00:00:00 -0800 2015</read_at>
+  <date_added>Thu Jan 08 02:50:05 -0800 2015</date_added>
+  <date_updated>Mon Apr 24 14:28:02 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[<br />A good parable--like "The Prodigal Son"--should comfort the afflicted and afflict the comfortable. The problem with this little book is that it does precisely the opposite.<br /><br />Coelho's message--and, boy, is this a book with a message--is that each of us has his own Personal Legend, and that if we rec...]]>
+  </body>
+
+  
+
+  <comments_count>86</comments_count>
+    <comments start="1" end="50" total="86">
+        <comment>
+  <id>112796328</id>
+  <body><![CDATA[Love your reviews, Bill - tell it, brother, tell it!!]]></body>
+  
+  <user>
+    <id>14826213</id>
+    <name>Pamela</name>
+    <display_name>Pamela Van Arsdale</display_name>
+
+    <location>Columbus, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14826213-pamela-van-arsdale]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1423008413p3/14826213.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1423008413p2/14826213.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 14 10:55:44 -0800 2015</created_at>
+  <updated_at>Wed Jan 14 10:55:44 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>112803239</id>
+  <body><![CDATA[<i>Pamela wrote: "Love your reviews, Bill - tell it, brother, tell it!!"</i><br /><br />Thanks, Pam!]]></body>
+  
+  <user>
+    <id>83582</id>
+    <name>Bill </name>
+    <display_name>Bill  Kerwin</display_name>
+
+    <location>Columbus, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/83582-bill-kerwin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442940975p3/83582.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442940975p2/83582.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 14 12:59:20 -0800 2015</created_at>
+  <updated_at>Wed Jan 14 12:59:20 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>112810378</id>
+  <body><![CDATA[I couldn't agree more with your review - such a useless book!]]></body>
+  
+  <user>
+    <id>35631298</id>
+    <name>Nenče</name>
+    <display_name>Nenče</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/35631298-nen-e]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1484743333p3/35631298.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1484743333p2/35631298.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 14 15:01:12 -0800 2015</created_at>
+  <updated_at>Wed Jan 14 15:01:12 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>112814660</id>
+  <body><![CDATA[I knew there were good reasons NOT to read this. Thanks for enumerating them so clearly and offering excellent alternatives.]]></body>
+  
+  <user>
+    <id>3642045</id>
+    <name>Sue</name>
+    <display_name>Sue</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3642045-sue]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1274829293p3/3642045.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1274829293p2/3642045.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 14 16:09:53 -0800 2015</created_at>
+  <updated_at>Wed Jan 14 16:09:53 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>112832917</id>
+  <body><![CDATA[Haven't read the book, but agree wholeheartedly with you on the damaging effects of similar philosophies that say those who succeed always have divine approval because you can't help but think that if that is true, then those who suffer must deserve it.]]></body>
+  
+  <user>
+    <id>8470277</id>
+    <name>Jazmin</name>
+    <display_name>Jazmin</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8470277-jazmin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1473907169p3/8470277.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1473907169p2/8470277.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 14 22:44:49 -0800 2015</created_at>
+  <updated_at>Wed Jan 14 22:44:49 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>112838873</id>
+  <body><![CDATA[Not to mention how poorly written this book is. Giving it one star is generous.]]></body>
+  
+  <user>
+    <id>16163829</id>
+    <name>Kay</name>
+    <display_name>Kay</display_name>
+
+    <location>Port Washington, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16163829-kay]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1357509310p3/16163829.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1357509310p2/16163829.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 15 03:57:41 -0800 2015</created_at>
+  <updated_at>Thu Jan 15 03:57:41 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>112858457</id>
+  <body><![CDATA[This is a book for young people? Based on your review, I may pan it. But I am a Wayne Dyer fan]]></body>
+  
+  <user>
+    <id>1318457</id>
+    <name>Jack</name>
+    <display_name>Jack</display_name>
+
+    <location>Grand Junction, CO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1318457-jack]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1394042960p3/1318457.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1394042960p2/1318457.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 15 11:15:30 -0800 2015</created_at>
+  <updated_at>Thu Jan 15 11:15:30 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>112859298</id>
+  <body><![CDATA[No, it is not just a book for young people, but one of those vague, new age type books fashionable in the '90's--and still faddish from time to time. A teacher friend of mine assigned it to her 10th grade class, though, and I am subbing for her these last two weeks--which is why I read it.<br /><br />I may be unfair to Dyer, for I've disliked him ever since the "Erroneous Zones" days. His philosophy was different from this book, but still I think his unapologetic championing of selfishness helped break up a lot of marriages and convince a lot of insensitive bosses that they were in reality very highly evolved people joyfully asserting themselves.<br /><br />But I'll concede he may have helped a lot of people too. I just couldn't see it.]]></body>
+  
+  <user>
+    <id>83582</id>
+    <name>Bill </name>
+    <display_name>Bill  Kerwin</display_name>
+
+    <location>Columbus, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/83582-bill-kerwin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442940975p3/83582.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442940975p2/83582.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 15 11:31:21 -0800 2015</created_at>
+  <updated_at>Thu Jan 15 11:31:21 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>112859500</id>
+  <body><![CDATA[capiche]]></body>
+  
+  <user>
+    <id>1318457</id>
+    <name>Jack</name>
+    <display_name>Jack</display_name>
+
+    <location>Grand Junction, CO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1318457-jack]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1394042960p3/1318457.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1394042960p2/1318457.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 15 11:35:21 -0800 2015</created_at>
+  <updated_at>Thu Jan 15 11:35:21 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>118913872</id>
+  <body><![CDATA[Well said, Bill. This is the most 'liked' quote from the book: “And, when you want something, all the universe conspires in helping you to achieve it.” Yeah. Right. <br /><br />As you point out it's comforting the comfortable and afflicting the afflicted! Appalling stuff.]]></body>
+  
+  <user>
+    <id>10571559</id>
+    <name>Hana</name>
+    <display_name>Hana</display_name>
+
+    <location>Brookline, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10571559-hana]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1458172215p3/10571559.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1458172215p2/10571559.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri May 08 06:33:00 -0700 2015</created_at>
+  <updated_at>Fri May 08 06:33:00 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>118916875</id>
+  <body><![CDATA[Fine review, Bill.<br /><br /><i>Hana wrote: "Well said, Bill. This is the most 'liked' quote from the book: 'And, when you want something, all the universe conspires in helping you to achieve it.' Yeah. Right."</i><br /><br />Like I said in another thread about this book - after watching <i>The Blue Lagoon</i> as a teenager, I wanted to marry Brooke Shields. But the universe didn't help!]]></body>
+  
+  <user>
+    <id>6237864</id>
+    <name>Nandakishore</name>
+    <display_name>Nandakishore Varma</display_name>
+
+    <location>Thrissur, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6237864-nandakishore-varma]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1464497695p3/6237864.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1464497695p2/6237864.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri May 08 07:51:28 -0700 2015</created_at>
+  <updated_at>Fri May 08 07:51:28 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>118918701</id>
+  <body><![CDATA[Good one, Nadakishore! But I never liked Brooke Shield's eyebrows and I think your wife is much prettier :)]]></body>
+  
+  <user>
+    <id>10571559</id>
+    <name>Hana</name>
+    <display_name>Hana</display_name>
+
+    <location>Brookline, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10571559-hana]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1458172215p3/10571559.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1458172215p2/10571559.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri May 08 08:36:55 -0700 2015</created_at>
+  <updated_at>Fri May 08 08:36:55 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>118918999</id>
+  <body><![CDATA[<i>Hana wrote: "Good one, Nadakishore! But I never liked Brooke Shield's eyebrows and I think your wife is much prettier :)"</i><br /><br />I don't know - I was mad about her.<br /><br />I will tell my wife - she will be pleased. :)<br /><br />So maybe the universe knew that I was going to get a prettier girl? :P]]></body>
+  
+  <user>
+    <id>6237864</id>
+    <name>Nandakishore</name>
+    <display_name>Nandakishore Varma</display_name>
+
+    <location>Thrissur, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6237864-nandakishore-varma]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1464497695p3/6237864.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1464497695p2/6237864.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri May 08 08:44:53 -0700 2015</created_at>
+  <updated_at>Fri May 08 08:44:53 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>130069715</id>
+  <body><![CDATA[Do highschool instructors have any choice in what books their classes read?]]></body>
+  
+  <user>
+    <id>35631298</id>
+    <name>Nenče</name>
+    <display_name>Nenče</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/35631298-nen-e]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1484743333p3/35631298.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1484743333p2/35631298.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 08 20:49:42 -0700 2015</created_at>
+  <updated_at>Mon Jun 08 20:49:42 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>130077015</id>
+  <body><![CDATA[<i>Ella wrote: "Do highschool instructors have any choice in what books their classes read?"</i><br /><br />Yes. At least in my high school they did. I think it depends a lot on the school board, the principal, and the department head.]]></body>
+  
+  <user>
+    <id>83582</id>
+    <name>Bill </name>
+    <display_name>Bill  Kerwin</display_name>
+
+    <location>Columbus, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/83582-bill-kerwin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442940975p3/83582.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442940975p2/83582.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jun 09 02:40:48 -0700 2015</created_at>
+  <updated_at>Tue Jun 09 02:40:48 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>130085465</id>
+  <body><![CDATA[Wow, I can't tell you how many times I have had the same feeling about this type of stuff! I saw this guy on with Oprah discussing this book one Sunday morning when I was sick in bed. Ugh! The two of them were so full of it - self-satisfied, arrogant and sophomoric all at the same time. They certainly convinced me I don't need to read this. But your review is excellent and your references to wiser works and genuine prophets is right on the mark.]]></body>
+  
+  <user>
+    <id>3169621</id>
+    <name>Texbritreader</name>
+    <display_name>Texbritreader</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3169621-texbritreader]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1389100099p3/3169621.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1389100099p2/3169621.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jun 09 07:49:29 -0700 2015</created_at>
+  <updated_at>Tue Jun 09 07:49:29 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>130085576</id>
+  <body><![CDATA[<i>Texbritreader wrote: "Wow, I can't tell you how many times I have had the same feeling about this type of stuff! I saw this guy on with Oprah discussing this book one Sunday morning when I was sick in bed. Ugh! The tw..."</i><br /><br />Thanks. Glad you enjoyed the review.]]></body>
+  
+  <user>
+    <id>83582</id>
+    <name>Bill </name>
+    <display_name>Bill  Kerwin</display_name>
+
+    <location>Columbus, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/83582-bill-kerwin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442940975p3/83582.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442940975p2/83582.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jun 09 07:52:43 -0700 2015</created_at>
+  <updated_at>Tue Jun 09 07:52:43 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>142360964</id>
+  <body><![CDATA[I don't think you're being too harsh at all. These books are brain-rotting, vacuous and self-congratulatory.]]></body>
+  
+  <user>
+    <id>4107783</id>
+    <name>Paul </name>
+    <display_name>Paul  Perry</display_name>
+
+    <location>Sheffield, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4107783-paul-perry]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478682484p3/4107783.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478682484p2/4107783.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 04 00:04:39 -0800 2015</created_at>
+  <updated_at>Wed Nov 04 00:04:39 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>142369954</id>
+  <body><![CDATA[A thoughtful review that gets right to the heart of the vacuum at the heart of this kind of magical thinking. Real life requires conviction, courage and integrity, not just the ability to dream really hard. And the ability to live with failure - something we will all experience to greater or lesser degrees.]]></body>
+  
+  <user>
+    <id>1497559</id>
+    <name>Jayaprakash</name>
+    <display_name>Jayaprakash Satyamurthy</display_name>
+
+    <location>Bangalore, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1497559-jayaprakash-satyamurthy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442625040p3/1497559.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442625040p2/1497559.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 04 07:10:55 -0800 2015</created_at>
+  <updated_at>Wed Nov 04 07:10:55 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>142373877</id>
+  <body><![CDATA[I agree with Paul. It is *impossible* to be too harsh to this kind of antiintellectual cult of positivity drivel.]]></body>
+  
+  <user>
+    <id>11889175</id>
+    <name>Christopher</name>
+    <display_name>Christopher</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11889175-christopher]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442990682p3/11889175.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442990682p2/11889175.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 04 08:46:13 -0800 2015</created_at>
+  <updated_at>Wed Nov 04 08:46:13 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>142377137</id>
+  <body><![CDATA[Utter balderdash of the follow-your-inner-moonlight variety. One time he said, "You know you are writing when a solitary tear falls on the keyboard," which is about the pukiest plagiarism of Hemingway ("sit at the typewriter and bleed") I can imagine.]]></body>
+  
+  <user>
+    <id>34138597</id>
+    <name>Nick</name>
+    <display_name>Nick</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34138597-nick]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1464227655p3/34138597.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1464227655p2/34138597.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Nov 04 10:07:18 -0800 2015</created_at>
+  <updated_at>Wed Nov 04 10:07:18 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>143144897</id>
+  <body><![CDATA[Enjoyed the review.]]></body>
+  
+  <user>
+    <id>45853116</id>
+    <name>Robert</name>
+    <display_name>Robert Hobkirk</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/45853116-robert-hobkirk]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1450108969p3/45853116.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1450108969p2/45853116.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Nov 21 09:20:55 -0800 2015</created_at>
+  <updated_at>Sat Nov 21 09:20:55 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>143149017</id>
+  <body><![CDATA[<i>Robert wrote: "Enjoyed the review."</i><br /><br />Thanks!]]></body>
+  
+  <user>
+    <id>83582</id>
+    <name>Bill </name>
+    <display_name>Bill  Kerwin</display_name>
+
+    <location>Columbus, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/83582-bill-kerwin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442940975p3/83582.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442940975p2/83582.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Nov 21 10:24:55 -0800 2015</created_at>
+  <updated_at>Sat Nov 21 10:24:55 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>143175414</id>
+  <body><![CDATA[I've enjoyed the one other Coelho book I read, so I was intending to eventually pick this one up, but you're definitely giving me second thoughts. Especially by comparing it to The Secret; we watched the video version in my undergrad and I found myself wondering, if I ask the Universe for this nonsense to end quickly, will it stop?]]></body>
+  
+  <user>
+    <id>16614207</id>
+    <name>Caitlin</name>
+    <display_name>Caitlin</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16614207-caitlin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1369099842p3/16614207.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1369099842p2/16614207.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Nov 21 17:43:12 -0800 2015</created_at>
+  <updated_at>Sat Nov 21 17:43:12 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>143178835</id>
+  <body><![CDATA[Have to say I enjoyed some of his other books more, such as Santiago, however this one launched his career. Agree with all this, but I guess it's on the same level as any new age feel-good stuff.]]></body>
+  
+  <user>
+    <id>13267509</id>
+    <name>Dean</name>
+    <display_name>Dean</display_name>
+
+    <location>Sydney, NSW, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13267509-dean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1411268237p3/13267509.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1411268237p2/13267509.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Nov 21 19:08:24 -0800 2015</created_at>
+  <updated_at>Sat Nov 21 19:08:24 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>143184718</id>
+  <body><![CDATA[I have to admit that I've enjoyed reading your review more than the book :)<br />I absolutely hated the book &amp; was so surprised to find out that everyone else raved &amp; gave 5 stars, I started to doubt myself ! Thank you so much for giving me the peace of mind.]]></body>
+  
+  <user>
+    <id>34492401</id>
+    <name>Dalia</name>
+    <display_name>Dalia Ghorab</display_name>
+
+    <location>Gîza, 08, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34492401-dalia-ghorab]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1446708082p3/34492401.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1446708082p2/34492401.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Nov 21 23:26:19 -0800 2015</created_at>
+  <updated_at>Sat Nov 21 23:26:19 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>143188694</id>
+  <body><![CDATA[<i>Dalia wrote: "I have to admit that I've enjoyed reading your review more than the book :)<br />I absolutely hated the book &amp; was so surprised to find out that everyone else raved &amp; gave 5 stars, I started to doubt my..."</i><br /><br />I'm glad you found both comfort and confirmation in my review. That's one of the great things about Goodreads. I shows you that there are indeed readers like yourself, and that you are not alone in your opinions.]]></body>
+  
+  <user>
+    <id>83582</id>
+    <name>Bill </name>
+    <display_name>Bill  Kerwin</display_name>
+
+    <location>Columbus, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/83582-bill-kerwin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442940975p3/83582.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442940975p2/83582.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 22 04:12:42 -0800 2015</created_at>
+  <updated_at>Sun Nov 22 04:12:42 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>144325005</id>
+  <body><![CDATA[True, the book does generalize. There are people who are perfectly happy where they are, and there are people who move heaven and earth to achieve their goals and (surprise surprise!) they still aren't happy. But it's still an inspiring tale told simply and I liked it.]]></body>
+  
+  <user>
+    <id>48090287</id>
+    <name>Booky</name>
+    <display_name>Booky</display_name>
+
+    <location>Mumbai, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/48090287-booky]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Dec 13 23:39:34 -0800 2015</created_at>
+  <updated_at>Sun Dec 13 23:39:34 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>144329445</id>
+  <body><![CDATA[<i>Booky wrote: "...it is still an inspiring tale told simply and I like it"</i><br /><br />Fair enough. I agree, and would have rated it higher if I didn't find it so dangerous philosophically.. And--as I said above--I can see how some people--particularly the young--might find it helpful.]]></body>
+  
+  <user>
+    <id>83582</id>
+    <name>Bill </name>
+    <display_name>Bill  Kerwin</display_name>
+
+    <location>Columbus, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/83582-bill-kerwin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442940975p3/83582.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442940975p2/83582.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Dec 14 04:04:06 -0800 2015</created_at>
+  <updated_at>Mon Dec 14 04:04:06 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>145925236</id>
+  <body><![CDATA[Everything I read about Paolo Coelho gives me the impression of him being a poor man's Alejandro Jodorowsky.]]></body>
+  
+  <user>
+    <id>9096819</id>
+    <name>Simon</name>
+    <display_name>Simon</display_name>
+
+    <location>Brønshøj, 2700, Denmark</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9096819-simon]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1490792898p3/9096819.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1490792898p2/9096819.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 13 02:39:25 -0800 2016</created_at>
+  <updated_at>Wed Jan 13 02:39:25 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>145963806</id>
+  <body><![CDATA[I started reading this several years ago and made it about halfway through but I could not finish it. I found it so boring, overly sentimental and preachy. I also did not agree with the message of the book. I have heard from many people that they enjoyed it though. Overall not my kind of book.]]></body>
+  
+  <user>
+    <id>12811203</id>
+    <name>Kate</name>
+    <display_name>Kate</display_name>
+
+    <location>Sterling Heights, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12811203-kate]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1441335400p3/12811203.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1441335400p2/12811203.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 13 17:07:05 -0800 2016</created_at>
+  <updated_at>Wed Jan 13 17:07:05 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>147939550</id>
+  <body><![CDATA[Oh, Spot on!]]></body>
+  
+  <created_at>Mon Feb 22 06:35:50 -0800 2016</created_at>
+  <updated_at>Mon Feb 22 06:35:50 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>147940185</id>
+  <body><![CDATA[hear hear! yes,i totally agree with your summation of this book,and this kind of book. thanks for expressing it so well.]]></body>
+  
+  <user>
+    <id>2769601</id>
+    <name>Diane</name>
+    <display_name>Diane Bluegreen</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2769601-diane-bluegreen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1285706526p3/2769601.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1285706526p2/2769601.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 22 06:52:20 -0800 2016</created_at>
+  <updated_at>Mon Feb 22 06:52:20 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>147944924</id>
+  <body><![CDATA[Oh, thank you! I borrowed this book from my mother-in-law several months ago, meaning to read it, but never did. I'm just going to return it to her unopened. I hate self-congratulatory "finding yourself" books.]]></body>
+  
+  <user>
+    <id>8734459</id>
+    <name>Tadiana ✩Night Owl☽</name>
+    <display_name>Tadiana ✩Night Owl☽</display_name>
+
+    <location>Salt Lake City, UT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8734459-tadiana-night-owl]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1383845644p3/8734459.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1383845644p2/8734459.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 22 08:41:45 -0800 2016</created_at>
+  <updated_at>Mon Feb 22 08:41:45 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>147989743</id>
+  <body><![CDATA[Bill, your reviews often delight, as does this one. I've had the book on my shelf for a long time. Bought it because in Estonia where I run annual essay competitions several youngsters mentioned it as having influenced them in some way. So I bought it to find out about this Coelho, but haven't yet got to the reading stage. The thing is that many foreign-language books are translated into Estonian but my essay writers told me how they had persevered with their English-language text and won. I have been expecting something like what you say, hence haven't yet opened the book.]]></body>
+  
+  <user>
+    <id>36862800</id>
+    <name>Tina</name>
+    <display_name>Tina Tamman</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/36862800-tina-tamman]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1424034377p3/36862800.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1424034377p2/36862800.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 23 06:15:57 -0800 2016</created_at>
+  <updated_at>Tue Feb 23 06:15:57 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>147990885</id>
+  <body><![CDATA[It is gratifying to see that others found this book as worthless as I did. I was shocked when I read it, because there had been so much hype about it beforehand. It probably feeds into the philosophy of the "me" generation and they find there what they always seek to find, encouragement for themselves and justification for any selfishness in which they indulge. After all, the universe itself owes them success.]]></body>
+  
+  <user>
+    <id>5512657</id>
+    <name>Sara</name>
+    <display_name>Sara</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5512657-sara]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1490295912p3/5512657.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1490295912p2/5512657.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 23 06:46:50 -0800 2016</created_at>
+  <updated_at>Tue Feb 23 06:46:50 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>148006353</id>
+  <body><![CDATA["Jesus is always good." Discuss. (50 marks)]]></body>
+  
+  <user>
+    <id>1199525</id>
+    <name>Cecily</name>
+    <display_name>Cecily</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1199525-cecily]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480285828p3/1199525.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480285828p2/1199525.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 23 12:51:07 -0800 2016</created_at>
+  <updated_at>Tue Feb 23 12:51:07 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>148006771</id>
+  <body><![CDATA[<i>Cecily wrote: ""Jesus is always good." Discuss. (50 marks)"</i><br /><br />Ha! Ha! More interesting if argued in the negative, in a sense not originally intended.]]></body>
+  
+  <user>
+    <id>83582</id>
+    <name>Bill </name>
+    <display_name>Bill  Kerwin</display_name>
+
+    <location>Columbus, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/83582-bill-kerwin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442940975p3/83582.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442940975p2/83582.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 23 13:00:49 -0800 2016</created_at>
+  <updated_at>Tue Feb 23 13:00:49 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>148488355</id>
+  <body><![CDATA[Your reviews are always so sharp; it's always a pleasure to read them !]]></body>
+  
+  <user>
+    <id>38089732</id>
+    <name>Djamel</name>
+    <display_name>Djamel Bouchenaki</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/38089732-djamel-bouchenaki]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1454096031p3/38089732.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1454096031p2/38089732.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 04 12:27:46 -0800 2016</created_at>
+  <updated_at>Fri Mar 04 12:27:46 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>148489555</id>
+  <body><![CDATA[<i>Djamel wrote: "Your reviews are always so sharp; it's always a pleasure to read them !"</i><br /><br />Thanks!]]></body>
+  
+  <user>
+    <id>83582</id>
+    <name>Bill </name>
+    <display_name>Bill  Kerwin</display_name>
+
+    <location>Columbus, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/83582-bill-kerwin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442940975p3/83582.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442940975p2/83582.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 04 12:56:44 -0800 2016</created_at>
+  <updated_at>Fri Mar 04 12:56:44 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151054582</id>
+  <body><![CDATA[<i>Cecily wrote: ""Jesus is always good." Discuss. (50 marks)"</i><br /><br />I was chuckling at your "discussion question" recently, and it reminded of how some wag once completed two lines of Wordsworth:<br /><br />"O Cuckoo! shall I call thee Bird,<br />Or but a wandering Voice?'<br />State the alternative preferred<br />And reason for your choice.]]></body>
+  
+  <user>
+    <id>83582</id>
+    <name>Bill </name>
+    <display_name>Bill  Kerwin</display_name>
+
+    <location>Columbus, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/83582-bill-kerwin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442940975p3/83582.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442940975p2/83582.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Apr 30 11:35:44 -0700 2016</created_at>
+  <updated_at>Sat Apr 30 11:35:44 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151082490</id>
+  <body><![CDATA[Clarity, incisive wit, and a worthy don't-waste-your-time message. Congratulations. There are so many books out there that can really inspire or improve us, if we want to be inspired or improved. Life is too short for silly drek.]]></body>
+  
+  <user>
+    <id>5922865</id>
+    <name>Betsy</name>
+    <display_name>Betsy</display_name>
+
+    <location>Orange, VA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5922865-betsy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1312490419p3/5922865.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1312490419p2/5922865.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 01 04:37:44 -0700 2016</created_at>
+  <updated_at>Sun May 01 04:37:44 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151084663</id>
+  <body><![CDATA[Yes.<br /><br />as you say, for a young person needing to venture forth and pursue a goal or dream...this can be an inspiring read. <br /><br />When I read this book, it was during a time of fear and uncertainty, and that was what I took away from it. <br /><br />But, nuance is lacking. The world is bigger than my own personal legend. And someone who reads this book without this in mind, will walk away either depressed or justified in their selfishness]]></body>
+  
+  <user>
+    <id>54824059</id>
+    <name>Jeannienovack</name>
+    <display_name>Jeannienovack</display_name>
+
+    <location>Schenectady, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/54824059-jeannienovack]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1460647287p3/54824059.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1460647287p2/54824059.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 01 06:08:39 -0700 2016</created_at>
+  <updated_at>Sun May 01 06:08:39 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151086905</id>
+  <body><![CDATA[I love your reviews, Bill, but this one surpassed your usual standard. That you would recommend Jesus - 'Jesus is always good' - to those about to embark on reading Coelho is a fantastic idea.]]></body>
+  
+  <user>
+    <id>36862800</id>
+    <name>Tina</name>
+    <display_name>Tina Tamman</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/36862800-tina-tamman]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1424034377p3/36862800.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1424034377p2/36862800.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 01 07:23:37 -0700 2016</created_at>
+  <updated_at>Sun May 01 07:23:37 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151093627</id>
+  <body><![CDATA[<i>Tina wrote: "I love your reviews, Bill, but this one surpassed your usual standard. That you would recommend Jesus - 'Jesus is always good' - to those about to embark on reading Coelho is a fantastic idea."</i><br /><br />I'm glad you enjoyed the review, Tina!]]></body>
+  
+  <user>
+    <id>83582</id>
+    <name>Bill </name>
+    <display_name>Bill  Kerwin</display_name>
+
+    <location>Columbus, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/83582-bill-kerwin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442940975p3/83582.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442940975p2/83582.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 01 10:12:44 -0700 2016</created_at>
+  <updated_at>Sun May 01 10:12:44 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151094006</id>
+  <body><![CDATA[<i>Jeannienovack wrote: "The world is bigger than my own personal legend"</i><br /><br />Yes! If we all remember this, we'll be alright. It's just so easy to be caught up in the maelstrom of selfishness! <br /><br />But I think--and fervently hope--that millennials see the flaws in the "virtue" of selfishness more clearly than Gen X or my generation of boomers ever did.]]></body>
+  
+  <user>
+    <id>83582</id>
+    <name>Bill </name>
+    <display_name>Bill  Kerwin</display_name>
+
+    <location>Columbus, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/83582-bill-kerwin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442940975p3/83582.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442940975p2/83582.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 01 10:21:19 -0700 2016</created_at>
+  <updated_at>Sun May 01 10:21:19 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151094266</id>
+  <body><![CDATA[<i>Betsy wrote: "Clarity, incisive wit, and a worthy don't-waste-your-time message. Congratulations. There are so many books out there that can really inspire or improve us, if we want to be inspired or improved. Life is too short for silly drek...."</i><br /><br />Life, though. is never too short for silliness, but--for silliness minus the drek--there's always Wodehouse!]]></body>
+  
+  <user>
+    <id>83582</id>
+    <name>Bill </name>
+    <display_name>Bill  Kerwin</display_name>
+
+    <location>Columbus, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/83582-bill-kerwin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442940975p3/83582.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442940975p2/83582.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 01 10:27:26 -0700 2016</created_at>
+  <updated_at>Sun May 01 10:27:26 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151095316</id>
+  <body><![CDATA[I love this review, Bill, as a person who shares the same hatred for this shit.]]></body>
+  
+  <user>
+    <id>48159983</id>
+    <name>Anuradha</name>
+    <display_name>Anuradha</display_name>
+
+    <location>Bangalore, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/48159983-anuradha]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1478720509p3/48159983.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1478720509p2/48159983.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 01 10:49:17 -0700 2016</created_at>
+  <updated_at>Sun May 01 10:49:17 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151096856</id>
+  <body><![CDATA[I didn't read this book for any self help or advice. I listened to Jermey Irons tell me a story.]]></body>
+  
+  <user>
+    <id>6460330</id>
+    <name>Cherie</name>
+    <display_name>Cherie</display_name>
+
+    <location>Hillsboro, OR</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6460330-cherie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1322706779p3/6460330.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1322706779p2/6460330.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 01 11:23:35 -0700 2016</created_at>
+  <updated_at>Sun May 01 11:23:35 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151097231</id>
+  <body><![CDATA[<i>Cherie wrote: "I didn't read this book for any self help or advice. I listened to Jermey Irons tell me a story."</i><br /><br />Irons has a marvelous voice, and could make even "The Bridges of Madison County" sound good!]]></body>
+  
+  <user>
+    <id>83582</id>
+    <name>Bill </name>
+    <display_name>Bill  Kerwin</display_name>
+
+    <location>Columbus, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/83582-bill-kerwin]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442940975p3/83582.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442940975p2/83582.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun May 01 11:31:44 -0700 2016</created_at>
+  <updated_at>Sun May 01 11:31:44 -0700 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1160657766]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1160657766]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

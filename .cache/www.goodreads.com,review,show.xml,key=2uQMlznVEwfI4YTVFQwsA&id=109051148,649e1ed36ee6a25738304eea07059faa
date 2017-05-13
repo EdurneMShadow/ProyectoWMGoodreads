@@ -1,0 +1,251 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:37:55 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: YNS8Q1RYYCRWGR7X7TQR
+etag: W/"48fa5dfd487f835dff837beffd76c3a4"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.234594
+set-cookie: csid=BAhJIhgwNDItOTQ1MDgxNS03NzMxOTA3BjoGRVQ%3D--9e996abb091cf36382d6843a805acd8ff5ccd38f; path=/; expires=Tue, 12 May 2037 13:37:55 -0000, locale=es; path=/, _session_id2=5b1a1d123fd7acc1cab964f8ced8bd10; path=/; expires=Fri, 12 May 2017 19:37:55 -0000; HttpOnly
+content-length: 9161
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=109051148
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>109051148</id>
+    
+  <user>
+    <id>3809685</id>
+    <name>Misha </name>
+    <display_name>Misha </display_name>
+
+    <location>Mumbai, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3809685-misha]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1388910909p3/3809685.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1388910909p2/3809685.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">2865</id>
+  <isbn>0452287022</isbn>
+  <isbn13>9780452287020</isbn13>
+  <text_reviews_count type="integer">5908</text_reviews_count>
+  <title>Girl with a Pearl Earring</title>
+  <title_without_series>Girl with a Pearl Earring</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1327197580m/2865.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1327197580s/2865.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2865.Girl_with_a_Pearl_Earring</link>
+  <num_pages>233</num_pages>
+  <format>Paperback</format>
+  <edition_information> Deluxe Edition</edition_information>
+  <publisher>Plume/Penguin</publisher>
+  <publication_day/>
+  <publication_year>2005</publication_year>
+  <publication_month/>
+  <average_rating>3.84</average_rating>
+  <ratings_count>479287</ratings_count>
+  <description>With precisely 35 canvases to his credit, the Dutch painter Johannes Vermeer represents one of the great enigmas of 17th-century art. The meager facts of his biography have been gleaned from a handful of legal documents. Yet Vermeer's extraordinary paintings of domestic life, with their subtle play of light and texture, have come to define the Dutch golden age. His portrait of the anonymous Girl with a Pearl Earring has exerted a particular fascination for centuries - and it is this magnetic painting that lies at the heart of Tracy Chevalier's second novel of the same title.&lt;br /&gt;&lt;i&gt;Girl with a Pearl Earring&lt;/i&gt; centers on Vermeer's prosperous Delft household during the 1660s. When Griet, the novel's quietly perceptive heroine, is hired as a servant, turmoil follows. First, the 16-year-old narrator becomes increasingly intimate with her master. Then Vermeer employs her as his assistant--and ultimately has Griet sit for him as a model.</description>
+<authors>
+<author>
+<id>1973</id>
+<name>Tracy Chevalier</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1439297099p5/1973.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1439297099p2/1973.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1973.Tracy_Chevalier]]></link>
+<average_rating>3.80</average_rating>
+<ratings_count>635156</ratings_count>
+<text_reviews_count>22574</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1648872459</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Wed Jan 04 05:32:05 -0800 2017</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>4</rating>
+  <votes>16</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="award-other" exclusive="false" review_shelf_id="211772503" sortable="false" />
+    <shelf name="17th-century" exclusive="false" review_shelf_id="211772159" sortable="false" />
+    <shelf name="feminism-gender" exclusive="false" review_shelf_id="211772654" sortable="false" />
+    <shelf name="literary-fiction" exclusive="false" review_shelf_id="211772581" sortable="true" />
+    <shelf name="movie-series-available" exclusive="false" review_shelf_id="211772608" sortable="false" />
+    <shelf name="history" exclusive="false" review_shelf_id="73446255" sortable="true" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Jun 27 23:32:42 -0700 2010</date_added>
+  <date_updated>Wed Dec 11 23:18:26 -0800 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Most of us know the painting, if not by name, but by sight at least. You might have even watched the movie starring Colin Firth (!!) and Scarlett Johanssen. Many of us might have heard of Johannes Vermeer, the artist behind this painting. But have you ever wondered, who is the girl in the paintin...]]>
+  </body>
+
+  
+
+  <comments_count>5</comments_count>
+    <comments start="1" end="5" total="5">
+        <comment>
+  <id>27772822</id>
+  <body><![CDATA[Great review! This sounds like an incredible read.]]></body>
+  
+  <user>
+    <id>2835464</id>
+    <name>Erica (daydreamer)</name>
+    <display_name>Erica (daydreamer)</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2835464-erica-daydreamer]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486007004p3/2835464.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486007004p2/2835464.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 15 05:48:30 -0700 2011</created_at>
+  <updated_at>Tue Mar 15 05:48:30 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>27825858</id>
+  <body><![CDATA[A lovely review Misha, I have already read this but you have made me interested in seeing the film.]]></body>
+  
+  <user>
+    <id>117720</id>
+    <name>LindyLouMac</name>
+    <display_name>LindyLouMac</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/117720-lindyloumac]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1224346292p3/117720.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1224346292p2/117720.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 16 10:28:31 -0700 2011</created_at>
+  <updated_at>Wed Mar 16 10:28:31 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>27902074</id>
+  <body><![CDATA[Thanks Erica and Linda! :)]]></body>
+  
+  <user>
+    <id>3809685</id>
+    <name>Misha </name>
+    <display_name>Misha </display_name>
+
+    <location>Mumbai, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3809685-misha]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1388910909p3/3809685.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1388910909p2/3809685.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Mar 17 21:20:15 -0700 2011</created_at>
+  <updated_at>Thu Mar 17 21:20:15 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>27905781</id>
+  <body><![CDATA[I enjoyed your review, Misha. Maybe now I'll read the book before seeing the film. As you love books that involve art and artists, have you read The Botticelli Secret by Marina Fiorato? I've just finished it and it was great!]]></body>
+  
+  <user>
+    <id>3248056</id>
+    <name>Melanie</name>
+    <display_name>Melanie Rose</display_name>
+
+    <location><![CDATA[London, H9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3248056-melanie-rose]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442467722p3/3248056.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442467722p2/3248056.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 18 00:52:11 -0700 2011</created_at>
+  <updated_at>Fri Mar 18 00:52:11 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>27944794</id>
+  <body><![CDATA[@Melanie Thank you so much for the recommendation! I haven't read it but I want to!]]></body>
+  
+  <user>
+    <id>3809685</id>
+    <name>Misha </name>
+    <display_name>Misha </display_name>
+
+    <location>Mumbai, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3809685-misha]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1388910909p3/3809685.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1388910909p2/3809685.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 18 21:16:15 -0700 2011</created_at>
+  <updated_at>Fri Mar 18 21:16:15 -0700 2011</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/109051148]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/109051148]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

@@ -1,0 +1,1265 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:53:33 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: B8C3VY200HNVTAZ95GKH
+etag: W/"dcbb4c203008b52d886ac80f6dfdf44a"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.354375
+set-cookie: csid=BAhJIhgwMDQtMTg4ODQ3MS02MDI0Nzc0BjoGRVQ%3D--28d25d47b4ff08e3ef520f743e5752a64c18e3d6; path=/; expires=Tue, 12 May 2037 13:53:33 -0000, locale=es; path=/, _session_id2=ea4148c7a1e7213f14b1604674aa1950; path=/; expires=Fri, 12 May 2017 19:53:33 -0000; HttpOnly
+content-length: 55782
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=82263374
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>82263374</id>
+    
+  <user>
+    <id>2575218</id>
+    <name>Michelle</name>
+    <display_name>Michelle</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2575218-michelle]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">7260188</id>
+  <isbn>0439023513</isbn>
+  <isbn13>9780439023511</isbn13>
+  <text_reviews_count type="integer">86152</text_reviews_count>
+  <title>Mockingjay (The Hunger Games, #3)</title>
+  <title_without_series>Mockingjay</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1358275419m/7260188.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1358275419s/7260188.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7260188-mockingjay</link>
+  <num_pages>392</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First Edition</edition_information>
+  <publisher>Scholastic Press</publisher>
+  <publication_day>24</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.03</average_rating>
+  <ratings_count>1836765</ratings_count>
+  <description>&lt;b&gt;My name is Katniss Everdeen.&lt;br /&gt;Why am I not dead?&lt;br /&gt;I should be dead.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Katniss Everdeen, girl on fire, has survived, even though her home has been destroyed. Gale has escaped. Katniss's family is safe. Peeta has been captured by the Capitol. District 13 really does exist. There are rebels. There are new leaders. A revolution is unfolding.&lt;br /&gt;&lt;br /&gt;It is by design that Katniss was rescued from the arena in the cruel and haunting Quarter Quell, and it is by design that she has long been part of the revolution without knowing it. District 13 has come out of the shadows and is plotting to overthrow the Capitol. Everyone, it seems, has had a hand in the carefully laid plans--except Katniss.&lt;br /&gt;&lt;br /&gt;The success of the rebellion hinges on Katniss's willingness to be a pawn, to accept responsibility for countless lives, and to change the course of the future of Panem. To do this, she must put aside her feelings of anger and distrust. She must become the rebels' Mockingjay--no matter what the personal cost.</description>
+<authors>
+<author>
+<id>153394</id>
+<name>Suzanne Collins</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1394819770p5/153394.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1394819770p2/153394.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/153394.Suzanne_Collins]]></link>
+<average_rating>4.27</average_rating>
+<ratings_count>8961004</ratings_count>
+<text_reviews_count>356107</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1231473343</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Wed Feb 10 08:51:24 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>3</rating>
+  <votes>329</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Aug 26 00:00:00 -0700 2010</read_at>
+  <date_added>Sun Dec 27 23:44:54 -0800 2009</date_added>
+  <date_updated>Fri Jan 10 08:03:46 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[i NEVER thought i'd ever rate this book below a 5...but here i am....and the only reason i gave it a three even is because the first two books of the hunger games were just SO GOOD they brought this one up...by three stars. honestly, i’ve waited so long for mockingjay to come out. i practically p...]]>
+  </body>
+
+  
+
+  <comments_count>51</comments_count>
+    <comments start="1" end="50" total="51">
+        <comment>
+  <id>12334349</id>
+  <body><![CDATA[This will be the end of the series?!]]></body>
+  
+  <user>
+    <id>2946457</id>
+    <name>Amy</name>
+    <display_name>Amy</display_name>
+
+    <location>Birmingham, AL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2946457-amy]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 03 11:37:45 -0800 2010</created_at>
+  <updated_at>Sun Jan 03 11:37:45 -0800 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>12361562</id>
+  <body><![CDATA[<i>Amy wrote: "This will be the end of the series?!"</i><br /><br />Yes, this the last one. She said it was going to be the hunger games TRILOGY. :(<br /><br />]]></body>
+  
+  <user>
+    <id>2575218</id>
+    <name>Michelle</name>
+    <display_name>Michelle</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2575218-michelle]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 03 21:42:21 -0800 2010</created_at>
+  <updated_at>Sun Jan 03 21:42:21 -0800 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20364543</id>
+  <body><![CDATA[SHE SOOO RUSHED THE ENDING ..I WAS LIKE WHAT?? SHE COULD HAVE WENT MORE INTO HER RELATIONSHIP WITH PEETA...MORE ABOUT GAYLE..SO WHAT THEY JUST STOPPED TALKING???? NOT THE BEST OF THE THREE...I GUESS SHE HAD A DEADLINE.... THE BEGINNING MIDDLE GOOD BUT ENDING DEF COULD HAVE BEEN BETTER]]></body>
+  
+  <user>
+    <id>3096477</id>
+    <name>Dawn</name>
+    <display_name>Dawn Ross</display_name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3096477-dawn-ross]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1438369435p3/3096477.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1438369435p2/3096477.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 27 17:34:59 -0700 2010</created_at>
+  <updated_at>Fri Aug 27 17:34:59 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20392220</id>
+  <body><![CDATA[I think your review of this book is dead on. The first in this series was chosen as a nominee for the Illinois grades 5-8 Rebecca Caudill reading award, and the kids love it. However, I am really wondering the appropriateness of Mockingjay in our middle school circulation since it was so much darker and, I felt, gratuitously more violent than the other two.]]></body>
+  
+  <user>
+    <id>1206959</id>
+    <name>Jeanne</name>
+    <display_name>Jeanne</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1206959-jeanne]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1383240170p3/1206959.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1383240170p2/1206959.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 28 15:29:45 -0700 2010</created_at>
+  <updated_at>Sat Aug 28 15:29:45 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20392690</id>
+  <body><![CDATA[I like your assessment, for sure. I was also wondering if anyone felt like maybe if Katniss had actually spoken up that would have made things different. She basically sulked around and thought a lot but that didn't communicate anything. Everyone was addicted to morphine in this book.]]></body>
+  
+  <user>
+    <id>649672</id>
+    <name>Lindsey</name>
+    <display_name>Lindsey</display_name>
+
+    <location>Columbus, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/649672-lindsey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1196379960p3/649672.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1196379960p2/649672.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 28 15:45:29 -0700 2010</created_at>
+  <updated_at>Sat Aug 28 15:45:29 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20397294</id>
+  <body><![CDATA[I freak'n agree completely. And I HATE,(yes I am a Gale supporter), How she just spins it around and makes Gale the bad guy all of a sudden. So stupid. Gar. Well loved your review.]]></body>
+  
+  <created_at>Sat Aug 28 17:41:50 -0700 2010</created_at>
+  <updated_at>Sat Aug 28 17:41:50 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20408321</id>
+  <body><![CDATA[I was SO MAD when Finnick died, but I didn't cry either, because I almost just couldn' believe it and would NOT accept it! And Katniss barely even blinked when it happened, so I thought...wait a minute, Katniss isn't sad...maybe Finnick didn't really die and I miss-read...?? But, no, when I went back and read again...dead. NOO! I'm more mad a Collins than Katniss, because, honestly, the person with Katniss's name in this book was just NOT Katniss!]]></body>
+  
+  <user>
+    <id>2082345</id>
+    <name><![CDATA[Krista (I remember you, Min) (Critical)]]></name>
+    <display_name><![CDATA[Krista (I remember you, Min) (Critical)]]></display_name>
+
+    <location>Thousand Oaks, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2082345-krista-i-remember-you-min-critical]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1436762808p3/2082345.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1436762808p2/2082345.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 28 23:38:33 -0700 2010</created_at>
+  <updated_at>Sat Aug 28 23:38:33 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20410177</id>
+  <body><![CDATA[I agree with you Christie. Okay if you want more romance, like book 2 and a happy ending then you will not like this book but just finished it, I think this ending is so much more realistic. Loved it. (did not like book 2 that much myself)]]></body>
+  
+  <user>
+    <id>1041370</id>
+    <name>♥ Marlene♥ </name>
+    <display_name>♥ Marlene♥ </display_name>
+
+    <location>Netherlands</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1041370-marlene]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1206997574p3/1041370.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1206997574p2/1041370.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 29 05:10:23 -0700 2010</created_at>
+  <updated_at>Sun Aug 29 05:10:23 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20424106</id>
+  <body><![CDATA[Things can be realistic but still have hope in the end. This did not. In my opinion.]]></body>
+  
+  <user>
+    <id>2082345</id>
+    <name><![CDATA[Krista (I remember you, Min) (Critical)]]></name>
+    <display_name><![CDATA[Krista (I remember you, Min) (Critical)]]></display_name>
+
+    <location>Thousand Oaks, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2082345-krista-i-remember-you-min-critical]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1436762808p3/2082345.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1436762808p2/2082345.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 29 14:08:41 -0700 2010</created_at>
+  <updated_at>Sun Aug 29 14:08:41 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20445854</id>
+  <body><![CDATA[i just feel like katniss really changed in this book and instead of becoming more independent like most heroines she actually got weaker. which might be realistic, but it's still annoying to read about. <br /><br />...and about the more romance part? yeah. i did really want more romance. i love peeta and i'm really mad at suzanne collins for taking away my last chance to obsess over him. and yes, i'm aware of how pathetic that sounds, but i'm really past the point of caring-kinda like katniss was in most of mockingjay;)]]></body>
+  
+  <user>
+    <id>2575218</id>
+    <name>Michelle</name>
+    <display_name>Michelle</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2575218-michelle]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 30 00:14:14 -0700 2010</created_at>
+  <updated_at>Mon Aug 30 00:14:14 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20462034</id>
+  <body><![CDATA[I didn't really comprehend that Finnick died until I reread that part, then I teared up a bit, just because I liked him so much!<br /><br />And I felt like the end of the book ruined all the parts of the book I had liked earlier when I read them :/]]></body>
+  
+  <user>
+    <id>2536741</id>
+    <name>Abby</name>
+    <display_name>Abby</display_name>
+
+    <location>Troy, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2536741-abby]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1471031289p3/2536741.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1471031289p2/2536741.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 30 15:56:03 -0700 2010</created_at>
+  <updated_at>Mon Aug 30 15:56:03 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20565779</id>
+  <body><![CDATA[<i>Abby wrote: "I didn't really comprehend that Finnick died until I reread that part, then I teared up a bit, just because I liked him so much!<br /><br />And I felt like the end of the book ruined all the parts of the b..."</i><br /><br /><br />Its almost as if she just wrote PS. Finnick is dead!]]></body>
+  
+  <user>
+    <id>2159229</id>
+    <name>Karenpetersen26</name>
+    <display_name>Karenpetersen26</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2159229-karenpetersen26]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu Sep 02 17:23:26 -0700 2010</created_at>
+  <updated_at>Thu Sep 02 17:23:26 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>21088280</id>
+  <body><![CDATA[Was completely disappointed by this book! Gave it 1 star...LOL <br />The reason I began to read the Hunger Games series in the first place was the strong Katniss that would never give in to being used! I was really interested as to how she'll handle the rebellion, especially since District 12 was already destroyed. I thought she'd take up the lead in the Capitol's destruction but she just sulked around and played a puppet to both the Capitol and District 13, which was extremely disappointing! It's like a complete slaughter of her character. And it's not just Katniss...It was like all of the characters in the first two books suddenly changed. I couldn't imagine Peeta acting the way he did for the most of the book, it's just sad. And Gale completely leaving Katniss just like that...it wasn't the Gale I expected. <br />Though you could defend the ending by saying it's just a realistic ending to the series, the way it was written just irritated me like how Prim, Finnick and the others were killed. I felt like their deaths were completely useless, and considering how Finnick's already reunited with Annie and all, it just makes his death more irritating than depressing. I was actually confused when they died, thought I just missed the parts where they escaped so I kept rereading those parts. @.@]]></body>
+  
+  <user>
+    <id>4309445</id>
+    <name>Louie</name>
+    <display_name>Louie Shieh</display_name>
+
+    <location>Makati, D9, Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4309445-louie-shieh]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1284893450p3/4309445.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1284893450p2/4309445.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Sep 19 04:29:42 -0700 2010</created_at>
+  <updated_at>Sun Sep 19 04:29:42 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>21154786</id>
+  <body><![CDATA[Ughh, I feel the same way. Like why the hell did Gale just disappear? and she got to know about him like through a Lady...? and all she was thinking about was that he maybe kissing someone else..ugh then I seriously didn't like the ending of Prim...she was good, mature...but why did they just kill her..and she wasn't even mentioned until she was dead...or consoling her sister that you love Prim.. and Finnick...gosh when he died i feel like kicking someone...why the hell did Collins do that? then why hijacking Peeta...? ugh ugh ugh... I was finally having hope that he will be like the hero or something...but then baammm...no, he just became a mental boy who loves a mental girl...i loved hunger games the best...Catching fire was OK...Mockingjay was OK too..i was like where's Peeta? i want Peeta...and all we got was him being mental...gosh...then Katniss...she became seriously like a mutt..I mean cant she save Peeta? cant she go talk to Gale in the end? In the ending i was crying..not in the epilogue but in the last Chapter when shes like totally mad...but when the book finished...i just stared at the page...i read and read and read again the last few sentences...but they were like...so meaningless...it was like her life was so like not doing anything herself...i feel like punching in her Face when she was not telling Peeta who is she when he became hijacked...i was like SHE DIDN'T even thanked Gale for saving Peeta...if he wasn't there...then there was no Peeta...I loved so many characters...but they just died and died and died...I didn't even sleep.. I was reading this book for 5 to 6 hours whole Sunday morning...i stared at like 11 pm...then finished at 9 am...I was like..no i wont sleep...i want to know the ending...ugh i almost hated Peeta when he started saying "real or no real" she was forced to be with Peeta...in the end she says "What I need is the dandelion in the spring. The bright yellow that means rebirth instead of destruction. The promise that life can go on, no matter how bad our losses. That it can be good again.Only Peeta can give me that" it was like she had no choices at all...And last of All...I didn't wanted it to be a trilogy...I wish it ended when they come alive from the game in hunger Games and shes says i love u truly blah blah blah...Gale i am so sorry you can only be my friend...Her family living peacefully at last..and then shes singing... with Peeta on her side and he staring at her...smiling ugh...but no this cant be a peaceful ending...it was liked she was forced to write more about...dragging...ugh...i am soo angry..]]></body>
+  
+  <user>
+    <id>4048678</id>
+    <name>Saniya</name>
+    <display_name>Saniya</display_name>
+
+    <location>Karachi , Pakistan</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4048678-saniya]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1446849958p3/4048678.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1446849958p2/4048678.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Sep 21 04:32:03 -0700 2010</created_at>
+  <updated_at>Tue Sep 21 04:32:03 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>21215490</id>
+  <body><![CDATA[ok... I have only read about three pages and I got the feeling things were going to be a full blown frustration through this book. So I decided to look at some reviews- which I have strategically avoided so as to not ruin anything about this book I have been DYING to read...<br /><br />I was guessing she didn't end up with Gale. Since she was in love with him in book one but we never saw or got to know him in the first two(kind of like Peris in the Uglies series). <br /><br />I like your review, it matches up with what I was beginning to suspect, and dread. So I will take it as a heads up and maybe not be so disappointed.]]></body>
+  
+  <user>
+    <id>1274682</id>
+    <name>Cortney</name>
+    <display_name>Cortney</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1274682-cortney]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1289252455p3/1274682.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1289252455p2/1274682.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Sep 23 06:47:55 -0700 2010</created_at>
+  <updated_at>Thu Sep 23 06:47:55 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>21486377</id>
+  <body><![CDATA[I totally agree with you. I WISH WISH WISH WISH that that wasn't the end! It felt rushed and I wanted something better. Like, I don't know, maybe an ENDING?]]></body>
+  
+  <user>
+    <id>3596873</id>
+    <name>Lauren</name>
+    <display_name>Lauren</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3596873-lauren]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1310086357p3/3596873.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1310086357p2/3596873.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 01 20:17:16 -0700 2010</created_at>
+  <updated_at>Fri Oct 01 20:17:16 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>23090110</id>
+  <body><![CDATA[I just felt like ripping the book to pieces when I read the part that Finnick had died. He was the only character in this series that i liked from beginning to end so i had to read over that part again just like everyone else. I felt so sad and depressed that I didn't want to read anymore. I'm still so angry at Collins for killing him of like that.]]></body>
+  
+  <user>
+    <id>4562296</id>
+    <name>Whatever</name>
+    <display_name>Whatever</display_name>
+
+    <location>Saint Marys, 02, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4562296-whatever]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 22 00:31:17 -0800 2010</created_at>
+  <updated_at>Mon Nov 22 00:31:17 -0800 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>25509160</id>
+  <body><![CDATA[A agree completely. I almost hate Collins for killing Finnick - it was SO unnecessary and absolutely nothing came of it. He was my favourite character and i actually still feel heartache thinking about losing him. So unfair!]]></body>
+  
+  <user>
+    <id>4852671</id>
+    <name>Megan</name>
+    <display_name>Megan</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4852671-megan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492617879p3/4852671.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492617879p2/4852671.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 21 23:34:26 -0800 2011</created_at>
+  <updated_at>Fri Jan 21 23:34:26 -0800 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>27025896</id>
+  <body><![CDATA[Woah. You spoke almost all the thoughts on my mind. I completely agree.]]></body>
+  
+  <user>
+    <id>3080436</id>
+    <name>Stephi</name>
+    <display_name>Stephi Cham</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3080436-stephi-cham]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483669231p3/3080436.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483669231p2/3080436.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 26 00:49:55 -0800 2011</created_at>
+  <updated_at>Sat Feb 26 00:49:55 -0800 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31669730</id>
+  <body><![CDATA[me too!! i was disappointed as well!! there wasn't anything thrilling in this last installment rather i was bored n the ending, it's just not satisfying !!]]></body>
+  
+  <user>
+    <id>4655436</id>
+    <name>Anaamika</name>
+    <display_name>Anaamika</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4655436-anaamika]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1457505937p3/4655436.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1457505937p2/4655436.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 09 08:50:41 -0700 2011</created_at>
+  <updated_at>Thu Jun 09 08:50:41 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>34686060</id>
+  <body><![CDATA[Wow...you took the words right out of my mouth...almost exactly all 5 bajillion of them...including those of Cinna and Finnick...I have been shaking my head all day. This was soooo disappointing. And what about the pearl? I kept thinking the pearl would act as some kind of trigger to snap Peeta out of it and Bam! We have our strong Katniss back, Peeta and his strength and logic...this makes for a super battle and a great ending no matter who dies...but nope...in fact was there really even a battle? She just kinda fainted into the hospital yet again...sigh. Frustrating ending to an amazing series...Thanks for putting into words which I could not...]]></body>
+  
+  <user>
+    <id>5962604</id>
+    <name>Stacey</name>
+    <display_name>Stacey</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5962604-stacey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1313121622p3/5962604.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1313121622p2/5962604.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Aug 04 18:10:49 -0700 2011</created_at>
+  <updated_at>Thu Aug 04 18:10:49 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>41479296</id>
+  <body><![CDATA[I feel the same way, thanks for articulating my thoughts. I so wish it could be written again with more thought and feeling this time.]]></body>
+  
+  <user>
+    <id>1791567</id>
+    <name>Sally</name>
+    <display_name>Sally</display_name>
+
+    <location>Arroyo Grande, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1791567-sally]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Dec 12 15:53:01 -0800 2011</created_at>
+  <updated_at>Mon Dec 12 15:53:01 -0800 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>42519375</id>
+  <body><![CDATA[This book definitely could have been better ):<br />But do you still consider yourself a fan?]]></body>
+  
+  <user>
+    <id>5758442</id>
+    <name>Em</name>
+    <display_name>Em</display_name>
+
+    <location>Columbus, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5758442-em]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1328080152p3/5758442.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1328080152p2/5758442.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Dec 31 04:39:29 -0800 2011</created_at>
+  <updated_at>Sat Dec 31 04:39:29 -0800 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>43132329</id>
+  <body><![CDATA[yeah the other books were amazing and i was then i read the last one and was like wat the fuck.that was a horrible way to end the series!!!]]></body>
+  
+  <user>
+    <id>6186140</id>
+    <name>Morgan</name>
+    <display_name>Morgan Bogan</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6186140-morgan-bogan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1314917709p3/6186140.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1314917709p2/6186140.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jan 09 19:19:44 -0800 2012</created_at>
+  <updated_at>Mon Jan 09 19:19:44 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>48252716</id>
+  <body><![CDATA[I LOVE THAT PICTURE COMMENT BACK MICHELLE... TO ME OF COURSE]]></body>
+  
+  <user>
+    <id>8592989</id>
+    <name>Bmxer</name>
+    <display_name>Bmxer Cool</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8592989-bmxer-cool]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Apr 04 12:57:51 -0700 2012</created_at>
+  <updated_at>Wed Apr 04 12:57:51 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>48252725</id>
+  <body><![CDATA[please]]></body>
+  
+  <user>
+    <id>8592989</id>
+    <name>Bmxer</name>
+    <display_name>Bmxer Cool</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8592989-bmxer-cool]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Apr 04 12:58:00 -0700 2012</created_at>
+  <updated_at>Wed Apr 04 12:58:00 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>87670868</id>
+  <body><![CDATA[I agree! It was so bleak and dark! I felt like I was cutting my wrists at the end and then we didn't even really get to see the romance between Peeta and Katniss. We just saw an end result. I was very disappointed.]]></body>
+  
+  <user>
+    <id>17508829</id>
+    <name>Christina</name>
+    <display_name>Christina Creech</display_name>
+
+    <location>Richmond, VA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17508829-christina-creech]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1403243592p3/17508829.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1403243592p2/17508829.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Nov 28 15:25:36 -0800 2013</created_at>
+  <updated_at>Thu Nov 28 15:25:36 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>88464623</id>
+  <body><![CDATA[I agree the book was sad, and disappointing. I was the same exact way I couldn't wait for this book to come out. When I read it though I realized my expectations were too high The book wasn't awful it just wasn't up to par with the other two. But on the other hand it did keep me interested enough to read into the end and I'm so glad I did or else I wouldn't have read that Peeta and Katniss ended up being together and having kids or that Prim died. So it was a good book just simply not as amazing as the other two.]]></body>
+  
+  <user>
+    <id>26527681</id>
+    <name>Atlantis</name>
+    <display_name>Atlantis</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/26527681-atlantis]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Dec 11 17:16:49 -0800 2013</created_at>
+  <updated_at>Wed Dec 11 17:16:49 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>89225871</id>
+  <body><![CDATA[So this is a late comment but oh, well. I have to disagree with you. Katniss is still strong but you'd be a little weakened and traumatised if you had seen people die at your hand and if the boy you loved was off getting traumatised. And about how Cinna and Finnick's deaths weren't extravagant and big. THAT'S HOW DEATH IS! Death is sudden and unpredictable and when Katniss didn't shed a tear, she was just like us! Some of us didn't cry because we couldn't believe it. The book is true to the series. It shows the Capitol in it's true colours. Peeta was hijacked, for God's sake. And you're saying that it was stupid how he wasn't himself? He was tortured! I'm not hating on you, I'm just saying that you've really got to think about how and why it's written. Everything is written the way it is for a reason.]]></body>
+  
+  <user>
+    <id>23945916</id>
+    <name>Melissa</name>
+    <display_name>Melissa</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23945916-melissa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1381475758p3/23945916.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1381475758p2/23945916.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 24 16:31:47 -0800 2013</created_at>
+  <updated_at>Tue Dec 24 16:31:47 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>89359574</id>
+  <body><![CDATA[Couldn't agree more with your take on Finnick! And I was also incredibly annoyed with the extended periods Katniss spent wallowing in pain and self-loathing.]]></body>
+  
+  <user>
+    <id>10369370</id>
+    <name>Nicole</name>
+    <display_name>Nicole</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10369370-nicole]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483152509p3/10369370.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483152509p2/10369370.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Dec 27 10:42:58 -0800 2013</created_at>
+  <updated_at>Fri Dec 27 10:42:58 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>90048786</id>
+  <body><![CDATA[My thoughts exactly! Ugh...still couldn't put it down , but so disappointed!]]></body>
+  
+  <user>
+    <id>19465410</id>
+    <name>Susy</name>
+    <display_name>Susy Tarwater</display_name>
+
+    <location>Raymore, MO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/19465410-susy-tarwater]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 05 08:52:17 -0800 2014</created_at>
+  <updated_at>Sun Jan 05 08:52:17 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90108951</id>
+  <body><![CDATA[I agree with most of the review and the comments. I felt like the book was supposed to show how the two main protagonists are each broken down by power players in the absence of each other. And never fully heal.<br /><br />I thought Peeta and Katniss needed to get together, but their relationship was so bizarre by the end of the book that the ending seemed unrealistic. I'd feel weird if my spouse had tried to kill me on several occasions in the past in fits of insanity. And then for them to have kids together? Both of them are so scarred...they should have had a major crying session in which they apologized for everything, then taken a leaf out of Frodo's book and gone to the undying lands. Their many "weather tops" never fully healed.]]></body>
+  
+  <user>
+    <id>27386982</id>
+    <name>Gail</name>
+    <display_name>Gail</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27386982-gail]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1388987553p3/27386982.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1388987553p2/27386982.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 05 22:37:39 -0800 2014</created_at>
+  <updated_at>Sun Jan 05 22:37:39 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>91008955</id>
+  <body><![CDATA[I agree for the most part. I thought he book was going to be five star but it was not as fast passed and it was not as nice of a conclusion as I would have liked. I would have liked if they explained more what happened in the end of the story. I thought there was some good ideas in the story but I thought it was kind of slow paced book and I don't like slow paced books.]]></body>
+  
+  <user>
+    <id>24860392</id>
+    <name>Jacobb</name>
+    <display_name>Jacobb</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24860392-jacobb]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 19 13:01:08 -0800 2014</created_at>
+  <updated_at>Sun Jan 19 13:01:08 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95503132</id>
+  <body><![CDATA[I agree that the last book was quite the let down, but I also find the way that Katniss broke quote plausible. she was falling apart in catching fire as well.]]></body>
+  
+  <user>
+    <id>30023817</id>
+    <name>Katy</name>
+    <display_name>Katy Blue</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/30023817-katy-blue]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1395890784p3/30023817.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1395890784p2/30023817.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Mar 27 18:54:34 -0700 2014</created_at>
+  <updated_at>Thu Mar 27 18:54:34 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>101177114</id>
+  <body><![CDATA[Yeah... Totally agree with your review, even as a Gale supporter. Well said. You summed up all the things I couldn't verbalized about why I couldn't stand the ending.<br /><br />Also, I feel like there were potentially some good lessons there at the end, but swallowed up in too much sadness. It's a book that would make sense to those going through depression or pts, but no one wants that to win out...]]></body>
+  
+  <user>
+    <id>387341</id>
+    <name>Jonn&apos;e</name>
+    <display_name>Jonn&apos;e</display_name>
+
+    <location>San Jose, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/387341-jonn-e]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat Jun 28 10:49:17 -0700 2014</created_at>
+  <updated_at>Sat Jun 28 10:49:17 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>105946853</id>
+  <body><![CDATA[I totally agree with you. There were too many parts of the book where nothing interesting happened. The others were so full of action, and this one is not nearly as good. I was disappointed when I read Mockingjay . I know Peeta was not in the book as much and I wish he was in it more, but I can see why they left him out more. He was captured and it was supposed to be from Katniss’s point of view. So it would be hard to add Peeta in.]]></body>
+  
+  <user>
+    <id>34883920</id>
+    <name>Savannah</name>
+    <display_name>Savannah</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34883920-savannah]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu Sep 11 13:01:32 -0700 2014</created_at>
+  <updated_at>Thu Sep 11 13:01:32 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>108013675</id>
+  <body><![CDATA[I think the way Katniss was in the book shows no one can be as strong as they seem. I loved the book even though it was not as great as the first or second, it helps you understand how hard things like what happened could be. I was upset when somethings happened like **SPOILER** Finnick not surviving but the author doing things to not please people makes the book better in my opinion.]]></body>
+  
+  <user>
+    <id>34954147</id>
+    <name>Grace</name>
+    <display_name>Grace</display_name>
+
+    <location>Wylie, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34954147-grace]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Oct 19 09:53:42 -0700 2014</created_at>
+  <updated_at>Sun Oct 19 09:53:42 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>108013678</id>
+  <body><![CDATA[I think the way Katniss was in the book shows no one can be as strong as they seem. I loved the book even though it was not as great as the first or second, it helps you understand how hard things like what happened could be. I was upset when somethings happened like **SPOILER** Finnick not surviving but the author doing things to not please people makes the book better in my opinion.]]></body>
+  
+  <user>
+    <id>34954147</id>
+    <name>Grace</name>
+    <display_name>Grace</display_name>
+
+    <location>Wylie, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34954147-grace]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Oct 19 09:53:43 -0700 2014</created_at>
+  <updated_at>Sun Oct 19 09:53:43 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>108112169</id>
+  <body><![CDATA[yes, grace, I think the same! this was showing katniss at her worst after all she's been through. and although it was tough, she did survive in the end and save a lot of people.]]></body>
+  
+  <user>
+    <id>23945916</id>
+    <name>Melissa</name>
+    <display_name>Melissa</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23945916-melissa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1381475758p3/23945916.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1381475758p2/23945916.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 21 05:29:19 -0700 2014</created_at>
+  <updated_at>Tue Oct 21 05:29:19 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>108112172</id>
+  <body><![CDATA[yes, grace, I think the same! this was showing katniss at her worst after all she's been through. and although it was tough, she did survive in the end and save a lot of people.]]></body>
+  
+  <user>
+    <id>23945916</id>
+    <name>Melissa</name>
+    <display_name>Melissa</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23945916-melissa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1381475758p3/23945916.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1381475758p2/23945916.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 21 05:29:20 -0700 2014</created_at>
+  <updated_at>Tue Oct 21 05:29:20 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109708689</id>
+  <body><![CDATA[i agree with you on the parts where u say the deaths were just kinda yeah hes dead. oh well that annoyed me.too. but then i got into thinking and i think the most crucial point of this book is that it feels and is so real (storywise) and i think in such a situation the death of cinna and finnick and prim and... cant be to dramatic because if katniss would let herself fully grieve for all of them and suzanne vollims would give them a dramatic death it would just be to sgattering for katniss and kinda unrealistic as people really just die, mostly very undramaticaly. they die and then u have to move on. I think thats what she was trying to show.<br />lol i hope my babbling up there makes any sense to u..]]></body>
+  
+  <user>
+    <id>31099320</id>
+    <name>Zmeymazur</name>
+    <display_name>Zmeymazur</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/31099320-zmeymazur]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1399242565p3/31099320.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1399242565p2/31099320.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Nov 20 06:47:13 -0800 2014</created_at>
+  <updated_at>Thu Nov 20 06:47:13 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>112571967</id>
+  <body><![CDATA[agree agree]]></body>
+  
+  <user>
+    <id>38213506</id>
+    <name>Mindy</name>
+    <display_name>Mindy Diamond</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/38213506-mindy-diamond]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1451434499p3/38213506.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1451434499p2/38213506.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jan 10 18:25:23 -0800 2015</created_at>
+  <updated_at>Sat Jan 10 18:25:23 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>112647325</id>
+  <body><![CDATA[Couldn't agree with you more. Especially about finicky death in comparison to Prims. Thanks for sharing]]></body>
+  
+  <user>
+    <id>26283866</id>
+    <name>Zoe</name>
+    <display_name>Zoe Pearce</display_name>
+
+    <location>Chambly, QC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/26283866-zoe-pearce]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1386249614p3/26283866.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1386249614p2/26283866.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 11 23:43:11 -0800 2015</created_at>
+  <updated_at>Sun Jan 11 23:43:11 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>114613062</id>
+  <body><![CDATA[Your review basically said everything I felt about this book- I sort of quit reading after midway through- but still- you were right on the money!]]></body>
+  
+  <user>
+    <id>39978284</id>
+    <name>Amy</name>
+    <display_name>Amy Watt</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/39978284-amy-watt]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 14 19:44:10 -0800 2015</created_at>
+  <updated_at>Sat Feb 14 19:44:10 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>129759491</id>
+  <body><![CDATA[My thoughts exactly I just love Gale and always have I definitely think this is the worst book in the series ]]></body>
+  
+  <user>
+    <id>43565935</id>
+    <name>Gracie</name>
+    <display_name>Gracie</display_name>
+
+    <location>Tehachapi, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/43565935-gracie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1435638049p3/43565935.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1435638049p2/43565935.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jun 02 16:15:04 -0700 2015</created_at>
+  <updated_at>Tue Jun 02 16:15:04 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>137544065</id>
+  <body><![CDATA[You pretty much summed up my thoughts!]]></body>
+  
+  <user>
+    <id>36160805</id>
+    <name>Brittany</name>
+    <display_name>Brittany Lange</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/36160805-brittany-lange]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1435534156p3/36160805.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1435534156p2/36160805.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jul 27 11:49:31 -0700 2015</created_at>
+  <updated_at>Mon Jul 27 11:49:31 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>153690914</id>
+  <body><![CDATA[i agree with you em .. it could of ended with a happy ending..]]></body>
+  
+  <user>
+    <id>26972351</id>
+    <name>Timothy  Pettit</name>
+    <display_name>Timothy  Pettit</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/26972351-timothy-pettit]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 01 11:59:02 -0700 2016</created_at>
+  <updated_at>Fri Jul 01 11:59:02 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>153691009</id>
+  <body><![CDATA[i couldent agree more em. It could of ended with a happy ending.]]></body>
+  
+  <user>
+    <id>26972351</id>
+    <name>Timothy  Pettit</name>
+    <display_name>Timothy  Pettit</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/26972351-timothy-pettit]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 01 12:00:46 -0700 2016</created_at>
+  <updated_at>Fri Jul 01 12:00:46 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>153691279</id>
+  <body><![CDATA[it is like one of the saddest ending i have ever read ouf of all of the books ive read so far in my life.]]></body>
+  
+  <user>
+    <id>26972351</id>
+    <name>Timothy  Pettit</name>
+    <display_name>Timothy  Pettit</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/26972351-timothy-pettit]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 01 12:06:15 -0700 2016</created_at>
+  <updated_at>Fri Jul 01 12:06:15 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>153906694</id>
+  <body><![CDATA[I wish it had of ended with a happy ending with katness and PETA getting married and having kids.... So any body agree with me....]]></body>
+  
+  <user>
+    <id>26972351</id>
+    <name>Timothy  Pettit</name>
+    <display_name>Timothy  Pettit</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/26972351-timothy-pettit]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 06 18:15:39 -0700 2016</created_at>
+  <updated_at>Wed Jul 06 18:15:39 -0700 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/82263374]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/82263374]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

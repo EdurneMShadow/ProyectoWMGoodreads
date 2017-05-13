@@ -1,0 +1,866 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:49:37 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: 5Q8JQTS44ZBG4QFATFPQ
+etag: W/"2bae8781a94d1f40ed33ac6d91625bf0"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.284803
+set-cookie: csid=BAhJIhg3MTYtMjUyNzExOS0zMjI4MTc3BjoGRVQ%3D--b813a617ffe332722181c525d0e6076248db42d1; path=/; expires=Tue, 12 May 2037 13:49:37 -0000, locale=es; path=/, _session_id2=1faa2cdc0ffd7af51fb77b6910583b75; path=/; expires=Fri, 12 May 2017 19:49:37 -0000; HttpOnly
+content-length: 28568
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=27337374
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>27337374</id>
+    
+  <user>
+    <id>1137738</id>
+    <name>Ethan</name>
+    <display_name>Ethan</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1137738-ethan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1265525727p3/1137738.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1265525727p2/1137738.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">4248</id>
+  <isbn>1400079179</isbn>
+  <isbn13>9781400079179</isbn13>
+  <text_reviews_count type="integer">1448</text_reviews_count>
+  <title>The Da Vinci Code (Robert Langdon, #2)</title>
+  <title_without_series>The Da Vinci Code</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1361293878m/4248.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1361293878s/4248.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/4248.The_Da_Vinci_Code</link>
+  <num_pages>489</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Anchor</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.78</average_rating>
+  <ratings_count>1531664</ratings_count>
+  <description>An ingenious code hidden in the works of Leonardo da Vinci. A desperate race through the cathedrals and castles of Europe. An astonishing truth concealed for centuries . . . unveiled at last.&lt;br /&gt;&lt;br /&gt;While in Paris, Harvard symbologist Robert Langdon is awakened by a phone call in the dead of the night. The elderly curator of the Louvre has been murdered inside the museum, his body covered in baffling symbols. As Langdon and gifted French cryptologist Sophie Neveu sort through the bizarre riddles, they are stunned to discover a trail of clues hidden in the works of Leonardo da Vinci—clues visible for all to see and yet ingeniously disguised by the painter.&lt;br /&gt;&lt;br /&gt;Even more startling, the late curator was involved in the Priory of Sion—a secret society whose members included Sir Isaac Newton, Victor Hugo, and Da Vinci—and he guarded a breathtaking historical secret. Unless Langdon and Neveu can decipher the labyrinthine puzzle—while avoiding the faceless adversary who shadows their every move—the explosive, ancient truth will be lost forever.</description>
+<authors>
+<author>
+<id>630</id>
+<name>Dan Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p5/630.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p2/630.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/630.Dan_Brown]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>5211301</ratings_count>
+<text_reviews_count>138647</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1232427825</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Wed Feb 10 22:07:43 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>3</rating>
+  <votes>377</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sun May 01 00:00:00 -0700 2005</read_at>
+  <date_added>Tue Jul 15 13:03:42 -0700 2008</date_added>
+  <date_updated>Sat Jan 11 09:10:37 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Four stars for <b>pure entertainment value</b>.<br /><br />However, Dave Barry's review gets five stars:<br /><br /><br />`The Da Vinci Code,' cracked<br />by Dave Barry<br /><br />I have written a blockbuster novel. My inspiration was The DaVinci Code by Dan Brown, which has sold 253 trillion copies in hardcover because it's such a compelling page-t...]]>
+  </body>
+
+  
+
+  <comments_count>32</comments_count>
+    <comments start="1" end="32" total="32">
+        <comment>
+  <id>24163201</id>
+  <body><![CDATA[LOL! Brilliant]]></body>
+  
+  <user>
+    <id>4686537</id>
+    <name>Shagufta</name>
+    <display_name>Shagufta</display_name>
+
+    <location>Karachi, 05, Pakistan</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4686537-shagufta]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 21 01:33:12 -0800 2010</created_at>
+  <updated_at>Tue Dec 21 01:33:12 -0800 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>25342520</id>
+  <body><![CDATA[Funniest thing I've read in forever!]]></body>
+  
+  <user>
+    <id>4330668</id>
+    <name>Jwblizzard</name>
+    <display_name>Jwblizzard</display_name>
+
+    <location>Montreal, QC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4330668-jwblizzard]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Jan 18 09:03:17 -0800 2011</created_at>
+  <updated_at>Tue Jan 18 09:03:17 -0800 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31293927</id>
+  <body><![CDATA[Can barely stop laughing to type this comment. THANK YOU.]]></body>
+  
+  <user>
+    <id>3720787</id>
+    <name>Meghan</name>
+    <display_name>Meghan</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3720787-meghan]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Jun 01 16:48:31 -0700 2011</created_at>
+  <updated_at>Wed Jun 01 16:48:31 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>34710267</id>
+  <body><![CDATA[Thank you for that. Thank you so much!]]></body>
+  
+  <user>
+    <id>2548026</id>
+    <name>Tara</name>
+    <display_name>Tara</display_name>
+
+    <location>Hasbrouck Heights, NJ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2548026-tara]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1294386826p3/2548026.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1294386826p2/2548026.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 05 07:15:46 -0700 2011</created_at>
+  <updated_at>Fri Aug 05 07:15:46 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>36049306</id>
+  <body><![CDATA[Far, far superior to the book itself; more informative too.]]></body>
+  
+  <user>
+    <id>6009189</id>
+    <name>Naren</name>
+    <display_name>Naren</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6009189-naren]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1314650841p3/6009189.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1314650841p2/6009189.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 29 13:22:30 -0700 2011</created_at>
+  <updated_at>Mon Aug 29 13:22:30 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>44251930</id>
+  <body><![CDATA[Hahahaa, one of the funniest reviews I have ever read.]]></body>
+  
+  <user>
+    <id>7543884</id>
+    <name>Vanessa</name>
+    <display_name>Vanessa</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7543884-vanessa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1406871959p3/7543884.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1406871959p2/7543884.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 27 21:27:12 -0800 2012</created_at>
+  <updated_at>Fri Jan 27 21:27:12 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>50688637</id>
+  <body><![CDATA[Way, way too much time spent here. But it is funny.]]></body>
+  
+  <user>
+    <id>5295008</id>
+    <name>Chris</name>
+    <display_name>Chris Gager</display_name>
+
+    <location>Phippsburg, ME</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5295008-chris-gager]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1307204529p3/5295008.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1307204529p2/5295008.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri May 18 11:57:42 -0700 2012</created_at>
+  <updated_at>Fri May 18 11:57:42 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>52359261</id>
+  <body><![CDATA[I love Dave Barry.]]></body>
+  
+  <user>
+    <id>1877983</id>
+    <name>Megan</name>
+    <display_name>Megan Davis</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1877983-megan-davis]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1459349699p3/1877983.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1459349699p2/1877983.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jun 16 13:11:05 -0700 2012</created_at>
+  <updated_at>Sat Jun 16 13:11:05 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>56109281</id>
+  <body><![CDATA[Wasn't Nick Cage in this movie?]]></body>
+  
+  <user>
+    <id>7864853</id>
+    <name>Michael</name>
+    <display_name>Michael Lassell</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7864853-michael-lassell]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1329964951p3/7864853.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1329964951p2/7864853.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 13 00:08:01 -0700 2012</created_at>
+  <updated_at>Mon Aug 13 00:08:01 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>74551479</id>
+  <body><![CDATA[HAHAHAHA !!!!! Very funny indeed!!]]></body>
+  
+  <user>
+    <id>20256548</id>
+    <name>Sahajiya</name>
+    <display_name>Sahajiya</display_name>
+
+    <location>Calcutta, 28, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/20256548-sahajiya]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1485360577p3/20256548.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1485360577p2/20256548.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue May 21 05:29:40 -0700 2013</created_at>
+  <updated_at>Tue May 21 05:29:40 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>81432703</id>
+  <body><![CDATA[This is amazing! Thank you so much!]]></body>
+  
+  <user>
+    <id>19411011</id>
+    <name>Ingeborg</name>
+    <display_name>Ingeborg</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/19411011-ingeborg]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1439819476p3/19411011.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1439819476p2/19411011.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 24 05:30:45 -0700 2013</created_at>
+  <updated_at>Sat Aug 24 05:30:45 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85557825</id>
+  <body><![CDATA[*clap clap clap*]]></body>
+  
+  <user>
+    <id>19825345</id>
+    <name>Jupiter</name>
+    <display_name>Jupiter Wright</display_name>
+
+    <location>South Africa</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/19825345-jupiter-wright]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Oct 25 11:08:44 -0700 2013</created_at>
+  <updated_at>Fri Oct 25 11:08:44 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>89658812</id>
+  <body><![CDATA[:D :D :D I love Dave Barry! Lolol!]]></body>
+  
+  <user>
+    <id>27183690</id>
+    <name>Tom</name>
+    <display_name>Tom Tyler</display_name>
+
+    <location>League City, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27183690-tom-tyler]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 31 13:51:18 -0800 2013</created_at>
+  <updated_at>Tue Dec 31 13:51:18 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>92062476</id>
+  <body><![CDATA[Think I've just wet myself]]></body>
+  
+  <user>
+    <id>21028782</id>
+    <name>Gavin</name>
+    <display_name>Gavin Naismith</display_name>
+
+    <location>Qormi, 00, Malta</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/21028782-gavin-naismith]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 03 14:22:37 -0800 2014</created_at>
+  <updated_at>Mon Feb 03 14:22:37 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>94578859</id>
+  <body><![CDATA[Hahaha. Awesome.]]></body>
+  
+  <user>
+    <id>29430997</id>
+    <name>Rey</name>
+    <display_name>Rey Mark</display_name>
+
+    <location>Makati, D9, Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/29430997-rey-mark]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1394274397p3/29430997.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1394274397p2/29430997.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Mar 13 21:49:58 -0700 2014</created_at>
+  <updated_at>Thu Mar 13 21:49:58 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104265113</id>
+  <body><![CDATA[So many tears... ]]></body>
+  
+  <user>
+    <id>33944234</id>
+    <name>Mzsweetcheeks</name>
+    <display_name>Mzsweetcheeks</display_name>
+
+    <location>Kenya</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/33944234-mzsweetcheeks]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1450712865p3/33944234.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1450712865p2/33944234.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 13 19:21:26 -0700 2014</created_at>
+  <updated_at>Wed Aug 13 19:21:26 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>104403070</id>
+  <body><![CDATA[Absolutely hilarious!]]></body>
+  
+  <user>
+    <id>28623234</id>
+    <name>Iman</name>
+    <display_name>Iman A.</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/28623234-iman-a]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1425659597p3/28623234.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1425659597p2/28623234.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 16 01:31:53 -0700 2014</created_at>
+  <updated_at>Sat Aug 16 01:31:53 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>109985986</id>
+  <body><![CDATA[I love the story. Aligning the Constitution with monuments built after it was written? Does Dan Brown have that kind of anachronisms in his real books? :)]]></body>
+  
+  <user>
+    <id>10251235</id>
+    <name>Herman</name>
+    <display_name>Herman Gigglethorpe</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10251235-herman-gigglethorpe]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1398607523p3/10251235.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1398607523p2/10251235.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 25 14:18:11 -0800 2014</created_at>
+  <updated_at>Tue Nov 25 14:18:11 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>111830455</id>
+  <body><![CDATA[Dave Barry for the win! And I actually liked the Da Vinci Code, too]]></body>
+  
+  <user>
+    <id>20950696</id>
+    <name>Triisha</name>
+    <display_name>Triisha Trivadachi</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/20950696-triisha-trivadachi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1370210424p3/20950696.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1370210424p2/20950696.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 30 21:57:41 -0800 2014</created_at>
+  <updated_at>Tue Dec 30 21:57:41 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>114450922</id>
+  <body><![CDATA[I'm bookmarking this.]]></body>
+  
+  <user>
+    <id>18865963</id>
+    <name>Emma Jane</name>
+    <display_name>Emma Jane</display_name>
+
+    <location>Wales, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18865963-emma-jane]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1477057439p3/18865963.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1477057439p2/18865963.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Feb 11 16:51:48 -0800 2015</created_at>
+  <updated_at>Wed Feb 11 16:51:48 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>114951855</id>
+  <body><![CDATA[Much better writing than the Brown book.]]></body>
+  
+  <user>
+    <id>8456287</id>
+    <name>Jen</name>
+    <display_name>Jen</display_name>
+
+    <location>Saint Paul, MN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8456287-jen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1332990411p3/8456287.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1332990411p2/8456287.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 20 16:52:36 -0800 2015</created_at>
+  <updated_at>Fri Feb 20 16:52:36 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>115301738</id>
+  <body><![CDATA[Far superior to the book itself! I realize my own review was far too generous.]]></body>
+  
+  <user>
+    <id>35008235</id>
+    <name>Dido</name>
+    <display_name>Dido AuLeFer</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/35008235-dido-aulefer]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1453729765p3/35008235.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1453729765p2/35008235.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 27 05:47:08 -0800 2015</created_at>
+  <updated_at>Fri Feb 27 05:47:08 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>118018661</id>
+  <body><![CDATA[Amazing. That's it.]]></body>
+  
+  <user>
+    <id>40975462</id>
+    <name>Ilyaas</name>
+    <display_name>Ilyaas Arsala</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/40975462-ilyaas-arsala]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Apr 20 07:34:46 -0700 2015</created_at>
+  <updated_at>Mon Apr 20 07:34:46 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>118018662</id>
+  <body><![CDATA[Amazing. That's it.]]></body>
+  
+  <user>
+    <id>40975462</id>
+    <name>Ilyaas</name>
+    <display_name>Ilyaas Arsala</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/40975462-ilyaas-arsala]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Apr 20 07:34:47 -0700 2015</created_at>
+  <updated_at>Mon Apr 20 07:34:47 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>134514877</id>
+  <body><![CDATA[Hahah. That was genius.]]></body>
+  
+  <user>
+    <id>41444117</id>
+    <name>Grace</name>
+    <display_name>Grace Nudnud</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/41444117-grace-nudnud]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1426996576p3/41444117.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1426996576p2/41444117.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jul 11 19:24:36 -0700 2015</created_at>
+  <updated_at>Sat Jul 11 19:24:36 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>134514878</id>
+  <body><![CDATA[Hahah. That was genius.]]></body>
+  
+  <user>
+    <id>41444117</id>
+    <name>Grace</name>
+    <display_name>Grace Nudnud</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/41444117-grace-nudnud]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1426996576p3/41444117.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1426996576p2/41444117.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Jul 11 19:24:36 -0700 2015</created_at>
+  <updated_at>Sat Jul 11 19:24:36 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>145084050</id>
+  <body><![CDATA[I am crying! Thank you!]]></body>
+  
+  <user>
+    <id>10777452</id>
+    <name>Voldemort</name>
+    <display_name>Voldemort</display_name>
+
+    <location>Albania</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10777452-voldemort]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1430912402p3/10777452.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1430912402p2/10777452.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Dec 30 18:40:50 -0800 2015</created_at>
+  <updated_at>Wed Dec 30 18:40:50 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>145237483</id>
+  <body><![CDATA[Unbelievably accurate.]]></body>
+  
+  <user>
+    <id>41027016</id>
+    <name><![CDATA[Dasha ~Made of bad materials, yet well put together~]]></name>
+    <display_name><![CDATA[Dasha ~Made of bad materials, yet well put together~]]></display_name>
+
+    <location><![CDATA[Dreamland, Planet Popstar, Canada]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/41027016-dasha-made-of-bad-materials-yet-well-put-together]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493601047p3/41027016.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493601047p2/41027016.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 01 20:25:33 -0800 2016</created_at>
+  <updated_at>Fri Jan 01 20:25:33 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>145589097</id>
+  <body><![CDATA[Too funny! My own review (not yet written) is fairly generous, but I get it, Dave Barry… totally. Thanks for posting!]]></body>
+  
+  <user>
+    <id>25268331</id>
+    <name>Nico</name>
+    <display_name>Nico</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25268331-nico]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1430077996p3/25268331.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1430077996p2/25268331.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 07 07:25:17 -0800 2016</created_at>
+  <updated_at>Thu Jan 07 07:25:17 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157414156</id>
+  <body><![CDATA[Hilarious -- thanks for sharing! )]]></body>
+  
+  <user>
+    <id>8646968</id>
+    <name>Jennifer</name>
+    <display_name>Jennifer Blaske</display_name>
+
+    <location>Marietta, GA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8646968-jennifer-blaske]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1491266366p3/8646968.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1491266366p2/8646968.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Sep 29 17:41:19 -0700 2016</created_at>
+  <updated_at>Thu Sep 29 17:41:19 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159790863</id>
+  <body><![CDATA[The way you simplified Brown's chapter construction sequence is accurate and I almost choked laughing]]></body>
+  
+  <user>
+    <id>61703505</id>
+    <name>Engel</name>
+    <display_name>Engel Gatus</display_name>
+
+    <location>Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/61703505-engel-gatus]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1479542614p3/61703505.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1479542614p2/61703505.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Dec 02 19:42:23 -0800 2016</created_at>
+  <updated_at>Fri Dec 02 19:42:23 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159993443</id>
+  <body><![CDATA[Oh my goodness. Dave Barry NAILED IT. I'm going to link it in my review too, as he says it better than I ever could. Thank you!]]></body>
+  
+  <user>
+    <id>8292453</id>
+    <name>Shelli</name>
+    <display_name>Shelli</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8292453-shelli]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1365313986p3/8292453.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1365313986p2/8292453.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Dec 08 08:02:56 -0800 2016</created_at>
+  <updated_at>Thu Dec 08 08:02:56 -0800 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/27337374]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/27337374]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

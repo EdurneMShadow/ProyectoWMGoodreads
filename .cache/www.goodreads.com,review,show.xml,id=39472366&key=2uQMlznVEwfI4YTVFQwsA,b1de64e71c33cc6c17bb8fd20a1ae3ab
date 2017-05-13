@@ -1,20 +1,20 @@
 status: 200
-x-request-id: X0Z1D2N295RQ2MN2M07K
+x-request-id: WAF9AG1WT5SPVM2QC27Z
 x-xss-protection: 1; mode=block
 content-location: https://www.goodreads.com/review/show.xml?id=39472366&key=2uQMlznVEwfI4YTVFQwsA
 x-content-type-options: nosniff, nosniff
-set-cookie: csid=BAhJIhg0OTMtNDE5Nzk1My01NjY5NTczBjoGRVQ%3D--3db7792e9f45bf820d71f4368bc748f9712f90cc;
- path=/; expires=Fri, 08 May 2037 10:01:29 -0000, locale=es;
- path=/, _session_id2=e691bd0e646a4b025d85980dd56c205f; path=/;
- expires=Mon, 08 May 2017 16:01:29 -0000; HttpOnly
+set-cookie: csid=BAhJIhg4MzQtMjgxNjg3Ny0xMjQwMDQ5BjoGRVQ%3D--2434b9f01fdce41865143623b533a39edba72cc5;
+ path=/; expires=Mon, 11 May 2037 07:48:33 -0000, locale=es;
+ path=/, _session_id2=82f5b83a569c2ad53f56ab6791cbe416; path=/;
+ expires=Thu, 11 May 2017 13:48:34 -0000; HttpOnly
 vary: User-Agent,Accept-Encoding
 connection: keep-alive
 content-length: 67810
 server: Server
-x-runtime: 0.434968
-etag: W/"9d08d0abbb2b23d511deb3cf39db0947"
+x-runtime: 0.346837
+etag: W/"ebe4b8a98e2202893302d84fbed0294a"
 cache-control: max-age=0, private, must-revalidate
-date: Mon, 08 May 2017 10:01:29 GMT
+date: Thu, 11 May 2017 07:48:34 GMT
 x-frame-options: ALLOWALL
 content-type: application/xml; charset=utf-8
 -content-encoding: gzip
@@ -50,7 +50,7 @@ content-type: application/xml; charset=utf-8
   <id type="integer">865</id>
   <isbn>0061122416</isbn>
   <isbn13>9780061122415</isbn13>
-  <text_reviews_count type="integer">44727</text_reviews_count>
+  <text_reviews_count type="integer">44762</text_reviews_count>
   <title>The Alchemist</title>
   <title_without_series>The Alchemist</title_without_series>
   <image_url>https://images.gr-assets.com/books/1483412266m/865.jpg</image_url>
@@ -65,7 +65,7 @@ content-type: application/xml; charset=utf-8
   <publication_year>1993</publication_year>
   <publication_month>5</publication_month>
   <average_rating>3.81</average_rating>
-  <ratings_count>1345980</ratings_count>
+  <ratings_count>1347570</ratings_count>
   <description>Paulo Coelho's enchanting novel has inspired a devoted following around the world. This story, dazzling in its powerful simplicity and inspiring wisdom, is about an Andalusian shepherd boy named Santiago who travels from his homeland in Spain to the Egyptian desert in search of a treasure buried in the Pyramids. Along the way he meets a Gypsy woman, a man who calls himself king, and an alchemist, all of whom point Santiago in the direction of his quest. No one knows what the treasure is, or if Santiago will be able to surmount the obstacles along the way. But what starts out as a journey to find worldly goods turns into a discovery of the treasure found within. Lush, evocative, and deeply humane, the story of Santiago is an eternal testament to the transforming power of our dreams and the importance of listening to our hearts.</description>
 <authors>
 <author>
@@ -80,8 +80,8 @@ content-type: application/xml; charset=utf-8
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/566.Paulo_Coelho]]></link>
 <average_rating>3.72</average_rating>
-<ratings_count>2121901</ratings_count>
-<text_reviews_count>96297</text_reviews_count>
+<ratings_count>2124128</ratings_count>
+<text_reviews_count>96393</text_reviews_count>
 </author>
 </authors>
   <published>1993</published>
@@ -161,7 +161,7 @@ content-type: application/xml; charset=utf-8
         </read_status>
     </read_statuses>
   <rating>1</rating>
-  <votes>284</votes>
+  <votes>286</votes>
   <spoiler_flag>false</spoiler_flag>
   <spoilers_state>none</spoilers_state>
   

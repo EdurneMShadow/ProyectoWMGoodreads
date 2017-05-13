@@ -1,0 +1,1280 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:53:04 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: 2BGFAW6VC66TJ9C4KBXQ
+etag: W/"efd13da4125cb5c405b3f4a22641640c"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.571049
+set-cookie: csid=BAhJIhg4ODItOTk4MjMyMy04ODQ0ODAxBjoGRVQ%3D--86098dc7715dbec5f35f528c6c06d1abf2f41b3e; path=/; expires=Tue, 12 May 2037 13:53:03 -0000, locale=es; path=/, _session_id2=a952971b74df96d66f16fc6fea5178f5; path=/; expires=Fri, 12 May 2017 19:53:04 -0000; HttpOnly
+content-length: 46648
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=468815437
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>468815437</id>
+    
+  <user>
+    <id>2796667</id>
+    <name>Richa</name>
+    <display_name>Richa</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2796667-richa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1354430575p3/2796667.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1354430575p2/2796667.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">11870085</id>
+  <isbn>0525478817</isbn>
+  <isbn13>9780525478812</isbn13>
+  <text_reviews_count type="integer">127185</text_reviews_count>
+  <title>The Fault in Our Stars</title>
+  <title_without_series>The Fault in Our Stars</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1360206420m/11870085.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1360206420s/11870085.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/11870085-the-fault-in-our-stars</link>
+  <num_pages>313</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Dutton Books</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.27</average_rating>
+  <ratings_count>2381953</ratings_count>
+  <description>&lt;i&gt;There is an alternate cover edition &lt;a href="https://www.goodreads.com/book/show/25856606-the-fault-in-our-stars" rel="nofollow"&gt;here&lt;/a&gt;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;"I fell in love the way you fall asleep: slowly, then all at once."&lt;br /&gt;&lt;br /&gt;Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a gorgeous plot twist named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten.&lt;br /&gt;&lt;br /&gt;Insightful, bold, irreverent, and raw, The Fault in Our Stars is award-winning author John Green's most ambitious and heartbreaking work yet, brilliantly exploring the funny, thrilling, and tragic business of being alive and in love.</description>
+<authors>
+<author>
+<id>1406384</id>
+<name>John Green</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>4528234</ratings_count>
+<text_reviews_count>275833</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1225613784</id>
+          <old_status></old_status>
+          <status>to-read</status>
+          <updated_at type="datetime">Sat Feb 06 08:57:40 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>1141</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf name="to-read" exclusive="true" review_shelf_id="312994247" sortable="true" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Mar 12 00:00:00 -0700 2013</read_at>
+  <date_added>Mon Dec 03 04:32:35 -0800 2012</date_added>
+  <date_updated>Mon Jan 13 14:47:41 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<b>I HATE this book. Absolutely hate it.</b> Not just from the bottom of my heart (which would literally mean my ventricles, and so, no) but with my whole heart. <b>I hate it, hate it, hate it.</b><br /><br /><img src="http://25.media.tumblr.com/tumblr_mdtnca4yY71qdd0h8o1_500.png" class="gr-hostedUserImg" /><br /><br />I hate the fact that it <b>made me laugh, so hard!</b> <br />I hate the fact that it <b>made me smile, so much!</b><br />I hate the fact tha...]]>
+  </body>
+
+  
+
+  <comments_count>245</comments_count>
+    <comments start="1" end="50" total="245">
+        <comment>
+  <id>69664571</id>
+  <body><![CDATA[Wonderful review. :D]]></body>
+  
+  <user>
+    <id>6165339</id>
+    <name>Akanksha❤ Søren♰</name>
+    <display_name>Akanksha❤ Søren♰</display_name>
+
+    <location>India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6165339-akanksha-s-ren]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1456859177p3/6165339.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1456859177p2/6165339.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 12 09:51:55 -0700 2013</created_at>
+  <updated_at>Tue Mar 12 09:51:55 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69665867</id>
+  <body><![CDATA[Awesome review!]]></body>
+  
+  <user>
+    <id>6010839</id>
+    <name>Lisa</name>
+    <display_name>Lisa</display_name>
+
+    <location>Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6010839-lisa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1336255030p3/6010839.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1336255030p2/6010839.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 12 10:11:59 -0700 2013</created_at>
+  <updated_at>Tue Mar 12 10:11:59 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69669345</id>
+  <body><![CDATA[Amazing Review Richa!!!! =)]]></body>
+  
+  <user>
+    <id>5510668</id>
+    <name>Brittni</name>
+    <display_name>Brittni</display_name>
+
+    <location>Dallas, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5510668-brittni]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1437610449p3/5510668.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1437610449p2/5510668.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 12 11:05:54 -0700 2013</created_at>
+  <updated_at>Tue Mar 12 11:05:54 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69676049</id>
+  <body><![CDATA[I hate this magnificent review. I hate that it got me all choked up. I hate that this wonderful review transported me back to the glorious world of Augustus and Hazel. I hate those incredible pictures.<br /><br />Thank you for this splendid review. I bet John Green would be proud of this one. You are brilliant.<br />♥]]></body>
+  
+  <user>
+    <id>14702224</id>
+    <name>Sonia ღ</name>
+    <display_name>Sonia ღ</display_name>
+
+    <location>India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14702224-sonia]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1415818100p3/14702224.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1415818100p2/14702224.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 12 12:46:36 -0700 2013</created_at>
+  <updated_at>Tue Mar 12 12:46:36 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69677915</id>
+  <body><![CDATA[Stunning review, Richa!]]></body>
+  
+  <user>
+    <id>8191340</id>
+    <name>Lise *friends don&apos;t flag*</name>
+    <display_name>Lise *friends don&apos;t flag*</display_name>
+
+    <location>Land O Lakes, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8191340-lise-friends-don-t-flag]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1410910791p3/8191340.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1410910791p2/8191340.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 12 13:10:23 -0700 2013</created_at>
+  <updated_at>Tue Mar 12 13:10:23 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69678525</id>
+  <body><![CDATA[Fabulous review, Richa! Well done xD xD]]></body>
+  
+  <user>
+    <id>7179798</id>
+    <name>Susanne </name>
+    <display_name>Susanne </display_name>
+
+    <location>Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7179798-susanne]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1366397224p3/7179798.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1366397224p2/7179798.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 12 13:18:14 -0700 2013</created_at>
+  <updated_at>Tue Mar 12 13:18:14 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69680765</id>
+  <body><![CDATA[Feels like foooreeevaaaaa since I saw your name come up on my feed. Like you are in hibernation, and I was having Richa review withdrawals! And then.... there you are....<br><br><img src="https://images.gr-assets.com/hostedimages/1380222758ra/497649.gif" class="gr-hostedUserImg"><br><br>Thank you for the review Richa! I really want to pick up this book soon. Will have to move it up the list! :)]]></body>
+  
+  <user>
+    <id>7527747</id>
+    <name>Lily at Bookluvrs Haven</name>
+    <display_name>Lily at Bookluvrs Haven</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7527747-lily-at-bookluvrs-haven]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493146511p3/7527747.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493146511p2/7527747.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 12 13:45:50 -0700 2013</created_at>
+  <updated_at>Tue Mar 12 13:45:50 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69681029</id>
+  <body><![CDATA[Awesome review Richa :)]]></body>
+  
+  <user>
+    <id>8310179</id>
+    <name>Blacky *Romance Addict*</name>
+    <display_name>Blacky *Romance Addict*</display_name>
+
+    <location>Croatia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8310179-blacky-romance-addict]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1420469509p3/8310179.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1420469509p2/8310179.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 12 13:49:07 -0700 2013</created_at>
+  <updated_at>Tue Mar 12 13:49:07 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69695140</id>
+  <body><![CDATA[Awww, Richa!!! Your review makes me want to cry! I'll eventually gear up for this one...I need lots of preparation. Good to see you back on Good Reads...it's been awhile!!]]></body>
+  
+  <user>
+    <id>2204947</id>
+    <name>Duchess Nicole</name>
+    <display_name>Duchess Nicole</display_name>
+
+    <location>Fort Worth, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2204947-duchess-nicole]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487190669p3/2204947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487190669p2/2204947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 12 16:39:23 -0700 2013</created_at>
+  <updated_at>Tue Mar 12 16:39:23 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69696052</id>
+  <body><![CDATA[omg Richa wonderful review!!!!<br /><br />i adore this book!]]></body>
+  
+  <user>
+    <id>7500821</id>
+    <name>Vishous</name>
+    <display_name>Vishous</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7500821-vishous]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1424942031p3/7500821.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1424942031p2/7500821.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 12 16:51:23 -0700 2013</created_at>
+  <updated_at>Tue Mar 12 16:51:23 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69700381</id>
+  <body><![CDATA[Richa, I just LOVE, LOVE, LOVE your review!!! The pics are perfect...and this book is just amazing...still can't stop thinking about it and your review has brought back all the memories of reading it as well...Wonderfully done!! :-)]]></body>
+  
+  <user>
+    <id>13247178</id>
+    <name>Debra</name>
+    <display_name>Debra</display_name>
+
+    <location>Belgium</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13247178-debra]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1473718933p3/13247178.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1473718933p2/13247178.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 12 17:48:36 -0700 2013</created_at>
+  <updated_at>Tue Mar 12 17:48:36 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69709447</id>
+  <body><![CDATA[Wow, just wow and obviously a must read!! :)]]></body>
+  
+  <user>
+    <id>7986862</id>
+    <name>NiteReader</name>
+    <display_name>NiteReader</display_name>
+
+    <location>Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7986862-nitereader]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1365628875p3/7986862.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1365628875p2/7986862.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 12 19:48:34 -0700 2013</created_at>
+  <updated_at>Tue Mar 12 19:48:34 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69714615</id>
+  <body><![CDATA[AWESOME review, Richa!!!:)]]></body>
+  
+  <user>
+    <id>5587514</id>
+    <name>Alexis *Reality Bites*</name>
+    <display_name>Alexis *Reality Bites*</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5587514-alexis-reality-bites]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1404308282p3/5587514.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1404308282p2/5587514.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 12 21:19:43 -0700 2013</created_at>
+  <updated_at>Tue Mar 12 21:19:43 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69721670</id>
+  <body><![CDATA[OMG!!!! I seriously have very little idea about waht all these words mean as I haven't read this book yet... But I loved the review, coz it made me CURIOUS... :) It was superb...I'm sending you a friend request..I would love to chat about books with you..]]></body>
+  
+  <user>
+    <id>4206462</id>
+    <name>Shreya</name>
+    <display_name>Shreya</display_name>
+
+    <location>Kolkata, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4206462-shreya]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1360339333p3/4206462.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1360339333p2/4206462.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 13 02:29:10 -0700 2013</created_at>
+  <updated_at>Wed Mar 13 02:29:10 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69723909</id>
+  <body><![CDATA[ohhh, so some hate is in order. ;)) I "hate" this fabulous review, Richa. Wonderful job, hun!]]></body>
+  
+  <user>
+    <id>4668708</id>
+    <name>bobo</name>
+    <display_name>bobo</display_name>
+
+    <location>Cluj, 13, Romania</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4668708-bobo]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1330764051p3/4668708.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1330764051p2/4668708.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 13 04:10:37 -0700 2013</created_at>
+  <updated_at>Wed Mar 13 04:10:37 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69729424</id>
+  <body><![CDATA[Flipin' beautiful review Richa. I'm almost back to the blubbering mess<br />I was when I finished it.]]></body>
+  
+  <user>
+    <id>3758447</id>
+    <name>Vikki ~ *squee* lite ~</name>
+    <display_name>Vikki ~ *squee* lite ~</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3758447-vikki-squee-lite]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1368215503p3/3758447.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1368215503p2/3758447.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 13 06:32:10 -0700 2013</created_at>
+  <updated_at>Wed Mar 13 06:32:10 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69730370</id>
+  <body><![CDATA[BEAUTIFUL review doll!!Reading this soon!!:D]]></body>
+  
+  <user>
+    <id>9444787</id>
+    <name>Dd</name>
+    <display_name>Dd</display_name>
+
+    <location>India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9444787-dd]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 13 06:50:24 -0700 2013</created_at>
+  <updated_at>Wed Mar 13 06:50:24 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69738670</id>
+  <body><![CDATA[Fab review, Richa!]]></body>
+  
+  <user>
+    <id>4669232</id>
+    <name><![CDATA[Baba  ♥♥♥ Tyler, Marcus, Archer, Dean, Adrian, Dan & Hunter]]></name>
+    <display_name><![CDATA[Baba  ♥♥♥ Tyler, Marcus, Archer, Dean, Adrian, Dan & Hunter]]></display_name>
+
+    <location>Switzerland, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4669232-baba-tyler-marcus-archer-dean-adrian-dan-hunter]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1489691517p3/4669232.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1489691517p2/4669232.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 13 09:12:52 -0700 2013</created_at>
+  <updated_at>Wed Mar 13 09:12:52 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69739605</id>
+  <body><![CDATA[<i>Akanksha ❤ wrote: "Wonderful review. :D"</i><br /><br />Thank you, Akanksha!! :))]]></body>
+  
+  <user>
+    <id>2796667</id>
+    <name>Richa</name>
+    <display_name>Richa</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2796667-richa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1354430575p3/2796667.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1354430575p2/2796667.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 13 09:28:51 -0700 2013</created_at>
+  <updated_at>Wed Mar 13 09:28:51 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69739621</id>
+  <body><![CDATA[<i>Lisa wrote: "Awesome review!"</i><br /><br />Thank you, Lisa!! :))]]></body>
+  
+  <user>
+    <id>2796667</id>
+    <name>Richa</name>
+    <display_name>Richa</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2796667-richa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1354430575p3/2796667.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1354430575p2/2796667.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 13 09:29:11 -0700 2013</created_at>
+  <updated_at>Wed Mar 13 09:29:11 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69739636</id>
+  <body><![CDATA[<i>Brittni wrote: "Amazing Review Richa!!!! =)"</i><br /><br />Thank you, Brittni!! :))]]></body>
+  
+  <user>
+    <id>2796667</id>
+    <name>Richa</name>
+    <display_name>Richa</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2796667-richa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1354430575p3/2796667.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1354430575p2/2796667.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 13 09:29:26 -0700 2013</created_at>
+  <updated_at>Wed Mar 13 09:29:26 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69739751</id>
+  <body><![CDATA[<i>Sonia ღ wrote: "I hate this magnificent review. I hate that it got me all choked up. I hate that this wonderful review transported me back to the glorious world of Augustus and Hazel. I hate those incredible pictu..."</i><br /><br />Aww..I hate this comment, Sonia!! :D Thank you, thank you so much for this!! *hugs* Thank you for all the encouragement...I hate it. :P &lt;3]]></body>
+  
+  <user>
+    <id>2796667</id>
+    <name>Richa</name>
+    <display_name>Richa</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2796667-richa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1354430575p3/2796667.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1354430575p2/2796667.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 13 09:31:22 -0700 2013</created_at>
+  <updated_at>Wed Mar 13 09:31:22 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69739775</id>
+  <body><![CDATA[<i>Lise wrote: "Stunning review, Richa!"</i><br /><br />Thank you, Lise!! :))]]></body>
+  
+  <user>
+    <id>2796667</id>
+    <name>Richa</name>
+    <display_name>Richa</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2796667-richa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1354430575p3/2796667.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1354430575p2/2796667.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 13 09:31:44 -0700 2013</created_at>
+  <updated_at>Wed Mar 13 09:31:44 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69739803</id>
+  <body><![CDATA[<i>Susanne wrote: "Fabulous review, Richa! Well done xD xD"</i><br /><br />Thank you, Susanne!! :)) :DD]]></body>
+  
+  <user>
+    <id>2796667</id>
+    <name>Richa</name>
+    <display_name>Richa</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2796667-richa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1354430575p3/2796667.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1354430575p2/2796667.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 13 09:32:14 -0700 2013</created_at>
+  <updated_at>Wed Mar 13 09:32:14 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69740176</id>
+  <body><![CDATA[<i>Lily wrote: "Feels like foooreeevaaaaa since I saw your name come up on my feed. Like you are in hibernation, and I was having Richa review withdrawals! And then.... there you are....<br><br><br><br>Thank you for the revi..."</i><br><br>LOL! I was in hibernation, kind of. :D Had all these tests to prepare for and assignments to submit. Still do. But have finally got a mid semester break, so could come online again. :)<br><br>Thank you so much, Lily!! I missed you too! <br><br><img src="https://images.gr-assets.com/hostedimages/1380222758ra/496286.gif" class="gr-hostedUserImg"><br><br>I hope you'll love it whenever you read it....Word of advice: Keep plenty of Kleenex nearby. You'll need it, trust me. :S]]></body>
+  
+  <user>
+    <id>2796667</id>
+    <name>Richa</name>
+    <display_name>Richa</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2796667-richa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1354430575p3/2796667.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1354430575p2/2796667.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 13 09:39:08 -0700 2013</created_at>
+  <updated_at>Wed Mar 13 09:39:08 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69740265</id>
+  <body><![CDATA[<i>Blacky wrote: "Awesome review Richa :)"</i><br /><br />Thank you, Blacky!! :))]]></body>
+  
+  <user>
+    <id>2796667</id>
+    <name>Richa</name>
+    <display_name>Richa</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2796667-richa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1354430575p3/2796667.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1354430575p2/2796667.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 13 09:40:45 -0700 2013</created_at>
+  <updated_at>Wed Mar 13 09:40:45 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69740369</id>
+  <body><![CDATA[<i>Duchess Nicole wrote: "Awww, Richa!!! Your review makes me want to cry! I'll eventually gear up for this one...I need lots of preparation. Good to see you back on Good Reads...it's been awhile!!"</i><br /><br />Thank you, Nicole!! :)) It's good to be back! :D And yep, lots of preparation is required for reading this one like having plenty of Kleenex nearby!]]></body>
+  
+  <user>
+    <id>2796667</id>
+    <name>Richa</name>
+    <display_name>Richa</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2796667-richa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1354430575p3/2796667.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1354430575p2/2796667.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 13 09:42:47 -0700 2013</created_at>
+  <updated_at>Wed Mar 13 09:42:47 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69740441</id>
+  <body><![CDATA[<i>Vishous * RACHT's MINION! * wrote: "omg Richa wonderful review!!!!<br /><br />i adore this book!"</i><br /><br />I adore it too...but will definitely not read it again anytime soon. My eyes are tired of crying. For now. :P<br /><br />Thank you, Vishous!! :))]]></body>
+  
+  <user>
+    <id>2796667</id>
+    <name>Richa</name>
+    <display_name>Richa</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2796667-richa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1354430575p3/2796667.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1354430575p2/2796667.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 13 09:44:00 -0700 2013</created_at>
+  <updated_at>Wed Mar 13 09:44:00 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69740640</id>
+  <body><![CDATA[<i>Debra wrote: "Richa, I just LOVE, LOVE, LOVE your review!!! The pics are perfect...and this book is just amazing...still can't stop thinking about it and your review has brought back all the memories of reading ..."</i><br /><br />Thank you so much, Debra!!! :)) I "hate" this book! Absolutely hate it. So, this will go in the collection of awesome-and-beautiful-but-to-be-read-only-when-your-eyes-need-cleaning-kind-of-book shelf. Right next to <a href="https://www.goodreads.com/book/show/3473.A_Walk_to_Remember" title="A Walk to Remember by Nicholas Sparks" rel="nofollow">A Walk to Remember</a>, <a href="https://www.goodreads.com/book/show/2164318.Ways_To_Live_Forever" title="Ways To Live Forever by Sally Nicholls" rel="nofollow">Ways To Live Forever</a> and <a href="https://www.goodreads.com/book/show/9777.The_God_of_Small_Things" title="The God of Small Things by Arundhati Roy" rel="nofollow">The God of Small Things</a>. :S]]></body>
+  
+  <user>
+    <id>2796667</id>
+    <name>Richa</name>
+    <display_name>Richa</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2796667-richa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1354430575p3/2796667.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1354430575p2/2796667.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 13 09:47:42 -0700 2013</created_at>
+  <updated_at>Wed Mar 13 09:47:42 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69740704</id>
+  <body><![CDATA[<i>NiteReader wrote: "Wow, just wow and obviously a must read!! :)"</i><br /><br />Thank you, Nite!! :)) And yes, it is a must read but be prepared to laugh and cry and laugh some more and cry even more when you do. :S]]></body>
+  
+  <user>
+    <id>2796667</id>
+    <name>Richa</name>
+    <display_name>Richa</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2796667-richa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1354430575p3/2796667.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1354430575p2/2796667.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 13 09:48:53 -0700 2013</created_at>
+  <updated_at>Wed Mar 13 09:48:53 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69740723</id>
+  <body><![CDATA[<i>Alexis ~*Your official Book PIMP*~ wrote: "AWESOME review, Richa!!!:)"</i><br /><br />Thank you, Alexis!! :))]]></body>
+  
+  <user>
+    <id>2796667</id>
+    <name>Richa</name>
+    <display_name>Richa</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2796667-richa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1354430575p3/2796667.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1354430575p2/2796667.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 13 09:49:13 -0700 2013</created_at>
+  <updated_at>Wed Mar 13 09:49:13 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69740852</id>
+  <body><![CDATA[<i>Shreya wrote: "OMG!!!! I seriously have very little idea about waht all these words mean as I haven't read this book yet... But I loved the review, coz it made me CURIOUS... :) It was superb...I'm sending you a f..."</i><br /><br />Thank you so much, Shreya!! :)) I'm glad you're curious about the book. It's lovable and beautiful but absolutely devastating. <br /><br />I haven't checked my friend requests in a while now...my friend list first needs some serious organizing and editing. :D Will accept yours as soon as I check it. Thank you for it. :)]]></body>
+  
+  <user>
+    <id>2796667</id>
+    <name>Richa</name>
+    <display_name>Richa</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2796667-richa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1354430575p3/2796667.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1354430575p2/2796667.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 13 09:51:39 -0700 2013</created_at>
+  <updated_at>Wed Mar 13 09:51:39 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69740887</id>
+  <body><![CDATA[<i>bobo wrote: "ohhh, so some hate is in order. ;)) I "hate" this fabulous review, Richa. Wonderful job, hun!"</i><br /><br />Thank you so much, L!! :))]]></body>
+  
+  <user>
+    <id>2796667</id>
+    <name>Richa</name>
+    <display_name>Richa</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2796667-richa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1354430575p3/2796667.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1354430575p2/2796667.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 13 09:52:19 -0700 2013</created_at>
+  <updated_at>Wed Mar 13 09:52:19 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69740918</id>
+  <body><![CDATA[<i>Vikki wrote: "Flipin' beautiful review Richa. I'm almost back to the blubbering mess<br />I was when I finished it."</i><br /><br />*Hugs* I get it...*sigh* Thank you so much, Vikki!! :))]]></body>
+  
+  <user>
+    <id>2796667</id>
+    <name>Richa</name>
+    <display_name>Richa</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2796667-richa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1354430575p3/2796667.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1354430575p2/2796667.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 13 09:52:56 -0700 2013</created_at>
+  <updated_at>Wed Mar 13 09:52:56 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69740969</id>
+  <body><![CDATA[<i>Dd wrote: "BEAUTIFUL review doll!!Reading this soon!!:D"</i><br /><br />Thank you so much, my dollface!!! :DD By the way, I thought you were going to call me?]]></body>
+  
+  <user>
+    <id>2796667</id>
+    <name>Richa</name>
+    <display_name>Richa</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2796667-richa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1354430575p3/2796667.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1354430575p2/2796667.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 13 09:53:46 -0700 2013</created_at>
+  <updated_at>Wed Mar 13 09:53:46 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69740994</id>
+  <body><![CDATA[<i>Baba wrote: "Fab review, Richa!"</i><br /><br />Thank you, Baba!! :))]]></body>
+  
+  <user>
+    <id>2796667</id>
+    <name>Richa</name>
+    <display_name>Richa</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2796667-richa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1354430575p3/2796667.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1354430575p2/2796667.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 13 09:54:04 -0700 2013</created_at>
+  <updated_at>Wed Mar 13 09:54:04 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69741000</id>
+  <body><![CDATA[Richa, wow! what a review. I have this book on audio and now I am compelled to listened to it. Your review was lyrical, creative, and compelling! Publishers need to put you on staff!]]></body>
+  
+  <user>
+    <id>1022402</id>
+    <name>Sunny</name>
+    <display_name>Sunny</display_name>
+
+    <location>Huntington Beach, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1022402-sunny]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1406238112p3/1022402.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1406238112p2/1022402.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 13 09:54:15 -0700 2013</created_at>
+  <updated_at>Wed Mar 13 09:54:15 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69742610</id>
+  <body><![CDATA[<i>Richa wrote: "Lily wrote: "Feels like foooreeevaaaaa since I saw your name come up on my feed. Like you are in hibernation, and I was having Richa review withdrawals! And then.... there you are....<br /><br /><br /><br />Thank you..."</i><br /><br />I was forewarned to the kleenex requirement with this book. I blubbered through 'Looking for Alaska' so I will definitely take the advice. LOL :) Good luck with all the tests and assignments that you have left!!]]></body>
+  
+  <user>
+    <id>7527747</id>
+    <name>Lily at Bookluvrs Haven</name>
+    <display_name>Lily at Bookluvrs Haven</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7527747-lily-at-bookluvrs-haven]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493146511p3/7527747.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493146511p2/7527747.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 13 10:20:50 -0700 2013</created_at>
+  <updated_at>Wed Mar 13 10:20:50 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69749797</id>
+  <body><![CDATA[Nicely done, Richa!]]></body>
+  
+  <user>
+    <id>5477946</id>
+    <name>Kristen</name>
+    <display_name>Kristen</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5477946-kristen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1312922334p3/5477946.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1312922334p2/5477946.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 13 12:14:49 -0700 2013</created_at>
+  <updated_at>Wed Mar 13 12:14:49 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69755338</id>
+  <body><![CDATA[Fabulous review Richa!:) and beautiful pics too;)]]></body>
+  
+  <user>
+    <id>9627459</id>
+    <name>Louise</name>
+    <display_name>Louise</display_name>
+
+    <location>Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9627459-louise]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1372421756p3/9627459.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1372421756p2/9627459.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 13 13:43:34 -0700 2013</created_at>
+  <updated_at>Wed Mar 13 13:43:34 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69755544</id>
+  <body><![CDATA[Wooow amazing review.]]></body>
+  
+  <user>
+    <id>8641600</id>
+    <name>Charlinda</name>
+    <display_name>Charlinda Jenkins</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8641600-charlinda-jenkins]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1333800123p3/8641600.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1333800123p2/8641600.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 13 13:46:58 -0700 2013</created_at>
+  <updated_at>Wed Mar 13 13:46:58 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69755800</id>
+  <body><![CDATA[I could only read about half the review because if I read one more sentence I would definitely start crying. This book broke my heart. It's the most horrible and amazing book ever.]]></body>
+  
+  <user>
+    <id>4580003</id>
+    <name>Inês</name>
+    <display_name>Inês</display_name>
+
+    <location>Coimbra, Portugal, Portugal</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4580003-in-s]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1355103445p3/4580003.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1355103445p2/4580003.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 13 13:50:23 -0700 2013</created_at>
+  <updated_at>Wed Mar 13 13:50:23 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69788111</id>
+  <body><![CDATA[Wow wow wow!<br />Loved your review! Awesome! :)]]></body>
+  
+  <user>
+    <id>7765903</id>
+    <name>Komal</name>
+    <display_name>Komal Mikaelson</display_name>
+
+    <location>India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7765903-komal-mikaelson]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1405266971p3/7765903.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1405266971p2/7765903.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 13 22:16:48 -0700 2013</created_at>
+  <updated_at>Wed Mar 13 22:16:48 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69795591</id>
+  <body><![CDATA[Awesome review, Richa! :)]]></body>
+  
+  <user>
+    <id>6599667</id>
+    <name>Glamdring</name>
+    <display_name>Glamdring</display_name>
+
+    <location>Belgium</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6599667-glamdring]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1401555740p3/6599667.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1401555740p2/6599667.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Mar 14 04:37:28 -0700 2013</created_at>
+  <updated_at>Thu Mar 14 04:37:28 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69824154</id>
+  <body><![CDATA[Wow just reading your review I wanted to cry. I have not read this book and I am not sure I could handle it. But I am going to put it on my to be read list and maybe I can bring myself to try and read it. Great review by the way!!]]></body>
+  
+  <user>
+    <id>11410429</id>
+    <name>Jessica</name>
+    <display_name>Jessica</display_name>
+
+    <location>Darlington, SC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11410429-jessica]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1429645308p3/11410429.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1429645308p2/11410429.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Mar 14 13:31:16 -0700 2013</created_at>
+  <updated_at>Thu Mar 14 13:31:16 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69933573</id>
+  <body><![CDATA[Nice!!:)) Very lovely review, Richa!:))]]></body>
+  
+  <user>
+    <id>12508358</id>
+    <name>Airah ♔</name>
+    <display_name>Airah ♔</display_name>
+
+    <location>Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12508358-airah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1383964726p3/12508358.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1383964726p2/12508358.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Mar 16 03:25:31 -0700 2013</created_at>
+  <updated_at>Sat Mar 16 03:25:31 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>69936458</id>
+  <body><![CDATA[Wonderful, absolutely wonderful review!<br><br><img src="https://images.gr-assets.com/hostedimages/1380222758ra/501046.gif" alt="Image Hosted by ImageShack.us" class="gr-hostedUserImg"><br>]]></body>
+  
+  <user>
+    <id>9788746</id>
+    <name>Karolina</name>
+    <display_name>Karolina</display_name>
+
+    <location><![CDATA[London/Crawley, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9788746-karolina]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1354120469p3/9788746.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1354120469p2/9788746.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Mar 16 05:25:14 -0700 2013</created_at>
+  <updated_at>Sat Mar 16 05:25:14 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>70194333</id>
+  <body><![CDATA[Amazingly beautiful love/hate review!!<br /><br />Bravo, Richa! :D]]></body>
+  
+  <user>
+    <id>9138738</id>
+    <name>Georgia ♥ Team Dex ♥</name>
+    <display_name>Georgia ♥ Team Dex ♥</display_name>
+
+    <location>Greece</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9138738-georgia-team-dex]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1377186210p3/9138738.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1377186210p2/9138738.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 19 17:07:01 -0700 2013</created_at>
+  <updated_at>Tue Mar 19 17:07:01 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>70394154</id>
+  <body><![CDATA[perfect]]></body>
+  
+  <user>
+    <id>8511657</id>
+    <name>Danielle</name>
+    <display_name>Danielle</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8511657-danielle]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 22 13:51:41 -0700 2013</created_at>
+  <updated_at>Fri Mar 22 13:51:41 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>70564972</id>
+  <body><![CDATA[AWESOME REVIEW. LOVE IT! :D]]></body>
+  
+  <user>
+    <id>6884824</id>
+    <name>Pimmy♥S.</name>
+    <display_name>Pimmy♥S.</display_name>
+
+    <location>Thailand</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6884824-pimmy-s]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1459875001p3/6884824.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1459875001p2/6884824.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Mar 25 01:14:25 -0700 2013</created_at>
+  <updated_at>Mon Mar 25 01:14:25 -0700 2013</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/468815437]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/468815437]]></link>
+    <owned>1</owned>
+</review>
+
+
+</GoodreadsResponse>

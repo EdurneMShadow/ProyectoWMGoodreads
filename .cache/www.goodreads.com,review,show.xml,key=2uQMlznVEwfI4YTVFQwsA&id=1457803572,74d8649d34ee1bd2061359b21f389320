@@ -1,0 +1,190 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:51:10 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: GH0F5XN1A5F9QF98E1S8
+etag: W/"b31640db4dd367a001d2c9327618805e"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.252892
+set-cookie: csid=BAhJIhgzODgtMTc3MTg1NS02NzkzMTYwBjoGRVQ%3D--50788e44277b267ba151b4d5a063b32a88c9bafe; path=/; expires=Tue, 12 May 2037 13:51:10 -0000, locale=es; path=/, _session_id2=7c63e79e6f74ac28e9ea726d6e113e7d; path=/; expires=Fri, 12 May 2017 19:51:10 -0000; HttpOnly
+content-length: 7322
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=1457803572
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1457803572</id>
+    
+  <user>
+    <id>614778</id>
+    <name>Ahmad</name>
+    <display_name>Ahmad Sharabiani</display_name>
+
+    <location>Tehran, 28, Iran</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/614778-ahmad-sharabiani]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1194930432p3/614778.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1194930432p2/614778.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">25386182</id>
+  <isbn nil="true"/>
+  <isbn13>9789644083587</isbn13>
+  <text_reviews_count type="integer">7</text_reviews_count>
+  <title>اگر بمانم</title>
+  <title_without_series>اگر بمانم</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1429428175m/25386182.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1429428175s/25386182.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25386182</link>
+  <num_pages>204</num_pages>
+  <format>Paperback</format>
+  <edition_information>اول</edition_information>
+  <publisher>هیرمند</publisher>
+  <publication_day/>
+  <publication_year>2014</publication_year>
+  <publication_month/>
+  <average_rating>3.96</average_rating>
+  <ratings_count>549628</ratings_count>
+  <description>The critically acclaimed, bestselling novel from Gayle Forman, author of Where She Went, Just One Day, and Just One Year. &lt;br /&gt;Soon to be a major motion picture, starring Chloe Moretz!&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;In the blink of an eye everything changes. Seventeen year-old Mia has no memory of the accident; she can only recall what happened afterwards, watching her own damaged body being taken from the wreck. Little by little she struggles to put together the pieces- to figure out what she has lost, what she has left, and the very difficult choice she must make. Heartwrenchingly beautiful, this will change the way you look at life, love, and family. Now a major motion picture starring Chloe Grace Moretz, Mia's story will stay with you for a long, long time. &lt;br /&gt;" &lt;br /&gt;</description>
+<authors>
+<author>
+<id>295178</id>
+<name>Gayle Forman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1472502468p5/295178.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1472502468p2/295178.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/295178.Gayle_Forman]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>966486</ratings_count>
+<text_reviews_count>78890</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1102159195</id>
+          <old_status>to-read</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Thu Dec 10 02:16:55 -0800 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1092655126</id>
+          <old_status></old_status>
+          <status>to-read</status>
+          <updated_at type="datetime">Wed Dec 02 01:45:21 -0800 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>4</rating>
+  <votes>67</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="paranormal" exclusive="false" review_shelf_id="1145182656" sortable="false" />
+    <shelf name="romance" exclusive="false" review_shelf_id="1145182227" sortable="false" />
+    <shelf name="21th-century" exclusive="false" review_shelf_id="1145182294" sortable="false" />
+    <shelf name="fiction" exclusive="false" review_shelf_id="1145182349" sortable="false" />
+    <shelf name="yong-adult" exclusive="false" review_shelf_id="1145182188" sortable="false" />
+    <shelf name="music" exclusive="false" review_shelf_id="1145182530" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sun Nov 30 00:00:00 -0800 2014</read_at>
+  <date_added>Wed Dec 02 01:45:20 -0800 2015</date_added>
+  <date_updated>Fri Mar 10 02:05:59 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[If I Stay (If I Stay #1), Gayle Forman<br />عنوان: اگر بمانم - کتاب اول؛ نویسنده: جیل (گیل) فورمن؛ مترجم: فرزام حبیبی اصفهان؛ تهران، بهنام؛ 1391؛ در 206 ص؛ شابک: 9789645668899؛ <br />عنوان: اگر بمانم - کتاب اول؛ نویسنده: جیل (گیل) فورمن؛ مترجم: مهرآیین اخوت؛ تهران، هیرمند؛ 1393؛ در 204 ص؛ شابک: 9789644083587...]]>
+  </body>
+
+  
+
+  <comments_count>2</comments_count>
+    <comments start="1" end="2" total="2">
+        <comment>
+  <id>144157930</id>
+  <body><![CDATA[فیلمش رو دیشب دیدم. خیلی جذاب نبود. حالا شاید کتابش جالبتر باشد]]></body>
+  
+  <user>
+    <id>5071665</id>
+    <name>Mercedé Khodadadi</name>
+    <display_name><![CDATA[Mercedé Khodadadi مرسده خدادادی]]></display_name>
+
+    <location>Tehran, Iran</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5071665-merced-khodadadi]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1449773676p3/5071665.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1449773676p2/5071665.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Dec 10 09:42:15 -0800 2015</created_at>
+  <updated_at>Thu Dec 10 09:42:15 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>144228624</id>
+  <body><![CDATA[<i>Mercedé Khodadadi wrote: "فیلمش رو دیشب دیدم. خیلی جذاب نبود. حالا شاید کتابش جالبتر باشد"</i><br /><br />فیلمش را ندیده ام]]></body>
+  
+  <user>
+    <id>614778</id>
+    <name>Ahmad</name>
+    <display_name>Ahmad Sharabiani</display_name>
+
+    <location>Tehran, 28, Iran</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/614778-ahmad-sharabiani]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1194930432p3/614778.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1194930432p2/614778.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Dec 11 22:56:31 -0800 2015</created_at>
+  <updated_at>Fri Dec 11 22:56:31 -0800 2015</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1457803572]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1457803572]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

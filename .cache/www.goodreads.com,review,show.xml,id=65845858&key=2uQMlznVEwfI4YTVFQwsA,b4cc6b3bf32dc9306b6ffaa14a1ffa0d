@@ -1,20 +1,20 @@
 status: 200
-x-request-id: 3A89CZ5G6YCS1YTNMM8S
+x-request-id: 0EPES9NENA7MB18WCTH5
 x-xss-protection: 1; mode=block
 content-location: https://www.goodreads.com/review/show.xml?id=65845858&key=2uQMlznVEwfI4YTVFQwsA
 x-content-type-options: nosniff, nosniff
-set-cookie: csid=BAhJIhg4OTktNjY4MjA0NC0xNDcwMDg5BjoGRVQ%3D--49fec1bfe72fd31f85828d09d817fdffc8f6e9a5;
- path=/; expires=Fri, 08 May 2037 10:05:00 -0000, locale=es;
- path=/, _session_id2=e7debec337bcae4946d3fe5ce2412af0; path=/;
- expires=Mon, 08 May 2017 16:05:00 -0000; HttpOnly
+set-cookie: csid=BAhJIhgyNTEtNTEyNjg5OS00NTg3MzUxBjoGRVQ%3D--6939784ea2e8f62f2090ab6543905bc162ecba21;
+ path=/; expires=Mon, 11 May 2037 07:51:59 -0000, locale=es;
+ path=/, _session_id2=48f118fd199b3e94b14ec69ef9ad4319; path=/;
+ expires=Thu, 11 May 2017 13:51:59 -0000; HttpOnly
 vary: User-Agent,Accept-Encoding
 connection: keep-alive
 content-length: 26133
 server: Server
-x-runtime: 0.285179
-etag: W/"f140b54762063874033414f3ef239976"
+x-runtime: 0.398564
+etag: W/"e2f718799e653f62664d1d527c68d11b"
 cache-control: max-age=0, private, must-revalidate
-date: Mon, 08 May 2017 10:05:00 GMT
+date: Thu, 11 May 2017 07:51:59 GMT
 x-frame-options: ALLOWALL
 content-type: application/xml; charset=utf-8
 -content-encoding: gzip
@@ -50,7 +50,7 @@ content-type: application/xml; charset=utf-8
   <id type="integer">231614</id>
   <isbn>0553272535</isbn>
   <isbn13>9780553272536</isbn13>
-  <text_reviews_count type="integer">626</text_reviews_count>
+  <text_reviews_count type="integer">627</text_reviews_count>
   <title>Night (The Night Trilogy, #1)</title>
   <title_without_series>Night</title_without_series>
   <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
@@ -65,7 +65,7 @@ content-type: application/xml; charset=utf-8
   <publication_year>1982</publication_year>
   <publication_month>4</publication_month>
   <average_rating>4.29</average_rating>
-  <ratings_count>685674</ratings_count>
+  <ratings_count>686362</ratings_count>
   <description>In Nobel laureate Elie Wiesel's memoir &lt;i&gt;Night&lt;/i&gt;, a scholarly, Orthodox teenager is wracked with guilt at having survived the horror of the Holocaust &amp;amp; the genocidal campaign that consumed his family. His memories of the nightmare worlds of Auschwitz-Birkenau &amp;amp; Buchenwald present him with an intolerable question: how can the god he once so fervently believed in have allowed these monstrous events to occur? There are no easy answers in this harrowing book, which probes life's essential riddles with the lucid anguish only great literature achieves. It marks the crucial first step in Wiesel's lifelong project to bear witness for those who died.&lt;br /&gt;&lt;br /&gt;Original Yiddish title: Un di Velt Hot Geshvign/And the World Remained Silent&lt;br /&gt;(Buenos Aires, 1955). Revised as La Nuit (1958) &amp;amp; translated as Night (1960).</description>
 <authors>
 <author>
@@ -80,8 +80,8 @@ content-type: application/xml; charset=utf-8
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1049.Elie_Wiesel]]></link>
 <average_rating>4.27</average_rating>
-<ratings_count>721909</ratings_count>
-<text_reviews_count>24623</text_reviews_count>
+<ratings_count>722628</ratings_count>
+<text_reviews_count>24657</text_reviews_count>
 </author>
 </authors>
   <published>1982</published>
@@ -124,9 +124,9 @@ content-type: application/xml; charset=utf-8
 <shelves>
   <shelf name="read" exclusive="true" />
 
-    <shelf name="memoirs" exclusive="false" review_shelf_id="117893509" sortable="false" />
-    <shelf name="saddest" exclusive="false" review_shelf_id="117898620" sortable="false" />
     <shelf name="holocaust" exclusive="false" review_shelf_id="117893543" sortable="false" />
+    <shelf name="saddest" exclusive="false" review_shelf_id="117898620" sortable="false" />
+    <shelf name="memoirs" exclusive="false" review_shelf_id="117893509" sortable="false" />
 </shelves>
   <recommended_for></recommended_for>
   <recommended_by>Oprah Book of the Month</recommended_by>

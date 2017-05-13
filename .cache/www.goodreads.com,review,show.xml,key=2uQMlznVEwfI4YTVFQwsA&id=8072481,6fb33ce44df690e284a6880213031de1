@@ -1,0 +1,636 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:55:33 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: 8587XPWQ341NBGQ9RQ7A
+etag: W/"3c35fc503cea209f37d198f85a6e5622"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.324943
+set-cookie: csid=BAhJIhg0MTYtNDY1MTc3OC0xMDE3MTczBjoGRVQ%3D--805f6452be02d9c71296f9209b3b59d5ae728b1d; path=/; expires=Tue, 12 May 2037 13:55:33 -0000, locale=es; path=/, _session_id2=efefe6fa323851e2790e43c4b4738c57; path=/; expires=Fri, 12 May 2017 19:55:33 -0000; HttpOnly
+content-length: 32166
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=8072481
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>8072481</id>
+    
+  <user>
+    <id>544124</id>
+    <name>Russell</name>
+    <display_name>Russell</display_name>
+
+    <location>Draper, UT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/544124-russell]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1280631114p3/544124.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1280631114p2/544124.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">960</id>
+  <isbn>1416524797</isbn>
+  <isbn13>9781416524793</isbn13>
+  <text_reviews_count type="integer">19261</text_reviews_count>
+  <title>Angels &amp; Demons  (Robert Langdon, #1)</title>
+  <title_without_series>Angels &amp; Demons</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1303390735m/960.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1303390735s/960.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/960.Angels_Demons</link>
+  <num_pages>713</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information>Pocket Books Premium Edition</edition_information>
+  <publisher>Pocket Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.85</average_rating>
+  <ratings_count>2025141</ratings_count>
+  <description>When world-renowned Harvard symbologist Robert Langdon is summoned to a Swiss research facility to analyze a mysterious symbol—seared into the chest of a murdered physicist—he discovers evidence of the unimaginable: the resurgence of an ancient secret brotherhood known as the Illuminati ... the most powerful underground organization ever to walk the earth. The Illuminati has now surfaced to carry out the final phase of its legendary vendetta against its most hated enemy—the Catholic Church. &lt;br /&gt;&lt;br /&gt;Langdon’s worst fears are confirmed on the eve of the holy conclave, when a messenger of the Illuminati announces they have hidden an unstoppable time bomb at the very heart of Vatican City. With the countdown under way, Langdon jets to Rome to join forces with Vittoria Vetra, a beautiful and mysterious Italian scientist, to assist the Vatican in a desperate bid for survival. &lt;br /&gt;&lt;br /&gt;Embarking on a frantic hunt through sealed crypts, dangerous catacombs, deserted cathedrals, and even the most secretive vault on earth, Langdon and Vetra follow a 400-year-old trail of ancient symbols that snakes across Rome toward the long-forgotten Illuminati lair ... a clandestine location that contains the only hope for Vatican salvation.</description>
+<authors>
+<author>
+<id>630</id>
+<name>Dan Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p5/630.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p2/630.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/630.Dan_Brown]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>5211301</ratings_count>
+<text_reviews_count>138647</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1259232094</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Tue Mar 01 05:02:48 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>2</rating>
+  <votes>86</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue May 01 00:00:00 -0700 2007</read_at>
+  <date_added>Mon Oct 22 09:42:36 -0700 2007</date_added>
+  <date_updated>Tue Jun 09 16:08:51 -0700 2009</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This was Brown's book before the infamous "The Da Vinci Code." In many ways, this book was like a rough draft for "The Da Vinci Code", same character Langdon, same other characters, same basic start, same concepts, same bad research passed off as fact, same trick of having nearly every chapter en...]]>
+  </body>
+
+  
+
+  <comments_count>22</comments_count>
+    <comments start="1" end="22" total="22">
+        <comment>
+  <id>900106</id>
+  <body><![CDATA[Addendum:<br /><br />I have deleted 2 comments so far that have insulted myself and my intelligence for my review.<br /><br />I'm going to have to add that this book must appeal to the easily excitable.]]></body>
+  
+  <user>
+    <id>544124</id>
+    <name>Russell</name>
+    <display_name>Russell</display_name>
+
+    <location>Draper, UT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/544124-russell]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1280631114p3/544124.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1280631114p2/544124.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jun 04 14:17:59 -0700 2008</created_at>
+  <updated_at>Wed Jun 04 14:17:59 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3757655</id>
+  <body><![CDATA[You might want to try reading it again, as the ONLY character that is the same is Robert Langdon. Female lead is different, as are all other characters. While the story does relate to religion, The DaVinci Code and Angels &amp; Demons are two VERY different stories. Keep in mind that our character, Robert Langon IS an expert Religious Symbologist, so it only makes sense that both books would be about religious history. Maybe the comments you deleted that insulted your intelligence were there because you so obviously either haven't read this book, or because you read it and just couldn't understand it because it was too deep for you. This story is very deep, very detail oriented. Maybe you should just try to stick to more simple reading........or you could just see the movie that comes out in May, maybe that would make it easier for you.....IT'S FICTION! Get over it! If you really feel like you need more "reality" to your fiction, maybe just stick with biographies. Fiction is meant to entertain, I was highly entertained by this book. Just because you weren't doesn't mean that it's a terrible book. There's something for everyone, sounds to me like you need to find your "something", cuz fiction isn't it!]]></body>
+  
+  <user>
+    <id>224083</id>
+    <name>Jacqui</name>
+    <display_name>Jacqui</display_name>
+
+    <location>Tacoma, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/224083-jacqui]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1185468465p3/224083.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1185468465p2/224083.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 01 11:49:05 -0800 2009</created_at>
+  <updated_at>Sun Feb 01 11:49:05 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3775027</id>
+  <body><![CDATA[Jacqui,<br /><br />Thank you for proving my point. Since your comment was less offensive than the two I deleted I shall leave it in place as an example of what sort of response my simple review has engendered. And, aside from this statement, I'm not going to respond to your ad hominems.<br /><br />I don't want to get into some sort of 'debate' concerning the book, but I would like defend my previous statement and mention that both "Angels and Demons" and "The Da Vinci Code" share far more than one character in common. Both villains were working behind the scenes, well entrenched to do the most harm, seemingly all powerful and all knowing, with strange assassins as henchmen. The men murdered by the assassins had the same relationship to the two love interests, the father figure. Speaking of the love interests, they played out exactly the same with Langdon, and both plots had them in a race to protect a secret that would destroy the Church, etc, etc. This in itself doesn't make a bad book, it's the poor research, hamfisted plot exposition and all round silliness that made it a bad book. Or, rather, a book that is good for a quick read romping through Rome whilst on a vacation, but a very bad book compared to actual literature or books that take on the issues of science and religion in a serious manner. And yes, I'm fully cognizant that the book is fiction. Brown attempts to blur the lines, which can be thrilling, but he does it so poorly it grated on me.<br /><br />I did like the ambigrams in the book and for more fun with ambigrams, I suggest reading "Godel, Escher and Bach" by Douglas Hofstadter.]]></body>
+  
+  <user>
+    <id>544124</id>
+    <name>Russell</name>
+    <display_name>Russell</display_name>
+
+    <location>Draper, UT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/544124-russell]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1280631114p3/544124.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1280631114p2/544124.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 02 10:46:41 -0800 2009</created_at>
+  <updated_at>Mon Feb 02 10:46:41 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>4622305</id>
+  <body><![CDATA[My only complaint about your review is that the book is intended to be fiction -- "bad research passed off as fact" is only a problem if you read it expecting fact. I felt Brown did a very good job with the story. Anne Rice takes a great deal of liberty with mythology, twisting it to her own ends, and doing it well -- no complaints here. Crichton takes real events, real organizations, and sometimes real people, and develops complicated conspiracies around them that are almost certainly entirely contrived. But again, it's done well, and the story benefits from the few grains of truth that are interwoven. For people ignorant of the details, or who just want to see how Brown's mind pieces together these conspiracies he develops, it's an enjoyable read. By encouraging other readers to read it with a computer open to look up the truth, you're entirely missing the point of the book, and encouraging them to ruin for themselves what many thousands of readers have otherwise found to be a very enjoyable story.]]></body>
+  
+  <user>
+    <id>2041735</id>
+    <name>Dathan</name>
+    <display_name>Dathan</display_name>
+
+    <location>Huntsville, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2041735-dathan]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 18 13:11:54 -0700 2009</created_at>
+  <updated_at>Wed Mar 18 13:11:54 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>5002347</id>
+  <body><![CDATA[Dathan,<br /><br />Thank you for your polite comment. I'm afraid we'll disagree on this point. Anyone who starts their book with an Author's Note stating "References to all works of art, tombs, tunnels, and architecture in Rome are entirely factual (as are their exact locations)." but then on a number of occasions fails to provide factual information but rather changes things to fit the plot, well, that irritates me. Ergo, my review!<br /><br />I'm sure the other authors you mentioned have been able to write books that entertain while mixing fact with fiction, but my complaint is with Mr. Brown's book, not theirs. <br /><br />But be cheered, knowing all those readers will gladly accept that Doric columns are Greek counterparts to Greek Iconic columns and there isn't a thing my little review can do to persuade them otherwise :)]]></body>
+  
+  <user>
+    <id>544124</id>
+    <name>Russell</name>
+    <display_name>Russell</display_name>
+
+    <location>Draper, UT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/544124-russell]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1280631114p3/544124.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1280631114p2/544124.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Apr 06 18:33:52 -0700 2009</created_at>
+  <updated_at>Mon Apr 06 18:33:52 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>5874342</id>
+  <body><![CDATA[my only comment to you is that people believe different things about the Holy Communion....i believe i am right in saying that the Catholics believe that when you eat the bread and drink the wine you are ACTUALLY partaking of Jesus body and blood. I was raised Mennonite and to them it is a SYMBOL of Jesus's body and blood....when Jesus introduced the practice to the disciples it had always been my belief that he introduced it as a symbol as well....there in may lie the difference of what you were pointing out....a mere difference of opinion....as for the rest of your review...you are entitled to your opinion]]></body>
+  
+  <user>
+    <id>1944416</id>
+    <name>Natalie</name>
+    <display_name>Natalie</display_name>
+
+    <location>Ronks, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1944416-natalie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1452432492p3/1944416.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1452432492p2/1944416.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 16 19:37:01 -0700 2009</created_at>
+  <updated_at>Sat May 16 19:37:01 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>5982431</id>
+  <body><![CDATA[Natalie,<br /><br />I believe you are correct in the Catholic beliefs of the Holy Communion, I'm not Catholic so I cannot confirm if that is Church doctrine or not. However, that doesn't address Brown's bizarre notion that, from the book, "The practice of 'god-eating' - that is, Holy Communion - was borrowed from the Aztecs." <br /><br />It's a chronological and physical impossibility. That was my complaint, not the idea of the Holy Communion as consumption of the body and blood of Christ. <br /><br />"you are entitled to your opinion" Thank you, very gracious of you for that.]]></body>
+  
+  <user>
+    <id>544124</id>
+    <name>Russell</name>
+    <display_name>Russell</display_name>
+
+    <location>Draper, UT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/544124-russell]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1280631114p3/544124.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1280631114p2/544124.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 21 15:46:35 -0700 2009</created_at>
+  <updated_at>Thu May 21 15:46:35 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>6420304</id>
+  <body><![CDATA[I didn't enjoy this book incredibly, I gave it two stars, but I would like to point out that it is fiction. He is exaggerating on things that may or may not have happened in history. If nothing else, it's somewhat creative.]]></body>
+  
+  <user>
+    <id>1743035</id>
+    <name>Chelsea</name>
+    <display_name>Chelsea Heath</display_name>
+
+    <location>Tualatin, OR</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1743035-chelsea-heath]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1319172480p3/1743035.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1319172480p2/1743035.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jun 09 16:05:00 -0700 2009</created_at>
+  <updated_at>Tue Jun 09 16:05:00 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>11047947</id>
+  <body><![CDATA["The practice of 'god-eating' - that is, Holy Communion - was borrowed from the Aztecs."<br /><br />I had to "Lol" at this<br /><br />This book sounds so ridiculous I may want to give it a go (or a very short skim. That is... maybe- or probably not) great review by the way!]]></body>
+  
+  <user>
+    <id>2896845</id>
+    <name> Paul</name>
+    <display_name> Paul</display_name>
+
+    <location>Mission, KS</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2896845-paul]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1273048378p3/2896845.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1273048378p2/2896845.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Nov 20 07:02:39 -0800 2009</created_at>
+  <updated_at>Fri Nov 20 07:02:39 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>34473790</id>
+  <body><![CDATA[Thanks for the heads up, you've spared me a shitty week.]]></body>
+  
+  <user>
+    <id>1796712</id>
+    <name>Simone</name>
+    <display_name>Simone Ramone</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1796712-simone-ramone]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1379413150p3/1796712.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1379413150p2/1796712.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Aug 01 05:12:49 -0700 2011</created_at>
+  <updated_at>Mon Aug 01 05:12:49 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>46300852</id>
+  <body><![CDATA[Dear Russel, you have nailed it. I'm fortunate enough to be a fast reader and to have borrowed, not bought, Dan Brown's books every single time:)]]></body>
+  
+  <user>
+    <id>5928646</id>
+    <name>Ivan</name>
+    <display_name>Ivan</display_name>
+
+    <location><![CDATA[Apatity, 51, Russian Federation]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5928646-ivan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1314694644p3/5928646.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1314694644p2/5928646.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Mar 03 13:26:32 -0800 2012</created_at>
+  <updated_at>Sat Mar 03 13:26:32 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47025543</id>
+  <body><![CDATA[Thanks for the comment, Ivan. Borrowing does seem to be the best option here :)]]></body>
+  
+  <user>
+    <id>544124</id>
+    <name>Russell</name>
+    <display_name>Russell</display_name>
+
+    <location>Draper, UT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/544124-russell]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1280631114p3/544124.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1280631114p2/544124.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Mar 15 13:28:14 -0700 2012</created_at>
+  <updated_at>Thu Mar 15 13:28:14 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>52645536</id>
+  <body><![CDATA[He does give a reason for his hero being there because that's the point! It leaves the reader with debatable questions: Was it God's will or coincidence? A miracle or a insane plot by a mad man (the camerlengo) that fell apart?<br /><br />I'm not at all religious but even I got that. As for the mistakes I can't say because I haven't researched into it. But some of the meanings might be debatable. Take for example, The Ecstasy of St. Thersea. You only gave us a Wikipedia source. It's a piece of artwork and many people have different interpretations of it. Plus, Langdon was a Illuminati symbologist. I'm sure he had read his fare share of conspiracy theories and maybe that is one of his flaws. How he interpreted the history of the Vatician was a little different.<br />Despite mistakes, it's a great story.]]></body>
+  
+  <user>
+    <id>9176630</id>
+    <name>Jada</name>
+    <display_name>Jada Stuart</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9176630-jada-stuart]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1336224803p3/9176630.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1336224803p2/9176630.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jun 20 23:18:15 -0700 2012</created_at>
+  <updated_at>Wed Jun 20 23:18:15 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>52660738</id>
+  <body><![CDATA[Thanks for the comment Jada, glad you enjoyed the book. I, clearly, did not.]]></body>
+  
+  <user>
+    <id>544124</id>
+    <name>Russell</name>
+    <display_name>Russell</display_name>
+
+    <location>Draper, UT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/544124-russell]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1280631114p3/544124.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1280631114p2/544124.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 21 08:12:45 -0700 2012</created_at>
+  <updated_at>Thu Jun 21 08:12:45 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>64425587</id>
+  <body><![CDATA[Good fiction is always based on fact. Writers take great pains with facts. But this is not great fiction: it is tripe. It is as badly written as a book can be. It is to fiction what pop is to music.]]></body>
+  
+  <user>
+    <id>15159046</id>
+    <name>William</name>
+    <display_name>William Ainsworth</display_name>
+
+    <location><![CDATA[Manchester, I2, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15159046-william-ainsworth]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat Dec 29 16:56:32 -0800 2012</created_at>
+  <updated_at>Sat Dec 29 16:56:32 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>64461727</id>
+  <body><![CDATA[Thank you for your comment, William. I agree, it's pop tripe :)]]></body>
+  
+  <user>
+    <id>544124</id>
+    <name>Russell</name>
+    <display_name>Russell</display_name>
+
+    <location>Draper, UT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/544124-russell]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1280631114p3/544124.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1280631114p2/544124.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Dec 30 07:17:32 -0800 2012</created_at>
+  <updated_at>Sun Dec 30 07:17:32 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>73567493</id>
+  <body><![CDATA[This is one of my favorite books even though I must admit I read it when I was probably around 14yo. I personally really enjoy all the cliffhangers and symbols etc... And since I was quite young when I read it I didn't care to look up the facts but as many said before it is fiction so it obviously doesn't matter to me :) <br /><br />Of course you are completely entitled to your opinion (imagine how boring the world would be if everyone had the same tastes?!) but I can not seem to understand why the non exactitude of the facts bothered you so much (this is not sarcasm or an attack against your opinion, I am honestly just wondering)... If people aren't smart enough to check facts before believing them, it's their loss. Plus, I think Brown only said that the places and art pieces were real, not all the facts (please correct me if I'm wrong).]]></body>
+  
+  <user>
+    <id>19740823</id>
+    <name>Alice</name>
+    <display_name>Alice</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/19740823-alice]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1395333778p3/19740823.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1395333778p2/19740823.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon May 06 14:04:15 -0700 2013</created_at>
+  <updated_at>Mon May 06 14:04:15 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73571470</id>
+  <body><![CDATA[Alice, I'm glad you enjoyed the book, as I said in my review, it's entertaining and zippy.<br /><br />You might have missed this in the comments, but Brown, in his Author's Note, stated "References to all works of art, tombs, tunnels, and architecture in Rome are entirely factual (as are their exact locations)."<br /><br />Which, with some research and a map, an alert reader can figure out that is a fabrication.<br /><br />I was bothered not so much about the "non exactitude of the facts" (pray tell, how can something be a fact and not exact?) but that it was a bait and switch. Since it's been about 6 years, my memory is more than a little hazy, however my overall impression was Brown set up the reader by saying this was factually sound, then merrily pulled the rug out whenever the facts got in the way of his contrived plot.<br /><br />I really could care less how many times people mention to me that this is fiction. Of course it is; where the problem lies is in the gap between Brown's assertion in his Author's Note and the actual facts in the text. Had he merely said this was loosely based in reality, my review would have been considerably shorter. But he didn't, and so my review isn't. And I cannot help it if people are fundamentally confused between the different types of fiction, then try to make it my problem. I do find it humorous, though.]]></body>
+  
+  <user>
+    <id>544124</id>
+    <name>Russell</name>
+    <display_name>Russell</display_name>
+
+    <location>Draper, UT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/544124-russell]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1280631114p3/544124.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1280631114p2/544124.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon May 06 14:59:06 -0700 2013</created_at>
+  <updated_at>Mon May 06 14:59:06 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>91892847</id>
+  <body><![CDATA[Wait, the author's not was only that the works of art, tombs and tunnels that are entirely factual. The rest of them are debatable whether it is factual or not. And yes, you keep saying all the things he wrote on the book contradict the fact, while what he means is based on facts is only the work of art, tombs and tunnels such as the Michelangelo's something? I don't really remember what's the name of it since I'm not a big fan of art, but Brown never stated that other than the work of art, tombs and tunnels are real or not. He is basically not wrong at all.]]></body>
+  
+  <user>
+    <id>28033737</id>
+    <name>Fifi</name>
+    <display_name>Fifi Sutanto</display_name>
+
+    <location>Jakarta, 04, Indonesia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/28033737-fifi-sutanto]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1418323938p3/28033737.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1418323938p2/28033737.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 01 05:49:51 -0800 2014</created_at>
+  <updated_at>Sat Feb 01 05:49:51 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>91898171</id>
+  <body><![CDATA[Let me repeat myself from an earlier comment: "Anyone who starts their book with an Author's Note stating "References to all works of art, tombs, tunnels, and architecture in Rome are entirely factual (as are their exact locations)." but then on a number of occasions fails to provide factual information but rather changes things to fit the plot, well, that irritates me."<br /><br />Basically, he's wrong and provably so, since he more than once changed the facts about a particular piece of art or the location of architectural element, which is in contrast to your assertion you made out of self admitted ignorance to the art in question and the story elements in the book.<br /><br />But these sort of responses provide a delightful source of entertainment. It's been almost seven years since I posted this review, and yet it still draws comments of this caliber. Truly, a gift that keeps on giving!]]></body>
+  
+  <user>
+    <id>544124</id>
+    <name>Russell</name>
+    <display_name>Russell</display_name>
+
+    <location>Draper, UT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/544124-russell]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1280631114p3/544124.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1280631114p2/544124.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 01 07:49:05 -0800 2014</created_at>
+  <updated_at>Sat Feb 01 07:49:05 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>106649388</id>
+  <body><![CDATA[Russell, I completely agree with your review on this book. I don't understand how this book, or any other of Brown's books, can get all this attention.]]></body>
+  
+  <user>
+    <id>30603371</id>
+    <name>Johanna</name>
+    <display_name>Johanna</display_name>
+
+    <location>Gothenburg, Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/30603371-johanna]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1421336848p3/30603371.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1421336848p2/30603371.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Sep 24 09:10:14 -0700 2014</created_at>
+  <updated_at>Wed Sep 24 09:10:14 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>106660756</id>
+  <body><![CDATA[Thanks Johanna. I think part of the reason he's popular is because he does write entertainingly and readers can come away with the sense of learning something about art and history. Of course, what they just learned is hogwash, but it takes a little more research to determine that.<br /><br />In other words, Brown is the literary equivalent of McDonald's. Cheap, popular, filling but not really food.]]></body>
+  
+  <user>
+    <id>544124</id>
+    <name>Russell</name>
+    <display_name>Russell</display_name>
+
+    <location>Draper, UT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/544124-russell]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1280631114p3/544124.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1280631114p2/544124.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Sep 24 12:57:59 -0700 2014</created_at>
+  <updated_at>Wed Sep 24 12:57:59 -0700 2014</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/8072481]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/8072481]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

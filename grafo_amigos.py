@@ -14,6 +14,7 @@ class grafo_amigos:
     #Atributos de clase
     lista_ids = []
     printable = set(string.printable)
+    printable.remove('"')
     
     def get_lista_ids(self):
         return self.lista_ids
@@ -56,11 +57,11 @@ class grafo_amigos:
         amigos_lista = []
         for user in lista_usuarios:        
             try:
-                amigos = client.get_friends(user['id_user'], 60)
+                amigos = client.get_friends(user['id_user'], num=60)
             except Exception:
                 amigos = []
             for amigo in amigos:
-                if self.binary_search(self.lista_ids, str(amigo[0])) is -1:
+                if self.binary_search(self.lista_ids, str(amigo[0])) == -1:
                     bisect.insort(self.lista_ids,str(amigo[0]))
                     amigo_data = {}
                     amigo_data['id_user'] = str(amigo[0])
@@ -77,13 +78,19 @@ class grafo_amigos:
         if vacio:
             fichero.write('graph [ \n')
             fichero.write('directed 1 \n')
-        for user in self.lista_usuarios:
+        for user in lista_usuarios:
             fichero.write('node [ \n')
             fichero.write('id '+user['id_user']+' \n')
             if user['nombre'] == None:
                 user['nombre'] = 'J. Doe'
+            usuario=''   
+            for i in range (len (user['nombre'])):
+                if user['nombre'][i] in self.printable:
+                    usuario+=user['nombre'][i]
+            if usuario.isspace() or len(usuario) == 0:
+                usuario = 'J.Doe'            
                 
-            fichero.write('nombre_usuario '+'"'+filter(lambda x: x in self.printable, user['nombre'])+'"' +' \n')
+            fichero.write('nombre_usuario '+'"'+usuario+'"' +' \n')
             fichero.write('] \n')
         fichero.close()
         

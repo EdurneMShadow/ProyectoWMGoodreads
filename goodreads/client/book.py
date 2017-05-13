@@ -1,5 +1,5 @@
-import author
-import similar_book
+#from .author import Author
+from .similar_book import SimilarBook
 
 class Book:
     def __init__(self, book_dict):

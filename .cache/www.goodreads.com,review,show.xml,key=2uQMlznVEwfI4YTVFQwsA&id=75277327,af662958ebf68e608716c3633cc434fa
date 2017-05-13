@@ -1,0 +1,601 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:51:19 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: D6VR92K11YSQVN3XQB41
+etag: W/"9c4b03ab34234b47d4b7365c25eae626"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.233989
+set-cookie: csid=BAhJIhgyMDYtNDYzODM1OS0zMzk3MDA3BjoGRVQ%3D--fe59bc2509f5a5cbfe8007e30d0f050343314b70; path=/; expires=Tue, 12 May 2037 13:51:18 -0000, locale=es; path=/, _session_id2=1b52319df938581620e44f809ba39ddb; path=/; expires=Fri, 12 May 2017 19:51:19 -0000; HttpOnly
+content-length: 21939
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=75277327
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>75277327</id>
+    
+  <user>
+    <id>2863914</id>
+    <name>j</name>
+    <display_name>j</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2863914-j]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1407175214p3/2863914.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1407175214p2/2863914.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">30119</id>
+  <isbn>0060513039</isbn>
+  <isbn13>9780060513030</isbn13>
+  <text_reviews_count type="integer">8698</text_reviews_count>
+  <title>Where the Sidewalk Ends</title>
+  <title_without_series>Where the Sidewalk Ends</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1168052448m/30119.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1168052448s/30119.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/30119.Where_the_Sidewalk_Ends</link>
+  <num_pages>176</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Harpercollins Childrens Books</publisher>
+  <publication_day/>
+  <publication_year>2002</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4.28</average_rating>
+  <ratings_count>1010776</ratings_count>
+  <description>Where the Sidewalk Ends turns forty! Celebrate with this anniversary edition that features an eye-catching commemorative red sticker. This classic poetry collection, which is both outrageously funny and profound, has been the most beloved of Shel Silverstein's poetry books for generations.&lt;br /&gt;&lt;br /&gt;Where the sidewalk ends, Shel Silverstein's world begins. There you'll meet a boy who turns into a TV set and a girl who eats a whale. The Unicorn and the Bloath live there, and so does Sarah Cynthia Sylvia Stout who will not take the garbage out. It is a place where you wash your shadow and plant diamond gardens, a place where shoes fly, sisters are auctioned off, and crocodiles go to the dentist.&lt;br /&gt;&lt;br /&gt;Shel Silverstein's masterful collection of poems and drawings is one of Parent &amp;amp; Child magazine's 100 Greatest Books for Kids. School Library Journal said, "Silverstein has an excellent sense of rhythm and rhyme and a good ear for alliteration and assonance that make these poems a pleasure to read aloud."&lt;br /&gt;&lt;br /&gt;Shel Silverstein's incomparable career as a children's book author and illustrator began with Lafcadio, the Lion Who Shot Back. In 1964, Shel's creativity continued to flourish as four more books were published in the same year—Don't Bump the Glump!, A Giraffe and a Half, Who Wants a Cheap Rhinoceros?, and the beloved classic The Giving Tree. Later he continued to build his remarkable body of work with Where the Sidewalk Ends, A Light in the Attic, Falling Up, Every Thing On It, The Missing Piece, The Missing Piece Meets the Big O, and Runny Babbit.</description>
+<authors>
+<author>
+<id>435477</id>
+<name>Shel Silverstein</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201029128p5/435477.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201029128p2/435477.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/435477.Shel_Silverstein]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>2185897</ratings_count>
+<text_reviews_count>30409</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1235465367</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sat Feb 13 07:40:07 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>45</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="grade-school-books" exclusive="false" review_shelf_id="48689709" sortable="false" />
+    <shelf name="30-day-book-challenge" exclusive="false" review_shelf_id="112761377" sortable="false" />
+    <shelf name="classics" exclusive="false" review_shelf_id="48689706" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Oct 21 13:05:09 -0700 2009</date_added>
+  <date_updated>Tue Jun 14 06:06:14 -0700 2011</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I am crap at reciting from books. Sure, I know your super-famous opening lines and popular misquotations, but I don't really, like, pause in my reading to note a particularly nice turn of phrase so I can commit it to memory.<br /><br />Which is odd, because I have always had a pretty good memory for the spok...]]>
+  </body>
+
+  
+
+  <comments_count>21</comments_count>
+    <comments start="1" end="21" total="21">
+        <comment>
+  <id>31908186</id>
+  <body><![CDATA[Haha! That's better than the miserable piano plunking my parents forced me to do for company. If only my parents had had me sing tv show theme songs, now that would've been less painful for all.]]></body>
+  
+  <user>
+    <id>137273</id>
+    <name>Eh?Eh!</name>
+    <display_name>Eh?Eh!</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/137273-eh-eh]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1370013095p3/137273.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1370013095p2/137273.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 13 22:04:40 -0700 2011</created_at>
+  <updated_at>Mon Jun 13 22:04:40 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31908287</id>
+  <body><![CDATA[it's funny, i would happily do it until i realized they wanted me to. then i would refuse. i clearly remember the incident recounted above.<br /><br />it went on a lot longer and there were actually tears and more shouting. i don't even think it was for guests, they just wanted to hear it.]]></body>
+  
+  <user>
+    <id>2863914</id>
+    <name>j</name>
+    <display_name>j</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2863914-j]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1407175214p3/2863914.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1407175214p2/2863914.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 13 22:08:43 -0700 2011</created_at>
+  <updated_at>Mon Jun 13 22:08:43 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31908327</id>
+  <body><![CDATA[Hmm, did they ever try stealth? Like, starting to sing the Keillor song themselves and wait for you to join in on your own?]]></body>
+  
+  <user>
+    <id>137273</id>
+    <name>Eh?Eh!</name>
+    <display_name>Eh?Eh!</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/137273-eh-eh]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1370013095p3/137273.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1370013095p2/137273.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 13 22:10:24 -0700 2011</created_at>
+  <updated_at>Mon Jun 13 22:10:24 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31908521</id>
+  <body><![CDATA[my dad might have tried. he was always singing some crap.<br /><br />i still have that song memorized too. i can't find a clip or lyric online, sadly.]]></body>
+  
+  <user>
+    <id>2863914</id>
+    <name>j</name>
+    <display_name>j</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2863914-j]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1407175214p3/2863914.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1407175214p2/2863914.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 13 22:17:45 -0700 2011</created_at>
+  <updated_at>Mon Jun 13 22:17:45 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31913749</id>
+  <body><![CDATA[OMIGOD, I HAD THIS TAPE TOO. <br /><br />Shouting, whoops. No, seriously, I can sing along with this too. My grandma had the tape and my sister and I would play it over and over on road trips, on one of those tinny tape players, the flat kind, not a boombox. Crazy. I always hated the pb sandwich one for some reason, and got really good at judging how long to fast forward for. <br /><br />Man, this is making me feel old.]]></body>
+  
+  <created_at>Tue Jun 14 03:37:25 -0700 2011</created_at>
+  <updated_at>Tue Jun 14 03:37:25 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31916884</id>
+  <body><![CDATA[i didn't like that one either. it was too long, kinda creepy, and i didn't like the way shel would pause and then say "blah blah blah peanut butter sandwich!" i also didn't like the one with all the ice cream flavors.<br /><br />someone tried to tell me a few weeks back that shel silverstein was accused of something untoward with a child. it turned out to be an urban legend, thank god -- though i don't think there is any way he'd be as revered as he is if it <i>were</i> true.<br /><br />as urban legends go, i prefer "mr. rogers killed like 100 dudes in the korean war!"]]></body>
+  
+  <user>
+    <id>2863914</id>
+    <name>j</name>
+    <display_name>j</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2863914-j]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1407175214p3/2863914.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1407175214p2/2863914.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jun 14 06:05:36 -0700 2011</created_at>
+  <updated_at>Tue Jun 14 06:05:36 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31918832</id>
+  <body><![CDATA[Hah! I didn't know that about Mr. Rogers. I'm going to perpetuate that one.]]></body>
+  
+  <user>
+    <id>137273</id>
+    <name>Eh?Eh!</name>
+    <display_name>Eh?Eh!</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/137273-eh-eh]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1370013095p3/137273.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1370013095p2/137273.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jun 14 07:19:15 -0700 2011</created_at>
+  <updated_at>Tue Jun 14 07:19:15 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31918867</id>
+  <body><![CDATA[i believe it includes the detail that mr. rogers was a sniper.]]></body>
+  
+  <user>
+    <id>2863914</id>
+    <name>j</name>
+    <display_name>j</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2863914-j]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1407175214p3/2863914.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1407175214p2/2863914.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jun 14 07:20:14 -0700 2011</created_at>
+  <updated_at>Tue Jun 14 07:20:14 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31919047</id>
+  <body><![CDATA[He should've done a field trip to a shooting range, forget the graham cracker factory (best episode ever!).]]></body>
+  
+  <user>
+    <id>137273</id>
+    <name>Eh?Eh!</name>
+    <display_name>Eh?Eh!</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/137273-eh-eh]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1370013095p3/137273.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1370013095p2/137273.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jun 14 07:26:17 -0700 2011</created_at>
+  <updated_at>Tue Jun 14 07:26:17 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31919116</id>
+  <body><![CDATA[uh-uh. crayon factory episode forever.]]></body>
+  
+  <user>
+    <id>2863914</id>
+    <name>j</name>
+    <display_name>j</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2863914-j]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1407175214p3/2863914.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1407175214p2/2863914.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jun 14 07:29:07 -0700 2011</created_at>
+  <updated_at>Tue Jun 14 07:29:07 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31919133</id>
+  <body><![CDATA[Hah! I was about to list that one, too, but went with the edible.]]></body>
+  
+  <user>
+    <id>137273</id>
+    <name>Eh?Eh!</name>
+    <display_name>Eh?Eh!</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/137273-eh-eh]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1370013095p3/137273.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1370013095p2/137273.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jun 14 07:30:00 -0700 2011</created_at>
+  <updated_at>Tue Jun 14 07:30:00 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31919214</id>
+  <body><![CDATA[i am sensing this is a theme with you.<br /><br />(not that i am judging. mmm food.)]]></body>
+  
+  <user>
+    <id>2863914</id>
+    <name>j</name>
+    <display_name>j</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2863914-j]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1407175214p3/2863914.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1407175214p2/2863914.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jun 14 07:32:49 -0700 2011</created_at>
+  <updated_at>Tue Jun 14 07:32:49 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>31919278</id>
+  <body><![CDATA[I do like my sustenance.]]></body>
+  
+  <user>
+    <id>137273</id>
+    <name>Eh?Eh!</name>
+    <display_name>Eh?Eh!</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/137273-eh-eh]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1370013095p3/137273.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1370013095p2/137273.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jun 14 07:35:14 -0700 2011</created_at>
+  <updated_at>Tue Jun 14 07:35:14 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>112438700</id>
+  <body><![CDATA[Please]]></body>
+  
+  <user>
+    <id>38423827</id>
+    <name>Alexis Clark</name>
+    <display_name>Alexis Clark</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/38423827-alexis-clark]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 08 15:26:34 -0800 2015</created_at>
+  <updated_at>Thu Jan 08 15:26:34 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>112456283</id>
+  <body><![CDATA[Please... Complete that thought!]]></body>
+  
+  <user>
+    <id>2863914</id>
+    <name>j</name>
+    <display_name>j</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2863914-j]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1407175214p3/2863914.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1407175214p2/2863914.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 08 20:29:22 -0800 2015</created_at>
+  <updated_at>Thu Jan 08 20:29:22 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>117418986</id>
+  <body><![CDATA[wow, your parents are mean, making you cry through a song just for their own entertainment]]></body>
+  
+  <user>
+    <id>31855923</id>
+    <name>Therandomben</name>
+    <display_name>Therandomben</display_name>
+
+    <location>Cary, NC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/31855923-therandomben]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Apr 08 19:00:04 -0700 2015</created_at>
+  <updated_at>Wed Apr 08 19:00:04 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>117431820</id>
+  <body><![CDATA[i know, and i've been making them pay for it for the last 28 years.]]></body>
+  
+  <user>
+    <id>2863914</id>
+    <name>j</name>
+    <display_name>j</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2863914-j]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1407175214p3/2863914.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1407175214p2/2863914.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Apr 09 03:50:19 -0700 2015</created_at>
+  <updated_at>Thu Apr 09 03:50:19 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>117444743</id>
+  <body><![CDATA[You should tell them that Nina sings the same song but that you won't record it for them because of this traumatic and cruel incident.]]></body>
+  
+  <user>
+    <id>237469</id>
+    <name>Miriam</name>
+    <display_name>Miriam</display_name>
+
+    <location>Sacramento, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/237469-miriam]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1275489063p3/237469.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1275489063p2/237469.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Apr 09 09:35:30 -0700 2015</created_at>
+  <updated_at>Thu Apr 09 09:35:30 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>117444820</id>
+  <body><![CDATA[nina loves to sing but definitely not on cue. can't fault her for it.]]></body>
+  
+  <user>
+    <id>2863914</id>
+    <name>j</name>
+    <display_name>j</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2863914-j]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1407175214p3/2863914.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1407175214p2/2863914.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Apr 09 09:36:45 -0700 2015</created_at>
+  <updated_at>Thu Apr 09 09:36:45 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>144825108</id>
+  <body><![CDATA[that is so true !!!!!!!!!!!!!!!!!!!!!]]></body>
+  
+  <user>
+    <id>50512010</id>
+    <name>Sherri</name>
+    <display_name>Sherri</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/50512010-sherri]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Dec 25 09:17:31 -0800 2015</created_at>
+  <updated_at>Fri Dec 25 09:17:31 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>146988384</id>
+  <body><![CDATA[my name is carter and =)]]></body>
+  
+  <user>
+    <id>52100459</id>
+    <name>Carter</name>
+    <display_name>Carter</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52100459-carter]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 02 07:52:49 -0800 2016</created_at>
+  <updated_at>Tue Feb 02 07:52:49 -0800 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/75277327]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/75277327]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

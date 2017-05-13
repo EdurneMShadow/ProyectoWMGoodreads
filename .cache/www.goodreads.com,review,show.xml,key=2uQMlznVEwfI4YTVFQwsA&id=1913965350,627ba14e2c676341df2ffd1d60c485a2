@@ -1,0 +1,293 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:45:45 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: MM8WGH43NDAFZJSTZ6JG
+etag: W/"bfe036e3e2c65b8cc3da3b779c719e2b"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.198136
+set-cookie: csid=BAhJIhgxODgtNTk3OTU1Ni0xMjg4NjQ1BjoGRVQ%3D--63287e6978c8195d99f27d7ff09a9f4c37401088; path=/; expires=Tue, 12 May 2037 13:45:45 -0000, locale=es; path=/, _session_id2=a509c770fcf428b0af0d382402f0129f; path=/; expires=Fri, 12 May 2017 19:45:45 -0000; HttpOnly
+content-length: 10962
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=1913965350
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1913965350</id>
+    
+  <user>
+    <id>56035852</id>
+    <name>Katie</name>
+    <display_name>Katie</display_name>
+
+    <location>Lewes, V2, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/56035852-katie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1469958232p3/56035852.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1469958232p2/56035852.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">1617</id>
+  <isbn>0374500010</isbn>
+  <isbn13>9780374500016</isbn13>
+  <text_reviews_count type="integer">20044</text_reviews_count>
+  <title>Night</title>
+  <title_without_series>Night</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1473495285m/1617.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1473495285s/1617.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1617.Night</link>
+  <num_pages>120</num_pages>
+  <format>Paperback</format>
+  <edition_information>First Printing Edition</edition_information>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.29</average_rating>
+  <ratings_count>686554</ratings_count>
+  <description>&lt;i&gt;Night&lt;/i&gt; is Elie Wiesel's masterpiece, a candid, horrific, and deeply poignant autobiographical account of his survival as a teenager in the Nazi death camps. This new translation by Marion Wiesel, Elie's wife and frequent translator, presents this seminal memoir in the language and spirit truest to the author's original intent. And in a substantive new preface, Elie reflects on the enduring importance of Night and his lifelong, passionate dedication to ensuring that the world never forgets man's capacity for inhumanity to man.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Night&lt;/i&gt; offers much more than a litany of the daily terrors, everyday perversions, and rampant sadism at Auschwitz and Buchenwald; it also eloquently addresses many of the philosophical as well as personal questions implicit in any serious consideration of what the Holocaust was, what it meant, and what its legacy is and will be.</description>
+<authors>
+<author>
+<id>1049</id>
+<name>Elie Wiesel</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1255518412p5/1049.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1255518412p2/1049.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1049.Elie_Wiesel]]></link>
+<average_rating>4.27</average_rating>
+<ratings_count>722830</ratings_count>
+<text_reviews_count>24668</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">122396787</id>
+          <page type="integer">50</page>
+          <chapter type="integer"></chapter>
+          <comments_count>3</comments_count>
+          <created_at type="datetime">Thu Feb 16 06:18:01 -0800 2017</created_at>
+          <updated_at type="datetime">Thu Feb 16 06:18:03 -0800 2017</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">9</ratings_count>
+          <percent type="integer">41</percent>
+          <work_id type="integer">265616</work_id>
+          <note_uri>kca://note/amzn1.grok.note.8fa90b05d2fb97b5c09571925622a5c2</note_uri>
+          <note_updated_at type="datetime">Thu Feb 16 06:18:03 -0800 2017</note_updated_at>
+          <body><![CDATA[The most harrowing book I've read about the Holocaust. Brutal and heartbreaking.]]></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">1716793280</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Fri Feb 17 02:22:07 -0800 2017</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1713696811</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Wed Feb 15 01:15:10 -0800 2017</updated_at>
+          <ratings_count>1</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>50</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Feb 15 01:15:10 -0800 2017</started_at>
+  <read_at>Fri Feb 17 15:50:16 -0800 2017</read_at>
+  <date_added>Wed Feb 15 01:15:10 -0800 2017</date_added>
+  <date_updated>Fri Feb 17 02:23:35 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Difficult to review. Night is a brutal first-hand account of life in Auschwitz. We’re all very familiar with the visuals of the journey in the cattle truck, the arrival in Auschwitz, the squalor and deprivations of life in the barracks, the selections. Wiesel tells us with simple but supremely el...]]>
+  </body>
+
+  
+
+  <comments_count>6</comments_count>
+    <comments start="1" end="6" total="6">
+        <comment>
+  <id>162925863</id>
+  <body><![CDATA[<i>Katie wrote: "I’ll just say that probably everyone should read this short book.</i><br /><br />Yes, I agree, Katie. Lest we never forget.]]></body>
+  
+  <user>
+    <id>3845138</id>
+    <name>Carol</name>
+    <display_name>Carol</display_name>
+
+    <location>Colorado Springs, CO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3845138-carol]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1438649960p3/3845138.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1438649960p2/3845138.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 17 13:39:39 -0800 2017</created_at>
+  <updated_at>Fri Feb 17 13:39:39 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>162942703</id>
+  <body><![CDATA[I think this book should be taught in schools, Carol.]]></body>
+  
+  <user>
+    <id>56035852</id>
+    <name>Katie</name>
+    <display_name>Katie</display_name>
+
+    <location>Lewes, V2, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/56035852-katie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1469958232p3/56035852.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1469958232p2/56035852.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 18 02:07:51 -0800 2017</created_at>
+  <updated_at>Sat Feb 18 02:07:51 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>162966923</id>
+  <body><![CDATA[A very important book.]]></body>
+  
+  <user>
+    <id>15662887</id>
+    <name>Deanna </name>
+    <display_name>Deanna </display_name>
+
+    <location>Winnipeg, MB, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15662887-deanna]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1437589889p3/15662887.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1437589889p2/15662887.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 18 15:59:48 -0800 2017</created_at>
+  <updated_at>Sat Feb 18 15:59:48 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>162967359</id>
+  <body><![CDATA[I agree. Certain images from this book still haunt my mind. What an inspiring man he was.]]></body>
+  
+  <user>
+    <id>5211606</id>
+    <name>Julie</name>
+    <display_name>Julie</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5211606-julie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1440858556p3/5211606.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1440858556p2/5211606.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 18 16:17:19 -0800 2017</created_at>
+  <updated_at>Sat Feb 18 16:17:19 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>163175615</id>
+  <body><![CDATA[Perfect review for this amazing story, Katie. All I can really say that just the thought of this book still takes my breath away, it is a book that will likely haunt me the rest of my days.]]></body>
+  
+  <user>
+    <id>106692</id>
+    <name>Cheri</name>
+    <display_name>Cheri</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/106692-cheri]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1296510906p3/106692.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1296510906p2/106692.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Feb 23 14:18:25 -0800 2017</created_at>
+  <updated_at>Thu Feb 23 14:18:25 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>163192218</id>
+  <body><![CDATA[<i>Cheri wrote: "Perfect review for this amazing story, Katie. All I can really say that just the thought of this book still takes my breath away, it is a book that will likely haunt me the rest of my days."</i><br /><br />Cheri, I imagine it must have been so difficult to write, to summon up again all those experiences. That alone took courage. That he did it so eloquently and with so much economy was an awesome achievement. There isn't a wasted word in the whole book.]]></body>
+  
+  <user>
+    <id>56035852</id>
+    <name>Katie</name>
+    <display_name>Katie</display_name>
+
+    <location>Lewes, V2, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/56035852-katie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1469958232p3/56035852.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1469958232p2/56035852.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 24 01:07:28 -0800 2017</created_at>
+  <updated_at>Fri Feb 24 01:07:28 -0800 2017</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1913965350]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1913965350]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

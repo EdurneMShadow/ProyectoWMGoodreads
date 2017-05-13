@@ -4,14 +4,14 @@ import datetime
 import urllib
 import webbrowser
 import xml.etree.ElementTree as ET
-from sys import maxint as MAX_INT
+#from sys import maxint as MAX_INT
 
 # Local imports
-from author import Author
-from book import Book
-from comparison import Comparison
-from request import GoodreadsRequest, GoodreadsRequestError
-from session import GoodreadsSession, GoodreadsSessionError
+from .author import Author
+from .book import Book
+from .comparison import Comparison
+from .request import GoodreadsRequest, GoodreadsRequestError
+from .session import GoodreadsSession, GoodreadsSessionError
 
 class Client:
     """ A client for interacting with Goodreads resources."""
@@ -38,7 +38,7 @@ class Client:
         else: # Access not yet granted, allow via browser
             url = self.session.oath_start()
             webbrowser.open(url)
-            while raw_input('Have you authorized me? (y/n) ') != 'y':
+            while input('Have you authorized me? (y/n) ') != 'y':
                 pass
             self.session.oauth_finish()
 
@@ -96,7 +96,7 @@ class Client:
         userReview['review'] = root.find('review/body').text
         return userReview
 
-    def get_friends(self, user_id, num=MAX_INT):
+    def get_friends(self, user_id, num=30):
         """ Get pages of user's friends list. (30 per page)
         Returns: ((id, name),) """
         if not self.session:
@@ -121,7 +121,7 @@ class Client:
         # Return compiled list of friends
         return friends
         
-    def get_followers(self, user_id, num=MAX_INT):
+    def get_followers(self, user_id, num=30):
         """ Get pages of user's friends list. (30 per page)
             Returns: ((id, name),) """
         if not self.session:
@@ -135,7 +135,7 @@ class Client:
                                         {'format':'xml', 'page':str(page)})
             data_dict = data_dict['followers']
             # Check to see if  there is 'user' (friend) data
-            if len(data_dict) is 0:
+            if len(data_dict) == 3:
                 break # No followers :(
             else: # Update progress
                 end = int(data_dict['@end'])

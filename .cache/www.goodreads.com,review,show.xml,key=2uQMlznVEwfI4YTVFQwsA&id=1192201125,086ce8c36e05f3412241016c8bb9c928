@@ -1,0 +1,1291 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:37:19 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: YZB206QATCHD5GP1PFW8
+etag: W/"bb31b516e454f2a33492438d60a360d8"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.356983
+set-cookie: csid=BAhJIhgwMzYtODMzMzk2OS03NjUwMjIzBjoGRVQ%3D--a4320c9c161ed1605a6d90737427cc7d65b2e97b; path=/; expires=Tue, 12 May 2037 13:37:18 -0000, locale=es; path=/, _session_id2=2cf7c455ffc398894fa2ffdeb59269be; path=/; expires=Fri, 12 May 2017 19:37:19 -0000; HttpOnly
+content-length: 57893
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=1192201125
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1192201125</id>
+    
+  <user>
+    <id>3427339</id>
+    <name>Jeffrey</name>
+    <display_name>Jeffrey Keeten</display_name>
+
+    <location>Dodge City, KS</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3427339-jeffrey-keeten]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1301087352p3/3427339.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1301087352p2/3427339.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">2865</id>
+  <isbn>0452287022</isbn>
+  <isbn13>9780452287020</isbn13>
+  <text_reviews_count type="integer">5908</text_reviews_count>
+  <title>Girl with a Pearl Earring</title>
+  <title_without_series>Girl with a Pearl Earring</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1327197580m/2865.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1327197580s/2865.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2865.Girl_with_a_Pearl_Earring</link>
+  <num_pages>233</num_pages>
+  <format>Paperback</format>
+  <edition_information> Deluxe Edition</edition_information>
+  <publisher>Plume/Penguin</publisher>
+  <publication_day/>
+  <publication_year>2005</publication_year>
+  <publication_month/>
+  <average_rating>3.84</average_rating>
+  <ratings_count>479287</ratings_count>
+  <description>With precisely 35 canvases to his credit, the Dutch painter Johannes Vermeer represents one of the great enigmas of 17th-century art. The meager facts of his biography have been gleaned from a handful of legal documents. Yet Vermeer's extraordinary paintings of domestic life, with their subtle play of light and texture, have come to define the Dutch golden age. His portrait of the anonymous Girl with a Pearl Earring has exerted a particular fascination for centuries - and it is this magnetic painting that lies at the heart of Tracy Chevalier's second novel of the same title.&lt;br /&gt;&lt;i&gt;Girl with a Pearl Earring&lt;/i&gt; centers on Vermeer's prosperous Delft household during the 1660s. When Griet, the novel's quietly perceptive heroine, is hired as a servant, turmoil follows. First, the 16-year-old narrator becomes increasingly intimate with her master. Then Vermeer employs her as his assistant--and ultimately has Griet sit for him as a model.</description>
+<authors>
+<author>
+<id>1973</id>
+<name>Tracy Chevalier</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1439297099p5/1973.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1439297099p2/1973.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1973.Tracy_Chevalier]]></link>
+<average_rating>3.80</average_rating>
+<ratings_count>635156</ratings_count>
+<text_reviews_count>22574</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">749395617</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Feb 08 12:37:56 -0800 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">745993246</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Thu Feb 05 20:04:21 -0800 2015</updated_at>
+          <ratings_count>10</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>4</rating>
+  <votes>208</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="artists" exclusive="false" review_shelf_id="908217826" sortable="false" />
+    <shelf name="book-to-film" exclusive="false" review_shelf_id="1352056010" sortable="false" />
+    <shelf name="the-dutch" exclusive="false" review_shelf_id="908217797" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Feb 05 00:00:00 -0800 2015</started_at>
+  <read_at>Sun Feb 08 00:00:00 -0800 2015</read_at>
+  <date_added>Thu Feb 05 20:04:21 -0800 2015</date_added>
+  <date_updated>Mon Nov 07 08:27:09 -0800 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<b>“I heard voices outside our front door - a woman's, bright as polished brass, and a man's, low and dark like the wood of the table I was working on. They were the kind of voices we heard rarely in our house. I could hear rich carpets in their voices, books and pearls and fur.” </b><br /><br /><a href="http://s1183.photobucket.com/user/jkeeten/media/Girl20With20the20Pearl20Earring_zpsmfguurj3.jpg.html" target="_blank" rel="nofollow"> <img src="http://i1183.photobucket.com/albums/x462/jkeeten/Girl20With20the20Pearl20Earring_zpsmfguurj3.jpg" alt=" photo Girl20With20the20Pearl20Earring_zpsmfguurj3.jpg" class="gr-hostedUserImg" /></a><br /><b>The Girl With the...</b>]]>
+  </body>
+
+  
+
+  <comments_count>63</comments_count>
+    <comments start="1" end="50" total="63">
+        <comment>
+  <id>114331445</id>
+  <body><![CDATA[How nice that you have a copy of 'The Girl with the Pearl Earring' on a wall at your home. Yes, it is an exceptionally beautiful picture. Did you ever see the original in The Hague? It is a marvel to see. I thought Scarlett Johansson was a really well chosen person for the role of the servant girl in the movie.]]></body>
+  
+  <user>
+    <id>17944903</id>
+    <name>Hanneke</name>
+    <display_name>Hanneke</display_name>
+
+    <location>Amsterdam, Netherlands</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17944903-hanneke]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1453897005p3/17944903.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1453897005p2/17944903.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 09 16:15:58 -0800 2015</created_at>
+  <updated_at>Mon Feb 09 16:15:58 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>114331561</id>
+  <body><![CDATA[Your usual excellent review, as expected. I read the book and liked it. Then I saw the movie, and loved it too. One of the most wonderful things about the movie, other than Colin Firth (yes, Johansson was good too, but not as pretty as Colin) was the way the cinematographer used the light, as though he were imitating Vermeer's use of that quality. I happened to visit the National Museum of Art in D.C. a few years ago when they had a Vermeer exhibit. I was amazed because the paintings were so small. Beautiful but small.]]></body>
+  
+  <user>
+    <id>7262060</id>
+    <name>Diane</name>
+    <display_name>Diane Barnes</display_name>
+
+    <location>Mount Pleasant, SC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7262060-diane-barnes]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1329773692p3/7262060.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1329773692p2/7262060.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 09 16:18:17 -0800 2015</created_at>
+  <updated_at>Mon Feb 09 16:18:17 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>114331934</id>
+  <body><![CDATA[Yes, that is right, Diane, the paintings are so much smaller than expected! Not Rembrandt's paintings though, they are as big as you anticipate. I never saw the 'Mona Lisa', but heard that is also so much smaller than you think.]]></body>
+  
+  <user>
+    <id>17944903</id>
+    <name>Hanneke</name>
+    <display_name>Hanneke</display_name>
+
+    <location>Amsterdam, Netherlands</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17944903-hanneke]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1453897005p3/17944903.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1453897005p2/17944903.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 09 16:25:33 -0800 2015</created_at>
+  <updated_at>Mon Feb 09 16:25:33 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>114336351</id>
+  <body><![CDATA[Stunning review, Jeffrey! You make me want to get a copy immediately.]]></body>
+  
+  <user>
+    <id>11255849</id>
+    <name>Cheryl</name>
+    <display_name>Cheryl</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11255849-cheryl]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492539921p3/11255849.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492539921p2/11255849.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 09 17:46:30 -0800 2015</created_at>
+  <updated_at>Mon Feb 09 17:46:30 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>114349892</id>
+  <body><![CDATA[I really liked this book because Chevalier managed to recreate the sexual tension between the painter and the young maid and make it palpable, almost as an invisible character that consumes not only Vermeer's in his obsession and artistic frenzy but also the reader. You emulate that feeling with firm hand Jeffrey, almost as if years of looking at the girl's innocent glance and parted lips gave you a taste of Vermeer's malady! ;P<br />Terrific review and magnificent movie adaptation, indeed. Colin Firth is a winner for me.]]></body>
+  
+  <user>
+    <id>18383778</id>
+    <name>Dolors</name>
+    <display_name>Dolors</display_name>
+
+    <location>Barcelona, Spain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18383778-dolors]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1379500437p3/18383778.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1379500437p2/18383778.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 10 00:05:56 -0800 2015</created_at>
+  <updated_at>Tue Feb 10 00:05:56 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>114358321</id>
+  <body><![CDATA[<i>Hanneke wrote: "How nice that you have a copy of 'The Girl with the Pearl Earring' on a wall at your home. Yes, it is an exceptionally beautiful picture. Did you ever see the original in The Hague? It is a marvel ..."</i><br /><br />I have not seen the original. I did see The Art of Painting when I was in Vienna. I've got a print of that hanging in my library. <br /><br />I agree that Johansson was well cast for the role. I'm planning to rewatch it this weekend if time allows. I haven't seen it since it first came out. I've been meaning to read this book ever since 2003! *sigh* too many other distractions.]]></body>
+  
+  <user>
+    <id>3427339</id>
+    <name>Jeffrey</name>
+    <display_name>Jeffrey Keeten</display_name>
+
+    <location>Dodge City, KS</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3427339-jeffrey-keeten]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1301087352p3/3427339.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1301087352p2/3427339.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 10 06:07:44 -0800 2015</created_at>
+  <updated_at>Tue Feb 10 06:07:44 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>114358486</id>
+  <body><![CDATA[<i>Diane wrote: "Your usual excellent review, as expected. I read the book and liked it. Then I saw the movie, and loved it too. One of the most wonderful things about the movie, other than Colin Firth (yes, Joh..."</i><br /><br />If you haven't seen the Mona Lisa you will be stunned at how small it is. I had to fight my way through a hundred Japanese tourists to get a look at it. It is good to be 6'4" under such circumstances. <br /><br />There were other people in the movie besides Scarlett? haha Colin Firth was excellent. I'm really looking forward to seeing it again. <br /><br />Thanks Diane! I worried about this review because I wrote it so fast between other projects that I thought sure it would prove to be a jumbled mess. I was relieved to see your comment and others that it was a good review. *whew*]]></body>
+  
+  <user>
+    <id>3427339</id>
+    <name>Jeffrey</name>
+    <display_name>Jeffrey Keeten</display_name>
+
+    <location>Dodge City, KS</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3427339-jeffrey-keeten]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1301087352p3/3427339.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1301087352p2/3427339.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 10 06:11:29 -0800 2015</created_at>
+  <updated_at>Tue Feb 10 06:11:29 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>114358614</id>
+  <body><![CDATA[<i>Cheryl wrote: "Stunning review, Jeffrey! You make me want to get a copy immediately."</i><br /><br />It will be a quick read for you Cheryl! If you like tension created by what is not said then you will really enjoy this book. It reminded me of Mary Reilly which is another understated book. I loved the restraint that Chevalier showed with the plot. Thanks Cheryl!]]></body>
+  
+  <user>
+    <id>3427339</id>
+    <name>Jeffrey</name>
+    <display_name>Jeffrey Keeten</display_name>
+
+    <location>Dodge City, KS</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3427339-jeffrey-keeten]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1301087352p3/3427339.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1301087352p2/3427339.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 10 06:14:05 -0800 2015</created_at>
+  <updated_at>Tue Feb 10 06:14:05 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>114359202</id>
+  <body><![CDATA[Funny that you mention 'Mary Reilly' as, indeed, that has the same atmosphere!]]></body>
+  
+  <user>
+    <id>17944903</id>
+    <name>Hanneke</name>
+    <display_name>Hanneke</display_name>
+
+    <location>Amsterdam, Netherlands</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17944903-hanneke]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1453897005p3/17944903.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1453897005p2/17944903.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 10 06:29:01 -0800 2015</created_at>
+  <updated_at>Tue Feb 10 06:29:01 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>114359313</id>
+  <body><![CDATA[<i>Dolors wrote: "I really liked this book because Chevalier managed to recreate the sexual tension between the painter and the young maid and make it palpable, almost as an invisible character that consumes not onl..."</i><br /><br />I spent some time thinking about this young girl thrust into this world where she has very little power. Her virtue is only safe if she is extremely lucky. She has no recourse for justice if Van Ruijven does manage to force himself upon her. Even Vermeer is powerless to protect her from men or from his own wife. These desires that men have for her are somewhat baffling because she does not feel the same way when they touch her. She only feels something like desire when she thinks of Vermeer's paintings or when she sees a Vermeer sky. Thanks Dolors! I could probably write another review keying on different things than what I did because despite the small size this book has a lot of moments that are larger than what they may seem.]]></body>
+  
+  <user>
+    <id>3427339</id>
+    <name>Jeffrey</name>
+    <display_name>Jeffrey Keeten</display_name>
+
+    <location>Dodge City, KS</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3427339-jeffrey-keeten]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1301087352p3/3427339.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1301087352p2/3427339.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 10 06:31:22 -0800 2015</created_at>
+  <updated_at>Tue Feb 10 06:31:22 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>114359377</id>
+  <body><![CDATA[<i>Hanneke wrote: "Funny that you mention 'Mary Reilly' as, indeed, that has the same atmosphere!"</i><br /><br />Many readers don't like that book or the movie. I thought both were a wonderful homage to Stevenson's original book.]]></body>
+  
+  <user>
+    <id>3427339</id>
+    <name>Jeffrey</name>
+    <display_name>Jeffrey Keeten</display_name>
+
+    <location>Dodge City, KS</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3427339-jeffrey-keeten]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1301087352p3/3427339.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1301087352p2/3427339.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 10 06:33:05 -0800 2015</created_at>
+  <updated_at>Tue Feb 10 06:33:05 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>114360006</id>
+  <body><![CDATA[Once you see the pitcher, you can't un-see it… Once again, you've changed the way I see the world, or at least that painting!]]></body>
+  
+  <user>
+    <id>1923002</id>
+    <name>Mara</name>
+    <display_name>Mara</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1923002-mara]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1372346616p3/1923002.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1372346616p2/1923002.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 10 06:46:34 -0800 2015</created_at>
+  <updated_at>Tue Feb 10 06:46:34 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>114360458</id>
+  <body><![CDATA[<i>Mara wrote: "Once you see the pitcher, you can't un-see it… Once again, you've changed the way I see the world, or at least that painting!"</i><br /><br />It might be my imagination flashing forward, but doesn't it seem like it has a slight tilt?]]></body>
+  
+  <user>
+    <id>3427339</id>
+    <name>Jeffrey</name>
+    <display_name>Jeffrey Keeten</display_name>
+
+    <location>Dodge City, KS</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3427339-jeffrey-keeten]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1301087352p3/3427339.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1301087352p2/3427339.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 10 06:56:36 -0800 2015</created_at>
+  <updated_at>Tue Feb 10 06:56:36 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>114360693</id>
+  <body><![CDATA[An excellent review. I really appreciate those who appreciate art and know how to express their appreciation well. My Bachelor's is in Humanities, and, as a result, I've condemned myself to that little island of people who really, REALLY love a well-composed and executed painting. I get in trouble at museums because I love to get as close as I can so I can see the brush-strokes and layers on a painting. I've had more than one security guard clear their throat in my direction. Anyway, love the review, Jeffrey!]]></body>
+  
+  <user>
+    <id>811928</id>
+    <name>Forrest</name>
+    <display_name>Forrest</display_name>
+
+    <location>Madison, WI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/811928-forrest]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442457426p3/811928.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442457426p2/811928.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 10 07:01:20 -0800 2015</created_at>
+  <updated_at>Tue Feb 10 07:01:20 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>114361974</id>
+  <body><![CDATA[<i>Forrest wrote: "An excellent review. I really appreciate those who appreciate art and know how to express their appreciation well. My Bachelor's is in Humanities, and, as a result, I've condemned myself to that li..."</i><br /><br />While in college I took an Art Appreciation Class that changed my life. The professor shotgunned so much art at me that still today I can recognize most of the major artists. I also learned what I liked which gave me a basis for discovering more painters I liked. Vermeer absolutely staggered me. I can still remember seeing Matisse's Woman With a Hat in San Francisco and realizing that all the prints of that picture I'd seen did not do the painting justice at all. I didn't know I liked Matisse until I saw his paintings in "the paint". I too am familiar with that guard throat clearing sound. <br /><br />Both of my kids have been forced (I can be persuasive with the whole this class changed my life lecture.) to take an Art overview class in college as one of their electives. I still feel like I have so much to learn because I set aside my love of paintings to pursue literature, but now it is time to begin expanding on my art education. <br /><br />Thanks Forrest! I can see the headline now. "Writer arrested for leaving nose print on Masterpiece". :-)]]></body>
+  
+  <user>
+    <id>3427339</id>
+    <name>Jeffrey</name>
+    <display_name>Jeffrey Keeten</display_name>
+
+    <location>Dodge City, KS</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3427339-jeffrey-keeten]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1301087352p3/3427339.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1301087352p2/3427339.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 10 07:28:37 -0800 2015</created_at>
+  <updated_at>Tue Feb 10 07:28:37 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>114364580</id>
+  <body><![CDATA[I must confess I sometimes sneak up to statutes in museums to touch them. I want to feel what the artist felt. And like Forrest, I try to get as close to a painting as I can. Been warned off a lot in museums throughout the years!]]></body>
+  
+  <user>
+    <id>17944903</id>
+    <name>Hanneke</name>
+    <display_name>Hanneke</display_name>
+
+    <location>Amsterdam, Netherlands</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17944903-hanneke]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1453897005p3/17944903.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1453897005p2/17944903.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 10 08:21:28 -0800 2015</created_at>
+  <updated_at>Tue Feb 10 08:21:28 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>114365073</id>
+  <body><![CDATA[<i>Hanneke wrote: "I must confess I sometimes sneak up to statutes in museums to touch them. I want to feel what the artist felt. And like Forrest, I try to get as close to a painting as I can. Been warned off a lot ..."</i><br /><br />Michelangelo's statues are especially enticing for me to want to touch. David's hand was so tempting, but I decided that spending my vacation in an Italian police office was not worth it. :-)]]></body>
+  
+  <user>
+    <id>3427339</id>
+    <name>Jeffrey</name>
+    <display_name>Jeffrey Keeten</display_name>
+
+    <location>Dodge City, KS</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3427339-jeffrey-keeten]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1301087352p3/3427339.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1301087352p2/3427339.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 10 08:31:17 -0800 2015</created_at>
+  <updated_at>Tue Feb 10 08:31:17 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>114365871</id>
+  <body><![CDATA[Wonderful review, Jeffrey. I've had this book for a long time, and have simply never thought of reading it. Now I need to think about that. And then return to this review!<br /><br />Hats off to: your comment about reaching into the painting ... and the paragraph comparing your reading experience to watching a close baseball game. (Or maybe, "thumbs up"; or possibly "hats up and thumbs off"?)]]></body>
+  
+  <user>
+    <id>7213075</id>
+    <name>Ted</name>
+    <display_name>Ted</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7213075-ted]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1454099719p3/7213075.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1454099719p2/7213075.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 10 08:46:44 -0800 2015</created_at>
+  <updated_at>Tue Feb 10 08:46:44 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>114367029</id>
+  <body><![CDATA[<i>Ted wrote: "Wonderful review, Jeffrey. I've had this book for a long time, and have simply never thought of reading it. Now I need to think about that. And then return to this review!<br /><br />Hats off to: your commen..."</i><br /><br />I'm so ready for baseball to start again. I'm probably the only person who would compare a baseball game to reading a book about a Dutch painter. :-)People who don't like baseball aren't REALLY SEEING the game. The psychology of the game eclipses all other sports. The suspended animation of the game until the pitch is thrown adds to the drama. Players have to go from stillness to explosive action in what seems a nanosecond. The tension I felt in this book was similar. That moment when everyone is waiting for something to happen. Thanks Ted! I hope you enjoy the book and the upcoming baseball season. :-)]]></body>
+  
+  <user>
+    <id>3427339</id>
+    <name>Jeffrey</name>
+    <display_name>Jeffrey Keeten</display_name>
+
+    <location>Dodge City, KS</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3427339-jeffrey-keeten]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1301087352p3/3427339.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1301087352p2/3427339.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 10 09:09:13 -0800 2015</created_at>
+  <updated_at>Tue Feb 10 09:09:13 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>114372519</id>
+  <body><![CDATA[Who do you root for Jeffrey? The Dodge City Urps? (heh-heh)]]></body>
+  
+  <user>
+    <id>7213075</id>
+    <name>Ted</name>
+    <display_name>Ted</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7213075-ted]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1454099719p3/7213075.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1454099719p2/7213075.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 10 10:48:25 -0800 2015</created_at>
+  <updated_at>Tue Feb 10 10:48:25 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>114374793</id>
+  <body><![CDATA[<i>Ted wrote: "Who do you root for Jeffrey? The Dodge City Urps? (heh-heh)"</i><br /><br />Haha good one! I have been a Kansas City Royals fan since I was knee high to a grasshopper. Some of my fondness memories are of listening to baseball on the radio.]]></body>
+  
+  <user>
+    <id>3427339</id>
+    <name>Jeffrey</name>
+    <display_name>Jeffrey Keeten</display_name>
+
+    <location>Dodge City, KS</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3427339-jeffrey-keeten]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1301087352p3/3427339.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1301087352p2/3427339.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 10 11:30:13 -0800 2015</created_at>
+  <updated_at>Tue Feb 10 11:30:13 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>114375371</id>
+  <body><![CDATA[Ah, the Royals. Somehow maybe I knew that already, it seems to ring true. I don't think anyone can dislike the Royals, can they? And that was Bill James' home town team too, so I've read a lot about the Royals over the years.]]></body>
+  
+  <user>
+    <id>7213075</id>
+    <name>Ted</name>
+    <display_name>Ted</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7213075-ted]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1454099719p3/7213075.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1454099719p2/7213075.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 10 11:40:46 -0800 2015</created_at>
+  <updated_at>Tue Feb 10 11:40:46 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>114414029</id>
+  <body><![CDATA[A very emotive review Jeffrey.]]></body>
+  
+  <user>
+    <id>5859453</id>
+    <name>Arah-Lynda</name>
+    <display_name>Arah-Lynda</display_name>
+
+    <location>Kitchener, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5859453-arah-lynda]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492957789p3/5859453.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492957789p2/5859453.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Feb 11 03:43:46 -0800 2015</created_at>
+  <updated_at>Wed Feb 11 03:43:46 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>114419626</id>
+  <body><![CDATA[<i>Arah-Lynda wrote: "A very emotive review Jeffrey."</i><br /><br />Thank you Arah-Lynda!]]></body>
+  
+  <user>
+    <id>3427339</id>
+    <name>Jeffrey</name>
+    <display_name>Jeffrey Keeten</display_name>
+
+    <location>Dodge City, KS</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3427339-jeffrey-keeten]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1301087352p3/3427339.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1301087352p2/3427339.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Feb 11 06:29:14 -0800 2015</created_at>
+  <updated_at>Wed Feb 11 06:29:14 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>114420041</id>
+  <body><![CDATA[<i>Ted wrote: "Ah, the Royals. Somehow maybe I knew that already, it seems to ring true. I don't think anyone can dislike the Royals, can they? And that was Bill James' home town team too, so I've read a lot abou..."</i><br /><br />The Royals had a superb run this year. I think most of the baseball world was rooting for them. I will be haunted forever by the third base coach halting Alex Gordon at third base in the bottom of the ninth. I believe Gordon would have made it safely home to tie the ballgame. It was the safe call to halt him at third, but how dramatic would that sprint for home have been.]]></body>
+  
+  <user>
+    <id>3427339</id>
+    <name>Jeffrey</name>
+    <display_name>Jeffrey Keeten</display_name>
+
+    <location>Dodge City, KS</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3427339-jeffrey-keeten]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1301087352p3/3427339.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1301087352p2/3427339.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Feb 11 06:38:33 -0800 2015</created_at>
+  <updated_at>Wed Feb 11 06:38:33 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>158800025</id>
+  <body><![CDATA[Thank you, Jeffrey, for such an exquisite and aesthetically engaging review. I loved the rejuvenating aspect.]]></body>
+  
+  <user>
+    <id>17521500</id>
+    <name>Jean-Paul</name>
+    <display_name><![CDATA[Jean-Paul Werner Walshaw-Sauter]]></display_name>
+
+    <location>Lausanne, Vaud, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17521500-jean-paul-werner-walshaw-sauter]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493296147p3/17521500.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493296147p2/17521500.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Nov 05 12:27:21 -0700 2016</created_at>
+  <updated_at>Sat Nov 05 12:27:21 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158800583</id>
+  <body><![CDATA[<i>Jean-Paul wrote: "Thank you, Jeffrey, for such an exquisite and aesthetically engaging review. I loved the rejuvenating aspect."</i><br /><br />It was my pleasure especially for a perceptive person such as yourself. Thank you Jean-Paul! I'm so glad you liked this one.]]></body>
+  
+  <user>
+    <id>3427339</id>
+    <name>Jeffrey</name>
+    <display_name>Jeffrey Keeten</display_name>
+
+    <location>Dodge City, KS</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3427339-jeffrey-keeten]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1301087352p3/3427339.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1301087352p2/3427339.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Nov 05 12:49:07 -0700 2016</created_at>
+  <updated_at>Sat Nov 05 12:49:07 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158831033</id>
+  <body><![CDATA[Superb review, Jeffrey! I loved going through it. I have yet to see the film.<br />Don't you think that in The Procuress the soldier's palm is more precariously perched? Doesn't it make you so scared for the safety of the girl that you want to reach into the painting and move her to somewhere safer?]]></body>
+  
+  <user>
+    <id>3332742</id>
+    <name>Mohsin</name>
+    <display_name>Mohsin Maqbool</display_name>
+
+    <location>Karachi, 05, Pakistan</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3332742-mohsin-maqbool]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1373637583p3/3332742.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1373637583p2/3332742.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 06 10:41:17 -0800 2016</created_at>
+  <updated_at>Sun Nov 06 10:41:17 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158840157</id>
+  <body><![CDATA[Beautiful, just beautiful Jeffrey! <br /><br />It brought the book right back to the forefront of my mind - a book which seems very personal to me since my father's family comes from Delft :) Thank you!]]></body>
+  
+  <user>
+    <id>19300421</id>
+    <name>Jean</name>
+    <display_name>Jean</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/19300421-jean]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1494366568p3/19300421.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1494366568p2/19300421.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 06 15:01:49 -0800 2016</created_at>
+  <updated_at>Sun Nov 06 15:01:49 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158841408</id>
+  <body><![CDATA[I have not read the book, but intend to. I have seen the movie and adored it. An inspiring review Jeffrey!]]></body>
+  
+  <user>
+    <id>30817744</id>
+    <name><![CDATA[Sandy *The world could end while I was reading and I would never notice*]]></name>
+    <display_name><![CDATA[Sandy *The world could end while I was reading and I would never notice*]]></display_name>
+
+    <location>New Zealand</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/30817744-sandy-the-world-could-end-while-i-was-reading-and-i-would-never-notice]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1479605615p3/30817744.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1479605615p2/30817744.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Nov 06 15:40:51 -0800 2016</created_at>
+  <updated_at>Sun Nov 06 15:40:51 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158860926</id>
+  <body><![CDATA[<i>Mohsin wrote: "Superb review, Jeffrey! I loved going through it. I have yet to see the film.<br />Don't you think that in The Procuress the soldier's palm is more precariously perched? Doesn't it make you so scared fo..."</i><br /><br />It looks like he is about to pay her. Notice the open palm. I would say she might be a lady who's charms are for sale. I'm more worried about that beautiful Delft ceramic jug. :-) The painting is unsettling though. I mean the casual way he is cupping her breast in ownership is also uncomfortable. The movie is really good. I hope you get a chance to see it. Thanks Mohsin!]]></body>
+  
+  <user>
+    <id>3427339</id>
+    <name>Jeffrey</name>
+    <display_name>Jeffrey Keeten</display_name>
+
+    <location>Dodge City, KS</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3427339-jeffrey-keeten]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1301087352p3/3427339.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1301087352p2/3427339.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 07 06:00:32 -0800 2016</created_at>
+  <updated_at>Mon Nov 07 06:00:32 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158860958</id>
+  <body><![CDATA[<i>Jean wrote: "Beautiful, just beautiful Jeffrey! <br /><br />It brought the book right back to the forefront of my mind - a book which seems very personal to me since my father's family comes from Delft :) Thank you!"</i><br /><br />What a great connection Jean. You should definitely read the book and watch the movie. Johansson in my mind is eerily good casting. Thank you Jean! I'm so glad you enjoyed this one.]]></body>
+  
+  <user>
+    <id>3427339</id>
+    <name>Jeffrey</name>
+    <display_name>Jeffrey Keeten</display_name>
+
+    <location>Dodge City, KS</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3427339-jeffrey-keeten]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1301087352p3/3427339.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1301087352p2/3427339.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 07 06:01:38 -0800 2016</created_at>
+  <updated_at>Mon Nov 07 06:01:38 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158860991</id>
+  <body><![CDATA[<i>Sandy *The world could end while I was reading and I would never notice* wrote: "I have not read the book, but intend to. I have seen the movie and adored it. An inspiring review Jeffrey!"</i><br /><br />If you read the book it will inspire you to watch the movie again. It did for me! Thanks Sandy! Vermeer is so inspiring as well.]]></body>
+  
+  <user>
+    <id>3427339</id>
+    <name>Jeffrey</name>
+    <display_name>Jeffrey Keeten</display_name>
+
+    <location>Dodge City, KS</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3427339-jeffrey-keeten]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1301087352p3/3427339.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1301087352p2/3427339.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 07 06:02:36 -0800 2016</created_at>
+  <updated_at>Mon Nov 07 06:02:36 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158864260</id>
+  <body><![CDATA[This is really a fabulous review, Jeffrey. I've been picking up Chevalier's books over the past several years knowing intuitively that I would enjoy them - I already appreciate having this one thanks to your thoughts on it.]]></body>
+  
+  <user>
+    <id>6003113</id>
+    <name>Mike</name>
+    <display_name>Mike</display_name>
+
+    <location>Winnipeg, MB, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6003113-mike]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1330719867p3/6003113.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1330719867p2/6003113.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 07 07:37:58 -0800 2016</created_at>
+  <updated_at>Mon Nov 07 07:37:58 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158866863</id>
+  <body><![CDATA[<i>Mike wrote: "This is really a fabulous review, Jeffrey. I've been picking up Chevalier's books over the past several years knowing intuitively that I would enjoy them - I already appreciate having this one than..."</i><br /><br />Thanks Mike! The subject is one that was inspiring to me. I'm glad my enthusiasm came across in my review. This is a slam dunk on the Mikeometer of enjoyment.]]></body>
+  
+  <user>
+    <id>3427339</id>
+    <name>Jeffrey</name>
+    <display_name>Jeffrey Keeten</display_name>
+
+    <location>Dodge City, KS</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3427339-jeffrey-keeten]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1301087352p3/3427339.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1301087352p2/3427339.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 07 08:40:29 -0800 2016</created_at>
+  <updated_at>Mon Nov 07 08:40:29 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158870666</id>
+  <body><![CDATA[A lovely review! Thank you, Jeffrey!]]></body>
+  
+  <user>
+    <id>7962895</id>
+    <name>Steelwhisper</name>
+    <display_name>Steelwhisper</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7962895-steelwhisper]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1373520142p3/7962895.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1373520142p2/7962895.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 07 10:22:16 -0800 2016</created_at>
+  <updated_at>Mon Nov 07 10:22:16 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158872541</id>
+  <body><![CDATA[<i>Steelwhisper wrote: "A lovely review! Thank you, Jeffrey!"</i><br /><br />You are most welcome Steelwhisper! Thanks for reading it.]]></body>
+  
+  <user>
+    <id>3427339</id>
+    <name>Jeffrey</name>
+    <display_name>Jeffrey Keeten</display_name>
+
+    <location>Dodge City, KS</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3427339-jeffrey-keeten]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1301087352p3/3427339.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1301087352p2/3427339.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 07 11:14:12 -0800 2016</created_at>
+  <updated_at>Mon Nov 07 11:14:12 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158874086</id>
+  <body><![CDATA[Lovely, Jeffrey!<br /><br />Have you read anything else by her? I only read The Lady and the Unicorn but I really liked it.]]></body>
+  
+  <user>
+    <id>4702933</id>
+    <name>MrsJoseph</name>
+    <display_name>MrsJoseph</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4702933-mrsjoseph]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1475772748p3/4702933.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1475772748p2/4702933.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 07 11:54:34 -0800 2016</created_at>
+  <updated_at>Mon Nov 07 11:54:34 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158874524</id>
+  <body><![CDATA[Excellent review Jeffrey. You're right - there were so many things to think about in this small book. It's one of those books that resonates long after reading it.]]></body>
+  
+  <user>
+    <id>19559507</id>
+    <name>Carolyn</name>
+    <display_name>Carolyn</display_name>
+
+    <location>Sydney, NSW, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/19559507-carolyn]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483314730p3/19559507.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483314730p2/19559507.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 07 12:07:06 -0800 2016</created_at>
+  <updated_at>Mon Nov 07 12:07:06 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158879206</id>
+  <body><![CDATA[<i>MrsJoseph wrote: "Lovely, Jeffrey!<br /><br />Have you read anything else by her? I only read The Lady and the Unicorn but I really liked it."</i><br /><br />Thanks MrsJoseph! I have not read anything else, but I do have a couple of other books by her on the shelf waiting to be read.]]></body>
+  
+  <user>
+    <id>3427339</id>
+    <name>Jeffrey</name>
+    <display_name>Jeffrey Keeten</display_name>
+
+    <location>Dodge City, KS</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3427339-jeffrey-keeten]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1301087352p3/3427339.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1301087352p2/3427339.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 07 14:40:17 -0800 2016</created_at>
+  <updated_at>Mon Nov 07 14:40:17 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158879256</id>
+  <body><![CDATA[<i>Carolyn wrote: "Excellent review Jeffrey. You're right - there were so many things to think about in this small book. It's one of those books that resonates long after reading it."</i><br /><br />Packed with so many nuances that fortunately the movie captured as well. Thanks Carolyn! I'm a Vermeer fan and felt this book was very reverential. It put flesh on the mysterious Vermeer.]]></body>
+  
+  <user>
+    <id>3427339</id>
+    <name>Jeffrey</name>
+    <display_name>Jeffrey Keeten</display_name>
+
+    <location>Dodge City, KS</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3427339-jeffrey-keeten]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1301087352p3/3427339.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1301087352p2/3427339.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 07 14:42:14 -0800 2016</created_at>
+  <updated_at>Mon Nov 07 14:42:14 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158896415</id>
+  <body><![CDATA[<i>Jeffrey wrote: "Mohsin wrote: "Superb review, Jeffrey! I loved going through it. I have yet to see the film.<br />Don't you think that in The Procuress the soldier's palm is more precariously perched? Doesn't it make y..."</i><br /><br />You are most welcome, Jeffrey. :) <br />Yes, I know that the film is good. So far I have been unable to get hold of it on DVD. It is certainly on my must-watch list.]]></body>
+  
+  <user>
+    <id>3332742</id>
+    <name>Mohsin</name>
+    <display_name>Mohsin Maqbool</display_name>
+
+    <location>Karachi, 05, Pakistan</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3332742-mohsin-maqbool]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1373637583p3/3332742.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1373637583p2/3332742.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 08 04:11:01 -0800 2016</created_at>
+  <updated_at>Tue Nov 08 04:11:01 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158898667</id>
+  <body><![CDATA[<i>Mohsin wrote: "Jeffrey wrote: "Mohsin wrote: "Superb review, Jeffrey! I loved going through it. I have yet to see the film.<br />Don't you think that in The Procuress the soldier's palm is more precariously perched? D..."</i><br /><br />How readily available are American movies in your country? Sometimes I'm surprised when I have trouble finding something here and that should never happen!]]></body>
+  
+  <user>
+    <id>3427339</id>
+    <name>Jeffrey</name>
+    <display_name>Jeffrey Keeten</display_name>
+
+    <location>Dodge City, KS</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3427339-jeffrey-keeten]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1301087352p3/3427339.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1301087352p2/3427339.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 08 05:54:58 -0800 2016</created_at>
+  <updated_at>Tue Nov 08 05:54:58 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158899333</id>
+  <body><![CDATA[Usually, they are easily available, Jeffrey. But there are some which I am unavailable to find. For instance, I have never been able to find TransSiberian (2008) which is an American-German-British co-production. However, it was finally available last week on YouTube, so I was able to watch it. In Brujes (2008) too was unavailable, but I was lucky to find it last month at the flea market where stuff from the UK and several other countries arrives here. It is mostly charity stuff. <br />There are many old films which I can't get here like The Professionals (Burt Lancaster, Lee Marvin), A Man Called Horse (Richard Harris), Borsalino (Jean-Paul Belmondo, Alain Delon) etc., but have seen them on TV or on my laptop. <br />Some classics I bought during my trips to Dubai in 2011 and Istanbul in 2013.]]></body>
+  
+  <user>
+    <id>3332742</id>
+    <name>Mohsin</name>
+    <display_name>Mohsin Maqbool</display_name>
+
+    <location>Karachi, 05, Pakistan</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3332742-mohsin-maqbool]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1373637583p3/3332742.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1373637583p2/3332742.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 08 06:19:24 -0800 2016</created_at>
+  <updated_at>Tue Nov 08 06:19:24 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158899431</id>
+  <body><![CDATA[<i>Mohsin wrote: "Usually, they are easily available, Jeffrey. But there are some which I am unavailable to find. For instance, I have never been able to find TransSiberian (2008) which is an American-German-British..."</i><br /><br />In Bruges was surprisingly good. I need to rewatch it. I snagged a blu ray a few months ago for cheap. Cool, I'm glad you do find what you are looking for even if you have to be patient. :-)]]></body>
+  
+  <user>
+    <id>3427339</id>
+    <name>Jeffrey</name>
+    <display_name>Jeffrey Keeten</display_name>
+
+    <location>Dodge City, KS</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3427339-jeffrey-keeten]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1301087352p3/3427339.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1301087352p2/3427339.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 08 06:22:40 -0800 2016</created_at>
+  <updated_at>Tue Nov 08 06:22:40 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158906522</id>
+  <body><![CDATA[<i>Jeffrey wrote: "Mohsin wrote: "Usually, they are easily available, Jeffrey. But there are some which I am unavailable to find. For instance, I have never been able to find TransSiberian (2008) which is an American..."</i><br /><br />Both Transsiberian and In Bruges were fabulous films. And so were Mongol: The Rise of Genghis Khan (2007) and Taken (2008). When they make sequels, like for the latter film, it is only for making money. <br />I also loved The Banquet (2006), a Chinese wuxia drama film, released on DVD in the US as Legend of the Black Scorpion. House of Flying Daggers (2004) and Crouching Tiger Hidden Dragon (2000) were even better.]]></body>
+  
+  <user>
+    <id>3332742</id>
+    <name>Mohsin</name>
+    <display_name>Mohsin Maqbool</display_name>
+
+    <location>Karachi, 05, Pakistan</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3332742-mohsin-maqbool]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1373637583p3/3332742.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1373637583p2/3332742.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 08 09:46:54 -0800 2016</created_at>
+  <updated_at>Tue Nov 08 09:46:54 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158909415</id>
+  <body><![CDATA[<i>Mohsin wrote: "Jeffrey wrote: "Mohsin wrote: "Usually, they are easily available, Jeffrey. But there are some which I am unavailable to find. For instance, I have never been able to find TransSiberian (2008) whic..."</i><br /><br />I haven't seen The Banquet, but I've seen the rest. Great films!]]></body>
+  
+  <user>
+    <id>3427339</id>
+    <name>Jeffrey</name>
+    <display_name>Jeffrey Keeten</display_name>
+
+    <location>Dodge City, KS</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3427339-jeffrey-keeten]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1301087352p3/3427339.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1301087352p2/3427339.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 08 11:24:31 -0800 2016</created_at>
+  <updated_at>Tue Nov 08 11:24:31 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158909603</id>
+  <body><![CDATA[Love the quotes you selected. I haven't read the book yet, but did see the movie, which I loved.]]></body>
+  
+  <user>
+    <id>40037604</id>
+    <name>Christine</name>
+    <display_name>Christine Zibas</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/40037604-christine-zibas]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1423938481p3/40037604.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1423938481p2/40037604.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 08 11:30:48 -0800 2016</created_at>
+  <updated_at>Tue Nov 08 11:30:48 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158909701</id>
+  <body><![CDATA[<i>Christine wrote: "Love the quotes you selected. I haven't read the book yet, but did see the movie, which I loved."</i><br /><br />Thanks Christine! The directors of the film had a lot of great material to work with for the movie.]]></body>
+  
+  <user>
+    <id>3427339</id>
+    <name>Jeffrey</name>
+    <display_name>Jeffrey Keeten</display_name>
+
+    <location>Dodge City, KS</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3427339-jeffrey-keeten]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1301087352p3/3427339.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1301087352p2/3427339.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 08 11:33:44 -0800 2016</created_at>
+  <updated_at>Tue Nov 08 11:33:44 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>158910459</id>
+  <body><![CDATA[Jeffrey: Then you must see The Banquet as it has amazing fight choreography, especially towards the beginning of the film, at a theatre where The Crown Prince is studying the arts of music and dance. You are bound to be mesmerised by the masked actors of the school. Enough said! The rest you have got to see for yourself.]]></body>
+  
+  <user>
+    <id>3332742</id>
+    <name>Mohsin</name>
+    <display_name>Mohsin Maqbool</display_name>
+
+    <location>Karachi, 05, Pakistan</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3332742-mohsin-maqbool]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1373637583p3/3332742.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1373637583p2/3332742.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 08 11:56:06 -0800 2016</created_at>
+  <updated_at>Tue Nov 08 11:56:06 -0800 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1192201125]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1192201125]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

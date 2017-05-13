@@ -1,0 +1,733 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:37:27 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: M0ZNX1QAM6AXHBX7RFE1
+etag: W/"c7b3a8e419cb7cdad48060fcee42a9ab"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.327437
+set-cookie: csid=BAhJIhg1NjUtMTUwMjY1My0zNDM3OTg1BjoGRVQ%3D--3b395de0beb6c3f72483b62e2e3c735d8747797a; path=/; expires=Tue, 12 May 2037 13:37:27 -0000, locale=es; path=/, _session_id2=bd69e58443212de913abaae0ff9b24fb; path=/; expires=Fri, 12 May 2017 19:37:27 -0000; HttpOnly
+content-length: 32880
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=50899944
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>50899944</id>
+    
+  <user>
+    <id>632247</id>
+    <name>Chrissie</name>
+    <display_name>Chrissie</display_name>
+
+    <location>Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/632247-chrissie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1321799585p3/632247.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1321799585p2/632247.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">2865</id>
+  <isbn>0452287022</isbn>
+  <isbn13>9780452287020</isbn13>
+  <text_reviews_count type="integer">5908</text_reviews_count>
+  <title>Girl with a Pearl Earring</title>
+  <title_without_series>Girl with a Pearl Earring</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1327197580m/2865.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1327197580s/2865.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2865.Girl_with_a_Pearl_Earring</link>
+  <num_pages>233</num_pages>
+  <format>Paperback</format>
+  <edition_information> Deluxe Edition</edition_information>
+  <publisher>Plume/Penguin</publisher>
+  <publication_day/>
+  <publication_year>2005</publication_year>
+  <publication_month/>
+  <average_rating>3.84</average_rating>
+  <ratings_count>479287</ratings_count>
+  <description>With precisely 35 canvases to his credit, the Dutch painter Johannes Vermeer represents one of the great enigmas of 17th-century art. The meager facts of his biography have been gleaned from a handful of legal documents. Yet Vermeer's extraordinary paintings of domestic life, with their subtle play of light and texture, have come to define the Dutch golden age. His portrait of the anonymous Girl with a Pearl Earring has exerted a particular fascination for centuries - and it is this magnetic painting that lies at the heart of Tracy Chevalier's second novel of the same title.&lt;br /&gt;&lt;i&gt;Girl with a Pearl Earring&lt;/i&gt; centers on Vermeer's prosperous Delft household during the 1660s. When Griet, the novel's quietly perceptive heroine, is hired as a servant, turmoil follows. First, the 16-year-old narrator becomes increasingly intimate with her master. Then Vermeer employs her as his assistant--and ultimately has Griet sit for him as a model.</description>
+<authors>
+<author>
+<id>1973</id>
+<name>Tracy Chevalier</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1439297099p5/1973.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1439297099p2/1973.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1973.Tracy_Chevalier]]></link>
+<average_rating>3.80</average_rating>
+<ratings_count>635156</ratings_count>
+<text_reviews_count>22574</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1222908627</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Thu Feb 04 10:36:05 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>17</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="text-checked" exclusive="false" review_shelf_id="25212879" sortable="false" />
+    <shelf name="favorites" exclusive="false" review_shelf_id="45839844" sortable="false" />
+    <shelf name="hf" exclusive="false" review_shelf_id="25212850" sortable="false" />
+    <shelf name="holland" exclusive="false" review_shelf_id="25212874" sortable="false" />
+    <shelf name="arts" exclusive="false" review_shelf_id="25212896" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sat Jan 16 00:00:00 -0800 2010</read_at>
+  <date_added>Mon Mar 30 06:11:33 -0700 2009</date_added>
+  <date_updated>Sat Dec 07 15:48:26 -0800 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Finished: Excellent writing. Each character was portrayed with depth. I kept thinking that I should quote this line or that, but this was impossible without giving spoilers. You must read the book to get into each of these characters and to submerge yourself into their lives. The book is not only...]]>
+  </body>
+
+  
+
+  <comments_count>26</comments_count>
+    <comments start="1" end="26" total="26">
+        <comment>
+  <id>12696686</id>
+  <body><![CDATA[Chrissie, this sounds fantastic.....i have to add this to my TBR-shelf (oh my god, too many books there, too many books....). I've just received "The Seamstress" you were so enthusiastic about and i hope that within the next few months i'll be able to read it - sounds really good.....]]></body>
+  
+  <user>
+    <id>2719191</id>
+    <name>Julia</name>
+    <display_name>Julia</display_name>
+
+    <location>Salzburg, 05, Austria</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2719191-julia]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1252501222p3/2719191.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1252501222p2/2719191.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 14 11:30:53 -0800 2010</created_at>
+  <updated_at>Thu Jan 14 11:30:53 -0800 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>12697283</id>
+  <body><![CDATA[The two books are very, very different but that is what is so amazing that each good book can widely vary from another. This is calm and comforting and you sink in to that life in Holland mid 1600s. VERY sensual writing. Everything happens through thoughts. I saw the movie ages ago, but it doesn't compare to this b/c you do not get into Griet's head as you do with the book. Just a few words and you feel the horror of the plague. This author writes following the rule that less is better than more - and it works perfectly. ]]></body>
+  
+  <user>
+    <id>632247</id>
+    <name>Chrissie</name>
+    <display_name>Chrissie</display_name>
+
+    <location>Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/632247-chrissie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1321799585p3/632247.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1321799585p2/632247.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 14 12:07:48 -0800 2010</created_at>
+  <updated_at>Thu Jan 14 12:07:48 -0800 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>12697563</id>
+  <body><![CDATA[I'm so glad you're enjoying this, Chrissie. Isn't it wonderful?]]></body>
+  
+  <user>
+    <id>1253478</id>
+    <name>The Book Whisperer (aka Boof)</name>
+    <display_name>The Book Whisperer (aka Boof)</display_name>
+
+    <location><![CDATA[Yorkshire, UK, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1253478-the-book-whisperer-aka-boof]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1268256340p3/1253478.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1268256340p2/1253478.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 14 12:20:26 -0800 2010</created_at>
+  <updated_at>Thu Jan 14 12:20:26 -0800 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>12697816</id>
+  <body><![CDATA[Boof, yes it is totally wonderful. This is definitely a delightful comfort read. Which Chevalier book should I pick next? I have a strong rule that I only add one book at a time by a new author. You have read many. Want to suggest one? There was that one with fossils, but I do so like reading about artists..... This is an author I must read more of!]]></body>
+  
+  <user>
+    <id>632247</id>
+    <name>Chrissie</name>
+    <display_name>Chrissie</display_name>
+
+    <location>Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/632247-chrissie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1321799585p3/632247.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1321799585p2/632247.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 14 12:32:43 -0800 2010</created_at>
+  <updated_at>Thu Jan 14 12:32:43 -0800 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>12698365</id>
+  <body><![CDATA[Oh what a tough one. The only other one she wrote about artists was <i> The Lady and the Unicorn</i> and it's the only one I haven't read.<br /><br /><i> Remarkable Creatures </i>, for me, was most similar in its gentle tone to GWaPE. You really care about the characters, and again they are real people as Griet and Vermeer were. ]]></body>
+  
+  <user>
+    <id>1253478</id>
+    <name>The Book Whisperer (aka Boof)</name>
+    <display_name>The Book Whisperer (aka Boof)</display_name>
+
+    <location><![CDATA[Yorkshire, UK, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1253478-the-book-whisperer-aka-boof]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1268256340p3/1253478.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1268256340p2/1253478.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 14 12:58:08 -0800 2010</created_at>
+  <updated_at>Thu Jan 14 12:58:08 -0800 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>12716522</id>
+  <body><![CDATA[Everything you say about RC says I should pick that, but I must check the others out too.]]></body>
+  
+  <user>
+    <id>632247</id>
+    <name>Chrissie</name>
+    <display_name>Chrissie</display_name>
+
+    <location>Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/632247-chrissie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1321799585p3/632247.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1321799585p2/632247.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 14 21:21:57 -0800 2010</created_at>
+  <updated_at>Thu Jan 14 21:21:57 -0800 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>79059868</id>
+  <body><![CDATA[LOVED this book and had forgotten to add to my books.]]></body>
+  
+  <user>
+    <id>6117535</id>
+    <name>Caddy</name>
+    <display_name>Caddy Rowland</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6117535-caddy-rowland]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1465577550p3/6117535.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1465577550p2/6117535.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 23 07:05:51 -0700 2013</created_at>
+  <updated_at>Tue Jul 23 07:05:51 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>79060601</id>
+  <body><![CDATA[A lot of time has passed since I read this. In the interim I read <a href="https://www.goodreads.com/book/show/6457081.Remarkable_Creatures_" title="Remarkable Creatures  by Tracy Chevalier" rel="nofollow">Remarkable Creatures</a>, but hated it. <a href="https://www.goodreads.com/book/show/89788.The_Lady_and_the_Unicorn" title="The Lady and the Unicorn by Tracy Chevalier" rel="nofollow">The Lady and the Unicorn</a> on the other hand was SUPERB! Another five star book. Caddy, you must read that if yo haven't.]]></body>
+  
+  <user>
+    <id>632247</id>
+    <name>Chrissie</name>
+    <display_name>Chrissie</display_name>
+
+    <location>Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/632247-chrissie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1321799585p3/632247.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1321799585p2/632247.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 23 07:17:51 -0700 2013</created_at>
+  <updated_at>Tue Jul 23 07:17:51 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>79061453</id>
+  <body><![CDATA[Chrissie, how are you friemd? If I could add my two cents, I loved Pearl Earring but wasn't as excited about the Unicorn book. But I love books with/about artist and two favorites are Susan Vreeland's book on the female artist Artemisia and her book on Renoir, Luncheon of the Boating Party. I have her book about Tiffany in my TBR.]]></body>
+  
+  <user>
+    <id>2447325</id>
+    <name>Dawn (&amp; Ron)</name>
+    <display_name>Dawn (&amp; Ron)</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2447325-dawn-ron]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1336267796p3/2447325.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1336267796p2/2447325.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 23 07:32:08 -0700 2013</created_at>
+  <updated_at>Tue Jul 23 07:32:08 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>79064173</id>
+  <body><![CDATA[Dawn, so nice to have you back on GR!!!!!<br /><br /><a href="https://www.goodreads.com/book/show/321577.Girl_in_Hyacinth_Blue" title="Girl in Hyacinth Blue by Susan Vreeland" rel="nofollow">Girl in Hyacinth Blue</a> I could only give three stars to. <a href="https://www.goodreads.com/book/show/98048.The_Passion_of_Artemisia" title="The Passion of Artemisia by Susan Vreeland" rel="nofollow">The Passion of Artemisia</a> I liked a lot and could give that one four stars. But I have never found her writing quite as good as Chevalier's best books.]]></body>
+  
+  <user>
+    <id>632247</id>
+    <name>Chrissie</name>
+    <display_name>Chrissie</display_name>
+
+    <location>Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/632247-chrissie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1321799585p3/632247.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1321799585p2/632247.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 23 08:17:59 -0700 2013</created_at>
+  <updated_at>Tue Jul 23 08:17:59 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>79072888</id>
+  <body><![CDATA[Thanks ChrissIe, we are glad to be able to come back. I am getting ready to take the dogs out so I will write more when we get back. I hope we do not get caught in a rainstorm, poor Cooper doesn't like that.]]></body>
+  
+  <user>
+    <id>2447325</id>
+    <name>Dawn (&amp; Ron)</name>
+    <display_name>Dawn (&amp; Ron)</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2447325-dawn-ron]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1336267796p3/2447325.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1336267796p2/2447325.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 23 10:31:12 -0700 2013</created_at>
+  <updated_at>Tue Jul 23 10:31:12 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>79079354</id>
+  <body><![CDATA[Have a nice walk! We just came in form ours. Here it is hot - 32°C, and it is evening. Me, I love it.]]></body>
+  
+  <user>
+    <id>632247</id>
+    <name>Chrissie</name>
+    <display_name>Chrissie</display_name>
+
+    <location>Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/632247-chrissie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1321799585p3/632247.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1321799585p2/632247.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 23 12:00:46 -0700 2013</created_at>
+  <updated_at>Tue Jul 23 12:00:46 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>79110588</id>
+  <body><![CDATA[Needless to say it took me longer to get back online and anticipated. Our walk was nice but we still ended up getting caught in the rain, at least weeding get stuck in a severe thunderstorm. <br /><br />Hot and Florida are synonymous so we know what you're dealing with. I read about the issues you're having with Oscar, both with the heat and with the crystals that have formed. For us with the heat we limit Nougat and Cooper's daytime activity meaning we take them out more often for shorter periods of time. We leave their longest outings for the early mornings or evenings. It can take 15 to 20 min. for dog's system to overheat but they won't be aware of it until it reaches a higher level, so we monitor them very carefully.<br /><br />We had a dog, her name was Kia, who had very large bladder stones. She unfortunately needed surgery to have these stones removed, after that it was mainly maintenance. Yes there are dry foods that help control the acidity and pH levels, there are also supplements that do the same thing. Currently we have a mail cat who has chronic crystals and whom we almost lost due to a severe flareup last year. In both cases increasing the wet food ratio to dry food helped. One of the main things we've learned through research and discussion with our veterinarian is to keep the urinary tract system running smoothly. So we've also added fish oil, and recently added coconut oil, into their wet food. Another thing that is helpful to add is Apple cider vinegar, you can add that directly into their drinking water, food or the old fashion down the throat way. They do not particularly like the taste of this apple cider vinegar so you have to start off in small doses. There is a website that deals with homeopathic ways to help your pets, I'll have to look that up so you can check it out.<br /><br />Back to the books. I haven't read <a href="https://www.goodreads.com/book/show/321577.Girl_in_Hyacinth_Blue" title="Girl in Hyacinth Blue by Susan Vreeland" rel="nofollow">Girl in Hyacinth Blue</a> but do have it in my TBR pile. I do agree that I like Chevalier's best works, they have stayed with me longer, but Vreeland does capture some of the creative process very well. Being an artist the scenes have to run true for me and I remember a small scene in <a href="https://www.goodreads.com/book/show/98049.Luncheon_of_the_Boating_Party" title="Luncheon of the Boating Party by Susan Vreeland" rel="nofollow">Luncheon of the Boating Party</a> where Renoir is choosing paints. The other thing I liked about Luncheon is that it also focused on the real people in the painting so it brought the painting to life in a way I never could of imagined. I actually had to print up a big color copy of the painting so that I could refer to it as I went along. <br /><br />I will call it a night now and hopefully see you here tomorrow. I have missed you bunches.]]></body>
+  
+  <user>
+    <id>2447325</id>
+    <name>Dawn (&amp; Ron)</name>
+    <display_name>Dawn (&amp; Ron)</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2447325-dawn-ron]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1336267796p3/2447325.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1336267796p2/2447325.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 23 18:53:02 -0700 2013</created_at>
+  <updated_at>Tue Jul 23 18:53:02 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>79125380</id>
+  <body><![CDATA[Dawn, SO very nice to have you back. We have changed Oscar's food, and the food change should dissolve the crystals. <br /><br />LOTBP does sound like a book I will enjoy! I will bump it up!]]></body>
+  
+  <user>
+    <id>632247</id>
+    <name>Chrissie</name>
+    <display_name>Chrissie</display_name>
+
+    <location>Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/632247-chrissie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1321799585p3/632247.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1321799585p2/632247.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 23 22:27:16 -0700 2013</created_at>
+  <updated_at>Tue Jul 23 22:27:16 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>79144954</id>
+  <body><![CDATA[I hope Oscar does well with his new food change and you're high heat. Our Nougat is having some rough hip problems, it is so hard to see her struggling to get up sometimes, and she's only 3 years old right now. We I have tried diet changes, massage, and monitoring her activity level but the problem has only marginally improved. So we will have to start looking into other options.<br /><br />I hope you like the book and you may want to print up a photograph of the painting and have it in a magnifying glass by you as you are reading or listening to it. That just made me think, this is such a visual book to me that I'm curious how it will come across in an audio version. Have you ever read the other book on Artemesia by Lapierre (sp)?]]></body>
+  
+  <user>
+    <id>2447325</id>
+    <name>Dawn (&amp; Ron)</name>
+    <display_name>Dawn (&amp; Ron)</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2447325-dawn-ron]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1336267796p3/2447325.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1336267796p2/2447325.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 24 08:33:57 -0700 2013</created_at>
+  <updated_at>Wed Jul 24 08:33:57 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>79147109</id>
+  <body><![CDATA[I have <a href="https://www.goodreads.com/book/show/179335.Artemisia" title="Artemisia by Alexandra Lapierre" rel="nofollow">Artemisia</a> on my shelves but haven't read it yet. <br /><br />Nougat is so young to have hip problems. Poor thing! I hope you find something that works. If it is not one thing it is another!]]></body>
+  
+  <user>
+    <id>632247</id>
+    <name>Chrissie</name>
+    <display_name>Chrissie</display_name>
+
+    <location>Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/632247-chrissie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1321799585p3/632247.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1321799585p2/632247.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 24 09:10:03 -0700 2013</created_at>
+  <updated_at>Wed Jul 24 09:10:03 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>117894489</id>
+  <body><![CDATA[i really enjoyed this one. wonderful review.]]></body>
+  
+  <user>
+    <id>234533</id>
+    <name>Amber</name>
+    <display_name>Amber</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/234533-amber]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1470330549p3/234533.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1470330549p2/234533.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Apr 17 15:02:00 -0700 2015</created_at>
+  <updated_at>Fri Apr 17 15:02:00 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>117910111</id>
+  <body><![CDATA[Thanks, amber! Have you tried <a href="https://www.goodreads.com/book/show/89788.The_Lady_and_the_Unicorn" title="The Lady and the Unicorn by Tracy Chevalier" rel="nofollow">The Lady and the Unicorn</a>? I don't think all her books are good, but try the Unicorn one maybe if it looks interesting to you.]]></body>
+  
+  <user>
+    <id>632247</id>
+    <name>Chrissie</name>
+    <display_name>Chrissie</display_name>
+
+    <location>Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/632247-chrissie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1321799585p3/632247.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1321799585p2/632247.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Apr 17 22:19:58 -0700 2015</created_at>
+  <updated_at>Fri Apr 17 22:19:58 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>117929712</id>
+  <body><![CDATA[i already added that one to my list yesterday. i liked Chevalier's writing style and am curious about her other books now.]]></body>
+  
+  <user>
+    <id>234533</id>
+    <name>Amber</name>
+    <display_name>Amber</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/234533-amber]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1470330549p3/234533.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1470330549p2/234533.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Apr 18 10:52:12 -0700 2015</created_at>
+  <updated_at>Sat Apr 18 10:52:12 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>117932902</id>
+  <body><![CDATA[good luck.]]></body>
+  
+  <user>
+    <id>632247</id>
+    <name>Chrissie</name>
+    <display_name>Chrissie</display_name>
+
+    <location>Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/632247-chrissie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1321799585p3/632247.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1321799585p2/632247.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Apr 18 12:02:07 -0700 2015</created_at>
+  <updated_at>Sat Apr 18 12:02:07 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>143307861</id>
+  <body><![CDATA[Chrissie, I finished this one recently and I liked it quite a lot. As you said, the writing was simple and calm, yet there was a great passion and intimacy permeated in this story. It was very intense. I have a soft spot for artists and their models. This idea has always felt very romantic to me. And not necessarily only when the artist has a love relationship with his model. Even if he doesn't know her and won't ever meet her again, it still feels like a very sensual and exciting experience and I think the author has done a marvelous job at recreating these emotions. And I just <i>need</i> to point out that this is my favourite review of yours. Very well done. :) Oh, and I was so touched when in the end I found out how he has wanted the painting back and has left her the earrings.]]></body>
+  
+  <user>
+    <id>30910845</id>
+    <name>Vessey</name>
+    <display_name>Vessey</display_name>
+
+    <location>Bulgaria</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/30910845-vessey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493731649p3/30910845.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493731649p2/30910845.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 24 10:16:24 -0800 2015</created_at>
+  <updated_at>Tue Nov 24 10:16:24 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>143308744</id>
+  <body><![CDATA[What I liked best was the sensual feel of the book.<br /><br />Thanks for telling me you liked my review so much. It puts a smile on my face. I guess it is not a total wast of time for me to reveal how I am thinking; others feel the same.]]></body>
+  
+  <user>
+    <id>632247</id>
+    <name>Chrissie</name>
+    <display_name>Chrissie</display_name>
+
+    <location>Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/632247-chrissie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1321799585p3/632247.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1321799585p2/632247.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 24 10:38:06 -0800 2015</created_at>
+  <updated_at>Tue Nov 24 10:38:06 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>143310507</id>
+  <body><![CDATA[<i>Chrissie wrote: "What I liked best was the sensual feel of the book.<br /><br />Thanks for telling me you liked my review so much. It puts a smile on my face. I guess it is not a total wast of time for me to reveal how I am ..."</i><br /><br />Of course that it isn't waste of time. I am always happy to read your review. :) Can you recommend some similar book?]]></body>
+  
+  <user>
+    <id>30910845</id>
+    <name>Vessey</name>
+    <display_name>Vessey</display_name>
+
+    <location>Bulgaria</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/30910845-vessey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493731649p3/30910845.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493731649p2/30910845.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 24 11:20:20 -0800 2015</created_at>
+  <updated_at>Tue Nov 24 11:20:20 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>143312888</id>
+  <body><![CDATA[Actually, no, nothing comes to mind. No too books are the same, and I hate it when people describe one book by another. That is so unfair. I have a whole shelf with art books. Do you want to get inside the head of an artist? Do you like Schiele's art? Maybe check out <a href="https://www.goodreads.com/book/show/155147.Arrogance" title="Arrogance by Joanna Scott" rel="nofollow">Arrogance</a>.]]></body>
+  
+  <user>
+    <id>632247</id>
+    <name>Chrissie</name>
+    <display_name>Chrissie</display_name>
+
+    <location>Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/632247-chrissie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1321799585p3/632247.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1321799585p2/632247.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 24 12:20:27 -0800 2015</created_at>
+  <updated_at>Tue Nov 24 12:20:27 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>143313670</id>
+  <body><![CDATA[<i>Chrissie wrote: "Actually, no, nothing comes to mind. No too books are the same, and I hate it when people describe one book by another. That is so unfair. I have a whole shelf with art books. Do you want to get in..."</i><br /><br />I agree. Every book is unique in its own way. Thank you, Chrissie. I shall check out your shelves again. :)]]></body>
+  
+  <user>
+    <id>30910845</id>
+    <name>Vessey</name>
+    <display_name>Vessey</display_name>
+
+    <location>Bulgaria</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/30910845-vessey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1493731649p3/30910845.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1493731649p2/30910845.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 24 12:38:54 -0800 2015</created_at>
+  <updated_at>Tue Nov 24 12:38:54 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>143320859</id>
+  <body><![CDATA[]]></body>
+  
+  <user>
+    <id>49374361</id>
+    <name>xaviel</name>
+    <display_name>xaviel</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/49374361-xaviel]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 24 15:50:30 -0800 2015</created_at>
+  <updated_at>Tue Nov 24 15:50:30 -0800 2015</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/50899944]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/50899944]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

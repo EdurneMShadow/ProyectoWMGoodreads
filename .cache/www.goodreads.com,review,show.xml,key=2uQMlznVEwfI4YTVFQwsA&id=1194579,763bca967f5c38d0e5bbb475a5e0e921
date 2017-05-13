@@ -1,0 +1,893 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:49:41 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: SNJDXPN0B08V1Z5XXDDV
+etag: W/"c863d166c4d98cf79c39f88d7f08d569"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.276057
+set-cookie: csid=BAhJIhg5MDEtMDI4ODY2MC01MDU3NDI3BjoGRVQ%3D--5fc4917e0ab1f5cd8483812a0ac2391523656673; path=/; expires=Tue, 12 May 2037 13:49:40 -0000, locale=es; path=/, _session_id2=923f8497dd9ce88d8eb4f4b1bd258dfb; path=/; expires=Fri, 12 May 2017 19:49:41 -0000; HttpOnly
+content-length: 50233
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=1194579
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1194579</id>
+    
+  <user>
+    <id>84023</id>
+    <name>J.G. Keely</name>
+    <display_name>J.G. Keely</display_name>
+
+    <location>Albany, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/84023-j-g-keely]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1274333636p3/84023.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1274333636p2/84023.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">85266</id>
+  <isbn>0385504209</isbn>
+  <isbn13>9780385504201</isbn13>
+  <text_reviews_count type="integer">1498</text_reviews_count>
+  <title>The Da Vinci Code (Robert Langdon, #2)</title>
+  <title_without_series>The Da Vinci Code</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/85266.The_Da_Vinci_Code</link>
+  <num_pages>454</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Doubleday &amp; Company</publisher>
+  <publication_day>18</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.78</average_rating>
+  <ratings_count>1531664</ratings_count>
+  <description>While in Paris on business, Harvard symbologist Robert Langdon receives an urgent late-night phone call. The elderly curator of the Louvre has been murdered inside the museum, a baffling cipher found near the body. As Langdon and a gifted French cryptologist, Sophie Neveu, sort through the bizarre riddles, they are stunned to discover a trail of clues hidden in the works of Da Vinci—clues visible for all to see and yet ingeniously disguised by the painter.&lt;p&gt;The stakes are raised when Langdon uncovers a startling link: The late curator was involved in the Priory of Sion—an actual secret society whose members included Sir Isaac Newton, Botticelli, Victor Hugo, and Da Vinci, among others. Langdon suspects they are on the hunt for a breathtaking historical secret, one that has proven through the centuries to be as enlightening as it is dangerous. In a frantic race through Paris, and beyond, Langdon and Neveu find themselves matching wits with a faceless powerbroker who appears to anticipate their every move. Unless they can decipher the labyrinthine puzzle, the Priory’s secret—and an explosive ancient truth—will be lost forever.&lt;/p&gt;&lt;p&gt;&lt;i&gt;This book has Alternate Cover Editions for this ISBN [ACE]&lt;/i&gt;&lt;br /&gt;&lt;b&gt;&lt;a href="https://www.goodreads.com/book/show/24341336" rel="nofollow"&gt;ACE #1&lt;/a&gt;&lt;/b&gt; (Gold lettering, textured cover)&lt;/p&gt;</description>
+<authors>
+<author>
+<id>630</id>
+<name>Dan Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p5/630.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p2/630.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/630.Dan_Brown]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>5211301</ratings_count>
+<text_reviews_count>138647</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1226845823</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Feb 07 05:48:21 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>165</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="contemporary-fiction" exclusive="false" review_shelf_id="415755" sortable="false" />
+    <shelf name="novel" exclusive="false" review_shelf_id="6291066" sortable="false" />
+    <shelf name="america" exclusive="false" review_shelf_id="69422531" sortable="false" />
+    <shelf name="reviewed" exclusive="false" review_shelf_id="29878372" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Jan 01 00:00:00 -0800 2004</read_at>
+  <date_added>Sun May 13 19:28:42 -0700 2007</date_added>
+  <date_updated>Thu Jun 05 01:15:12 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[A thriller devoid of pacing or exciting language. A mystery devoid of clues, foreshadowing, or facts. A tell-all of half-truths based upon a forged document written by a schizophrenic conman. A character-driven modern novel devoid of character. The second draft of Angels and Demons. Page-turning...]]>
+  </body>
+
+  
+
+  <comments_count>33</comments_count>
+    <comments start="1" end="33" total="33">
+        <comment>
+  <id>319908</id>
+  <body><![CDATA[Funny review.<br /><br />I had been meaning to read this in order to be culturally relevant, but I decided not to force myself. ]]></body>
+  
+  <user>
+    <id>710201</id>
+    <name>Skylar</name>
+    <display_name>Skylar Burris</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/710201-skylar-burris]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1449959508p3/710201.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1449959508p2/710201.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 10 11:57:02 -0800 2008</created_at>
+  <updated_at>Thu Jan 10 11:57:02 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>11527277</id>
+  <body><![CDATA[HILARIOUS!!<br /><br />5 STARS!!!]]></body>
+  
+  <user>
+    <id>2981774</id>
+    <name>ANONYMOUS!</name>
+    <display_name>ANONYMOUS!</display_name>
+
+    <location><![CDATA[Melbourne, Victoria, Australia]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2981774-anonymous]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Dec 07 05:23:06 -0800 2009</created_at>
+  <updated_at>Mon Dec 07 05:23:06 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>34271462</id>
+  <body><![CDATA[Haha! Loved it..]]></body>
+  
+  <user>
+    <id>5746333</id>
+    <name>Javed</name>
+    <display_name>Javed Hayat</display_name>
+
+    <location>Karachi, 04, Pakistan</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5746333-javed-hayat]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1429610176p3/5746333.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1429610176p2/5746333.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 27 23:43:54 -0700 2011</created_at>
+  <updated_at>Wed Jul 27 23:43:54 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>34281875</id>
+  <body><![CDATA[Heh, thanks.]]></body>
+  
+  <user>
+    <id>84023</id>
+    <name>J.G. Keely</name>
+    <display_name>J.G. Keely</display_name>
+
+    <location>Albany, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/84023-j-g-keely]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1274333636p3/84023.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1274333636p2/84023.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 28 08:05:36 -0700 2011</created_at>
+  <updated_at>Thu Jul 28 08:05:36 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>34291111</id>
+  <body><![CDATA[I mostly agree with you. Even at the time of initial reading, I was very much aware that I was reading – er, how do I put it – a "fluff" of a novel. It wasn’t technically well-written, nor did it have very engaging characters, and it’s “twists” were rather juvenile and disappointing. But having said that, I will freely admit that I had a decent time going through its pages. It did hold my interest from the first page to the last one, mostly because of (how you put it) “the literary equivalent of pulling out at the moment of orgasm”. I also liked the historical background, and even though most of it was actually historically inaccurate, it did spark my interest in various issues that I was mostly unaware of in the past.]]></body>
+  
+  <user>
+    <id>5818997</id>
+    <name>Ahmed</name>
+    <display_name>Ahmed Labib</display_name>
+
+    <location>Dhaka, 1207, Bangladesh</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5818997-ahmed-labib]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1465853250p3/5818997.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1465853250p2/5818997.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 28 11:40:16 -0700 2011</created_at>
+  <updated_at>Thu Jul 28 11:40:16 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>46992557</id>
+  <body><![CDATA["there was no bibliography"<br /><br />The book is FICTION.]]></body>
+  
+  <user>
+    <id>7924170</id>
+    <name>Tatiana</name>
+    <display_name>Tatiana</display_name>
+
+    <location>France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7924170-tatiana]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1393981685p3/7924170.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1393981685p2/7924170.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 14 20:19:25 -0700 2012</created_at>
+  <updated_at>Wed Mar 14 20:19:25 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47001942</id>
+  <body><![CDATA[The book starts off with Brown saying:<br /><br />"The Priory of Sion — a European secret society founded in 1099 — is a real organization . . . all descriptions of artwork, architecture, documents ... and secret rituals in this novel are accurate"<br /><br />Which indicates he wasn't just thinking of this book as fiction. Beyond that, a good fiction author ends up spending as many hours researching their book as they do writing it. Just because something is fictional does not mean it must be inaccurate and misleading.]]></body>
+  
+  <user>
+    <id>84023</id>
+    <name>J.G. Keely</name>
+    <display_name>J.G. Keely</display_name>
+
+    <location>Albany, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/84023-j-g-keely]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1274333636p3/84023.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1274333636p2/84023.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Mar 15 02:40:06 -0700 2012</created_at>
+  <updated_at>Thu Mar 15 02:40:06 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47023589</id>
+  <body><![CDATA[Brwown spent a year researching, a year writing, and I wasn't surprised at all to learn that, since it's obvious the book asked for many research concerning descriptions of places, paintings, plus many other things. <br /><br />Also, Brown begins by stating 3 "facts". The first one is a mistake on his part. The Priory of Sion never existed, the documents, once thought real though, were actually forged (by Plantard as you mentioned it). But, I must say that before the DVC, not that many people talked about this, and I can forgive him his mistake. The sources about it can be very misleading.<br /><br />The second fact is that the Opus Dei exists, that it's a Vatican prelature and has a headquarter in NY (again, if I remember correctly, it could be some place else). That fact is correct.<br /><br />The third fact is that the descriptions of places, artworks, etc. are accurate, which is exact also.<br /><br />The book is obviously fiction, he never pretended otherwise, but with some real elements, that he shaped into something else (his plot).<br />Just like when you read the Deverry saga (Katharine Kerr) or The Deryni saga (Katherine Kurtz), it's obviously fantasy, but with many historical elements reinvented in it.<br /><br />It seems many people dislike when an author does that, they say it's misleading. Just like you said it, and I know other people who say the same, but not especially concerning the DVC, concerning many different books that include historical elements. They see the elements as distorted, when I, and I'm not the only one, see a clever reinvention of facts to serve a fiction plot.<br /><br />"He wrote this book and pretended it was a history book."<br />Where did he pretend such? Not in the book anyway. Because he presented certain elements as facts in the beginning in NO way means he claimed it as non-fiction. <br /><br />You end your review with "I've already done more legitimate historical research on this review than Brown did in his whole book".<br />I find these types of comment particularly arrogant. For my part, I can see in the book all the research it demanded, on many details. To say you did as much research for your review is ridiculous, and I keep wondering what rubs people so wrong to write stuff like that. <br />It sounds like every hater of this book could have written better in no time...]]></body>
+  
+  <user>
+    <id>7924170</id>
+    <name>Tatiana</name>
+    <display_name>Tatiana</display_name>
+
+    <location>France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7924170-tatiana]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1393981685p3/7924170.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1393981685p2/7924170.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Mar 15 12:55:51 -0700 2012</created_at>
+  <updated_at>Thu Mar 15 12:55:51 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47060250</id>
+  <body><![CDATA[<i>"Brwown spent a year researching, a year writing, and I wasn't surprised at all to learn that, since it's obvious the book asked for many research concerning descriptions of places, paintings, plus many other things."</i><br /><br />Then he should have put in a bibliography.<br /><br /><i>"I must say that before the DVC, not that many people talked about this, and I can forgive him his mistake."</i><br /><br />If Brown researched for a year on the subject without discovering it was a hoax, that seems like a major failure of his research faculties, especially since a similar earlier book that dealt with the priory, <i>Holy Blood and the Holy Grail</i> had been publically discredited by scholars as early as the seventies.<br /><br /><i>"The third fact is that the descriptions of places, artworks, etc. are accurate, which is exact also."</i><br /><br />Actually, as Brown is not an art historian or architectural historian, many of his facts about art and particularly symbolic analysis are highly inaccurate and do not correspond to any modern or historical interpretations.<br /><br /><i>"The book is obviously fiction, he never pretended otherwise, but with some real elements . . "</i><br /><br />I have no problem with an author using realistic elements when they do it correctly. An author who claims that their work is correct and then writes a book full of errors is another matter. It's like a fake autobiography or tell-all book: it makes people less informed and it spreads unsubstantiated claims.<br /><br /><i>"Where did he pretend [that it was a history book]"</i><br /><br />When he claimed in the beginning that the facts he was presenting were true.<br /><br /><i>"To say you did as much research for your review is ridiculous"</i><br /><br />I didn't say I had done more research, just more legitimate research.<br /><br /><i>"I keep wondering what rubs people so wrong to write stuff like that."</i><br /><br />You wonder what rubs people wrong about a book which is full of misinformation presented as fact? I would have thought that would be pretty clear.]]></body>
+  
+  <user>
+    <id>84023</id>
+    <name>J.G. Keely</name>
+    <display_name>J.G. Keely</display_name>
+
+    <location>Albany, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/84023-j-g-keely]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1274333636p3/84023.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1274333636p2/84023.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 16 02:29:53 -0700 2012</created_at>
+  <updated_at>Fri Mar 16 02:29:53 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47092495</id>
+  <body><![CDATA[<i>"Then he should have put in a bibliography."</i><br /><br />... Generally, fiction books don't include bibliographies. I've read fiction books about the celtic culture or about the middle ages or about other historical periods, and the authors read a lot and researched the subject, but they didn't include a bibliography either.<br /><br />Fiction books are not supposed to have bibliographies even when there were research to write them. <br /><br /><i>"If Brown researched for a year on the subject without discovering it was a hoax, that seems like a major failure"</i><br /><br />I agree that's a pity. But everyone can do mistakes, and he didn't spend a year just researching the Priory, but many other things.<br /><br /><i>"many of his facts about art and particularly symbolic analysis are highly inaccurate and do not correspond to any modern or historical interpretations."</i><br /><br />?? He said that his <b>descriptions</b> were facts. He never said his analysis or interpretations were, for anyway they completely belong to his plot, which is fiction.<br /><br /><i>"When he claimed in the beginning that the facts he was presenting were true."</i><br /><br />Oh my, you really have an understanding problem O_o<br />He said there were THREE facts, he didn't say the whole book was fact. <br />The 3 facts being the existence of a Priory of Sion (which is a mistake as we already said) - note that he didn't say the Priory did the same stuff as in the book, just that it existed; the existence of a Vatican prelature named Opus Dei - and he didn't write either that they really have crazy assassin monks among them; finally the accuracy of the descriptions (not the interpretations) of artworks and places.<br /><br />Maybe Dan Brown said elsewhere he thought his book was history? I don't know. But you are incredibly ridiculous when you say "he claimed the facts are true in the beginning".<br />He did no such thing. He claimed there were 3 facts.]]></body>
+  
+  <user>
+    <id>7924170</id>
+    <name>Tatiana</name>
+    <display_name>Tatiana</display_name>
+
+    <location>France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7924170-tatiana]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1393981685p3/7924170.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1393981685p2/7924170.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 16 15:48:20 -0700 2012</created_at>
+  <updated_at>Fri Mar 16 15:48:20 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47307739</id>
+  <body><![CDATA[<i>"Fiction books are not supposed to have bibliographies even when there were research to write them."</i><br /><br />Most fiction books also don't start with a claim of the accuracy of their details and claims. I have also read a number of fiction books which provided bibliographies for the factual items the author presents.<br /><br /><i>"He claimed there were 3 facts."</i><br /><br />These 'three facts' were rather broad claims, and none of them have actually turned out to be true. The Priory of Sion was a hoax, Opus Dei is not a 'sect' as Brown claims, as it is a primarily lay organization and has no monks as depicted in the book, and as for the last fact, his descriptions are simply not factual. For a few examples:<br /><br />He claims that more than eighty gospels were considered for inclusion in the New Testament, when there is evidence for no more than two dozen. He claims the divinity of Christ was not established until the time of Constantine, when earlier texts already refer to belief in divinity. Brown also claims that the Dead Sea Scrolls give evidence of gospels which were suppressed by Constantine, when they are actually all Old Testament documents and contain nothing about the life of Christ.<br /><br />His claim about the 'three facts' is clearly meant to lend credulity to his story, to convince us that even if he is writing fiction, he is writing about real ideas. This is simply not true.<br /><br />In addition, it is difficult to mark precisely where his claim of fact ends and his fiction is supposed to begin. Is the inclusion of an 'Opus Dei monk' supposed to be a factual representation of the organization, or a fiction? Why did he make the claim about the 'three facts' in the first place if most of his descriptions are errors shading into pure fiction?]]></body>
+  
+  <user>
+    <id>84023</id>
+    <name>J.G. Keely</name>
+    <display_name>J.G. Keely</display_name>
+
+    <location>Albany, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/84023-j-g-keely]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1274333636p3/84023.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1274333636p2/84023.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 20 08:41:04 -0700 2012</created_at>
+  <updated_at>Tue Mar 20 08:41:04 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47340817</id>
+  <body><![CDATA[<i>"Why did he make the claim about the 'three facts' in the first place if most of his descriptions are errors shading into pure fiction?"</i><br /><br />Well, I believe there's obviously a commercial purpose: this page "Facts" contributes to a controversy, since as you say there is no exact line given to separate facts from fiction. <br /><br />But I also think Brown was actually misled and believed the Priory existed, since I know many sources can be misleading. I don't think he knew it was fake when he wrote his book.<br /><br />Concerning the Opus Dei, I don't think he ever thought they had assassins... This is obviously part of the thriller plot and anyone in their right mind would also come to that conclusion. But the corporal mortifications are real and recognized by the organization. One of the 2 main meanings of a "sect" being an organization with different rules/beliefs than the larger picture to which it belongs, it's not <i>that</i> wrong to call the Opus Dei as such.<br /><br />I also want to add that despite the page "facts", the DVC is still published in fiction. <br />I guess this is why I don't have a problem with the half-truths, as you put it, of Brown's novel. I've already seen non fiction books containing crazier ideas... The DVC at least remains part of fiction.]]></body>
+  
+  <user>
+    <id>7924170</id>
+    <name>Tatiana</name>
+    <display_name>Tatiana</display_name>
+
+    <location>France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7924170-tatiana]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1393981685p3/7924170.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1393981685p2/7924170.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 20 18:00:34 -0700 2012</created_at>
+  <updated_at>Tue Mar 20 18:00:34 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>47367549</id>
+  <body><![CDATA[<i>"I also think Brown was actually misled and believed the Priory existed, since I know many sources can be misleading. I don't think he knew it was fake when he wrote his book."</i><br /><br />It certainly could be true--but that just means that Brown is bad at research and overly confident. He naively made a claim he couldn't deliver on, and whether he did it because he was ignorant or because he was deliberately trying to mislead people to create controversy, both are signs of a bad author.<br /><br /><i>". . . a "sect" being an organization with different rules/beliefs than the larger picture to which it belongs, it's not that wrong to call the Opus Dei as such."</i><br /><br />From what I've read, Opus Dei is pretty well in-line with the standard Catholic teachings--it is a central group of a church, not a group which has broken off or which entertains controversial beliefs.<br /><br /><i>"I also want to add that despite the page "facts", the DVC is still published in fiction."</i><br /><br />It's true, but even without a claim of 'representing true facts', a work of fiction can still be criticized for being unrealistic. Authors try to create 'verisimilitude' which helps the audience to suspend their disbelief and get lost in the story. If they write things that don't make sense, it makes the story worse.<br /><br />If we read a story which is realistic (not fantasy) and a character survives a direct nuclear blast by using an umbrella, that is going to seem silly and won't make sense in the story. If an author claims the Catholic church was started by Martin Luther, that will make the story nonsensical.<br /><br />The problem with these sorts of errors is that the author chooses what they want to put into a book. They choose the level of detail that they include. If they try to put in realistic details but fail, then that is bad writing. A good author knows their limits. The claim about 'facts' just makes it worse, because it shows that despite his attempts to research and use details, Brown still wrote a book that was fundamentally inaccurate.]]></body>
+  
+  <user>
+    <id>84023</id>
+    <name>J.G. Keely</name>
+    <display_name>J.G. Keely</display_name>
+
+    <location>Albany, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/84023-j-g-keely]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1274333636p3/84023.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1274333636p2/84023.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Mar 21 08:31:28 -0700 2012</created_at>
+  <updated_at>Wed Mar 21 08:31:28 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>61765131</id>
+  <body><![CDATA[<i>Keely wrote: "The book starts off with Brown saying:<br /><br />"The Priory of Sion — a European secret society founded in 1099 — is a real organization . . . all descriptions of artwork, architecture, documents ... and s..."</i><br /><br />Based on the books he read for his research, all of them support that this fraud is a real organization founded in 1099. As for the rest, he only says that the descriptions of things are accurate--not that the book is non-fiction.]]></body>
+  
+  <user>
+    <id>1591694</id>
+    <name>Jonathan</name>
+    <display_name>Jonathan</display_name>
+
+    <location>Indianapolis, IN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1591694-jonathan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1461529730p3/1591694.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1461529730p2/1591694.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Nov 15 04:40:34 -0800 2012</created_at>
+  <updated_at>Thu Nov 15 04:40:34 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>61765323</id>
+  <body><![CDATA[<i>Keely wrote: ""Brwown spent a year researching, a year writing, and I wasn't surprised at all to learn that, since it's obvious the book asked for many research concerning descriptions of places, paintings, plus..."</i> Herman Wouk spent 20 years researching Winds of War/War and Remembrance. Should he have included a bibliography? I say no because much that we know about The Shoah has changed. For instance, in Remembrance, it says that 1 million people were killed in a single day at Auschwitz-Birkenau. We now know the most killed in a single day was closer to 40k, with the total being 1.1 million. But in the 1950s and 1960s, when Wouk was doing his research, all of the material said it the total killed in Birkenau was closer to 4 million. <br /><br />Also, Wouk read close to 400 books for those two books. Aside from Crichton, I cannot think of a single writer fiction writer who includes a bibliography for their research. Most fiction readers don't care.]]></body>
+  
+  <user>
+    <id>1591694</id>
+    <name>Jonathan</name>
+    <display_name>Jonathan</display_name>
+
+    <location>Indianapolis, IN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1591694-jonathan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1461529730p3/1591694.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1461529730p2/1591694.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Nov 15 04:47:52 -0800 2012</created_at>
+  <updated_at>Thu Nov 15 04:47:52 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>61766519</id>
+  <body><![CDATA[Yes, most fiction readers don't care, which is why authors can get away with passing off fraud as truth. I'm sure the majority of listeners of talk radio pundits also don't care about accuracy or sources, but ignoring those is still bad journalism.<br /><br />Any time someone claims they are being accurate to facts and to truth, they should provide sources, no matter where those books happen to be shelved in the bookstore. I'm not saying a writer can't make a piece of fiction full of ridiculous conspiracies--I enjoyed the Illuminatus! trilogy well enough, after all--I'm just saying that when an author starts to claim the accuracy of their facts, they have started to play very freely with the definition of 'fiction'.<br /><br />And yeah, why shouldn't Wouk have included a bibliography to show where he got his information from? Why would it make a difference that our understanding of the subject has changed since he wrote it? Are you suggesting we should just not bother using sources because someday, we might have a different perspective? That seems rather backwards, to me.<br /><br />And it is true that most fiction authors don't use bibliographies, but that's because most fiction doesn't require it. You don't have to provide textual support for a story you made up, because you made it up. Boo Radley and Scout aren't real people, so there are no facts to check about whether the author accurately represented them.]]></body>
+  
+  <user>
+    <id>84023</id>
+    <name>J.G. Keely</name>
+    <display_name>J.G. Keely</display_name>
+
+    <location>Albany, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/84023-j-g-keely]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1274333636p3/84023.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1274333636p2/84023.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Nov 15 05:27:57 -0800 2012</created_at>
+  <updated_at>Thu Nov 15 05:27:57 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>61782303</id>
+  <body><![CDATA[If readers wished to know about Brown's research, he even includes some of the titles in the text. Or if they want a more in-depth list, and they have internet access, they can go here: <a target="_blank" href="http://www.danbrown.com/html/novels/davinci_code/bibliography.html" rel="nofollow">http://www.danbrown.com/html/novels/d...</a><br /><br />As for why Wouk didn't, between Winds and Remembrance, the story is nearly 3,000 pages. Throw on another 30-60 pages for the bibliography and it's unnecessary padding. The story is characters and what they went through not his research. Crichton used bibliographies, and many times (such as with Eaters of the Dead, Congo, and The Andromeda Strain) he used a mix of real and fictional references.<br /><br />I wouldn't suggest to anyone not to use sources. In fact, I'm currently in the middle of writing a novel that has taken me 11 years to research. I don't plan on including a bibliography because those interested in the subject will, no doubt, find the resources themselves--or some similar to what I read. However, I have everything documented so that I can easily reference something should I need to.]]></body>
+  
+  <user>
+    <id>1591694</id>
+    <name>Jonathan</name>
+    <display_name>Jonathan</display_name>
+
+    <location>Indianapolis, IN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1591694-jonathan]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1461529730p3/1591694.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1461529730p2/1591694.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Nov 15 12:02:07 -0800 2012</created_at>
+  <updated_at>Thu Nov 15 12:02:07 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>67031386</id>
+  <body><![CDATA[I agree with your review....I had to force myself to finish this book thinking that maybe the ending would make it worth the read. WRONG! I sure don't know what all the hoopla was with this book but I thought it was down right boring and hate that I wasted the time to read it.]]></body>
+  
+  <user>
+    <id>1097293</id>
+    <name>Barbara</name>
+    <display_name>Barbara</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1097293-barbara]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1347053570p3/1097293.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1347053570p2/1097293.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 03 12:05:48 -0800 2013</created_at>
+  <updated_at>Sun Feb 03 12:05:48 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>67892039</id>
+  <body><![CDATA[Eh, bestsellers are usually pretty boring: if you write an interesting book, it's going to alienate too many readers and never become a bestseller.]]></body>
+  
+  <user>
+    <id>84023</id>
+    <name>J.G. Keely</name>
+    <display_name>J.G. Keely</display_name>
+
+    <location>Albany, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/84023-j-g-keely]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1274333636p3/84023.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1274333636p2/84023.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 15 12:47:15 -0800 2013</created_at>
+  <updated_at>Fri Feb 15 12:47:15 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>71570933</id>
+  <body><![CDATA[It's,called fiction for a reason. I knew a lot of things in the book were made up or twisted into the plot. I just enjoyed the book for what it was.]]></body>
+  
+  <user>
+    <id>19116799</id>
+    <name>Jane</name>
+    <display_name>Jane Donnelly</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/19116799-jane-donnelly]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Apr 07 15:09:43 -0700 2013</created_at>
+  <updated_at>Sun Apr 07 15:09:43 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>75724123</id>
+  <body><![CDATA["Page-turning action thanks to the literary equivalent of pulling out at the moment of orgasm."<br /><br />BOOM goes the dynamite!]]></body>
+  
+  <user>
+    <id>2277971</id>
+    <name>Bobby</name>
+    <display_name>Bobby Bermea</display_name>
+
+    <location>Portland, OR</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2277971-bobby-bermea]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1364583212p3/2277971.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1364583212p2/2277971.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 06 21:26:45 -0700 2013</created_at>
+  <updated_at>Thu Jun 06 21:26:45 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>75724156</id>
+  <body><![CDATA[<i>Skylar wrote: "Funny review.<br /><br />I had been meaning to read this in order to be culturally relevant, but I decided not to force myself. "</i><br /><br />That was the exact mistake I made and man, it still burns me.]]></body>
+  
+  <user>
+    <id>2277971</id>
+    <name>Bobby</name>
+    <display_name>Bobby Bermea</display_name>
+
+    <location>Portland, OR</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2277971-bobby-bermea]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1364583212p3/2277971.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1364583212p2/2277971.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 06 21:27:24 -0700 2013</created_at>
+  <updated_at>Thu Jun 06 21:27:24 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>75758714</id>
+  <body><![CDATA[Yeah, I've learned my lesson with stuff like this and Harry Potter--turns out hype doesn't mean much.]]></body>
+  
+  <user>
+    <id>84023</id>
+    <name>J.G. Keely</name>
+    <display_name>J.G. Keely</display_name>
+
+    <location>Albany, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/84023-j-g-keely]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1274333636p3/84023.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1274333636p2/84023.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 07 11:59:10 -0700 2013</created_at>
+  <updated_at>Fri Jun 07 11:59:10 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>75767243</id>
+  <body><![CDATA[Harry Potter is another one! For me anyway. Not even that I thought the book was so terrible but I found it completely derivative of other books that were much better.]]></body>
+  
+  <user>
+    <id>2277971</id>
+    <name>Bobby</name>
+    <display_name>Bobby Bermea</display_name>
+
+    <location>Portland, OR</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2277971-bobby-bermea]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1364583212p3/2277971.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1364583212p2/2277971.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 07 14:13:59 -0700 2013</created_at>
+  <updated_at>Fri Jun 07 14:13:59 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>75768170</id>
+  <body><![CDATA[Yeah, it was certainly not as bad as many bestsellers, but nothing remarkable.]]></body>
+  
+  <user>
+    <id>84023</id>
+    <name>J.G. Keely</name>
+    <display_name>J.G. Keely</display_name>
+
+    <location>Albany, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/84023-j-g-keely]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1274333636p3/84023.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1274333636p2/84023.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 07 14:28:03 -0700 2013</created_at>
+  <updated_at>Fri Jun 07 14:28:03 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>80178841</id>
+  <body><![CDATA[Spot on. With the amount of lectures given masquerading as dialogue, a bibliography would have made sense.<br /><br />As a side note, your profile picture lends to a hilarious accent in my head as I read your comments.]]></body>
+  
+  <user>
+    <id>789148</id>
+    <name>Andy</name>
+    <display_name>Andy</display_name>
+
+    <location>Ogden, UT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/789148-andy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1380313275p3/789148.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1380313275p2/789148.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Aug 06 23:33:16 -0700 2013</created_at>
+  <updated_at>Tue Aug 06 23:33:16 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>80212944</id>
+  <body><![CDATA[Haha, splendid. Hilarious accents are always appropriate in book discussions.]]></body>
+  
+  <user>
+    <id>84023</id>
+    <name>J.G. Keely</name>
+    <display_name>J.G. Keely</display_name>
+
+    <location>Albany, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/84023-j-g-keely]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1274333636p3/84023.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1274333636p2/84023.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 07 12:20:19 -0700 2013</created_at>
+  <updated_at>Wed Aug 07 12:20:19 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>95022779</id>
+  <body><![CDATA[The truth, Keely, is that you're more experienced than the average reader. To borrow an analogy of yours that I quite like: when you've been exposed to certain flavours enough times, you get tired of those flavours, as much as you might have liked them to begin with. Then when another cook comes along and everyone claims that their work tastes divine, you know better than to take their word straight off, since you can tell real vanilla and chocolate from the artificial stuff. The average person might not be able to, or want to be able to.<br /><br />Dan Brown's work was probably the first example, for me, of an overused flavour tasting artificial despite the hype generated by others around me. Langdon is pretty 2D, and he often feels Mary-Sue-ish*. The plot of The Da Vinci Code mirrors too much of Angels and Demons - as well as every other Langdon book by Brown - from the pacing, to the characters, down to the very plot structures. As an example:<br />- Langdon is introduced as an intellectual much admired by everyone, students and exotic women alike, and doesn't carry any major character flaws (claustrophobia dosen't count)<br />- There is an exotic woman, and she will be well-figured and involved intimately with what the evildoers want, somehow (antimatter, bloodline of Christ, etc.). Also, she will only figure prominently in the book she appears in, and disappear for some reason or another in the sequels.<br />- The evildoers operate primarily through one man, who is invariably endowed with superhuman endurance, a strange name and a "stranger appearance" (albinos, bodies covered in tattoos, and, of course, a person of Middle Eastern descent)<br />- Secret societies who apparently leave signs of their existence everywhere, so long as one with the "right training and mind" could see it. Which are none of Langdon's students, if I remember right. You can't walk to the corner store without bypassing half a dozen secret societies, apparently, especially not in Italy.<br /><br />I could go on, but it would be a waste of time. I think I got my point across. Brown has found his formula, and that is what he is comfortable working within. He does not experiment. He does not go outside of his comfort zone. I, for one, can't read any more of his books. I'm not zombified enough for that, thanks. Your review has basically taken the words out of my mouth, but made eloquent. It was a pleasure to read.<br /><br />*Brown actually admits to purposely making Langdon this, according to Wikipedia: <a target="_blank" href="http://en.wikipedia.org/wiki/Robert_Langdon" rel="nofollow">http://en.wikipedia.org/wiki/Robert_L...</a>]]></body>
+  
+  <user>
+    <id>3315460</id>
+    <name>Donna</name>
+    <display_name>Donna L</display_name>
+
+    <location>Toronto, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3315460-donna-l]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Thu Mar 20 17:20:04 -0700 2014</created_at>
+  <updated_at>Thu Mar 20 17:20:04 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>100895570</id>
+  <body><![CDATA[Never mind his lying, the GUY CAN'T WRITE!]]></body>
+  
+  <user>
+    <id>2277971</id>
+    <name>Bobby</name>
+    <display_name>Bobby Bermea</display_name>
+
+    <location>Portland, OR</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2277971-bobby-bermea]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1364583212p3/2277971.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1364583212p2/2277971.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jun 23 23:48:06 -0700 2014</created_at>
+  <updated_at>Mon Jun 23 23:48:06 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>113675373</id>
+  <body><![CDATA[I couldn't agree more with your review!!! I read this book very fast, in two days. But, on the third day, I couldn't remember anything what I read. Too bad I spent two days on this book when I could have read something else!!!]]></body>
+  
+  <user>
+    <id>7296492</id>
+    <name>Janez</name>
+    <display_name>Janez Hočevar</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7296492-janez-ho-evar]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1385306162p3/7296492.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1385306162p2/7296492.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 29 11:25:54 -0800 2015</created_at>
+  <updated_at>Thu Jan 29 11:25:54 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>115302068</id>
+  <body><![CDATA[Brilliant review. Devastating and hilarious.]]></body>
+  
+  <user>
+    <id>35008235</id>
+    <name>Dido</name>
+    <display_name>Dido AuLeFer</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/35008235-dido-aulefer]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1453729765p3/35008235.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1453729765p2/35008235.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 27 05:55:38 -0800 2015</created_at>
+  <updated_at>Fri Feb 27 05:55:38 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>137168098</id>
+  <body><![CDATA[Ha! I enjoyed this review more than I enjoyed the book. Well said.]]></body>
+  
+  <user>
+    <id>45222373</id>
+    <name>Tatiana</name>
+    <display_name>Tatiana Schynoll</display_name>
+
+    <location>Saratoga Springs, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/45222373-tatiana-schynoll]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1437404413p3/45222373.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1437404413p2/45222373.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jul 20 15:23:03 -0700 2015</created_at>
+  <updated_at>Mon Jul 20 15:23:03 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>148961007</id>
+  <body><![CDATA[This review made my day. I gave up on this book resembling anything serious when Brown introduced the tea vs coffee thing. Lost all credibility. As for the rest, you said it best and all of the claims has been debunked and there are better documented sources out there. Success sans merit, I think this book was a foreboding of things to come like Fifty Shades of Grey and Donald Trump running for president. How even insubstantial of things can get a hold of public's interest. Quality is almost of no requirement these days.]]></body>
+  
+  <user>
+    <id>37421322</id>
+    <name>Asghar</name>
+    <display_name>Asghar Abbas</display_name>
+
+    <location>Karachi , 08, Pakistan</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/37421322-asghar-abbas]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1444319622p3/37421322.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1444319622p2/37421322.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Mar 15 05:16:00 -0700 2016</created_at>
+  <updated_at>Tue Mar 15 05:16:00 -0700 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1194579]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1194579]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

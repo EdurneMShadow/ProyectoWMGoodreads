@@ -4,8 +4,11 @@ Created on Fri Mar 31 11:06:08 2017
 
 @author: Edurne
 """
+%load_ext autoreload
+%autoreload 2
+
 import goodreads as gr
-import grafo_amigos as g
+import grafo_amigos as ga
 import grafo_followers as fog
 
 
@@ -17,7 +20,7 @@ client.authenticate()
 
 #########   MAIN   ########       
 
-g = g.grafo_amigos()
+g = ga.grafo_amigos()
 
 
 #Listas de ids de reviews
@@ -69,13 +72,32 @@ usuarios_primera_capa = (usuarios_arte + usuarios_adolescente + usuarios_clasico
                          usuarios_romance + usuarios_scifi + usuarios_suspense + 
                          usuarios_terror)
 usuarios_segunda_capa = g.get_amigos_usuarios(usuarios_primera_capa, client)
+usuarios_tercera_capa = g.get_amigos_usuarios(usuarios_segunda_capa, client)
 
-g.guardar_nodos_en_fichero(usuarios_primera_capa,True,'grafo.txt')
-g.guardar_nodos_en_fichero(usuarios_segunda_capa,False,'grafo.txt')
+
+g.guardar_nodos_en_fichero(usuarios_primera_capa,True,'grafo_3capas.txt')
+g.guardar_nodos_en_fichero(usuarios_segunda_capa,False,'grafo_3capas.txt')
+g.guardar_nodos_en_fichero(usuarios_tercera_capa,False,'grafo_3capas.txt')
+
+#lista=[]
+#for i in usuarios_primera_capa:
+#    lista.append(i['id_user'])
+#for i in usuarios_segunda_capa:
+#    lista.append(i['id_user'])
+#for i in usuarios_tercera_capa:
+#    lista.append(i['id_user'])
+
+#g.set_lista_ids(lista)
+
 g.get_aristas_grafo(client)
 g.guardar_info_usuario_fichero(usuarios_primera_capa,1,1)
 g.guardar_info_usuario_fichero(usuarios_segunda_capa,0,2)
+g.guardar_info_usuario_fichero(usuarios_tercera_capa,0,2)
 
 #Obtener followers de la primera capa de usuarios
-followers = fog.get_followers_usuarios(usuarios_primera_capa, client)
-g.guardar_nodos_en_fichero(followers,True,'grafo_followers.txt')
+#g.guardar_nodos_en_fichero(usuarios_primera_capa,True,'grafo_followers.txt')
+#followers = fog.get_followers_usuarios(usuarios_primera_capa, client)
+#g.guardar_nodos_en_fichero(followers,False,'grafo_followers.txt')
+#fog.get_aristas_grafo_followers(client)
+#followers2 = fog.get_followers_usuarios(followers, client)
+#fog.get_aristas_grafo_followers(client)

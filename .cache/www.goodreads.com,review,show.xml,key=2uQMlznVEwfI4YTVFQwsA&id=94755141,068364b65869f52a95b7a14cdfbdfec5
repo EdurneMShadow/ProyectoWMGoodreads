@@ -1,0 +1,659 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:45:40 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: E0AD0PSB37KMEPS0BM0X
+etag: W/"d0c1d39998ed484fa58c5bab3e8d4058"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.339896
+set-cookie: csid=BAhJIhg4NTAtMDIyNTk1Ny0wNTQ5NzkyBjoGRVQ%3D--e4d40ffe6f73894954f7defe86334f83dbdfc1b2; path=/; expires=Tue, 12 May 2037 13:45:39 -0000, locale=es; path=/, _session_id2=0f06d3d21433ea6b150a8665892344de; path=/; expires=Fri, 12 May 2017 19:45:40 -0000; HttpOnly
+content-length: 28149
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=94755141
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>94755141</id>
+    
+  <user>
+    <id>1413439</id>
+    <name>Stephen</name>
+    <display_name>Stephen</display_name>
+
+    <location>Las Vegas, NV</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1413439-stephen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1311616811p3/1413439.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1311616811p2/1413439.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">1617</id>
+  <isbn>0374500010</isbn>
+  <isbn13>9780374500016</isbn13>
+  <text_reviews_count type="integer">20044</text_reviews_count>
+  <title>Night</title>
+  <title_without_series>Night</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1473495285m/1617.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1473495285s/1617.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1617.Night</link>
+  <num_pages>120</num_pages>
+  <format>Paperback</format>
+  <edition_information>First Printing Edition</edition_information>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.29</average_rating>
+  <ratings_count>686554</ratings_count>
+  <description>&lt;i&gt;Night&lt;/i&gt; is Elie Wiesel's masterpiece, a candid, horrific, and deeply poignant autobiographical account of his survival as a teenager in the Nazi death camps. This new translation by Marion Wiesel, Elie's wife and frequent translator, presents this seminal memoir in the language and spirit truest to the author's original intent. And in a substantive new preface, Elie reflects on the enduring importance of Night and his lifelong, passionate dedication to ensuring that the world never forgets man's capacity for inhumanity to man.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Night&lt;/i&gt; offers much more than a litany of the daily terrors, everyday perversions, and rampant sadism at Auschwitz and Buchenwald; it also eloquently addresses many of the philosophical as well as personal questions implicit in any serious consideration of what the Holocaust was, what it meant, and what its legacy is and will be.</description>
+<authors>
+<author>
+<id>1049</id>
+<name>Elie Wiesel</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1255518412p5/1049.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1255518412p2/1049.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1049.Elie_Wiesel]]></link>
+<average_rating>4.27</average_rating>
+<ratings_count>722830</ratings_count>
+<text_reviews_count>24668</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>251</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="classics" exclusive="false" review_shelf_id="51710485" sortable="false" />
+    <shelf name="easton-press" exclusive="false" review_shelf_id="52346471" sortable="false" />
+    <shelf name="life-changers" exclusive="false" review_shelf_id="108027671" sortable="false" />
+    <shelf name="history" exclusive="false" review_shelf_id="55074141" sortable="false" />
+    <shelf name="literature" exclusive="false" review_shelf_id="108027674" sortable="false" />
+    <shelf name="classics-americas" exclusive="false" review_shelf_id="108027707" sortable="false" />
+    <shelf name="non-fiction" exclusive="false" review_shelf_id="108027709" sortable="false" />
+    <shelf name="world-war-the-sequel" exclusive="false" review_shelf_id="108027714" sortable="false" />
+    <shelf name="audiobook" exclusive="false" review_shelf_id="55074126" sortable="false" />
+    <shelf name="1954-1969" exclusive="false" review_shelf_id="108027898" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Mar 31 00:00:00 -0700 2010</started_at>
+  <read_at>Thu Apr 01 00:00:00 -0700 2010</read_at>
+  <date_added>Thu Mar 18 23:48:40 -0700 2010</date_added>
+  <date_updated>Sat Jan 11 15:01:22 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This book is a <b>hard, righteous slap in the conscience</b> to everyone of good will in the world and should stand as a stark reminder of both: (1) the almost unimaginable brutality that we, as a species, are capable of; and (2) that when it comes to preventing or stopping similar kinds of atrocities o...]]>
+  </body>
+
+  
+
+  <comments_count>23</comments_count>
+    <comments start="1" end="23" total="23">
+        <comment>
+  <id>30347086</id>
+  <body><![CDATA[The Yellow Star of Jewish Ghetto<br />Deep into my skin is set to<br />Six million weeping yellow stars<br />Are in my heart as painful scars<br /><br />They radiate such burning light<br />Like sun, which rose amidst the Night<br />The Night of Death, the Night of Sin<br />The Night of Crimes against my kin<br /><br />Yet through the covers of that Night<br />These yellow stars did shine so bright<br />With cry, which spreads through Universe,<br />Six million voices strong eternal curse<br /><br />To beasts, with swastika on sleeves<br />To killers, torturers and thieves<br />Who brought such Shame on Human Race<br />Which no one ever will erase<br /><br />Six million weeping yellow stars<br />Are in my heart as painful scars<br />I want the World to feel my pain<br />For Jewish lives being lost in vain]]></body>
+  
+  <user>
+    <id>2599794</id>
+    <name>Alex</name>
+    <display_name>Alex</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2599794-alex]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1260510531p3/2599794.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1260510531p2/2599794.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 12 11:49:02 -0700 2011</created_at>
+  <updated_at>Thu May 12 11:49:02 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>30348674</id>
+  <body><![CDATA[<i>Alex wrote: "The Yellow Star of Jewish Ghetto<br />Deep into my skin is set to<br />Six million weeping yellow stars<br />Are in my heart as painful scars<br /><br />They radiate such burning light<br />Like sun, which rose amidst the Night..."</i><br /><br />That is wonderfully moving, Alex. Is this your own piece?]]></body>
+  
+  <user>
+    <id>1413439</id>
+    <name>Stephen</name>
+    <display_name>Stephen</display_name>
+
+    <location>Las Vegas, NV</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1413439-stephen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1311616811p3/1413439.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1311616811p2/1413439.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 12 12:37:53 -0700 2011</created_at>
+  <updated_at>Thu May 12 12:37:53 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>30350062</id>
+  <body><![CDATA[Yes, thank You Stephen (Steve ?) !<br />Best Regards,<br />Alex]]></body>
+  
+  <user>
+    <id>2599794</id>
+    <name>Alex</name>
+    <display_name>Alex</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2599794-alex]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1260510531p3/2599794.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1260510531p2/2599794.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 12 13:15:34 -0700 2011</created_at>
+  <updated_at>Thu May 12 13:15:34 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>30350127</id>
+  <body><![CDATA[<i>Alex wrote: "Yes, thank You Stephen (Steve ?) !<br />Best Regards,<br />Alex"</i><br /><br />Either is fine but most call me Steve. <br /><br />Take care, <br />Steve]]></body>
+  
+  <user>
+    <id>1413439</id>
+    <name>Stephen</name>
+    <display_name>Stephen</display_name>
+
+    <location>Las Vegas, NV</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1413439-stephen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1311616811p3/1413439.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1311616811p2/1413439.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 12 13:17:22 -0700 2011</created_at>
+  <updated_at>Thu May 12 13:17:22 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>30351530</id>
+  <body><![CDATA[Few days ago (on May 9) my "old country" (former USSR as I knew it ) was celebrating Victory Day.<br />This year on June 22 will be also 70 years since the war came to USSR.<br />May be that is why I was little bit over sensitive to issues related to that period ;-)<br />Both my mother and my late father were all 900 days of blockade in besieged by Germans Leningrad. Hitler did not storm it because he wanted entire population of Leningrad to die out - 600,000 did indeed die from hunger, shelling and air bombardments ...]]></body>
+  
+  <user>
+    <id>2599794</id>
+    <name>Alex</name>
+    <display_name>Alex</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2599794-alex]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1260510531p3/2599794.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1260510531p2/2599794.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 12 13:51:23 -0700 2011</created_at>
+  <updated_at>Thu May 12 13:51:23 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>30352006</id>
+  <body><![CDATA[Alex -<br /><br />I understand and you have every right to be proud of your history. I can certainly see why you would have very srong feelings about that period and I would not intentionally ever try to offend. I read a lot and write a lot of reviews and I often make jokes or use humor to make people laugh, but I will certainly never try to offend and always try to be respectful of other peoples opinions. <br /><br />Thanks for sharing a bit of your family's history with me. <br /><br />Take care,<br /><br />Steve]]></body>
+  
+  <user>
+    <id>1413439</id>
+    <name>Stephen</name>
+    <display_name>Stephen</display_name>
+
+    <location>Las Vegas, NV</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1413439-stephen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1311616811p3/1413439.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1311616811p2/1413439.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu May 12 14:01:41 -0700 2011</created_at>
+  <updated_at>Thu May 12 14:01:41 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>38180035</id>
+  <body><![CDATA[It was the first lesson in the Old Testament with Cain and Abel, was written in Deuteronomy - love thy neighbour as thyself, and emphasised by Jesus - we are our brothers' keeper. Everyone hears, but no one listens.]]></body>
+  
+  <user>
+    <id>1237196</id>
+    <name>Petra Eggs</name>
+    <display_name>Petra Eggs</display_name>
+
+    <location><![CDATA[Cuba Cigar Factory, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1237196-petra-eggs]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1487547378p3/1237196.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1487547378p2/1237196.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Oct 09 22:29:44 -0700 2011</created_at>
+  <updated_at>Sun Oct 09 22:29:44 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>38181552</id>
+  <body><![CDATA[This one is on my "too painful to read" list. Not sure I'll ever have the courage to do so.]]></body>
+  
+  <user>
+    <id>3397530</id>
+    <name>Lea</name>
+    <display_name>Lea</display_name>
+
+    <location>Dallas, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3397530-lea]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1485827313p3/3397530.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1485827313p2/3397530.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Oct 09 23:52:54 -0700 2011</created_at>
+  <updated_at>Sun Oct 09 23:52:54 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>38190804</id>
+  <body><![CDATA[I cried when I read it the first time. There are still parts of it that choke me up. Teaching it was one of the hardest things I've ever done.]]></body>
+  
+  <user>
+    <id>1008175</id>
+    <name>Kat</name>
+    <display_name>Kat</display_name>
+
+    <location>Valparaiso, IN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1008175-kat]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1370231937p3/1008175.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1370231937p2/1008175.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 10 08:07:34 -0700 2011</created_at>
+  <updated_at>Mon Oct 10 08:07:34 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>38190945</id>
+  <body><![CDATA[<i>Petra X wrote: "It was the first lesson in the Old Testament with Cain and Abel, was written in Deuteronomy - love thy neighbour as thyself, and emphasised by Jesus - we are our brothers' keeper. Everyone hears, b..."</i><br /><br />So true, Petra. So true.]]></body>
+  
+  <user>
+    <id>1413439</id>
+    <name>Stephen</name>
+    <display_name>Stephen</display_name>
+
+    <location>Las Vegas, NV</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1413439-stephen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1311616811p3/1413439.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1311616811p2/1413439.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 10 08:11:41 -0700 2011</created_at>
+  <updated_at>Mon Oct 10 08:11:41 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>38191001</id>
+  <body><![CDATA[<i>Lea wrote: "This one is on my "too painful to read" list. Not sure I'll ever have the courage to do so."</i><br /><br />Lea, I completely understand the feeling, but I would still recommend you do it. Just have your family around for frequent hugs and mood enhancers.]]></body>
+  
+  <user>
+    <id>1413439</id>
+    <name>Stephen</name>
+    <display_name>Stephen</display_name>
+
+    <location>Las Vegas, NV</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1413439-stephen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1311616811p3/1413439.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1311616811p2/1413439.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 10 08:13:15 -0700 2011</created_at>
+  <updated_at>Mon Oct 10 08:13:15 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>38191044</id>
+  <body><![CDATA[<i>Kat wrote: "I cried when I read it the first time. There are still parts of it that choke me up. Teaching it was one of the hardest things I've ever done."</i><br /><br />Wow...I can't imagine trying to teach this. Just having to sort through my own feelings was tough enough. To then have to talk about them and teach it...kudos to you, Kat.]]></body>
+  
+  <user>
+    <id>1413439</id>
+    <name>Stephen</name>
+    <display_name>Stephen</display_name>
+
+    <location>Las Vegas, NV</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1413439-stephen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1311616811p3/1413439.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1311616811p2/1413439.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 10 08:14:19 -0700 2011</created_at>
+  <updated_at>Mon Oct 10 08:14:19 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>38239548</id>
+  <body><![CDATA[It was a very difficult book to teach. I taught it to seniors, so the focus was very much on what human beings are capable of doing to each other. My explicit goal was teaching them acceptance of all people as they got ready to leave high school. It's such an important concept today, considering the polarization of society based on politics, sexuality, religion, etc. The students seemed to feel the impact of the lesson because of the close relation to current events.]]></body>
+  
+  <user>
+    <id>1008175</id>
+    <name>Kat</name>
+    <display_name>Kat</display_name>
+
+    <location>Valparaiso, IN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1008175-kat]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1370231937p3/1008175.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1370231937p2/1008175.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 11 07:01:24 -0700 2011</created_at>
+  <updated_at>Tue Oct 11 07:01:24 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>38241862</id>
+  <body><![CDATA[That's wonderful, Kat. You should be extremely proud to have been instrumental in imparting that kind of lesson to people.]]></body>
+  
+  <user>
+    <id>1413439</id>
+    <name>Stephen</name>
+    <display_name>Stephen</display_name>
+
+    <location>Las Vegas, NV</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1413439-stephen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1311616811p3/1413439.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1311616811p2/1413439.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Oct 11 08:16:52 -0700 2011</created_at>
+  <updated_at>Tue Oct 11 08:16:52 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>52291491</id>
+  <body><![CDATA[My youngest daughter is scheduled to read this for school this year and I am a bit worried. This book is on my all time greatest list and I still remember being stunned and returning to this book in my mind for weeks and even years after reading it. It is definitely a book every human being should read for exactly the reasons you stated. My concern is that my daughter (going into 9th grade) is very sensitive. She leaves the room during the news if the stories are upsetting. I am going to have to read this one with her over the summer, I think. This is so much more than just a book.]]></body>
+  
+  <user>
+    <id>6316008</id>
+    <name>Chris</name>
+    <display_name>Chris</display_name>
+
+    <location>Dallas, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6316008-chris]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1439986289p3/6316008.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1439986289p2/6316008.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jun 15 10:19:50 -0700 2012</created_at>
+  <updated_at>Fri Jun 15 10:19:50 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>74296649</id>
+  <body><![CDATA[Excellent review Stephen. I could not have conveyed it better myself.]]></body>
+  
+  <user>
+    <id>1346324</id>
+    <name>Trees</name>
+    <display_name>Trees McGavock</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1346324-trees-mcgavock]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri May 17 11:58:24 -0700 2013</created_at>
+  <updated_at>Fri May 17 11:58:24 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>84156842</id>
+  <body><![CDATA[beautiful review!]]></body>
+  
+  <user>
+    <id>5259333</id>
+    <name>Devasri</name>
+    <display_name>Devasri</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5259333-devasri]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1405980833p3/5259333.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1405980833p2/5259333.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Oct 02 21:59:35 -0700 2013</created_at>
+  <updated_at>Wed Oct 02 21:59:35 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>89874432</id>
+  <body><![CDATA[Nice review, Stephen!]]></body>
+  
+  <user>
+    <id>4680106</id>
+    <name>Sidharth</name>
+    <display_name>Sidharth Panwar</display_name>
+
+    <location>Delhi, 07, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4680106-sidharth-panwar]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1389175146p3/4680106.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1389175146p2/4680106.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 03 05:27:00 -0800 2014</created_at>
+  <updated_at>Fri Jan 03 05:27:00 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>153766713</id>
+  <body><![CDATA[Read this once and have taught lessons on it in the classroom. In the times we now live in, I would like to read it again, drawing on Mr. Wiesel's experience, philosophy, and wisdom as to the importance of helping and accepting others]]></body>
+  
+  <user>
+    <id>13609454</id>
+    <name>Sharon</name>
+    <display_name>Sharon</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13609454-sharon]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1350144338p3/13609454.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1350144338p2/13609454.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jul 03 11:25:58 -0700 2016</created_at>
+  <updated_at>Sun Jul 03 11:25:58 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>160299937</id>
+  <body><![CDATA[I agree with you, this book shows horrible things. It's so true that some small moments that seem so minute can change our lives so monumentally. It was hard to read this book, because like you said, it all seems so casual for the Nazi's, and Eli writing the book, and that gives it a whole new perspective. Also, I agree that everyone should read this book to better inform themselves of some of the stories behind the Holocaust. It was also a slap in the face for me that people could do all those horrible things and that people could sit back and watch. Your word choice was exquisite, it added a lot to the review. I like how you added a lot of depth, but I feel that you could have added at least a little bit more of your personal feelings. Overall though, it was an amazing review, and added more to my perspective of the book, thank you.]]></body>
+  
+  <user>
+    <id>62583239</id>
+    <name>KPankratz</name>
+    <display_name>KPankratz</display_name>
+
+    <location>Albuquerque, NM</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/62583239-kpankratz]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri Dec 16 20:07:40 -0800 2016</created_at>
+  <updated_at>Fri Dec 16 20:07:40 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>160318300</id>
+  <body><![CDATA[I completely agree. I like how you added that what this book is suppose to remind us about. We are to never forget this tragic event. I feel like you should have added more about what Ellie endured during this event. I think you did a great job describing what this book focused on though.]]></body>
+  
+  <user>
+    <id>62455888</id>
+    <name>Jacob</name>
+    <display_name>Jacob Clark</display_name>
+
+    <location>Albuquerque, NM</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/62455888-jacob-clark]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat Dec 17 11:24:16 -0800 2016</created_at>
+  <updated_at>Sat Dec 17 11:24:16 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>160328044</id>
+  <body><![CDATA[I completely agree. The way that Elie wrote the story seemed so almost detached, that it hardly seemed real. I felt like I was watching the Walking Dead or something as I read it and that made me feel that much more disturbed. I couldn't imagine loosing everything, and it was so shocking as I read I could hardly bear it. In this way I really disliked the book. But i agree, it is something everybody should read and experience.]]></body>
+  
+  <user>
+    <id>51466412</id>
+    <name>Eliana</name>
+    <display_name>Eliana</display_name>
+
+    <location>Albuquerque, NM</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/51466412-eliana]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat Dec 17 17:09:57 -0800 2016</created_at>
+  <updated_at>Sat Dec 17 17:09:57 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>160360964</id>
+  <body><![CDATA[Great Review! You captured all great aspects of the book Night. Your review doesn't spoil too much of the book, which is great because most good reviews don't. It's almost like a movie trailer in just words, no pictures or anything, as you give important yet subtle details from the book. Overall, a very great review for a very great book. You deserve a medal of some sort, "Best Review of the book, Night", haha.]]></body>
+  
+  <user>
+    <id>62581703</id>
+    <name>Akash</name>
+    <display_name>Akash Patel</display_name>
+
+    <location>Albuquerque, NM</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/62581703-akash-patel]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Dec 18 16:45:20 -0800 2016</created_at>
+  <updated_at>Sun Dec 18 16:45:20 -0800 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/94755141]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/94755141]]></link>
+    <owned>1</owned>
+</review>
+
+
+</GoodreadsResponse>

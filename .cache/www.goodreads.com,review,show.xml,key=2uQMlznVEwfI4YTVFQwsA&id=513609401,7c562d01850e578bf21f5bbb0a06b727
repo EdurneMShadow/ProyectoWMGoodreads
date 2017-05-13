@@ -1,0 +1,441 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:56:09 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: YP6W6Y91E8BX320N30JZ
+etag: W/"586beb96bd5677a7e3e17219fd9623e5"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.237433
+set-cookie: csid=BAhJIhgyNzEtNzk1MTE2NS0zODQxNTAzBjoGRVQ%3D--c4a438b958a3d5081d62ee538bf3395860c9a0e3; path=/; expires=Tue, 12 May 2037 13:56:09 -0000, locale=es; path=/, _session_id2=ffa20cc259e8c355ced718d5b6c86fa1; path=/; expires=Fri, 12 May 2017 19:56:09 -0000; HttpOnly
+content-length: 17053
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=513609401
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>513609401</id>
+    
+  <user>
+    <id>7878381</id>
+    <name>Huda</name>
+    <display_name>Huda Yahya</display_name>
+
+    <location>Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7878381-huda-yahya]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492680567p3/7878381.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492680567p2/7878381.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">603259</id>
+  <isbn>0553212478</isbn>
+  <isbn13>9780553212471</isbn13>
+  <text_reviews_count type="integer">196</text_reviews_count>
+  <title>Frankenstein</title>
+  <title_without_series>Frankenstein</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1427546373m/603259.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1427546373s/603259.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/603259.Frankenstein</link>
+  <num_pages>216</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day/>
+  <publication_year>2003</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.75</average_rating>
+  <ratings_count>861298</ratings_count>
+  <description>&lt;i&gt;Also see: Alternate Cover Editions for this ISBN [ACE] &lt;/i&gt; &lt;br /&gt;&lt;b&gt;
+  &lt;a href="https://www.goodreads.com/book/show/10453849" rel="nofollow"&gt;ACE #1&lt;/a&gt;
+&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;"I saw the pale student of unhallowed arts kneeling beside the thing he had put together. I saw the hideous phantasm of a man stretched out, and then, on the working of some powerful engine, show signs of life and stir with an uneasy, half-vital motion." A summer evening's ghost stories, lonely insomnia in a moonlit Alpine room, and a runaway imagination - fired by philosophical discussion with Lord Byron and Percy Bysshe Shelley about science, galvanism, and the origins of life - conspired to produce for Mary Shelley this haunting night specter. By morning it had become the germ of her Romantic masterpiece, &lt;i&gt;Frankenstein&lt;/i&gt;.&lt;br /&gt;&lt;br /&gt;Written in 1816, when she was only nineteen. Mary Shelley's novel of "The Modern Prometheus" chillingly dramatized the dangerous potential of life begotten upon a laboratory table. A frightening creation myth for our own time, &lt;i&gt;Frankenstein&lt;/i&gt; remains one of the greatest horror stories ever written and is an undisputed classic of its kind.</description>
+<authors>
+<author>
+<id>11139</id>
+<name>Mary Wollstonecraft Shelley</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p5/11139.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p2/11139.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/11139.Mary_Wollstonecraft_Shelley]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>884152</ratings_count>
+<text_reviews_count>20971</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1237733626</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Feb 14 19:58:58 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>3</rating>
+  <votes>126</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="thriller_horror_mystery_sci-fi" exclusive="false" review_shelf_id="346967761" sortable="false" />
+    <shelf name="novels_novellas" exclusive="false" review_shelf_id="382465399" sortable="true" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Jan 22 00:00:00 -0800 2013</started_at>
+  <read_at>Tue Jan 22 00:00:00 -0800 2013</read_at>
+  <date_added>Mon Jan 21 23:47:35 -0800 2013</date_added>
+  <date_updated>Wed Oct 05 05:02:10 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<img src="http://msaap12.wikispaces.com/file/view/frankenstein-painting-color-treated.jpg/79416567/819x331/frankenstein-painting-color-treated.jpg" class="gr-hostedUserImg" /><br /><b>في بدايات القرن التاسع عشر<br />كانت الكهرباء وقتها اختراعا طازجا<br />وحدثا يلقي الرهبة في القلوب<br /><br />لقد كان معظم الناس يتصور أنها تحمل قدرات خارقة<br />ولذلك لم يكن من الصعب تخيل أنها يمكنها إعادة الحياة إلى الموتى<br /><br />فقد كانوا يرونها اختراعا شيطانيا يثير غضب الرب<br /><br /><br />وأثناء جلسة جمعت بين بعض الشعراء والكتاب في قصر الشاعر لو...</b>]]>
+  </body>
+
+  
+
+  <comments_count>14</comments_count>
+    <comments start="1" end="14" total="14">
+        <comment>
+  <id>137296938</id>
+  <body><![CDATA[أجمل ما في الريفيو - بجانب حديثك عن روايتي المحببة لقلبي - المعلومة الجديدة عن مصدر إلهام تشيللي بفرانكنشتاين<br />ريفيو رائع هدى..أحسنتِ :)]]></body>
+  
+  <created_at>Wed Jul 22 17:14:38 -0700 2015</created_at>
+  <updated_at>Wed Jul 22 17:14:38 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>137298387</id>
+  <body><![CDATA[شكرا يا حسام<br />سعيدة برأيك :)]]></body>
+  
+  <user>
+    <id>7878381</id>
+    <name>Huda</name>
+    <display_name>Huda Yahya</display_name>
+
+    <location>Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7878381-huda-yahya]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492680567p3/7878381.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492680567p2/7878381.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 22 17:56:05 -0700 2015</created_at>
+  <updated_at>Wed Jul 22 17:56:05 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>137331062</id>
+  <body><![CDATA[هل قرأتي النسخة العربية المترجمة ؟ أم الأصلية ؟ لأن أحدهم أخبرني أن النسخة المترجمة ينقصها العديد من التفاصيل التي تتعلق بعملية تخليق المسخ ؟]]></body>
+  
+  <user>
+    <id>42882722</id>
+    <name>the bue</name>
+    <display_name>the bue cat</display_name>
+
+    <location>Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/42882722-the-bue-cat]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1433790870p3/42882722.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1433790870p2/42882722.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jul 23 09:39:52 -0700 2015</created_at>
+  <updated_at>Thu Jul 23 09:39:52 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>137382653</id>
+  <body><![CDATA[بل الأصلية<br />والجودريدز يوفر لنا قرائتها<br /><br />بالنسبة لما تقوله عن النسخة المتؤجمة فلا علم لي بصراخة]]></body>
+  
+  <user>
+    <id>7878381</id>
+    <name>Huda</name>
+    <display_name>Huda Yahya</display_name>
+
+    <location>Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7878381-huda-yahya]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492680567p3/7878381.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492680567p2/7878381.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 24 04:23:07 -0700 2015</created_at>
+  <updated_at>Fri Jul 24 04:23:07 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141613352</id>
+  <body><![CDATA[مراجعة ممتازة.. <br />تم اكتشاف الكهرباء في القرن السابع عشر وليس التاسع عشر<br />ذكرت شيئاً عن عروس فرانكنشتاين ولكن كوني لم أقرأ سوى النسخة المترجمة في غابر الأزمان، أذكر أن المسخ في نهاية<br />الرواية يصر على فرانكنشتاين أن يخلق له أنثى تشبهه فهل حدث ذلك في النسخة الأصلية كذلك؟]]></body>
+  
+  <user>
+    <id>43620029</id>
+    <name>InaOkami</name>
+    <display_name>InaOkami</display_name>
+
+    <location>Riyadh, SA, Saudi Arabia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/43620029-inaokami]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1434564559p3/43620029.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1434564559p2/43620029.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Oct 18 10:27:44 -0700 2015</created_at>
+  <updated_at>Sun Oct 18 10:27:44 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141760428</id>
+  <body><![CDATA[انت رائعة وذات ثقافة تنحني لها العقول احتراما. شكرا هدى.. سعيدة لتعثري هذه العثرة المباركة]]></body>
+  
+  <user>
+    <id>4449460</id>
+    <name>Batoul</name>
+    <display_name>Batoul Mashhour</display_name>
+
+    <location>makkah, 10, Saudi Arabia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4449460-batoul-mashhour]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1287758032p3/4449460.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1287758032p2/4449460.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Oct 21 15:53:34 -0700 2015</created_at>
+  <updated_at>Wed Oct 21 15:53:34 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>142083516</id>
+  <body><![CDATA[شكرا لأرواحكم يا أصدقاء :)]]></body>
+  
+  <user>
+    <id>7878381</id>
+    <name>Huda</name>
+    <display_name>Huda Yahya</display_name>
+
+    <location>Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7878381-huda-yahya]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492680567p3/7878381.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492680567p2/7878381.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Oct 28 11:34:39 -0700 2015</created_at>
+  <updated_at>Wed Oct 28 11:34:39 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>147562913</id>
+  <body><![CDATA[اشكرك جدا ...بصراحه انا قرأت الرواية ...ولم افهم منها ...شئ ع الاطلاق ....شعرت بأنه لافائده منها <br />لكن بعد طرح حضرتك ....اتضح لي الكثير]]></body>
+  
+  <user>
+    <id>36860987</id>
+    <name>Sali</name>
+    <display_name>Sali Elmusawy</display_name>
+
+    <location>nasiriyah, 07, Iraq</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/36860987-sali-elmusawy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1422549295p3/36860987.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1422549295p2/36860987.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 14 09:00:59 -0800 2016</created_at>
+  <updated_at>Sun Feb 14 09:00:59 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>148136394</id>
+  <body><![CDATA[أهلا بكِ عزيزتي]]></body>
+  
+  <user>
+    <id>7878381</id>
+    <name>Huda</name>
+    <display_name>Huda Yahya</display_name>
+
+    <location>Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7878381-huda-yahya]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492680567p3/7878381.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492680567p2/7878381.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Feb 26 07:22:05 -0800 2016</created_at>
+  <updated_at>Fri Feb 26 07:22:05 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>148174608</id>
+  <body><![CDATA[إنتِ عظيمة :))<br />أنا درستها في الكلية، بس كنت بكرهها الحقيقة. :D <br />بس الريڤيو بتاعك رائع، فكرني بتفاصيل فيها كنت ناسياها.]]></body>
+  
+  <user>
+    <id>13043727</id>
+    <name>Ghada</name>
+    <display_name>Ghada</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13043727-ghada]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1488026175p3/13043727.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1488026175p2/13043727.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 27 02:03:17 -0800 2016</created_at>
+  <updated_at>Sat Feb 27 02:03:17 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>148175468</id>
+  <body><![CDATA[تسلمي يا غادة :))]]></body>
+  
+  <user>
+    <id>7878381</id>
+    <name>Huda</name>
+    <display_name>Huda Yahya</display_name>
+
+    <location>Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7878381-huda-yahya]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492680567p3/7878381.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492680567p2/7878381.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 27 02:59:42 -0800 2016</created_at>
+  <updated_at>Sat Feb 27 02:59:42 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>156211647</id>
+  <body><![CDATA[ريفيو رائع للرواية .. مع أن الرواية لم تكن بهذا القدر من الروعة و في الحقيقة لم تكن جيدة و لكن حديثك عن منبت القصة جعلني اغير نظرتي للرواية ..]]></body>
+  
+  <user>
+    <id>53562512</id>
+    <name>Ma</name>
+    <display_name>Ma</display_name>
+
+    <location>Medina, 05, Saudi Arabia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/53562512-ma]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 31 07:58:52 -0700 2016</created_at>
+  <updated_at>Wed Aug 31 07:58:52 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157618796</id>
+  <body><![CDATA[شكرا لك :)]]></body>
+  
+  <user>
+    <id>7878381</id>
+    <name>Huda</name>
+    <display_name>Huda Yahya</display_name>
+
+    <location>Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7878381-huda-yahya]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492680567p3/7878381.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492680567p2/7878381.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Oct 05 05:43:51 -0700 2016</created_at>
+  <updated_at>Wed Oct 05 05:43:51 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>160185642</id>
+  <body><![CDATA[فعلا لم اكن اعرف ببدايتها واحسستها مملة نوعا ما لكن ريفو ليك جميل]]></body>
+  
+  <user>
+    <id>24429790</id>
+    <name>Mai</name>
+    <display_name>Mai Mourad</display_name>
+
+    <location>Misr, 11, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24429790-mai-mourad]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1427634800p3/24429790.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1427634800p2/24429790.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Dec 13 16:03:55 -0800 2016</created_at>
+  <updated_at>Tue Dec 13 16:03:55 -0800 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/513609401]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/513609401]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

@@ -1,0 +1,521 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:55:27 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: 2ZM6Q0E054E34AQ7X8HP
+etag: W/"5e24e4f55af00e5e51d676005a036367"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.247545
+set-cookie: csid=BAhJIhg4ODMtMDQ3MTI4OS0xMTk4Mzc3BjoGRVQ%3D--6671312e9bed22a36f1d72db1607ca7df4d541c7; path=/; expires=Tue, 12 May 2037 13:55:27 -0000, locale=es; path=/, _session_id2=184817caaedf4bc3e77c4b39f5a86bcc; path=/; expires=Fri, 12 May 2017 19:55:27 -0000; HttpOnly
+content-length: 20607
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=56669496
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>56669496</id>
+    
+  <user>
+    <id>1036893</id>
+    <name>Fabian</name>
+    <display_name>Fabian</display_name>
+
+    <location>Denver, CO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1036893-fabian]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492631728p3/1036893.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492631728p2/1036893.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">960</id>
+  <isbn>1416524797</isbn>
+  <isbn13>9781416524793</isbn13>
+  <text_reviews_count type="integer">19261</text_reviews_count>
+  <title>Angels &amp; Demons  (Robert Langdon, #1)</title>
+  <title_without_series>Angels &amp; Demons</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1303390735m/960.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1303390735s/960.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/960.Angels_Demons</link>
+  <num_pages>713</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information>Pocket Books Premium Edition</edition_information>
+  <publisher>Pocket Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.85</average_rating>
+  <ratings_count>2025141</ratings_count>
+  <description>When world-renowned Harvard symbologist Robert Langdon is summoned to a Swiss research facility to analyze a mysterious symbol—seared into the chest of a murdered physicist—he discovers evidence of the unimaginable: the resurgence of an ancient secret brotherhood known as the Illuminati ... the most powerful underground organization ever to walk the earth. The Illuminati has now surfaced to carry out the final phase of its legendary vendetta against its most hated enemy—the Catholic Church. &lt;br /&gt;&lt;br /&gt;Langdon’s worst fears are confirmed on the eve of the holy conclave, when a messenger of the Illuminati announces they have hidden an unstoppable time bomb at the very heart of Vatican City. With the countdown under way, Langdon jets to Rome to join forces with Vittoria Vetra, a beautiful and mysterious Italian scientist, to assist the Vatican in a desperate bid for survival. &lt;br /&gt;&lt;br /&gt;Embarking on a frantic hunt through sealed crypts, dangerous catacombs, deserted cathedrals, and even the most secretive vault on earth, Langdon and Vetra follow a 400-year-old trail of ancient symbols that snakes across Rome toward the long-forgotten Illuminati lair ... a clandestine location that contains the only hope for Vatican salvation.</description>
+<authors>
+<author>
+<id>630</id>
+<name>Dan Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p5/630.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p2/630.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/630.Dan_Brown]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>5211301</ratings_count>
+<text_reviews_count>138647</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1349852111</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Wed May 11 11:11:14 -0700 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>106</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue May 19 16:27:55 -0700 2009</date_added>
+  <date_updated>Fri Mar 17 07:57:10 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[And I am left STUNNED. Incredibly, this one is the one to top when it comes to adventure &amp; history and pace &amp; ingenuity.<br /><br />I've recently noticed how much history is revered (rightfully) by the modern authors. This is a different type of historical immersion. This is about bringing it to the...]]>
+  </body>
+
+  
+
+  <comments_count>17</comments_count>
+    <comments start="1" end="17" total="17">
+        <comment>
+  <id>151538108</id>
+  <body><![CDATA["Everyone but me had read this."<br />- and me, it seems. The only Brown novel I have read so far was <i>Inferno</i>, which I didn't even like at all. But I also own this one, so I guess I'm going to give it a try myself one day. Your five stars sound very encouraging.]]></body>
+  
+  <user>
+    <id>40792319</id>
+    <name>Councillor</name>
+    <display_name>Councillor</display_name>
+
+    <location>Germany, Germany</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/40792319-councillor]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1437208837p3/40792319.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1437208837p2/40792319.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed May 11 11:48:06 -0700 2016</created_at>
+  <updated_at>Wed May 11 11:48:06 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151538923</id>
+  <body><![CDATA[Yeah, I was megasurprised by how intriguing this one is.]]></body>
+  
+  <user>
+    <id>1036893</id>
+    <name>Fabian</name>
+    <display_name>Fabian</display_name>
+
+    <location>Denver, CO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1036893-fabian]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492631728p3/1036893.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492631728p2/1036893.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed May 11 12:06:01 -0700 2016</created_at>
+  <updated_at>Wed May 11 12:06:01 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>151540701</id>
+  <body><![CDATA[Awesome review Fabian! @Councillor <i>Inferno</i> wasn't the best place to start--that one's sooo sub-par compared to his other works in this series. I think he was in churn mode by the time he got to that one, just cranking em out, so that one wasn't as special. :-)]]></body>
+  
+  <user>
+    <id>50404233</id>
+    <name>Navidad</name>
+    <display_name>Navidad Thelamour</display_name>
+
+    <location>Atlanta, GA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/50404233-navidad-thelamour]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1455035956p3/50404233.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1455035956p2/50404233.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed May 11 12:43:16 -0700 2016</created_at>
+  <updated_at>Wed May 11 12:43:16 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>153341739</id>
+  <body><![CDATA[<i>Navidad wrote: "Awesome review Fabian! @Councillor Inferno wasn't the best place to start--that one's sooo sub-par compared to his other works in this series. I think he was in churn mode by the time he got to tha..."</i> I will get to Inferno, soon(ish). Thanks Natividad! f.]]></body>
+  
+  <user>
+    <id>1036893</id>
+    <name>Fabian</name>
+    <display_name>Fabian</display_name>
+
+    <location>Denver, CO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1036893-fabian]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492631728p3/1036893.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492631728p2/1036893.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jun 23 12:18:50 -0700 2016</created_at>
+  <updated_at>Thu Jun 23 12:18:50 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>154367426</id>
+  <body><![CDATA[Angels and Demons is by far the best Dan Brown book.]]></body>
+  
+  <user>
+    <id>26091478</id>
+    <name>Cassandra</name>
+    <display_name>Cassandra</display_name>
+
+    <location>Seattle, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/26091478-cassandra]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1423280056p3/26091478.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1423280056p2/26091478.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jul 18 09:29:42 -0700 2016</created_at>
+  <updated_at>Mon Jul 18 09:29:42 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>154367720</id>
+  <body><![CDATA[Great review Fabian, and I agree, The Da Vinci Code is way overhyped. Angels and Demons is a lot better; the mystery is stronger and the combination of the location with the art &amp; religion has a lot more impact than it ever had in Code. <br /><br />I'm looking forward to your review of Inferno!]]></body>
+  
+  <user>
+    <id>18562856</id>
+    <name>Puck</name>
+    <display_name>Puck</display_name>
+
+    <location>Maarsen, Netherlands</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18562856-puck]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1467836564p3/18562856.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1467836564p2/18562856.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jul 18 09:39:04 -0700 2016</created_at>
+  <updated_at>Mon Jul 18 09:39:04 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>154368399</id>
+  <body><![CDATA[Fabian, Cassandra, Puck, I absolutely agree, "Angels and Demons" is my favorite of Brown's books. Oddly, I thought "Davinci Code" read like a treatment for a movie, and perhaps it was just that, a treatment intended as such.]]></body>
+  
+  <user>
+    <id>39346323</id>
+    <name>Greg</name>
+    <display_name>Greg Z</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/39346323-greg-z]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Jul 18 09:57:18 -0700 2016</created_at>
+  <updated_at>Mon Jul 18 09:57:18 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>154369225</id>
+  <body><![CDATA[<i>Greg wrote: "Fabian, Cassandra, Puck, I absolutely agree, "Angels and Demons" is my favorite of Brown's books. Oddly, I thought "Davinci Code" read like a treatment for a movie, and perhaps it was just that, a ..."</i> It seems to me like this is his magnum opus: something he'll never surpass. Heard Inferno was a disappointment, though now that I think of it I do have it somewhere in my reading pile and it seems perfect for these long summer days.]]></body>
+  
+  <user>
+    <id>1036893</id>
+    <name>Fabian</name>
+    <display_name>Fabian</display_name>
+
+    <location>Denver, CO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1036893-fabian]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492631728p3/1036893.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492631728p2/1036893.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jul 18 10:19:26 -0700 2016</created_at>
+  <updated_at>Mon Jul 18 10:19:26 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157137909</id>
+  <body><![CDATA[This was by far my favorite Brown book. I've read The Lost Symbol too, and while it did have some interesting things in it, I felt it to be a huge let down overall.]]></body>
+  
+  <user>
+    <id>2616607</id>
+    <name>Nikki &quot;The Crazie Betty&quot; V.</name>
+    <display_name>Nikki &quot;The Crazie Betty&quot; V.</display_name>
+
+    <location>Salt Lake City, UT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2616607-nikki-the-crazie-betty-v]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1475781521p3/2616607.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1475781521p2/2616607.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Sep 22 11:14:16 -0700 2016</created_at>
+  <updated_at>Thu Sep 22 11:14:16 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157137938</id>
+  <body><![CDATA[<i>Nikki "The Crazie Betty" V. wrote: "This was by far my favorite Brown book. I've read The Lost Symbol too, and while it did have some interesting things in it, I felt it to be a huge let down overall."</i><br />For sure, Brown's magnum opus remains, and shall always be, this. f]]></body>
+  
+  <user>
+    <id>1036893</id>
+    <name>Fabian</name>
+    <display_name>Fabian</display_name>
+
+    <location>Denver, CO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1036893-fabian]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492631728p3/1036893.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492631728p2/1036893.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Sep 22 11:15:12 -0700 2016</created_at>
+  <updated_at>Thu Sep 22 11:15:12 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159602140</id>
+  <body><![CDATA[Fabian, I read this after reading several other Dan Brown books, and this one for me was the very best. It made "DaVinci Code" seem rather silly, made "Inferno" seem even more ridiculous.]]></body>
+  
+  <user>
+    <id>39346323</id>
+    <name>Greg</name>
+    <display_name>Greg Z</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/39346323-greg-z]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Nov 28 03:36:56 -0800 2016</created_at>
+  <updated_at>Mon Nov 28 03:36:56 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>159669628</id>
+  <body><![CDATA[<i>Greg wrote: "Fabian, I read this after reading several other Dan Brown books, and this one for me was the very best. It made "DaVinci Code" seem rather silly, made "Inferno" seem even more ridiculous."</i><br />Yup!]]></body>
+  
+  <user>
+    <id>1036893</id>
+    <name>Fabian</name>
+    <display_name>Fabian</display_name>
+
+    <location>Denver, CO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1036893-fabian]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492631728p3/1036893.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492631728p2/1036893.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 29 17:40:09 -0800 2016</created_at>
+  <updated_at>Tue Nov 29 17:40:09 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>161135387</id>
+  <body><![CDATA[I felt the same with this book Fabian. It's my favorite Dan Brown book of them all. I was blown away with the plot, the detailed account of history, how science and religion have been battling way before my time and all the twists that this book had to offer. Loved it!]]></body>
+  
+  <user>
+    <id>14097149</id>
+    <name>Ginger</name>
+    <display_name>Ginger</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14097149-ginger]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1494261237p3/14097149.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1494261237p2/14097149.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 06 08:54:28 -0800 2017</created_at>
+  <updated_at>Fri Jan 06 08:54:28 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161138380</id>
+  <body><![CDATA[Great review! One of my favorite books and the BEST in the Langdon series (but I enjoyed them all)! I'm totally confused about the horribly negative reviews for this book...it actually irritates me (but I just breathe and say, "opinions are like assholes")<br />The short chapters make this book VERY hard to put down!]]></body>
+  
+  <user>
+    <id>33269229</id>
+    <name>Paul</name>
+    <display_name>Paul Nash</display_name>
+
+    <location>Hixson, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/33269229-paul-nash]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1412105187p3/33269229.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1412105187p2/33269229.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 06 10:02:29 -0800 2017</created_at>
+  <updated_at>Fri Jan 06 10:02:29 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161138598</id>
+  <body><![CDATA[Fabian, even tho this is the best in the series, they are all good. Inferno may not have been the best, but it was still a fun read, full of action. I look forward to your thoughts on the rest of the series.<br />I've read ever Dan Brown book and enjoyed them all. Deception Point was really good, but my least favorite was Digital Fortress.]]></body>
+  
+  <user>
+    <id>33269229</id>
+    <name>Paul</name>
+    <display_name>Paul Nash</display_name>
+
+    <location>Hixson, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/33269229-paul-nash]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1412105187p3/33269229.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1412105187p2/33269229.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 06 10:06:50 -0800 2017</created_at>
+  <updated_at>Fri Jan 06 10:06:50 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>161155316</id>
+  <body><![CDATA[Agreed on Deception Point. Do you think Brown isn't good with staying with the same character?]]></body>
+  
+  <user>
+    <id>32760730</id>
+    <name>Peter</name>
+    <display_name>Peter</display_name>
+
+    <location>West Hollywood, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32760730-peter]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1481428707p3/32760730.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1481428707p2/32760730.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jan 06 17:07:37 -0800 2017</created_at>
+  <updated_at>Fri Jan 06 17:07:37 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>162436828</id>
+  <body><![CDATA[This is the only book by Dan Brown that I enjoyed -- as a scholar, it's the only one that doesn't make me roll my eyes so hard they go spinning out of my skull. XD]]></body>
+  
+  <user>
+    <id>287915</id>
+    <name>[Name Redacted]</name>
+    <display_name>[Name Redacted]</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/287915-name-redacted]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1347082397p3/287915.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1347082397p2/287915.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Feb 05 20:17:47 -0800 2017</created_at>
+  <updated_at>Sun Feb 05 20:17:47 -0800 2017</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/56669496]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/56669496]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

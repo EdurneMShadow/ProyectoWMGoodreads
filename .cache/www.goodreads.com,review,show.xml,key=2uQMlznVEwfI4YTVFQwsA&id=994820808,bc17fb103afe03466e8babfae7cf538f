@@ -1,0 +1,255 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:56:17 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: H2410QJQEQGZ4S9NFT9T
+etag: W/"c08f8b45790586f924a6523890f8716c"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.192304
+set-cookie: csid=BAhJIhgyNDktNDAyMTc3Ny0zMzEwMzc0BjoGRVQ%3D--44833b878d33c89c63c9997d4cc6529c5b7691df; path=/; expires=Tue, 12 May 2037 13:56:17 -0000, locale=es; path=/, _session_id2=eec057c2289362075c9deae0278268e1; path=/; expires=Fri, 12 May 2017 19:56:17 -0000; HttpOnly
+content-length: 9870
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=994820808
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>994820808</id>
+    
+  <user>
+    <id>25309949</id>
+    <name>Lotte</name>
+    <display_name>Lotte</display_name>
+
+    <location>Germany</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25309949-lotte]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1408555448p3/25309949.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1408555448p2/25309949.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">12974171</id>
+  <isbn>0141198966</isbn>
+  <isbn13>9780141198965</isbn13>
+  <text_reviews_count type="integer">154</text_reviews_count>
+  <title>Frankenstein</title>
+  <title_without_series>Frankenstein</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1461453474m/12974171.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1461453474s/12974171.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/12974171-frankenstein</link>
+  <num_pages>269</num_pages>
+  <format>Paperback</format>
+  <edition_information>Penguin English Library</edition_information>
+  <publisher>Penguin</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.75</average_rating>
+  <ratings_count>861298</ratings_count>
+  <description>The scientist Victor Frankenstein, obsessed with possessing the secrets of life, creates a new being from the bodies of the dead. But his creature is a twisted, gruesome parody of a man who, rejected for his monstrous appearance, sets out to destroy his maker.&lt;br /&gt;&lt;br /&gt;Mary Shelley's chilling Gothic tale, conceived after a nightmare in 1816 when she was only eighteen, became a modern myth. It is a disturbing and dramatic exploration of birth and death, creation and destruction, and one of the most iconic horror stories of all time.</description>
+<authors>
+<author>
+<id>11139</id>
+<name>Mary Wollstonecraft Shelley</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p5/11139.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p2/11139.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/11139.Mary_Wollstonecraft_Shelley]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>884152</ratings_count>
+<text_reviews_count>20971</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">77340174</id>
+          <page type="integer">200</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sun Oct 04 07:28:55 -0700 2015</created_at>
+          <updated_at type="datetime">Sun Oct 04 07:29:04 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">36</ratings_count>
+          <percent type="integer">74</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.d7a9b09f718fe207f9d3d3b75b12dbbc</note_uri>
+          <note_updated_at type="datetime">Sun Oct 04 07:29:04 -0700 2015</note_updated_at>
+          <body><![CDATA[This will definitely become one of my new favorite classics.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">77102454</id>
+          <page type="integer">87</page>
+          <chapter type="integer"></chapter>
+          <comments_count>4</comments_count>
+          <created_at type="datetime">Wed Sep 30 14:22:06 -0700 2015</created_at>
+          <updated_at type="datetime">Wed Sep 30 14:22:56 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">69</ratings_count>
+          <percent type="integer">32</percent>
+          <work_id type="integer">4836639</work_id>
+          <note_uri>kca://note/amzn1.grok.note.013692df3b44d233b5ce95832c362e05</note_uri>
+          <note_updated_at type="datetime">Wed Sep 30 14:22:56 -0700 2015</note_updated_at>
+          <body><![CDATA[As a huge fan of gothic fiction, I'm actually ashamed that I didn't read this sooner. Mary Shelley's writing is excellent!]]></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">1027749234</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Oct 04 14:36:27 -0700 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1002426209</id>
+          <old_status>to-read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Fri Sep 11 07:17:49 -0700 2015</updated_at>
+          <ratings_count>34</ratings_count>
+          <comments_count>1</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">495404972</id>
+          <old_status></old_status>
+          <status>to-read</status>
+          <updated_at type="datetime">Sun Jul 13 05:24:38 -0700 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>84</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="classics" exclusive="false" review_shelf_id="755934657" sortable="false" />
+    <shelf name="science-fiction" exclusive="false" review_shelf_id="852126451" sortable="false" />
+    <shelf name="gothic-horror" exclusive="false" review_shelf_id="867183384" sortable="false" />
+    <shelf name="all-time-favourites" exclusive="false" review_shelf_id="1100011402" sortable="true" />
+    <shelf name="2015-priority" exclusive="false" review_shelf_id="973824127" sortable="false" />
+    <shelf name="rory-gilmore-challenge" exclusive="false" review_shelf_id="767155130" sortable="false" />
+    <shelf name="penguin-english-library" exclusive="false" review_shelf_id="767188640" sortable="false" />
+    <shelf name="read-in-2015" exclusive="false" review_shelf_id="1100003227" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Sep 11 00:00:00 -0700 2015</started_at>
+  <read_at>Sun Oct 04 16:58:28 -0700 2015</read_at>
+  <date_added>Sun Jul 13 05:24:37 -0700 2014</date_added>
+  <date_updated>Sun Oct 04 14:53:07 -0700 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[One of those books you think you know because of its presence in pop culture etc., but you really don't... until you read it. A new favorite of mine for sure!]]>
+  </body>
+
+  
+
+  <comments_count>3</comments_count>
+    <comments start="1" end="3" total="3">
+        <comment>
+  <id>141101927</id>
+  <body><![CDATA[you're so right!]]></body>
+  
+  <user>
+    <id>33044154</id>
+    <name>Alexmary</name>
+    <display_name>Alexmary Romero</display_name>
+
+    <location>Buenos Aires, 1115, Argentina</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/33044154-alexmary-romero]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 05 19:03:06 -0700 2015</created_at>
+  <updated_at>Mon Oct 05 19:03:06 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>141200873</id>
+  <body><![CDATA[Glad you liked it!]]></body>
+  
+  <user>
+    <id>24522585</id>
+    <name>Melis</name>
+    <display_name>Melis Coban</display_name>
+
+    <location>Istanbul, 34, Turkey</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24522585-melis-coban]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1409385206p3/24522585.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1409385206p2/24522585.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Oct 08 04:28:07 -0700 2015</created_at>
+  <updated_at>Thu Oct 08 04:28:07 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>144956393</id>
+  <body><![CDATA[Mary Shelley is actually my great great great great grandmother]]></body>
+  
+  <user>
+    <id>46938103</id>
+    <name>Jasmyne</name>
+    <display_name>Jasmyne</display_name>
+
+    <location>Durban, 02, South Africa</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/46938103-jasmyne]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Mon Dec 28 13:18:23 -0800 2015</created_at>
+  <updated_at>Mon Dec 28 13:18:23 -0800 2015</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/994820808]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/994820808]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

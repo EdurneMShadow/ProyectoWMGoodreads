@@ -1,0 +1,322 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:40:10 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: H0R86A8MRBPD9M2NMNKQ
+etag: W/"c817159af891460557976929daa8ff7c"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.333180
+set-cookie: csid=BAhJIhg4MzktMzg3NTc3NC0xMDIyODcxBjoGRVQ%3D--c6048c817a2bb844a6915bedfbaf69543a6db6e9; path=/; expires=Tue, 12 May 2037 13:40:10 -0000, locale=es; path=/, _session_id2=29a2f35c2247f289e4efbc7f0612b86a; path=/; expires=Fri, 12 May 2017 19:40:10 -0000; HttpOnly
+content-length: 12964
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=791911859
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>791911859</id>
+    
+  <user>
+    <id>1036893</id>
+    <name>Fabian</name>
+    <display_name>Fabian</display_name>
+
+    <location>Denver, CO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1036893-fabian]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492631728p3/1036893.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492631728p2/1036893.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">2657</id>
+  <isbn>0061120081</isbn>
+  <isbn13>9780061120084</isbn13>
+  <text_reviews_count type="integer">57655</text_reviews_count>
+  <title>To Kill a Mockingbird</title>
+  <title_without_series>To Kill a Mockingbird</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1361975680m/2657.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1361975680s/2657.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2657.To_Kill_a_Mockingbird</link>
+  <num_pages>324</num_pages>
+  <format>Paperback</format>
+  <edition_information>50th Anniversary</edition_information>
+  <publisher>Harper Perennial Modern Classics</publisher>
+  <publication_day>23</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.25</average_rating>
+  <ratings_count>3269503</ratings_count>
+  <description>The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it, To Kill A Mockingbird became both an instant bestseller and a critical success when it was first published in 1960. It went on to win the Pulitzer Prize in 1961 and was later made into an Academy Award-winning film, also a classic.&lt;br /&gt;&lt;br /&gt;Compassionate, dramatic, and deeply moving, To Kill A Mockingbird takes readers to the roots of human behavior - to innocence and experience, kindness and cruelty, love and hatred, humor and pathos. Now with over 18 million copies in print and translated into forty languages, this regional story by a young Alabama woman claims universal appeal. Harper Lee always considered her book to be a simple love story. Today it is regarded as a masterpiece of American literature.</description>
+<authors>
+<author>
+<id>1825</id>
+<name>Harper Lee</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1188820730p5/1825.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1188820730p2/1825.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1825.Harper_Lee]]></link>
+<average_rating>4.21</average_rating>
+<ratings_count>3434236</ratings_count>
+<text_reviews_count>95107</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">255230992</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Fri Dec 27 10:22:03 -0800 2013</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">243559868</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Mon Dec 16 12:40:35 -0800 2013</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>4</rating>
+  <votes>114</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Dec 16 00:00:00 -0800 2013</started_at>
+  <read_at>Fri Dec 27 00:00:00 -0800 2013</read_at>
+  <date_added>Mon Dec 16 12:40:35 -0800 2013</date_added>
+  <date_updated>Sun Apr 09 10:48:50 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Thus it becomes crystal clear why this classic is a must for kids. Surely it stands on an even shelf with the Harry Potter series; it's ripe with conventions that can be cracked open in the classroom, where the love for literature begins for most American children. The emblematic character of Att...]]>
+  </body>
+
+  
+
+  <comments_count>8</comments_count>
+    <comments start="1" end="8" total="8">
+        <comment>
+  <id>89445985</id>
+  <body><![CDATA[I can't believe that you are just now reading this. Never too late for such a classic. I find Harper Lee's relationship with Truman Capote fascinating as well.]]></body>
+  
+  <user>
+    <id>1020307</id>
+    <name>Terri</name>
+    <display_name>Terri</display_name>
+
+    <location>El Paso, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1020307-terri]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat Dec 28 17:30:22 -0800 2013</created_at>
+  <updated_at>Sat Dec 28 17:30:22 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>89817658</id>
+  <body><![CDATA[I know. But better late than never in the case of the classics! I totally like it but as a champion of YA fiction, I must say that I am a wee bit turned off by the prospect of writing one now (I mean, a young adult novel). Also, its amazing what age does for the reading of such lit--sometimes it tastes amazing and fresh (like my first reading of "Catcher in the Rye"), sometimes it has rotted a bit (like my second and last reading of "Catcher"), making it hard to distinguish why it is still read at all, other than people not reading other stuff. The discovery of not popular books that produce goosebumps is what being a reader is all about. I--gasp!--prefer "Roll of Thunder, Hear My Cry" to "Mockingbird."<br />Happy new year!<br />Love,<br />F.]]></body>
+  
+  <user>
+    <id>1036893</id>
+    <name>Fabian</name>
+    <display_name>Fabian</display_name>
+
+    <location>Denver, CO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1036893-fabian]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492631728p3/1036893.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492631728p2/1036893.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 02 12:38:57 -0800 2014</created_at>
+  <updated_at>Thu Jan 02 12:38:57 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90072397</id>
+  <body><![CDATA[Happy New year to you! <br />I am not a Catcher Fan and never was. <br />I am a fan of YA literature and love many books in the genre. The Absolutely True Diary of a Part Time Indian is my current favorite. Have you read it? Love, Flick]]></body>
+  
+  <user>
+    <id>1020307</id>
+    <name>Terri</name>
+    <display_name>Terri</display_name>
+
+    <location>El Paso, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1020307-terri]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sun Jan 05 14:23:02 -0800 2014</created_at>
+  <updated_at>Sun Jan 05 14:23:02 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>154604121</id>
+  <body><![CDATA[I guess this and Potter are both YA, but other than that, I'm going to disagree and say they're pretty unalike. (But I like contrarian views.)]]></body>
+  
+  <user>
+    <id>1199525</id>
+    <name>Cecily</name>
+    <display_name>Cecily</display_name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1199525-cecily]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480285828p3/1199525.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480285828p2/1199525.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 22 13:01:14 -0700 2016</created_at>
+  <updated_at>Fri Jul 22 13:01:14 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>154642896</id>
+  <body><![CDATA[Fabian, they are alike in that both have inspired millions of young adults to read, and no matter what, even if it's "Twilight" or "Hunger Games" inspiring someone to read is a great thing. Cecily, you are right in that they are very much unalike.]]></body>
+  
+  <user>
+    <id>39346323</id>
+    <name>Greg</name>
+    <display_name>Greg Z</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/39346323-greg-z]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat Jul 23 13:46:43 -0700 2016</created_at>
+  <updated_at>Sat Jul 23 13:46:43 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>154887793</id>
+  <body><![CDATA[<i>Terri wrote: "Happy New year to you! <br />I am not a Catcher Fan and never was. <br />I am a fan of YA literature and love many books in the genre. The Absolutely True Diary of a Part Time Indian is my current favorite. ..."</i><br /> "Contrarian views" is pretty much my purpose in this world. Grabbing two very different objects and pitting them against each other--that's the stuff! I feel like "Mockingbird" is THE epitome of YA... everyone mentions it like it was their last good read... I secretly believe its the last book they've read (and it was in middle school)!]]></body>
+  
+  <user>
+    <id>1036893</id>
+    <name>Fabian</name>
+    <display_name>Fabian</display_name>
+
+    <location>Denver, CO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1036893-fabian]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492631728p3/1036893.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492631728p2/1036893.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 29 14:11:16 -0700 2016</created_at>
+  <updated_at>Fri Jul 29 14:11:16 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>154887822</id>
+  <body><![CDATA[<i>Greg wrote: "Fabian, they are alike in that both have inspired millions of young adults to read, and no matter what, even if it's "Twilight" or "Hunger Games" inspiring someone to read is a great thing. Cecily,..."</i> Yup. They create legions of future readers.]]></body>
+  
+  <user>
+    <id>1036893</id>
+    <name>Fabian</name>
+    <display_name>Fabian</display_name>
+
+    <location>Denver, CO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1036893-fabian]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1492631728p3/1036893.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1492631728p2/1036893.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Jul 29 14:11:50 -0700 2016</created_at>
+  <updated_at>Fri Jul 29 14:11:50 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>163253760</id>
+  <body><![CDATA[Funny, but as young as Scout is, I think of the book as meant for adults.]]></body>
+  
+  <user>
+    <id>575806</id>
+    <name>Kressel</name>
+    <display_name>Kressel Housman</display_name>
+
+    <location>Monsey, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/575806-kressel-housman]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1245872830p3/575806.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1245872830p2/575806.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 25 16:57:03 -0800 2017</created_at>
+  <updated_at>Sat Feb 25 16:57:03 -0800 2017</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/791911859]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/791911859]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

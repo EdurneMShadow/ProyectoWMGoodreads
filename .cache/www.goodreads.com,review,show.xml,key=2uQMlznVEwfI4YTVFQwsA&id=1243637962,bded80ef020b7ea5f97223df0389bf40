@@ -1,0 +1,429 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:45:57 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: SPGCXF51ARSDECV74J6A
+etag: W/"c845a1c94aeac26d2fc624026918ee06"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.216949
+set-cookie: csid=BAhJIhg3NDctMTU2MTMwNy0wNDMzMjk4BjoGRVQ%3D--f5a6e353fa0fadd4f9c1b3ccb27a0f46208eedfc; path=/; expires=Tue, 12 May 2037 13:45:57 -0000, locale=es; path=/, _session_id2=ce8f60efb1efef731d5281fed70e79f9; path=/; expires=Fri, 12 May 2017 19:45:57 -0000; HttpOnly
+content-length: 17331
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=1243637962
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1243637962</id>
+    
+  <user>
+    <id>41788524</id>
+    <name>Kai</name>
+    <display_name>Kai</display_name>
+
+    <location>Germany</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/41788524-kai]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486079191p3/41788524.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486079191p2/41788524.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">72193</id>
+  <isbn>0747532745</isbn>
+  <isbn13>9780747532743</isbn13>
+  <text_reviews_count type="integer">2278</text_reviews_count>
+  <title>Harry Potter and the Philosopher's Stone (Harry Potter, #1)</title>
+  <title_without_series>Harry Potter and the Philosopher's Stone</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1327190600m/72193.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1327190600s/72193.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/72193.Harry_Potter_and_the_Philosopher_s_Stone</link>
+  <num_pages>223</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Bloomsbury Publishing</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>1997</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.44</average_rating>
+  <ratings_count>4620068</ratings_count>
+  <description>Harry Potter thinks he is an ordinary boy - until he is rescued by an owl, taken to Hogwarts School of Witchcraft and Wizardry, learns to play Quidditch and does battle in a deadly duel. The Reason ... HARRY POTTER IS A WIZARD!</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1415945171p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1415945171p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.42</average_rating>
+<ratings_count>17716685</ratings_count>
+<text_reviews_count>439511</text_reviews_count>
+</author>
+</authors>
+  <published>1997</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">97910212</id>
+          <page type="integer">223</page>
+          <chapter type="integer"></chapter>
+          <comments_count>2</comments_count>
+          <created_at type="datetime">Sat May 28 00:14:51 -0700 2016</created_at>
+          <updated_at type="datetime">Sat May 28 00:15:29 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">24</ratings_count>
+          <percent type="integer">100</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.e79677144c776586ca60d13a9e1f5dfa</note_uri>
+          <note_updated_at type="datetime">Sat May 28 00:15:29 -0700 2016</note_updated_at>
+          <body><![CDATA[I'm a crying mess whenever I read about Neville receiving house points for standing up to his friends. Just the thought makes me teary]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">97653828</id>
+          <page type="integer">214</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed May 25 00:09:22 -0700 2016</created_at>
+          <updated_at type="datetime">Wed May 25 00:09:55 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">22</ratings_count>
+          <percent type="integer">95</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.aed94de80fdccea7b9f9e87f86f58cff</note_uri>
+          <note_updated_at type="datetime">Wed May 25 00:09:55 -0700 2016</note_updated_at>
+          <body><![CDATA[<i>"Me!" said Hermione. "Books! And cleverness! There are more important things - friendship and bravery and - oh Harry - be careful!”</i>]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">96747755</id>
+          <page type="integer">158</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sun May 15 00:40:57 -0700 2016</created_at>
+          <updated_at type="datetime">Sun May 15 00:41:53 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">31</ratings_count>
+          <percent type="integer">70</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.a8b358ef21170cacbe4c325186fd21ae</note_uri>
+          <note_updated_at type="datetime">Sun May 15 00:41:53 -0700 2016</note_updated_at>
+          <body><![CDATA[<i>From that moment on, Hermione Granger became their friend. There are some things you can't share without ending up liking each other, and knocking out a twelve-foot mountain troll is one of them.</i> I'm serious, this is probably my 12th time reading this and I still have tears in my eyes every single time]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">96411720</id>
+          <page type="integer">111</page>
+          <chapter type="integer"></chapter>
+          <comments_count>2</comments_count>
+          <created_at type="datetime">Wed May 11 00:12:34 -0700 2016</created_at>
+          <updated_at type="datetime">Wed May 11 00:12:51 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">52</ratings_count>
+          <percent type="integer">49</percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.23c635389542f6b20385af47269c5a2c</note_uri>
+          <note_updated_at type="datetime">Wed May 11 00:12:50 -0700 2016</note_updated_at>
+          <body><![CDATA[Reading this to my 7 year old brother. It's his first Potter and he loves it!]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">79011608</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>3</comments_count>
+          <created_at type="datetime">Wed Oct 28 04:19:31 -0700 2015</created_at>
+          <updated_at type="datetime">Wed Oct 28 04:20:27 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">15</ratings_count>
+          <percent type="integer"></percent>
+          <work_id type="integer">4640799</work_id>
+          <note_uri>kca://note/amzn1.grok.note.1824a5f77a1d804a826bd8fbf46400a2</note_uri>
+          <note_updated_at type="datetime">Wed Oct 28 04:20:27 -0700 2015</note_updated_at>
+          <body><![CDATA[I'm going to read this while being No. 4267 in the queue for the Cursed Child tickets]]></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">1370435641</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sat May 28 00:15:11 -0700 2016</updated_at>
+          <ratings_count>13</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1349366933</id>
+          <old_status>read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Wed May 11 00:11:40 -0700 2016</updated_at>
+          <ratings_count>7</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1062719833</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Thu Nov 05 18:22:37 -0800 2015</updated_at>
+          <ratings_count>4</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1052626303</id>
+          <old_status>read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Wed Oct 28 04:17:53 -0700 2015</updated_at>
+          <ratings_count>2</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">812807024</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Thu Apr 02 02:52:08 -0700 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>245</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="finished-series" exclusive="false" review_shelf_id="1088907216" sortable="false" />
+    <shelf name="2015" exclusive="false" review_shelf_id="1103459585" sortable="false" />
+    <shelf name="pottershelf" exclusive="false" review_shelf_id="1538116750" sortable="false" />
+    <shelf name="favorites" exclusive="false" review_shelf_id="951479344" sortable="false" />
+    <shelf name="owned" exclusive="false" review_shelf_id="1017272160" sortable="false" />
+    <shelf name="2016" exclusive="false" review_shelf_id="1347132731" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu May 05 00:00:00 -0700 2016</started_at>
+  <read_at>Sat May 28 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Apr 02 02:52:08 -0700 2015</date_added>
+  <date_updated>Wed Mar 01 12:39:29 -0800 2017</date_updated>
+  <read_count>2</read_count>
+  <body>
+      <![CDATA[<i>“There are some things you can't share without ending up liking each other, and knocking out a twelve-foot mountain troll is one of them.”</i><br /><br />Harry Potter is the most amazing series that I have ever read in my whole life, and it probably forever will be. I will never love any books as much as I love...]]>
+  </body>
+
+  
+
+  <comments_count>8</comments_count>
+    <comments start="1" end="8" total="8">
+        <comment>
+  <id>150318739</id>
+  <body><![CDATA[All the books are going to be illustrated, The chamber of secrets illustrated edition comes out in October :D]]></body>
+  
+  <user>
+    <id>42178026</id>
+    <name>Nefeli</name>
+    <display_name>Nefeli S.</display_name>
+
+    <location>Zakynthos, Greece, Greece</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/42178026-nefeli-s]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1457691005p3/42178026.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1457691005p2/42178026.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Apr 14 01:21:18 -0700 2016</created_at>
+  <updated_at>Thu Apr 14 01:21:18 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>150318987</id>
+  <body><![CDATA[I know &lt;33 I read it a few weeks ago on pottermore or something]]></body>
+  
+  <user>
+    <id>41788524</id>
+    <name>Kai</name>
+    <display_name>Kai</display_name>
+
+    <location>Germany</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/41788524-kai]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486079191p3/41788524.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486079191p2/41788524.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Apr 14 01:36:46 -0700 2016</created_at>
+  <updated_at>Thu Apr 14 01:36:46 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>152227708</id>
+  <body><![CDATA[I want to get the illustrated ones, too. The artist is amazing.]]></body>
+  
+  <user>
+    <id>812056</id>
+    <name>Elissa (crz4drwho)</name>
+    <display_name>Elissa (crz4drwho)</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/812056-elissa-crz4drwho]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1458063440p3/812056.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1458063440p2/812056.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 28 07:16:36 -0700 2016</created_at>
+  <updated_at>Sat May 28 07:16:36 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>152239599</id>
+  <body><![CDATA[I honestly can't wait for chamber of secrets to be released, it'll be beautiful]]></body>
+  
+  <user>
+    <id>41788524</id>
+    <name>Kai</name>
+    <display_name>Kai</display_name>
+
+    <location>Germany</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/41788524-kai]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486079191p3/41788524.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486079191p2/41788524.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat May 28 14:05:00 -0700 2016</created_at>
+  <updated_at>Sat May 28 14:05:00 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157052064</id>
+  <body><![CDATA[I can't wait for the Chamber of Secrets! The illustrated Philosophers Stone is just so gorgeous sighs]]></body>
+  
+  <user>
+    <id>7706640</id>
+    <name>jamieson</name>
+    <display_name>jamieson</display_name>
+
+    <location>Perth, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7706640-jamieson]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1484563013p3/7706640.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1484563013p2/7706640.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Sep 20 07:29:03 -0700 2016</created_at>
+  <updated_at>Tue Sep 20 07:29:03 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>157055946</id>
+  <body><![CDATA[<i>Jamieson wrote: "I can't wait for the Chamber of Secrets! The illustrated Philosophers Stone is just so gorgeous sighs"</i><br /><br />Same here, it could look at them for ages.]]></body>
+  
+  <user>
+    <id>41788524</id>
+    <name>Kai</name>
+    <display_name>Kai</display_name>
+
+    <location>Germany</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/41788524-kai]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486079191p3/41788524.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486079191p2/41788524.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Sep 20 09:20:28 -0700 2016</created_at>
+  <updated_at>Tue Sep 20 09:20:28 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>162783228</id>
+  <body><![CDATA[I am doing a marathon for this. Gonna read book one this month and then watch the movie, and then next month, the second book and then the movie. And so on so forth. Can't wait for it!]]></body>
+  
+  <user>
+    <id>53682922</id>
+    <name>WillKai</name>
+    <display_name>WillKai Kamal</display_name>
+
+    <location>Kuala Lumpur, 14, Malaysia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/53682922-willkai-kamal]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486399075p3/53682922.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486399075p2/53682922.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Feb 13 23:50:46 -0800 2017</created_at>
+  <updated_at>Mon Feb 13 23:50:46 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>162785576</id>
+  <body><![CDATA[<i>WillKai wrote: "I am doing a marathon for this. Gonna read book one this month and then watch the movie, and then next month, the second book and then the movie. And so on so forth. Can't wait for it!"</i><br /><br />Sounds good :D have fun!]]></body>
+  
+  <user>
+    <id>41788524</id>
+    <name>Kai</name>
+    <display_name>Kai</display_name>
+
+    <location>Germany</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/41788524-kai]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1486079191p3/41788524.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1486079191p2/41788524.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 14 02:19:07 -0800 2017</created_at>
+  <updated_at>Tue Feb 14 02:19:07 -0800 2017</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1243637962]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1243637962]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

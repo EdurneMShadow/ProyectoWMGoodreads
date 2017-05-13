@@ -1,0 +1,313 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:36:55 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: 10EDSVF7QDMJSTB25A6E
+etag: W/"42b731f0854175ffe172c947c905098f"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.408148
+set-cookie: csid=BAhJIhgxODYtMTYyMDIwMS02MjU0Mjk2BjoGRVQ%3D--31ecaef67cc37e8d12fc33a9e552a8d9a466b8ef; path=/; expires=Tue, 12 May 2037 13:36:55 -0000, locale=es; path=/, _session_id2=f0f5eaafa2fcb784d5b1a1bc018f3875; path=/; expires=Fri, 12 May 2017 19:36:55 -0000; HttpOnly
+content-length: 12170
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=214358246
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>214358246</id>
+    
+  <user>
+    <id>6257458</id>
+    <name>Lynxie</name>
+    <display_name>Lynxie</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6257458-lynxie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1494472782p3/6257458.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1494472782p2/6257458.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">2866</id>
+  <isbn>0006513204</isbn>
+  <isbn13>9780006513209</isbn13>
+  <text_reviews_count type="integer">168</text_reviews_count>
+  <title>Girl With a Pearl Earring</title>
+  <title_without_series>Girl With a Pearl Earring</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2866.Girl_With_a_Pearl_Earring</link>
+  <num_pages>248</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>HarperCollins</publisher>
+  <publication_day/>
+  <publication_year>2000</publication_year>
+  <publication_month/>
+  <average_rating>3.84</average_rating>
+  <ratings_count>479287</ratings_count>
+  <description>A brilliant historical novel on the corruption of innocence, using the famous painting by Vermeer as an inspiration. Griet, the young daughter of a tilemaker in seventeeth century Holland, obtains her first job, as a servant in Vermeer's household. Tracy Chevalier shows us, through Griet's eyes, the complicated family, the society of the small town of Delft, and life with an obsessive genius. Griet loves being drawn into his artistic life, and leaving her former drudgery, but the cost to her own survival may be high.</description>
+<authors>
+<author>
+<id>1973</id>
+<name>Tracy Chevalier</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1439297099p5/1973.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1439297099p2/1973.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1973.Tracy_Chevalier]]></link>
+<average_rating>3.80</average_rating>
+<ratings_count>635156</ratings_count>
+<text_reviews_count>22574</text_reviews_count>
+</author>
+</authors>
+  <published>2000</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">54366038</id>
+          <page type="integer">187</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Dec 11 12:32:46 -0800 2014</created_at>
+          <updated_at type="datetime">Thu Dec 11 12:32:46 -0800 2014</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">75</percent>
+          <work_id type="integer">3358875</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">54326971</id>
+          <page type="integer">100</page>
+          <chapter type="integer"></chapter>
+          <comments_count>2</comments_count>
+          <created_at type="datetime">Wed Dec 10 17:51:34 -0800 2014</created_at>
+          <updated_at type="datetime">Wed Dec 10 17:51:44 -0800 2014</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">40</percent>
+          <work_id type="integer">3358875</work_id>
+          <note_uri>kca://note/amzn1.grok.note.0b39c430c525eb59968d073fa5b90077</note_uri>
+          <note_updated_at type="datetime">Wed Dec 10 17:51:44 -0800 2014</note_updated_at>
+          <body>MEH!</body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">667254008</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Thu Dec 11 22:53:50 -0800 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">665714052</id>
+          <old_status>to-read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Wed Dec 10 12:47:11 -0800 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>2</rating>
+  <votes>15</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="summer-challenge" exclusive="false" review_shelf_id="833024064" sortable="false" />
+    <shelf name="historical-fiction" exclusive="false" review_shelf_id="852751844" sortable="false" />
+    <shelf name="dead-tree-books" exclusive="false" review_shelf_id="172147859" sortable="false" />
+    <shelf name="2-star-review" exclusive="false" review_shelf_id="852751748" sortable="false" />
+    <shelf name="something-missing" exclusive="false" review_shelf_id="852752048" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Dec 10 00:00:00 -0800 2014</started_at>
+  <read_at>Thu Dec 11 00:00:00 -0800 2014</read_at>
+  <date_added>Sat Sep 24 00:08:50 -0700 2011</date_added>
+  <date_updated>Thu Dec 11 23:09:31 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Are you suffering from insomnia?<br /><br />Yes?<br /><br />Well, try picking up this book. It should put you to sleep in 10minutes flat. <br /><br />The story about the most boring people in the world, told by a girl who has the most boring thoughts and ideas in history. Even while getting groped in the alley, she thinks of the cl...]]>
+  </body>
+
+  
+
+  <comments_count>6</comments_count>
+    <comments start="1" end="6" total="6">
+        <comment>
+  <id>110857658</id>
+  <body><![CDATA[Keep a copy on the bedside table then Lynxie? (Lol :)]]></body>
+  
+  <user>
+    <id>20814018</id>
+    <name>☼♄Jülie </name>
+    <display_name>☼♄Jülie </display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/20814018-j-lie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483253921p3/20814018.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483253921p2/20814018.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Dec 11 23:21:01 -0800 2014</created_at>
+  <updated_at>Thu Dec 11 23:21:01 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>110857766</id>
+  <body><![CDATA[Sounds like she should Jools!]]></body>
+  
+  <user>
+    <id>2337007</id>
+    <name>Brenda</name>
+    <display_name>Brenda</display_name>
+
+    <location>Newcastle, NSW, 02, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2337007-brenda]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483164305p3/2337007.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483164305p2/2337007.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Dec 11 23:27:31 -0800 2014</created_at>
+  <updated_at>Thu Dec 11 23:27:31 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>110857791</id>
+  <body><![CDATA[<i>☼♄Jülie wrote: "Keep a copy on the bedside table then Lynxie? (Lol :)"</i><br /><br />That's the plan!!]]></body>
+  
+  <user>
+    <id>6257458</id>
+    <name>Lynxie</name>
+    <display_name>Lynxie</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6257458-lynxie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1494472782p3/6257458.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1494472782p2/6257458.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Dec 11 23:29:08 -0800 2014</created_at>
+  <updated_at>Thu Dec 11 23:29:08 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>110909209</id>
+  <body><![CDATA[Oh dear - well articulated review. But I loved it when I read it years back - is good we all like different things would be boring otherwise :)]]></body>
+  
+  <user>
+    <id>4949011</id>
+    <name>Sally906</name>
+    <display_name>Sally906</display_name>
+
+    <location>Darwin, NT , Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4949011-sally906]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1483186654p3/4949011.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1483186654p2/4949011.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Dec 13 04:37:32 -0800 2014</created_at>
+  <updated_at>Sat Dec 13 04:37:32 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>110927488</id>
+  <body><![CDATA[<i>Sally906 wrote: "Oh dear - well articulated review. But I loved it when I read it years back - is good we all like different things would be boring otherwise :)"</i><br /><br />Very true Sally :)]]></body>
+  
+  <user>
+    <id>6257458</id>
+    <name>Lynxie</name>
+    <display_name>Lynxie</display_name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6257458-lynxie]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1494472782p3/6257458.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1494472782p2/6257458.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Dec 13 13:16:55 -0800 2014</created_at>
+  <updated_at>Sat Dec 13 13:16:55 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>158613694</id>
+  <body><![CDATA[Oh man. I got it all the other way.<br />It was written simple yet beautifully, she said so much using so little worlds. It was a very atmospheric read, at least for me, I could see little pieces of air in the atelier and around the house. Griet had not a lot of education, but she couldn't get it at the time, either. For example, read the book 'The Colour of Milk', it has a similar protagonist.<br />Griet's thoughts vere artistic, I loved the parts in which she described the clouds. Her mind was poetic, although she had no chance to ever show it. I must admit I did not like the tension between her or Vermeer, nor the way he turned out to be a coward, but otherwisely, this book was one of the best I've read. We all do have other opinnions, nobody ever read the SAME book twice :)]]></body>
+  
+  <user>
+    <id>60906430</id>
+    <name>MravaWishes</name>
+    <display_name>MravaWishes</display_name>
+
+    <location>Valjevo, Serbia, Serbia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/60906430-mravawishes]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1477411401p3/60906430.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1477411401p2/60906430.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Oct 31 13:42:29 -0700 2016</created_at>
+  <updated_at>Mon Oct 31 13:42:29 -0700 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/214358246]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/214358246]]></link>
+    <owned>1</owned>
+</review>
+
+
+</GoodreadsResponse>

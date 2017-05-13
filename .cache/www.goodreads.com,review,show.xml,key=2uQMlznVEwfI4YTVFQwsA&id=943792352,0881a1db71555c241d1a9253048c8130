@@ -1,0 +1,460 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:53:09 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: 89DTXGK117M13X5HXW5E
+etag: W/"67232d13ccdd96a86d728636236a21ab"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.225992
+set-cookie: csid=BAhJIhg1MjUtMjgxNDE5NC03MDgxNjkyBjoGRVQ%3D--9d2649d9b93b4bf184063b9f5d045dbc4fccc250; path=/; expires=Tue, 12 May 2037 13:53:09 -0000, locale=es; path=/, _session_id2=bb7713e8a74e03b5fe0a7c4628696029; path=/; expires=Fri, 12 May 2017 19:53:09 -0000; HttpOnly
+content-length: 15972
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=943792352
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>943792352</id>
+    
+  <user>
+    <id>1435166</id>
+    <name>Sarah</name>
+    <display_name>Sarah</display_name>
+
+    <location>Chapel Hill, NC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1435166-sarah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442438779p3/1435166.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442438779p2/1435166.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">11870085</id>
+  <isbn>0525478817</isbn>
+  <isbn13>9780525478812</isbn13>
+  <text_reviews_count type="integer">127185</text_reviews_count>
+  <title>The Fault in Our Stars</title>
+  <title_without_series>The Fault in Our Stars</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1360206420m/11870085.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1360206420s/11870085.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/11870085-the-fault-in-our-stars</link>
+  <num_pages>313</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Dutton Books</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.27</average_rating>
+  <ratings_count>2381953</ratings_count>
+  <description>&lt;i&gt;There is an alternate cover edition &lt;a href="https://www.goodreads.com/book/show/25856606-the-fault-in-our-stars" rel="nofollow"&gt;here&lt;/a&gt;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;"I fell in love the way you fall asleep: slowly, then all at once."&lt;br /&gt;&lt;br /&gt;Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a gorgeous plot twist named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten.&lt;br /&gt;&lt;br /&gt;Insightful, bold, irreverent, and raw, The Fault in Our Stars is award-winning author John Green's most ambitious and heartbreaking work yet, brilliantly exploring the funny, thrilling, and tragic business of being alive and in love.</description>
+<authors>
+<author>
+<id>1406384</id>
+<name>John Green</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>4528234</ratings_count>
+<text_reviews_count>275833</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">431641707</id>
+          <old_status>to-read</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Wed May 21 06:07:35 -0700 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">431641638</id>
+          <old_status></old_status>
+          <status>to-read</status>
+          <updated_at type="datetime">Wed May 21 06:07:30 -0700 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>0</rating>
+  <votes>161</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed May 21 06:07:30 -0700 2014</date_added>
+  <date_updated>Wed May 21 06:08:26 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[What can I say about this amazing book that has not already been said a million times? It's real, heart-wrenching and so, so well written. I'm a fan of alll of John's books but this one is a masterpiece. I'm not even exaggerating. ]]>
+  </body>
+
+  
+
+  <comments_count>14</comments_count>
+    <comments start="1" end="14" total="14">
+        <comment>
+  <id>101707922</id>
+  <body><![CDATA[i agree with you completley sarah!!!!]]></body>
+  
+  <user>
+    <id>32412477</id>
+    <name>Paige:)~The Booklion</name>
+    <display_name>Paige:)~The Booklion</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32412477-paige-the-booklion]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1427501095p3/32412477.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1427501095p2/32412477.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Jul 06 21:04:12 -0700 2014</created_at>
+  <updated_at>Sun Jul 06 21:04:12 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>105961101</id>
+  <body><![CDATA[me and my sister cried rivers while reading the book and the movie]]></body>
+  
+  <user>
+    <id>34844141</id>
+    <name>Jen</name>
+    <display_name>Jen</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34844141-jen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1450481699p3/34844141.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1450481699p2/34844141.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Sep 11 17:36:37 -0700 2014</created_at>
+  <updated_at>Thu Sep 11 17:36:37 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>106370669</id>
+  <body><![CDATA[I love this soo much]]></body>
+  
+  <user>
+    <id>35081068</id>
+    <name>Destnee</name>
+    <display_name>Destnee</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/35081068-destnee]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1410978891p3/35081068.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1410978891p2/35081068.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 19 08:54:58 -0700 2014</created_at>
+  <updated_at>Fri Sep 19 08:54:58 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>107047329</id>
+  <body><![CDATA[Absolutely love this book]]></body>
+  
+  <user>
+    <id>35150963</id>
+    <name>Lyndsay</name>
+    <display_name>Lyndsay Grubb</display_name>
+
+    <location>Columbia, MO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/35150963-lyndsay-grubb]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Oct 01 10:42:13 -0700 2014</created_at>
+  <updated_at>Wed Oct 01 10:42:13 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>107960456</id>
+  <body><![CDATA[Now I know just how good it is!]]></body>
+  
+  <user>
+    <id>36048180</id>
+    <name>Maddy</name>
+    <display_name>Maddy</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/36048180-maddy]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat Oct 18 08:59:42 -0700 2014</created_at>
+  <updated_at>Sat Oct 18 08:59:42 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>114122829</id>
+  <body><![CDATA[That is a really good book]]></body>
+  
+  <user>
+    <id>39986465</id>
+    <name>Kyra</name>
+    <display_name>Kyra</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/39986465-kyra]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1423199408p3/39986465.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1423199408p2/39986465.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Feb 05 21:31:15 -0800 2015</created_at>
+  <updated_at>Thu Feb 05 21:31:15 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>114122867</id>
+  <body><![CDATA[I agree Sarah I have read everyone of your books you are my one of my favorite authors I wish I could friend you]]></body>
+  
+  <user>
+    <id>39986465</id>
+    <name>Kyra</name>
+    <display_name>Kyra</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/39986465-kyra]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1423199408p3/39986465.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1423199408p2/39986465.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Feb 05 21:32:40 -0800 2015</created_at>
+  <updated_at>Thu Feb 05 21:32:40 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>114587467</id>
+  <body><![CDATA[Can someone tell me what was so great about this book? I didn't like it at all and I don't get the popularity.]]></body>
+  
+  <user>
+    <id>12455059</id>
+    <name>lily:)</name>
+    <display_name>lily:)</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12455059-lily]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1489349335p3/12455059.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1489349335p2/12455059.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Feb 14 10:08:18 -0800 2015</created_at>
+  <updated_at>Sat Feb 14 10:08:18 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>116848323</id>
+  <body><![CDATA[I'll be brutally honest...<br />OH MY HAZEL GRACE! This book is so good I dont even know how to put it into words. <br />Although There is this one Nicholas sparks book called a walk to remember not to compare or anything. But I have always thought that it was 10 times better than TFIOS and If I stay or any love romance book I have ever read it so good and sad. I soaked my book from my tears that was how moving it was.]]></body>
+  
+  <user>
+    <id>38351443</id>
+    <name>Vic</name>
+    <display_name>Vic</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/38351443-vic]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Sat Mar 28 16:36:40 -0700 2015</created_at>
+  <updated_at>Sat Mar 28 16:36:40 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>118919755</id>
+  <body><![CDATA[This book was an amazing read! It was so inspiring and I loved it!!! TH=he characters just touched my heart and inspired me to help others! It is now one of my favorite books!!]]></body>
+  
+  <user>
+    <id>40552621</id>
+    <name>Taylor</name>
+    <display_name>Taylor</display_name>
+
+    <location>Eden Prairie, MN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/40552621-taylor]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Fri May 08 09:02:12 -0700 2015</created_at>
+  <updated_at>Fri May 08 09:02:12 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>138766448</id>
+  <body><![CDATA[I absolutely agree]]></body>
+  
+  <user>
+    <id>40597301</id>
+    <name>Sam</name>
+    <display_name>Sam T</display_name>
+
+    <location>Brampton, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/40597301-sam-t]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1439779034p3/40597301.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1439779034p2/40597301.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 16 19:40:19 -0700 2015</created_at>
+  <updated_at>Sun Aug 16 19:40:19 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>142653139</id>
+  <body><![CDATA[I love this book soooo much best book ever !]]></body>
+  
+  <user>
+    <id>46274414</id>
+    <name>Kayla</name>
+    <display_name>Kayla Cipully </display_name>
+
+    <location>Pottstown, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/46274414-kayla-cipully]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1440451670p3/46274414.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1440451670p2/46274414.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Nov 10 16:54:30 -0800 2015</created_at>
+  <updated_at>Tue Nov 10 16:54:30 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>151786319</id>
+  <body><![CDATA[I read the ending at school and I was like "don't cry at school you CANNOT cry at school" but when me and my mom went to see the movie...I got so teary eyed...and I don't cry in movies]]></body>
+  
+  <user>
+    <id>55893327</id>
+    <name>Sophia</name>
+    <display_name>Sophia</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/55893327-sophia]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Tue May 17 13:31:15 -0700 2016</created_at>
+  <updated_at>Tue May 17 13:31:15 -0700 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>161961743</id>
+  <body><![CDATA[I have been waiting to read this. I didn't want to see the movie until I read the book!]]></body>
+  
+  <user>
+    <id>63667994</id>
+    <name>Lexi</name>
+    <display_name>Lexi</display_name>
+
+    <location>Dayton, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/63667994-lexi]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <created_at>Wed Jan 25 09:04:47 -0800 2017</created_at>
+  <updated_at>Wed Jan 25 09:04:47 -0800 2017</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/943792352]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/943792352]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

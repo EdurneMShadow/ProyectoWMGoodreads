@@ -1,0 +1,850 @@
+status: 200
+server: Server
+date: Fri, 12 May 2017 13:53:37 GMT
+content-type: application/xml; charset=utf-8
+connection: keep-alive
+x-frame-options: ALLOWALL
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+vary: User-Agent,Accept-Encoding
+x-request-id: EN6V8AAP9HR7GTXGGJAK
+etag: W/"eadb3e1d306a5c741ce5b8e40075abb1"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.347460
+set-cookie: csid=BAhJIhg2OTYtMDM1NTg3Mi02MDY4ODE2BjoGRVQ%3D--35472300c6536d6c4fc7df1731b7b0ff6edad888; path=/; expires=Tue, 12 May 2037 13:53:37 -0000, locale=es; path=/, _session_id2=a52e55280749c14a7a259b675e8b9cc1; path=/; expires=Fri, 12 May 2017 19:53:37 -0000; HttpOnly
+content-length: 37983
+-content-encoding: gzip
+content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=89203027
+-varied-user-agent: Python-httplib2/0.10.3 (gzip)
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[2uQMlznVEwfI4YTVFQwsA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>89203027</id>
+    
+  <user>
+    <id>1852293</id>
+    <name><![CDATA[Amelia, the pragmatic idealist]]></name>
+    <display_name><![CDATA[Amelia, the pragmatic idealist]]></display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1852293-amelia-the-pragmatic-idealist]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1271431278p3/1852293.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1271431278p2/1852293.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">7260188</id>
+  <isbn>0439023513</isbn>
+  <isbn13>9780439023511</isbn13>
+  <text_reviews_count type="integer">86152</text_reviews_count>
+  <title>Mockingjay (The Hunger Games, #3)</title>
+  <title_without_series>Mockingjay</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1358275419m/7260188.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1358275419s/7260188.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7260188-mockingjay</link>
+  <num_pages>392</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First Edition</edition_information>
+  <publisher>Scholastic Press</publisher>
+  <publication_day>24</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.03</average_rating>
+  <ratings_count>1836765</ratings_count>
+  <description>&lt;b&gt;My name is Katniss Everdeen.&lt;br /&gt;Why am I not dead?&lt;br /&gt;I should be dead.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Katniss Everdeen, girl on fire, has survived, even though her home has been destroyed. Gale has escaped. Katniss's family is safe. Peeta has been captured by the Capitol. District 13 really does exist. There are rebels. There are new leaders. A revolution is unfolding.&lt;br /&gt;&lt;br /&gt;It is by design that Katniss was rescued from the arena in the cruel and haunting Quarter Quell, and it is by design that she has long been part of the revolution without knowing it. District 13 has come out of the shadows and is plotting to overthrow the Capitol. Everyone, it seems, has had a hand in the carefully laid plans--except Katniss.&lt;br /&gt;&lt;br /&gt;The success of the rebellion hinges on Katniss's willingness to be a pawn, to accept responsibility for countless lives, and to change the course of the future of Panem. To do this, she must put aside her feelings of anger and distrust. She must become the rebels' Mockingjay--no matter what the personal cost.</description>
+<authors>
+<author>
+<id>153394</id>
+<name>Suzanne Collins</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1394819770p5/153394.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1394819770p2/153394.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/153394.Suzanne_Collins]]></link>
+<average_rating>4.27</average_rating>
+<ratings_count>8961004</ratings_count>
+<text_reviews_count>356107</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">3490977</id>
+          <page type="integer">330</page>
+          <chapter type="integer"></chapter>
+          <comments_count>3</comments_count>
+          <created_at type="datetime">Sat Aug 28 21:17:54 -0700 2010</created_at>
+          <updated_at type="datetime">Sat Sep 07 03:25:38 -0700 2013</updated_at>
+          <last_comment_at type="datetime">Sat Aug 28 21:43:45 -0700 2010</last_comment_at>
+          <ratings_count type="integer">2</ratings_count>
+          <percent type="integer">85</percent>
+          <work_id type="integer">8812783</work_id>
+          <note_uri>kca://note/amzn1.grok.note.d77019f69e6cba11bb80569da9fd4317</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Katniss: "Am I really that cold and calculating?" Me: Uh, yeah you are. We're almost done with book 3 and you still can't be bothered to make up your mind. The way you had the nerve to treat Peeta in this book has me convinced that you are a manipulative ruthless, obsessed control freak who is incapable of love. You're just as ruthless as you accuse Haymitch and Plutarch of being.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">3489657</id>
+          <page type="integer">198</page>
+          <chapter type="integer"></chapter>
+          <comments_count>8</comments_count>
+          <created_at type="datetime">Sat Aug 28 18:04:23 -0700 2010</created_at>
+          <updated_at type="datetime">Sat Sep 07 03:22:13 -0700 2013</updated_at>
+          <last_comment_at type="datetime">Sat Aug 28 20:37:13 -0700 2010</last_comment_at>
+          <ratings_count type="integer">2</ratings_count>
+          <percent type="integer">51</percent>
+          <work_id type="integer">8812783</work_id>
+          <note_uri>kca://note/amzn1.grok.note.aa9e1ff5b8a7617eaab831e81e88a2ed</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Katnis...I'm sorry, but this is a long time coming. You're acting like SUCH a freaking slut.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">3482315</id>
+          <page type="integer">140</page>
+          <chapter type="integer"></chapter>
+          <comments_count>1</comments_count>
+          <created_at type="datetime">Fri Aug 27 18:28:58 -0700 2010</created_at>
+          <updated_at type="datetime">Sat Sep 07 17:19:05 -0700 2013</updated_at>
+          <last_comment_at type="datetime">Fri Aug 27 18:49:17 -0700 2010</last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">36</percent>
+          <work_id type="integer">8812783</work_id>
+          <note_uri>kca://note/amzn1.grok.note.6c90f26c9f07872ffe3d3c3c581d5bfd</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Katniss, you know...at this point, I don't care WHO you pick, I just want you to pick SOMEONE, ANYONE to prove to me that you *actually* give a wang.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">3479012</id>
+          <page type="integer">125</page>
+          <chapter type="integer"></chapter>
+          <comments_count>1</comments_count>
+          <created_at type="datetime">Fri Aug 27 10:43:16 -0700 2010</created_at>
+          <updated_at type="datetime">Sat Sep 07 02:56:15 -0700 2013</updated_at>
+          <last_comment_at type="datetime">Mon Sep 06 16:33:24 -0700 2010</last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">32</percent>
+          <work_id type="integer">8812783</work_id>
+          <note_uri>kca://note/amzn1.grok.note.a3ad5dbe880de44af1bc0ea6fabdfbbb</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Oh my gosh, Katniss, that was a FREAKING creepy song!!! Geez!]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">3472942</id>
+          <page type="integer">3</page>
+          <chapter type="integer"></chapter>
+          <comments_count>1</comments_count>
+          <created_at type="datetime">Thu Aug 26 17:18:51 -0700 2010</created_at>
+          <updated_at type="datetime">Sat Sep 07 17:09:45 -0700 2013</updated_at>
+          <last_comment_at type="datetime">Fri Aug 27 00:59:21 -0700 2010</last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">1</percent>
+          <work_id type="integer">8812783</work_id>
+          <note_uri>kca://note/amzn1.grok.note.34d4498e722c9698abf6ab0d5e440592</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Umm...wow, Gale fans. I guess this is your man's time to shine. Just thumbing through the pages and seeing the name "Gale" a lot. Not much Peeta though. Hmmm, talk about retribution. We finally get to see what exactly it is about GALE - he's most likely the star of this book. oh, and if you reply to this message with a SPOILER, I will come after you like the mutts went after Cato. You remember. :P]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">3463868</id>
+          <page type="integer">1</page>
+          <chapter type="integer"></chapter>
+          <comments_count>3</comments_count>
+          <created_at type="datetime">Wed Aug 25 18:01:15 -0700 2010</created_at>
+          <updated_at type="datetime">Sat Sep 07 02:15:36 -0700 2013</updated_at>
+          <last_comment_at type="datetime">Thu Aug 26 17:17:16 -0700 2010</last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">0</percent>
+          <work_id type="integer">8812783</work_id>
+          <note_uri>kca://note/amzn1.grok.note.396162ccbcbe2d5edb6e3b6ec4670475</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[ahhhh it's about time!! hold on, world, you're just gonna have to wait a few days!]]></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">1220479487</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Tue Feb 02 19:30:31 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>2</rating>
+  <votes>131</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="2010" exclusive="false" review_shelf_id="68726390" sortable="false" />
+    <shelf name="ya-kids-teen" exclusive="false" review_shelf_id="68726397" sortable="false" />
+    <shelf name="series-books" exclusive="false" review_shelf_id="68726398" sortable="false" />
+    <shelf name="point-of-view-girl" exclusive="false" review_shelf_id="228200143" sortable="false" />
+    <shelf name="dystopian" exclusive="false" review_shelf_id="68726395" sortable="false" />
+    <shelf name="disappointing" exclusive="false" review_shelf_id="125052652" sortable="false" />
+    <shelf name="annoying-characters" exclusive="false" review_shelf_id="172479836" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Aug 25 00:00:00 -0700 2010</started_at>
+  <read_at>Sat Aug 28 00:00:00 -0700 2010</read_at>
+  <date_added>Thu Feb 11 08:36:58 -0800 2010</date_added>
+  <date_updated>Sun Jan 12 09:28:08 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<b>2013 edit</b>: Time can do a lot to influence my opinion of books. In some cases, time goes on and I end up appreciating a book more than I did originally, like <i>Ender's Game</i> or <i>The Great Gatsby</i>. But in other cases, time actually diminishes my opinion of certain books.<br />I'm so sick of all this HG-movie...]]>
+  </body>
+
+  
+
+  <comments_count>27</comments_count>
+    <comments start="1" end="27" total="27">
+        <comment>
+  <id>13592831</id>
+  <body><![CDATA[I just love this cover!]]></body>
+  
+  <user>
+    <id>2553513</id>
+    <name>extraordinary ordinary whimsy</name>
+    <display_name>extraordinary ordinary whimsy</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2553513-extraordinary-ordinary-whimsy]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1444323117p3/2553513.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1444323117p2/2553513.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Feb 11 12:53:00 -0800 2010</created_at>
+  <updated_at>Thu Feb 11 12:53:00 -0800 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>13592872</id>
+  <body><![CDATA[same!]]></body>
+  
+  <user>
+    <id>2248397</id>
+    <name>Rebekah Faith</name>
+    <display_name>Rebekah Faith</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2248397-rebekah-faith]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1452661056p3/2248397.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1452661056p2/2248397.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Feb 11 12:54:25 -0800 2010</created_at>
+  <updated_at>Thu Feb 11 12:54:25 -0800 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>13600150</id>
+  <body><![CDATA[Oh my gods! Is that it?! <br />DSAKJFGGKADSJFGAKSFJG<br />sorry...spazzy moment there...]]></body>
+  
+  <user>
+    <id>1284597</id>
+    <name>Molly</name>
+    <display_name>Molly</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1284597-molly]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1351198605p3/1284597.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1351198605p2/1284597.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Feb 11 16:16:38 -0800 2010</created_at>
+  <updated_at>Thu Feb 11 16:16:38 -0800 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>15555623</id>
+  <body><![CDATA[It's kind of unexpected though because the last two have been really dark and like fire and this one is like ice.]]></body>
+  
+  <user>
+    <id>967273</id>
+    <name>Elizabeth (Liz)</name>
+    <display_name>Elizabeth (Liz)</display_name>
+
+    <location>Roswell, GA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/967273-elizabeth-liz]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1250460707p3/967273.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1250460707p2/967273.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Apr 12 14:17:41 -0700 2010</created_at>
+  <updated_at>Mon Apr 12 14:17:41 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>19157435</id>
+  <body><![CDATA[MY PREDICTION: Gale dies. <br />Katniss chooses no one. <br />Haymitch dies. <br />Finnick does something heroic (and dies) <br />Annie Cresta plays a bigger role.]]></body>
+  
+  <user>
+    <id>2683062</id>
+    <name>★ </name>
+    <display_name>★ </display_name>
+
+    <location>Australia, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2683062]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1466182835p3/2683062.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1466182835p2/2683062.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Jul 26 02:01:05 -0700 2010</created_at>
+  <updated_at>Mon Jul 26 02:01:05 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>19233680</id>
+  <body><![CDATA[:)<br /><br />Hey, so you finally read Hunger Games!!Do you love it?!? Or do you think it is just pretty good?]]></body>
+  
+  <user>
+    <id>1678688</id>
+    <name>Lindsey</name>
+    <display_name>Lindsey</display_name>
+
+    <location>Edmond, OK</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1678688-lindsey]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1237071543p3/1678688.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1237071543p2/1678688.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Jul 27 20:52:02 -0700 2010</created_at>
+  <updated_at>Tue Jul 27 20:52:02 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>19546446</id>
+  <body><![CDATA[I don't know, though, I'm a little nervous now! The whole time I was reading CF, I was thinking that if Katniss was going to end up with anybody at all, it would be Peeta, if for no other reason than the fact that he's in more scenes than Gale is. However, if MOCKINGJAY has more of a Gale-influence, it could be Collins' way of setting up for a Gale victory :P<br />Now more desperate than ever for the 24th!<br />(even though that's when school starts, boo)]]></body>
+  
+  <user>
+    <id>1852293</id>
+    <name><![CDATA[Amelia, the pragmatic idealist]]></name>
+    <display_name><![CDATA[Amelia, the pragmatic idealist]]></display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1852293-amelia-the-pragmatic-idealist]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1271431278p3/1852293.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1271431278p2/1852293.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Aug 04 22:24:54 -0700 2010</created_at>
+  <updated_at>Wed Aug 04 22:24:54 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20352089</id>
+  <body><![CDATA[<i>♫ נєηη - ѕσυℓ σƒ ѕσυη∂ ♫ wrote: "My friend just converted to Gale on Sunday.<br /><br />*happy dance*"</i><br /><br />haha]]></body>
+  
+  <user>
+    <id>2670502</id>
+    <name>Diana</name>
+    <display_name>Diana</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2670502-diana]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1458357946p3/2670502.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1458357946p2/2670502.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Aug 27 12:10:19 -0700 2010</created_at>
+  <updated_at>Fri Aug 27 12:10:19 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20406207</id>
+  <body><![CDATA[I wanted better for Peeta, and if he had to settle for Katniss, I'd hoped she'd at least love him! She always went out of her way to protect him before, but all of a sudden she cares about no one but herself! It was gross.]]></body>
+  
+  <user>
+    <id>2082345</id>
+    <name><![CDATA[Krista (I remember you, Min) (Critical)]]></name>
+    <display_name><![CDATA[Krista (I remember you, Min) (Critical)]]></display_name>
+
+    <location>Thousand Oaks, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2082345-krista-i-remember-you-min-critical]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1436762808p3/2082345.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1436762808p2/2082345.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 28 21:53:16 -0700 2010</created_at>
+  <updated_at>Sat Aug 28 21:53:16 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20407450</id>
+  <body><![CDATA[yeah what happened?! And she didn't even HAVE to choose - Gale made the decision for her by just leaving. Easy out!]]></body>
+  
+  <user>
+    <id>1852293</id>
+    <name><![CDATA[Amelia, the pragmatic idealist]]></name>
+    <display_name><![CDATA[Amelia, the pragmatic idealist]]></display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1852293-amelia-the-pragmatic-idealist]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1271431278p3/1852293.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1271431278p2/1852293.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sat Aug 28 22:51:41 -0700 2010</created_at>
+  <updated_at>Sat Aug 28 22:51:41 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20423757</id>
+  <body><![CDATA[I can't say I blame Gale, though, even though it makes him seem cold! I mean, Katniss strung Gale and Peeta along for<i>ever</i>!]]></body>
+  
+  <user>
+    <id>2082345</id>
+    <name><![CDATA[Krista (I remember you, Min) (Critical)]]></name>
+    <display_name><![CDATA[Krista (I remember you, Min) (Critical)]]></display_name>
+
+    <location>Thousand Oaks, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2082345-krista-i-remember-you-min-critical]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1436762808p3/2082345.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1436762808p2/2082345.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 29 13:59:29 -0700 2010</created_at>
+  <updated_at>Sun Aug 29 13:59:29 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20426976</id>
+  <body><![CDATA[that's totally true. I don't blame them either, except I think they went along with Katniss stonewalling them for a long time. But (SPOILER) she didn't even have to make a decision or have a heartto-heart/showdown with him at all. He made it easy for her by just leaving. It made the Peeta victory not seem like such a victory after all. I'm still not convinced that she loves him.]]></body>
+  
+  <user>
+    <id>1852293</id>
+    <name><![CDATA[Amelia, the pragmatic idealist]]></name>
+    <display_name><![CDATA[Amelia, the pragmatic idealist]]></display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1852293-amelia-the-pragmatic-idealist]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1271431278p3/1852293.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1271431278p2/1852293.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 29 15:14:01 -0700 2010</created_at>
+  <updated_at>Sun Aug 29 15:14:01 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20427289</id>
+  <body><![CDATA[Same here. Katniss sure does have weird ways of showing her "supposed" love. And I agree about the outcome--I really wanted Katniss to <i>choose</i> Peeta, and admit it was him she wanted, him she really loved. Gale made that choice for her.]]></body>
+  
+  <user>
+    <id>2082345</id>
+    <name><![CDATA[Krista (I remember you, Min) (Critical)]]></name>
+    <display_name><![CDATA[Krista (I remember you, Min) (Critical)]]></display_name>
+
+    <location>Thousand Oaks, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2082345-krista-i-remember-you-min-critical]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1436762808p3/2082345.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1436762808p2/2082345.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 29 15:20:37 -0700 2010</created_at>
+  <updated_at>Sun Aug 29 15:20:37 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20440739</id>
+  <body><![CDATA[hmmmmm I have to say, Katniss did piss me off a lot, but I think that Mockingjay did what it was meant to do and was how it should be. It was definitely hard to read, but I'm glad how it ended...it gave closure. Anyhoo, Team Buttercup.]]></body>
+  
+  <user>
+    <id>3096138</id>
+    <name>Melissa (i swim for oceans)</name>
+    <display_name>Melissa (i swim for oceans)</display_name>
+
+    <location>Salem, NH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3096138-melissa-i-swim-for-oceans]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1274797276p3/3096138.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1274797276p2/3096138.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Sun Aug 29 19:49:29 -0700 2010</created_at>
+  <updated_at>Sun Aug 29 19:49:29 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20513978</id>
+  <body><![CDATA[@Amelia.<br />Hey, I totally agree with everything you said. And I dont blame Gale for walking out after all the horrible things she did. Katniss turned horrible in this book. Collins must have been drunk and drugged.]]></body>
+  
+  <user>
+    <id>2458432</id>
+    <name>Ain020596</name>
+    <display_name>Ain020596</display_name>
+
+    <location>Singapore, 00, Singapore</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2458432-ain020596]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1324140290p3/2458432.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1324140290p2/2458432.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Sep 01 05:16:02 -0700 2010</created_at>
+  <updated_at>Wed Sep 01 05:16:02 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20514000</id>
+  <body><![CDATA[Plus, I thought the ending sucked big time.]]></body>
+  
+  <user>
+    <id>2458432</id>
+    <name>Ain020596</name>
+    <display_name>Ain020596</display_name>
+
+    <location>Singapore, 00, Singapore</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2458432-ain020596]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1324140290p3/2458432.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1324140290p2/2458432.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Sep 01 05:17:57 -0700 2010</created_at>
+  <updated_at>Wed Sep 01 05:17:57 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20580411</id>
+  <body><![CDATA[I think all of your follow-up review points are incredibly valid, yet I wanted to reiterate that this is the story Katniss had to tell. War is tough, brutal and not pretty. Suzanne Collins was courageous for not taking the happy go-lucky route with the ending. Believe me, I love happily ever afters and usually can't stand something that doesn't end that way, but I just cant see how the callous Katniss of previous books could suddenly change with what she was facing.]]></body>
+  
+  <user>
+    <id>4033786</id>
+    <name>Kate (A Reader&apos;s Review)</name>
+    <display_name>Kate (A Reader&apos;s Review)</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4033786-kate-a-reader-s-review]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1282649983p3/4033786.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1282649983p2/4033786.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 03 07:10:06 -0700 2010</created_at>
+  <updated_at>Fri Sep 03 07:10:06 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20580441</id>
+  <body><![CDATA[I also wanted to say that maybe this shocking ending is exactly what Suzanne Collins wanted, look at all of the discussion it has resulted in? I think it's great!! :)]]></body>
+  
+  <user>
+    <id>4033786</id>
+    <name>Kate (A Reader&apos;s Review)</name>
+    <display_name>Kate (A Reader&apos;s Review)</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4033786-kate-a-reader-s-review]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1282649983p3/4033786.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1282649983p2/4033786.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 03 07:11:26 -0700 2010</created_at>
+  <updated_at>Fri Sep 03 07:11:26 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20582913</id>
+  <body><![CDATA[I get your point, but it's not even really about the "happily ever after" or whatever. I found it implausible that after everything that Katniss and the people around her went through, she could CONTINUE to be so callous. That has nothing to do with war being tough or anything, that actually has to do with Katniss being a relatively flat character, because she never really underwent that emotional character change. As the series progressed, she got WORSE, not better. So really, it's more of a characterization problem. I (and a lot of other people) wanted Katniss to grow in that area, but she didn't, and it just about killed the book for me. There's absolutely no reason (at this stage in the series) for her to treat Gale and Peeta like she did. It made her extremely unlikable.]]></body>
+  
+  <user>
+    <id>1852293</id>
+    <name><![CDATA[Amelia, the pragmatic idealist]]></name>
+    <display_name><![CDATA[Amelia, the pragmatic idealist]]></display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1852293-amelia-the-pragmatic-idealist]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1271431278p3/1852293.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1271431278p2/1852293.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 03 08:43:04 -0700 2010</created_at>
+  <updated_at>Fri Sep 03 08:43:04 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20606019</id>
+  <body><![CDATA[Thanks for the review. I tired of the entire Katniss scenario after Catching Fire, and decided to not bother with Mockingjay. After reading your review, I see I made the right decision!]]></body>
+  
+  <user>
+    <id>383765</id>
+    <name>Sandra</name>
+    <display_name>Sandra Alonzo</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/383765-sandra-alonzo]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1442470938p3/383765.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1442470938p2/383765.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Sep 03 23:00:29 -0700 2010</created_at>
+  <updated_at>Fri Sep 03 23:00:29 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20683049</id>
+  <body><![CDATA[I completely agree, Amelia!I struggled with accepting Katniss throughout the whole book, and I don't think I succeeded.I don't care much about the love triangle, to be honest.The way she treated both Gale and Peeta, I think it'd be best if she ended up alone.]]></body>
+  
+  <user>
+    <id>3411280</id>
+    <name>AtenRa</name>
+    <display_name>AtenRa</display_name>
+
+    <location>Melbourne, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3411280-atenra]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1459650567p3/3411280.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1459650567p2/3411280.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Sep 06 10:21:44 -0700 2010</created_at>
+  <updated_at>Mon Sep 06 10:21:44 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20789121</id>
+  <body><![CDATA[Yep, emotionally dehydrated. I read this book hoping that it would totally turn me around on the series, prove to me that Katniss wasn't a whiny awful person, and that she was capable of growth, but instead every reason I hated her during the first two books was just underscored here.<br /><br />I couldn't believe how badly she treated everyone throughout this book, Peeta and Gale especially. I didn't believe that she was in love with Peeta, and so I didn't feel satisfied at all when she ended up with him. And also, I was expecting more of an emotionally charged scene when Gale left. Not just "Shoot straight." Like... wow. If we're supposed to believe he was ever a contender for her affections, that goodbye scene does NOT help that case.<br /><br />The amount of pagination wasted on Katniss feeling sorry for herself--good lord, all she ever did was feel sorry for herself that people died because of her. That space could have been dedicated to developing the emotion better, but no.<br /><br />Great review. I don't think I could say it better.]]></body>
+  
+  <user>
+    <id>1303975</id>
+    <name>I am Bastet</name>
+    <display_name>I am Bastet</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1303975-i-am-bastet]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1329146800p3/1303975.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1329146800p2/1303975.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Sep 09 15:31:08 -0700 2010</created_at>
+  <updated_at>Thu Sep 09 15:31:08 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>24831357</id>
+  <body><![CDATA[I just re-read this review because a GR friend and I are discussing the series as a whole, and you hit all the things I didn't like about this book and say them better than I can! Love that you call it "emotionally dehydrated" because that's what it was--a series like this really kind of sets up for and needs an emotional ending, and it just didn't have it. I got so weary of Katniss' attitude and her lack of an emotional journey.<br /><br />Probably my favorite Hunger Games Trilogy review!]]></body>
+  
+  <user>
+    <id>1303975</id>
+    <name>I am Bastet</name>
+    <display_name>I am Bastet</display_name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1303975-i-am-bastet]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1329146800p3/1303975.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1329146800p2/1303975.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Thu Jan 06 17:06:18 -0800 2011</created_at>
+  <updated_at>Thu Jan 06 17:06:18 -0800 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>25973126</id>
+  <body><![CDATA[THANKS ISIS! I just saw this but I wanted to say thank you! That's super sweet! :D]]></body>
+  
+  <user>
+    <id>1852293</id>
+    <name><![CDATA[Amelia, the pragmatic idealist]]></name>
+    <display_name><![CDATA[Amelia, the pragmatic idealist]]></display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1852293-amelia-the-pragmatic-idealist]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1271431278p3/1852293.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1271431278p2/1852293.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 01 15:07:30 -0800 2011</created_at>
+  <updated_at>Tue Feb 01 15:07:30 -0800 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>33869011</id>
+  <body><![CDATA[Good review! I don't think I can say it much better than this.]]></body>
+  
+  <user>
+    <id>5241114</id>
+    <name>Kristen</name>
+    <display_name>Kristen</display_name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5241114-kristen]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1426889662p3/5241114.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1426889662p2/5241114.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Wed Jul 20 13:14:03 -0700 2011</created_at>
+  <updated_at>Wed Jul 20 13:14:03 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>147020408</id>
+  <body><![CDATA[Oh well everyone said this series was awesome. And I was going to give Katniss a pass in The Mockingjay for treating Peeta so bad, blaming it on her past and sufferings until that horrible cold ending that made me hate her and hate the fact that I read the series. Sorry just venting. Great review.]]></body>
+  
+  <user>
+    <id>38788958</id>
+    <name>Sarah</name>
+    <display_name>Sarah</display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/38788958-sarah]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1485233583p3/38788958.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1485233583p2/38788958.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Tue Feb 02 19:30:26 -0800 2016</created_at>
+  <updated_at>Tue Feb 02 19:30:26 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>164165638</id>
+  <body><![CDATA[<i>Sarah wrote: "Oh well everyone said this series was awesome. And I was going to give Katniss a pass in The Mockingjay for treating Peeta so bad, blaming it on her past and sufferings until that horrible cold end..."</i><br /><br />I get it. You're more gracious with characters than me. :D]]></body>
+  
+  <user>
+    <id>1852293</id>
+    <name><![CDATA[Amelia, the pragmatic idealist]]></name>
+    <display_name><![CDATA[Amelia, the pragmatic idealist]]></display_name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1852293-amelia-the-pragmatic-idealist]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1271431278p3/1852293.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1271431278p2/1852293.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Mon Mar 20 20:03:07 -0700 2017</created_at>
+  <updated_at>Mon Mar 20 20:03:07 -0700 2017</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/89203027]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/89203027]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>
