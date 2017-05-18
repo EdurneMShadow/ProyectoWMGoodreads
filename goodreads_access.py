@@ -89,7 +89,7 @@ g.guardar_nodos_en_fichero(usuarios_tercera_capa,False,'grafo_3capas.txt')
 
 #g.set_lista_ids(lista)
 
-g.get_aristas_grafo(client)
+g.get_aristas_grafo(client,'grafo_3capas.txt')
 g.guardar_info_usuario_fichero(usuarios_primera_capa,1,1)
 g.guardar_info_usuario_fichero(usuarios_segunda_capa,0,2)
 g.guardar_info_usuario_fichero(usuarios_tercera_capa,0,2)

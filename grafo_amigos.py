@@ -95,13 +95,13 @@ class grafo_amigos:
         fichero.close()
         
     ''' Obtiene todos los amigos de cada uno de los ids y crea las aristas correspondientes'''    
-    def get_aristas_grafo(self, client):
+    def get_aristas_grafo(self, client,nombre_fichero):
         for id in self.lista_ids:
             try:
                 amigos = client.get_friends(id)
             except Exception:
                 amigos = []
-            fichero = open('grafo.txt','a')
+            fichero = open(nombre_fichero,'a')
             for amigo in amigos:
                 if self.binary_search(self.lista_ids,str(amigo[0])) != -1:
                     fichero.write('edge [ \n')

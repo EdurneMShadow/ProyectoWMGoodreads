@@ -1,17 +1,17 @@
 status: 200
 server: Server
-date: Fri, 12 May 2017 13:40:13 GMT
+date: Wed, 17 May 2017 05:40:27 GMT
 content-type: application/xml; charset=utf-8
 connection: keep-alive
 x-frame-options: ALLOWALL
 x-xss-protection: 1; mode=block
 x-content-type-options: nosniff, nosniff
 vary: User-Agent,Accept-Encoding
-x-request-id: PZB4VES0W8KR02315YFW
-etag: W/"c90e41dbdcc92450e761d05c451ec37a"
+x-request-id: A7GP5JEWAHQYRPHJ9DRM
+etag: W/"3ec24652ec2f83f0c96c91ccb47c6a6c"
 cache-control: max-age=0, private, must-revalidate
-x-runtime: 0.454364
-set-cookie: csid=BAhJIhgxMzItNTEzMjAyMC0zNjU1ODkwBjoGRVQ%3D--321f149707738a25424941ee6a3191cffa3e6b09; path=/; expires=Tue, 12 May 2037 13:40:13 -0000, locale=es; path=/, _session_id2=979c6d68cf425b8cbb11d38519b6d2e2; path=/; expires=Fri, 12 May 2017 19:40:13 -0000; HttpOnly
+x-runtime: 0.488079
+set-cookie: csid=BAhJIhg5MDctMzcwMzU4My02MDM4NDY5BjoGRVQ%3D--c5d2cc2e8210b90e68ebaffca606324b2eebe4a3; path=/; expires=Sun, 17 May 2037 05:40:26 -0000, locale=es; path=/, _session_id2=cfff134b435d3b9847b6928760d818aa; path=/; expires=Wed, 17 May 2017 11:40:27 -0000; HttpOnly
 content-length: 69505
 -content-encoding: gzip
 content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=80405589
@@ -62,7 +62,7 @@ content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTV
   <publication_year>2014</publication_year>
   <publication_month>7</publication_month>
   <average_rating>4.25</average_rating>
-  <ratings_count>3269503</ratings_count>
+  <ratings_count>3272629</ratings_count>
   <description>Harper Lee's Pulitzer prize-winning masterwork of honor and injustice in the deep south—and the heroism of one man in the face of blind and violent hatred, available now for the first time as a digital audiobook.&lt;br /&gt;&lt;br /&gt;One of the best-loved stories of all time, &lt;em&gt;To Kill a Mockingbird&lt;/em&gt; has been translated into more than forty languages, sold more than thirty million copies worldwide, served as the basis for an enormously popular motion picture, and was voted one of the best novels of the twentieth century by librarians across the country. A gripping, heart-wrenching, and wholly remarkable tale of coming-of-age in a South poisoned by virulent prejudice, it views a world of great beauty and savage inequities through the eyes of a young girl, as her father-a crusading local lawyer-risks everything to defend a black man unjustly accused of a terrible crime.</description>
 <authors>
 <author>
@@ -77,8 +77,8 @@ content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTV
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1825.Harper_Lee]]></link>
 <average_rating>4.21</average_rating>
-<ratings_count>3434236</ratings_count>
-<text_reviews_count>95107</text_reviews_count>
+<ratings_count>3437760</ratings_count>
+<text_reviews_count>95228</text_reviews_count>
 </author>
 </authors>
   <published>2014</published>
@@ -219,10 +219,18 @@ content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTV
 <shelves>
   <shelf name="read" exclusive="true" />
 
-    <shelf name="favorites" exclusive="false" review_shelf_id="157328085" sortable="false" />
-    <shelf name="debut-novels" exclusive="false" review_shelf_id="225784465" sortable="false" />
-    <shelf name="children" exclusive="false" review_shelf_id="225784076" sortable="false" />
-    <shelf name="childhood" exclusive="false" review_shelf_id="225784091" sortable="false" />
+    <shelf name="courage" exclusive="false" review_shelf_id="225784335" sortable="false" />
+    <shelf name="intolerance" exclusive="false" review_shelf_id="225785179" sortable="false" />
+    <shelf name="1930s" exclusive="false" review_shelf_id="225787401" sortable="false" />
+    <shelf name="duty" exclusive="false" review_shelf_id="225784544" sortable="false" />
+    <shelf name="fathers-and-sons" exclusive="false" review_shelf_id="225784715" sortable="false" />
+    <shelf name="race-relations" exclusive="false" review_shelf_id="225786310" sortable="false" />
+    <shelf name="signed-edition" exclusive="false" review_shelf_id="225788083" sortable="false" />
+    <shelf name="loss" exclusive="false" review_shelf_id="225785477" sortable="false" />
+    <shelf name="racism" exclusive="false" review_shelf_id="225786319" sortable="false" />
+    <shelf name="responsibility" exclusive="false" review_shelf_id="225786423" sortable="false" />
+    <shelf name="social-commentary" exclusive="false" review_shelf_id="225786707" sortable="false" />
+    <shelf name="harper-lee" exclusive="false" review_shelf_id="225788442" sortable="false" />
     <shelf name="coming-of-age" exclusive="false" review_shelf_id="225784237" sortable="false" />
     <shelf name="family" exclusive="false" review_shelf_id="225784655" sortable="false" />
     <shelf name="loss-of-innocence" exclusive="false" review_shelf_id="225785496" sortable="false" />
@@ -233,27 +241,19 @@ content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTV
     <shelf name="modern-library-s-100" exclusive="false" review_shelf_id="225785675" sortable="false" />
     <shelf name="reputation" exclusive="false" review_shelf_id="225786417" sortable="false" />
     <shelf name="twentieth-century" exclusive="false" review_shelf_id="225786941" sortable="false" />
-    <shelf name="justice" exclusive="false" review_shelf_id="225785289" sortable="false" />
-    <shelf name="prejudice" exclusive="false" review_shelf_id="225786177" sortable="false" />
     <shelf name="law" exclusive="false" review_shelf_id="225785336" sortable="false" />
     <shelf name="lwayers" exclusive="false" review_shelf_id="225787115" sortable="false" />
     <shelf name="southern-class-and-culture" exclusive="false" review_shelf_id="225786672" sortable="false" />
+    <shelf name="favorites" exclusive="false" review_shelf_id="157328085" sortable="false" />
+    <shelf name="debut-novels" exclusive="false" review_shelf_id="225784465" sortable="false" />
+    <shelf name="children" exclusive="false" review_shelf_id="225784076" sortable="false" />
+    <shelf name="childhood" exclusive="false" review_shelf_id="225784091" sortable="false" />
+    <shelf name="justice" exclusive="false" review_shelf_id="225785289" sortable="false" />
+    <shelf name="prejudice" exclusive="false" review_shelf_id="225786177" sortable="false" />
     <shelf name="integrity" exclusive="false" review_shelf_id="225787711" sortable="false" />
-    <shelf name="courage" exclusive="false" review_shelf_id="225784335" sortable="false" />
-    <shelf name="intolerance" exclusive="false" review_shelf_id="225785179" sortable="false" />
-    <shelf name="1930s" exclusive="false" review_shelf_id="225787401" sortable="false" />
-    <shelf name="duty" exclusive="false" review_shelf_id="225784544" sortable="false" />
-    <shelf name="fathers-and-sons" exclusive="false" review_shelf_id="225784715" sortable="false" />
-    <shelf name="loss" exclusive="false" review_shelf_id="225785477" sortable="false" />
-    <shelf name="racism" exclusive="false" review_shelf_id="225786319" sortable="false" />
-    <shelf name="responsibility" exclusive="false" review_shelf_id="225786423" sortable="false" />
     <shelf name="love" exclusive="false" review_shelf_id="225785507" sortable="false" />
     <shelf name="pulitzer-prize-winner" exclusive="false" review_shelf_id="225786255" sortable="false" />
     <shelf name="race" exclusive="false" review_shelf_id="225786303" sortable="false" />
-    <shelf name="race-relations" exclusive="false" review_shelf_id="225786310" sortable="false" />
-    <shelf name="signed-edition" exclusive="false" review_shelf_id="225788083" sortable="false" />
-    <shelf name="social-commentary" exclusive="false" review_shelf_id="225786707" sortable="false" />
-    <shelf name="harper-lee" exclusive="false" review_shelf_id="225788442" sortable="false" />
 </shelves>
   <recommended_for></recommended_for>
   <recommended_by></recommended_by>

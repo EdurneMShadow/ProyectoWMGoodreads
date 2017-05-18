@@ -1,17 +1,17 @@
 status: 200
 server: Server
-date: Fri, 12 May 2017 13:41:30 GMT
+date: Wed, 17 May 2017 05:43:17 GMT
 content-type: application/xml; charset=utf-8
 connection: keep-alive
 x-frame-options: ALLOWALL
 x-xss-protection: 1; mode=block
 x-content-type-options: nosniff, nosniff
 vary: User-Agent,Accept-Encoding
-x-request-id: FTXPE1RMNW80C0FDXV20
-etag: W/"edc2c1032273958c7f1f72f1dce73a02"
+x-request-id: YXGET0T9Y95NDRZM0W1B
+etag: W/"b955e711d12cbe8b654770551eaf00b8"
 cache-control: max-age=0, private, must-revalidate
-x-runtime: 0.285312
-set-cookie: csid=BAhJIhg0MzAtNTkwMTAwNy0yMjYzMTUzBjoGRVQ%3D--b6ae88d88f8ef9155134214004b939ade701bc93; path=/; expires=Tue, 12 May 2037 13:41:30 -0000, locale=es; path=/, _session_id2=3b44c05d115446ce1b68f3d1d222a937; path=/; expires=Fri, 12 May 2017 19:41:30 -0000; HttpOnly
+x-runtime: 0.236940
+set-cookie: csid=BAhJIhgzNjQtNzYwNTAyMy0wNzY1NDY1BjoGRVQ%3D--c56be8e5940e320d7b5ef1fb361282ea69bb62ae; path=/; expires=Sun, 17 May 2037 05:43:17 -0000, locale=es; path=/, _session_id2=372055a714115fbb780f4b125e9d1a29; path=/; expires=Wed, 17 May 2017 11:43:17 -0000; HttpOnly
 content-length: 25296
 -content-encoding: gzip
 content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=34546677
@@ -47,7 +47,7 @@ content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTV
   <id type="integer">865</id>
   <isbn>0061122416</isbn>
   <isbn13>9780061122415</isbn13>
-  <text_reviews_count type="integer">44775</text_reviews_count>
+  <text_reviews_count type="integer">44836</text_reviews_count>
   <title>The Alchemist</title>
   <title_without_series>The Alchemist</title_without_series>
   <image_url>https://images.gr-assets.com/books/1483412266m/865.jpg</image_url>
@@ -62,7 +62,7 @@ content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTV
   <publication_year>1993</publication_year>
   <publication_month>5</publication_month>
   <average_rating>3.81</average_rating>
-  <ratings_count>1348164</ratings_count>
+  <ratings_count>1350749</ratings_count>
   <description>Paulo Coelho's enchanting novel has inspired a devoted following around the world. This story, dazzling in its powerful simplicity and inspiring wisdom, is about an Andalusian shepherd boy named Santiago who travels from his homeland in Spain to the Egyptian desert in search of a treasure buried in the Pyramids. Along the way he meets a Gypsy woman, a man who calls himself king, and an alchemist, all of whom point Santiago in the direction of his quest. No one knows what the treasure is, or if Santiago will be able to surmount the obstacles along the way. But what starts out as a journey to find worldly goods turns into a discovery of the treasure found within. Lush, evocative, and deeply humane, the story of Santiago is an eternal testament to the transforming power of our dreams and the importance of listening to our hearts.</description>
 <authors>
 <author>
@@ -76,9 +76,9 @@ content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTV
 <![CDATA[https://images.gr-assets.com/authors/1201840056p2/566.jpg]]>
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/566.Paulo_Coelho]]></link>
-<average_rating>3.72</average_rating>
-<ratings_count>2124981</ratings_count>
-<text_reviews_count>96430</text_reviews_count>
+<average_rating>3.73</average_rating>
+<ratings_count>2128504</ratings_count>
+<text_reviews_count>96580</text_reviews_count>
 </author>
 </authors>
   <published>1993</published>
@@ -104,9 +104,8 @@ content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTV
 <shelves>
   <shelf name="read" exclusive="true" />
 
-    <shelf name="religion" exclusive="false" review_shelf_id="57308482" sortable="false" />
-    <shelf name="inspirational" exclusive="false" review_shelf_id="147083572" sortable="false" />
-    <shelf name="adult" exclusive="false" review_shelf_id="159107834" sortable="false" />
+    <shelf name="philosophy" exclusive="false" review_shelf_id="147083357" sortable="false" />
+    <shelf name="100-books-tfg" exclusive="false" review_shelf_id="162633077" sortable="false" />
     <shelf name="borrowed" exclusive="false" review_shelf_id="57308470" sortable="false" />
     <shelf name="fiction" exclusive="false" review_shelf_id="57308476" sortable="false" />
     <shelf name="classics" exclusive="false" review_shelf_id="73920260" sortable="false" />
@@ -114,9 +113,10 @@ content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTV
     <shelf name="reviewed" exclusive="false" review_shelf_id="73343019" sortable="false" />
     <shelf name="favorites" exclusive="false" review_shelf_id="87017982" sortable="true" />
     <shelf name="author-latin-american" exclusive="false" review_shelf_id="147082934" sortable="false" />
-    <shelf name="philosophy" exclusive="false" review_shelf_id="147083357" sortable="false" />
-    <shelf name="100-books-tfg" exclusive="false" review_shelf_id="162633077" sortable="false" />
+    <shelf name="religion" exclusive="false" review_shelf_id="57308482" sortable="false" />
     <shelf name="fantasy" exclusive="false" review_shelf_id="162632991" sortable="false" />
+    <shelf name="adult" exclusive="false" review_shelf_id="159107834" sortable="false" />
+    <shelf name="inspirational" exclusive="false" review_shelf_id="147083572" sortable="false" />
 </shelves>
   <recommended_for>Everyone</recommended_for>
   <recommended_by>My friends</recommended_by>

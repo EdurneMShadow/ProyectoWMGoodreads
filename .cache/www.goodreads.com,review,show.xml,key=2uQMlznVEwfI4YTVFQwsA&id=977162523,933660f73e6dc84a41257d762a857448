@@ -1,18 +1,18 @@
 status: 200
 server: Server
-date: Fri, 12 May 2017 13:42:30 GMT
+date: Wed, 17 May 2017 05:43:16 GMT
 content-type: application/xml; charset=utf-8
 connection: keep-alive
 x-frame-options: ALLOWALL
 x-xss-protection: 1; mode=block
 x-content-type-options: nosniff, nosniff
 vary: User-Agent,Accept-Encoding
-x-request-id: ANPJ4GD9HJPTZ8Q3XEVR
-etag: W/"55e66440a51ded43a2c185b03b817f13"
+x-request-id: SFZ599T2SPWSJFGDK2FJ
+etag: W/"8bcea472cf0ad2dbf5c3c83b55c3d130"
 cache-control: max-age=0, private, must-revalidate
-x-runtime: 0.450719
-set-cookie: csid=BAhJIhgxMTctODY3MTIxOS04NDY5NTA5BjoGRVQ%3D--7c7e37dd6e9c51f0265e0cdebf96fcbe57e2d005; path=/; expires=Tue, 12 May 2037 13:42:30 -0000, locale=es; path=/, _session_id2=6572b8fb3ffad898f636a47719335bb9; path=/; expires=Fri, 12 May 2017 19:42:31 -0000; HttpOnly
-content-length: 53471
+x-runtime: 0.305516
+set-cookie: csid=BAhJIhg1NDYtMzcwMDc2MC0yMTk5MDE2BjoGRVQ%3D--ed272ec4189b42672b59c890e9a268059af2664e; path=/; expires=Sun, 17 May 2037 05:43:15 -0000, locale=es; path=/, _session_id2=65192526377bb44448fcdb15eb9b1f6a; path=/; expires=Wed, 17 May 2017 11:43:16 -0000; HttpOnly
+content-length: 53758
 -content-encoding: gzip
 content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTVFQwsA&id=977162523
 -varied-user-agent: Python-httplib2/0.10.3 (gzip)
@@ -47,7 +47,7 @@ content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTV
   <id type="integer">865</id>
   <isbn>0061122416</isbn>
   <isbn13>9780061122415</isbn13>
-  <text_reviews_count type="integer">44775</text_reviews_count>
+  <text_reviews_count type="integer">44836</text_reviews_count>
   <title>The Alchemist</title>
   <title_without_series>The Alchemist</title_without_series>
   <image_url>https://images.gr-assets.com/books/1483412266m/865.jpg</image_url>
@@ -62,7 +62,7 @@ content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTV
   <publication_year>1993</publication_year>
   <publication_month>5</publication_month>
   <average_rating>3.81</average_rating>
-  <ratings_count>1348164</ratings_count>
+  <ratings_count>1350749</ratings_count>
   <description>Paulo Coelho's enchanting novel has inspired a devoted following around the world. This story, dazzling in its powerful simplicity and inspiring wisdom, is about an Andalusian shepherd boy named Santiago who travels from his homeland in Spain to the Egyptian desert in search of a treasure buried in the Pyramids. Along the way he meets a Gypsy woman, a man who calls himself king, and an alchemist, all of whom point Santiago in the direction of his quest. No one knows what the treasure is, or if Santiago will be able to surmount the obstacles along the way. But what starts out as a journey to find worldly goods turns into a discovery of the treasure found within. Lush, evocative, and deeply humane, the story of Santiago is an eternal testament to the transforming power of our dreams and the importance of listening to our hearts.</description>
 <authors>
 <author>
@@ -76,9 +76,9 @@ content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTV
 <![CDATA[https://images.gr-assets.com/authors/1201840056p2/566.jpg]]>
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/566.Paulo_Coelho]]></link>
-<average_rating>3.72</average_rating>
-<ratings_count>2124981</ratings_count>
-<text_reviews_count>96430</text_reviews_count>
+<average_rating>3.73</average_rating>
+<ratings_count>2128504</ratings_count>
+<text_reviews_count>96580</text_reviews_count>
 </author>
 </authors>
   <published>1993</published>
@@ -96,7 +96,7 @@ content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTV
         </read_status>
     </read_statuses>
   <rating>1</rating>
-  <votes>81</votes>
+  <votes>82</votes>
   <spoiler_flag>false</spoiler_flag>
   <spoilers_state>none</spoilers_state>
   
@@ -104,11 +104,11 @@ content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTV
 <shelves>
   <shelf name="read" exclusive="true" />
 
-    <shelf name="postliterate-fiction" exclusive="false" review_shelf_id="1592547578" sortable="false" />
+    <shelf name="subterranean" exclusive="false" review_shelf_id="1592547618" sortable="false" />
     <shelf name="don-t-read-it" exclusive="false" review_shelf_id="1592547454" sortable="false" />
+    <shelf name="postliterate-fiction" exclusive="false" review_shelf_id="1592547578" sortable="false" />
     <shelf name="monster-mash-of-a-mess" exclusive="false" review_shelf_id="1592547511" sortable="false" />
     <shelf name="so-bad-it-hurts" exclusive="false" review_shelf_id="1592547599" sortable="false" />
-    <shelf name="subterranean" exclusive="false" review_shelf_id="1592547618" sortable="false" />
 </shelves>
   <recommended_for></recommended_for>
   <recommended_by></recommended_by>
@@ -123,8 +123,8 @@ content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTV
 
   
 
-  <comments_count>52</comments_count>
-    <comments start="1" end="50" total="52">
+  <comments_count>51</comments_count>
+    <comments start="1" end="50" total="51">
         <comment>
   <id>157584534</id>
   <body><![CDATA[High five, Lisa!]]></body>
@@ -770,29 +770,6 @@ content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTV
 </comment>
 
         <comment>
-  <id>157655895</id>
-  <body><![CDATA[agreed Michael.]]></body>
-  
-  <user>
-    <id>27843908</id>
-    <name>david </name>
-    <display_name>david </display_name>
-
-    <location></location>
-
-    <link><![CDATA[https://www.goodreads.com/user/show/27843908-david]]></link>
-
-    <image_url><![CDATA[https://images.gr-assets.com/users/1466706229p3/27843908.jpg]]></image_url>
-    <small_image_url><![CDATA[https://images.gr-assets.com/users/1466706229p2/27843908.jpg]]></small_image_url>
-    <has_image>true</has_image>
-
-  </user>
-
-  <created_at>Thu Oct 06 04:19:30 -0700 2016</created_at>
-  <updated_at>Thu Oct 06 04:19:30 -0700 2016</updated_at>
-</comment>
-
-        <comment>
   <id>157658286</id>
   <body><![CDATA[<i>Ivana wrote: "you're so funny:)"</i><br /><br />Hello Ivana! I think being funny is a defence mechanism I have developed as an effect of being incredibly clumsy! As I am very likely to end up in embarrassing situations all the time, it is a survival skill to be the first one to joke about it ... ;-)]]></body>
   
@@ -1273,6 +1250,29 @@ content-location: https://www.goodreads.com/review/show.xml?key=2uQMlznVEwfI4YTV
 
   <created_at>Fri Mar 10 03:49:09 -0800 2017</created_at>
   <updated_at>Fri Mar 10 03:49:09 -0800 2017</updated_at>
+</comment>
+
+        <comment>
+  <id>163751873</id>
+  <body><![CDATA[<i>Alexandra wrote: ":D great review, nasty (I think this is the correct English word German:fies Austrian: pöhse) but Coelho deserves this all :D"</i><br /><br />Thanks, Alexandra! I tried really hard to treat him softly, but he simply offers too much for my sarcastic sense of humour. Irresistible!]]></body>
+  
+  <user>
+    <id>32532774</id>
+    <name>Lisa</name>
+    <display_name>Lisa</display_name>
+
+    <location>Sweden</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32532774-lisa]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1480492067p3/32532774.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1480492067p2/32532774.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <created_at>Fri Mar 10 03:50:39 -0800 2017</created_at>
+  <updated_at>Fri Mar 10 03:50:39 -0800 2017</updated_at>
 </comment>
 
     </comments>
