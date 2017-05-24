@@ -60,5 +60,24 @@ nodos_amigos = obtener_nodos_comunidades(comunidades_amigos)
 with open('nodos_amigos.txt', 'wb') as handle:
     pickle.dump(nodos_amigos, handle, protocol= pickle.HIGHEST_PROTOCOL)
 
-#with open('nodos_amigos.txt', 'rb') as handle :
-#    Var = pickle.load(handle)
+nodos_followers = obtener_nodos_comunidades(comunidades_followers)
+with open('nodos_followers.txt', 'wb') as handle:
+    pickle.dump(nodos_followers, handle, protocol= pickle.HIGHEST_PROTOCOL)
+
+
+with open('nodos_amigos.txt', 'rb') as handle :
+    nodos_amigos = pickle.load(handle)
+    
+with open('nodos_followers.txt', 'rb') as handle :
+    nodos_followers = pickle.load(handle)
+
+def eliminar_clusters_pequenos(clusters):
+    lista_nueva_clusters = [] 
+    
+    for cluster in clusters:
+         if len(cluster) >1:
+             lista_nueva_clusters.append(cluster)
+    return lista_nueva_clusters
+    
+clusters_amigos = eliminar_clusters_pequenos(nodos_amigos)
+clusters_followers = eliminar_clusters_pequenos(nodos_followers)
