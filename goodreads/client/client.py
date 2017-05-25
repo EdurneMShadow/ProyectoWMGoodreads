@@ -58,6 +58,20 @@ class Client:
         goodreads_request = GoodreadsRequest("book/title.xml", query_dict, self)
         response = goodreads_request.request()
         return Book(response['book'])
+    
+    def get_books_user(self, user_id):
+        if not self.session:
+            raise GoodreadsSessionError("No authenticated session.")
+        books_user = []                
+        page = 1
+        resp = self.session.get("/review/list.xml",{'v': 2, 'id': user_id, 'page':page})
+        while resp['reviews']['@end'] != '0':
+            print(page)
+            for i in range(len(resp['reviews']['review'])):
+                books_user.append(list(resp['reviews']['review'][i]['book']['id'].values())[1])
+            page+=1
+            resp = self.session.get("/review/list.xml",{'v': 2, 'id': user_id, 'page':page})
+        return books_user
 
     def author_by_id(self, **query_dict):
         """

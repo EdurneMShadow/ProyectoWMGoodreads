@@ -1,31 +1,30 @@
-from igraph import *
+#from igraph import *
 
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
-import cairo
+#import cairo
+import pickle
 #import myigraph as myg
 
 # ### Cargar grafo de usuarios
-
-import pickle
 
 g = Graph.Read_GML('grafo_4capas.gml')
 f = Graph.Read_GML('grafo_followers_3capas.gml')
 
 #pintar grafo de amigos
 myg._plot(g,filename='usuarios.png')
-print 'He terminado'
+print ('He terminado')
 
 myg._plot(g,filename='followers.png')
-print 'He terminado'
+print ('He terminado')
 
 #Número de nodos y aristas
 def analizarValidezGrafo(g):
     nodos = g.vcount()
-    print 'Número de nodos: ' + str(nodos)
+    print ('Número de nodos: ' + str(nodos))
     aristas = g.ecount()
-    print 'Número de aristas: ' + str(aristas)
+    print ('Número de aristas: ' + str(aristas))
     
     #Cálculo de la componente conexa
     cc = g.clusters(mode=STRONG)
@@ -35,12 +34,12 @@ def analizarValidezGrafo(g):
             max = len(i)
             nodos = i
             
-    print max
-    print nodos
+    print (max)
+    print (nodos)
     
     #Cálculo de la densidad del grafo
     d = g.density(loops=False)
-    print d
+    print (d)
 
 '''Detección de comunidades con el algoritmo de Girvan Newman'''
 comunidades_amigos = Graph.as_undirected(g).community_multilevel(weights=None, return_levels=False)
