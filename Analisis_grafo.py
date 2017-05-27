@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pickle
 import time as t
+import copy
 
 '''Cargar grafo de usuarios'''
 def cargar_grafos():
@@ -79,37 +80,58 @@ def eliminar_clusters_vacios(clusters):
             copia_clusters.remove(i)
     return copia_clusters
 
-def compare_books_misma_comunidad(comunidad,client):
-    df = pd.DataFrame(columns=['Usuario_01','Usuario_02','N_libros_comunes','% de U01','% de U01','Misma_comunidad'])
+def compare_books(comunidades,client):
+    df = pd.DataFrame(columns=['Usuario_01','Usuario_02','N_libros_comunes','% de U01','% de U02','Misma_comunidad'])
     cont = 0
-    for i in range(len(comunidad)):
-        user = comunidad[i]
-        for j in range(len(comunidad)):           
-            if j>i:
-                fila = []
-                fila.append(user)
-                user_2 = comunidad[j]
-                fila.append(user_2)
-                books_2 = set(client.get_books_user(user_2))
-                if len(books) == 0 or len(books_2) == 0:
-                    fila.append(0)
-                    fila.append(0)
-                    fila.append(0)
-                    fila.append('si')                  
-                else:
-                    comunes = books & books_2
-                    fila.append(len(comunes))
-                    fila.append(len(comunes)/len(books)*100)
-                    fila.append(len(comunes)/len(books_2)*100)
-                    fila.append('si')
-                df.loc[cont] = fila
-                cont+=1
+    copia_comunidades = copy.deepcopy(comunidades)
+    libros = {}
+    eliminados = 0
+    for i in range(len(comunidades)):
+        for j in range(len(comunidades[i])):
+            try:
+                books = set(client.get_books_user(comunidades[i][j]))
+                libros[comunidades[i][j]] = books
+            except Exception:
+                copia_comunidades[i].remove(comunidades[i][j])
+                eliminados+=1
+    print('Nodos eliminados: ' + str(eliminados))
+    for i in range(len(copia_comunidades)):
+        print('i: ' + str(i))
+        for ii in range(i, len(copia_comunidades)):
+            print('ii: ' + str(ii))
+            for j in range(len(copia_comunidades[i])):
+                print('j: ' + str(j))
+                indice_inicial = 0
+                if i == ii:
+                    indice_inicial = j+1
+                for jj in range(indice_inicial,len(copia_comunidades[ii])):
+                    print('jj: ' + str(jj))
+                    fila = []
+                    fila.append(int(copia_comunidades[i][j]))
+                    fila.append(int(copia_comunidades[ii][jj]))
+                    books = libros[str(copia_comunidades[i][j])]
+                    books_2 = libros[str(copia_comunidades[ii][jj])]
+                    if len(books) == 0 or len(books_2) == 0:
+                        fila.append(0)
+                        fila.append(0)
+                        fila.append(0)
+                    else:
+                        comunes = books & books_2
+                        fila.append(len(comunes))
+                        fila.append(len(comunes)/len(books)*100)
+                        fila.append(len(comunes)/len(books_2)*100)
+                    if i == ii:
+                        fila.append('si')  
+                    else:
+                        fila.append('no') 
+                    df.loc[cont] = fila
+                    cont+=1
     return df
   
 def compare_books_comunidades_distintas(comunidades, client):
-    df = pd.DataFrame(columns=['Usuario_01','Usuario_02','N_libros_comunes','% de U01','% de U01','Misma_comunidad'])
+    df = pd.DataFrame(columns=['Usuario_01','Usuario_02','N_libros_comunes','% de U01','% de U02','Misma_comunidad'])
     cont = 0
-    for i in comunidades:
+    for i in range(len(comunidades)):
         for j in comunidades:
             if i > j:
                 for ii in i:
@@ -134,6 +156,13 @@ def compare_books_comunidades_distintas(comunidades, client):
                         cont+=1
                         
     return df
+
+def compare_books_total(comunidades, client):
+    frames = []
+    for i in comunidades:
+        frames.append(compare_books_misma_comunidad(i,client))
+    df = pd.concat(frames)
+
 
 #Detección de comunidades
 comunidades_amigos = Graph.as_undirected(g).community_multilevel(weights=None, return_levels=False)
