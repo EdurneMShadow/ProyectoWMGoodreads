@@ -51,6 +51,7 @@ class grafo_amigos:
             t.sleep(1)
         return users
     
+    
     '''De todos los usuarios obtenidos previamente, obtener 60 de sus amigos. Sirve para obtener los nodos
         de la segunda capa del grafo. '''        
     def get_amigos_usuarios(self, lista_usuarios, client):

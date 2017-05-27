@@ -4,6 +4,7 @@ import datetime
 import urllib
 import webbrowser
 import xml.etree.ElementTree as ET
+import time as t
 #from sys import maxint as MAX_INT
 
 # Local imports
@@ -66,11 +67,14 @@ class Client:
         page = 1
         resp = self.session.get("/review/list.xml",{'v': 2, 'id': user_id, 'page':page})
         while resp['reviews']['@end'] != '0':
-            print(page)
-            for i in range(len(resp['reviews']['review'])):
-                books_user.append(list(resp['reviews']['review'][i]['book']['id'].values())[1])
+            if int(resp['reviews']['@total']) - int(resp['reviews']['@start']) == 0:
+                 books_user.append(list(resp['reviews']['review']['book']['id'].values())[1])
+            else:
+                for i in range(len(resp['reviews']['review'])):
+                    books_user.append(list(resp['reviews']['review'][i]['book']['id'].values())[1])
             page+=1
             resp = self.session.get("/review/list.xml",{'v': 2, 'id': user_id, 'page':page})
+            t.sleep(1)
         return books_user
 
     def author_by_id(self, **query_dict):
